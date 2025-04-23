@@ -1,0 +1,93 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bb4378e92818531b58f24c4",
+                        "video": "5bb43762c3271f04e44051f2",
+                        "audio_description": "5bb43762c3271f04e44051f1",
+                        "user": "5bb3b98fc3271f04e44051b0",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 30.37170068027211,
+                        "duration": 30.37170068027211,
+                        "file_name": "ISQfQ6XmwQo_5bb4378e92818531b58f24c4.wav",
+                        "file_size_bytes": 5357612,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ISQfQ6XmwQo",
+                        "created_at": 20181003032918,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194b0a8b0287abc9cae726",
+                                "sentence": " Tampa skyline at dawn. Text on screen. When you enter the university of tampa doctor of nursing practice program, you transform the past",
+                                "start_time": 1.64,
+                                "end_time": 10.07
+                            },
+                            {
+                                "_id": "5e194b0a8b0287abc9cae725",
+                                "sentence": " archival images of you ti's plant hall text onscreen the present",
+                                "start_time": 10.25,
+                                "end_time": 15.33
+                            },
+                            {
+                                "_id": "5e194b0a8b0287abc9cae724",
+                                "sentence": " colour images of contemporary students studying and practicing clinical yps text on screen and the future text on screen doctor of nursing practice. Welcome to the legacy you tease logo doctor of nursing practice logo.",
+                                "start_time": 15.33,
+                                "end_time": 29.97
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bb43762c3271f04e44051f1",
+                "video": "5bb43762c3271f04e44051f2",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bb3b98fc3271f04e44051b0",
+                    "email": "selambertatut2@gmail.com",
+                    "name": "Susu Lamb",
+                    "given_name": "Susu",
+                    "picture": "https://lh5.googleusercontent.com/-iy90qwLdbRI/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXQIgZ5vmHnmWRrAj7m3-XT_ID-PA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102833170128563604177",
+                    "last_login": 20181003000137,
+                    "token": "5e6285e7ebd56fb66174275021acab8e677282b6da7957820c62b686ab9483dc",
+                    "__v": 0,
+                    "updated_at": 20181003000137,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181003032834,
+                "updated_at": 20181003231801,
+                "notes": "Tampa skyline at dawn. Text on screen: When you enter the University of Tampa. Doctor of Nursing Practice program you transform the past. Archival images of UT\u2019s Plant Hall. Text on screen: the present. Color images of contemporary students studying and practicing clinicals. Text on screen: and the future. Text on screen: Doctor of Nursing Practice. Welcome to the legacy. UT's logo. Doctor of nursing practice logo.",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5bb43762c3271f04e44051f2",
+        "title": "DNP Student Welcome with Descriptive Audio",
+        "description": "A welcome video for DNP students that included an option to hear descriptive audio.",
+        "youtube_id": "ISQfQ6XmwQo",
+        "created_at": 20181003032834,
+        "updated_at": 20181003032918,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 32
+    }
+}

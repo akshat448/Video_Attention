@@ -1,0 +1,187 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5746e13dfd851a4086",
+                        "audio_description": "58e7cf3046e13dfd851a2342",
+                        "created_at": 20150425105314,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425105314,
+                        "file_name": "14299843941011.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1927,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13186,
+                        "video": "58e7cf2846e13dfd851a1b9a",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a561168423183b465b4e",
+                                "sentence": " A man in a jacket where in a backwards facing hat, and a woman in a gray hooded sweatshirt approach each other outside in front of a large hedge, which is slightly shorter than the man.",
+                                "start_time": 0.56,
+                                "end_time": 11.32
+                            },
+                            {
+                                "_id": "5e30a561168423183b465b4d",
+                                "sentence": " They have a conversation in American sign language.",
+                                "start_time": 11.33,
+                                "end_time": 14.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5746e13dfd851a4087",
+                        "audio_description": "58e7cf3046e13dfd851a2342",
+                        "created_at": 20150425105856,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425105856,
+                        "file_name": "14299847363921.wav",
+                        "start_time": 4.462,
+                        "legacy_video_id": 1927,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13188,
+                        "video": "58e7cf2846e13dfd851a1b9a",
+                        "end_time": 27.992,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f888d6c9183c280f51",
+                                "sentence": " Hi",
+                                "start_time": 0.84,
+                                "end_time": 1.8
+                            },
+                            {
+                                "_id": "5e30a5f888d6c9183c280f50",
+                                "sentence": " hello.",
+                                "start_time": 1.8,
+                                "end_time": 2.47
+                            },
+                            {
+                                "_id": "5e30a5f888d6c9183c280f4f",
+                                "sentence": " How was your weekend?",
+                                "start_time": 2.47,
+                                "end_time": 3.59
+                            },
+                            {
+                                "_id": "5e30a5f888d6c9183c280f4e",
+                                "sentence": " Good?",
+                                "start_time": 3.77,
+                                "end_time": 4.7
+                            },
+                            {
+                                "_id": "5e30a5f888d6c9183c280f4d",
+                                "sentence": " How was yours? Good. What did you do? I went skiing, I went, snowboarding!",
+                                "start_time": 4.7,
+                                "end_time": 10.27
+                            },
+                            {
+                                "_id": "5e30a5f888d6c9183c280f4c",
+                                "sentence": " Cool? How's the weather there?",
+                                "start_time": 10.27,
+                                "end_time": 12.34
+                            },
+                            {
+                                "_id": "5e30a5f888d6c9183c280f4b",
+                                "sentence": " The weather was good. A little hot. Where did you go",
+                                "start_time": 12.34,
+                                "end_time": 16.46
+                            },
+                            {
+                                "_id": "5e30a5f888d6c9183c280f4a",
+                                "sentence": " garbage?",
+                                "start_time": 16.46,
+                                "end_time": 17.7
+                            },
+                            {
+                                "_id": "5e30a5f888d6c9183c280f49",
+                                "sentence": " Maybe you and I could go there together",
+                                "start_time": 18.49,
+                                "end_time": 20.94
+                            },
+                            {
+                                "_id": "5e30a5f888d6c9183c280f48",
+                                "sentence": " right now.",
+                                "start_time": 20.94,
+                                "end_time": 21.81
+                            },
+                            {
+                                "_id": "5e30a5f888d6c9183c280f47",
+                                "sentence": " Yeah, come on.",
+                                "start_time": 21.81,
+                                "end_time": 23.08
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2342",
+                "status": "published",
+                "legacy_video_id": 1927,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1b9a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "asl",
+            "american sign language",
+            "sign language",
+            "signing",
+            "gcmc",
+            "mc",
+            "marshall center",
+            "george c. marshall center",
+            "education",
+            "conversaion",
+            "hello",
+            "hi"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b9a",
+        "description": "",
+        "youtube_id": "1qM0p24SNhc",
+        "views": 0,
+        "created_at": 20150425105201,
+        "title": "ASL Instructionals - Casual Conversation",
+        "legacy_video_id": 1927,
+        "updated_at": 20150425105858,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 36
+    }
+}

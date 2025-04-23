@@ -1,0 +1,65 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5e7ab5744415bf48480faa37",
+                        "video": "5e7a76df467e725fbe0d1a0d",
+                        "audio_description": "5e7a76df467e725fbe0d1a0c",
+                        "user": "5e7a76884415bf48480faa2d",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 15.274666666666667,
+                        "duration": 15.274666666666667,
+                        "file_name": "x9FzWnWW95U_5e7ab5744415bf48480faa37.wav",
+                        "file_size_bytes": 2932780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/x9FzWnWW95U",
+                        "created_at": 20200325013548,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5e7a76df467e725fbe0d1a0c",
+                "video": "5e7a76df467e725fbe0d1a0d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e7a76884415bf48480faa2d",
+                    "email": "davidywjoh@gmail.com",
+                    "name": "David Joh",
+                    "given_name": "David",
+                    "picture": "https://lh3.googleusercontent.com/a-/AOh14GjfGFQrDkLAs-G0Mw_0GSpnqb8XjIQt3N5BCkqydw=s96-c",
+                    "locale": "en",
+                    "google_user_id": "116966673061093833553",
+                    "last_login": 20200420230447,
+                    "token": "f793f73a26f4e8b7fe29185737d170257c8354cb2481e98b2e46dd32a78754f3",
+                    "__v": 0,
+                    "updated_at": 20200420230447
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200324210847,
+                "updated_at": 20200324210847,
+                "notes": "a woman in a striped purple shirt, purple hat, and flashy black glasses is having a conversation with an old man with a red button up shirt with patterns of skulls. when suddenly he gets up slightly and farts. and then it enters a new scene where a blonde woman wearing a purple tank tok is sitting on a bed.",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5e7a76df467e725fbe0d1a0d",
+        "title": "robin williams fart",
+        "description": "farting Monty python 1999",
+        "youtube_id": "x9FzWnWW95U",
+        "created_at": 20200324210847,
+        "updated_at": 20200325013548,
+        "views": 0,
+        "__v": 0
+    }
+}

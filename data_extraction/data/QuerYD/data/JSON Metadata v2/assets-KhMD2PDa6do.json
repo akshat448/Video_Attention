@@ -1,0 +1,392 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59af87c2c6c4802622d9bfa8",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "Lego stop action",
+                        "playback_type": "extended",
+                        "start_time": 0.15,
+                        "end_time": 0.15,
+                        "duration": 3.5294331065759637,
+                        "file_name": "KhMD2PDa6do_59af87c2c6c4802622d9bfa8.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906052938,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61ce",
+                                "sentence": " This is a lego stop action animation.",
+                                "start_time": 0.43,
+                                "end_time": 3.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59af881fc6c4802622d9bfaa",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "13 Lego people",
+                        "playback_type": "inline",
+                        "start_time": 4.830996,
+                        "end_time": 7.6173905578231285,
+                        "duration": 2.786394557823129,
+                        "file_name": "KhMD2PDa6do_59af881fc6c4802622d9bfaa.wav",
+                        "file_size_bytes": 491564,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906053111,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61fd",
+                                "sentence": " There are thirteen lego students.",
+                                "start_time": 0.16,
+                                "end_time": 2.59
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59af8860c6c4802622d9bfac",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "Teacher lego man",
+                        "playback_type": "inline",
+                        "start_time": 8.687893,
+                        "end_time": 11.567167376417235,
+                        "duration": 2.8792743764172335,
+                        "file_name": "KhMD2PDa6do_59af8860c6c4802622d9bfac.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906053216,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c6201",
+                                "sentence": " He is a lego man holding a pointing stick.",
+                                "start_time": 0.28,
+                                "end_time": 2.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59af88b9c6c4802622d9bfad",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "Goal is a flag",
+                        "playback_type": "extended",
+                        "start_time": 12.985023,
+                        "end_time": 12.985023,
+                        "duration": 3.9938321995464854,
+                        "file_name": "KhMD2PDa6do_59af88b9c6c4802622d9bfad.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906053345,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61c8",
+                                "sentence": " The goal is represented by a black and white checkered flag.",
+                                "start_time": 0.13,
+                                "end_time": 4.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59af88fec6c4802622d9bfae",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "Path is a Lego street",
+                        "playback_type": "extended",
+                        "start_time": 18.9677,
+                        "end_time": 18.9677,
+                        "duration": 6.222947845804988,
+                        "file_name": "KhMD2PDa6do_59af88fec6c4802622d9bfae.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906053454,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f5b",
+                                "sentence": " The path is lego street to the flag. And the lego students moved down the path toward the flag.",
+                                "start_time": 0.51,
+                                "end_time": 5.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59af893cc6c4802622d9bfaf",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "Student off the path",
+                        "playback_type": "extended",
+                        "start_time": 31.347719,
+                        "end_time": 31.347719,
+                        "duration": 6.315827664399093,
+                        "file_name": "KhMD2PDa6do_59af893cc6c4802622d9bfaf.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906053556,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61e0",
+                                "sentence": " One student leaves the lego path, and the lego teacher guides the student back to the lego path.",
+                                "start_time": 0.24,
+                                "end_time": 6.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59af8985c6c4802622d9bfb0",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "Lego student using wheelchair blocked",
+                        "playback_type": "extended",
+                        "start_time": 40.111112999999996,
+                        "end_time": 40.111112999999996,
+                        "duration": 5.294149659863946,
+                        "file_name": "KhMD2PDa6do_59af8985c6c4802622d9bfb0.wav",
+                        "file_size_bytes": 933932,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906053709,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c6200",
+                                "sentence": " A lego student using a wheelchair is blocked from the flag by lego steps.",
+                                "start_time": 0.07,
+                                "end_time": 4.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59af8a60c6c4802622d9bfb1",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "UDL is spelled out",
+                        "playback_type": "extended",
+                        "start_time": 43.803278,
+                        "end_time": 43.803278,
+                        "duration": 3.900952380952381,
+                        "file_name": "KhMD2PDa6do_59af8a60c6c4802622d9bfb1.wav",
+                        "file_size_bytes": 688172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906054048,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61be",
+                                "sentence": " U d l is spelled out in lego zine toy tires.",
+                                "start_time": 0.25,
+                                "end_time": 3.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59af8a96c6c4802622d9bfb2",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "Lego people in front of house",
+                        "playback_type": "extended",
+                        "start_time": 48.490329,
+                        "end_time": 48.490329,
+                        "duration": 3.9938321995464854,
+                        "file_name": "KhMD2PDa6do_59af8a96c6c4802622d9bfb2.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906054142,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c6204",
+                                "sentence": " Three lego people stand in front of a lego house.",
+                                "start_time": 0.32,
+                                "end_time": 3.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59af8ae0c6c4802622d9bfb4",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "Interests and abilities",
+                        "playback_type": "extended",
+                        "start_time": 51.90211,
+                        "end_time": 51.90211,
+                        "duration": 6.780226757369615,
+                        "file_name": "KhMD2PDa6do_59af8ae0c6c4802622d9bfb4.wav",
+                        "file_size_bytes": 1196076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906054256,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0daf4fda5410d78c61bc",
+                                "sentence": " There is a lego student seated in a wheelchair and another lego student build a structure at lego said.",
+                                "start_time": 0.06,
+                                "end_time": 6.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59af8b64c6c4802622d9bfb6",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "Fixing car and no step barrier",
+                        "playback_type": "extended",
+                        "start_time": 57.494016,
+                        "end_time": 57.494016,
+                        "duration": 10.12390022675737,
+                        "file_name": "KhMD2PDa6do_59af8b64c6c4802622d9bfb6.wav",
+                        "file_size_bytes": 1785900,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906054508,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175ab57b5156f523f99d41",
+                                "sentence": " There is a lego student fixing a lego car.",
+                                "start_time": 0.3,
+                                "end_time": 3.14
+                            },
+                            {
+                                "_id": "5e175ab57b5156f523f99d40",
+                                "sentence": " The lego student using a wheelchair is able to reach the flag with his peers because the barrier is removed from the path.",
+                                "start_time": 3.22,
+                                "end_time": 9.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59af8be5c6c4802622d9bfb8",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "Three paths",
+                        "playback_type": "inline",
+                        "start_time": 59.527246,
+                        "end_time": 62.59228001360544,
+                        "duration": 3.0650340136054424,
+                        "file_name": "KhMD2PDa6do_59af8be5c6c4802622d9bfb8.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906054717,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61e9",
+                                "sentence": " Now, there are three paths to the flag.",
+                                "start_time": 0.34,
+                                "end_time": 3.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59af8c1ec6c4802622d9bfb9",
+                        "video": "59af8741c6c4802622d9bfa7",
+                        "audio_description": "59af8741c6c4802622d9bfa6",
+                        "user": "59af80d3c6c4802622d9bfa4",
+                        "label": "Different paths to same goal",
+                        "playback_type": "extended",
+                        "start_time": 74.364242,
+                        "end_time": 74.364242,
+                        "duration": 6.501587301587302,
+                        "file_name": "KhMD2PDa6do_59af8c1ec6c4802622d9bfb9.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KhMD2PDa6do",
+                        "created_at": 20170906054814,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61c1",
+                                "sentence": " Different lego students take the different paths, but they all reach the same goal of the flag.",
+                                "start_time": 0.14,
+                                "end_time": 6.27
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59af8741c6c4802622d9bfa6",
+                "video": "59af8741c6c4802622d9bfa7",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59af80d3c6c4802622d9bfa4",
+                    "email": "michelle.bonati@gmail.com",
+                    "name": "Michelle Bonati",
+                    "given_name": "Michelle",
+                    "picture": "https://lh5.googleusercontent.com/-M-_UE81Hl94/AAAAAAAAAAI/AAAAAAAAAZs/8Z5iGaTqMKI/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111900618242844052576",
+                    "last_login": 20201007202035,
+                    "token": "6b0c299c3ba465b6c5efbf6e6f315d80085b91a18fc59419ae8518dafcf968aa",
+                    "__v": 0,
+                    "updated_at": 20201007202035,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170906052729,
+                "updated_at": 20190906233528,
+                "notes": "*Lego stop action animation\r\n\r\nThere are 13 Lego students\r\n\r\nHe is a Lego man holding a pointing stick.\r\n\r\n*The goal is represented by a black and white checkered flag.\r\n\r\nThe path is a Lego street to the flag and the Lego students move down the path toward the flag.\r\n\r\n*One student leaves the Lego street and the Lego teacher guides the student back to the Lego street.\r\n\r\n*A Lego student using a wheelchair is blocked from the flag by Lego steps.  \r\n\r\n* UDL is spelled out in Legos and toy tires\r\n\r\n\r\n*Three Lego people stand in front of a Lego house\r\n\r\n*The Lego student seated in a wheelchair \r\n\r\n*Another Lego student builds a structure out of Legos and a different Lego student is fixing a Lego car.\r\n\r\n\r\nThe Lego student using a wheelchair is able to reach the flag with his peers because the barrier is removed from the path.\r\n\r\n\r\nThe Lego students are away from the flag again, but now there are three different paths to reach the flag and the students move along the different paths and reach the flag. \r\n",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 9,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "UDL",
+            "Lego",
+            "Universal Design For Learning",
+            "Animation"
+        ],
+        "custom_tags": [],
+        "_id": "59af8741c6c4802622d9bfa7",
+        "title": "Universal Design for Learning Explained with Lego",
+        "description": "This stop motion video by Nicole Agois explains UDL principles using Lego. A perfect explanation for staff, students and parents. Generously shared with the SOOC UDL & Apps class 2015",
+        "youtube_id": "KhMD2PDa6do",
+        "created_at": 20170906052729,
+        "updated_at": 20170906054814,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 81
+    }
+}

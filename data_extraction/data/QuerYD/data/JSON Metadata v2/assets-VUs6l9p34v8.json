@@ -1,0 +1,184 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5ab9",
+                        "audio_description": "58e7cf3646e13dfd851a264c",
+                        "created_at": 20160817124600,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817124600,
+                        "file_name": "14714631607321.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2641,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23767,
+                        "video": "58e7cf2946e13dfd851a1e64",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 35.55,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44223979f74cbc7c082bf0",
+                                "sentence": " A young female student stands at a table with a tablet on a stand in front of her.",
+                                "start_time": 0.92,
+                                "end_time": 6.44
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082bef",
+                                "sentence": " Three adult women are with her, one directly behind her, one to her left",
+                                "start_time": 6.88,
+                                "end_time": 12.41
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082bee",
+                                "sentence": " and one standing on the right.",
+                                "start_time": 12.41,
+                                "end_time": 14.52
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082bed",
+                                "sentence": " The tablet on the table has a drawing application open.",
+                                "start_time": 14.6,
+                                "end_time": 18.96
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082bec",
+                                "sentence": " The application has a black background in bright white lines. When drawn on,",
+                                "start_time": 18.96,
+                                "end_time": 24.12
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082beb",
+                                "sentence": " the student leans back into the woman directly behind her,",
+                                "start_time": 24.45,
+                                "end_time": 27.82
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082bea",
+                                "sentence": " resting her head on her chest, while the woman standing on the right resets the drawing application.",
+                                "start_time": 27.82,
+                                "end_time": 33.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5aba",
+                        "audio_description": "58e7cf3646e13dfd851a264c",
+                        "created_at": 20160817124721,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817124721,
+                        "file_name": "14714632418461.wav",
+                        "start_time": 19.822,
+                        "legacy_video_id": 2641,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23768,
+                        "video": "58e7cf2946e13dfd851a1e64",
+                        "end_time": 19.822,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44288dc26fa0bc796fd4d7",
+                                "sentence": " The student leans forward and starts drawing on the tablet, while the women in the room watch her.",
+                                "start_time": 0.38,
+                                "end_time": 6.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5abb",
+                        "audio_description": "58e7cf3646e13dfd851a264c",
+                        "created_at": 20160817124847,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817124847,
+                        "file_name": "14714633273741.wav",
+                        "start_time": 28.331,
+                        "legacy_video_id": 2641,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23769,
+                        "video": "58e7cf2946e13dfd851a1e64",
+                        "end_time": 28.331,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 18.41,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e442700c26fa0bc796fd422",
+                                "sentence": " The student stops playing with a tablet and looks at the woman to her left.",
+                                "start_time": 1.08,
+                                "end_time": 5.56
+                            },
+                            {
+                                "_id": "5e442700c26fa0bc796fd421",
+                                "sentence": " The woman behind the student pats the student on the back a few times.",
+                                "start_time": 5.81,
+                                "end_time": 10.48
+                            },
+                            {
+                                "_id": "5e442700c26fa0bc796fd420",
+                                "sentence": " Then the student leans back into the woman behind her, and the woman embraces her.",
+                                "start_time": 10.88,
+                                "end_time": 16.61
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a264c",
+                "status": "published",
+                "legacy_video_id": 2641,
+                "legacy_user_id": 3125,
+                "video": "58e7cf2946e13dfd851a1e64",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2637",
+                    "name": "Jhogan13",
+                    "google_user_id_token": "",
+                    "created_at": 20160504150811,
+                    "updated_at": 20160817114117,
+                    "legacy_user_id": 3125,
+                    "last_login": 0,
+                    "email": "Jhogan13@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e64",
+        "description": "",
+        "youtube_id": "VUs6l9p34v8",
+        "views": 0,
+        "created_at": 20160817124136,
+        "title": "Copy of Bernadette Joint Attention 3",
+        "legacy_video_id": 2641,
+        "updated_at": 20160817124847,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 39
+    }
+}

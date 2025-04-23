@@ -1,0 +1,607 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8146e13dfd851a5eed",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161015172955,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015172955,
+                        "file_name": "14765777955471.wav",
+                        "start_time": 54.17,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3300,
+                        "label": "",
+                        "legacy_audio_clip_id": 25213,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 54.17,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2700",
+                        "transcript": [
+                            {
+                                "_id": "5e45a86ea3885227afb5caa5",
+                                "sentence": " The character phil can be seen dancing up and down a few of the stairs in the staircase.",
+                                "start_time": 0.21,
+                                "end_time": 6.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8146e13dfd851a5eee",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161015173040,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015173040,
+                        "file_name": "14765778402061.wav",
+                        "start_time": 80.427,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3300,
+                        "label": "",
+                        "legacy_audio_clip_id": 25214,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 84.007,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2700",
+                        "transcript": [
+                            {
+                                "_id": "5e45b702a3885227afb5caf9",
+                                "sentence": " Clear, closes the door in phil's face.",
+                                "start_time": 0.04,
+                                "end_time": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8146e13dfd851a5eef",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161015174645,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015174645,
+                        "file_name": "14765788053371.wav",
+                        "start_time": 91.591,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3300,
+                        "label": "",
+                        "legacy_audio_clip_id": 25221,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 93.121,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2700",
+                        "transcript": [
+                            {
+                                "_id": "5e45b66c98b0c327b1e12642",
+                                "sentence": " Modern family.",
+                                "start_time": 0,
+                                "end_time": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8146e13dfd851a5ef0",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161015174933,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015174933,
+                        "file_name": "14765789729901.wav",
+                        "start_time": 85.078,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3300,
+                        "label": "",
+                        "legacy_audio_clip_id": 25222,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 85.078,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 19.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2700",
+                        "transcript": [
+                            {
+                                "_id": "5e45ac4f0269c027b2e188f0",
+                                "sentence": " Opening title sequence showing each of the three families, said star. In modern family,",
+                                "start_time": 0,
+                                "end_time": 5.31
+                            },
+                            {
+                                "_id": "5e45ac4f0269c027b2e188ef",
+                                "sentence": " each family is holding a picture frame with the final shot showing all three families together",
+                                "start_time": 5.31,
+                                "end_time": 11.17
+                            },
+                            {
+                                "_id": "5e45ac4f0269c027b2e188ee",
+                                "sentence": " with claire and phil and their three children holding a picture frame with the title of the show, modern family inside of the frame.",
+                                "start_time": 11.17,
+                                "end_time": 18.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8146e13dfd851a5ef1",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161015175338,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015175338,
+                        "file_name": "14765792184061.wav",
+                        "start_time": 93.644,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3300,
+                        "label": "",
+                        "legacy_audio_clip_id": 25223,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 93.644,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2700",
+                        "transcript": [
+                            {
+                                "_id": "5e47504ce1559904332046c1",
+                                "sentence": " Created by christopher lloyd and steven levitan.",
+                                "start_time": 0,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8146e13dfd851a5ef2",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161015175405,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015175405,
+                        "file_name": "14765792450981.wav",
+                        "start_time": 97.436,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3300,
+                        "label": "",
+                        "legacy_audio_clip_id": 25224,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 97.436,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2700",
+                        "transcript": [
+                            {
+                                "_id": "5e45b19a0269c027b2e18926",
+                                "sentence": " A man in a beard and a black sweater can be seen sitting on a brown couch. He is put in candy and other items into a green sack.",
+                                "start_time": 0.32,
+                                "end_time": 9.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8146e13dfd851a5ef3",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161015175448,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015175448,
+                        "file_name": "14765792886691.wav",
+                        "start_time": 99.044,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3300,
+                        "label": "",
+                        "legacy_audio_clip_id": 25225,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 99.044,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2700",
+                        "transcript": [
+                            {
+                                "_id": "5e45b5a3d2b71527b0ae0a7b",
+                                "sentence": " A tall man wearing a black cape and a black hat walks into the room carrying a young child. She is wearing a white dress and a white bonnet and carrying",
+                                "start_time": 0.49,
+                                "end_time": 13.13
+                            },
+                            {
+                                "_id": "5e45b5a3d2b71527b0ae0a7a",
+                                "sentence": " a stuffed animal in her arms.",
+                                "start_time": 13.13,
+                                "end_time": 15.81
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3846e13dfd851a2701",
+                "status": "published",
+                "legacy_video_id": 2813,
+                "legacy_user_id": 3300,
+                "video": "58e7cf2946e13dfd851a1f10",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3846e13dfd851a2700",
+                    "name": "mkhjroberts",
+                    "google_user_id_token": "",
+                    "created_at": 20161014181744,
+                    "updated_at": 20161015180443,
+                    "legacy_user_id": 3300,
+                    "last_login": 0,
+                    "email": "mkhjroberts@hotmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8246e13dfd851a5fb6",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161031195400,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161031195400,
+                        "file_name": "14779688408331.wav",
+                        "start_time": 28.258,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3321,
+                        "label": "",
+                        "legacy_audio_clip_id": 25640,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 28.258,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2722",
+                        "transcript": [
+                            {
+                                "_id": "5e474cdf776f3e043421de9d",
+                                "sentence": " The mother stands behind the older daughter and waves her finger, signaling to the father that he should not allow the daughter to go out.",
+                                "start_time": 0.25,
+                                "end_time": 8.45
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5fb7",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161031195728,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161031195728,
+                        "file_name": "14779690480801.wav",
+                        "start_time": 77.016,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3321,
+                        "label": "",
+                        "legacy_audio_clip_id": 25644,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 85.71600000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2722",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de155990433204707",
+                                "sentence": " The wife looks frustrated and shuts the door to the bathroom on her husband, leaving him out of the room.",
+                                "start_time": 0.23,
+                                "end_time": 7.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5fb8",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161031195749,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161031195749,
+                        "file_name": "14779690696471.wav",
+                        "start_time": 85.757,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3321,
+                        "label": "",
+                        "legacy_audio_clip_id": 25645,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 93.68700000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2722",
+                        "transcript": [
+                            {
+                                "_id": "5e474acee15599043320468f",
+                                "sentence": " The intro to the tv show. Modern family plays with portraits of each family intertwined into pictures of each other.",
+                                "start_time": 0.17,
+                                "end_time": 7.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5fb9",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161031195832,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161031195832,
+                        "file_name": "14779691125041.wav",
+                        "start_time": 111.833,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3321,
+                        "label": "",
+                        "legacy_audio_clip_id": 25646,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 111.833,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2722",
+                        "transcript": [
+                            {
+                                "_id": "5e474acee15599043320464e",
+                                "sentence": " A second couple of two fathers",
+                                "start_time": 0.53,
+                                "end_time": 3.6
+                            },
+                            {
+                                "_id": "5e474acee15599043320464d",
+                                "sentence": " appear in their family room. One is dressed up in a Halloween costume.",
+                                "start_time": 3.6,
+                                "end_time": 8.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5fba",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161031195931,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161031195931,
+                        "file_name": "14779691712781.wav",
+                        "start_time": 157.517,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3321,
+                        "label": "",
+                        "legacy_audio_clip_id": 25647,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 157.517,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2722",
+                        "transcript": [
+                            {
+                                "_id": "5e474acee155990433204652",
+                                "sentence": " New scene featuring a new family.",
+                                "start_time": 0.23,
+                                "end_time": 3.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8346e13dfd851a6066",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161102053952,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102053952,
+                        "file_name": "14780903920951.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3321,
+                        "label": "",
+                        "legacy_audio_clip_id": 25924,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2722",
+                        "transcript": [
+                            {
+                                "_id": "5e47480ce1559904332045ec",
+                                "sentence": " The character claire, a middle aged blonde woman wearing a blue sweater, talks with her arms folded to her two daughters,",
+                                "start_time": 0.29,
+                                "end_time": 7.75
+                            },
+                            {
+                                "_id": "5e47480ce1559904332045eb",
+                                "sentence": " haley, her older daughter with brown hair in a purple blouse purse, and her younger daughter, Alex, who also has brown hair and glasses.",
+                                "start_time": 7.75,
+                                "end_time": 15.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8346e13dfd851a6067",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161102054204,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102054204,
+                        "file_name": "14780905248561.wav",
+                        "start_time": 17.823,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3321,
+                        "label": "",
+                        "legacy_audio_clip_id": 25925,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 17.823,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2722",
+                        "transcript": [
+                            {
+                                "_id": "5e47472f776f3e043421dcf8",
+                                "sentence": " The character named phil, wearing a striped flannel shirt with a grey shirt underneath, joins his wife and two daughters talking at the bottom of their staircase in the foyer of their home.",
+                                "start_time": 0.82,
+                                "end_time": 11.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8346e13dfd851a6068",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161102054609,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102054609,
+                        "file_name": "14780907694181.wav",
+                        "start_time": 61.278,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3321,
+                        "label": "",
+                        "legacy_audio_clip_id": 25927,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 61.278,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2722",
+                        "transcript": [
+                            {
+                                "_id": "5e47472f776f3e043421dcda",
+                                "sentence": " Claire scored the middle age plumber wearing blue work attire up the staircase, and fill quickly goes up the stairs and dances down them to prove his point",
+                                "start_time": 0,
+                                "end_time": 9.23
+                            },
+                            {
+                                "_id": "5e47472f776f3e043421dcd9",
+                                "sentence": " before following them to the upstairs bathroom.",
+                                "start_time": 9.23,
+                                "end_time": 11.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8346e13dfd851a6069",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161102054914,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102054914,
+                        "file_name": "14780909542951.wav",
+                        "start_time": 93.541,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3321,
+                        "label": "",
+                        "legacy_audio_clip_id": 25928,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 93.541,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2722",
+                        "transcript": [
+                            {
+                                "_id": "5e474730776f3e043421dd16",
+                                "sentence": " The title card, modern family appears was created by christopher lloyd and steven levitan.",
+                                "start_time": 0.01,
+                                "end_time": 5.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8346e13dfd851a606a",
+                        "audio_description": "58e7cf3846e13dfd851a2701",
+                        "created_at": 20161102055314,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102055314,
+                        "file_name": "14780911941021.wav",
+                        "start_time": 163.956,
+                        "legacy_video_id": 2813,
+                        "legacy_user_id": 3321,
+                        "label": "",
+                        "legacy_audio_clip_id": 25930,
+                        "video": "58e7cf2946e13dfd851a1f10",
+                        "end_time": 163.956,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2722",
+                        "transcript": [
+                            {
+                                "_id": "5e474730776f3e043421dd67",
+                                "sentence": " The father, an older man named Jay, wearing a red POLO shirt, looks onto his son manny, around the age 13 wearing a suit, pouring an excess amount of sugar in his coffee.",
+                                "start_time": 0.2,
+                                "end_time": 11.55
+                            },
+                            {
+                                "_id": "5e474730776f3e043421dd66",
+                                "sentence": " And the character gloria, the wife and mom appears.",
+                                "start_time": 11.55,
+                                "end_time": 14.69
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3846e13dfd851a2723",
+                "status": "published",
+                "legacy_video_id": 2813,
+                "legacy_user_id": 3321,
+                "video": "58e7cf2946e13dfd851a1f10",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3846e13dfd851a2722",
+                    "name": "rneihaus",
+                    "google_user_id_token": "",
+                    "created_at": 20161020091105,
+                    "updated_at": 20161020091255,
+                    "legacy_user_id": 3321,
+                    "last_login": 0,
+                    "email": "ren247@nyu.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "modern family",
+            "modern family bloopers",
+            "modern family lily",
+            "modern family andy",
+            "modern family alex",
+            "modern family awards",
+            "modern family emmy",
+            "modern family funny"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1f10",
+        "description": "",
+        "youtube_id": "Af1mP9YRDo4",
+        "views": 0,
+        "created_at": 20161015172700,
+        "title": "Go To a Party ~Modern Family Clip",
+        "legacy_video_id": 2813,
+        "updated_at": 20161102055314,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 191
+    }
+}

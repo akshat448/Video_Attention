@@ -1,0 +1,575 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf9046e13dfd851a68af",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202000422,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202000422,
+                        "file_name": "14806658628011.wav",
+                        "start_time": 3.425,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29603,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 5.215,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4acdb98085404ed8f9e342",
+                                "sentence": " The tv news report.",
+                                "start_time": 0.13,
+                                "end_time": 1.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a68b2",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202000701,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202000701,
+                        "file_name": "14806660218601.wav",
+                        "start_time": 10.643,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29609,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 10.643,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4acfc8bb48a54eda1a85b8",
+                                "sentence": " The mail reporter is trying to steel the marshmallow from her.",
+                                "start_time": 0.14,
+                                "end_time": 3.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a68b4",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202000739,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202000739,
+                        "file_name": "14806660592301.wav",
+                        "start_time": 21.563,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29611,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 24.372999999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4ace69bb48a54eda1a8540",
+                                "sentence": " In an experiment room.",
+                                "start_time": 0.13,
+                                "end_time": 2.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a68b7",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202000949,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202000949,
+                        "file_name": "14806661894331.wav",
+                        "start_time": 69.443,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29614,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 69.443,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4acfc8bb48a54eda1a85e2",
+                                "sentence": " David walsh, parenting expert and author.",
+                                "start_time": 0.13,
+                                "end_time": 3.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68b9",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202001119,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202001119,
+                        "file_name": "14806662792951.wav",
+                        "start_time": 98.612,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29616,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 100.66199999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4acdba8085404ed8f9e357",
+                                "sentence": " They shake hands.",
+                                "start_time": 0.13,
+                                "end_time": 1.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68bd",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202001331,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202001331,
+                        "file_name": "14806664110351.wav",
+                        "start_time": 107.906,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29621,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 115.066,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4ace67bb48a54eda1a851e",
+                                "sentence": " Lily rocks her head,",
+                                "start_time": 0.24,
+                                "end_time": 2.47
+                            },
+                            {
+                                "_id": "5e4ace67bb48a54eda1a851d",
+                                "sentence": " facing away, supporting her head by her hand.",
+                                "start_time": 2.47,
+                                "end_time": 6.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68bf",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202001453,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202001453,
+                        "file_name": "14806664939241.wav",
+                        "start_time": 125.172,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29624,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 125.172,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4acfc9bb48a54eda1a85ea",
+                                "sentence": " Lily sniffing the marshmallow, but not eating it.",
+                                "start_time": 0.13,
+                                "end_time": 4.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68c1",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202001545,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202001545,
+                        "file_name": "14806665458391.wav",
+                        "start_time": 129.522,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29626,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 129.522,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae6cf207aba721b5c6855",
+                                "sentence": " During the interview,",
+                                "start_time": 0.13,
+                                "end_time": 1.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68c2",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202001705,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202001705,
+                        "file_name": "14806666255901.wav",
+                        "start_time": 140.015,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29627,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 140.015,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4acf2d04044e4ed9f61978",
+                                "sentence": " High fives.",
+                                "start_time": 0.22,
+                                "end_time": 1.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68c3",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202001745,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202001745,
+                        "file_name": "14806666653281.wav",
+                        "start_time": 146.734,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29628,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 146.734,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4acdba8085404ed8f9e37a",
+                                "sentence": " Different is biting the marshmallow.",
+                                "start_time": 0.18,
+                                "end_time": 3.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68c4",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202001901,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202001901,
+                        "file_name": "14806667412871.wav",
+                        "start_time": 180.793,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29629,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 180.793,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4acf2b04044e4ed9f6191c",
+                                "sentence": " He put the marshmallow on his lips.",
+                                "start_time": 0.13,
+                                "end_time": 2.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68c5",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202001944,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202001944,
+                        "file_name": "14806667844671.wav",
+                        "start_time": 183.035,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29630,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 186.355,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4acdba8085404ed8f9e358",
+                                "sentence": " His step behind the monitor.",
+                                "start_time": 0.55,
+                                "end_time": 3.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68c6",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202002031,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202002031,
+                        "file_name": "14806668310641.wav",
+                        "start_time": 193.286,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29631,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 193.286,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7b10ed104ed71f7df1",
+                                "sentence": " And his mom and the female reporter and professor.",
+                                "start_time": 0.16,
+                                "end_time": 5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68c7",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202002115,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202002115,
+                        "file_name": "14806668754661.wav",
+                        "start_time": 201.018,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29632,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 201.018,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4acfc8bb48a54eda1a85d9",
+                                "sentence": " The boy is kneading the marshmallow in his hands.",
+                                "start_time": 0.13,
+                                "end_time": 3.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68c8",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202002245,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202002245,
+                        "file_name": "14806669652861.wav",
+                        "start_time": 205.987,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29633,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 205.987,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4ccc999e9e1a99b00a2c08",
+                                "sentence": " A female reporter and the professor.",
+                                "start_time": 0.13,
+                                "end_time": 2.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68c9",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202002420,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202002420,
+                        "file_name": "14806670608871.wav",
+                        "start_time": 249.777,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29634,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 249.777,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4acf2d04044e4ed9f61975",
+                                "sentence": " Image of a delicious marshmallow.",
+                                "start_time": 0.45,
+                                "end_time": 3.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68ca",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202002509,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202002509,
+                        "file_name": "14806671094901.wav",
+                        "start_time": 261.701,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29635,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 261.701,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae4ceae24dc721d953205",
+                                "sentence": " Kids rocking, looking away to distract themselves from the marshmallow.",
+                                "start_time": 0.45,
+                                "end_time": 6.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9146e13dfd851a68cb",
+                        "audio_description": "58e7cf3b46e13dfd851a2815",
+                        "created_at": 20161202002620,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202002620,
+                        "file_name": "14806671808441.wav",
+                        "start_time": 281.35,
+                        "legacy_video_id": 3008,
+                        "legacy_user_id": 3473,
+                        "label": "",
+                        "legacy_audio_clip_id": 29636,
+                        "video": "58e7cf2946e13dfd851a1fd2",
+                        "end_time": 281.35,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2814",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae10a207aba721b5c67f2",
+                                "sentence": " The boy taking his first bite.",
+                                "start_time": 0.28,
+                                "end_time": 3.14
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3b46e13dfd851a2815",
+                "status": "published",
+                "legacy_video_id": 3008,
+                "legacy_user_id": 3473,
+                "video": "58e7cf2946e13dfd851a1fd2",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3b46e13dfd851a2814",
+                    "name": "YukiHu",
+                    "google_user_id_token": "",
+                    "created_at": 20161129091418,
+                    "updated_at": 20161129091541,
+                    "legacy_user_id": 3473,
+                    "last_login": 0,
+                    "email": "jojoyukihu@163.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Marshmallow",
+            "Test",
+            "Experiment",
+            "Walter",
+            "Mischel",
+            "David",
+            "Walsh",
+            "Psychology",
+            "Delayed",
+            "Gratification",
+            "WCCO",
+            "kids"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1fd2",
+        "description": "",
+        "youtube_id": "amsqeYOk--w",
+        "views": 0,
+        "created_at": 20161201135714,
+        "title": "Marshmallow test reproduced by Dr David Walsh @ wcco",
+        "legacy_video_id": 3008,
+        "updated_at": 20161202002620,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 315
+    }
+}

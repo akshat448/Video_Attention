@@ -1,0 +1,555 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d35e9b69d41be1e9b2eb332",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "Introduction",
+                        "playback_type": "extended",
+                        "start_time": 0.5735930735930737,
+                        "end_time": 0.5735930735930737,
+                        "duration": 11.42421768707483,
+                        "file_name": "q6rAllJAdWk_5d35e9b69d41be1e9b2eb332.wav",
+                        "file_size_bytes": 2015276,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722165206,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bf5",
+                                "sentence": " The video opens with suspenseful music playing in the background, which continues until the very end.",
+                                "start_time": 0.81,
+                                "end_time": 6.22
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bf4",
+                                "sentence": " The man pulls up to a Sonic restaurant drive through where he presses a button to place his order.",
+                                "start_time": 6.22,
+                                "end_time": 11.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35e9e19d41be1e9b2eb333",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "1 Food Delivery",
+                        "playback_type": "extended",
+                        "start_time": 6.782849,
+                        "end_time": 6.782849,
+                        "duration": 5.6656689342403626,
+                        "file_name": "q6rAllJAdWk_5d35e9e19d41be1e9b2eb333.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722165249,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c679b3b3649a9fc09e7c",
+                                "sentence": " The camera then cuts to him in his car with a waiter handing him his order through the window.",
+                                "start_time": 0.69,
+                                "end_time": 5.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35ea049d41be1e9b2eb334",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "2 Milkshake",
+                        "playback_type": "inline",
+                        "start_time": 8.302306,
+                        "end_time": 10.531421646258503,
+                        "duration": 2.2291156462585033,
+                        "file_name": "q6rAllJAdWk_5d35ea049d41be1e9b2eb334.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722165324,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c679b3b3649a9fc09e52",
+                                "sentence": " He chose the milkshake to the camera.",
+                                "start_time": 0.31,
+                                "end_time": 2.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35ea719d41be1e9b2eb335",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "3 Tip",
+                        "playback_type": "inline",
+                        "start_time": 21.344243,
+                        "end_time": 23.666238464852608,
+                        "duration": 2.3219954648526078,
+                        "file_name": "q6rAllJAdWk_5d35ea719d41be1e9b2eb335.wav",
+                        "file_size_bytes": 409644,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722165513,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c3f9b3b3649a9fc09d83",
+                                "sentence": " He hands the waiter a tip.",
+                                "start_time": 0.4,
+                                "end_time": 2.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35eb499d41be1e9b2eb337",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "4 Title Sequence",
+                        "playback_type": "inline",
+                        "start_time": 30.745984,
+                        "end_time": 37.061811664399094,
+                        "duration": 6.315827664399093,
+                        "file_name": "q6rAllJAdWk_5d35eb499d41be1e9b2eb337.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722165849,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c3f8b3b3649a9fc09d63",
+                                "sentence": " A title screen pops up with fancy lettering that reads badly and chug zhang gree and focus since 1997.",
+                                "start_time": 0.13,
+                                "end_time": 6.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35ebabd69c6e2797a160c0",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "5 Burger Display",
+                        "playback_type": "extended",
+                        "start_time": 43.470793,
+                        "end_time": 43.470793,
+                        "duration": 2.6006349206349206,
+                        "file_name": "q6rAllJAdWk_5d35ebabd69c6e2797a160c0.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722170027,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c4bb33189a9a9eaeeccd",
+                                "sentence": " He holds a burger up to the camera.",
+                                "start_time": 0.16,
+                                "end_time": 2.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35ec11d69c6e2797a160c2",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "6 Milkshake Display",
+                        "playback_type": "extended",
+                        "start_time": 50.228878,
+                        "end_time": 50.228878,
+                        "duration": 3.7151927437641725,
+                        "file_name": "q6rAllJAdWk_5d35ec11d69c6e2797a160c2.wav",
+                        "file_size_bytes": 655404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722170209,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c3f9b3b3649a9fc09d87",
+                                "sentence": " He holds a very large milk shake up to the camera.",
+                                "start_time": 0.42,
+                                "end_time": 3.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35ecb4d69c6e2797a160c3",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "7 Ice Cold",
+                        "playback_type": "extended",
+                        "start_time": 57.507945,
+                        "end_time": 57.507945,
+                        "duration": 5.38702947845805,
+                        "file_name": "q6rAllJAdWk_5d35ecb4d69c6e2797a160c3.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722170452,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c3f9b3b3649a9fc09da9",
+                                "sentence": " The text at the bottom reads ice cold, Sonic strawberry shake, chug!",
+                                "start_time": 0.41,
+                                "end_time": 5.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35ed93d69c6e2797a160c5",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "8 Timer",
+                        "playback_type": "extended",
+                        "start_time": 102.335431,
+                        "end_time": 102.335431,
+                        "duration": 5.38702947845805,
+                        "file_name": "q6rAllJAdWk_5d35ed93d69c6e2797a160c5.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722170835,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c4ba33189a9a9eaeecb5",
+                                "sentence": " A timer appears in the corner of the screen. As soon as he starts chugging the milk shake.",
+                                "start_time": 0.37,
+                                "end_time": 5.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35f4b9d69c6e2797a160c8",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "9 Break",
+                        "playback_type": "extended",
+                        "start_time": 123.434408,
+                        "end_time": 123.434408,
+                        "duration": 5.015510204081632,
+                        "file_name": "q6rAllJAdWk_5d35f4b9d69c6e2797a160c8.wav",
+                        "file_size_bytes": 884780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722173905,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c4bb33189a9a9eaeecc8",
+                                "sentence": " He stops chugging at 20 seconds and wipes a whip cream off of his face.",
+                                "start_time": 0.54,
+                                "end_time": 4.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35f5e29d41be1e9b2eb33b",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "10 Brain Freeze",
+                        "playback_type": "extended",
+                        "start_time": 128.113646,
+                        "end_time": 128.113646,
+                        "duration": 3.250793650793651,
+                        "file_name": "q6rAllJAdWk_5d35f5e29d41be1e9b2eb33b.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722174402,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c679b3b3649a9fc09e51",
+                                "sentence": " He holds his head because he has brain freeze.",
+                                "start_time": 0.32,
+                                "end_time": 3.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35f63fd69c6e2797a160cb",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "11 Almost There",
+                        "playback_type": "extended",
+                        "start_time": 130.175116,
+                        "end_time": 130.175116,
+                        "duration": 5.015510204081632,
+                        "file_name": "q6rAllJAdWk_5d35f63fd69c6e2797a160cb.wav",
+                        "file_size_bytes": 884780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722174535,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c3fab3b3649a9fc09dd5",
+                                "sentence": " He shows the camera the small amount of milkshake that he has left at the bottom of his cup.",
+                                "start_time": 0.2,
+                                "end_time": 4.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35f67fd69c6e2797a160cc",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "12 Keeps Going",
+                        "playback_type": "extended",
+                        "start_time": 138.753942,
+                        "end_time": 138.753942,
+                        "duration": 5.479909297052155,
+                        "file_name": "q6rAllJAdWk_5d35f67fd69c6e2797a160cc.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722174639,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c3f9b3b3649a9fc09dad",
+                                "sentence": " With the timer. At 36 seconds, he continues to chug the rest of the milkshake.",
+                                "start_time": 0.4,
+                                "end_time": 5.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35f6c8d69c6e2797a160cd",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "13 Done!",
+                        "playback_type": "extended",
+                        "start_time": 149.412499,
+                        "end_time": 149.412499,
+                        "duration": 6.780226757369615,
+                        "file_name": "q6rAllJAdWk_5d35f6c8d69c6e2797a160cd.wav",
+                        "file_size_bytes": 1196076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722174752,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c4bb33189a9a9eaeecd1",
+                                "sentence": " He stops at 44 seconds, wipes a milk shake off of his face, and shows the camera the empty cup.",
+                                "start_time": 0.53,
+                                "end_time": 6.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35f7029d41be1e9b2eb33c",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "14 More Brain Freeze",
+                        "playback_type": "inline",
+                        "start_time": 152.287051,
+                        "end_time": 154.8876859206349,
+                        "duration": 2.6006349206349206,
+                        "file_name": "q6rAllJAdWk_5d35f7029d41be1e9b2eb33c.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722174850,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c3f9b3b3649a9fc09da1",
+                                "sentence": " He grabs his head again.",
+                                "start_time": 0.2,
+                                "end_time": 2.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35f71dd69c6e2797a160ce",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "15 Punching",
+                        "playback_type": "inline",
+                        "start_time": 157.487904,
+                        "end_time": 160.83157746938775,
+                        "duration": 3.3436734693877552,
+                        "file_name": "q6rAllJAdWk_5d35f71dd69c6e2797a160ce.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722174917,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c3f9b3b3649a9fc09d75",
+                                "sentence": " He starts to make punching gestures toward the camera.",
+                                "start_time": 0.12,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35f749d69c6e2797a160cf",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "16 Point",
+                        "playback_type": "inline",
+                        "start_time": 164.6212121212121,
+                        "end_time": 166.8503277674706,
+                        "duration": 2.2291156462585033,
+                        "file_name": "q6rAllJAdWk_5d35f749d69c6e2797a160cf.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722175001,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c4bb33189a9a9eaeecec",
+                                "sentence": " He points to the camera.",
+                                "start_time": 0.12,
+                                "end_time": 1.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d35f7829d41be1e9b2eb33d",
+                        "video": "5d34f4579d41be1e9b2eb2c6",
+                        "audio_description": "5d34f4579d41be1e9b2eb2c5",
+                        "user": "5d3462c59d41be1e9b2eb290",
+                        "label": "17 End",
+                        "playback_type": "extended",
+                        "start_time": 175.171073,
+                        "end_time": 175.171073,
+                        "duration": 10.681179138321996,
+                        "file_name": "q6rAllJAdWk_5d35f7829d41be1e9b2eb33d.wav",
+                        "file_size_bytes": 1884204,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q6rAllJAdWk",
+                        "created_at": 20190722175058,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c5f3d02ed79aa16c1c53",
+                                "sentence": " The slogan pops up on the screen with emerges taking the place of the words world bottle in time.",
+                                "start_time": 0.13,
+                                "end_time": 6.56
+                            },
+                            {
+                                "_id": "5e16c5f3d02ed79aa16c1c52",
+                                "sentence": " Underneath the slogan is the hash tag badlands chug.",
+                                "start_time": 6.56,
+                                "end_time": 10.46
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d34f4579d41be1e9b2eb2c5",
+                "video": "5d34f4579d41be1e9b2eb2c6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d3462c59d41be1e9b2eb290",
+                    "email": "crielly@fordham.edu",
+                    "name": "Cortney Rielly",
+                    "given_name": "Cortney",
+                    "picture": "https://lh6.googleusercontent.com/-3KqqcxJACMY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reGpeMNr1CRJmzIcfgzqE-hXozKSg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "100648983261779064325",
+                    "last_login": 20190721133329,
+                    "token": "80bde0fdb1fec2ace0ef20bd262dc9bace451f75fafec7d3c6b8fc82d4837ff8",
+                    "__v": 0,
+                    "updated_at": 20190721133329,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190721232511,
+                "updated_at": 20191023071012,
+                "notes": "Introduction: (extended) the video opens with suspenseful music playing in the background, which continues until the end. The man pulls up to a Sonic restaurant drive-through, where he presses a button to place his order.\n\n1) (extended) The camera then cuts to him in his car with a waiter handing him his order through the window. \n\n2) 0:08 (inline) He shows the milkshake to the camera.\n\n3) 0:20 (inline) He hands the waiter a tip.\n\n4) 0:31 (inline) A title screen pops up with fancy lettering that reads \"badlands chugs: hungry and focused since 1997.\"\n\n5) 0:44 (extended) He holds a burger up to the camera.\n\n6) 0:50 (extended) He holds a (very large) milkshake up to the camera.\n\n7) 0:58 (extended) The text at the bottom reads \"Ice Cold Sonic Strawberry Shake Chug.\"\n\n8) 1:42 (extended) a timer appears in the corner of the screen as soon as he starts chugging.\n\n9) 2:02 (extended) he stops chugging at 20 seconds and wipes the whipped cream off of his face.\n\n10) 2:08 (extended) he holds his head because he has a brain freeze.\n\n11) 2:10 (extended) he shows the camera the small amount of milkshake he has left at the bottom of his cup.\n\n12) 2:18 (extended) with the timer at 36 seconds, he continues to chug the rest.\n\n13) 2:26 (extended) he stops at 44 seconds, wipes the milkshake off of his face, and shows the camera the empty cup.\n\n14) 2:34 (inline) he grabs his head again.\n\n15) 2:38 (inline) he starts to make punching gestures.\n\n16) 2:46 he points to the camera.\n\n17) 2:50 (extended) the slogan pops up on the screen, with emojis taking the place of the words \"world,\" \"bottle,\" and \"time.\" underneath the slogan is the hashtag \"badlands chugs.\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 3,
+                "overall_rating_votes_sum": 13,
+                "admin_review": "",
+                "feedbacks": {
+                    "7": 1,
+                    "8": 1
+                }
+            },
+            {
+                "audio_clips": [],
+                "_id": "5daff36a816ebe3229a2ebbd",
+                "video": "5d34f4579d41be1e9b2eb2c6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5daea86d6362000277003dbf",
+                    "email": "carapoc@berkeley.edu",
+                    "name": "Casmine Belle Arapoc",
+                    "given_name": "Casmine Belle",
+                    "picture": "https://lh4.googleusercontent.com/-rcjNsD4WEM4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdcuY9AgYq_VCt2SpNzqpjcZaJRLA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "108595290736500644609",
+                    "last_login": 20191022065749,
+                    "token": "f6d05f31c540c39708e4bb5200b0cf46e8d336e9de89392f05f9b8f08b32bb96",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20191023063002,
+                "updated_at": 20191023063002,
+                "notes": "0:04 a hand presses the sonic drive thru button\n\n0:07 a sonic employee hands a man in a beanie: two drinks, a brown paper bag, and a receipt through his car window\n\n0:22 the man hands the employee a cash tip\n\n0:28 the man points at the camera\n\nPAUSE 0:34 the screen switches to a logo and text reading: bandlands chugs hungry and focused since 1997\n\nPAUSE 0:38 a man sits in his car in a sonic parking lot and speaks to the camera\n\nPAUSE 0:45 man holds up a foil wrapped sonic burger close to the camera\n\nPAUSE 0:49 man puts down burger and holds up a large strawberry shake\n\nPAUSE 0:57 text on screen: ice cold sonice strawberry shake chug and the man shows the camera the top of the strawberry shake that has a cherry on the top\n\n1:05 man takes off lid\n\n1:16 man takes cherry by the stem and eats it\n\n1:22 man holds the shake up to the camera\n\nPAUSE 1:29 text on screen: please subscribe\n\n1:42 man starts chugging the shake and a white numbered timer pops up on the right side of the screen \n\n2:03 the man stops chugging the shake at 20 seconds to wipe his mouth with a white napkin\n\n2:07 the man makes a face of pain and holds his forehead with one hand then shows the little amount of shake left in the cup\n\n2:18 the man starts chugging the shake again and the timer on the screen reads 36 seconds\n\n2:27 text on screen: 44 seconds. the man finishes chugging the shake, wipes his mouth, and shows the camera the empty cup\n\n2:33 the main holds his head with both hands in pain then he makes punching gestures at the camera\n\nPAUSE 2:55 text on screen: chugging the world one bottle at a time with the words \"world\" \"bottle\" and \"time\" replaced with emojis instead of words. text below says hashtag badlands chugs\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "#badlandschugs",
+            "#sonic",
+            "#shake",
+            "#milkshake",
+            "#chug",
+            "#drink"
+        ],
+        "custom_tags": [],
+        "_id": "5d34f4579d41be1e9b2eb2c6",
+        "title": "Sonic Strawberry Milkshake Chug",
+        "description": "Badlands Booker Music, Wireless Headphones & Earbuds, and other merch Available on Amazon & Here: http://linktr.ee/badlandsbooker \n\nMusic by #OKHIPHOP. Need Beats Cheap? click link:\nLISTEN: http://soundcloud.com/okhiphopbeats\nBUY: http://okhiphop.beatstars.com\n\nLike a background track from a chug video? Check out the Badlands Chugs OST (Original Sound Track) Playlist on SoundCloud here:\nhttps://soundcloud.com/badlandsbooker/sets\n\n\nWanna support Badlands Chugs? Become a Pateron. Click Link:\nhttps://www.patreon.com/user?u=15067445\n\nWanna see me chug something? leave a comment below\n\n#Sonic Drive-in,",
+        "youtube_id": "q6rAllJAdWk",
+        "created_at": 20190721232511,
+        "updated_at": 20191023063154,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Autos & Vehicles",
+        "category_id": "2",
+        "duration": 177
+    }
+}

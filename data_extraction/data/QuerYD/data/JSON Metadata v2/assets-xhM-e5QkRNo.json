@@ -1,0 +1,65 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fb1b9a1206e0d5fdec3e220",
+                        "video": "5fb1b8f5206e0d5fdec3e21c",
+                        "audio_description": "5fb1b8f5206e0d5fdec3e21b",
+                        "user": "5fb1a9de6832dc5fe4ac5ea8",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 25.258666666666667,
+                        "duration": 25.258666666666667,
+                        "file_name": "xhM-e5QkRNo_5fb1b9a1206e0d5fdec3e220.wav",
+                        "file_size_bytes": 4849708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xhM-e5QkRNo",
+                        "created_at": 20201115232833,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fb1b8f5206e0d5fdec3e21b",
+                "video": "5fb1b8f5206e0d5fdec3e21c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5fb1a9de6832dc5fe4ac5ea8",
+                    "email": "hannah.he.cho@gmail.com",
+                    "name": "Hannah Cho",
+                    "given_name": "Hannah",
+                    "picture": "https://lh3.googleusercontent.com/a-/AOh14Gj1ghm9W7LPu0QVqcH8umxop1EtnDPtAjJfXPyMUg=s96-c",
+                    "locale": "en",
+                    "google_user_id": "109999705319808593899",
+                    "last_login": 20210120232509,
+                    "token": "ccf5e124c061ef9cb6bae020572ea0f321d23cef2e820a3529c162051a9fe5bf",
+                    "__v": 0,
+                    "updated_at": 20210120232509
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201115232541,
+                "updated_at": 20201115232541,
+                "notes": "The video starts with a corgi jumping up and down to jump over a gate. The gate divides the corgi from its toys. The corgi gives up and cannot reach its toys in the end. ",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fb1b8f5206e0d5fdec3e21c",
+        "title": "Funny corgi tries desperately to jump over gate to reach hanging toys",
+        "description": "Jukin Media Verified (Original)\n* For licensing / permission to use: Contact - licensing(at)jukinmediadotcom",
+        "youtube_id": "xhM-e5QkRNo",
+        "created_at": 20201115232541,
+        "updated_at": 20201115232833,
+        "views": 0,
+        "__v": 0
+    }
+}

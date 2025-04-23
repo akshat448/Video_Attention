@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ddcdfdd67c0962c540c9915",
+                        "video": "5ddcdbee67c0962c540c9914",
+                        "audio_description": "5ddcdbed67c0962c540c9913",
+                        "user": "5dc91b54ce3ffe707afb4385",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0.15,
+                        "end_time": 3.4779999999999998,
+                        "duration": 3.328,
+                        "file_name": "9ZTX302mNw4_5ddcdfdd67c0962c540c9915.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9ZTX302mNw4",
+                        "created_at": 20191126081837,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5ddce05567c0962c540c9916",
+                        "video": "5ddcdbee67c0962c540c9914",
+                        "audio_description": "5ddcdbed67c0962c540c9913",
+                        "user": "5dc91b54ce3ffe707afb4385",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 7.805455000000001,
+                        "end_time": 19.325455,
+                        "duration": 11.52,
+                        "file_name": "9ZTX302mNw4_5ddce05567c0962c540c9916.wav",
+                        "file_size_bytes": 2211884,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9ZTX302mNw4",
+                        "created_at": 20191126082037,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5ddcdbed67c0962c540c9913",
+                "video": "5ddcdbee67c0962c540c9914",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5dc91b54ce3ffe707afb4385",
+                    "email": "magnarkv@gmail.com",
+                    "name": "Magnar Kvalvik",
+                    "given_name": "Magnar",
+                    "picture": "https://lh4.googleusercontent.com/-L15eJR64t7w/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfmqDZjvS0Yj62QA6R0oI3BmpXxYw/s96-c/photo.jpg",
+                    "locale": "no",
+                    "google_user_id": "102812369054864913765",
+                    "last_login": 20191126081551,
+                    "token": "383a9b35f65c6e132a43db1671a902223662b5521230b7a6debc760dcb2b9b49",
+                    "__v": 0,
+                    "updated_at": 20191126081551,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20191126080149,
+                "updated_at": 20191202210130,
+                "notes": "A teenage boy mimes to the song.\n\nHis appearence changes synchronously with the voice. He gets rinkles and his hair turns from brown to grey, as a slidebar moves from left to right.\n\nLogo: Snapchat.",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5ddcdbee67c0962c540c9914",
+        "title": "Introducing Time Machine",
+        "description": "Take the selfie of a lifetime. Try Time Machine on Snapchat today: https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=f4511d1ca9d74ec688814772b9eca0a6&metadata=01",
+        "youtube_id": "9ZTX302mNw4",
+        "created_at": 20191126080150,
+        "updated_at": 20191126082037,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Science & Technology",
+        "category_id": "28",
+        "duration": 20
+    }
+}

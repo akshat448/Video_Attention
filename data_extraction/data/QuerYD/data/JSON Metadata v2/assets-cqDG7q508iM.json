@@ -1,0 +1,993 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6f46e13dfd851a527a",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130183042,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130183042,
+                        "file_name": "14489370427441.wav",
+                        "start_time": 2.588,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20026,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 2.588,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a3232c60fa2f27a4ce",
+                                "sentence": " Ryan reynolds and jimmy fallon sit at a high Top table facing each other. Both are wearing white button up shirts, ties and black suit pants.",
+                                "start_time": 0.21,
+                                "end_time": 7.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a527c",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130183131,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130183131,
+                        "file_name": "14489370919101.wav",
+                        "start_time": 11.55,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20028,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 11.55,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e40671ba2babac06dc162cd",
+                                "sentence": " Higgins appears from the dark background, holding a carton of eggs. Wearing a suit, tie and glasses,",
+                                "start_time": 0,
+                                "end_time": 5.39
+                            },
+                            {
+                                "_id": "5e40671ba2babac06dc162cc",
+                                "sentence": " he opens up the carton showing the eggs.",
+                                "start_time": 5.39,
+                                "end_time": 7.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a527e",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130183408,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130183408,
+                        "file_name": "14489372483911.wav",
+                        "start_time": 31.577,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20033,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 34.137,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a4232c60fa2f27a4f7",
+                                "sentence": " Jimmy and ryan giggle.",
+                                "start_time": 0.28,
+                                "end_time": 2.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a527f",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130183608,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130183608,
+                        "file_name": "14489373684441.wav",
+                        "start_time": 70,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20037,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 73.84,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a4232c60fa2f27a4fe",
+                                "sentence": " Brian contemplates, which ike depicts and chooses one from the center.",
+                                "start_time": 0,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5280",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130183657,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130183657,
+                        "file_name": "14489374171741.wav",
+                        "start_time": 79.163,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20038,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 85.303,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075fdab0b23fa30607a54",
+                                "sentence": " Brian smashes the egg on his head and it is hard boiled. He holds it up to show the jimmy and throws it to the ground.",
+                                "start_time": 0.51,
+                                "end_time": 6.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5282",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130183751,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130183751,
+                        "file_name": "14489374712981.wav",
+                        "start_time": 92.151,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20040,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 93.681,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a5232c60fa2f27a529",
+                                "sentence": " Jimmy selects an egg.",
+                                "start_time": 0,
+                                "end_time": 1.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5283",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130183824,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130183824,
+                        "file_name": "14489375042031.wav",
+                        "start_time": 94.381,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20041,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 98.221,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a4232c60fa2f27a4fa",
+                                "sentence": " Jimmy shakes the egg and a look of worry spreads across his face.",
+                                "start_time": 0.16,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5284",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130184016,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130184016,
+                        "file_name": "14489376161991.wav",
+                        "start_time": 107.04,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20043,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 108.83000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a4232c60fa2f27a4fd",
+                                "sentence": " Jimmy breathes heavily.",
+                                "start_time": 0,
+                                "end_time": 1.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5285",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130184037,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130184037,
+                        "file_name": "14489376374931.wav",
+                        "start_time": 111.964,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20044,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 111.964,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ee82cbd0c06b17087c",
+                                "sentence": " Jimmy smashes the egg and it explodes, sending yolk everywhere.",
+                                "start_time": 0,
+                                "end_time": 3.66
+                            },
+                            {
+                                "_id": "5e4068ee82cbd0c06b17087b",
+                                "sentence": " Ryan fist pumps in celebration.",
+                                "start_time": 3.66,
+                                "end_time": 5.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5287",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130184219,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130184219,
+                        "file_name": "14489377394641.wav",
+                        "start_time": 117.789,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20046,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 117.789,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a4232c60fa2f27a526",
+                                "sentence": " There is a slow motion replay of the egg exploding on jimmy's head.",
+                                "start_time": 0.16,
+                                "end_time": 4.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5288",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130184309,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130184309,
+                        "file_name": "14489377898161.wav",
+                        "start_time": 130.422,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20047,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 130.422,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a3232c60fa2f27a4dc",
+                                "sentence": " Ryan quickly selects an egg and begins to shake it.",
+                                "start_time": 0.11,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5289",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130184329,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130184329,
+                        "file_name": "14489378095591.wav",
+                        "start_time": 136.9,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20048,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 136.9,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e40735e33dad0fa2d070571",
+                                "sentence": " Ryan smashes the egg and it's hard boiled. He throws it to the ground.",
+                                "start_time": 0.07,
+                                "end_time": 3.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a528a",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130184355,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130184355,
+                        "file_name": "14489378349791.wav",
+                        "start_time": 139.233,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20049,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 141.793,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ee82cbd0c06b170887",
+                                "sentence": " Jimmie has a confused look.",
+                                "start_time": 0.4,
+                                "end_time": 2.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a528b",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130184545,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130184545,
+                        "file_name": "14489379457241.wav",
+                        "start_time": 153.18,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20051,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 155.23000000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ee82cbd0c06b17084d",
+                                "sentence": " Jimmy selects another egg.",
+                                "start_time": 0,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a528d",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130184627,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130184627,
+                        "file_name": "14489379879681.wav",
+                        "start_time": 162.848,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20053,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 162.848,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ee82cbd0c06b170876",
+                                "sentence": " Me shakes the egg and laughs.",
+                                "start_time": 0,
+                                "end_time": 1.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a528e",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130184747,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130184747,
+                        "file_name": "14489380677801.wav",
+                        "start_time": 184.363,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20054,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 184.363,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a3232c60fa2f27a4de",
+                                "sentence": " Jimmy smashes the egg on his forehead, and it's hard boiled. He smiles and excitement, and ryan shakes his head.",
+                                "start_time": 0.4,
+                                "end_time": 6.23
+                            },
+                            {
+                                "_id": "5e4075a3232c60fa2f27a4dd",
+                                "sentence": " Jimmy throws the egg to the floor.",
+                                "start_time": 6.23,
+                                "end_time": 8.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a528f",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130184839,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130184839,
+                        "file_name": "14489381199901.wav",
+                        "start_time": 195.26,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20055,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 195.26,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ee82cbd0c06b17084f",
+                                "sentence": " And quickly grabs another egg and shakes it.",
+                                "start_time": 0,
+                                "end_time": 2.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5290",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130185047,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130185047,
+                        "file_name": "14489382471391.wav",
+                        "start_time": 208.448,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20057,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 208.448,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ef82cbd0c06b1708b4",
+                                "sentence": " Ryan smashes the egg on his forehead and it's hard boiled. He is shocked. And in disbelief, he takes a bite out of the egg.",
+                                "start_time": 0.02,
+                                "end_time": 6.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5291",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130185309,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130185309,
+                        "file_name": "14489383891221.wav",
+                        "start_time": 213.058,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20061,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 216.128,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e40735e33dad0fa2d070565",
+                                "sentence": " He throws the egg to the floor. As higgins walks up with the carton.",
+                                "start_time": 0,
+                                "end_time": 3.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5292",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130185546,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130185546,
+                        "file_name": "14489385464701.wav",
+                        "start_time": 220.296,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20063,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 220.296,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ef82cbd0c06b1708ba",
+                                "sentence": " Jimmy looks to the crowd as he selects an egg.",
+                                "start_time": 0.47,
+                                "end_time": 3.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5293",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130185627,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130185627,
+                        "file_name": "14489385879371.wav",
+                        "start_time": 231.143,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20064,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 231.143,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a3232c60fa2f27a4e3",
+                                "sentence": " Jimmy smashes the egg. And it's hard boiled.",
+                                "start_time": 0.02,
+                                "end_time": 2.73
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5294",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130185727,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130185727,
+                        "file_name": "14489386473601.wav",
+                        "start_time": 234.587,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20065,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 236.887,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a4232c60fa2f27a50a",
+                                "sentence": " He drops the egg to the ground.",
+                                "start_time": 0.27,
+                                "end_time": 2.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a5299",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130191106,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130191106,
+                        "file_name": "14489394661461.wav",
+                        "start_time": 239.668,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20070,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 239.668,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e40735e33dad0fa2d07056a",
+                                "sentence": " Ryan grabs another egg and shakes it.",
+                                "start_time": 0,
+                                "end_time": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a529a",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130191140,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130191140,
+                        "file_name": "14489395005041.wav",
+                        "start_time": 248.517,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20071,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 248.517,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ee82cbd0c06b1708a3",
+                                "sentence": " He slaps the egg onto his head and and explode, spreading yolk across his hair.",
+                                "start_time": 0.23,
+                                "end_time": 5.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a529c",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130191210,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130191210,
+                        "file_name": "14489395306381.wav",
+                        "start_time": 249.322,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20073,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 252.642,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a4232c60fa2f27a500",
+                                "sentence": " Jimmy points at ryan and laughs.",
+                                "start_time": 0.56,
+                                "end_time": 3.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a529f",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130191539,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130191539,
+                        "file_name": "14489397394351.wav",
+                        "start_time": 258.49,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20076,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 258.49,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a1232c60fa2f27a4b8",
+                                "sentence": " There is a slow motion replay of the egg exploding on ryan's head.",
+                                "start_time": 0,
+                                "end_time": 4.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a52a1",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130191637,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130191637,
+                        "file_name": "14489397969931.wav",
+                        "start_time": 278.029,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20078,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 278.029,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ef82cbd0c06b1708a7",
+                                "sentence": " Jimmy and ryan select eggs at the same time.",
+                                "start_time": 0.28,
+                                "end_time": 2.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a52a3",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130191712,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130191712,
+                        "file_name": "14489398322581.wav",
+                        "start_time": 286.807,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20080,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 286.807,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e40671ca2babac06dc162ea",
+                                "sentence": " They cheers their eggs and then slap them to their foreheads. Jimmy's explodes on. Ryan's is hard boiled.",
+                                "start_time": 0.27,
+                                "end_time": 6.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a52a5",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130191746,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130191746,
+                        "file_name": "14489398665221.wav",
+                        "start_time": 294.431,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20082,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 294.431,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4075a3232c60fa2f27a4d5",
+                                "sentence": " Ryan reynolds fist bumps in celebration as jimmy gives them a high five from across the table.",
+                                "start_time": 0.16,
+                                "end_time": 5.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a52a7",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130191912,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130191912,
+                        "file_name": "14489399527001.wav",
+                        "start_time": 305.551,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20084,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 310.411,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ee82cbd0c06b170897",
+                                "sentence": " Cliff ends and cuts to a video of jimmy fallon in front of a blue curtain juggling.",
+                                "start_time": 0,
+                                "end_time": 4.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6f46e13dfd851a52a8",
+                        "audio_description": "58e7cf3546e13dfd851a2583",
+                        "created_at": 20151130192032,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151130192032,
+                        "file_name": "14489400326441.wav",
+                        "start_time": 314.188,
+                        "legacy_video_id": 2391,
+                        "legacy_user_id": 2946,
+                        "label": "",
+                        "legacy_audio_clip_id": 20085,
+                        "video": "58e7cf2946e13dfd851a1d6a",
+                        "end_time": 326.46799999999996,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a2582",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ee82cbd0c06b170862",
+                                "sentence": " The screen reads in white letters. Subscribe!",
+                                "start_time": 0,
+                                "end_time": 3.27
+                            },
+                            {
+                                "_id": "5e4068ee82cbd0c06b170861",
+                                "sentence": " Random video",
+                                "start_time": 3.27,
+                                "end_time": 4.61
+                            },
+                            {
+                                "_id": "5e4068ee82cbd0c06b170860",
+                                "sentence": " weekdays, 1135, eastern 1035 central.",
+                                "start_time": 4.61,
+                                "end_time": 8.77
+                            },
+                            {
+                                "_id": "5e4068ee82cbd0c06b17085f",
+                                "sentence": " The tonight show starring jimmy fallon.",
+                                "start_time": 8.77,
+                                "end_time": 11.36
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a2583",
+                "status": "published",
+                "legacy_video_id": 2391,
+                "legacy_user_id": 2946,
+                "video": "58e7cf2946e13dfd851a1d6a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a2582",
+                    "name": "arianahenck",
+                    "google_user_id_token": "",
+                    "created_at": 20151112132336,
+                    "updated_at": 20151117114939,
+                    "legacy_user_id": 2946,
+                    "last_login": 0,
+                    "email": "henck@wisc.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "variety",
+            "humor",
+            "Fallon Stand-up",
+            "Television",
+            "comedic",
+            "show",
+            "funny video",
+            "musical performance",
+            "highlight",
+            "jokes",
+            "Funny",
+            "ALL2015",
+            "NBC",
+            "comedy sketches",
+            "youtube",
+            "Jimmy Fallon",
+            "Tonight Show Starring Jimmy Fallon",
+            "Talk Show",
+            "Fallon monologue",
+            "snl",
+            "video",
+            "tonight",
+            "The Roots",
+            "celebrities",
+            "sketch comedy",
+            "talking",
+            "interview",
+            "The Tonight Show",
+            "Egg Russian Roulette",
+            "stand-up",
+            "NBC TV",
+            "music comedy",
+            "clip",
+            "Ryan Reynolds",
+            "music",
+            "talent"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d6a",
+        "description": "",
+        "youtube_id": "cqDG7q508iM",
+        "views": 0,
+        "created_at": 20151130144730,
+        "title": "Egg Russian Roulette with Ryan Reynolds",
+        "legacy_video_id": 2391,
+        "updated_at": 20151130192037,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 331
+    }
+}

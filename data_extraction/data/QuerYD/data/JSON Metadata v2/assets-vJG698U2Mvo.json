@@ -1,0 +1,143 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4746e13dfd851a324a",
+                        "audio_description": "58e7cf2d46e13dfd851a2208",
+                        "created_at": 20140919141540,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140919141540,
+                        "file_name": "14111361407301.wav",
+                        "start_time": 46.386,
+                        "legacy_video_id": 1614,
+                        "legacy_user_id": 2347,
+                        "label": "",
+                        "legacy_audio_clip_id": 7950,
+                        "video": "58e7cf2846e13dfd851a1a61",
+                        "end_time": 65.05600000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 18.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a2206",
+                        "transcript": [
+                            {
+                                "_id": "5e21172ba0a26c5f69de474b",
+                                "sentence": " While the players wearing white are passing a ball to each other.",
+                                "start_time": 0.18,
+                                "end_time": 4.06
+                            },
+                            {
+                                "_id": "5e21172ba0a26c5f69de474a",
+                                "sentence": " Players dressed in all black are passing the ball as well.",
+                                "start_time": 4.06,
+                                "end_time": 7.07
+                            },
+                            {
+                                "_id": "5e21172ba0a26c5f69de4749",
+                                "sentence": " Meanwhile, a person in all black gorilla suit passes through the scene.",
+                                "start_time": 7.24,
+                                "end_time": 11.55
+                            },
+                            {
+                                "_id": "5e21172ba0a26c5f69de4748",
+                                "sentence": " If one were paying attention only to the people dressed in white, they may have likely not noticed the gorilla.",
+                                "start_time": 11.68,
+                                "end_time": 17.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a324b",
+                        "audio_description": "58e7cf2d46e13dfd851a2208",
+                        "created_at": 20140919144133,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140919144133,
+                        "file_name": "14111376939661.wav",
+                        "start_time": 12.541,
+                        "legacy_video_id": 1614,
+                        "legacy_user_id": 2347,
+                        "label": "",
+                        "legacy_audio_clip_id": 7951,
+                        "video": "58e7cf2846e13dfd851a1a61",
+                        "end_time": 22.001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a2206",
+                        "transcript": [
+                            {
+                                "_id": "5e21172ba0a26c5f69de4751",
+                                "sentence": " Players wearing white are passing a ball to each other.",
+                                "start_time": 0.3,
+                                "end_time": 3.76
+                            },
+                            {
+                                "_id": "5e21172ba0a26c5f69de4750",
+                                "sentence": " Meanwhile, players dressed in all black are also passing a ball to each other.",
+                                "start_time": 3.78,
+                                "end_time": 8.51
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a2208",
+                "status": "published",
+                "legacy_video_id": 1614,
+                "legacy_user_id": 2347,
+                "video": "58e7cf2846e13dfd851a1a61",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a2206",
+                    "name": "ati@gmu.edu",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2347,
+                    "last_login": 0,
+                    "email": "ati@gmu.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "invisible gorilla",
+            "inattention",
+            "attention",
+            "awareness test",
+            "perception",
+            "gorilla",
+            "basketball",
+            "inattentional blindness",
+            "count the passes",
+            "perception test"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a61",
+        "description": "",
+        "youtube_id": "vJG698U2Mvo",
+        "views": 0,
+        "created_at": 20140919140924,
+        "title": "selective attention test",
+        "legacy_video_id": 1614,
+        "updated_at": 20140919074203,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 82
+    }
+}

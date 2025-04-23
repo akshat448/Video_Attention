@@ -1,0 +1,119 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4246e13dfd851a2da1",
+                        "audio_description": "58e7cf2c46e13dfd851a2141",
+                        "created_at": 20131222230110,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131222230110,
+                        "file_name": "1387782063429.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1393,
+                        "legacy_user_id": 2009,
+                        "label": "",
+                        "legacy_audio_clip_id": 5592,
+                        "video": "58e7cf2846e13dfd851a1991",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 90.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2c46e13dfd851a2140",
+                        "transcript": [
+                            {
+                                "_id": "5e211ad6ccb66271b021c8d9",
+                                "sentence": " Woman walks dog across the room.",
+                                "start_time": 12.25,
+                                "end_time": 15.18
+                            },
+                            {
+                                "_id": "5e211ad6ccb66271b021c8d8",
+                                "sentence": " Dog lies down.",
+                                "start_time": 39.81,
+                                "end_time": 41.66
+                            },
+                            {
+                                "_id": "5e211ad6ccb66271b021c8d7",
+                                "sentence": " Woman walks away from dog dog stays in lying position.",
+                                "start_time": 42.26,
+                                "end_time": 46.7
+                            },
+                            {
+                                "_id": "5e211ad6ccb66271b021c8d6",
+                                "sentence": " Woman walks away from back to dog and away from dog.",
+                                "start_time": 61.82,
+                                "end_time": 66.64
+                            },
+                            {
+                                "_id": "5e211ad6ccb66271b021c8d5",
+                                "sentence": " Dog comes when called",
+                                "start_time": 68.65,
+                                "end_time": 70.78
+                            },
+                            {
+                                "_id": "5e211ad6ccb66271b021c8d4",
+                                "sentence": " shit",
+                                "start_time": 71.59,
+                                "end_time": 72.44
+                            },
+                            {
+                                "_id": "5e211ad6ccb66271b021c8d3",
+                                "sentence": " sits in front of woman and shakes.",
+                                "start_time": 72.44,
+                                "end_time": 75.1
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2c46e13dfd851a2141",
+                "status": "published",
+                "legacy_video_id": 1393,
+                "legacy_user_id": 2009,
+                "video": "58e7cf2846e13dfd851a1991",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2c46e13dfd851a2140",
+                    "name": "ksorensun",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2009,
+                    "last_login": 0,
+                    "email": "karen.sorensen@pcc.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Doggie Business",
+            "Ella the Wonder Dog"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1991",
+        "description": "",
+        "youtube_id": "GaSRAzyxLKs",
+        "views": 0,
+        "created_at": 20131222222346,
+        "title": "Canine Good Citizen test - sit down recall",
+        "legacy_video_id": 1393,
+        "updated_at": 20131222230111,
+        "youtube_status": "available",
+        "category": "Pets & Animals",
+        "category_id": "15",
+        "duration": 75
+    }
+}

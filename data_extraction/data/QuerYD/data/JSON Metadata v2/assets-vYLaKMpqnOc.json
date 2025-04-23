@@ -1,0 +1,90 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5646e13dfd851a4079",
+                        "audio_description": "58e7cf3046e13dfd851a233a",
+                        "created_at": 20150425063909,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425063909,
+                        "file_name": "14299691499201.wav",
+                        "start_time": 0.129,
+                        "legacy_video_id": 1919,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13168,
+                        "video": "58e7cf2846e13dfd851a1b92",
+                        "end_time": 0.129,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f788d6c9183c280eee",
+                                "sentence": " A male teenager sits in front of a desktop computer. In a noisy classroom,",
+                                "start_time": 0.7,
+                                "end_time": 5.48
+                            },
+                            {
+                                "_id": "5e30a5f788d6c9183c280eed",
+                                "sentence": " several students can be seen walking past him.",
+                                "start_time": 5.48,
+                                "end_time": 8.66
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a233a",
+                "status": "published",
+                "legacy_video_id": 1919,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1b92",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "deaf-blind",
+            "intervener",
+            "noisy environment"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b92",
+        "description": "",
+        "youtube_id": "vYLaKMpqnOc",
+        "views": 0,
+        "created_at": 20150425063710,
+        "title": "Shorter Hunter Noise bombardment - Module 5",
+        "legacy_video_id": 1919,
+        "updated_at": 20150425063909,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

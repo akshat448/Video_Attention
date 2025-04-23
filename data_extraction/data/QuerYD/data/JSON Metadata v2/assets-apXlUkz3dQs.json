@@ -1,0 +1,110 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59ba1af8c6c4802622d9c168",
+                        "video": "59ba1aaac6c4802622d9c166",
+                        "audio_description": "59ba1aaac6c4802622d9c165",
+                        "user": "59ba1979c6c4802622d9c163",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 9.547869904632568,
+                        "end_time": 17.99993339669606,
+                        "duration": 8.452063492063493,
+                        "file_name": "apXlUkz3dQs_59ba1af8c6c4802622d9c168.wav",
+                        "file_size_bytes": 1490988,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/apXlUkz3dQs",
+                        "created_at": 20170914060024,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec23",
+                                "sentence": " A person is describing to bar graph, summarizing that people without disabilities are hired at double the rate.",
+                                "start_time": 1.4,
+                                "end_time": 7.57
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59ba1aaac6c4802622d9c165",
+                "video": "59ba1aaac6c4802622d9c166",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59ba1979c6c4802622d9c163",
+                    "email": "chenaicirt@gmail.com",
+                    "name": "Tricia Chen",
+                    "given_name": "Tricia",
+                    "picture": "https://lh3.googleusercontent.com/-KW36vvgjpDw/AAAAAAAAAAI/AAAAAAAAAAA/APJypA0o7f4J8R_dcFvEBIojXr88oftZbA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115923355887162577945",
+                    "last_login": 20170914055401,
+                    "token": "0011bd88b4df91cbe0575228f3274f2715f02adc2388ed606bfbd73242393cfc",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170914055906,
+                "updated_at": 20170920063939,
+                "notes": "a person is describing 2 bar graphs summarizing that people without disabilities are hired at double the rate. ",
+                "__v": 0,
+                "overall_rating_average": 3,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 3,
+                "admin_review": "",
+                "feedbacks": {
+                    "4": 1,
+                    "6": 1
+                }
+            },
+            {
+                "audio_clips": [],
+                "_id": "59ba1aabc6c4802622d9c167",
+                "video": "59ba1aaac6c4802622d9c166",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59ba1979c6c4802622d9c163",
+                    "email": "chenaicirt@gmail.com",
+                    "name": "Tricia Chen",
+                    "given_name": "Tricia",
+                    "picture": "https://lh3.googleusercontent.com/-KW36vvgjpDw/AAAAAAAAAAI/AAAAAAAAAAA/APJypA0o7f4J8R_dcFvEBIojXr88oftZbA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115923355887162577945",
+                    "last_login": 20170914055401,
+                    "token": "0011bd88b4df91cbe0575228f3274f2715f02adc2388ed606bfbd73242393cfc",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20170914055907,
+                "updated_at": 20170914055907,
+                "notes": "a person is describing 2 bar graphs summarizing that people without disabilities are hired at double the rate. ",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59ba1aaac6c4802622d9c166",
+        "title": "employment movie",
+        "description": "",
+        "youtube_id": "apXlUkz3dQs",
+        "created_at": 20170914055906,
+        "updated_at": 20170914060024,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

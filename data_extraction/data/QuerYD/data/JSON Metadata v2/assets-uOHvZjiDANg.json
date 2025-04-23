@@ -1,0 +1,190 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bfdfe70af05527dd329ffca",
+                        "video": "5bfdfe4b285a4902088135d1",
+                        "audio_description": "5bfdfe4b285a4902088135d0",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "intro",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 5.632,
+                        "duration": 5.632,
+                        "file_name": "uOHvZjiDANg_5bfdfe70af05527dd329ffca.wav",
+                        "file_size_bytes": 1081388,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uOHvZjiDANg",
+                        "created_at": 20181128023320,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e3808ee2e8d9f44c62be535",
+                                "sentence": " A black and white animated cat, simon's cat in hot spot.",
+                                "start_time": 1.16,
+                                "end_time": 5.59
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfdfeadaf05527dd329ffcb",
+                        "video": "5bfdfe4b285a4902088135d1",
+                        "audio_description": "5bfdfe4b285a4902088135d0",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "first",
+                        "playback_type": "inline",
+                        "start_time": 5.824138,
+                        "end_time": 18.282804666666664,
+                        "duration": 12.458666666666666,
+                        "file_name": "uOHvZjiDANg_5bfdfeadaf05527dd329ffcb.wav",
+                        "file_size_bytes": 2392108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uOHvZjiDANg",
+                        "created_at": 20181128023421,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e309dc2a67c75183e4aad35",
+                                "sentence": " Simon sketches under a desk lamp.",
+                                "start_time": 1.6,
+                                "end_time": 3.92
+                            },
+                            {
+                                "_id": "5e309dc2a67c75183e4aad34",
+                                "sentence": " His cat watches from beside him, looking from him to the lamp.",
+                                "start_time": 3.92,
+                                "end_time": 7.84
+                            },
+                            {
+                                "_id": "5e309dc2a67c75183e4aad33",
+                                "sentence": " The cat's eyes get wide, and he leaves the room quickly.",
+                                "start_time": 8.61,
+                                "end_time": 12.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfdff09285a4902088135d2",
+                        "video": "5bfdfe4b285a4902088135d1",
+                        "audio_description": "5bfdfe4b285a4902088135d0",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "second",
+                        "playback_type": "inline",
+                        "start_time": 25.754452,
+                        "end_time": 43.589118666666664,
+                        "duration": 17.834666666666667,
+                        "file_name": "uOHvZjiDANg_5bfdff09285a4902088135d2.wav",
+                        "file_size_bytes": 3424300,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uOHvZjiDANg",
+                        "created_at": 20181128023553,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e309dc3a67c75183e4aad74",
+                                "sentence": " Soon as Simon leaves, the cat jumps on the sketchbook,",
+                                "start_time": 1.2,
+                                "end_time": 4.54
+                            },
+                            {
+                                "_id": "5e309dc3a67c75183e4aad73",
+                                "sentence": " ripping pages, it throws itself on its back and physicians a lap rate over its exposed belly.",
+                                "start_time": 4.54,
+                                "end_time": 10.27
+                            },
+                            {
+                                "_id": "5e309dc3a67c75183e4aad72",
+                                "sentence": " Simon grimaces",
+                                "start_time": 11.1,
+                                "end_time": 12.76
+                            },
+                            {
+                                "_id": "5e309dc3a67c75183e4aad71",
+                                "sentence": " film by Simon toe field",
+                                "start_time": 12.8,
+                                "end_time": 14.66
+                            },
+                            {
+                                "_id": "5e309dc3a67c75183e4aad70",
+                                "sentence": " sound by shruti simon's cat dot com.",
+                                "start_time": 14.66,
+                                "end_time": 17.64
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bfdfe4b285a4902088135d0",
+                "video": "5bfdfe4b285a4902088135d1",
+                "user": {
+                    "opt_in": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "_id": "5be84e71adab15594f5695b8",
+                    "email": "melissa@abroomandaspoon.com",
+                    "name": "Melissa Hope",
+                    "given_name": "Melissa",
+                    "picture": "https://lh3.googleusercontent.com/-NH6cVqfO3mo/AAAAAAAAAAI/AAAAAAAAADM/KtvGqtns5s4/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102733358263403136327",
+                    "last_login": 20210110191137,
+                    "token": "662d89f15386822578295ff1017613bfa533e569f8448b7bdb9fed407ec5baee",
+                    "__v": 0,
+                    "updated_at": 20210110191137,
+                    "policy_review": "reviewed"
+                },
+                "status": "published",
+                "language": "en-ca",
+                "created_at": 20181128023243,
+                "updated_at": 20181128230413,
+                "notes": "A black and white animated cat.\n\nSimon\u2019s Cat in Hot Spot.\n\nSimon sketches under a desk lamp.\n\nHis cat watches from beside him, looking from him to the lamp.\n\nThe cat's eyes get wide and then it leaves.\n\nAs soon as Simon leaves, the cat jumps on the sketch book, ripping pages, throws itself on its back and positions the lamp right over its exposed belly.\n\nSimon grimaces.\n\nFilm by Simon Tofield\nSound by Shrooty\nsimonscat.com\n",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "pet",
+            "cat",
+            "humor",
+            "funny",
+            "comedy",
+            "animation",
+            "cartoon",
+            "simon",
+            "tofield",
+            "book",
+            "hot",
+            "spot",
+            "simon's cat",
+            "simon'scat",
+            "simonscat",
+            "pet cat",
+            "cute",
+            "simon tofield"
+        ],
+        "custom_tags": [],
+        "_id": "5bfdfe4b285a4902088135d1",
+        "title": "Hot Spot - Simon's Cat | SHORTS #6",
+        "description": "\"A demanding cat goes to great lengths in order to warm up and become the centre of attention.\" \n\nThis film was created to celebrate the release of the first Simon's Cat book. It brings to life one of the sketches from within its pages.\n\n\nDon't forget to SUBSCRIBE!\nhttp://www.youtube.com/subscription_center?add_user=simonscat\n\n\nThe official Simon's Cat website and shop:\n\nOfficial Website: http://www.simonscat.com\nOfficial webshop: https://shop.simonscat.com/\n\n\nStay connected with Simon's Cat on your favourite websites:\n\nFacebook: http://facebook.com/simonscat\nInstagram: https://www.instagram.com/simonscatofficial/\nGoogle+: http://plus.google.com/+SimonsCat\nTwitter: http://twitter.com/SimonsCat\nTumblr: http://simonscat.tumblr.com/\nPinterest: http://pinterest.com/simonscat\n\nThe Simon's Cat Extra Youtube channel for behind the scenes and tutorials: \nhttp://www.youtube.com/simonscatextra\n\nWhat software do you use?\nSimon's Cat is made using Adobe Flash.\n\nIf you want to email us:\ncontact@simonscat.com\n\nThank you for watching :)",
+        "youtube_id": "uOHvZjiDANg",
+        "created_at": 20181128023243,
+        "updated_at": 20181128023553,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 43
+    }
+}

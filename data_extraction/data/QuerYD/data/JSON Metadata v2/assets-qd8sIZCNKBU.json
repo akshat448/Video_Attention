@@ -1,0 +1,89 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5dbefed440c63e4ceb1ba0d0",
+                        "video": "5db6fe85ed93e405a6260ed7",
+                        "audio_description": "5db6fe8c0507ec5b3eb828ba",
+                        "user": "5da20978abc6166dd98565a8",
+                        "label": "Track 1 Eren ",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 44.629333333333335,
+                        "duration": 44.629333333333335,
+                        "file_name": "qd8sIZCNKBU_5dbefed440c63e4ceb1ba0d0.wav",
+                        "file_size_bytes": 8568876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qd8sIZCNKBU",
+                        "created_at": 20191103162244,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5dbf012040c63e4ceb1ba0d1",
+                        "video": "5db6fe85ed93e405a6260ed7",
+                        "audio_description": "5db6fe8c0507ec5b3eb828ba",
+                        "user": "5da20978abc6166dd98565a8",
+                        "label": "Track 2 Eren",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 69.46133333333333,
+                        "duration": 69.46133333333333,
+                        "file_name": "qd8sIZCNKBU_5dbf012040c63e4ceb1ba0d1.wav",
+                        "file_size_bytes": 13336620,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qd8sIZCNKBU",
+                        "created_at": 20191103163232,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5db6fe8c0507ec5b3eb828ba",
+                "video": "5db6fe85ed93e405a6260ed7",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5da20978abc6166dd98565a8",
+                    "email": "erenalkan.ege@gmail.com",
+                    "name": "eren alkan",
+                    "given_name": "eren",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mCJyzorgZPFiJAbYEWrfLRwDuZLRtpadF9jLDDqMw=s96-c",
+                    "locale": "en",
+                    "google_user_id": "108789978778674615767",
+                    "last_login": 20191103160834,
+                    "token": "aca1a0f67243e8632afae962e22af48a637af8ba01be1d284b86f0d8ec0f3bea",
+                    "__v": 0,
+                    "updated_at": 20191103160834,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "tr",
+                "created_at": 20191028144324,
+                "updated_at": 20191028144324,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5db6fe85ed93e405a6260ed7",
+        "title": "T\u00fcrk Kam\u015eaman Ayini Kopuz, Ikl\u0131\u011f, Davul   Turan Ensemble",
+        "description": "",
+        "youtube_id": "qd8sIZCNKBU",
+        "created_at": 20191028144317,
+        "updated_at": 20191103163232,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 258
+    }
+}

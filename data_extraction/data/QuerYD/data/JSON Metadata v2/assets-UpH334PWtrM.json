@@ -1,0 +1,303 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d2f8648340657085310bae9",
+                        "video": "5d2f8594340657085310bae7",
+                        "audio_description": "5d2f8594340657085310bae6",
+                        "user": "5d129b23fe01075b78e92cd3",
+                        "label": "Text 1",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 4.778666666666667,
+                        "duration": 4.778666666666667,
+                        "file_name": "UpH334PWtrM_5d2f8648340657085310bae9.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UpH334PWtrM",
+                        "created_at": 20190717203416,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2d7604239900952339",
+                                "sentence": " California high speed rail evolution of community hubs.",
+                                "start_time": 0.5,
+                                "end_time": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2f866d340657085310baea",
+                        "video": "5d2f8594340657085310bae7",
+                        "audio_description": "5d2f8594340657085310bae6",
+                        "user": "5d129b23fe01075b78e92cd3",
+                        "label": "Animation 1",
+                        "playback_type": "inline",
+                        "start_time": 4.735433,
+                        "end_time": 9.514099666666667,
+                        "duration": 4.778666666666667,
+                        "file_name": "UpH334PWtrM_5d2f866d340657085310baea.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UpH334PWtrM",
+                        "created_at": 20190717203453,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557f2314a7ae98ff6a9a8d",
+                                "sentence": " Animation shows a long train arriving at a station in an industrial area.",
+                                "start_time": 0.16,
+                                "end_time": 4.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2f8693340657085310baeb",
+                        "video": "5d2f8594340657085310bae7",
+                        "audio_description": "5d2f8594340657085310bae6",
+                        "user": "5d129b23fe01075b78e92cd3",
+                        "label": "Test 2",
+                        "playback_type": "inline",
+                        "start_time": 9.340025,
+                        "end_time": 18.214691666666667,
+                        "duration": 8.874666666666666,
+                        "file_name": "UpH334PWtrM_5d2f8693340657085310baeb.wav",
+                        "file_size_bytes": 1703980,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UpH334PWtrM",
+                        "created_at": 20190717203531,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e51760423990095243b",
+                                "sentence": " Envision the potential to revitalize a community through investment in a high speed rail station hub.",
+                                "start_time": 0.7,
+                                "end_time": 6.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2f86c0340657085310baec",
+                        "video": "5d2f8594340657085310bae7",
+                        "audio_description": "5d2f8594340657085310bae6",
+                        "user": "5d129b23fe01075b78e92cd3",
+                        "label": "Illustration 1",
+                        "playback_type": "inline",
+                        "start_time": 17.965633,
+                        "end_time": 28.120299666666668,
+                        "duration": 10.154666666666667,
+                        "file_name": "UpH334PWtrM_5d2f86c0340657085310baec.wav",
+                        "file_size_bytes": 1949740,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UpH334PWtrM",
+                        "created_at": 20190717203616,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c197f8232990368e8c6",
+                                "sentence": " Illustration shows a mock up of a station hub with green space and awning. A pedestrian overpass extends above freight and high speed tracks connecting the area to parking and buildings.",
+                                "start_time": 0.31,
+                                "end_time": 10.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2f86f81ee4e30a2d7fac6d",
+                        "video": "5d2f8594340657085310bae7",
+                        "audio_description": "5d2f8594340657085310bae6",
+                        "user": "5d129b23fe01075b78e92cd3",
+                        "label": "Text 3",
+                        "playback_type": "inline",
+                        "start_time": 27.846044,
+                        "end_time": 35.95271066666667,
+                        "duration": 8.106666666666667,
+                        "file_name": "UpH334PWtrM_5d2f86f81ee4e30a2d7fac6d.wav",
+                        "file_size_bytes": 1556524,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UpH334PWtrM",
+                        "created_at": 20190717203712,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557f2514a7ae98ff6a9b0c",
+                                "sentence": " A community offering convenient mobility, worry Free travel, economic growth,",
+                                "start_time": 0.2,
+                                "end_time": 5.74
+                            },
+                            {
+                                "_id": "5e557f2514a7ae98ff6a9b0b",
+                                "sentence": " and job opportunities.",
+                                "start_time": 5.74,
+                                "end_time": 7.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2f87321ee4e30a2d7fac6e",
+                        "video": "5d2f8594340657085310bae7",
+                        "audio_description": "5d2f8594340657085310bae6",
+                        "user": "5d129b23fe01075b78e92cd3",
+                        "label": "Illustration 2",
+                        "playback_type": "inline",
+                        "start_time": 35.777264,
+                        "end_time": 49.17459733333334,
+                        "duration": 13.397333333333334,
+                        "file_name": "UpH334PWtrM_5d2f87321ee4e30a2d7fac6e.wav",
+                        "file_size_bytes": 2572332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UpH334PWtrM",
+                        "created_at": 20190717203810,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e5076042399009523ea",
+                                "sentence": " Illustration shows an expanded station hub surrounded by more and larger buildings. The station building is bigger, and there are more trees. Instead of parking lots, there are parking structures, and there is a bus zone outside the hub.",
+                                "start_time": 0.5,
+                                "end_time": 12.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2f8756340657085310baed",
+                        "video": "5d2f8594340657085310bae7",
+                        "audio_description": "5d2f8594340657085310bae6",
+                        "user": "5d129b23fe01075b78e92cd3",
+                        "label": "Text 4",
+                        "playback_type": "inline",
+                        "start_time": 49.01793,
+                        "end_time": 59.59926333333333,
+                        "duration": 10.581333333333333,
+                        "file_name": "UpH334PWtrM_5d2f8756340657085310baed.wav",
+                        "file_size_bytes": 2031660,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UpH334PWtrM",
+                        "created_at": 20190717203846,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557bad14a7ae98ff6a9a39",
+                                "sentence": " Imagine the potential for focused growth,",
+                                "start_time": 0.25,
+                                "end_time": 2.85
+                            },
+                            {
+                                "_id": "5e557bad14a7ae98ff6a9a38",
+                                "sentence": " easy access to cultural venues, retail, shopping, hotels and dining, business parks, and community services.",
+                                "start_time": 3.02,
+                                "end_time": 10.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2f89381ee4e30a2d7fac6f",
+                        "video": "5d2f8594340657085310bae7",
+                        "audio_description": "5d2f8594340657085310bae6",
+                        "user": "5d129b23fe01075b78e92cd3",
+                        "label": "Text 5",
+                        "playback_type": "inline",
+                        "start_time": 59.75088311688312,
+                        "end_time": 72.29488311688311,
+                        "duration": 12.544,
+                        "file_name": "UpH334PWtrM_5d2f89381ee4e30a2d7fac6f.wav",
+                        "file_size_bytes": 2408492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UpH334PWtrM",
+                        "created_at": 20190717204648,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5579b87f8232990368e878",
+                                "sentence": " Imagine connectivity with other transportation modes.",
+                                "start_time": 2.19,
+                                "end_time": 5.68
+                            },
+                            {
+                                "_id": "5e5579b87f8232990368e877",
+                                "sentence": " Visualize a California high speed rail station as the new community hub.",
+                                "start_time": 6.6,
+                                "end_time": 11.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2f897f1ee4e30a2d7fac70",
+                        "video": "5d2f8594340657085310bae7",
+                        "audio_description": "5d2f8594340657085310bae6",
+                        "user": "5d129b23fe01075b78e92cd3",
+                        "label": "Text 6",
+                        "playback_type": "inline",
+                        "start_time": 74.25502,
+                        "end_time": 83.89768666666667,
+                        "duration": 9.642666666666667,
+                        "file_name": "UpH334PWtrM_5d2f897f1ee4e30a2d7fac70.wav",
+                        "file_size_bytes": 1851436,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UpH334PWtrM",
+                        "created_at": 20190717204759,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c1a7f8232990368e8d9",
+                                "sentence": " Learn more at h s r dot c a dog of or follow us on Twitter or Facebook.",
+                                "start_time": 2.94,
+                                "end_time": 9.35
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d2f8594340657085310bae6",
+                "video": "5d2f8594340657085310bae7",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d129b23fe01075b78e92cd3",
+                    "email": "sophiaericamax@gmail.com",
+                    "name": "Sophia Maxwell",
+                    "given_name": "Sophia",
+                    "picture": "https://lh4.googleusercontent.com/-3T2M3D0f4yM/AAAAAAAAAAI/AAAAAAAAAEg/w-nfum_gBtg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116979188556796290148",
+                    "last_login": 20190717234503,
+                    "token": "260aee12759e8ca4161333bdaccfb8f3fec4bc63b073afb363ad628f8c6eba3d",
+                    "__v": 0,
+                    "updated_at": 20190717234503,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190717203116,
+                "updated_at": 20190717203116,
+                "notes": "Descriptive Text Transcript: Conceptual Station Community\n\nVideo length: 1 minute and 23 seconds.\n\nAudio for this video is background music only. The on-screen text has been transcribed and illustrations have been described below.\n\n[Beginning of transcript]\n\nEvolution of Community Hubs\n\n[Animation shows: a long train arriving at a station in an industrial area.]\n\nEnvision the potential to revitalize a community through investment in a high-speed rail station hub.\n\n[Illustration shows: A mock-up of a station hub with green space and awnings. A pedestrian overpass extends above freight and high-speed tracks, connecting the area to parking and buildings.]\n\nA community offering: \n-\tConvenient Mobility\n-\tWorry-Free Travel\n-\tEconomic Growth\n-\tJob Opportunities\n\n[Second illustration shows: An expanded station hub surrounded by more and larger buildings. The station building is bigger, and there are more trees. Instead of parking lots there are parking structures, and there is a bus zone outside of the hub.]\n\nImagine the potential for focused growth\n\nEasy access to: \n-\tCultural Venues\n-\tRetail Shopping\n-\tHotels & Dining\n-\tBusiness Parks\n-\tCommunity Services\n\nImagine connectivity with other Transportation Modes\n\nVisualize a California High-Speed Rail Station as the new community hub.\n\nLearn more at H S R . C A  .GOV\nOr follow us on Twitter or Facebook.\n\n[End of transcript: Conceptual Station Community]\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "California High-Speed Rail Authority",
+            "California",
+            "High-Speed",
+            "Rail",
+            "Authority",
+            "Station Community"
+        ],
+        "custom_tags": [],
+        "_id": "5d2f8594340657085310bae7",
+        "title": "Conceptual Station Community",
+        "description": "Vision and planning: both playing key roles as the California High-Speed Rail Authority works to develop stations. Our vision is that high-speed rail stations will serve as more than just a train stop, they will transform cities, create community hubs and be iconic of the state. That is why we\u2019re calling them \u201cStation Communities\u201d. The video below is a conceptual representation of how our Station Communities can grow over time. While this may not be exactly how the stations will look, it does represent our plans for sustainability, functionality and the use of best practices at each of our high-speed rail stops.\n\nMusic Credits:\nFreeStockMusic.com\nMusic: New Frontiers",
+        "youtube_id": "UpH334PWtrM",
+        "created_at": 20190717203116,
+        "updated_at": 20190717204759,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "News & Politics",
+        "category_id": "25",
+        "duration": 84
+    }
+}

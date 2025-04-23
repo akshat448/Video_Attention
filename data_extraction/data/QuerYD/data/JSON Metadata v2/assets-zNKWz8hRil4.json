@@ -1,0 +1,120 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf3f46e13dfd851a2a2d",
+                        "audio_description": "58e7cf2b46e13dfd851a20da",
+                        "created_at": 20130816142739,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130816142739,
+                        "file_name": "zNKWz8hRil4-88-1-0-7-0.wav",
+                        "start_time": 7,
+                        "legacy_video_id": 1280,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 3583,
+                        "video": "58e7cf2846e13dfd851a1921",
+                        "end_time": 7,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f713",
+                                "sentence": " At braille Challenge 2013, kate lynn hernandez sings about what it's like to attend the Challenge in her version of a famous pop song.",
+                                "start_time": 0,
+                                "end_time": 10.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3f46e13dfd851a2a2e",
+                        "audio_description": "58e7cf2b46e13dfd851a20da",
+                        "created_at": 20130816143107,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130816143107,
+                        "file_name": "zNKWz8hRil4-88-1-0-236-0.wav",
+                        "start_time": 236,
+                        "legacy_video_id": 1280,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 3584,
+                        "video": "58e7cf2846e13dfd851a1921",
+                        "end_time": 236,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfe8",
+                                "sentence": " The braille Challenge, a national program of braille institute,",
+                                "start_time": 0,
+                                "end_time": 5.01
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20da",
+                "status": "published",
+                "legacy_video_id": 1280,
+                "legacy_user_id": 88,
+                "video": "58e7cf2846e13dfd851a1921",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20d1",
+                    "name": "jimhull",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20151217172851,
+                    "legacy_user_id": 88,
+                    "last_login": 0,
+                    "email": "jimhull@jimhull.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Patrick Warburton",
+            "Challenge",
+            "braille institute",
+            "blind",
+            "blind services",
+            "challenge maybe",
+            "braille challenge",
+            "caitlin hernadez",
+            "braille",
+            "blindness",
+            "blind kids"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1921",
+        "description": "",
+        "youtube_id": "zNKWz8hRil4",
+        "views": 0,
+        "created_at": 20130816142223,
+        "title": "2013 Braille Challenge Highlights.",
+        "legacy_video_id": 1280,
+        "updated_at": 20130816143107,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 261
+    }
+}

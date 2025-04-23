@@ -1,0 +1,808 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5a46e13dfd851a42f8",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622192251,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622192251,
+                        "file_name": "14350261717271.wav",
+                        "start_time": 2.125,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14080,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 2.125,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bfa67c75183e4aae96",
+                                "sentence": " After the train passes, the man look breaks the fourth wall and looks directly into the camera, having a conversation with his children.",
+                                "start_time": 0.31,
+                                "end_time": 8.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a42f9",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622192318,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622192318,
+                        "file_name": "14350261989191.wav",
+                        "start_time": 9.97,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14081,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 9.97,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bea67c75183e4aadc9",
+                                "sentence": " Camera shifts between the dad and the daughter and son as one of them speaks.",
+                                "start_time": 0.23,
+                                "end_time": 5.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a42fa",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622192559,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622192559,
+                        "file_name": "14350263593331.wav",
+                        "start_time": 88.618,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14084,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 88.618,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2ce95a30d183d6a028f",
+                                "sentence": " Man picks up his phone.",
+                                "start_time": 0.65,
+                                "end_time": 2.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a42fb",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622192625,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622192625,
+                        "file_name": "14350263858611.wav",
+                        "start_time": 101.743,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14085,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 101.743,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2ce95a30d183d6a02b5",
+                                "sentence": " Man puts phone next to his ear.",
+                                "start_time": 0.41,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a42fc",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622192743,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622192743,
+                        "file_name": "14350264631501.wav",
+                        "start_time": 106.4,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14086,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 106.4,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bea67c75183e4aadcf",
+                                "sentence": " Been shifts. And then a picture of new york city at night time is shown.",
+                                "start_time": 0.29,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a42fd",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622192807,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622192807,
+                        "file_name": "14350264872821.wav",
+                        "start_time": 111.211,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14087,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 111.211,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2ce95a30d183d6a028e",
+                                "sentence": " Woman opens door with five dogs in a new york apartment.",
+                                "start_time": 0.46,
+                                "end_time": 5.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a42ff",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622192900,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622192900,
+                        "file_name": "14350265407561.wav",
+                        "start_time": 131.262,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14089,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 131.262,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2ce95a30d183d6a0296",
+                                "sentence": " When opens window and looks outside.",
+                                "start_time": 0.22,
+                                "end_time": 2.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a4300",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622192959,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622192959,
+                        "file_name": "14350265995921.wav",
+                        "start_time": 134.42,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14090,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 134.42,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bfa67c75183e4aae79",
+                                "sentence": " And looks out her window and sees the man staring back up at her from the ground.",
+                                "start_time": 0.22,
+                                "end_time": 5.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a4301",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622193029,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622193029,
+                        "file_name": "14350266299111.wav",
+                        "start_time": 138.755,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14091,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 138.755,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2ce95a30d183d6a02c7",
+                                "sentence": " Man holds up a blue French horn. Also in this story, it is known as a smurfs penis.",
+                                "start_time": 0.42,
+                                "end_time": 6.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a4302",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622193048,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622193048,
+                        "file_name": "14350266486221.wav",
+                        "start_time": 144.627,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14092,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 144.627,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2ce95a30d183d6a0288",
+                                "sentence": " Woman at the window starts to cry and smiles.",
+                                "start_time": 0.57,
+                                "end_time": 4.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a4303",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622193131,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622193131,
+                        "file_name": "14350266917401.wav",
+                        "start_time": 157.191,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14093,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 157.191,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bea67c75183e4aade4",
+                                "sentence": " Marshall eriksen plays as jason segel.",
+                                "start_time": 0.91,
+                                "end_time": 4.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a4305",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622193231,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622193231,
+                        "file_name": "14350267517621.wav",
+                        "start_time": 163.9,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14095,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 163.9,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2ce95a30d183d6a0292",
+                                "sentence": " Neil patrick harris plays as barney stinson.",
+                                "start_time": 0.42,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a4306",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622193247,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622193247,
+                        "file_name": "14350267673291.wav",
+                        "start_time": 160.172,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14096,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 160.172,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2cd95a30d183d6a026b",
+                                "sentence": " The aldrin is played by alyson hannigan,",
+                                "start_time": 0.22,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a4307",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622193320,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622193320,
+                        "file_name": "14350268004221.wav",
+                        "start_time": 167.841,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14097,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 167.841,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2cd95a30d183d6a027f",
+                                "sentence": " Bask is played by kobe shoulders.",
+                                "start_time": 0.28,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a4308",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622193334,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622193334,
+                        "file_name": "14350268149391.wav",
+                        "start_time": 171.855,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14098,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 171.855,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bfa67c75183e4aae8c",
+                                "sentence": " Jason radner plays as ted. Mos b.",
+                                "start_time": 0.79,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a430a",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622193400,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622193400,
+                        "file_name": "14350268409051.wav",
+                        "start_time": 175.921,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 14100,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 175.921,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bea67c75183e4aae15",
+                                "sentence": " Mom is played by christian melody.",
+                                "start_time": 0.23,
+                                "end_time": 2.78
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3146e13dfd851a240b",
+                "status": "published",
+                "legacy_video_id": 2020,
+                "legacy_user_id": 2308,
+                "video": "58e7cf2946e13dfd851a1bf7",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3146e13dfd851a2408",
+                    "name": "ilmi",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2308,
+                    "last_login": 0,
+                    "email": "ilmi@sfsu.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5a46e13dfd851a42fe",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622192840,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622192840,
+                        "file_name": "14350265207401.wav",
+                        "start_time": 1.003,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2394,
+                        "label": "",
+                        "legacy_audio_clip_id": 14088,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 1.003,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2414",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bea67c75183e4aade6",
+                                "sentence": " And age ted most be sits across from his son and daughter who are giving him a disapproving look as he finishes his Pro long story of how he met their mother.",
+                                "start_time": 0.26,
+                                "end_time": 8.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a4304",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622193221,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622193221,
+                        "file_name": "14350267414931.wav",
+                        "start_time": 89.328,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2394,
+                        "label": "",
+                        "legacy_audio_clip_id": 14094,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 89.328,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2414",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bea67c75183e4aae56",
+                                "sentence": " Ted mosey picks up phone, contemplating whether to call robin.",
+                                "start_time": 0.11,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a4309",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150622193352,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150622193352,
+                        "file_name": "14350268324001.wav",
+                        "start_time": 110.007,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2394,
+                        "label": "",
+                        "legacy_audio_clip_id": 14099,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 110.007,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2414",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2ce95a30d183d6a02b1",
+                                "sentence": " Robin enters apartment disheveled, holding several dogs.",
+                                "start_time": 0.05,
+                                "end_time": 4.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a430b",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150623113016,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150623113016,
+                        "file_name": "14350842163421.wav",
+                        "start_time": 118.285,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2394,
+                        "label": "",
+                        "legacy_audio_clip_id": 14101,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 118.285,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2414",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2ce95a30d183d6a028d",
+                                "sentence": " All five dogs continue to wander round the apartment aimlessly.",
+                                "start_time": 0,
+                                "end_time": 3.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a430c",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150623113132,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150623113132,
+                        "file_name": "14350842921441.wav",
+                        "start_time": 130.836,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2394,
+                        "label": "",
+                        "legacy_audio_clip_id": 14103,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 130.836,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2414",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bea67c75183e4aae1c",
+                                "sentence": " Robin opens a window and sticks her head outside.",
+                                "start_time": 0,
+                                "end_time": 3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a430d",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150623113219,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150623113219,
+                        "file_name": "14350843394601.wav",
+                        "start_time": 134.129,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2394,
+                        "label": "",
+                        "legacy_audio_clip_id": 14104,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 134.129,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2414",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2ce95a30d183d6a02ca",
+                                "sentence": " Ted stands on the sidewalk looking up.",
+                                "start_time": 0,
+                                "end_time": 2.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a430e",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150623113305,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150623113305,
+                        "file_name": "14350843854161.wav",
+                        "start_time": 139.594,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2394,
+                        "label": "",
+                        "legacy_audio_clip_id": 14105,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 139.594,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2414",
+                        "transcript": [
+                            {
+                                "_id": "5e30a00488d6c9183c280e2b",
+                                "sentence": " Ted holds up a blue French horn, raising his eyebrows in a suggestive manner.",
+                                "start_time": 0,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a430f",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150623113326,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150623113326,
+                        "file_name": "14350844069371.wav",
+                        "start_time": 144.44,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2394,
+                        "label": "",
+                        "legacy_audio_clip_id": 14106,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 144.44,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2414",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2ce95a30d183d6a02b8",
+                                "sentence": " Robin smiles and begins to cry.",
+                                "start_time": 0.03,
+                                "end_time": 2.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a4310",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150623113352,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150623113352,
+                        "file_name": "14350844323921.wav",
+                        "start_time": 152.668,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2394,
+                        "label": "",
+                        "legacy_audio_clip_id": 14107,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 152.668,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2414",
+                        "transcript": [
+                            {
+                                "_id": "5e30a00488d6c9183c280e4b",
+                                "sentence": " The screen reads how I met your mother.",
+                                "start_time": 0.1,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5a46e13dfd851a4311",
+                        "audio_description": "58e7cf3146e13dfd851a240b",
+                        "created_at": 20150623113822,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150623113822,
+                        "file_name": "14350847021711.wav",
+                        "start_time": 103.855,
+                        "legacy_video_id": 2020,
+                        "legacy_user_id": 2394,
+                        "label": "",
+                        "legacy_audio_clip_id": 14108,
+                        "video": "58e7cf2946e13dfd851a1bf7",
+                        "end_time": 103.855,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2414",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bea67c75183e4aae55",
+                                "sentence": " Ted hangs up the phone.",
+                                "start_time": 0,
+                                "end_time": 1.84
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3146e13dfd851a2416",
+                "status": "published",
+                "legacy_video_id": 2020,
+                "legacy_user_id": 2394,
+                "video": "58e7cf2946e13dfd851a1bf7",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3146e13dfd851a2414",
+                    "name": "AshleyP",
+                    "google_user_id_token": "",
+                    "created_at": 20141008222638,
+                    "updated_at": 20150814153650,
+                    "legacy_user_id": 2394,
+                    "last_login": 0,
+                    "email": "ashleypark101@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1bf7",
+        "description": "",
+        "youtube_id": "nW82fRNJc84",
+        "views": 0,
+        "created_at": 20150622191531,
+        "title": "How I Met Your Mother - Ending Scene",
+        "legacy_video_id": 2020,
+        "updated_at": 20150623113822,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 182
+    }
+}

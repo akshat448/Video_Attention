@@ -1,0 +1,98 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5d46e13dfd851a452f",
+                        "audio_description": "58e7cf3046e13dfd851a2365",
+                        "created_at": 20150822072159,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822072159,
+                        "file_name": "14402533189921.wav",
+                        "start_time": 0.214,
+                        "legacy_video_id": 2067,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14818,
+                        "video": "58e7cf2946e13dfd851a1c26",
+                        "end_time": 0.214,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e16c321d02ed79aa16c1ba8",
+                                "sentence": " William, a young toddler sits on the floor, a toy spread out around him.",
+                                "start_time": 0.79,
+                                "end_time": 5.9
+                            },
+                            {
+                                "_id": "5e16c321d02ed79aa16c1ba7",
+                                "sentence": " An adult sets near him and uses a baby blanket to cover up his book.",
+                                "start_time": 6.05,
+                                "end_time": 10.56
+                            },
+                            {
+                                "_id": "5e16c321d02ed79aa16c1ba6",
+                                "sentence": " When she asked him to find his book, he stares intently and looks away.",
+                                "start_time": 10.84,
+                                "end_time": 16.05
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2365",
+                "status": "published",
+                "legacy_video_id": 2067,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c26",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "overall_rating_average": 3,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 3,
+                "updated_at": 20170906185355,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "object permanance"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c26",
+        "description": "",
+        "youtube_id": "yH2wT5aTmb8",
+        "views": 0,
+        "created_at": 20150822065955,
+        "title": "William loses his book",
+        "legacy_video_id": 2067,
+        "updated_at": 20160823114753,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 32
+    }
+}

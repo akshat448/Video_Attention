@@ -1,0 +1,160 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59cec6c0495d226f5682ff47",
+                        "video": "59cec67d495d226f5682ff45",
+                        "audio_description": "59cec67d495d226f5682ff44",
+                        "user": "59c93b055aa75c37bee206db",
+                        "label": "spot rambo",
+                        "playback_type": "extended",
+                        "start_time": 12.601247,
+                        "end_time": 12.601247,
+                        "duration": 9.045333333333334,
+                        "file_name": "pJsFhkb8e4Q_59cec6c0495d226f5682ff47.wav",
+                        "file_size_bytes": 1736748,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/pJsFhkb8e4Q",
+                        "created_at": 20170929221840,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec1f",
+                                "sentence": " Rations into helicopters. Start to approach a mountain drain where rambo is seen walking exposed.",
+                                "start_time": 0.96,
+                                "end_time": 8.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59cec729495d226f5682ff48",
+                        "video": "59cec67d495d226f5682ff45",
+                        "audio_description": "59cec67d495d226f5682ff44",
+                        "user": "59c93b055aa75c37bee206db",
+                        "label": "get the arrow ready",
+                        "playback_type": "extended",
+                        "start_time": 22.769877,
+                        "end_time": 22.769877,
+                        "duration": 8.96,
+                        "file_name": "pJsFhkb8e4Q_59cec729495d226f5682ff48.wav",
+                        "file_size_bytes": 1720364,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/pJsFhkb8e4Q",
+                        "created_at": 20170929222025,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec6c",
+                                "sentence": " Rambo sense his friend off to hiding as he begins to assemble his arrow",
+                                "start_time": 0.95,
+                                "end_time": 6.91
+                            },
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec6b",
+                                "sentence": " to shoot at the helicopters.",
+                                "start_time": 6.91,
+                                "end_time": 8.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59cec7bc495d226f5682ff49",
+                        "video": "59cec67d495d226f5682ff45",
+                        "audio_description": "59cec67d495d226f5682ff44",
+                        "user": "59c93b055aa75c37bee206db",
+                        "label": "helicopter",
+                        "playback_type": "extended",
+                        "start_time": 54.657488,
+                        "end_time": 54.657488,
+                        "duration": 15.786666666666667,
+                        "file_name": "pJsFhkb8e4Q_59cec7bc495d226f5682ff49.wav",
+                        "file_size_bytes": 3031084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/pJsFhkb8e4Q",
+                        "created_at": 20170929222252,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec22",
+                                "sentence": " Emerging from behind a rock, rainbow is face to face with one of the helicopters.",
+                                "start_time": 1.01,
+                                "end_time": 7.15
+                            },
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec21",
+                                "sentence": " He aims his bow as the Russian space is empty. An ick",
+                                "start_time": 7.2,
+                                "end_time": 11.08
+                            },
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec20",
+                                "sentence": " rambo shoots the arrow leading to a big explosion. The helicopter.",
+                                "start_time": 11.28,
+                                "end_time": 15.68
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59cec67d495d226f5682ff44",
+                "video": "59cec67d495d226f5682ff45",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59c93b055aa75c37bee206db",
+                    "email": "hstephan@scu.edu",
+                    "name": "Heather Stephan",
+                    "given_name": "Heather",
+                    "picture": "https://lh4.googleusercontent.com/-hvPk6Ud2Q3Y/AAAAAAAAAAI/AAAAAAAAAGM/Md1hZ0cEdWc/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "109435473604423199206",
+                    "last_login": 20180312204002,
+                    "token": "83ecf9620c5431d3e4abcb35ac0c85d503607178f6437c2fe0189471fa50c877",
+                    "__v": 0,
+                    "updated_at": 20180312204002,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170929221733,
+                "updated_at": 20171004182144,
+                "notes": "russians in two helicopters start to approach a mountain terrain, where rambo is seen walking exposed.\r\nrambo sends his friend off to hiding, as he begins to assemble his arrow.\r\nemerging from behind a rock, rambo is face-to-face with one of the helicopters. he aims his bow, as the russian's face is in panic. rambo shoots the arrow, leading to a big explosion in the helicopter.",
+                "__v": 0,
+                "overall_rating_average": 3,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 3,
+                "admin_review": "",
+                "feedbacks": {
+                    "1": 1,
+                    "3": 1
+                }
+            }
+        ],
+        "tags": [
+            "Rambo",
+            "Rambo 3",
+            "John Rambo",
+            "Rambo 3 Explosive Arrow Scene",
+            "Rambo Explosive Arrow Scene",
+            "Sylvester Stallone",
+            "Sylvester Stallone Movie"
+        ],
+        "custom_tags": [],
+        "_id": "59cec67d495d226f5682ff45",
+        "title": "Rambo 3 (1988) - Explosive Arrow Scene (1080p) FULL HD",
+        "description": "For More Rambo Movie Scenes - https://www.youtube.com/playlist?list=PLainponqoUGMIw3mCRZO5n5xB8X129-fW\r\nVisit Our Channel - https://www.youtube.com/channel/UCuwxAIqBcP-9W9CNYAAg7KA",
+        "youtube_id": "pJsFhkb8e4Q",
+        "created_at": 20170929221733,
+        "updated_at": 20170929222252,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 64
+    }
+}

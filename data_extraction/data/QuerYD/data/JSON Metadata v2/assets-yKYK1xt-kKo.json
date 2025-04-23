@@ -1,0 +1,219 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d5d68a415c8ca3ccf56d584",
+                        "video": "5d5d67b715c8ca3ccf56d583",
+                        "audio_description": "5d5d67b715c8ca3ccf56d582",
+                        "user": "5d5a88d815c8ca3ccf56d574",
+                        "label": "Luke practicing",
+                        "playback_type": "extended",
+                        "start_time": 3.059778,
+                        "end_time": 3.059778,
+                        "duration": 15.139410430839002,
+                        "file_name": "yKYK1xt-kKo_5d5d68a415c8ca3ccf56d584.wav",
+                        "file_size_bytes": 2670636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/yKYK1xt-kKo",
+                        "created_at": 20190821155204,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c3f9b3b3649a9fc09dcf",
+                                "sentence": " Look, sky walker is doing a 1 armed handstand with yoder balanced on his foot.",
+                                "start_time": 1.32,
+                                "end_time": 7.31
+                            },
+                            {
+                                "_id": "5e16c3f9b3b3649a9fc09dce",
+                                "sentence": " He is attempting to lift some boulders and get his ship out of the swamp using the force.",
+                                "start_time": 7.67,
+                                "end_time": 13.9
+                            },
+                            {
+                                "_id": "5e16c3f9b3b3649a9fc09dcd",
+                                "sentence": " Yeah?",
+                                "start_time": 14.1,
+                                "end_time": 14.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d5d691d8302113cc4be4ed1",
+                        "video": "5d5d67b715c8ca3ccf56d583",
+                        "audio_description": "5d5d67b715c8ca3ccf56d582",
+                        "user": "5d5a88d815c8ca3ccf56d574",
+                        "label": "Luke failing",
+                        "playback_type": "extended",
+                        "start_time": 13.907606,
+                        "end_time": 13.907606,
+                        "duration": 9.009342403628118,
+                        "file_name": "yKYK1xt-kKo_5d5d691d8302113cc4be4ed1.wav",
+                        "file_size_bytes": 1589292,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/yKYK1xt-kKo",
+                        "created_at": 20190821155405,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c3f9b3b3649a9fc09d74",
+                                "sentence": " Luke starts to fail, and the ship slowly sinks back into the swamp,",
+                                "start_time": 1.13,
+                                "end_time": 5.74
+                            },
+                            {
+                                "_id": "5e16c3f9b3b3649a9fc09d73",
+                                "sentence": " and yoder falls to the ground.",
+                                "start_time": 5.82,
+                                "end_time": 8.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d5d697d15c8ca3ccf56d585",
+                        "video": "5d5d67b715c8ca3ccf56d583",
+                        "audio_description": "5d5d67b715c8ca3ccf56d582",
+                        "user": "5d5a88d815c8ca3ccf56d574",
+                        "label": "Luke Tries again",
+                        "playback_type": "extended",
+                        "start_time": 78.730556,
+                        "end_time": 78.730556,
+                        "duration": 5.851428571428571,
+                        "file_name": "yKYK1xt-kKo_5d5d697d15c8ca3ccf56d585.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/yKYK1xt-kKo",
+                        "created_at": 20190821155541,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c5f4d02ed79aa16c1ccb",
+                                "sentence": " Luke attempts to raise the ship out of the swamp again.",
+                                "start_time": 0.89,
+                                "end_time": 4.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d5d69af8302113cc4be4ed2",
+                        "video": "5d5d67b715c8ca3ccf56d583",
+                        "audio_description": "5d5d67b715c8ca3ccf56d582",
+                        "user": "5d5a88d815c8ca3ccf56d574",
+                        "label": "Luke fails again",
+                        "playback_type": "extended",
+                        "start_time": 95.314441,
+                        "end_time": 95.314441,
+                        "duration": 6.873106575963718,
+                        "file_name": "yKYK1xt-kKo_5d5d69af8302113cc4be4ed2.wav",
+                        "file_size_bytes": 1212460,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/yKYK1xt-kKo",
+                        "created_at": 20190821155631,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c5f4d02ed79aa16c1c58",
+                                "sentence": " Luke fails again, and the ship sinks back into the swamp.",
+                                "start_time": 1.31,
+                                "end_time": 6.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d5d6a538302113cc4be4ed3",
+                        "video": "5d5d67b715c8ca3ccf56d583",
+                        "audio_description": "5d5d67b715c8ca3ccf56d582",
+                        "user": "5d5a88d815c8ca3ccf56d574",
+                        "label": "Yoda tries",
+                        "playback_type": "extended",
+                        "start_time": 200.03895,
+                        "end_time": 200.03895,
+                        "duration": 9.287981859410431,
+                        "file_name": "yKYK1xt-kKo_5d5d6a538302113cc4be4ed3.wav",
+                        "file_size_bytes": 1638444,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/yKYK1xt-kKo",
+                        "created_at": 20190821155915,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c3f8b3b3649a9fc09d61",
+                                "sentence": " A frustrated luke walks away to sulk.",
+                                "start_time": 0.92,
+                                "end_time": 3.72
+                            },
+                            {
+                                "_id": "5e16c3f8b3b3649a9fc09d60",
+                                "sentence": " Meanwhile, yoder uses the force to lift the ship out of the swamp.",
+                                "start_time": 3.92,
+                                "end_time": 8.59
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d5d67b715c8ca3ccf56d582",
+                "video": "5d5d67b715c8ca3ccf56d583",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d5a88d815c8ca3ccf56d574",
+                    "email": "lois.swears@gmail.com",
+                    "name": "Lois Swears",
+                    "given_name": "Lois",
+                    "picture": "https://lh5.googleusercontent.com/-FEz3u-_Ma20/AAAAAAAAAAI/AAAAAAAAAAc/cWn-w5fjUC8/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "106193892678936053028",
+                    "last_login": 20200819150425,
+                    "token": "e69e6f70deba63ff6d6352ec7c2aa96613208f3967898d61ea6f9eff415dd3c3",
+                    "__v": 0,
+                    "updated_at": 20200819150425,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190821154807,
+                "updated_at": 20191018220306,
+                "notes": "A frustrated Luke walks away to sulk. Meanwhile, Yoda uses the force to lift the ship out of the swamp. ",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 3,
+                "overall_rating_votes_sum": 13,
+                "admin_review": "",
+                "feedbacks": {
+                    "2": 1,
+                    "3": 1,
+                    "8": 1
+                }
+            }
+        ],
+        "tags": [
+            "star",
+            "wars",
+            "jesus",
+            "wisdom",
+            "james",
+            "church",
+            "faith",
+            "try",
+            "relationship"
+        ],
+        "custom_tags": [],
+        "_id": "5d5d67b715c8ca3ccf56d583",
+        "title": "Yoda on Faith",
+        "description": "Yoda is like the apostle Paul, but in Star Wars. There are some fantastical spiritual tidbits to preach from in this clip.",
+        "youtube_id": "yKYK1xt-kKo",
+        "created_at": 20190821154807,
+        "updated_at": 20190821155915,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 285
+    }
+}

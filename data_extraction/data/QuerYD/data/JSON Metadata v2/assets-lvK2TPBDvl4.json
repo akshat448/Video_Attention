@@ -1,0 +1,183 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6346e13dfd851a497c",
+                        "audio_description": "58e7cf3246e13dfd851a247a",
+                        "created_at": 20151018111611,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151018111611,
+                        "file_name": "14451921714371.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2231,
+                        "legacy_user_id": 2782,
+                        "label": "",
+                        "legacy_audio_clip_id": 16395,
+                        "video": "58e7cf2946e13dfd851a1cca",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 18.41,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a2475",
+                        "transcript": [
+                            {
+                                "_id": "5e3d5c8ddeecb2b101c8d11e",
+                                "sentence": " Words appear",
+                                "start_time": 0.11,
+                                "end_time": 1.78
+                            },
+                            {
+                                "_id": "5e3d5c8ddeecb2b101c8d11d",
+                                "sentence": " listening to the experts",
+                                "start_time": 1.78,
+                                "end_time": 3.96
+                            },
+                            {
+                                "_id": "5e3d5c8ddeecb2b101c8d11c",
+                                "sentence": " on this video, three experts from the museum and blind communities speak on camera.",
+                                "start_time": 4.28,
+                                "end_time": 11.18
+                            },
+                            {
+                                "_id": "5e3d5c8ddeecb2b101c8d11b",
+                                "sentence": " First is joseph warton,",
+                                "start_time": 11.52,
+                                "end_time": 13.87
+                            },
+                            {
+                                "_id": "5e3d5c8ddeecb2b101c8d11a",
+                                "sentence": " musicologist and museum assess abilities advocate.",
+                                "start_time": 13.94,
+                                "end_time": 18.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6346e13dfd851a497d",
+                        "audio_description": "58e7cf3246e13dfd851a247a",
+                        "created_at": 20151018111751,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151018111751,
+                        "file_name": "14451922710911.wav",
+                        "start_time": 187.871,
+                        "legacy_video_id": 2231,
+                        "legacy_user_id": 2782,
+                        "label": "",
+                        "legacy_audio_clip_id": 16396,
+                        "video": "58e7cf2946e13dfd851a1cca",
+                        "end_time": 187.871,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a2475",
+                        "transcript": [
+                            {
+                                "_id": "5e3d5c8cdeecb2b101c8d0eb",
+                                "sentence": " Words up here.",
+                                "start_time": 0.05,
+                                "end_time": 1.66
+                            },
+                            {
+                                "_id": "5e3d5c8cdeecb2b101c8d0ea",
+                                "sentence": " Kitty string, a p h d",
+                                "start_time": 1.73,
+                                "end_time": 4.86
+                            },
+                            {
+                                "_id": "5e3d5c8cdeecb2b101c8d0e9",
+                                "sentence": " museum disabilities advocate.",
+                                "start_time": 4.86,
+                                "end_time": 7.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6346e13dfd851a497e",
+                        "audio_description": "58e7cf3246e13dfd851a247a",
+                        "created_at": 20151018112236,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151018112236,
+                        "file_name": "14451925565731.wav",
+                        "start_time": 290.989,
+                        "legacy_video_id": 2231,
+                        "legacy_user_id": 2782,
+                        "label": "",
+                        "legacy_audio_clip_id": 16397,
+                        "video": "58e7cf2946e13dfd851a1cca",
+                        "end_time": 290.989,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a2475",
+                        "transcript": [
+                            {
+                                "_id": "5e3d5c8cdeecb2b101c8d0bb",
+                                "sentence": " Words appear. 3D photo works.",
+                                "start_time": 0.2,
+                                "end_time": 3.8
+                            },
+                            {
+                                "_id": "5e3d5c8cdeecb2b101c8d0ba",
+                                "sentence": " For more Information, go to 3D photo works dot com.",
+                                "start_time": 3.8,
+                                "end_time": 8.07
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3246e13dfd851a247a",
+                "status": "published",
+                "legacy_video_id": 2231,
+                "legacy_user_id": 2782,
+                "video": "58e7cf2946e13dfd851a1cca",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3246e13dfd851a2475",
+                    "name": "john@3dphotoworks.com",
+                    "google_user_id_token": "",
+                    "created_at": 20151007173116,
+                    "updated_at": 20151011025649,
+                    "legacy_user_id": 2782,
+                    "last_login": 0,
+                    "email": "john@3dphotoworks.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "3D Printing",
+            "Fine Art (Industry)",
+            "Blindness (Disease Or Medical Condition)",
+            "Museology (Field Of Study)"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1cca",
+        "description": "",
+        "youtube_id": "lvK2TPBDvl4",
+        "views": 0,
+        "created_at": 20151018110819,
+        "title": "Experts with audio description",
+        "legacy_video_id": 2231,
+        "updated_at": 20151018112236,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 979
+    }
+}

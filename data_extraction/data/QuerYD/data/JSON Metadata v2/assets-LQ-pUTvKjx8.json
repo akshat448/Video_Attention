@@ -1,0 +1,70 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5e519cd20d7e1b2b646c3862",
+                        "video": "5e5199fa0d7e1b2b646c3860",
+                        "audio_description": "5e5199fa0d7e1b2b646c385f",
+                        "user": "5e5198440d7e1b2b646c385d",
+                        "label": "A bar graph depicts information regarding employment for disabled and non disabled Americans. In 1991, 50.2% of disabled Americans were employed and 84.4% of non-disabled Americans were employed. In 2010, 41.1% of disabled Americans were employed and 79.1% of non-disabled Americans were employed. ",
+                        "playback_type": "extended",
+                        "start_time": 7.188812,
+                        "end_time": 7.188812,
+                        "duration": 21.826757369614512,
+                        "file_name": "LQ-pUTvKjx8_5e519cd20d7e1b2b646c3862.wav",
+                        "file_size_bytes": 3850284,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LQ-pUTvKjx8",
+                        "created_at": 20200222212746,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5e5199fa0d7e1b2b646c385f",
+                "video": "5e5199fa0d7e1b2b646c3860",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e5198440d7e1b2b646c385d",
+                    "email": "ks3401@barnard.edu",
+                    "name": "Kristina Saha",
+                    "given_name": "Kristina",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mCQGePEH3ElppFVU8ifaTxAiNXLoXk4tBFrdx73Bg=s96-c",
+                    "locale": "en",
+                    "google_user_id": "103815934928148054121",
+                    "last_login": 20200222210820,
+                    "token": "622b10b69e85b2bf6018ace76f1a908dee7556d5adb0d2f0a1dc20ad679c5d50",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200222211538,
+                "updated_at": 20200222211538,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5e5199fa0d7e1b2b646c3860",
+        "title": "Employment Rates for Disabled and Non-Disabled Americans (Captioned)",
+        "description": "",
+        "youtube_id": "LQ-pUTvKjx8",
+        "created_at": 20200222211538,
+        "updated_at": 20200222212746,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

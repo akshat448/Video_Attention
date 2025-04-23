@@ -1,0 +1,270 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b57",
+                        "audio_description": "58e7cf3546e13dfd851a25b9",
+                        "created_at": 20160823113251,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160823113251,
+                        "file_name": "14719771713681.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2665,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23980,
+                        "video": "58e7cf2946e13dfd851a1e7c",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 34.78,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268679f74cbc7c082cb0",
+                                "sentence": " A light skinned adolescent male student sits in an office share at a circular table.",
+                                "start_time": 0.09,
+                                "end_time": 6.31
+                            },
+                            {
+                                "_id": "5e44268679f74cbc7c082caf",
+                                "sentence": " On the table is a wood board with white lines in a grid representing roads and dark brown rectangles representing blocks between squares made by the white lines.",
+                                "start_time": 6.52,
+                                "end_time": 18.81
+                            },
+                            {
+                                "_id": "5e44268679f74cbc7c082cae",
+                                "sentence": " A wooden square with a peg is on the board.",
+                                "start_time": 18.94,
+                                "end_time": 23.36
+                            },
+                            {
+                                "_id": "5e44268679f74cbc7c082cad",
+                                "sentence": " His left represents the west. His right",
+                                "start_time": 25.2,
+                                "end_time": 28.82
+                            },
+                            {
+                                "_id": "5e44268679f74cbc7c082cac",
+                                "sentence": " east away from his body's North toward his body is south.",
+                                "start_time": 28.82,
+                                "end_time": 33.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b58",
+                        "audio_description": "58e7cf3546e13dfd851a25b9",
+                        "created_at": 20160823113421,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160823113421,
+                        "file_name": "14719772617031.wav",
+                        "start_time": 14.445,
+                        "legacy_video_id": 2665,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23981,
+                        "video": "58e7cf2946e13dfd851a1e7c",
+                        "end_time": 14.445,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44243df8a7edbc7bf679b4",
+                                "sentence": " The student picks up the peg and moves it across the board from his right to his left, stopping at the end corner of the first block,",
+                                "start_time": 0.31,
+                                "end_time": 8.43
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679b3",
+                                "sentence": " and then across to the next block, pausing at the starting corner.",
+                                "start_time": 8.43,
+                                "end_time": 13.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b59",
+                        "audio_description": "58e7cf3546e13dfd851a25b9",
+                        "created_at": 20160823114106,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160823114106,
+                        "file_name": "14719776660911.wav",
+                        "start_time": 22.322,
+                        "legacy_video_id": 2665,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23984,
+                        "video": "58e7cf2946e13dfd851a1e7c",
+                        "end_time": 22.322,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 26.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb24a3885227afb5cd7b",
+                                "sentence": " The student has the peg at the corner of the second block in his left hand and is feeling the raised edges",
+                                "start_time": 0.8,
+                                "end_time": 8.53
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd7a",
+                                "sentence": " of the dark brown rectangle representing the block with his right hand.",
+                                "start_time": 8.53,
+                                "end_time": 12.56
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd79",
+                                "sentence": " Then with his left hand,",
+                                "start_time": 12.56,
+                                "end_time": 14.16
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd78",
+                                "sentence": " he moves the peg to the end of the second block, pausing there for a moment,",
+                                "start_time": 14.84,
+                                "end_time": 20.22
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd77",
+                                "sentence": " then forward away from his body",
+                                "start_time": 20.22,
+                                "end_time": 23.32
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd76",
+                                "sentence": " to the end corner of that block.",
+                                "start_time": 23.32,
+                                "end_time": 25.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b5a",
+                        "audio_description": "58e7cf3546e13dfd851a25b9",
+                        "created_at": 20160823114220,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160823114220,
+                        "file_name": "14719777405961.wav",
+                        "start_time": 40.265,
+                        "legacy_video_id": 2665,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23985,
+                        "video": "58e7cf2946e13dfd851a1e7c",
+                        "end_time": 40.265,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44230ba888c4bc7acb60a6",
+                                "sentence": " Now stopped at the desired corner, he begins to do the reverse,",
+                                "start_time": 0.81,
+                                "end_time": 5.46
+                            },
+                            {
+                                "_id": "5e44230ba888c4bc7acb60a5",
+                                "sentence": " moving the peg toward his body,",
+                                "start_time": 5.46,
+                                "end_time": 7.65
+                            },
+                            {
+                                "_id": "5e44230ba888c4bc7acb60a4",
+                                "sentence": " then from his left to his right",
+                                "start_time": 7.65,
+                                "end_time": 9.94
+                            },
+                            {
+                                "_id": "5e44230ba888c4bc7acb60a3",
+                                "sentence": " back to where the peg started.",
+                                "start_time": 9.94,
+                                "end_time": 12.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b5b",
+                        "audio_description": "58e7cf3546e13dfd851a25b9",
+                        "created_at": 20160823114252,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160823114252,
+                        "file_name": "14719777723671.wav",
+                        "start_time": 54.191,
+                        "legacy_video_id": 2665,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23986,
+                        "video": "58e7cf2946e13dfd851a1e7c",
+                        "end_time": 54.191,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e442700c26fa0bc796fd438",
+                                "sentence": " A woman leans forward over the board and removes the green base and peg from the board.",
+                                "start_time": 0.84,
+                                "end_time": 7.29
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25b9",
+                "status": "published",
+                "legacy_video_id": 2665,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e7c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e7c",
+        "description": "",
+        "youtube_id": "0Cqt__04bAk",
+        "views": 0,
+        "created_at": 20160823113200,
+        "title": "MTcompassDirections1-part3",
+        "legacy_video_id": 2665,
+        "updated_at": 20160823114252,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 61
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d2620e56e1ff55b95381a4b",
+                        "video": "5d261d186e1ff55b95381a42",
+                        "audio_description": "5d261d186e1ff55b95381a41",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 30.007023,
+                        "end_time": 30.007023,
+                        "duration": 7.594666666666667,
+                        "file_name": "ccgW5CHFg0Y_5d2620e56e1ff55b95381a4b.wav",
+                        "file_size_bytes": 1458220,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ccgW5CHFg0Y",
+                        "created_at": 20190710173117,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a32",
+                                "sentence": " Family dot org,",
+                                "start_time": 0.51,
+                                "end_time": 2.45
+                            },
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a31",
+                                "sentence": " p h am a l y dot org.",
+                                "start_time": 2.45,
+                                "end_time": 7.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d262ed3fe01075b78e92d8a",
+                        "video": "5d261d186e1ff55b95381a42",
+                        "audio_description": "5d261d186e1ff55b95381a41",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "intro",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 4.181333333333333,
+                        "file_name": "ccgW5CHFg0Y_5d262ed3fe01075b78e92d8a.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ccgW5CHFg0Y",
+                        "created_at": 20190710183043,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2d57262f148c23c337",
+                                "sentence": " Family theatre company, 30th anniversary.",
+                                "start_time": 0.27,
+                                "end_time": 4.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2634e56e1ff55b95381a4f",
+                        "video": "5d261d186e1ff55b95381a42",
+                        "audio_description": "5d261d186e1ff55b95381a41",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 1.136695,
+                        "end_time": 30.662028333333332,
+                        "duration": 29.525333333333332,
+                        "file_name": "ccgW5CHFg0Y_5d2634e56e1ff55b95381a4f.wav",
+                        "file_size_bytes": 5668908,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ccgW5CHFg0Y",
+                        "created_at": 20190710185637,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a98933e",
+                                "sentence": " Cigarettes, martinis, looks that could kill",
+                                "start_time": 0.19,
+                                "end_time": 4.82
+                            },
+                            {
+                                "_id": "5e142acc4a3b32147a98933d",
+                                "sentence": " amos",
+                                "start_time": 5.08,
+                                "end_time": 6.58
+                            },
+                            {
+                                "_id": "5e142acc4a3b32147a98933c",
+                                "sentence": " roxy,",
+                                "start_time": 6.58,
+                                "end_time": 8.03
+                            },
+                            {
+                                "_id": "5e142acc4a3b32147a98933b",
+                                "sentence": " a rejected kiss fid or as flappers billy flynn, mama morton and her girls having a sip of hooch",
+                                "start_time": 8.03,
+                                "end_time": 17.05
+                            },
+                            {
+                                "_id": "5e142acc4a3b32147a98933a",
+                                "sentence": " cane whip on through the air, lipstick on lips had on head twirling showing a little skin drinks, dancing jail bars,",
+                                "start_time": 17.05,
+                                "end_time": 25.92
+                            },
+                            {
+                                "_id": "5e142acc4a3b32147a989339",
+                                "sentence": " chicago summer 2019.",
+                                "start_time": 25.92,
+                                "end_time": 29.48
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d261d186e1ff55b95381a41",
+                "video": "5d261d186e1ff55b95381a42",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d261b9dfe01075b78e92d84",
+                    "email": "phamalyaa@gmail.com",
+                    "name": "Erin Banta",
+                    "given_name": "Erin",
+                    "picture": "https://lh5.googleusercontent.com/-O5TRuSKTdKM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfKg0gy4OsVLKfeq4n0rduH1Sk7Ig/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116239628765248204671",
+                    "last_login": 20190710170845,
+                    "token": "487f1373dd49fa4be878a5b6c8ec282c3ea9f0646ce2a111d5686eea348716b3",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190710171504,
+                "updated_at": 20190711184912,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "phamaly",
+            "chicago",
+            "theatre",
+            "disability",
+            "disability activism"
+        ],
+        "custom_tags": [],
+        "_id": "5d261d186e1ff55b95381a42",
+        "title": "CHICAGO - Phamaly Theatre",
+        "description": "Book by Fred Ebb and Bob Fosse\nMusic by John Kander\nLyrics by Fred Ebb\nBased on the play by Maurine Dallas Watkins\nScript adaptation by David Thompson\n\u200b\u201cChicago\u201d is presented by special arrangement with SAMUEL FRENCH, INC.\n\nDirected by Regan Linton\nMusical Direction by Donna Debreceni\nChoreography by Debbie Stark, Ronni Stark, and Gabrielle Barnette\n\nJoin Phamaly in celebrating 30 years with its production of the longest running show in Broadway history, and one of the most beloved musicals of all time. \nAUGUST 1-25, 2019\nPreviews: Thursday, August 1 and Friday, August 2\nOpening Night: Saturday, August 3\nIndustry Night (with ASL Interpretation): Monday, August 12\nAccessible performance (with ASL interpretation, audio description): Sunday, August 4\nAccess Day (ASL Interpretation, Audio Description, Tactile Tour): Sunday, August 18\nASL Interpreted performances: August 4, 12, 18\nSensory Friendly Performance: Wednesday, August 21\n\nwww.phamaly.org/chicago",
+        "youtube_id": "ccgW5CHFg0Y",
+        "created_at": 20190710171504,
+        "updated_at": 20190710185637,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 31
+    }
+}

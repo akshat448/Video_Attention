@@ -1,0 +1,184 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5d26",
+                        "audio_description": "58e7cf3746e13dfd851a26c5",
+                        "created_at": 20160929153907,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929153907,
+                        "file_name": "14751887476481.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2769,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24565,
+                        "video": "58e7cf2946e13dfd851a1ee4",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.62,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e4427a279f74cbc7c082e56",
+                                "sentence": " A young dark skinned male with dark hair sits at a desk",
+                                "start_time": 0.21,
+                                "end_time": 5.97
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e55",
+                                "sentence": " with a binder styled book in front of him.",
+                                "start_time": 5.97,
+                                "end_time": 9.51
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e54",
+                                "sentence": " The book is in braille, and the student follows the braille text with his hand to read it.",
+                                "start_time": 9.61,
+                                "end_time": 16.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5d27",
+                        "audio_description": "58e7cf3746e13dfd851a26c5",
+                        "created_at": 20160929154010,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929154010,
+                        "file_name": "14751888108891.wav",
+                        "start_time": 7.793,
+                        "legacy_video_id": 2769,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24566,
+                        "video": "58e7cf2946e13dfd851a1ee4",
+                        "end_time": 7.793,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 32.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e44281da888c4bc7acb61db",
+                                "sentence": " The boy flips the page of the book over and begins reading the text on the back of the page.",
+                                "start_time": 0.17,
+                                "end_time": 7.97
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61da",
+                                "sentence": " Now to his left,",
+                                "start_time": 7.97,
+                                "end_time": 9.84
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61d9",
+                                "sentence": " continuing to use his right hand to read",
+                                "start_time": 9.84,
+                                "end_time": 13.57
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61d8",
+                                "sentence": " the page to the right shows a cartoon of a blonde girl wearing a hot pink dress",
+                                "start_time": 13.75,
+                                "end_time": 20.92
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61d7",
+                                "sentence": " with rays of light coming from her as if she were very happy.",
+                                "start_time": 20.92,
+                                "end_time": 25.83
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61d6",
+                                "sentence": " The dress appears to be a fuzzy material for the readers to touch and feel.",
+                                "start_time": 26.12,
+                                "end_time": 32.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5d28",
+                        "audio_description": "58e7cf3746e13dfd851a26c5",
+                        "created_at": 20160929154053,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929154053,
+                        "file_name": "14751888537941.wav",
+                        "start_time": 20.756,
+                        "legacy_video_id": 2769,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24567,
+                        "video": "58e7cf2946e13dfd851a1ee4",
+                        "end_time": 20.756,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.25,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e4429a9a888c4bc7acb6262",
+                                "sentence": " After having finished reading,",
+                                "start_time": 0.11,
+                                "end_time": 2.62
+                            },
+                            {
+                                "_id": "5e4429a9a888c4bc7acb6261",
+                                "sentence": " the boy looks toward the illustration and begins to feel the pink dress just before the video ends.",
+                                "start_time": 2.62,
+                                "end_time": 10.66
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a26c5",
+                "status": "published",
+                "legacy_video_id": 2769,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1ee4",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ee4",
+        "description": "",
+        "youtube_id": "VIglbPLTzVs",
+        "views": 0,
+        "created_at": 20160929153804,
+        "title": "Student Using Braille",
+        "legacy_video_id": 2769,
+        "updated_at": 20160929154053,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 24
+    }
+}

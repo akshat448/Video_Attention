@@ -1,0 +1,162 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5e46e13dfd851a453b",
+                        "audio_description": "58e7cf3046e13dfd851a236d",
+                        "created_at": 20150822075326,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822075326,
+                        "file_name": "14402552063571.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2075,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14831,
+                        "video": "58e7cf2946e13dfd851a1c2e",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7db",
+                                "sentence": " A young female toddler sits with her head hanging down in the lap of an adult, while another adult sits directly in front of her, clapping her hands and singing.",
+                                "start_time": 2.08,
+                                "end_time": 12.8
+                            },
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7da",
+                                "sentence": " Other children play and talk in the background that are not on screen.",
+                                "start_time": 13.28,
+                                "end_time": 17.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a453c",
+                        "audio_description": "58e7cf3046e13dfd851a236d",
+                        "created_at": 20150822075518,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822075518,
+                        "file_name": "14402553185511.wav",
+                        "start_time": 35.293,
+                        "legacy_video_id": 2075,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14832,
+                        "video": "58e7cf2946e13dfd851a1c2e",
+                        "end_time": 35.293,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.49,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac6120d8f324490ee39cf",
+                                "sentence": " At the end of the song,",
+                                "start_time": 0.79,
+                                "end_time": 2.52
+                            },
+                            {
+                                "_id": "5e3ac6120d8f324490ee39ce",
+                                "sentence": " the singer rubs the child's hands.",
+                                "start_time": 2.52,
+                                "end_time": 4.92
+                            },
+                            {
+                                "_id": "5e3ac6120d8f324490ee39cd",
+                                "sentence": " The child looks up and places her hands into the palms of the singers hands.",
+                                "start_time": 4.92,
+                                "end_time": 10.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a453d",
+                        "audio_description": "58e7cf3046e13dfd851a236d",
+                        "created_at": 20150822075650,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822075650,
+                        "file_name": "14402554100631.wav",
+                        "start_time": 106.51,
+                        "legacy_video_id": 2075,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14833,
+                        "video": "58e7cf2946e13dfd851a1c2e",
+                        "end_time": 106.51,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3acc08fdede558532228bd",
+                                "sentence": " As the singer pauses,",
+                                "start_time": 0.67,
+                                "end_time": 2.39
+                            },
+                            {
+                                "_id": "5e3acc08fdede558532228bc",
+                                "sentence": " the child leans in and touches her forehead to the singer's forehead.",
+                                "start_time": 2.39,
+                                "end_time": 6.62
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a236d",
+                "status": "published",
+                "legacy_video_id": 2075,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c2e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Touch Concept Development"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c2e",
+        "description": "",
+        "youtube_id": "ebyf6FzKEiI",
+        "views": 0,
+        "created_at": 20150822075234,
+        "title": "Respectful Touch - SAHY and Susan",
+        "legacy_video_id": 2075,
+        "updated_at": 20150822075650,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 116
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5e31fdc40050a61e3485b88b",
+                        "video": "5e31fb780050a61e3485b889",
+                        "audio_description": "5e31fb780050a61e3485b888",
+                        "user": "5e20e5773cfe7373dd4234c0",
+                        "label": "Description",
+                        "playback_type": "extended",
+                        "start_time": 2.00202,
+                        "end_time": 2.00202,
+                        "duration": 52.821333333333335,
+                        "file_name": "SQ6H-Mz6hgw_5e31fdc40050a61e3485b88b.wav",
+                        "file_size_bytes": 10141740,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/SQ6H-Mz6hgw",
+                        "created_at": 20200129214852,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5e31fb780050a61e3485b888",
+                "video": "5e31fb780050a61e3485b889",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e20e5773cfe7373dd4234c0",
+                    "email": "noegema@gmail.com",
+                    "name": "Nicholas Oegema",
+                    "given_name": "Nicholas",
+                    "picture": "https://lh4.googleusercontent.com/-y2FHjLxfZXQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rccK_7IW8w465SxlOjx5p2FjD0UFQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "100736222012293313496",
+                    "last_login": 20200204161324,
+                    "token": "4010acdf934802410e53325a0de87c69232ccf0707205802b6bbd308fece34a3",
+                    "__v": 0,
+                    "updated_at": 20200204161324,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200129213904,
+                "updated_at": 20200129213904,
+                "notes": "The video begins with three cover slides\r\n\r\nThe first reads: Inspired thinking brought to you by Resource\r\n\r\nThe second has a circle logo on the left with the words \"out there\", the slide reads TEDX Columbus, x=independently organized TED event\r\n\r\nfinal slide reads: Michelle Alexander. Lawyer, Advocate, Scholar\r\n\r\nThe video then opens to Michelle Alexander, a middle aged black woman on stage in a large auditorium. The stage is decorated with white circles connected with black lines and a sign reads Tedx Columbus. During the video the camera perspective will shift between a view of the stage and a view of the audience. There are no visual aids utilized during the presentation other than subtle emphasis given through non-verbals. All non-verbal queues are consistent with presenter audio. \r\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "ted",
+            "race",
+            "Ohio",
+            "tedx talks",
+            "ted talk",
+            "tedx talk",
+            "politics",
+            "Columbus",
+            "ted talks",
+            "tedx",
+            "ted x",
+            "TEDx",
+            "social change",
+            "america",
+            "society"
+        ],
+        "custom_tags": [],
+        "_id": "5e31fb780050a61e3485b889",
+        "title": "The future of race in America: Michelle Alexander at TEDxColumbus",
+        "description": "In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)",
+        "youtube_id": "SQ6H-Mz6hgw",
+        "created_at": 20200129213904,
+        "updated_at": 20200129214852,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 1419
+    }
+}

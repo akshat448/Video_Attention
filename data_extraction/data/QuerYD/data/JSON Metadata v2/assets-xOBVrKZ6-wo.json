@@ -1,0 +1,102 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a42dfc348725a0c1295c96b",
+                        "video": "5a42dfc348725a0c1295c96d",
+                        "audio_description": "5a42dfc348725a0c1295c96c",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 17.46140589569161,
+                        "duration": 17.46140589569161,
+                        "file_name": "xOBVrKZ6-wo_5a42dfc348725a0c1295c96b.wav",
+                        "file_size_bytes": 3080236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xOBVrKZ6-wo",
+                        "created_at": 20171226234819,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f35d2620ea1c5831ff33",
+                                "sentence": " After a doorbell rings, a group of dogs run to the door while barking.",
+                                "start_time": 1.55,
+                                "end_time": 6.2
+                            },
+                            {
+                                "_id": "5e15f35d2620ea1c5831ff32",
+                                "sentence": " The dog's master off screen requests for silence.",
+                                "start_time": 6.2,
+                                "end_time": 10.27
+                            },
+                            {
+                                "_id": "5e15f35d2620ea1c5831ff31",
+                                "sentence": " Shortly after the dogs eventually calm down and come back from the door.",
+                                "start_time": 10.64,
+                                "end_time": 15.22
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a42dfc348725a0c1295c96c",
+                "video": "5a42dfc348725a0c1295c96d",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "59c25b2ec6c4802622d9c1bf",
+                    "email": "rgman1995@gmail.com",
+                    "name": "Ryan G",
+                    "given_name": "Ryan",
+                    "picture": "https://lh3.googleusercontent.com/-NxEEiJBaock/AAAAAAAAAAI/AAAAAAAAAc0/5fcpjk_lXKY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113561788356507984833",
+                    "last_login": 20201230202355,
+                    "token": "27b561de1a2557461b6807ff8a71622302ac468380f084bd313e4b4fc0a8dc39",
+                    "__v": 0,
+                    "updated_at": 20201230202355,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20171226234819,
+                "updated_at": 20171228182047,
+                "notes": "After a doorbell rings, a group of dogs run to the door while barking. The dogs' master, offscreen, requests for silence. Shortly after, the dogs eventually calm down and come back from the door.",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Barking",
+            "Dog",
+            "Cute",
+            "funny",
+            "doorbell"
+        ],
+        "custom_tags": [],
+        "_id": "5a42dfc348725a0c1295c96d",
+        "title": "Brownie and the other dogs barking at the doorbell",
+        "description": "The Doorbell rang and the dogs went crazy!",
+        "youtube_id": "xOBVrKZ6-wo",
+        "created_at": 20171226234819,
+        "updated_at": 20171226234819,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Pets & Animals",
+        "category_id": "15",
+        "duration": 28
+    }
+}

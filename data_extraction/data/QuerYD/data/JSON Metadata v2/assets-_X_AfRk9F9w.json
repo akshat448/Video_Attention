@@ -1,0 +1,706 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5aa2ffc1806e21059a0210d8",
+                        "video": null,
+                        "audio_description": null,
+                        "user": "5aa2ff72806e21059a0210d7",
+                        "label": "undefined",
+                        "playback_type": "extended",
+                        "start_time": 0.9165409313354492,
+                        "end_time": 0.9165409313354492,
+                        "duration": 16.512,
+                        "file_name": null,
+                        "file_size_bytes": 6340652,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180309214225,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5aa2ffef806e21059a0210da",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa2ffc1806e21059a0210d9",
+                        "user": "5aa2ff72806e21059a0210d7",
+                        "label": "undefined",
+                        "playback_type": "extended",
+                        "start_time": 6.19235388937378,
+                        "end_time": 6.19235388937378,
+                        "duration": 5.077333333333334,
+                        "file_name": "_X_AfRk9F9w_5aa2ffef806e21059a0210da.wav",
+                        "file_size_bytes": 1949740,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180309214311,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5aa30004806e21059a0210db",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa2ffc1806e21059a0210d9",
+                        "user": "5aa2ff72806e21059a0210d7",
+                        "label": "undefined",
+                        "playback_type": "extended",
+                        "start_time": 10.470916118255616,
+                        "end_time": 10.470916118255616,
+                        "duration": 5.12,
+                        "file_name": "_X_AfRk9F9w_5aa30004806e21059a0210db.wav",
+                        "file_size_bytes": 1966124,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180309214332,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5aa3001d806e21059a0210dc",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa2ffc1806e21059a0210d9",
+                        "user": "5aa2ff72806e21059a0210d7",
+                        "label": "undefined",
+                        "playback_type": "extended",
+                        "start_time": 14.975811085830689,
+                        "end_time": 14.975811085830689,
+                        "duration": 6.144,
+                        "file_name": "_X_AfRk9F9w_5aa3001d806e21059a0210dc.wav",
+                        "file_size_bytes": 2359340,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180309214357,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5aa3003e806e21059a0210dd",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa2ffc1806e21059a0210d9",
+                        "user": "5aa2ff72806e21059a0210d7",
+                        "label": "undefined",
+                        "playback_type": "extended",
+                        "start_time": 20.2570809294281,
+                        "end_time": 20.2570809294281,
+                        "duration": 7.509333333333333,
+                        "file_name": "_X_AfRk9F9w_5aa3003e806e21059a0210dd.wav",
+                        "file_size_bytes": 2883628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180309214430,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5aa30059806e21059a0210de",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa2ffc1806e21059a0210d9",
+                        "user": "5aa2ff72806e21059a0210d7",
+                        "label": "undefined",
+                        "playback_type": "extended",
+                        "start_time": 25.68224703051758,
+                        "end_time": 25.68224703051758,
+                        "duration": 6.528,
+                        "file_name": "_X_AfRk9F9w_5aa30059806e21059a0210de.wav",
+                        "file_size_bytes": 2506796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180309214457,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5aa2ffc1806e21059a0210d9",
+                "video": "5a9b0578d50e4355f98848cc",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5aa2ff72806e21059a0210d7",
+                    "email": "coachchris99@gmail.com",
+                    "name": "Christy Blew",
+                    "given_name": "Christy",
+                    "picture": "https://lh5.googleusercontent.com/-52nX3wsaDAA/AAAAAAAAAAI/AAAAAAAAAAA/AGi4gfxKwiO8Y1pP7t1X6_J7ouyHs0X3ww/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "106901706456517449357",
+                    "last_login": 20180309214106,
+                    "token": "8e76c55a2d65b453ba60e6e57d244f1317148955676fddd66bef7daa65b87d32",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": null,
+                "created_at": 20180309214225,
+                "updated_at": 20180309214225,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5aa4abf076ea222478a8109e",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 1.9031490896453858,
+                        "end_time": 6.3404824229787184,
+                        "duration": 4.437333333333333,
+                        "file_name": "_X_AfRk9F9w_5aa4abf076ea222478a8109e.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311040920,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f3582620ea1c5831fee2",
+                                "sentence": " A cartoon. Moose and bear cross a bridge at the same time.",
+                                "start_time": 0.52,
+                                "end_time": 4.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4ac1f76ea222478a8109f",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 15.461377104904175,
+                        "end_time": 20.240043771570843,
+                        "duration": 4.778666666666667,
+                        "file_name": "_X_AfRk9F9w_5aa4ac1f76ea222478a8109f.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041007,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f35a2620ea1c5831ff2d",
+                                "sentence": " The moose runs into the bear without noticing, and the bear is upset.",
+                                "start_time": 0.24,
+                                "end_time": 4.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4ac5676ea222478a810a0",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 22.048267118255616,
+                        "end_time": 27.594933784922283,
+                        "duration": 5.546666666666667,
+                        "file_name": "_X_AfRk9F9w_5aa4ac5676ea222478a810a0.wav",
+                        "file_size_bytes": 1065004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041102,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aef0",
+                                "sentence": " The bear viciously tries to get across the bridge. But the muses body is too big.",
+                                "start_time": 0.28,
+                                "end_time": 5.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4ac7476ea222478a810a1",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 32.80698797138977,
+                        "end_time": 37.24432130472311,
+                        "duration": 4.437333333333333,
+                        "file_name": "_X_AfRk9F9w_5aa4ac7476ea222478a810a1.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041132,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aecb",
+                                "sentence": " The bear suggests the moose going back to where he started so he could get across.",
+                                "start_time": 0.14,
+                                "end_time": 4.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4ac8576ea222478a810a2",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 36.57518594659424,
+                        "end_time": 38.2818526132609,
+                        "duration": 1.7066666666666668,
+                        "file_name": "_X_AfRk9F9w_5aa4ac8576ea222478a810a2.wav",
+                        "file_size_bytes": 327724,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041149,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f3592620ea1c5831ff1f",
+                                "sentence": " The most declines.",
+                                "start_time": 0.18,
+                                "end_time": 1.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4aca776ea222478a810a3",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 44.401535988555906,
+                        "end_time": 48.32686932188924,
+                        "duration": 3.925333333333333,
+                        "file_name": "_X_AfRk9F9w_5aa4aca776ea222478a810a3.wav",
+                        "file_size_bytes": 753708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041223,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aede",
+                                "sentence": " A small raccoon appears behind the bear, and it waves.",
+                                "start_time": 0.34,
+                                "end_time": 3.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4acba76ea222478a810a4",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 55.26886401907348,
+                        "end_time": 57.658197352406816,
+                        "duration": 2.3893333333333335,
+                        "file_name": "_X_AfRk9F9w_5aa4acba76ea222478a810a4.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041242,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aecf",
+                                "sentence": " The bear, chuck the raccoon away.",
+                                "start_time": 0.3,
+                                "end_time": 2.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4ace076ea222478a810a5",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 65.7818900591278,
+                        "end_time": 69.3658900591278,
+                        "duration": 3.584,
+                        "file_name": "_X_AfRk9F9w_5aa4ace076ea222478a810a5.wav",
+                        "file_size_bytes": 688172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041320,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aec8",
+                                "sentence": " A small rabbit appears behind the moose.",
+                                "start_time": 0.54,
+                                "end_time": 3.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4acef76ea222478a810a6",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 74.3150739923706,
+                        "end_time": 77.47240732570393,
+                        "duration": 3.1573333333333333,
+                        "file_name": "_X_AfRk9F9w_5aa4acef76ea222478a810a6.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041335,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aeee",
+                                "sentence": " The moose trucks away the rabbits.",
+                                "start_time": 0.54,
+                                "end_time": 2.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4ad0676ea222478a810a7",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 88.05759878065491,
+                        "end_time": 92.40959878065492,
+                        "duration": 4.352,
+                        "file_name": "_X_AfRk9F9w_5aa4ad0676ea222478a810a7.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041358,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aece",
+                                "sentence": " The bunny starts biting on the rope",
+                                "start_time": 0.11,
+                                "end_time": 2.39
+                            },
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aecd",
+                                "sentence": " that keeps the bridge together.",
+                                "start_time": 2.39,
+                                "end_time": 4.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4ad2d76ea222478a810a8",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 92.98749094087219,
+                        "end_time": 95.20615760753886,
+                        "duration": 2.2186666666666666,
+                        "file_name": "_X_AfRk9F9w_5aa4ad2d76ea222478a810a8.wav",
+                        "file_size_bytes": 426028,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041437,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f3582620ea1c5831fefc",
+                                "sentence": " The raccoon does the same.",
+                                "start_time": 0.4,
+                                "end_time": 2.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4ad4476ea222478a810a9",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 98.40417908964538,
+                        "end_time": 102.67084575631205,
+                        "duration": 4.266666666666667,
+                        "file_name": "_X_AfRk9F9w_5aa4ad4476ea222478a810a9.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041500,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f35a2620ea1c5831ff2e",
+                                "sentence": " The bridge snaps, and both the moose and the bear fall off the bridge.",
+                                "start_time": 0.22,
+                                "end_time": 4.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4ad5976ea222478a810aa",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 105.7820759446869,
+                        "end_time": 109.3660759446869,
+                        "duration": 3.584,
+                        "file_name": "_X_AfRk9F9w_5aa4ad5976ea222478a810aa.wav",
+                        "file_size_bytes": 688172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041521,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aee0",
+                                "sentence": " The rabbit and raccoon start crossing the bridge.",
+                                "start_time": 0.15,
+                                "end_time": 3.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4ad9d76ea222478a810ac",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 113.74860790463256,
+                        "end_time": 118.01527457129923,
+                        "duration": 4.266666666666667,
+                        "file_name": "_X_AfRk9F9w_5aa4ad9d76ea222478a810ac.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041629,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f3572620ea1c5831feca",
+                                "sentence": " They fall into the same predicament as the bear and roost.",
+                                "start_time": 0.19,
+                                "end_time": 4.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4ade176ea222478a810ae",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 126.51403192370606,
+                        "end_time": 132.23136525703939,
+                        "duration": 5.717333333333333,
+                        "file_name": "_X_AfRk9F9w_5aa4ade176ea222478a810ae.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041737,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aec9",
+                                "sentence": " The raccoon offers to lean over so that the rabbit can go over him across the bridge.",
+                                "start_time": 0.47,
+                                "end_time": 5.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aa4adeb76ea222478a810af",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5aa4abb9806e21059a021188",
+                        "user": "5aa4a943806e21059a021181",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 135.5067440896454,
+                        "end_time": 140.02941075631207,
+                        "duration": 4.522666666666667,
+                        "file_name": "_X_AfRk9F9w_5aa4adeb76ea222478a810af.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20180311041747,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aedb",
+                                "sentence": " Both the bunny and the raccoon are satisfied with this decision.",
+                                "start_time": 0.36,
+                                "end_time": 4.48
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5aa4abb9806e21059a021188",
+                "video": "5a9b0578d50e4355f98848cc",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5aa4a943806e21059a021181",
+                    "email": "matthewmin0919@gmail.com",
+                    "name": "Matt Hong",
+                    "given_name": "Matt",
+                    "picture": "https://lh4.googleusercontent.com/-RIznMseiGDE/AAAAAAAAAAI/AAAAAAAAAAA/AGi4gfxnsXTGpwS3AKzNR7JPmzrHh4q-Qg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "108600568350022287663",
+                    "last_login": 20190513012054,
+                    "token": "7ff7a90385c6a15653c4570246754dd78b35a437758cee819a3a951785dff500",
+                    "__v": 0,
+                    "updated_at": 20190513012054,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180311040825,
+                "updated_at": 20180403044502,
+                "notes": "A cartoon moose and bear cross a bridge at the same time.\r\nThe moose runs into the bear without noticing and the bear is upset.\r\nThe bear viciously tries to get accross but the moose's body is too big.\r\nThe bear suggests the moose going back to where he started so he can get accross.\r\nThe moose declines\r\nA small raccoon appears behind the bear.\r\nIt waves.\r\nThe bear chucks the raccoon away.\r\nA small rabbit appears behind the moose.\r\nThe moose chucks the rabbit away.\r\nThe bunny starts biting on the rope that keeps the bridge together.\r\nThe raccoon does the same.\r\nThe bridge falls apart and both the moose and bear fall off.\r\nThe bunny and rabbit begin crossing the bridge, but they can't get accross.\r\nThe raccon offers to lean over so the rabbit can go over him.\r\nThey fall into the same predicament as the bear and moose.\r\n",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 9,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [],
+                "_id": "5aada0805273b144ba78d9e7",
+                "video": "5a9b0578d50e4355f98848cc",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a7e1e0585051907f83e47d3",
+                    "email": "leilalbaia@gmail.com",
+                    "name": "Leila Baia",
+                    "given_name": "Leila",
+                    "picture": "https://lh6.googleusercontent.com/-NLMvEylz954/AAAAAAAAAAI/AAAAAAAAALQ/HeTDJ9Om4yU/s96-c/photo.jpg",
+                    "locale": "pt",
+                    "google_user_id": "110455987646022979747",
+                    "last_login": 20210130234629,
+                    "token": "1a04687d541cd9189684975d40c7706df4ed1be6820146ba28c3dc6140433649",
+                    "__v": 0,
+                    "updated_at": 20210130234629,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "pt-br",
+                "created_at": 20180317231056,
+                "updated_at": 20180317231056,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5dbd7a5655e4e43fb00ff2e7",
+                        "video": "5a9b0578d50e4355f98848cc",
+                        "audio_description": "5dbc941555e4e43fb00ff2ae",
+                        "user": "5dbc8bdaa593ab3cd6962a97",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 2.5304000648498537,
+                        "end_time": 138.72240006484986,
+                        "duration": 136.192,
+                        "file_name": "_X_AfRk9F9w_5dbd7a5655e4e43fb00ff2e7.wav",
+                        "file_size_bytes": 26148908,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_X_AfRk9F9w",
+                        "created_at": 20191102124510,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5dbc941555e4e43fb00ff2ae",
+                "video": "5a9b0578d50e4355f98848cc",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5dbc8bdaa593ab3cd6962a97",
+                    "email": "lsanchezgn98@gmail.com",
+                    "name": "Lidia S\u00e1nchez",
+                    "given_name": "Lidia",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mBSV3PBk873bx1M2-2cb6Vz0LbmHa1xSMf3JF4=s96-c",
+                    "locale": "es",
+                    "google_user_id": "112148885959616992996",
+                    "last_login": 20191102122636,
+                    "token": "e7635067e78645056a225d573ceac911194f41e533742282e6b8aef68672123d",
+                    "__v": 0,
+                    "updated_at": 20191102122636,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "es-419",
+                "created_at": 20191101202245,
+                "updated_at": 20191101202245,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Funny",
+            "Disney Videos",
+            "Best",
+            "The Walt Disney Company",
+            "Disney Shorts",
+            "Cartoon",
+            "bunny",
+            "cg",
+            "Comedy",
+            "Film",
+            "Disney Favorite",
+            "Disney YouTube",
+            "Animated Shorts",
+            "Short Film",
+            "Disney",
+            "bear",
+            "ting chian tey",
+            "Animation",
+            "cute",
+            "fun",
+            "Top",
+            "animals",
+            "Shorts",
+            "Humor",
+            "Disney Short",
+            "Short",
+            "raccoon",
+            "pride",
+            "Full Episode",
+            "bridge",
+            "Favorite",
+            "stubborn"
+        ],
+        "custom_tags": [],
+        "_id": "5a9b0578d50e4355f98848cc",
+        "title": "\"Bridge\" by Ting Chian Tey | Disney Favorite",
+        "description": "Crossing a bridge is easy without pride or stubbornness getting in the way, unfortunately this one has an abundance of both! Enjoy another Disney Shorts favorite, Ting Chian Tey's animated short, \"Bridge.\"\r\n\r\nSUBSCRIBE to get notified when new Disney Shorts videos are posted: http://di.sn/SubscribeDisneyShorts\r\n\r\nGet more from Disney!\r\nDisney YouTube: http://di.sn/SubscribeDisney\r\nLike Disney: http://Facebook.com/Disney\r\nFollow Disney: http://Twitter.com/Disney\r\nDisney Tumblr: http://disney.tumblr.com/\r\nDisney Google+: http://plus.google.com/+Disney/posts\r\nDisney Instagram: http://Instagram.com/Disney",
+        "youtube_id": "_X_AfRk9F9w",
+        "created_at": 20180303202840,
+        "updated_at": 20210131000554,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 166
+    }
+}

@@ -1,0 +1,620 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a78bdd985051907f83e4759",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "Intro",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 8.874666666666666,
+                        "duration": 8.874666666666666,
+                        "file_name": "Ujg7vcIa7kM_5a78bdd985051907f83e4759.wav",
+                        "file_size_bytes": 1703980,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205202601,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dd052846e54b85a3868939f",
+                                "sentence": " Uh,",
+                                "start_time": 0,
+                                "end_time": 0.5
+                            },
+                            {
+                                "_id": "5dd052846e54b85a3868939e",
+                                "sentence": " a viewed on the main floor of the scottish national gallery.",
+                                "start_time": 0.99,
+                                "end_time": 4.09
+                            },
+                            {
+                                "_id": "5dd052846e54b85a3868939d",
+                                "sentence": " Visitors are wandering around looking at the interpretation panels and the paintings.",
+                                "start_time": 4.36,
+                                "end_time": 8.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78be0885051907f83e475c",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 14.723961000000001,
+                        "end_time": 14.723961000000001,
+                        "duration": 6.314666666666667,
+                        "file_name": "Ujg7vcIa7kM_5a78be0885051907f83e475c.wav",
+                        "file_size_bytes": 1212460,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205202648,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175ab57b5156f523f99d2d",
+                                "sentence": " The course up of the painting can act on",
+                                "start_time": 0.75,
+                                "end_time": 3.36
+                            },
+                            {
+                                "_id": "5e175ab57b5156f523f99d2c",
+                                "sentence": " with a visitor standing in front looking at it.",
+                                "start_time": 3.36,
+                                "end_time": 6.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78bedf85051907f83e475e",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 17.388559,
+                        "end_time": 17.388559,
+                        "duration": 8.96,
+                        "file_name": "Ujg7vcIa7kM_5a78bedf85051907f83e475e.wav",
+                        "file_size_bytes": 1720364,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205203023,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897a82bf63c6db887eb79",
+                                "sentence": " In gallery with doctor shall stone",
+                                "start_time": 1.07,
+                                "end_time": 3.48
+                            },
+                            {
+                                "_id": "5e1897a82bf63c6db887eb78",
+                                "sentence": " deputy delights what's with the national hourly.",
+                                "start_time": 3.48,
+                                "end_time": 5.89
+                            },
+                            {
+                                "_id": "5e1897a82bf63c6db887eb77",
+                                "sentence": " She is speaking directly to the camera here.",
+                                "start_time": 6.19,
+                                "end_time": 8.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78bf1e85051907f83e475f",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 33.680158999999996,
+                        "end_time": 33.680158999999996,
+                        "duration": 9.216,
+                        "file_name": "Ujg7vcIa7kM_5a78bf1e85051907f83e475f.wav",
+                        "file_size_bytes": 1769516,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205203126,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897a92bf63c6db887eba0",
+                                "sentence": " Eaten west voice",
+                                "start_time": 0.93,
+                                "end_time": 2.44
+                            },
+                            {
+                                "_id": "5e1897a92bf63c6db887eb9f",
+                                "sentence": " chief curator scottish national gallery is standing in front of there and i'll act you on gesturing and he speaks about the picture.",
+                                "start_time": 2.44,
+                                "end_time": 9.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78bfae85051907f83e4760",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 42.901948,
+                        "end_time": 46.82728133333333,
+                        "duration": 3.925333333333333,
+                        "file_name": "Ujg7vcIa7kM_5a78bfae85051907f83e4760.wav",
+                        "file_size_bytes": 753708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205203350,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dd0532e6e54b85a386893c6",
+                                "sentence": " A visited the gallery stands in front of diet and cholesterol.",
+                                "start_time": 0.5,
+                                "end_time": 3.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78bffe85051907f83e4762",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 48.360263,
+                        "end_time": 52.79759633333334,
+                        "duration": 4.437333333333333,
+                        "file_name": "Ujg7vcIa7kM_5a78bffe85051907f83e4762.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205203510,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dd0532d6e54b85a386893bb",
+                                "sentence": " Title screen art stars the tension, diane as.",
+                                "start_time": 0.56,
+                                "end_time": 4.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78c09185051907f83e4764",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 53.25667299999999,
+                        "end_time": 53.25667299999999,
+                        "duration": 6.656,
+                        "file_name": "Ujg7vcIa7kM_5a78c09185051907f83e4764.wav",
+                        "file_size_bytes": 1277996,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205203737,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dd052d9d5c3eb5a375ae8b7",
+                                "sentence": " Even stands in front of an actual",
+                                "start_time": 0.5,
+                                "end_time": 2.93
+                            },
+                            {
+                                "_id": "5dd052d9d5c3eb5a375ae8b6",
+                                "sentence": " best ring force painting with his left hand as he speaks.",
+                                "start_time": 3,
+                                "end_time": 6.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78c10e85051907f83e4765",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 63.633606,
+                        "end_time": 63.633606,
+                        "duration": 8.618666666666666,
+                        "file_name": "Ujg7vcIa7kM_5a78c10e85051907f83e4765.wav",
+                        "file_size_bytes": 1654828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205203942,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175ab47b5156f523f99cd3",
+                                "sentence": " The painting down an actor on hang on the wall.",
+                                "start_time": 0.84,
+                                "end_time": 3.65
+                            },
+                            {
+                                "_id": "5e175ab47b5156f523f99cd2",
+                                "sentence": " We then cut to a detail of the painting which fills the entire frame of the video.",
+                                "start_time": 3.94,
+                                "end_time": 8.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78c16785051907f83e4766",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 79.811963,
+                        "end_time": 83.90796300000001,
+                        "duration": 4.096,
+                        "file_name": "Ujg7vcIa7kM_5a78c16785051907f83e4766.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205204111,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189646b8e766557cda67e6",
+                                "sentence": " Endowed with treasure. Nice to dine and coastal.",
+                                "start_time": 0.61,
+                                "end_time": 3.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78c1b685051907f83e4767",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 92.018512,
+                        "end_time": 92.018512,
+                        "duration": 10.24,
+                        "file_name": "Ujg7vcIa7kM_5a78c1b685051907f83e4767.wav",
+                        "file_size_bytes": 1966124,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205204230,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897a82bf63c6db887eb82",
+                                "sentence": " A full frame image of dan and cost. Oh,",
+                                "start_time": 0.65,
+                                "end_time": 3.09
+                            },
+                            {
+                                "_id": "5e1897a82bf63c6db887eb81",
+                                "sentence": " we slowly zoom in to the painting",
+                                "start_time": 3.28,
+                                "end_time": 5.64
+                            },
+                            {
+                                "_id": "5e1897a82bf63c6db887eb80",
+                                "sentence": " before cutting to a detail of Diana at the rate of the composition.",
+                                "start_time": 5.64,
+                                "end_time": 10.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78c42785051907f83e4768",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 120.626475,
+                        "end_time": 124.03980833333333,
+                        "duration": 3.4133333333333336,
+                        "file_name": "Ujg7vcIa7kM_5a78c42785051907f83e4768.wav",
+                        "file_size_bytes": 655404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205205255,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dd0532e6e54b85a386893c3",
+                                "sentence": " Hm,",
+                                "start_time": 0,
+                                "end_time": 0.52
+                            },
+                            {
+                                "_id": "5dd0532e6e54b85a386893c2",
+                                "sentence": " cut to the gallery with even from the dan and cholesterol.",
+                                "start_time": 0.79,
+                                "end_time": 3.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78c50685051907f83e476a",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 154.462411,
+                        "end_time": 154.462411,
+                        "duration": 8.618666666666666,
+                        "file_name": "Ujg7vcIa7kM_5a78c50685051907f83e476a.wav",
+                        "file_size_bytes": 1654828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205205638,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18953f83fdba557ba3f755",
+                                "sentence": " Back when rich, director of conservation, standing in front of dan, an actor on",
+                                "start_time": 0.86,
+                                "end_time": 5.39
+                            },
+                            {
+                                "_id": "5e18953f83fdba557ba3f754",
+                                "sentence": " pointing out areas of the painting as she speaks.",
+                                "start_time": 5.39,
+                                "end_time": 8.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78c55b85051907f83e476b",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 165.58857700000002,
+                        "end_time": 165.58857700000002,
+                        "duration": 8.618666666666666,
+                        "file_name": "Ujg7vcIa7kM_5a78c55b85051907f83e476b.wav",
+                        "file_size_bytes": 1654828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205205803,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897a92bf63c6db887eba7",
+                                "sentence": " A full frame detail of diane, an actual on",
+                                "start_time": 1.03,
+                                "end_time": 3.94
+                            },
+                            {
+                                "_id": "5e1897a92bf63c6db887eba6",
+                                "sentence": " showing the architecture and the Top right hand side of the composition.",
+                                "start_time": 3.94,
+                                "end_time": 8.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78c9fd85051907f83e476c",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 194.338176,
+                        "end_time": 194.338176,
+                        "duration": 12.117333333333333,
+                        "file_name": "Ujg7vcIa7kM_5a78c9fd85051907f83e476c.wav",
+                        "file_size_bytes": 2326572,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205211749,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175ab47b5156f523f99cb9",
+                                "sentence": " Returned to end gallery with jaclyn standing in front of dan and acted on",
+                                "start_time": 0.78,
+                                "end_time": 5.15
+                            },
+                            {
+                                "_id": "5e175ab47b5156f523f99cb8",
+                                "sentence": " talking about the painting.",
+                                "start_time": 5.15,
+                                "end_time": 6.64
+                            },
+                            {
+                                "_id": "5e175ab47b5156f523f99cb7",
+                                "sentence": " Before we cut to a detail in the middle of the composition,",
+                                "start_time": 6.64,
+                                "end_time": 9.83
+                            },
+                            {
+                                "_id": "5e175ab47b5156f523f99cb6",
+                                "sentence": " showing the mirror and the glass.",
+                                "start_time": 9.83,
+                                "end_time": 11.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78cc2d85051907f83e476e",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 224.38131,
+                        "end_time": 224.38131,
+                        "duration": 14.677333333333333,
+                        "file_name": "Ujg7vcIa7kM_5a78cc2d85051907f83e476e.wav",
+                        "file_size_bytes": 2818092,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205212709,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18953e83fdba557ba3f72f",
+                                "sentence": " That Russia is standing in the gallery",
+                                "start_time": 0.62,
+                                "end_time": 2.63
+                            },
+                            {
+                                "_id": "5e18953e83fdba557ba3f72e",
+                                "sentence": " imitating acting on pause in the picture.",
+                                "start_time": 2.63,
+                                "end_time": 5.89
+                            },
+                            {
+                                "_id": "5e18953e83fdba557ba3f72d",
+                                "sentence": " We then cut to a detail of the painting",
+                                "start_time": 6.5,
+                                "end_time": 9.19
+                            },
+                            {
+                                "_id": "5e18953e83fdba557ba3f72c",
+                                "sentence": " with acting on",
+                                "start_time": 9.19,
+                                "end_time": 10.35
+                            },
+                            {
+                                "_id": "5e18953e83fdba557ba3f72b",
+                                "sentence": " the red cotton,",
+                                "start_time": 10.54,
+                                "end_time": 11.93
+                            },
+                            {
+                                "_id": "5e18953e83fdba557ba3f72a",
+                                "sentence": " and the boys sky in the background.",
+                                "start_time": 11.93,
+                                "end_time": 14.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a78cea685051907f83e4770",
+                        "video": "5a78bdd985051907f83e475b",
+                        "audio_description": "5a78bdd985051907f83e475a",
+                        "user": "5a7640eb85051907f83e4712",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 289.037937,
+                        "end_time": 289.037937,
+                        "duration": 17.408,
+                        "file_name": "Ujg7vcIa7kM_5a78cea685051907f83e4770.wav",
+                        "file_size_bytes": 3342380,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ujg7vcIa7kM",
+                        "created_at": 20180205213742,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dd052846e54b85a386893b0",
+                                "sentence": " Radar screen.",
+                                "start_time": 1.33,
+                                "end_time": 2.33
+                            },
+                            {
+                                "_id": "5dd052846e54b85a386893af",
+                                "sentence": " But they all produced by rapid visual media",
+                                "start_time": 2.56,
+                                "end_time": 5
+                            },
+                            {
+                                "_id": "5dd052846e54b85a386893ae",
+                                "sentence": " cooperate national guard, scotland two thousand fourteen,",
+                                "start_time": 5.21,
+                                "end_time": 8.59
+                            },
+                            {
+                                "_id": "5dd052846e54b85a386893ad",
+                                "sentence": " all rights reserved.",
+                                "start_time": 8.6,
+                                "end_time": 9.85
+                            },
+                            {
+                                "_id": "5dd052846e54b85a386893ac",
+                                "sentence": " No part of this video may be reproduced in any form by any means without prior permission and rating from the national galleries of scotland.",
+                                "start_time": 9.93,
+                                "end_time": 17.42
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a78bdd985051907f83e475a",
+                "video": "5a78bdd985051907f83e475b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a7640eb85051907f83e4712",
+                    "email": "terence@thegoulds.me",
+                    "name": "Terry Gould",
+                    "given_name": "Terry",
+                    "picture": "https://lh5.googleusercontent.com/-dXom_4ss76U/AAAAAAAAAAI/AAAAAAAAAAA/ACSILjWQHrUM0ZaxHU8IvC2OQ0VxoSYlSQ/s96-c/photo.jpg",
+                    "locale": "en-GB",
+                    "google_user_id": "101731931899066831076",
+                    "last_login": 20180205200221,
+                    "token": "5fc3fcd689a4197a2030572153cac9c8e5919f72833d12ac137440b409153a7c",
+                    "__v": 0,
+                    "updated_at": 20180205200221,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180205202601,
+                "updated_at": 20180205225836,
+                "notes": "Jacqueline Ridge, Director of Conservation next to Diana and Actaeon, pointing out areas of the picture as she speaks.",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {
+                    "1": 1,
+                    "4": 1
+                }
+            }
+        ],
+        "tags": [
+            "Titian (Visual Artist)",
+            "Art (Collection Category)",
+            "Fine Art (Literary Genre)",
+            "Diana And Actaeon (Artwork)",
+            "Diana and Callisto (Artwork)",
+            "Venetian art",
+            "Aidan Weston-Lewis",
+            "Patricia Allerston",
+            "Jacqueline Ridge",
+            "Titian and the Golden Age of Venetian Art"
+        ],
+        "custom_tags": [],
+        "_id": "5a78bdd985051907f83e475b",
+        "title": "Titian ArtStars",
+        "description": "Curatorial and Conservation specialists at the National Galleries of Scotland take a closer look at Titian's 'Diana and Actaeon' and 'Diana and Callisto'.",
+        "youtube_id": "Ujg7vcIa7kM",
+        "created_at": 20180205202601,
+        "updated_at": 20180205213742,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 294
+    }
+}

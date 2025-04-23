@@ -1,0 +1,360 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b54a8a18c67206f7cd1855c",
+                        "video": "5b54a3088c67206f7cd18553",
+                        "audio_description": "5b54a39eb7ed0b77bbe5e25f",
+                        "user": "5b53e84bb4e1e66fc7a94f3c",
+                        "label": "pie eating",
+                        "playback_type": "inline",
+                        "start_time": 12.934616,
+                        "end_time": 18.600284934240364,
+                        "duration": 5.6656689342403626,
+                        "file_name": "RFUE09SRO8w_5b54a8a18c67206f7cd1855c.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RFUE09SRO8w",
+                        "created_at": 20180722155409,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a78e255cab41b6d266bcc",
+                                "sentence": " Five adults playfully have a pie eating contest without using their hands.",
+                                "start_time": 0.59,
+                                "end_time": 5.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b54aa2e175ff377eb7c9089",
+                        "video": "5b54a3088c67206f7cd18553",
+                        "audio_description": "5b54a39eb7ed0b77bbe5e25f",
+                        "user": "5b53e84bb4e1e66fc7a94f3c",
+                        "label": "sunlight shines",
+                        "playback_type": "extended",
+                        "start_time": 43.684684,
+                        "end_time": 43.684684,
+                        "duration": 3.1579138321995464,
+                        "file_name": "RFUE09SRO8w_5b54aa2e175ff377eb7c9089.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RFUE09SRO8w",
+                        "created_at": 20180722160046,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a78e255cab41b6d266bd2",
+                                "sentence": " Sunlight shines on the tree.",
+                                "start_time": 0.77,
+                                "end_time": 3.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b54ab7d175ff377eb7c908a",
+                        "video": "5b54a3088c67206f7cd18553",
+                        "audio_description": "5b54a39eb7ed0b77bbe5e25f",
+                        "user": "5b53e84bb4e1e66fc7a94f3c",
+                        "label": "water co2",
+                        "playback_type": "extended",
+                        "start_time": 74.646913,
+                        "end_time": 74.646913,
+                        "duration": 4.08671201814059,
+                        "file_name": "RFUE09SRO8w_5b54ab7d175ff377eb7c908a.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RFUE09SRO8w",
+                        "created_at": 20180722160621,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a78e255cab41b6d266bdc",
+                                "sentence": " An image of water added to carbon dioxide.",
+                                "start_time": 0.66,
+                                "end_time": 4.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b54abde46749277da9e882b",
+                        "video": "5b54a3088c67206f7cd18553",
+                        "audio_description": "5b54a39eb7ed0b77bbe5e25f",
+                        "user": "5b53e84bb4e1e66fc7a94f3c",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 83.189814,
+                        "end_time": 89.97004075736962,
+                        "duration": 6.780226757369615,
+                        "file_name": "RFUE09SRO8w_5b54abde46749277da9e882b.wav",
+                        "file_size_bytes": 1196076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RFUE09SRO8w",
+                        "created_at": 20180722160758,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a78e155cab41b6d266ba1",
+                                "sentence": " Three brief videos, a building on fire, a campfire, and thick black smoke in the air.",
+                                "start_time": 1.04,
+                                "end_time": 6.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b54ac4a46749277da9e882c",
+                        "video": "5b54a3088c67206f7cd18553",
+                        "audio_description": "5b54a39eb7ed0b77bbe5e25f",
+                        "user": "5b53e84bb4e1e66fc7a94f3c",
+                        "label": "image w co2 sun",
+                        "playback_type": "extended",
+                        "start_time": 96.678571,
+                        "end_time": 96.678571,
+                        "duration": 4.73687074829932,
+                        "file_name": "RFUE09SRO8w_5b54ac4a46749277da9e882c.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RFUE09SRO8w",
+                        "created_at": 20180722160946,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a786842d1001b6e11138c",
+                                "sentence": " An image of water, carbon dioxide and the sun.",
+                                "start_time": 0.52,
+                                "end_time": 4.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b54acc846749277da9e882d",
+                        "video": "5b54a3088c67206f7cd18553",
+                        "audio_description": "5b54a39eb7ed0b77bbe5e25f",
+                        "user": "5b53e84bb4e1e66fc7a94f3c",
+                        "label": "co2 enters cell",
+                        "playback_type": "inline",
+                        "start_time": 108.645753,
+                        "end_time": 114.21854211564626,
+                        "duration": 5.572789115646258,
+                        "file_name": "RFUE09SRO8w_5b54acc846749277da9e882d.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RFUE09SRO8w",
+                        "created_at": 20180722161152,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a786842d1001b6e111362",
+                                "sentence": " Video shows carbon dioxide entering the plant cell.",
+                                "start_time": 1.33,
+                                "end_time": 5.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b54ad49175ff377eb7c908b",
+                        "video": "5b54a3088c67206f7cd18553",
+                        "audio_description": "5b54a39eb7ed0b77bbe5e25f",
+                        "user": "5b53e84bb4e1e66fc7a94f3c",
+                        "label": "chlorplast",
+                        "playback_type": "inline",
+                        "start_time": 131.705331,
+                        "end_time": 136.53508156689344,
+                        "duration": 4.829750566893424,
+                        "file_name": "RFUE09SRO8w_5b54ad49175ff377eb7c908b.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RFUE09SRO8w",
+                        "created_at": 20180722161401,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a786742d1001b6e111336",
+                                "sentence": " Green chloroplast is moving throughout the cell.",
+                                "start_time": 0.22,
+                                "end_time": 4.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b54ad8f46749277da9e882e",
+                        "video": "5b54a3088c67206f7cd18553",
+                        "audio_description": "5b54a39eb7ed0b77bbe5e25f",
+                        "user": "5b53e84bb4e1e66fc7a94f3c",
+                        "label": "explosion",
+                        "playback_type": "inline",
+                        "start_time": 156.965886,
+                        "end_time": 160.30955946938778,
+                        "duration": 3.3436734693877552,
+                        "file_name": "RFUE09SRO8w_5b54ad8f46749277da9e882e.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RFUE09SRO8w",
+                        "created_at": 20180722161511,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a786942d1001b6e11139e",
+                                "sentence": " Mushroom cloud explosion.",
+                                "start_time": 0.94,
+                                "end_time": 3.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b54af68175ff377eb7c908c",
+                        "video": "5b54a3088c67206f7cd18553",
+                        "audio_description": "5b54a39eb7ed0b77bbe5e25f",
+                        "user": "5b53e84bb4e1e66fc7a94f3c",
+                        "label": "flowers flash",
+                        "playback_type": "inline",
+                        "start_time": 29.305606,
+                        "end_time": 34.878395115646256,
+                        "duration": 5.572789115646258,
+                        "file_name": "RFUE09SRO8w_5b54af68175ff377eb7c908c.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RFUE09SRO8w",
+                        "created_at": 20180722162304,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a786842d1001b6e111370",
+                                "sentence": " A tree, a bush and different flower images quickly flashed on the screen.",
+                                "start_time": 0.44,
+                                "end_time": 5.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b54b16646749277da9e882f",
+                        "video": "5b54a3088c67206f7cd18553",
+                        "audio_description": "5b54a39eb7ed0b77bbe5e25f",
+                        "user": "5b53e84bb4e1e66fc7a94f3c",
+                        "label": "rainstorm",
+                        "playback_type": "extended",
+                        "start_time": 62.680702,
+                        "end_time": 62.680702,
+                        "duration": 4.73687074829932,
+                        "file_name": "RFUE09SRO8w_5b54b16646749277da9e882f.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RFUE09SRO8w",
+                        "created_at": 20180722163134,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a786842d1001b6e11136c",
+                                "sentence": " Videos of a rainstorm, then waves on a beach.",
+                                "start_time": 0.51,
+                                "end_time": 4.31
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b54a39eb7ed0b77bbe5e25f",
+                "video": "5b54a3088c67206f7cd18553",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b53e84bb4e1e66fc7a94f3c",
+                    "email": "dburke@slrsd.org",
+                    "name": "Dorothy Burke",
+                    "given_name": "Dorothy",
+                    "picture": "https://lh4.googleusercontent.com/-geCh-W3-FI8/AAAAAAAAAAI/AAAAAAAAAAA/AAnnY7pk3LaNQf-SMQSNffvli3lmxA5Cnw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "100505372909156296878",
+                    "last_login": 20180722021331,
+                    "token": "878d325fa48765421393837bb0622d304239ee57167a6342fc4ff2c6f49525d6",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180722153246,
+                "updated_at": 20180722153246,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b54a973175ff377eb7c9087",
+                        "video": null,
+                        "audio_description": null,
+                        "user": "5b53e84bb4e1e66fc7a94f3c",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 12.969232,
+                        "end_time": 18.820660571428572,
+                        "duration": 5.851428571428571,
+                        "file_name": null,
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RFUE09SRO8w",
+                        "created_at": 20180722155739,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5b54a973175ff377eb7c9088",
+                "video": "5b54a3088c67206f7cd18553",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b53e84bb4e1e66fc7a94f3c",
+                    "email": "dburke@slrsd.org",
+                    "name": "Dorothy Burke",
+                    "given_name": "Dorothy",
+                    "picture": "https://lh4.googleusercontent.com/-geCh-W3-FI8/AAAAAAAAAAI/AAAAAAAAAAA/AAnnY7pk3LaNQf-SMQSNffvli3lmxA5Cnw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "100505372909156296878",
+                    "last_login": 20180722021331,
+                    "token": "878d325fa48765421393837bb0622d304239ee57167a6342fc4ff2c6f49525d6",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20180722155739,
+                "updated_at": 20180722155739,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "photosynthesis",
+            "producers",
+            "autotrophs",
+            "plants",
+            "science",
+            "photosynthesis in plants",
+            "biology",
+            "chlorophyll",
+            "chloroplast",
+            "photosynthesis animation",
+            "photosynthesis for beginners"
+        ],
+        "custom_tags": [],
+        "_id": "5b54a3088c67206f7cd18553",
+        "title": "Photosynthesis in Plants- Learn how plants make food",
+        "description": "Photosynthesis in Plants-How plants make food\nTable contents\n0:025 Why is photosynthesis important?\n0:43 Do plants need food?\n0:47 Ingredients of photosynthesis\n1:42 Stomata\n1:45 Chloroplasts\n2:27 Chemical equation of photosynthesis\n2:52 How sugar is created\n3:05 Definition\n\nKeywords | stomata | chloroplasts| sugar | chemical reaction| producers | plants | autotrophs\n\n\n\n\n\n\n\nHere is a definition of photosynthesis\n\nThe process in which plants combine carbon dioxide and water along with light energy in order to create sugar and oxygen\n\n-~-~~-~~~-~~-~-\nPlease watch: \"Study Skills Teacher's Secret Guide to your Best Grades\" \nhttps://www.youtube.com/watch?v=f3bsg8gaSbw\n-~-~~-~~~-~~-~-\n*\n*\nFor more Life Science videos and summaries see,\nhttp://www.moomoomath.com/Middle-School-Science-and-Biology.html",
+        "youtube_id": "RFUE09SRO8w",
+        "created_at": 20180722153016,
+        "updated_at": 20180722163134,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 206
+    }
+}

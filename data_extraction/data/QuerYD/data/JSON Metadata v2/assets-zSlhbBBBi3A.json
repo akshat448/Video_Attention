@@ -1,0 +1,74 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5e5f6cd196057715196afaf3",
+                        "video": "5e5f6c1a1126301580e8e6c0",
+                        "audio_description": "5e5f6c1a1126301580e8e6bf",
+                        "user": "5e5f673d96057715196afaea",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0.8660318474121094,
+                        "end_time": 91.14869851407877,
+                        "duration": 90.28266666666667,
+                        "file_name": "zSlhbBBBi3A_5e5f6cd196057715196afaf3.wav",
+                        "file_size_bytes": 17334316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/zSlhbBBBi3A",
+                        "created_at": 20200304085441,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5e5f6c1a1126301580e8e6bf",
+                "video": "5e5f6c1a1126301580e8e6c0",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e5f673d96057715196afaea",
+                    "email": "cameronwarren2@gmail.com",
+                    "name": "Cameron Warren",
+                    "given_name": "Cameron",
+                    "picture": "https://lh3.googleusercontent.com/a-/AOh14GiZ-5vHszzbhiHw3LfP5U-_MMrRcYueSO0pKB0m8g=s96-c",
+                    "locale": "en",
+                    "google_user_id": "110947665445199831050",
+                    "last_login": 20200304115711,
+                    "token": "c7ac0e7bb73da747e95174fdfc1fabb30e75ea8755d499cf20bf58205000f213",
+                    "__v": 0,
+                    "updated_at": 20200304115711,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200304085138,
+                "updated_at": 20200312180922,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 10,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5e5f6c1a1126301580e8e6c0",
+        "title": "What A Creative Advertisement By Mercedes!",
+        "description": "",
+        "youtube_id": "zSlhbBBBi3A",
+        "created_at": 20200304085138,
+        "updated_at": 20200304085441,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 91
+    }
+}

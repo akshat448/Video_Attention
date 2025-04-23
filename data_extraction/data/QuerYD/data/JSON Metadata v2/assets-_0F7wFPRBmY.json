@@ -1,0 +1,532 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d34ec3fd69c6e2797a16051",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 4.356729,
+                        "end_time": 4.356729,
+                        "duration": 3.1573333333333333,
+                        "file_name": "_0F7wFPRBmY_5d34ec3fd69c6e2797a16051.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721225039,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e5076042399009523e0",
+                                "sentence": " Kids learning videos, presents dogs.",
+                                "start_time": 0.36,
+                                "end_time": 3.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34ec7cd69c6e2797a16052",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "Woman",
+                        "playback_type": "inline",
+                        "start_time": 12.044333,
+                        "end_time": 14.006999666666667,
+                        "duration": 1.9626666666666666,
+                        "file_name": "_0F7wFPRBmY_5d34ec7cd69c6e2797a16052.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721225140,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5195950a396d3b41d13f85",
+                                "sentence": " A woman hugs the dog.",
+                                "start_time": 0,
+                                "end_time": 1.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34ecafd69c6e2797a16053",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 17.727291,
+                        "end_time": 20.20195766666667,
+                        "duration": 2.474666666666667,
+                        "file_name": "_0F7wFPRBmY_5d34ecafd69c6e2797a16053.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721225231,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e517604239900952406",
+                                "sentence": " A dog walks alongside a man in a field.",
+                                "start_time": 0,
+                                "end_time": 2.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34ed0cd69c6e2797a16054",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 24.613416,
+                        "end_time": 26.490749333333333,
+                        "duration": 1.8773333333333333,
+                        "file_name": "_0F7wFPRBmY_5d34ed0cd69c6e2797a16054.wav",
+                        "file_size_bytes": 360492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721225404,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5579b87f8232990368e844",
+                                "sentence": " A dog plays with its leash.",
+                                "start_time": 0.04,
+                                "end_time": 1.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34ed4ed69c6e2797a16055",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 30.154575,
+                        "end_time": 30.154575,
+                        "duration": 4.096,
+                        "file_name": "_0F7wFPRBmY_5d34ed4ed69c6e2797a16055.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721225510,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c187f8232990368e896",
+                                "sentence": " Two dogs lie on the floor next to each other",
+                                "start_time": 0.16,
+                                "end_time": 2.66
+                            },
+                            {
+                                "_id": "5e557c187f8232990368e895",
+                                "sentence": " and playfully nip.",
+                                "start_time": 2.66,
+                                "end_time": 4.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34ee2e9d41be1e9b2eb2bc",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 52.947697,
+                        "end_time": 54.739697,
+                        "duration": 1.792,
+                        "file_name": "_0F7wFPRBmY_5d34ee2e9d41be1e9b2eb2bc.wav",
+                        "file_size_bytes": 344108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721225854,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2d760423990095230d",
+                                "sentence": " Dog drinks water from dish.",
+                                "start_time": 0,
+                                "end_time": 1.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34ee599d41be1e9b2eb2bd",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "Panting",
+                        "playback_type": "inline",
+                        "start_time": 60.732182,
+                        "end_time": 63.121515333333335,
+                        "duration": 2.3893333333333335,
+                        "file_name": "_0F7wFPRBmY_5d34ee599d41be1e9b2eb2bd.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721225937,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2e76042399009523a2",
+                                "sentence": " Talk lies on the floor, panting.",
+                                "start_time": 0,
+                                "end_time": 2.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34efb69d41be1e9b2eb2bf",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "Camera",
+                        "playback_type": "extended",
+                        "start_time": 72.956011,
+                        "end_time": 72.956011,
+                        "duration": 4.864,
+                        "file_name": "_0F7wFPRBmY_5d34efb69d41be1e9b2eb2bf.wav",
+                        "file_size_bytes": 933932,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721230526,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e55787176042399009522b3",
+                                "sentence": " Camera moves through grace. The image transitions from black and white to color.",
+                                "start_time": 0.16,
+                                "end_time": 4.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34f0fe9d41be1e9b2eb2c0",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "Park",
+                        "playback_type": "inline",
+                        "start_time": 85.513542,
+                        "end_time": 89.69487533333333,
+                        "duration": 4.181333333333333,
+                        "file_name": "_0F7wFPRBmY_5d34f0fe9d41be1e9b2eb2c0.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721231054,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c197f8232990368e8b2",
+                                "sentence": " A dog runs through the grass at a park with its ears flapping.",
+                                "start_time": 0.2,
+                                "end_time": 4.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34f1789d41be1e9b2eb2c1",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "Ball",
+                        "playback_type": "extended",
+                        "start_time": 106.48005,
+                        "end_time": 106.48005,
+                        "duration": 3.6693333333333333,
+                        "file_name": "_0F7wFPRBmY_5d34f1789d41be1e9b2eb2c1.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721231256,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5195950a396d3b41d13f8f",
+                                "sentence": " A dog jumps for tennis ball and catches it in its mouth.",
+                                "start_time": 0,
+                                "end_time": 3.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34f2329d41be1e9b2eb2c2",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "Chew",
+                        "playback_type": "inline",
+                        "start_time": 119.186203,
+                        "end_time": 121.57553633333335,
+                        "duration": 2.3893333333333335,
+                        "file_name": "_0F7wFPRBmY_5d34f2329d41be1e9b2eb2c2.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721231602,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e517604239900952428",
+                                "sentence": " A dog chews on a tennis ball.",
+                                "start_time": 0.01,
+                                "end_time": 2.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34f2a6d69c6e2797a16056",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "Walks",
+                        "playback_type": "extended",
+                        "start_time": 138.70012,
+                        "end_time": 138.70012,
+                        "duration": 2.9013333333333335,
+                        "file_name": "_0F7wFPRBmY_5d34f2a6d69c6e2797a16056.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721231758,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5579b87f8232990368e848",
+                                "sentence": " A dog walks on a leash between two people.",
+                                "start_time": 0.08,
+                                "end_time": 2.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34f4f79d41be1e9b2eb2c7",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "Scratches",
+                        "playback_type": "extended",
+                        "start_time": 144.584077,
+                        "end_time": 144.584077,
+                        "duration": 3.584,
+                        "file_name": "_0F7wFPRBmY_5d34f4f79d41be1e9b2eb2c7.wav",
+                        "file_size_bytes": 688172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721232751,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c197f8232990368e8b5",
+                                "sentence": " A dog lies across a woman's lap while she scratches it.",
+                                "start_time": 0,
+                                "end_time": 3.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34f564d69c6e2797a16059",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "Cupcake",
+                        "playback_type": "inline",
+                        "start_time": 148.573132,
+                        "end_time": 150.27979866666666,
+                        "duration": 1.7066666666666668,
+                        "file_name": "_0F7wFPRBmY_5d34f564d69c6e2797a16059.wav",
+                        "file_size_bytes": 327724,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721232940,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2d76042399009522ff",
+                                "sentence": " A dog licks a cupcake.",
+                                "start_time": 0.03,
+                                "end_time": 1.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34f5e5d69c6e2797a1605a",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "Stick",
+                        "playback_type": "inline",
+                        "start_time": 153.207289,
+                        "end_time": 157.047289,
+                        "duration": 3.84,
+                        "file_name": "_0F7wFPRBmY_5d34f5e5d69c6e2797a1605a.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721233149,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e55787176042399009522d8",
+                                "sentence": " Three dogs chase a stick that is tossed into a lake.",
+                                "start_time": 0.04,
+                                "end_time": 3.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34f6649d41be1e9b2eb2c8",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "Swim",
+                        "playback_type": "inline",
+                        "start_time": 160.51077,
+                        "end_time": 163.7534366666667,
+                        "duration": 3.2426666666666666,
+                        "file_name": "_0F7wFPRBmY_5d34f6649d41be1e9b2eb2c8.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721233356,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2d7604239900952330",
+                                "sentence": " A dog swims in a lake with a tennis ball in its mouth.",
+                                "start_time": 0,
+                                "end_time": 3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d34f8b0d69c6e2797a1605f",
+                        "video": "5d34eb8bd69c6e2797a1604f",
+                        "audio_description": "5d34eb8bd69c6e2797a1604e",
+                        "user": "5d349b33d69c6e2797a16038",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 193.090097,
+                        "end_time": 193.090097,
+                        "duration": 5.034666666666666,
+                        "file_name": "_0F7wFPRBmY_5d34f8b0d69c6e2797a1605f.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_0F7wFPRBmY",
+                        "created_at": 20190721234344,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c1a7f8232990368e8f2",
+                                "sentence": " Kids learning videos, dog learning about dog facts for kids.",
+                                "start_time": 0.12,
+                                "end_time": 4.99
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d34eb8bd69c6e2797a1604e",
+                "video": "5d34eb8bd69c6e2797a1604f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d349b33d69c6e2797a16038",
+                    "email": "deirdrestynes@gmail.com",
+                    "name": "Deirdre Stynes",
+                    "given_name": "Deirdre",
+                    "picture": "https://lh4.googleusercontent.com/-VwwMxjh8mh4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdh2oPVMvjWRB_Bb9Y105F2Uu5I1Q/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "107070940828059228693",
+                    "last_login": 20190805043534,
+                    "token": "21182fe663c533676689fc748d29871701d9e126d77aa3651f27c1f9316acb14",
+                    "__v": 0,
+                    "updated_at": 20190805043534,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190721224739,
+                "updated_at": 20190721224739,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [],
+                "_id": "5d40520fcf4983503b0350f9",
+                "video": "5d34eb8bd69c6e2797a1604f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d38f67c4b960e2e8231b7c8",
+                    "email": "werned@gm.sbac.edu",
+                    "name": "Elisa Wern",
+                    "given_name": "Elisa",
+                    "picture": "https://lh5.googleusercontent.com/-TKwO2CQE0_w/AAAAAAAAAAI/AAAAAAAAAo4/5VIUqBV0-FM/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "110421450374628983194",
+                    "last_login": 20190730141857,
+                    "token": "65473b1b3a7748fcb42682164345db95baa063d51525a09ae2262841fb47b819",
+                    "__v": 0,
+                    "updated_at": 20190730141857,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20190730141959,
+                "updated_at": 20190730141959,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "dogs",
+            "dog",
+            "dog facts",
+            "dog facts for kids",
+            "dog facts for children",
+            "learn about dogs",
+            "learning about dogs",
+            "dogs for kids",
+            "dogs for children",
+            "dogs for toddlers",
+            "fun dog facts",
+            "fun facts about dogs",
+            "dog pets",
+            "dog pets for kids",
+            "information about dogs",
+            "info about dogs",
+            "learning about dogs for kids",
+            "kidslearningvideos",
+            "kids learning videos"
+        ],
+        "custom_tags": [],
+        "_id": "5d34eb8bd69c6e2797a1604f",
+        "title": "Dogs!  Learning about Dog Facts for Kids",
+        "description": "Dogs!  Learn about Dogs for children and kids\r\nThis dog fact video is great for kids and toddlers to learn more about our four legged friends, the Dog!  Dogs are great animals to have as pets and as a friend.  This video can teach kids about dogs and many dog facts.   Learning more about dogs would be great.\r\nThanks for watching Dog facts for kids!\r\n\r\n--Subscribe to Kids Learning Videos--\r\nhttp://www.youtube.com/subscription_center?add_user=kidslearningvideo\r\n\r\n--Educational Toys for Kids--\r\nhttps://www.amazon.com/shop/kidslearningvideos\r\n\r\n--Popular Videos and Songs\u2014\r\nAnimal Sounds Song - https://youtu.be/V7R_M52EAkI?list=PLsujH_u89cJ-_59BMCSMdDXdwDlUJ1LO9\r\nThe Three Little Pigs - https://youtu.be/HtHjB6rRmQc?list=PLsujH_u89cJ9Qn3J0u_qlCPUrTZafhJSQ\r\nOld MacDonald Had a Farm - https://youtu.be/o2xEz9ceqpo?list=PLsujH_u89cJ-_59BMCSMdDXdwDlUJ1LO9\r\n\r\n--Check out our Website\u2014\r\nhttp://www.kidslearningvideos.com\r\n\r\n--Follow Kids Learning Videos--\r\nFacebook: https://www.facebook.com/KidsLearningVideo\r\nRoku:  https://channelstore.roku.com/details/60297/kids-learning-videos",
+        "youtube_id": "_0F7wFPRBmY",
+        "created_at": 20190721224739,
+        "updated_at": 20190730141959,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 197
+    }
+}

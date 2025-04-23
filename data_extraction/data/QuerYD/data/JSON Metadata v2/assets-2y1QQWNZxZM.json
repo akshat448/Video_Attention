@@ -1,0 +1,190 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5b96",
+                        "audio_description": "58e7cf3546e13dfd851a25ab",
+                        "created_at": 20160824121554,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824121554,
+                        "file_name": "14720661547161.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2645,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24051,
+                        "video": "58e7cf2946e13dfd851a1e68",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 28.64,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5ccbc",
+                                "sentence": " A toddler boy and his father are in a living room.",
+                                "start_time": 0.32,
+                                "end_time": 3.87
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5ccbb",
+                                "sentence": " The father sits on the carpeted floor and supports the boy. As he stands.",
+                                "start_time": 3.91,
+                                "end_time": 8.76
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5ccba",
+                                "sentence": " They re position to their hands and knees together.",
+                                "start_time": 8.99,
+                                "end_time": 12.49
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5ccb9",
+                                "sentence": " They crawl on the floor with the father's hands under the boy's hands, they slowly move from the left",
+                                "start_time": 12.49,
+                                "end_time": 19.83
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5ccb8",
+                                "sentence": " to the right",
+                                "start_time": 19.93,
+                                "end_time": 21.35
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5ccb7",
+                                "sentence": " until they reach a couch below a window where an adult sits watching them.",
+                                "start_time": 21.52,
+                                "end_time": 28.13
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25ab",
+                "status": "published",
+                "legacy_video_id": 2645,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e68",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5ad5",
+                        "audio_description": "58e7cf3546e13dfd851a25ab",
+                        "created_at": 20160817135501,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817135501,
+                        "file_name": "14714673013791.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2645,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23797,
+                        "video": "58e7cf2946e13dfd851a1e68",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 28.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44288ec26fa0bc796fd5ad",
+                                "sentence": " A toddler boy and his father are in a living room.",
+                                "start_time": 0.66,
+                                "end_time": 3.98
+                            },
+                            {
+                                "_id": "5e44288ec26fa0bc796fd5ac",
+                                "sentence": " The father sits on the carpeted floor and supports the boy. As he stands.",
+                                "start_time": 4.17,
+                                "end_time": 9.07
+                            },
+                            {
+                                "_id": "5e44288ec26fa0bc796fd5ab",
+                                "sentence": " They re position to their hands and knees, and together they crawl on the floor with the father's hands under the boy's hands.",
+                                "start_time": 9.37,
+                                "end_time": 17.79
+                            },
+                            {
+                                "_id": "5e44288ec26fa0bc796fd5aa",
+                                "sentence": " They slowly move from the left to the right until they reach a couch below a window",
+                                "start_time": 18.37,
+                                "end_time": 24.72
+                            },
+                            {
+                                "_id": "5e44288ec26fa0bc796fd5a9",
+                                "sentence": " where an adult sits watching them.",
+                                "start_time": 24.72,
+                                "end_time": 27.61
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a2650",
+                "status": "published",
+                "legacy_video_id": 2645,
+                "legacy_user_id": 3125,
+                "video": "58e7cf2946e13dfd851a1e68",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2637",
+                    "name": "Jhogan13",
+                    "google_user_id_token": "",
+                    "created_at": 20160504150811,
+                    "updated_at": 20160817114117,
+                    "legacy_user_id": 3125,
+                    "last_login": 0,
+                    "email": "Jhogan13@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e68",
+        "description": "",
+        "youtube_id": "2y1QQWNZxZM",
+        "views": 0,
+        "created_at": 20160817135407,
+        "title": "Joel Crawling O&M",
+        "legacy_video_id": 2645,
+        "updated_at": 20160824121554,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 34
+    }
+}

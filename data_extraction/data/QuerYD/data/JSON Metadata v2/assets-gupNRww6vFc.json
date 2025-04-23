@@ -1,0 +1,197 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7246e13dfd851a5505",
+                        "audio_description": "58e7cf3346e13dfd851a24fe",
+                        "created_at": 20160125114428,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160125114428,
+                        "file_name": "14537510681161.wav",
+                        "start_time": 1.35,
+                        "legacy_video_id": 2451,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 21424,
+                        "video": "58e7cf2946e13dfd851a1da6",
+                        "end_time": 1.35,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e442d4079f74cbc7c082f18",
+                                "sentence": " An adult female with braided blond hair sits in front of a black background.",
+                                "start_time": 1.03,
+                                "end_time": 6.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a5506",
+                        "audio_description": "58e7cf3346e13dfd851a24fe",
+                        "created_at": 20160125114516,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160125114516,
+                        "file_name": "14537511162631.wav",
+                        "start_time": 13.028,
+                        "legacy_video_id": 2451,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 21425,
+                        "video": "58e7cf2946e13dfd851a1da6",
+                        "end_time": 13.028,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ed82cbd0c06b17082b",
+                                "sentence": " A young boy with glasses explores a bin of melons at a grocery store.",
+                                "start_time": 1.3,
+                                "end_time": 5.88
+                            },
+                            {
+                                "_id": "5e4068ed82cbd0c06b17082a",
+                                "sentence": " It's handy being guided, using hand over hand by an adult female.",
+                                "start_time": 5.88,
+                                "end_time": 11.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a5507",
+                        "audio_description": "58e7cf3346e13dfd851a24fe",
+                        "created_at": 20160125114559,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160125114559,
+                        "file_name": "14537511593301.wav",
+                        "start_time": 20.374,
+                        "legacy_video_id": 2451,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 21426,
+                        "video": "58e7cf2946e13dfd851a1da6",
+                        "end_time": 20.374,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ef82cbd0c06b1708ae",
+                                "sentence": " A young boy stands outside, smiling,",
+                                "start_time": 0.74,
+                                "end_time": 3.58
+                            },
+                            {
+                                "_id": "5e4068ef82cbd0c06b1708ad",
+                                "sentence": " holding the hand of an adult female.",
+                                "start_time": 3.58,
+                                "end_time": 5.91
+                            },
+                            {
+                                "_id": "5e4068ef82cbd0c06b1708ac",
+                                "sentence": " He points upward and looks up at the sky.",
+                                "start_time": 5.91,
+                                "end_time": 9.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a5508",
+                        "audio_description": "58e7cf3346e13dfd851a24fe",
+                        "created_at": 20160125114655,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160125114655,
+                        "file_name": "14537512152501.wav",
+                        "start_time": 25.941,
+                        "legacy_video_id": 2451,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 21427,
+                        "video": "58e7cf2946e13dfd851a1da6",
+                        "end_time": 25.941,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e42b3336b735cb4247ac361",
+                                "sentence": " A young girl sits as close as possible in front of an adult female.",
+                                "start_time": 0.89,
+                                "end_time": 5.73
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a24fe",
+                "status": "published",
+                "legacy_video_id": 2451,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1da6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "intervener",
+            "Deafblindness (Disease Or Medical Condition)",
+            "Deaf-blindness",
+            "Deafblind",
+            "Deaf-Blind",
+            "NCDB",
+            "National Center on Deaf-Blindness",
+            "OHOA",
+            "Open Hands Open Access",
+            "Deaf-Blind Intervener Training Modules",
+            "Intervention",
+            "Gloria Authement",
+            "Module 1",
+            "Overview"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1da6",
+        "description": "",
+        "youtube_id": "gupNRww6vFc",
+        "views": 0,
+        "created_at": 20160125114142,
+        "title": "Gloria Authement: An Intervener's Perspective - Module 1",
+        "legacy_video_id": 2451,
+        "updated_at": 20160125114655,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 39
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4646e13dfd851a3188",
+                        "audio_description": "58e7cf2d46e13dfd851a21e0",
+                        "created_at": 20140604114137,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604114137,
+                        "file_name": "14019072975671.wav",
+                        "start_time": 4.2,
+                        "legacy_video_id": 1558,
+                        "legacy_user_id": 2287,
+                        "label": "",
+                        "legacy_audio_clip_id": 7471,
+                        "video": "58e7cf2846e13dfd851a1a29",
+                        "end_time": 4.2,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21df",
+                        "transcript": [
+                            {
+                                "_id": "5e21172da0a26c5f69de47a1",
+                                "sentence": " A little girl sits on the couch with an iPad and refresh full braille display.",
+                                "start_time": 0.26,
+                                "end_time": 4.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a3189",
+                        "audio_description": "58e7cf2d46e13dfd851a21e0",
+                        "created_at": 20140604114209,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604114209,
+                        "file_name": "14019073299271.wav",
+                        "start_time": 13.518,
+                        "legacy_video_id": 1558,
+                        "legacy_user_id": 2287,
+                        "label": "",
+                        "legacy_audio_clip_id": 7472,
+                        "video": "58e7cf2846e13dfd851a1a29",
+                        "end_time": 13.518,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21df",
+                        "transcript": [
+                            {
+                                "_id": "5e211654ad6c4c5f68d9ecc9",
+                                "sentence": " She uses the refresh full braille display to read the tactile letter.",
+                                "start_time": 0.57,
+                                "end_time": 5.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a318a",
+                        "audio_description": "58e7cf2d46e13dfd851a21e0",
+                        "created_at": 20140604114245,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604114245,
+                        "file_name": "14019073656271.wav",
+                        "start_time": 24.653,
+                        "legacy_video_id": 1558,
+                        "legacy_user_id": 2287,
+                        "label": "",
+                        "legacy_audio_clip_id": 7473,
+                        "video": "58e7cf2846e13dfd851a1a29",
+                        "end_time": 24.653,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21df",
+                        "transcript": [
+                            {
+                                "_id": "5e21172ba0a26c5f69de4713",
+                                "sentence": " She continues to navigate through the APP using the refresh will roll display to hear other letters.",
+                                "start_time": 0.25,
+                                "end_time": 5.83
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21e0",
+                "status": "published",
+                "legacy_video_id": 1558,
+                "legacy_user_id": 2287,
+                "video": "58e7cf2846e13dfd851a1a29",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21df",
+                    "name": "HillaryKleck",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2287,
+                    "last_login": 0,
+                    "email": "hgw.kleck@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Braille (Language Writing System)"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a29",
+        "description": "",
+        "youtube_id": "CYgs0ccffVw",
+        "views": 0,
+        "created_at": 20140604064644,
+        "title": "Teach Me Flashcards on Exploring Braille App",
+        "legacy_video_id": 1558,
+        "updated_at": 20140604114245,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 28
+    }
+}

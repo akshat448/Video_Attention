@@ -1,0 +1,867 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f6f",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161026180811,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161026180811,
+                        "file_name": "14775304913491.wav",
+                        "start_time": 0.598,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3328,
+                        "label": "",
+                        "legacy_audio_clip_id": 25521,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 0.598,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2715",
+                        "transcript": [
+                            {
+                                "_id": "5e47504ce1559904332046db",
+                                "sentence": " A man in a sewer dresses the camera as it slowly zooms in on him. There are decorative flower races surrounding him, and an image of a sun behind him as he speaks to the camera.",
+                                "start_time": 1.16,
+                                "end_time": 10.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f70",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161026181148,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161026181148,
+                        "file_name": "14775307089041.wav",
+                        "start_time": 21.38,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3328,
+                        "label": "",
+                        "legacy_audio_clip_id": 25527,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 35.19,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2715",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de1559904332046f5",
+                                "sentence": " A young boy stirs at a television screen with his eyes wide open.",
+                                "start_time": 1.12,
+                                "end_time": 4.55
+                            },
+                            {
+                                "_id": "5e47504de1559904332046f4",
+                                "sentence": " The television screen is reflecting in his eyes as his eyes start from side to side.",
+                                "start_time": 4.55,
+                                "end_time": 8.64
+                            },
+                            {
+                                "_id": "5e47504de1559904332046f3",
+                                "sentence": " Advisor closed under television, screen flickers as the boy uses a game console controller.",
+                                "start_time": 8.64,
+                                "end_time": 13.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f71",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161026181409,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161026181409,
+                        "file_name": "14775308493931.wav",
+                        "start_time": 34.433,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3328,
+                        "label": "",
+                        "legacy_audio_clip_id": 25530,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 37.753,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2715",
+                        "transcript": [
+                            {
+                                "_id": "5e45a86ea3885227afb5cabd",
+                                "sentence": " His mom comes inside carrying a cardboard box.",
+                                "start_time": 0.17,
+                                "end_time": 3.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f72",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161026181559,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161026181559,
+                        "file_name": "14775309594631.wav",
+                        "start_time": 48.246,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3328,
+                        "label": "",
+                        "legacy_audio_clip_id": 25531,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 50.806000000000004,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2715",
+                        "transcript": [
+                            {
+                                "_id": "5e47522f776f3e043421dee2",
+                                "sentence": " His mom opens the blinds.",
+                                "start_time": 0.21,
+                                "end_time": 2.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f73",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161026181654,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161026181654,
+                        "file_name": "14775310141491.wav",
+                        "start_time": 65.598,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3328,
+                        "label": "",
+                        "legacy_audio_clip_id": 25533,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 68.91799999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2715",
+                        "transcript": [
+                            {
+                                "_id": "5e474cde776f3e043421de39",
+                                "sentence": " The boy reaches for the box, and a puppy emerges.",
+                                "start_time": 0.21,
+                                "end_time": 3.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f74",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161026182038,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161026182038,
+                        "file_name": "14775312382021.wav",
+                        "start_time": 82.866,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3328,
+                        "label": "",
+                        "legacy_audio_clip_id": 25538,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 89.006,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2715",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de155990433204708",
+                                "sentence": " Boy notices that the puppy is missing a front limb. He throws it to the ground and flings the box off the table.",
+                                "start_time": 0.09,
+                                "end_time": 6.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f75",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161026183728,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161026183728,
+                        "file_name": "14775322485491.wav",
+                        "start_time": 99.946,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3328,
+                        "label": "",
+                        "legacy_audio_clip_id": 25545,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 108.646,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a2715",
+                        "transcript": [
+                            {
+                                "_id": "5e47504ce1559904332046d6",
+                                "sentence": " The boy has kicked the puppy.",
+                                "start_time": 0.74,
+                                "end_time": 2.41
+                            },
+                            {
+                                "_id": "5e47504ce1559904332046d5",
+                                "sentence": " The puppy notices a bright red ball under the cabinet.",
+                                "start_time": 2.41,
+                                "end_time": 5.53
+                            },
+                            {
+                                "_id": "5e47504ce1559904332046d4",
+                                "sentence": " The puppy runs towards it, crashing against the furniture.",
+                                "start_time": 5.53,
+                                "end_time": 8.6
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3846e13dfd851a2716",
+                "status": "published",
+                "legacy_video_id": 2825,
+                "legacy_user_id": 3328,
+                "video": "58e7cf2946e13dfd851a1f1b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3846e13dfd851a2715",
+                    "name": "juanguzman455",
+                    "google_user_id_token": "",
+                    "created_at": 20161024152257,
+                    "updated_at": 20161024152329,
+                    "legacy_user_id": 3328,
+                    "last_login": 0,
+                    "email": "juanguzman455@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8446e13dfd851a609f",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102163658,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102163658,
+                        "file_name": "14781298182151.wav",
+                        "start_time": 41.087,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26013,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 45.17700000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e45b74898b0c327b1e1272a",
+                                "sentence": " The woman sets the box down in front of the boy.",
+                                "start_time": 0.78,
+                                "end_time": 3.59
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60a0",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102163719,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102163719,
+                        "file_name": "14781298398421.wav",
+                        "start_time": 49.227,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26014,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 52.037,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e47472f776f3e043421dce7",
+                                "sentence": " The mom opens up the blinds.",
+                                "start_time": 0.26,
+                                "end_time": 2.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60a1",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102163850,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102163850,
+                        "file_name": "14781299305261.wav",
+                        "start_time": 59.489,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26017,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 67.419,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e4745c9e15599043320458b",
+                                "sentence": " The mom answers the phone.",
+                                "start_time": 0,
+                                "end_time": 1.65
+                            },
+                            {
+                                "_id": "5e4745c9e15599043320458a",
+                                "sentence": " The boy looks at the box while the mom walks up the stairs.",
+                                "start_time": 1.65,
+                                "end_time": 4.86
+                            },
+                            {
+                                "_id": "5e4745c9e155990433204589",
+                                "sentence": " He opens a box and a puppy appears.",
+                                "start_time": 5.01,
+                                "end_time": 7.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60a2",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102163931,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102163931,
+                        "file_name": "14781299716821.wav",
+                        "start_time": 76.26,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26018,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 84.7,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e474730776f3e043421dd6a",
+                                "sentence": " The boy picks up the dog and sees he has a missing leg.",
+                                "start_time": 0.25,
+                                "end_time": 3.79
+                            },
+                            {
+                                "_id": "5e474730776f3e043421dd69",
+                                "sentence": " He throws the dog on the floor.",
+                                "start_time": 3.81,
+                                "end_time": 5.7
+                            },
+                            {
+                                "_id": "5e474730776f3e043421dd68",
+                                "sentence": " He hits the box off the table.",
+                                "start_time": 5.85,
+                                "end_time": 8.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60a3",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102164040,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102164040,
+                        "file_name": "14781300407761.wav",
+                        "start_time": 89.442,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26020,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 93.282,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e45b702a3885227afb5cb2f",
+                                "sentence": " The boy resumes his game while the puppy runs back to the boy.",
+                                "start_time": 0.08,
+                                "end_time": 3.73
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60a4",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102164106,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102164106,
+                        "file_name": "14781300660891.wav",
+                        "start_time": 93.147,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26021,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 95.70700000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e45b851a3885227afb5cb3b",
+                                "sentence": " The boy kicks the puppy away.",
+                                "start_time": 0.38,
+                                "end_time": 2.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60a5",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102164145,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102164145,
+                        "file_name": "14781301051061.wav",
+                        "start_time": 103.51,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26023,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 109.39,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e474572872a5004357bc50e",
+                                "sentence": " The puppy sees a red ball under a cabinet.",
+                                "start_time": 0.61,
+                                "end_time": 3.04
+                            },
+                            {
+                                "_id": "5e474572872a5004357bc50d",
+                                "sentence": " It run towards the ball and hits the cabinet.",
+                                "start_time": 3.08,
+                                "end_time": 5.73
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60a6",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102164211,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102164211,
+                        "file_name": "14781301313381.wav",
+                        "start_time": 114.437,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26024,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 117.50699999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e474730776f3e043421dd49",
+                                "sentence": " The puppy puts the ball by the boy's feet.",
+                                "start_time": 0.65,
+                                "end_time": 2.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60a7",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102164223,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102164223,
+                        "file_name": "14781301439171.wav",
+                        "start_time": 119.639,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26025,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 122.449,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e47480ce1559904332045e6",
+                                "sentence": " The boy kicks the ball into the box.",
+                                "start_time": 0.25,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60a8",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102164244,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102164244,
+                        "file_name": "14781301646071.wav",
+                        "start_time": 123.906,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26026,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 129.536,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e45b702a3885227afb5cace",
+                                "sentence": " The puppy runs toward the ball trips, but continues on jumping into the box.",
+                                "start_time": 0.55,
+                                "end_time": 5.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60a9",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102164321,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102164321,
+                        "file_name": "14781302018331.wav",
+                        "start_time": 137.412,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26028,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 142.782,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e45b74898b0c327b1e12751",
+                                "sentence": " The puppy runs around under the backs and emerges. The boy looks curious.",
+                                "start_time": 0.3,
+                                "end_time": 4.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60aa",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102164358,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102164358,
+                        "file_name": "14781302388631.wav",
+                        "start_time": 152.33,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26029,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 158.47,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e4745c9e155990433204573",
+                                "sentence": " The dog plays with the ball",
+                                "start_time": 0,
+                                "end_time": 1.4
+                            },
+                            {
+                                "_id": "5e4745c9e155990433204572",
+                                "sentence": " the to make eye contact, and the dog runs toward the boy and sets the ball down.",
+                                "start_time": 1.4,
+                                "end_time": 6.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60ab",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102164429,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102164429,
+                        "file_name": "14781302690471.wav",
+                        "start_time": 167.484,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26030,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 170.554,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e474730776f3e043421dd6b",
+                                "sentence": " The dog looks at the boy happily.",
+                                "start_time": 0.41,
+                                "end_time": 2.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60ac",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102164519,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102164519,
+                        "file_name": "14781303190221.wav",
+                        "start_time": 182.507,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26032,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 189.927,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e47472f776f3e043421dcfe",
+                                "sentence": " The boy picks up a ball and walks toward the door with his crutches.",
+                                "start_time": 0.28,
+                                "end_time": 3.88
+                            },
+                            {
+                                "_id": "5e47472f776f3e043421dcfd",
+                                "sentence": " He is missing a leg.",
+                                "start_time": 3.88,
+                                "end_time": 5.4
+                            },
+                            {
+                                "_id": "5e47472f776f3e043421dcfc",
+                                "sentence": " The puppy follows.",
+                                "start_time": 5.4,
+                                "end_time": 7.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60ad",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102164519,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102164519,
+                        "file_name": "14781303197681.wav",
+                        "start_time": 182.507,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26033,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 189.927,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e45b74698b0c327b1e12677",
+                                "sentence": " The boy picks up a ball and walks toward the door with his crutches.",
+                                "start_time": 0.28,
+                                "end_time": 3.88
+                            },
+                            {
+                                "_id": "5e45b74698b0c327b1e12676",
+                                "sentence": " He is missing a leg.",
+                                "start_time": 3.88,
+                                "end_time": 5.4
+                            },
+                            {
+                                "_id": "5e45b74698b0c327b1e12675",
+                                "sentence": " The puppy follows.",
+                                "start_time": 5.4,
+                                "end_time": 7.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60ae",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102164716,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102164716,
+                        "file_name": "14781304364311.wav",
+                        "start_time": 203.274,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26034,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 205.324,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e45b89e98b0c327b1e127b4",
+                                "sentence": " The two play catch outside.",
+                                "start_time": 0,
+                                "end_time": 1.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8446e13dfd851a60af",
+                        "audio_description": "58e7cf3846e13dfd851a2716",
+                        "created_at": 20161102165859,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161102165859,
+                        "file_name": "14781311391621.wav",
+                        "start_time": 20.618,
+                        "legacy_video_id": 2825,
+                        "legacy_user_id": 3331,
+                        "label": "",
+                        "legacy_audio_clip_id": 26035,
+                        "video": "58e7cf2946e13dfd851a1f1b",
+                        "end_time": 33.408,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2736",
+                        "transcript": [
+                            {
+                                "_id": "5e47472f776f3e043421dcd8",
+                                "sentence": " A young boy shown close up.",
+                                "start_time": 0,
+                                "end_time": 1.57
+                            },
+                            {
+                                "_id": "5e47472f776f3e043421dcd7",
+                                "sentence": " His eyes are wide. As they look at a flickering screen,",
+                                "start_time": 1.57,
+                                "end_time": 4.31
+                            },
+                            {
+                                "_id": "5e47472f776f3e043421dcd6",
+                                "sentence": " he is holding a game counsel controller.",
+                                "start_time": 4.44,
+                                "end_time": 6.82
+                            },
+                            {
+                                "_id": "5e47472f776f3e043421dcd5",
+                                "sentence": " And in a dark room,",
+                                "start_time": 6.82,
+                                "end_time": 8.32
+                            },
+                            {
+                                "_id": "5e47472f776f3e043421dcd4",
+                                "sentence": " a woman enters a house holding a large cardboard box.",
+                                "start_time": 9.37,
+                                "end_time": 12.69
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3946e13dfd851a2737",
+                "status": "published",
+                "legacy_video_id": 2825,
+                "legacy_user_id": 3331,
+                "video": "58e7cf2946e13dfd851a1f1b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3946e13dfd851a2736",
+                    "name": "Truttschel",
+                    "google_user_id_token": "",
+                    "created_at": 20161025121722,
+                    "updated_at": 20161025121829,
+                    "legacy_user_id": 3331,
+                    "last_login": 0,
+                    "email": "ashleytruttschel@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Animation",
+            "German",
+            "Jacob Frey",
+            "Cartoon",
+            "Ken Bertwell",
+            "Short Film"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1f1b",
+        "description": "",
+        "youtube_id": "b8gRoHGLxlA",
+        "views": 0,
+        "created_at": 20161026145417,
+        "title": "\"The Present\"  Short Animation by Jacob Frey of Germany.  Ken Bertwell",
+        "legacy_video_id": 2825,
+        "updated_at": 20161129143208,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 223
+    }
+}

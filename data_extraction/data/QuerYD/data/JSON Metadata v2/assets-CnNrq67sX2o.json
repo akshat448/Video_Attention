@@ -1,0 +1,905 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d1b",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304121541,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304121541,
+                        "file_name": "14255001419571.wav",
+                        "start_time": 3.256,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12072,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 3.256,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25428e90f6fcf009784445",
+                                "sentence": " Kevin hart is African American.",
+                                "start_time": 0.03,
+                                "end_time": 2.33
+                            },
+                            {
+                                "_id": "5e25428e90f6fcf009784444",
+                                "sentence": " Kevin is dressed in a black long sleeve, leather shirt and black jeans. He is wearing a gold watch and chain.",
+                                "start_time": 2.33,
+                                "end_time": 8.79
+                            },
+                            {
+                                "_id": "5e25428e90f6fcf009784443",
+                                "sentence": " Kevin hart is very expressive.",
+                                "start_time": 8.99,
+                                "end_time": 10.98
+                            },
+                            {
+                                "_id": "5e25428e90f6fcf009784442",
+                                "sentence": " He emphasizes his words with hand gestures and constantly paces across the stage.",
+                                "start_time": 10.98,
+                                "end_time": 16.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d1c",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304121800,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304121800,
+                        "file_name": "14255002802681.wav",
+                        "start_time": 44.178,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12073,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 44.178,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254598ae6095071ad17a20",
+                                "sentence": " Kevin sits on a bar stool on the stage.",
+                                "start_time": 0,
+                                "end_time": 2.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d1d",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304121848,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304121848,
+                        "file_name": "14255003289231.wav",
+                        "start_time": 44.148,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12074,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 44.148,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254a8b3e03601ebc372b99",
+                                "sentence": " Kevin raises his feet and moves his legs back forth.",
+                                "start_time": 0.18,
+                                "end_time": 3.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d1e",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304122100,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304122100,
+                        "file_name": "14255004608921.wav",
+                        "start_time": 92.715,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12075,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 92.715,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254745c8cbae071cfb9c4e",
+                                "sentence": " Kevin imitates the man. He raises his eyebrows and has a large grin on his face.",
+                                "start_time": 0.11,
+                                "end_time": 5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d1f",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304122136,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304122136,
+                        "file_name": "14255004962521.wav",
+                        "start_time": 101.114,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12076,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 103.414,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25427d90f6fcf009784421",
+                                "sentence": " He grins while speaking.",
+                                "start_time": 0.07,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d20",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304122220,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304122220,
+                        "file_name": "14255005402761.wav",
+                        "start_time": 105.425,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12077,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 109.515,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25427d90f6fcf009784420",
+                                "sentence": " He brings his legs horizontal with a stage and then brings them down.",
+                                "start_time": 0,
+                                "end_time": 3.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d21",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304122425,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304122425,
+                        "file_name": "14255006651231.wav",
+                        "start_time": 127.736,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12078,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 131.826,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254a8c3e03601ebc372be8",
+                                "sentence": " Kevin makes the exact same expression as before.",
+                                "start_time": 0,
+                                "end_time": 3.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d22",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304122521,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304122521,
+                        "file_name": "14255007213441.wav",
+                        "start_time": 155.983,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12079,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 155.983,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254a8e3e03601ebc372c04",
+                                "sentence": " Kevin swings his legs back and forth on the stool.",
+                                "start_time": 0.16,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d23",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304122620,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304122620,
+                        "file_name": "14255007804001.wav",
+                        "start_time": 170.421,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12080,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 170.421,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25411df68fd9f00865682b",
+                                "sentence": " Kevin swings both his legs and arms.",
+                                "start_time": 0,
+                                "end_time": 2.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d24",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304122728,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304122728,
+                        "file_name": "14255008484881.wav",
+                        "start_time": 179.738,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12081,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 182.298,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254598ae6095071ad17a08",
+                                "sentence": " Kevin wins his fingers towards the crown.",
+                                "start_time": 0,
+                                "end_time": 1.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d25",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304123047,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304123047,
+                        "file_name": "14255010477191.wav",
+                        "start_time": 6.588,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12083,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 9.148,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25427e90f6fcf009784429",
+                                "sentence": " Kevin, adjust the bar still on stage.",
+                                "start_time": 0,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d26",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304124121,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304124121,
+                        "file_name": "14255016818441.wav",
+                        "start_time": 190.939,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12085,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 190.939,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254598ae6095071ad17a2f",
+                                "sentence": " Kevin holds his legs up horizontal with the stage. He brings his arms to his sides and shrugs his shoulders with a bouncing motion.",
+                                "start_time": 0.04,
+                                "end_time": 7.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d27",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304124207,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304124207,
+                        "file_name": "14255017276451.wav",
+                        "start_time": 198.792,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12086,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 201.092,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254bd0f1d2491ebea61753",
+                                "sentence": " Kevin waves his arms in the air.",
+                                "start_time": 0.03,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d28",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304130017,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304130017,
+                        "file_name": "14255028171621.wav",
+                        "start_time": 213.782,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12087,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 213.782,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254598ae6095071ad17a09",
+                                "sentence": " Kevin extends his arm and leans his body back on the stool.",
+                                "start_time": 0,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d29",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304130217,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304130217,
+                        "file_name": "14255029370331.wav",
+                        "start_time": 244.019,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12089,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 244.019,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254119f68fd9f0086567da",
+                                "sentence": " Kevin points up and towards his left.",
+                                "start_time": 0,
+                                "end_time": 2.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d2a",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304130244,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304130244,
+                        "file_name": "14255029641021.wav",
+                        "start_time": 246.366,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12090,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 246.366,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25427c90f6fcf0097843cf",
+                                "sentence": " Kevin extends an open hand toward the floor.",
+                                "start_time": 0.08,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d2b",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304130447,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304130447,
+                        "file_name": "14255030871661.wav",
+                        "start_time": 259.403,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12091,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 265.283,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25427c90f6fcf0097843f8",
+                                "sentence": " Kevin rose's hips back and forth in essentially motion, while bringing his legs up and down.",
+                                "start_time": 0,
+                                "end_time": 5.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d2c",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304130556,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304130556,
+                        "file_name": "14255031563231.wav",
+                        "start_time": 283.794,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12092,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 283.794,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25427c90f6fcf0097843e1",
+                                "sentence": " Kevin thrusts his hips back and forth on the stool.",
+                                "start_time": 0.09,
+                                "end_time": 3.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d2d",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304130652,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304130652,
+                        "file_name": "14255032123541.wav",
+                        "start_time": 291.679,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12093,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 291.679,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254598ae6095071ad17a07",
+                                "sentence": " Kevin crosses his arms in front of his chest and continues the thrusting motion.",
+                                "start_time": 0,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d2e",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304130749,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304130749,
+                        "file_name": "14255032691271.wav",
+                        "start_time": 308.768,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12094,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 308.768,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25411af68fd9f008656817",
+                                "sentence": " Kevin gets off the stool and begins to pace back and forth on the stage.",
+                                "start_time": 0.05,
+                                "end_time": 4.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d2f",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304130813,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304130813,
+                        "file_name": "14255032932441.wav",
+                        "start_time": 315.257,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12095,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 315.257,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25428090f6fcf00978443a",
+                                "sentence": " Pyrotechnics ascend out of the stage.",
+                                "start_time": 0.07,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d30",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304130935,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304130935,
+                        "file_name": "14255033758441.wav",
+                        "start_time": 319.048,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12096,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 323.908,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25427d90f6fcf00978441c",
+                                "sentence": " An elevated view of the stage reveals a multicultural crowd.",
+                                "start_time": 0,
+                                "end_time": 4.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d31",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304131058,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304131058,
+                        "file_name": "14255034585011.wav",
+                        "start_time": 335.433,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12097,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 335.433,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254119f68fd9f0086567ef",
+                                "sentence": " Kevin put some microphone in the microphone stem and adjusts it to his height.",
+                                "start_time": 0,
+                                "end_time": 4.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d33",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304131439,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304131439,
+                        "file_name": "14255036794951.wav",
+                        "start_time": 387.834,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12101,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 392.184,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25427c90f6fcf0097843cd",
+                                "sentence": " Tears will down kevin's face as he walks back stage.",
+                                "start_time": 0.19,
+                                "end_time": 4.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d34",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304131555,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304131555,
+                        "file_name": "14255037550621.wav",
+                        "start_time": 402.591,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12102,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 402.591,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.72,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e2545a0ae6095071ad17a5c",
+                                "sentence": " The following is a television AD. There are three astronauts",
+                                "start_time": 0.36,
+                                "end_time": 4.38
+                            },
+                            {
+                                "_id": "5e2545a0ae6095071ad17a5b",
+                                "sentence": " placing an American flag into the surface of the moon in front of a cave.",
+                                "start_time": 4.38,
+                                "end_time": 9.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d37",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304131714,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304131714,
+                        "file_name": "14255038340171.wav",
+                        "start_time": 405.334,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12106,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 409.684,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e254119f68fd9f0086567d4",
+                                "sentence": " An alien the size of five men appears out of the cave.",
+                                "start_time": 0,
+                                "end_time": 3.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d39",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304131814,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304131814,
+                        "file_name": "14255038944381.wav",
+                        "start_time": 424.503,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12110,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 424.503,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25427d90f6fcf00978441a",
+                                "sentence": " The fourth astronaut is hiding behind a rock.",
+                                "start_time": 0,
+                                "end_time": 3.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d3c",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304132044,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304132044,
+                        "file_name": "14255040447081.wav",
+                        "start_time": 430.415,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12115,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 436.555,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25427d90f6fcf009784405",
+                                "sentence": " The astronaut passes gas, and the alien hears it. He turns abruptly in his direction.",
+                                "start_time": 0.15,
+                                "end_time": 6.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5246e13dfd851a3d3d",
+                        "audio_description": "58e7cf3046e13dfd851a230d",
+                        "created_at": 20150304132210,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150304132210,
+                        "file_name": "14255041306691.wav",
+                        "start_time": 412.552,
+                        "legacy_video_id": 1853,
+                        "legacy_user_id": 2567,
+                        "label": "",
+                        "legacy_audio_clip_id": 12116,
+                        "video": "58e7cf2846e13dfd851a1b50",
+                        "end_time": 415.362,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a230b",
+                        "transcript": [
+                            {
+                                "_id": "5e25427e90f6fcf009784428",
+                                "sentence": " The alien quickly kills the astronauts.",
+                                "start_time": 0,
+                                "end_time": 2.32
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a230d",
+                "status": "published",
+                "legacy_video_id": 1853,
+                "legacy_user_id": 2567,
+                "video": "58e7cf2846e13dfd851a1b50",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a230b",
+                    "name": "Evelyng669",
+                    "google_user_id_token": "",
+                    "created_at": 20150303131957,
+                    "updated_at": 20150303154516,
+                    "legacy_user_id": 2567,
+                    "last_login": 0,
+                    "email": "evelyng669@yahoo.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "PAL 3",
+            "Kevin Hart (Comedian)",
+            "Horse (Organism Classification)",
+            "kevin hart let me explain horse back riding",
+            "kevin hart horse back lets ride",
+            "kevin hart let's ride",
+            "kevin hart ok alright",
+            "Horses",
+            "kevin hart speech from the heart",
+            "Riding",
+            "kevin hart jesus take the weel",
+            "Jumping",
+            "Pony",
+            "super bowl 2014",
+            "kevin hart super bowl 2014",
+            "super bowl broncos vs seahawks"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b50",
+        "description": "",
+        "youtube_id": "CnNrq67sX2o",
+        "views": 0,
+        "created_at": 20150304121209,
+        "title": "Kevin Hart - Let Me Explain - \"Kevin Horse Back Riding  - Alright Let's Ride\" HD",
+        "legacy_video_id": 1853,
+        "updated_at": 20150304133337,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 442
+    }
+}

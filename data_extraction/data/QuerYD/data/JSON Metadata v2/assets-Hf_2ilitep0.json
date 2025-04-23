@@ -1,0 +1,90 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5e46e13dfd851a4545",
+                        "audio_description": "58e7cf3046e13dfd851a2370",
+                        "created_at": 20150822081002,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822081002,
+                        "file_name": "14402562024791.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2078,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14841,
+                        "video": "58e7cf2946e13dfd851a1c31",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3acae269855f5850086b84",
+                                "sentence": " Chase sits holding and excitedly streaming a guitar. An intervenor sits next to him on the floor, supporting the guitar neck.",
+                                "start_time": 0.58,
+                                "end_time": 8.64
+                            },
+                            {
+                                "_id": "5e3acae269855f5850086b83",
+                                "sentence": " While chase, his friend sits across from him, showing him where to put his hands.",
+                                "start_time": 8.64,
+                                "end_time": 14.07
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2370",
+                "status": "published",
+                "legacy_video_id": 2078,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c31",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Concept Development",
+            "Module 10",
+            "Tactile Modeling"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c31",
+        "description": "",
+        "youtube_id": "Hf_2ilitep0",
+        "views": 0,
+        "created_at": 20150822080906,
+        "title": "Concept Development - Chase Guitar Example (With Voiceover)",
+        "legacy_video_id": 2078,
+        "updated_at": 20150822081002,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 118
+    }
+}

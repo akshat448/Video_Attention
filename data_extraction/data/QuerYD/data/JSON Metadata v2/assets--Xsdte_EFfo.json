@@ -1,0 +1,108 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ca18becca59c91fd28168ff",
+                        "video": "5ca18becca59c91fd2816901",
+                        "audio_description": "5ca18becca59c91fd2816900",
+                        "user": "5c9ba823ec5d8474b942f73e",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 1.922244020980835,
+                        "end_time": 22.5729106876475,
+                        "duration": 20.650666666666666,
+                        "file_name": "-Xsdte_EFfo_5ca18becca59c91fd28168ff.wav",
+                        "file_size_bytes": 3964972,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/-Xsdte_EFfo",
+                        "created_at": 20190401035628,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c6b4419147c754db5258a",
+                                "sentence": " Ha!",
+                                "start_time": 0,
+                                "end_time": 0.62
+                            },
+                            {
+                                "_id": "5e1c6b4419147c754db52589",
+                                "sentence": " Woman with short black braided hair wearing",
+                                "start_time": 0.62,
+                                "end_time": 4.49
+                            },
+                            {
+                                "_id": "5e1c6b4419147c754db52588",
+                                "sentence": " a striped shirt with tan turquoise, black and white on it",
+                                "start_time": 5.52,
+                                "end_time": 12.17
+                            },
+                            {
+                                "_id": "5e1c6b4419147c754db52587",
+                                "sentence": " with a white tank Top and circle",
+                                "start_time": 12.23,
+                                "end_time": 15.63
+                            },
+                            {
+                                "_id": "5e1c6b4419147c754db52586",
+                                "sentence": " necklace",
+                                "start_time": 15.63,
+                                "end_time": 16.76
+                            },
+                            {
+                                "_id": "5e1c6b4419147c754db52585",
+                                "sentence": " sitting at an office desk.",
+                                "start_time": 17.23,
+                                "end_time": 19.36
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ca18becca59c91fd2816900",
+                "video": "5ca18becca59c91fd2816901",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c9ba823ec5d8474b942f73e",
+                    "email": "marketing@rampcil.org",
+                    "name": "RAMP CIL",
+                    "given_name": "RAMP",
+                    "picture": "https://lh5.googleusercontent.com/-MFCwEYPipPE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfYTx3W2xJwqWLL-GtlwreesRpJ9g/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "110230000295615187288",
+                    "last_login": 20190401033832,
+                    "token": "a8f5e31537282ab497bd235fb7f3293488efc82640b9432313452d936ea0a650",
+                    "__v": 0,
+                    "updated_at": 20190401033832,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190401035628,
+                "updated_at": 20190401035628,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5ca18becca59c91fd2816901",
+        "title": "RAMP Independent Living Advocate",
+        "description": "",
+        "youtube_id": "-Xsdte_EFfo",
+        "created_at": 20190401035628,
+        "updated_at": 20190401035628,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 100
+    }
+}

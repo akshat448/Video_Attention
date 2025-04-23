@@ -1,0 +1,529 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c6746c484900704e4f04395",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "We fly over Central Park and all the leaves are red and orange",
+                        "playback_type": "inline",
+                        "start_time": 0.2364358378753662,
+                        "end_time": 5.344825860551103,
+                        "duration": 5.108390022675737,
+                        "file_name": "OKaD4EcmZO8_5c6746c484900704e4f04395.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215230956,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3ff7",
+                                "sentence": " We fly over central park, and all the leaves are red and orange.",
+                                "start_time": 0.63,
+                                "end_time": 4.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c6746dd34593604de0128ab",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "And there are a lot of people",
+                        "playback_type": "inline",
+                        "start_time": 5.206588,
+                        "end_time": 7.900102739229025,
+                        "duration": 2.693514739229025,
+                        "file_name": "OKaD4EcmZO8_5c6746dd34593604de0128ab.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215231021,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b5424",
+                                "sentence": " And There are a lot of people.",
+                                "start_time": 0.1,
+                                "end_time": 2.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c67475484900704e4f04396",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then we flash to a woman riding her bike with her dog in the bike basket along a pond",
+                        "playback_type": "inline",
+                        "start_time": 8.061938,
+                        "end_time": 13.913366571428572,
+                        "duration": 5.851428571428571,
+                        "file_name": "OKaD4EcmZO8_5c67475484900704e4f04396.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215231220,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d4003",
+                                "sentence": " Then we flashed to a woman riding her bike with your dog in the bike basket along upon.",
+                                "start_time": 0.22,
+                                "end_time": 5.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c67479934593604de0128ad",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The dog is leaning forward, feeling the wind",
+                        "playback_type": "inline",
+                        "start_time": 16.43382,
+                        "end_time": 19.313094376417233,
+                        "duration": 2.8792743764172335,
+                        "file_name": "OKaD4EcmZO8_5c67479934593604de0128ad.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215231329,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143658934733259b5483",
+                                "sentence": " The dog is leaning forward, feeling the wind.",
+                                "start_time": 0.16,
+                                "end_time": 2.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c6747d684900704e4f04397",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The woman is walking by and sees the younger version of the dog in a cardboard basket",
+                        "playback_type": "inline",
+                        "start_time": 26.773867,
+                        "end_time": 33.64697357596372,
+                        "duration": 6.873106575963718,
+                        "file_name": "OKaD4EcmZO8_5c6747d684900704e4f04397.wav",
+                        "file_size_bytes": 1212460,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215231430,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b5431",
+                                "sentence": " The woman is walking by and sees the younger version of the dog in a cardboard box",
+                                "start_time": 0,
+                                "end_time": 5.2
+                            },
+                            {
+                                "_id": "5e1b143558934733259b5430",
+                                "sentence": " saying Free puppies.",
+                                "start_time": 5.2,
+                                "end_time": 6.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c67480e34593604de0128ae",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "She picks up the dog and it licks her face",
+                        "playback_type": "inline",
+                        "start_time": 33.387336,
+                        "end_time": 37.28828838095238,
+                        "duration": 3.900952380952381,
+                        "file_name": "OKaD4EcmZO8_5c67480e34593604de0128ae.wav",
+                        "file_size_bytes": 688172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215231526,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143658934733259b548a",
+                                "sentence": " She picks up the dog and it looks her face.",
+                                "start_time": 0.14,
+                                "end_time": 2.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c67485084900704e4f04398",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "She brings the dog home and it runs all over the place",
+                        "playback_type": "inline",
+                        "start_time": 36.992109375000005,
+                        "end_time": 41.82185994189343,
+                        "duration": 4.829750566893424,
+                        "file_name": "OKaD4EcmZO8_5c67485084900704e4f04398.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215231632,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b541f",
+                                "sentence": " She brings the dog home, and the dog starts running all over the place.",
+                                "start_time": 0.14,
+                                "end_time": 4.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c67488034593604de0128b0",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The dog lets go of the green ball and looks at the woman adoringly",
+                        "playback_type": "inline",
+                        "start_time": 45.573721,
+                        "end_time": 49.8461926553288,
+                        "duration": 4.272471655328798,
+                        "file_name": "OKaD4EcmZO8_5c67488034593604de0128b0.wav",
+                        "file_size_bytes": 753708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215231720,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143658934733259b5475",
+                                "sentence": " The dog. Let's go of the green ball and looked at the woman adoring Lily.",
+                                "start_time": 0.13,
+                                "end_time": 3.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c67489d84900704e4f04399",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "We flash back to the present and the woman and her dog have arrived at home",
+                        "playback_type": "inline",
+                        "start_time": 49.722493,
+                        "end_time": 54.552243566893424,
+                        "duration": 4.829750566893424,
+                        "file_name": "OKaD4EcmZO8_5c67489d84900704e4f04399.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215231749,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b542b",
+                                "sentence": " We flashback to the present, and the woman and her dog have arrived at home.",
+                                "start_time": 0.35,
+                                "end_time": 4.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c6748dd84900704e4f0439a",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The dog jumps off the bike, barks at a pigeon, the pigeon squaks back, and the dog backs off, to be picked up by the woman",
+                        "playback_type": "inline",
+                        "start_time": 54.440496,
+                        "end_time": 62.52104021768708,
+                        "duration": 8.080544217687075,
+                        "file_name": "OKaD4EcmZO8_5c6748dd84900704e4f0439a.wav",
+                        "file_size_bytes": 1425452,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215231853,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f69",
+                                "sentence": " The dog comes off the bike box at a pigeon the pigeon squawks back, and the dog backs off.",
+                                "start_time": 0.23,
+                                "end_time": 5.79
+                            },
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f68",
+                                "sentence": " Then the woman picks up the dog.",
+                                "start_time": 5.79,
+                                "end_time": 7.59
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c6748fe84900704e4f0439b",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The woman finds her shoe all ripped",
+                        "playback_type": "inline",
+                        "start_time": 63.737578125000006,
+                        "end_time": 67.73141032454649,
+                        "duration": 3.9938321995464854,
+                        "file_name": "OKaD4EcmZO8_5c6748fe84900704e4f0439b.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215231926,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b539e",
+                                "sentence": " The woman finds her shoe all ripped.",
+                                "start_time": 0.46,
+                                "end_time": 2.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c67491c34593604de0128b1",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "She opens the closet and the dog is chewing on her shoes",
+                        "playback_type": "inline",
+                        "start_time": 67.38468750000001,
+                        "end_time": 71.3785196995465,
+                        "duration": 3.9938321995464854,
+                        "file_name": "OKaD4EcmZO8_5c67491c34593604de0128b1.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215231956,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b53cb",
+                                "sentence": " She opens the closet and the dog is chewing on oliver shoes.",
+                                "start_time": 0.16,
+                                "end_time": 3.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c67493e84900704e4f0439c",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The woman walks back and forth and the dog gets excited when she comes near",
+                        "playback_type": "inline",
+                        "start_time": 71.199466,
+                        "end_time": 76.12209638548752,
+                        "duration": 4.922630385487528,
+                        "file_name": "OKaD4EcmZO8_5c67493e84900704e4f0439c.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215232030,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3ff4",
+                                "sentence": " The woman walks back and forth, and the dog gets excited. When the woman gets near.",
+                                "start_time": 0.46,
+                                "end_time": 4.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c67495b84900704e4f0439d",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then the two are watching the rain on the doorstep",
+                        "playback_type": "inline",
+                        "start_time": 79.370248,
+                        "end_time": 83.27120038095238,
+                        "duration": 3.900952380952381,
+                        "file_name": "OKaD4EcmZO8_5c67495b84900704e4f0439d.wav",
+                        "file_size_bytes": 688172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215232059,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143658934733259b545d",
+                                "sentence": " Then the two are watching the rain on her doorstep.",
+                                "start_time": 0.28,
+                                "end_time": 3.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c67498784900704e4f0439e",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "And now the woman is washing the dishes, and the dog licks the plate",
+                        "playback_type": "inline",
+                        "start_time": 85.060076,
+                        "end_time": 90.16846602267573,
+                        "duration": 5.108390022675737,
+                        "file_name": "OKaD4EcmZO8_5c67498784900704e4f0439e.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215232143,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f5d",
+                                "sentence": " And Now the woman is washing the dishes, and the dog likes to play clean.",
+                                "start_time": 0.2,
+                                "end_time": 4.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c6749b484900704e4f0439f",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Now they're sleeping and the woman notices the dog whimpering, so she comforts him",
+                        "playback_type": "inline",
+                        "start_time": 90.11203125000003,
+                        "end_time": 95.68482036564629,
+                        "duration": 5.572789115646258,
+                        "file_name": "OKaD4EcmZO8_5c6749b484900704e4f0439f.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215232228,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b542f",
+                                "sentence": " Now they're sleeping. And the woman notices a dog is wondering,",
+                                "start_time": 0.19,
+                                "end_time": 3.57
+                            },
+                            {
+                                "_id": "5e1b143558934733259b542e",
+                                "sentence": " so she comfort him.",
+                                "start_time": 3.57,
+                                "end_time": 5.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c6749d984900704e4f043a0",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Finally, they're watching the skyline of New York City as they eat dinner",
+                        "playback_type": "inline",
+                        "start_time": 95.84320312500002,
+                        "end_time": 100.85871332908165,
+                        "duration": 5.015510204081632,
+                        "file_name": "OKaD4EcmZO8_5c6749d984900704e4f043a0.wav",
+                        "file_size_bytes": 884780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215232305,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fba",
+                                "sentence": " Now they're watching the skyline of new york city",
+                                "start_time": 0.65,
+                                "end_time": 3.73
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fb9",
+                                "sentence": " as their eating dinner.",
+                                "start_time": 3.73,
+                                "end_time": 4.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c6749e984900704e4f043a1",
+                        "video": "5c67463734593604de0128aa",
+                        "audio_description": "5c67463734593604de0128a9",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then the dog licks her face",
+                        "playback_type": "inline",
+                        "start_time": 100.8359,
+                        "end_time": 104.27245328798186,
+                        "duration": 3.436553287981859,
+                        "file_name": "OKaD4EcmZO8_5c6749e984900704e4f043a1.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/OKaD4EcmZO8",
+                        "created_at": 20190215232321,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b539f",
+                                "sentence": " Then the dog licks her face repeatedly.",
+                                "start_time": 0.48,
+                                "end_time": 2.89
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c67463734593604de0128a9",
+                "video": "5c67463734593604de0128aa",
+                "user": {
+                    "opt_in": [
+                        0
+                    ],
+                    "_id": "5c43eb250071d10d8574936c",
+                    "email": "seanh1676@gmail.com",
+                    "name": "Sean Hwang",
+                    "given_name": "Sean",
+                    "picture": "https://lh5.googleusercontent.com/-3t0rHGVtzlU/AAAAAAAAAAI/AAAAAAAAAWc/QffWEYVSbsg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "103945623025669520348",
+                    "last_login": 20210117002400,
+                    "token": "2b511cff582c3b0319f4bf43c425d55637503fe891ee1dcb3884fb0ce5651906",
+                    "__v": 0,
+                    "updated_at": 20210117002400,
+                    "policy_review": "reviewed"
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190215230735,
+                "updated_at": 20190215230735,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5c67463734593604de0128aa",
+        "title": "The Secret Life of Pets (2016) - Movie Opening Scene",
+        "description": "",
+        "youtube_id": "OKaD4EcmZO8",
+        "created_at": 20190215230735,
+        "updated_at": 20190215232321,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 107
+    }
+}

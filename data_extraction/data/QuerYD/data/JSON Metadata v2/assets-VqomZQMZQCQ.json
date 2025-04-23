@@ -1,0 +1,172 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4d46e13dfd851a3818",
+                        "audio_description": "58e7cf2d46e13dfd851a21ca",
+                        "created_at": 20141215192019,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141215192019,
+                        "file_name": "14187000199511.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1757,
+                        "legacy_user_id": 2255,
+                        "label": "",
+                        "legacy_audio_clip_id": 10653,
+                        "video": "58e7cf2846e13dfd851a1af0",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21c1",
+                        "transcript": [
+                            {
+                                "_id": "5e23314a98685f24f1693fd9",
+                                "sentence": " A latino man with dark features stands facing the camera. He has bushy hair and a moustache. He wears a sombrero,",
+                                "start_time": 0,
+                                "end_time": 6.79
+                            },
+                            {
+                                "_id": "5e23314a98685f24f1693fd8",
+                                "sentence": " white shirt, vest and bandanna. He looked furtively around.",
+                                "start_time": 6.79,
+                                "end_time": 11.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a3819",
+                        "audio_description": "58e7cf2d46e13dfd851a21ca",
+                        "created_at": 20141215192222,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141215192222,
+                        "file_name": "14187001425141.wav",
+                        "start_time": 2.133,
+                        "legacy_video_id": 1757,
+                        "legacy_user_id": 2255,
+                        "label": "",
+                        "legacy_audio_clip_id": 10654,
+                        "video": "58e7cf2846e13dfd851a1af0",
+                        "end_time": 2.133,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21c1",
+                        "transcript": [
+                            {
+                                "_id": "5e23313598685f24f1693f7b",
+                                "sentence": " Other men with sombrero stand behind him. Nearby is a man with a bandolier.",
+                                "start_time": 0.25,
+                                "end_time": 4.45
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a381a",
+                        "audio_description": "58e7cf2d46e13dfd851a21ca",
+                        "created_at": 20141215192353,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141215192353,
+                        "file_name": "14187002334541.wav",
+                        "start_time": 4.688,
+                        "legacy_video_id": 1757,
+                        "legacy_user_id": 2255,
+                        "label": "",
+                        "legacy_audio_clip_id": 10655,
+                        "video": "58e7cf2846e13dfd851a1af0",
+                        "end_time": 4.688,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21c1",
+                        "transcript": [
+                            {
+                                "_id": "5e232f426de14b24f0e1251a",
+                                "sentence": " The scene cuts to show white man hiding behind a log with a rifle sweat on his brow.",
+                                "start_time": 0,
+                                "end_time": 4.38
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a381b",
+                        "audio_description": "58e7cf2d46e13dfd851a21ca",
+                        "created_at": 20141215192522,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141215192522,
+                        "file_name": "14187003229881.wav",
+                        "start_time": 15.122,
+                        "legacy_video_id": 1757,
+                        "legacy_user_id": 2255,
+                        "label": "",
+                        "legacy_audio_clip_id": 10656,
+                        "video": "58e7cf2846e13dfd851a1af0",
+                        "end_time": 15.122,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21c1",
+                        "transcript": [
+                            {
+                                "_id": "5e233286dcbb7e3b4d5dfd86",
+                                "sentence": " Angrily, the man reaches for his gun.",
+                                "start_time": 0.08,
+                                "end_time": 2.64
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21ca",
+                "status": "published",
+                "legacy_video_id": 1757,
+                "legacy_user_id": 2255,
+                "video": "58e7cf2846e13dfd851a1af0",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21c1",
+                    "name": "mduigou",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2255,
+                    "last_login": 0,
+                    "email": "youdescribe@duigou.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "badges?"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1af0",
+        "description": "",
+        "youtube_id": "VqomZQMZQCQ",
+        "views": 0,
+        "created_at": 20141215191357,
+        "title": "We don't need no stinking badges!",
+        "legacy_video_id": 1757,
+        "updated_at": 20141215192547,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 16
+    }
+}

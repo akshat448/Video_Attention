@@ -1,0 +1,440 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d447c1080ada76591d8e95b",
+                        "video": "5d447bd02670216ebfa0670b",
+                        "audio_description": "5d447bd02670216ebfa0670a",
+                        "user": "5d446ad32670216ebfa066f8",
+                        "label": "Intro to video",
+                        "playback_type": "extended",
+                        "start_time": 0.9885411010894776,
+                        "end_time": 0.9885411010894776,
+                        "duration": 17.92,
+                        "file_name": "aZhK1bt-BaY_5d447c1080ada76591d8e95b.wav",
+                        "file_size_bytes": 3440684,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/aZhK1bt-BaY",
+                        "created_at": 20190802180816,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c3fab3b3649a9fc09de4",
+                                "sentence": " Institute of culinary education established 1975",
+                                "start_time": 0.49,
+                                "end_time": 5.57
+                            },
+                            {
+                                "_id": "5e16c3fab3b3649a9fc09de3",
+                                "sentence": " people food",
+                                "start_time": 5.57,
+                                "end_time": 6.65
+                            },
+                            {
+                                "_id": "5e16c3fab3b3649a9fc09de2",
+                                "sentence": " one watermelon for three delicious watermelon recipes.",
+                                "start_time": 6.65,
+                                "end_time": 10.22
+                            },
+                            {
+                                "_id": "5e16c3fab3b3649a9fc09de1",
+                                "sentence": " Lower half of man is shown cutting a watermelon in half with a large knife.",
+                                "start_time": 10.22,
+                                "end_time": 14.79
+                            },
+                            {
+                                "_id": "5e16c3fab3b3649a9fc09de0",
+                                "sentence": " Three different ways to prepare watermelon are shown.",
+                                "start_time": 14.91,
+                                "end_time": 17.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d447d4f2670216ebfa0670d",
+                        "video": "5d447bd02670216ebfa0670b",
+                        "audio_description": "5d447bd02670216ebfa0670a",
+                        "user": "5d446ad32670216ebfa066f8",
+                        "label": "1st recipe",
+                        "playback_type": "inline",
+                        "start_time": 8.751302,
+                        "end_time": 50.223302000000004,
+                        "duration": 41.472,
+                        "file_name": "aZhK1bt-BaY_5d447d4f2670216ebfa0670d.wav",
+                        "file_size_bytes": 7962668,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/aZhK1bt-BaY",
+                        "created_at": 20190802181335,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4c5",
+                                "sentence": " Make a spicy miss kalka tail. Using a spoon, scoop out the watermelon and put into a blender,",
+                                "start_time": 0.36,
+                                "end_time": 6.38
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4c4",
+                                "sentence": " blend until smooth.",
+                                "start_time": 6.38,
+                                "end_time": 7.9
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4c3",
+                                "sentence": " Pour through straighter into a bowl, place a drinking glass,",
+                                "start_time": 7.9,
+                                "end_time": 11.52
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4c2",
+                                "sentence": " and add",
+                                "start_time": 11.91,
+                                "end_time": 13.18
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4c1",
+                                "sentence": " per serving",
+                                "start_time": 14.67,
+                                "end_time": 15.97
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4c0",
+                                "sentence": " to help e no slices,",
+                                "start_time": 16.21,
+                                "end_time": 18.54
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4bf",
+                                "sentence": " two lime wedges,",
+                                "start_time": 18.57,
+                                "end_time": 20.48
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4be",
+                                "sentence": " a pinch of sugar",
+                                "start_time": 21.12,
+                                "end_time": 22.99
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4bd",
+                                "sentence": " blend and mash all together,",
+                                "start_time": 23.63,
+                                "end_time": 26.25
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4bc",
+                                "sentence": " one ounce triple sec, 1.5 ounce mescal. Add ice to the glass",
+                                "start_time": 27.18,
+                                "end_time": 32.64
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4bb",
+                                "sentence": " and stir.",
+                                "start_time": 32.64,
+                                "end_time": 33.86
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4ba",
+                                "sentence": " Then you add your watermelon juice two ounces,",
+                                "start_time": 33.86,
+                                "end_time": 37.89
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4b9",
+                                "sentence": " Top that with soda water and stir.",
+                                "start_time": 37.89,
+                                "end_time": 40.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d447ffd80ada76591d8e95c",
+                        "video": "5d447bd02670216ebfa0670b",
+                        "audio_description": "5d447bd02670216ebfa0670a",
+                        "user": "5d446ad32670216ebfa066f8",
+                        "label": "2nd recipe",
+                        "playback_type": "inline",
+                        "start_time": 52.579239,
+                        "end_time": 105.74190566666667,
+                        "duration": 53.16266666666667,
+                        "file_name": "aZhK1bt-BaY_5d447ffd80ada76591d8e95c.wav",
+                        "file_size_bytes": 10207276,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/aZhK1bt-BaY",
+                        "created_at": 20190802182501,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea503",
+                                "sentence": " Pickle the rhines, take the empty rind of the watermelon and cut all the green outer layer off, leaving the white rind behind. Cut into small cubes. Place the following into a pot,",
+                                "start_time": 0.4,
+                                "end_time": 10.06
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea502",
+                                "sentence": " one cup apple cider vinegar, one cup water,",
+                                "start_time": 10.06,
+                                "end_time": 13.48
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea501",
+                                "sentence": " three force cup sugar,",
+                                "start_time": 13.48,
+                                "end_time": 15.2
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea500",
+                                "sentence": " two ounces fresh ginger, sliced",
+                                "start_time": 15.64,
+                                "end_time": 18.1
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4ff",
+                                "sentence": " four tablespoons kosher salt,",
+                                "start_time": 18.2,
+                                "end_time": 20.69
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4fe",
+                                "sentence": " one teaspoon coriander seeds, one teaspoon black pepper corns. When cinnamon stick",
+                                "start_time": 20.69,
+                                "end_time": 26.52
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4fd",
+                                "sentence": " to start, and ice pods",
+                                "start_time": 26.53,
+                                "end_time": 28.64
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4fc",
+                                "sentence": " bring to a boil for 60 seconds,",
+                                "start_time": 29.33,
+                                "end_time": 32
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4fb",
+                                "sentence": " stir with a spoon and add watermelon rines to the hot mixture.",
+                                "start_time": 32.9,
+                                "end_time": 36.77
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4fa",
+                                "sentence": " Bring to a boil again,",
+                                "start_time": 37.54,
+                                "end_time": 39.42
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4f9",
+                                "sentence": " turn off heat, let cool. For 30 minutes,",
+                                "start_time": 40.25,
+                                "end_time": 42.96
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea4f8",
+                                "sentence": " spoon mixture into canning jars. Add a star, an ice, place a lid on the jar. Let sit until room temperature and refrigerate overnight.",
+                                "start_time": 43.48,
+                                "end_time": 52.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d4481b62670216ebfa0670e",
+                        "video": "5d447bd02670216ebfa0670b",
+                        "audio_description": "5d447bd02670216ebfa0670a",
+                        "user": "5d446ad32670216ebfa066f8",
+                        "label": "3rd recipe",
+                        "playback_type": "inline",
+                        "start_time": 107.769784,
+                        "end_time": 149.83911733333332,
+                        "duration": 42.06933333333333,
+                        "file_name": "aZhK1bt-BaY_5d4481b62670216ebfa0670e.wav",
+                        "file_size_bytes": 8077356,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/aZhK1bt-BaY",
+                        "created_at": 20190802183222,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bd8",
+                                "sentence": " Relish the rest. Take the other half of the watermelon and cut in half slice into wedges.",
+                                "start_time": 0.73,
+                                "end_time": 6.26
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bd7",
+                                "sentence": " Cut off the rain and cube the watermelon into the bowl.",
+                                "start_time": 6.79,
+                                "end_time": 10.17
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bd6",
+                                "sentence": " Add to the bowl, cut up grilled red onion,",
+                                "start_time": 11.56,
+                                "end_time": 14.54
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bd5",
+                                "sentence": " fresh meant",
+                                "start_time": 15.66,
+                                "end_time": 17.03
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bd4",
+                                "sentence": " one cup cherry tomatoes cut in half,",
+                                "start_time": 18.07,
+                                "end_time": 20.9
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bd3",
+                                "sentence": " 1/4 cup",
+                                "start_time": 21.06,
+                                "end_time": 22.86
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bd2",
+                                "sentence": " die. Stolle ifs,",
+                                "start_time": 22.86,
+                                "end_time": 24.25
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bd1",
+                                "sentence": " 1/4 cup feta cheese,",
+                                "start_time": 24.25,
+                                "end_time": 26.24
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bd0",
+                                "sentence": " one tablespoon red wine vinegar,",
+                                "start_time": 26.24,
+                                "end_time": 28.6
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bcf",
+                                "sentence": " two tablespoons extra virgin olive oil, pinch of kosher salt and black pepper",
+                                "start_time": 28.6,
+                                "end_time": 33.63
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bce",
+                                "sentence": " played a grilled flank steak shown",
+                                "start_time": 34.07,
+                                "end_time": 36.46
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1bcd",
+                                "sentence": " add relish to the Top of the steak season with sea salt.",
+                                "start_time": 36.46,
+                                "end_time": 39.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d4483a02670216ebfa06710",
+                        "video": "5d447bd02670216ebfa0670b",
+                        "audio_description": "5d447bd02670216ebfa0670a",
+                        "user": "5d446ad32670216ebfa066f8",
+                        "label": "end of video",
+                        "playback_type": "extended",
+                        "start_time": 150.913827,
+                        "end_time": 150.913827,
+                        "duration": 8.789333333333333,
+                        "file_name": "aZhK1bt-BaY_5d4483a02670216ebfa06710.wav",
+                        "file_size_bytes": 1687596,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/aZhK1bt-BaY",
+                        "created_at": 20190802184032,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c67ab3b3649a9fc09eb0",
+                                "sentence": " Watermelon standing up in a bowl on a table is sliced in half samurai style",
+                                "start_time": 0.36,
+                                "end_time": 5.89
+                            },
+                            {
+                                "_id": "5e16c67ab3b3649a9fc09eaf",
+                                "sentence": " by a man with a large knife.",
+                                "start_time": 5.89,
+                                "end_time": 8.5
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d447bd02670216ebfa0670a",
+                "video": "5d447bd02670216ebfa0670b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d446ad32670216ebfa066f8",
+                    "email": "mcrosswork@gmail.com",
+                    "name": "Michelle Cross",
+                    "given_name": "Michelle",
+                    "picture": "https://lh4.googleusercontent.com/-2rPFbV8Y9uQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdPOh7XsaJgzVEldZKAXH-MFapvJw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "117514555803536750077",
+                    "last_login": 20190802165443,
+                    "token": "3ae70f2cdb1589f035439e01c05502b6dd6baa51eee26f798cc59ec5a9bf14d6",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190802180712,
+                "updated_at": 20190906231455,
+                "notes": "Extended:\r\nInstitute of Culinary Education Est. 1975. People food.  1 watermelon for three delicious watermelon recipes. Lower half of man is shown cutting a watermelon in half with a large knife.\r\n3 different ways to prepare watermelon are shown. \r\n\r\n1st recipe\r\nMake a spicy mezcal cocktail\r\nUsing a spoon, scoop out the watermelon and put into a blender.\r\nBlend until smooth\r\nPour through strainer into bowl\r\nPlace a drinking glass and add....\r\n\r\n2nd recipe\r\nPickle the Rinds\r\nTake the empty rind of the watermelon and cut all of the green outer layer off, leaving the white rind.\r\nCut into small cubes.\r\nPlace the following into a pot:\r\n1 cup apple cider vinegar\r\n1 cup water\r\n3/4 cup sugar\r\n2 oz. fresh ginger, sliced\r\n4 tbsp kosher salt\r\n1 tsp coriander seeds\r\n1 tsp black peppercorns\r\n1 cinnamon stick\r\n2 star anise pods\r\nBring to a boil for 60 seconds\r\nStir with a spoon and add watermelon rinds to the hot mixture\r\nBring to a boil again\r\nTurn off heat and let cool for 30 minutes\r\nSpoon mixture into canning jars, add a star anise, place a lid on the jar.\r\nLet sit until room temperature\r\nrefrigerate overnight\r\n \r\n3rd recipe\r\nRelish the rest\r\nTake the other half of the watermelon and cut in half, slice into wedges.\r\nCut off the rind and cube the watermelon.\r\nplace into bowl\r\nAdd to the bowl, cut up grilled red onion\r\nfresh mint\r\n1 cup cherry tomatoes, cut in half\r\n1/4 cup olives\r\n1/4 cup feta cheese\r\n1 tbsp red wine vinegar\r\n2 tbsp extra virgin olive oil\r\npinch of kosher salt and black pepper\r\nplate of grilled flank steak\r\nadd relish to the top of the steak and season with sea salt\r\n\r\nWatermelon standing up in a bowl on a table is sliced in half samori style.\r\n\r\n\r\n",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 9,
+                "admin_review": "",
+                "feedbacks": {
+                    "0": 1,
+                    "3": 1
+                }
+            }
+        ],
+        "tags": [
+            "Institute of Culinary Education",
+            "ICE",
+            "Culinary Education NYC",
+            "ICE NYC",
+            "Watermelon",
+            "watermelon recipes",
+            "what to do with watermelon",
+            "pickled rinds",
+            "how to pickle",
+            "cocktail ideas",
+            "mezcal",
+            "relish",
+            "summer salad",
+            "Culinary school",
+            "culinary school NYC",
+            "chef",
+            "recipes",
+            "summer recipe ideas",
+            "watermelon cocktail recipe",
+            "summer watermelon recipe",
+            "watermelon salad",
+            "pickled watermelon recipe"
+        ],
+        "custom_tags": [],
+        "_id": "5d447bd02670216ebfa0670b",
+        "title": "Three Delicious Watermelon Recipes To Try This Summer",
+        "description": "ICE Chef James Briscione shows you three different dishes you can make from the same watermelon. First, start off with a spicy, smoky watermelon cocktail with mezcal and lime. Then, pickle the rinds for a classic southern condiment. Last, use all that leftover watermelon to make a savory salad perfect for a backyard barbecue! For more video recipes & tips from ICE, visit http://www.ice.edu/CHEFTIPS\n\n\u2014\u2014\u2014\u2014\u2014\u2014 \nLearn more about us at http://ice.edu/about-us or join us on social media to find your culinary voice\u2122: \nFacebook: https://www.facebook.com/iceculinary \nInstagram: https://www.instagram.com/iceculinary/ \nTwitter: https://twitter.com/iceculinary \n\n\u2014\u2014\u2014\u2014\u2014\u2014 \nNew York Career Program Info: \nCulinary Arts: https://www.ice.edu/newyork/career-programs/school-culinary-arts\nPastry & Baking Arts: https://www.ice.edu/newyork/career-programs/school-pastry-baking-arts\nHealth-Supportive Culinary Arts: https://www.ice.edu/newyork/career-programs/natural-gourmet-center\nRestaurant & Culinary Management: https://www.ice.edu/newyork/career-programs/restaurant-and-culinary-management.\nHospitality & Hotel Management: https://www.ice.edu/newyork/career-programs/hospitality-and-hotel-management\nTechniques of Artisan Bread Baking: https://www.ice.edu/newyork/continuing-ed/artisan-bread-baking\nArt of Cake Decorating: https://www.ice.edu/newyork/continuing-ed/art-cake-decorating\n\nLos Angeles Career Program Info: \nCulinary Arts: https://www.ice.edu/losangeles/career-programs/culinary-arts\nPastry & Baking Arts: https://www.ice.edu/losangeles/school-pastry-baking-arts\nHealth-Supportive Culinary Arts: https://www.ice.edu/losangeles/career-programs/natural-gourmet-center\nRestaurant & Culinary Management: https://www.ice.edu/losangeles/career-programs/restaurant-culinary-management",
+        "youtube_id": "aZhK1bt-BaY",
+        "created_at": 20190802180712,
+        "updated_at": 20190802184032,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 154
+    }
+}

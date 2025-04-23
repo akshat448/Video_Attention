@@ -1,0 +1,91 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf3f46e13dfd851a29f3",
+                        "audio_description": "58e7cf2b46e13dfd851a20d3",
+                        "created_at": 20130801184558,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130801184558,
+                        "file_name": "RtY40NIWg0o-88-1-0-6-0.wav",
+                        "start_time": 6,
+                        "legacy_video_id": 1261,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 3366,
+                        "video": "58e7cf2846e13dfd851a190f",
+                        "end_time": 6,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1fc2c5d13e238dae91484e",
+                                "sentence": " Braille institute alumni on the importance of travel skills. Claire stanley takes the microphone.",
+                                "start_time": 0,
+                                "end_time": 7.15
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20d3",
+                "status": "published",
+                "legacy_video_id": 1261,
+                "legacy_user_id": 88,
+                "video": "58e7cf2846e13dfd851a190f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20d1",
+                    "name": "jimhull",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20151217172851,
+                    "legacy_user_id": 88,
+                    "last_login": 0,
+                    "email": "jimhull@jimhull.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "travel",
+            "uc davis",
+            "blind",
+            "visually impaired",
+            "it gets better",
+            "orientation",
+            "mobility",
+            "white cane",
+            "skills",
+            "traveling"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a190f",
+        "description": "",
+        "youtube_id": "RtY40NIWg0o",
+        "views": 0,
+        "created_at": 20130801174820,
+        "title": "Braille Institute Alumni: Importance of travel skills",
+        "legacy_video_id": 1261,
+        "updated_at": 20130801184558,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 131
+    }
+}

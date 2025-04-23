@@ -1,0 +1,64 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "6011bfe9aad36831fd7e5669",
+                        "video": "6011bf42aad36831fd7e5668",
+                        "audio_description": "6011bf42aad36831fd7e5667",
+                        "user": "6011bc6480c96d31ff118014",
+                        "label": "Graph Audio Description",
+                        "playback_type": "inline",
+                        "start_time": 14.042124999999997,
+                        "end_time": 20.729471938775507,
+                        "duration": 6.6873469387755105,
+                        "file_name": "LNeFZkBChgY_6011bfe9aad36831fd7e5669.wav",
+                        "file_size_bytes": 1179692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LNeFZkBChgY",
+                        "created_at": 20210127193257,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "6011bf42aad36831fd7e5667",
+                "video": "6011bf42aad36831fd7e5668",
+                "user": {
+                    "opt_in": [],
+                    "_id": "6011bc6480c96d31ff118014",
+                    "email": "hvp2105@barnard.edu",
+                    "name": "Hariti Patel",
+                    "given_name": "Hariti",
+                    "picture": "https://lh5.googleusercontent.com/-ClaTGfF0eyQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmAKC9peHwvNoRA-3BXEgH6x0NA9g/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "104118667369420757887",
+                    "last_login": 20210127191756,
+                    "token": "64cdd1ef4b1c3e34b2ccb2f7699e0c955d75aeed0c5e46f4bfb634dac0c0b31c",
+                    "__v": 0
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20210127193010,
+                "updated_at": 20210127193010,
+                "notes": "This is a bar graph which shows the statistics for disabled Americans in turquoise and non-disabled Americans in gray.",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "6011bf42aad36831fd7e5668",
+        "title": "Employment Movie (hvp2105)",
+        "description": "",
+        "youtube_id": "LNeFZkBChgY",
+        "created_at": 20210127193010,
+        "updated_at": 20210127193257,
+        "views": 0,
+        "__v": 0
+    }
+}

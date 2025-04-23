@@ -1,0 +1,93 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59c91a945aa75c37bee206d8",
+                        "video": "59c91a945aa75c37bee206da",
+                        "audio_description": "59c91a945aa75c37bee206d9",
+                        "user": "59221cb32805421bd3af59b0",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 2.000794,
+                        "end_time": 9.431179487528345,
+                        "duration": 7.430385487528345,
+                        "file_name": "0_c0ZzZfC8c_59c91a945aa75c37bee206d8.wav",
+                        "file_size_bytes": 1310764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0_c0ZzZfC8c",
+                        "created_at": 20170925150244,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf1f9733cf21629dfafbae",
+                                "sentence": " This animation shows one molecule of water completing the hydro logic cycle.",
+                                "start_time": 1.25,
+                                "end_time": 6.46
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59c91a945aa75c37bee206d9",
+                "video": "59c91a945aa75c37bee206da",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59221cb32805421bd3af59b0",
+                    "email": "rfentres@vt.edu",
+                    "name": "Robert Fentress",
+                    "given_name": "Robert",
+                    "picture": "https://lh6.googleusercontent.com/-OlR2WjKVeZA/AAAAAAAAAAI/AAAAAAAAMLs/xYi_VvlEuX8/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "100656153103916149793",
+                    "last_login": 20200124164353,
+                    "token": "d58c431842071cef5952d21f59afcb30fcb5066f665802d202ee7dbcf2503add",
+                    "__v": 0,
+                    "updated_at": 20200124164353,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170925150244,
+                "updated_at": 20170926065357,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 2,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {
+                    "7": 1
+                }
+            }
+        ],
+        "tags": [
+            "NASA",
+            "water cycle",
+            "hydrologic cycle",
+            "clouds",
+            "atmosphere",
+            "water",
+            "rain",
+            "snow",
+            "oceans"
+        ],
+        "custom_tags": [],
+        "_id": "59c91a945aa75c37bee206da",
+        "title": "NASA: The Water Cycle [720p]",
+        "description": "This animation shows one molecule of water completing the hydrologic cycle. Heat from the sun causes the molecule to evaporate from the ocean's surface. Once it evaporates, it is transported high in the atmosphere and condenses to form clouds. Clouds can move great distances and eventually the water molecule will fall as rain or snow. Ultimately, the water molecule arrives back where it started...at the ocean.\r\n\r\ncredit: NASA/Goddard Space Flight Center\r\n\r\nsource: http://svs.gsfc.nasa.gov/goto?10501",
+        "youtube_id": "0_c0ZzZfC8c",
+        "created_at": 20170925150244,
+        "updated_at": 20170925150244,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 84
+    }
+}

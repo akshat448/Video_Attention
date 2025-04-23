@@ -1,0 +1,310 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c97177bcfe5b70c5f19e06f",
+                        "video": "5c9715aacfe5b70c5f19e06e",
+                        "audio_description": "5c9715aacfe5b70c5f19e06d",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "0:00 A man stands outdoors in front of a tree. In front of the man is a table which has a small purple and yellow airplane on top. It is about the size of a regular TV.",
+                        "playback_type": "extended",
+                        "start_time": 0.208283,
+                        "end_time": 0.208283,
+                        "duration": 11.702857142857143,
+                        "file_name": "IANwb_qT1gg_5c97177bcfe5b70c5f19e06f.wav",
+                        "file_size_bytes": 2064428,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/IANwb_qT1gg",
+                        "created_at": 20190324053659,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99784",
+                                "sentence": " A man stands outdoors in front of a tree.",
+                                "start_time": 0.28,
+                                "end_time": 3
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99783",
+                                "sentence": " In front of the man is a table which has a small purple and yellow airplane on Top. It is about the size of a regular tv.",
+                                "start_time": 3,
+                                "end_time": 9.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c971793cfe5b70c5f19e070",
+                        "video": "5c9715aacfe5b70c5f19e06e",
+                        "audio_description": "5c9715aacfe5b70c5f19e06d",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "1:03 The man picks up the airplane cautiously, and the man behind the camera speaks.",
+                        "playback_type": "extended",
+                        "start_time": 63.719968,
+                        "end_time": 63.719968,
+                        "duration": 4.829750566893424,
+                        "file_name": "IANwb_qT1gg_5c971793cfe5b70c5f19e070.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/IANwb_qT1gg",
+                        "created_at": 20190324053723,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb9978b",
+                                "sentence": " The man picks up the airplane cautiously, and the man behind the camera speaks.",
+                                "start_time": 0.55,
+                                "end_time": 4.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c9717b8cfe5b70c5f19e071",
+                        "video": "5c9715aacfe5b70c5f19e06e",
+                        "audio_description": "5c9715aacfe5b70c5f19e06d",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "1:12 The man leaves the scene with the plane.",
+                        "playback_type": "extended",
+                        "start_time": 72.39991,
+                        "end_time": 72.39991,
+                        "duration": 2.414875283446712,
+                        "file_name": "IANwb_qT1gg_5c9717b8cfe5b70c5f19e071.wav",
+                        "file_size_bytes": 426028,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/IANwb_qT1gg",
+                        "created_at": 20190324053800,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99792",
+                                "sentence": " The man leaves the scene with the plane.",
+                                "start_time": 0.14,
+                                "end_time": 2.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c9717d6cfe5b70c5f19e072",
+                        "video": "5c9715aacfe5b70c5f19e06e",
+                        "audio_description": "5c9715aacfe5b70c5f19e06d",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "I 1:13 A squirrel walks towards the airplane, which is now on a concrete ground. It jumps in the seat and the airplane takes off.",
+                        "playback_type": "inline",
+                        "start_time": 73.27896103896103,
+                        "end_time": 80.70934652648937,
+                        "duration": 7.430385487528345,
+                        "file_name": "IANwb_qT1gg_5c9717d6cfe5b70c5f19e072.wav",
+                        "file_size_bytes": 1310764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/IANwb_qT1gg",
+                        "created_at": 20190324053830,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99797",
+                                "sentence": " A squirrel walks towards the airplane, which is now on a concrete ground. It jumps into the sea and the airplane takes off.",
+                                "start_time": 0.08,
+                                "end_time": 6.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c9717f5cfe5b70c5f19e073",
+                        "video": "5c9715aacfe5b70c5f19e06e",
+                        "audio_description": "5c9715aacfe5b70c5f19e06d",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "1:27 The scene changes to the man in his truck, trying to find his trasmitter. The man behind the camera calls out.",
+                        "playback_type": "extended",
+                        "start_time": 86.187224,
+                        "end_time": 86.187224,
+                        "duration": 6.315827664399093,
+                        "file_name": "IANwb_qT1gg_5c9717f5cfe5b70c5f19e073.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/IANwb_qT1gg",
+                        "created_at": 20190324053901,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99757",
+                                "sentence": " The scene changes to the man in his truck trying to find his transmitter. The man behind the camera calls out.",
+                                "start_time": 0.51,
+                                "end_time": 6.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c97183bcfe5b70c5f19e074",
+                        "video": "5c9715aacfe5b70c5f19e06e",
+                        "audio_description": "5c9715aacfe5b70c5f19e06d",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "I 1:36 The man who built the plane chases after the plane, but the plane zooms upward. It makes many twists and turns in the air over a field, while the squirrel is still inside.",
+                        "playback_type": "inline",
+                        "start_time": 96.22753246753246,
+                        "end_time": 108.58054834054833,
+                        "duration": 12.353015873015874,
+                        "file_name": "IANwb_qT1gg_5c97183bcfe5b70c5f19e074.wav",
+                        "file_size_bytes": 2179116,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/IANwb_qT1gg",
+                        "created_at": 20190324054011,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99740",
+                                "sentence": " The man who built the plane chases after the plane, but the plane zooms upward. It makes many twists and turns in the air over a field",
+                                "start_time": 0.19,
+                                "end_time": 8.63
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb9973f",
+                                "sentence": " while the squirrel is still inside.",
+                                "start_time": 8.63,
+                                "end_time": 10.59
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c97184bab5fd817ce54d11f",
+                        "video": "5c9715aacfe5b70c5f19e06e",
+                        "audio_description": "5c9715aacfe5b70c5f19e06d",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "I 2:09 There is a camera view of inside the airplane, and the squirrel is shown up close.",
+                        "playback_type": "inline",
+                        "start_time": 128.82493506493506,
+                        "end_time": 133.56180581323437,
+                        "duration": 4.73687074829932,
+                        "file_name": "IANwb_qT1gg_5c97184bab5fd817ce54d11f.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/IANwb_qT1gg",
+                        "created_at": 20190324054027,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb9976e",
+                                "sentence": " There is a camera view of inside the airplane. And the scroll is shown up close.",
+                                "start_time": 0.14,
+                                "end_time": 4.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c971859cfe5b70c5f19e075",
+                        "video": "5c9715aacfe5b70c5f19e06e",
+                        "audio_description": "5c9715aacfe5b70c5f19e06d",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "2:16 The man runs on the grass field.",
+                        "playback_type": "inline",
+                        "start_time": 136.317223,
+                        "end_time": 139.01073773922903,
+                        "duration": 2.693514739229025,
+                        "file_name": "IANwb_qT1gg_5c971859cfe5b70c5f19e075.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/IANwb_qT1gg",
+                        "created_at": 20190324054041,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c7125473a929f78818da4",
+                                "sentence": " The man runs on the grass field.",
+                                "start_time": 0.17,
+                                "end_time": 2.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c97186dcfe5b70c5f19e076",
+                        "video": "5c9715aacfe5b70c5f19e06e",
+                        "audio_description": "5c9715aacfe5b70c5f19e06d",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "2:21 The plane lands and the squirrel jumps off. It runs away, and the man reclaims his airplane.",
+                        "playback_type": "extended",
+                        "start_time": 141.339929,
+                        "end_time": 141.339929,
+                        "duration": 6.873106575963718,
+                        "file_name": "IANwb_qT1gg_5c97186dcfe5b70c5f19e076.wav",
+                        "file_size_bytes": 1212460,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/IANwb_qT1gg",
+                        "created_at": 20190324054101,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb9976a",
+                                "sentence": " The plane lands and the scroll jumps off. It runs away, and the manry claims his airplane.",
+                                "start_time": 0.25,
+                                "end_time": 5.48
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c9715aacfe5b70c5f19e06d",
+                "video": "5c9715aacfe5b70c5f19e06e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c3bdc265d6e4004fe2d03df",
+                    "email": "enochlee04@gmail.com",
+                    "name": "Enoch Lee",
+                    "given_name": "Enoch",
+                    "picture": "https://lh6.googleusercontent.com/-B2rcF5w4NDw/AAAAAAAAAAI/AAAAAAAAANY/bLC9gA5pUL8/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "100858671042298218163",
+                    "last_login": 20201223014044,
+                    "token": "8774500f137f7b67696e61908f88643da67bbf26753e43382ce091d5861b1baf",
+                    "__v": 0,
+                    "updated_at": 20201223014044,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190324052914,
+                "updated_at": 20190325203943,
+                "notes": "0:00 A man stands outdoors in front of a tree. In front of the man is a table which has a small purple and yellow airplane on top. It is about the size of a regular TV.\n1:03 The man picks up the airplane cautiously, and the man behind the camera speaks.\n1:12 The man leaves the scene with the plane.\nI 1:13 A squirrel walks towards the airplane, which is now on a concrete ground. It jumps in the seat and the airplane takes off.\n1:27 The scene changes to the man in his truck, trying to find his trasmitter. The man behind the camera calls out.\nI 1:36 The man who built the plane chases after the plane, but the plane zooms upward. It makes many twists and turns in the air over a field, while the squirrel is still inside.\nI 2:09 There is a camera view of inside the airplane, and the squirrel is shown up close.\n2:16 The man runs on the grass field.\n2:21 The plane lands and the squirrel jumps off. It runs away, and the man reclaims his airplane.",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "HobbyWars",
+            "gaming",
+            "flying",
+            "squirrel",
+            "model",
+            "airplane",
+            "plane",
+            "rc",
+            "pt19",
+            "commercial",
+            "Fly",
+            "remote control",
+            "truTV",
+            "top",
+            "funniest",
+            "videos"
+        ],
+        "custom_tags": [],
+        "_id": "5c9715aacfe5b70c5f19e06e",
+        "title": "Squirrel Steals Airplane",
+        "description": "HobbyWars - Unbelievable video of Squirrel stealing model airplane with manual controls.",
+        "youtube_id": "IANwb_qT1gg",
+        "created_at": 20190324052914,
+        "updated_at": 20190324054101,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Gaming",
+        "category_id": "20",
+        "duration": 161
+    }
+}

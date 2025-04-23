@@ -1,0 +1,342 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c1d0490d3a30918d8e7a22c",
+                        "video": "5c1d0460db5fb418cbb9db46",
+                        "audio_description": "5c1d0460db5fb418cbb9db45",
+                        "user": "5c13e569af05527dd32a031e",
+                        "label": "intro",
+                        "playback_type": "inline",
+                        "start_time": 2.697035714285714,
+                        "end_time": 6.622369047619047,
+                        "duration": 3.925333333333333,
+                        "file_name": "makIgB4X3q8_5c1d0490d3a30918d8e7a22c.wav",
+                        "file_size_bytes": 753708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/makIgB4X3q8",
+                        "created_at": 20181221151944,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e998544080122fa67adc",
+                                "sentence": " Spectrum keys presents. I can do it brushing my teeth.",
+                                "start_time": 0.15,
+                                "end_time": 3.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c1d053dd3a30918d8e7a22e",
+                        "video": "5c1d0460db5fb418cbb9db46",
+                        "audio_description": "5c1d0460db5fb418cbb9db45",
+                        "user": "5c13e569af05527dd32a031e",
+                        "label": "brushing teeth",
+                        "playback_type": "inline",
+                        "start_time": 70.806518,
+                        "end_time": 72.854518,
+                        "duration": 2.048,
+                        "file_name": "makIgB4X3q8_5c1d053dd3a30918d8e7a22e.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/makIgB4X3q8",
+                        "created_at": 20181221152237,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e9eef9dc541230061bda",
+                                "sentence": " Continues brushing her teeth.",
+                                "start_time": 0.22,
+                                "end_time": 2.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c1d0565db5fb418cbb9db48",
+                        "video": "5c1d0460db5fb418cbb9db46",
+                        "audio_description": "5c1d0460db5fb418cbb9db45",
+                        "user": "5c13e569af05527dd32a031e",
+                        "label": "spits",
+                        "playback_type": "inline",
+                        "start_time": 75.190809,
+                        "end_time": 76.89747566666667,
+                        "duration": 1.7066666666666668,
+                        "file_name": "makIgB4X3q8_5c1d0565db5fb418cbb9db48.wav",
+                        "file_size_bytes": 327724,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/makIgB4X3q8",
+                        "created_at": 20181221152317,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e998544080122fa67aac",
+                                "sentence": " Spits in the sink.",
+                                "start_time": 0.46,
+                                "end_time": 1.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c1d067fdb5fb418cbb9db4a",
+                        "video": "5c1d0460db5fb418cbb9db46",
+                        "audio_description": "5c1d0460db5fb418cbb9db45",
+                        "user": "5c13e569af05527dd32a031e",
+                        "label": "text on screen",
+                        "playback_type": "inline",
+                        "start_time": 97.823843,
+                        "end_time": 102.85850966666666,
+                        "duration": 5.034666666666666,
+                        "file_name": "makIgB4X3q8_5c1d067fdb5fb418cbb9db4a.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/makIgB4X3q8",
+                        "created_at": 20181221152759,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e9eef9dc541230061bde",
+                                "sentence": " Text on screen to keep teeth healthy. It is important to brush every morning and every night.",
+                                "start_time": 0.36,
+                                "end_time": 4.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c1d068fd3a30918d8e7a22f",
+                        "video": "5c1d0460db5fb418cbb9db46",
+                        "audio_description": "5c1d0460db5fb418cbb9db45",
+                        "user": "5c13e569af05527dd32a031e",
+                        "label": "wet toothbrush",
+                        "playback_type": "inline",
+                        "start_time": 103.898732,
+                        "end_time": 105.690732,
+                        "duration": 1.792,
+                        "file_name": "makIgB4X3q8_5c1d068fd3a30918d8e7a22f.wav",
+                        "file_size_bytes": 344108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/makIgB4X3q8",
+                        "created_at": 20181221152815,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e9eef9dc541230061be1",
+                                "sentence": " Wet toothbrush.",
+                                "start_time": 0.21,
+                                "end_time": 1.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c1d06b5d3a30918d8e7a230",
+                        "video": "5c1d0460db5fb418cbb9db46",
+                        "audio_description": "5c1d0460db5fb418cbb9db45",
+                        "user": "5c13e569af05527dd32a031e",
+                        "label": "toothpaste",
+                        "playback_type": "inline",
+                        "start_time": 107.268195,
+                        "end_time": 110.34019500000001,
+                        "duration": 3.072,
+                        "file_name": "makIgB4X3q8_5c1d06b5d3a30918d8e7a230.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/makIgB4X3q8",
+                        "created_at": 20181221152853,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e999544080122fa67aee",
+                                "sentence": " Put on a pea size amount of toothpaste.",
+                                "start_time": 0.17,
+                                "end_time": 2.73
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c1d06d6db5fb418cbb9db4b",
+                        "video": "5c1d0460db5fb418cbb9db46",
+                        "audio_description": "5c1d0460db5fb418cbb9db45",
+                        "user": "5c13e569af05527dd32a031e",
+                        "label": "top and bottom",
+                        "playback_type": "inline",
+                        "start_time": 112.545841,
+                        "end_time": 115.873841,
+                        "duration": 3.328,
+                        "file_name": "makIgB4X3q8_5c1d06d6db5fb418cbb9db4b.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/makIgB4X3q8",
+                        "created_at": 20181221152926,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e9eef9dc541230061bf2",
+                                "sentence": " Brush teeth and cop. And on the bottom rush tongue to.",
+                                "start_time": 0.05,
+                                "end_time": 3.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c1d06ecd3a30918d8e7a231",
+                        "video": "5c1d0460db5fb418cbb9db46",
+                        "audio_description": "5c1d0460db5fb418cbb9db45",
+                        "user": "5c13e569af05527dd32a031e",
+                        "label": "spit",
+                        "playback_type": "inline",
+                        "start_time": 117.234728,
+                        "end_time": 119.88006133333334,
+                        "duration": 2.6453333333333333,
+                        "file_name": "makIgB4X3q8_5c1d06ecd3a30918d8e7a231.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/makIgB4X3q8",
+                        "created_at": 20181221152948,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e998544080122fa67aa1",
+                                "sentence": " Spit the toothpaste out into the sink.",
+                                "start_time": 0.22,
+                                "end_time": 2.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c1d06fcd3a30918d8e7a232",
+                        "video": "5c1d0460db5fb418cbb9db46",
+                        "audio_description": "5c1d0460db5fb418cbb9db45",
+                        "user": "5c13e569af05527dd32a031e",
+                        "label": "rinse off toothbrush",
+                        "playback_type": "inline",
+                        "start_time": 121.848437,
+                        "end_time": 123.640437,
+                        "duration": 1.792,
+                        "file_name": "makIgB4X3q8_5c1d06fcd3a30918d8e7a232.wav",
+                        "file_size_bytes": 344108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/makIgB4X3q8",
+                        "created_at": 20181221153004,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e9edf9dc541230061bb2",
+                                "sentence": " Rent soft toothbrush.",
+                                "start_time": 0.16,
+                                "end_time": 1.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c1d0721db5fb418cbb9db4c",
+                        "video": "5c1d0460db5fb418cbb9db46",
+                        "audio_description": "5c1d0460db5fb418cbb9db45",
+                        "user": "5c13e569af05527dd32a031e",
+                        "label": "all done",
+                        "playback_type": "inline",
+                        "start_time": 126.406756,
+                        "end_time": 129.90542266666668,
+                        "duration": 3.498666666666667,
+                        "file_name": "makIgB4X3q8_5c1d0721db5fb418cbb9db4c.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/makIgB4X3q8",
+                        "created_at": 20181221153041,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e9eef9dc541230061be9",
+                                "sentence": " All run. It is important to have healthy, clean teeth.",
+                                "start_time": 0.22,
+                                "end_time": 3.38
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c1d072ed3a30918d8e7a233",
+                        "video": "5c1d0460db5fb418cbb9db46",
+                        "audio_description": "5c1d0460db5fb418cbb9db45",
+                        "user": "5c13e569af05527dd32a031e",
+                        "label": "end",
+                        "playback_type": "inline",
+                        "start_time": 133.93932,
+                        "end_time": 135.21932,
+                        "duration": 1.28,
+                        "file_name": "makIgB4X3q8_5c1d072ed3a30918d8e7a233.wav",
+                        "file_size_bytes": 245804,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/makIgB4X3q8",
+                        "created_at": 20181221153054,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e998544080122fa67a95",
+                                "sentence": " The end.",
+                                "start_time": 0.26,
+                                "end_time": 1.24
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c1d0460db5fb418cbb9db45",
+                "video": "5c1d0460db5fb418cbb9db46",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c13e569af05527dd32a031e",
+                    "email": "textconversionlab202@gmail.com",
+                    "name": "Fell Hall",
+                    "given_name": "Fell",
+                    "picture": "https://lh3.googleusercontent.com/-iOvq9ExJjow/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gUq45WSUPkUbP3lmmWFzFQCFTq_A/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "104008534638382883862",
+                    "last_login": 20190430164214,
+                    "token": "3320f7f3e838bb4c21b76fd3e0f9e5781e08508404c549b71f7c284786acca1e",
+                    "__v": 0,
+                    "updated_at": 20190430164214,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181221151856,
+                "updated_at": 20190103001706,
+                "notes": "Spectrum keys presents I can do it!  Brushing my teeth\ncontinues brushing her teeth\nspits in the sink\ntext on screen - to keep teeth healthy it is important to brush every morning and every night.\nwet toothbrush\nput on a pea-size amount of toothpaste\nbrush teeth on top and on the bottom.  Brush tongue too.\nspit the toothpaste out, into the sink.\nall done!  It is important to have healthy clean teeth.",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "autism",
+            "ASD",
+            "asperbergers",
+            "hygiene",
+            "social story",
+            "adaptive",
+            "education",
+            "spectrum",
+            "language",
+            "visual"
+        ],
+        "custom_tags": [],
+        "_id": "5c1d0460db5fb418cbb9db46",
+        "title": "Autism Video Modeling- Brushing Teeth/Hygiene series- from SpectrumKeys.com",
+        "description": "Video Modeling is a research based tool to support learning in children with autism and other language based disorders.   www.SpectrumKeys.com provides video modeling, picture packs and images, and social skill stories available for immediate download. Visit www.SpectrumKeys.com to learn more.",
+        "youtube_id": "makIgB4X3q8",
+        "created_at": 20181221151856,
+        "updated_at": 20190107043958,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 152
+    }
+}

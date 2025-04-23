@@ -1,0 +1,129 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7246e13dfd851a5509",
+                        "audio_description": "58e7cf3346e13dfd851a24ff",
+                        "created_at": 20160126070231,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160126070231,
+                        "file_name": "14538205514901.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2452,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 21428,
+                        "video": "58e7cf2946e13dfd851a1da7",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ef82cbd0c06b1708c6",
+                                "sentence": " An adult female with shoulder linked light brown hair,",
+                                "start_time": 0.84,
+                                "end_time": 4.19
+                            },
+                            {
+                                "_id": "5e4068ef82cbd0c06b1708c5",
+                                "sentence": " wearing a purple blouse, sits smiling in front of a black background.",
+                                "start_time": 4.19,
+                                "end_time": 8.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a550a",
+                        "audio_description": "58e7cf3346e13dfd851a24ff",
+                        "created_at": 20160126070358,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160126070358,
+                        "file_name": "14538206389511.wav",
+                        "start_time": 44.494,
+                        "legacy_video_id": 2452,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 21429,
+                        "video": "58e7cf2946e13dfd851a1da7",
+                        "end_time": 44.494,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e442d4079f74cbc7c082f25",
+                                "sentence": " A still image shows a young girl sitting at a table with other individuals.",
+                                "start_time": 0.93,
+                                "end_time": 5.44
+                            },
+                            {
+                                "_id": "5e442d4079f74cbc7c082f24",
+                                "sentence": " She has braids in her hair and is looking towards the camera.",
+                                "start_time": 5.44,
+                                "end_time": 9.1
+                            },
+                            {
+                                "_id": "5e442d4079f74cbc7c082f23",
+                                "sentence": " There is a white bowl of food in front of her, and she is holding a chip.",
+                                "start_time": 9.1,
+                                "end_time": 13.52
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a24ff",
+                "status": "published",
+                "legacy_video_id": 2452,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1da7",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Module 1",
+            "Overview"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1da7",
+        "description": "",
+        "youtube_id": "8jPbRnBwmXI",
+        "views": 0,
+        "created_at": 20160126065931,
+        "title": "Robbie: Module1 ppt2 Behavior - Module 1",
+        "legacy_video_id": 2452,
+        "updated_at": 20160126070358,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 69
+    }
+}

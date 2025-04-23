@@ -1,0 +1,120 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b73853be6cc7f461fb09d54",
+                        "video": "5b7384f27c83643ee058a9f5",
+                        "audio_description": "5b7384f27c83643ee058a9f4",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 9.287981859410431,
+                        "duration": 9.287981859410431,
+                        "file_name": "ZgwNixjNyzI_5b73853be6cc7f461fb09d54.wav",
+                        "file_size_bytes": 1638444,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZgwNixjNyzI",
+                        "created_at": 20180815014323,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e132af13d9b9409cd84e2b2",
+                                "sentence": " A group of animated children play on Top of a wooden structure of the letters w l I w",
+                                "start_time": 0.44,
+                                "end_time": 6.52
+                            },
+                            {
+                                "_id": "5e132af13d9b9409cd84e2b1",
+                                "sentence": " and the number 21.",
+                                "start_time": 6.52,
+                                "end_time": 8.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b73855ce6cc7f461fb09d55",
+                        "video": "5b7384f27c83643ee058a9f5",
+                        "audio_description": "5b7384f27c83643ee058a9f4",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 23.43668,
+                        "end_time": 29.566748027210885,
+                        "duration": 6.130068027210885,
+                        "file_name": "ZgwNixjNyzI_5b73855ce6cc7f461fb09d55.wav",
+                        "file_size_bytes": 1081388,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZgwNixjNyzI",
+                        "created_at": 20180815014356,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b45",
+                                "sentence": " Then we see the screen turn blue, as it says, w I w 21, new york.",
+                                "start_time": 0.14,
+                                "end_time": 5.62
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b7384f27c83643ee058a9f4",
+                "video": "5b7384f27c83643ee058a9f5",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "59c25b2ec6c4802622d9c1bf",
+                    "email": "rgman1995@gmail.com",
+                    "name": "Ryan G",
+                    "given_name": "Ryan",
+                    "picture": "https://lh3.googleusercontent.com/-NxEEiJBaock/AAAAAAAAAAI/AAAAAAAAAc0/5fcpjk_lXKY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113561788356507984833",
+                    "last_login": 20201230202355,
+                    "token": "27b561de1a2557461b6807ff8a71622302ac468380f084bd313e4b4fc0a8dc39",
+                    "__v": 0,
+                    "updated_at": 20201230202355,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180815014210,
+                "updated_at": 20180815232449,
+                "notes": "A group of animated children play on top of a wooden structure of the letters WLIW and the number 21. Then, we see the screen turn blue as the screen says, \"WLIW 21, New York.\"",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "wliw21",
+            "fantasimation",
+            "cartoon",
+            "animation"
+        ],
+        "custom_tags": [],
+        "_id": "5b7384f27c83643ee058a9f5",
+        "title": "WLIW",
+        "description": "This was a short piece of animation we (Fantasimation Animation Studios) donated to WLIW21. It aired before the start of the children's program time slot. For more information go to http://www.fullstop.com",
+        "youtube_id": "ZgwNixjNyzI",
+        "created_at": 20180815014210,
+        "updated_at": 20180815014356,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 30
+    }
+}

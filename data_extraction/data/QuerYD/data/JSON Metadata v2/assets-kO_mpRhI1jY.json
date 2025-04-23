@@ -1,0 +1,128 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7bd7da8302113cc4be500d",
+                        "video": "5d7bd7ab15c8ca3ccf56d6d1",
+                        "audio_description": "5d7bd7ab15c8ca3ccf56d6d0",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "Comp and IT Description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 29.013333333333332,
+                        "duration": 29.013333333333332,
+                        "file_name": "kO_mpRhI1jY_5d7bd7da8302113cc4be500d.wav",
+                        "file_size_bytes": 5570604,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/kO_mpRhI1jY",
+                        "created_at": 20190913175434,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5578717604239900952287",
+                                "sentence": " To students work on a wrecker service tax rates, computer and Information technology. If you're looking for a challenging ever changing career in computers, you're at the right place at the right time",
+                                "start_time": 0.91,
+                                "end_time": 8.58
+                            },
+                            {
+                                "_id": "5e5578717604239900952286",
+                                "sentence": " and ran presents code to a class of students in computer lab tech streets. Careers. Job opportunities include weapons, computer programming, software development network administration, many other jobs",
+                                "start_time": 8.58,
+                                "end_time": 17.87
+                            },
+                            {
+                                "_id": "5e5578717604239900952285",
+                                "sentence": " students work um other ports in a computer lab, tech streets length program on associate degree in 16 months or certificate and diploma as little as four months.",
+                                "start_time": 17.87,
+                                "end_time": 24.23
+                            },
+                            {
+                                "_id": "5e5578717604239900952284",
+                                "sentence": " Man with a laptop observes a wall of pcs tax rates. You've got this.",
+                                "start_time": 24.23,
+                                "end_time": 27.69
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7bd7ab15c8ca3ccf56d6d0",
+                "video": "5d7bd7ab15c8ca3ccf56d6d1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190913175347,
+                "updated_at": 20190913175347,
+                "notes": "2 students work on a rack of servers \r\nText reads:\r\nComputer and information technology\r\nIf you are looking for a challenging, ever changing career in computers, you are at the right place at the right time.\r\n\r\nA man presents code to a class of students in a computer lab\r\nText reads:\r\nCareers \r\nJob opportunities include web and computer programing, software development, network administration and many other jobs.\r\n\r\nStudents work on motherboards in a computer lab\r\nText reads:\r\nLength of program\r\nEarn an associate degree in 16 months, or certificate or diploma in as little as 4 months\r\n\r\nA man with a laptop observes a wall of pcs.\r\nText reads:\r\nYou've got this!\r\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [],
+                "_id": "5e7d23b34415bf48480faa4d",
+                "video": "5d7bd7ab15c8ca3ccf56d6d1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e7d20694415bf48480faa48",
+                    "email": "casey.brock6418@gmail.com",
+                    "name": "Casey Brock",
+                    "given_name": "Casey",
+                    "picture": "https://lh3.googleusercontent.com/a-/AOh14GidVENBXikuwjkBXKiw7vEiiWRwZ7gxm97PoiaC=s96-c",
+                    "locale": "en",
+                    "google_user_id": "108297599248803364285",
+                    "last_login": 20200326214036,
+                    "token": "f6bf053a5e3fe3c4bdb741d920b53e6f5101cb79ffa20ab1cf5a9933e2e3808f",
+                    "__v": 0,
+                    "updated_at": 20200326214036,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20200326215043,
+                "updated_at": 20200326215043,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Computer and Information Technology",
+            "cit",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5d7bd7ab15c8ca3ccf56d6d1",
+        "title": "Computer and Information Technology",
+        "description": "Information for the Computer and Information Technology program.",
+        "youtube_id": "kO_mpRhI1jY",
+        "created_at": 20190913175347,
+        "updated_at": 20200326215043,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

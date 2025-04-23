@@ -1,0 +1,71 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5e5021851258392b584cc55c",
+                        "video": "5e5021451258392b584cc55b",
+                        "audio_description": "5e5021451258392b584cc55a",
+                        "user": "5e501d441258392b584cc558",
+                        "label": "bar graph description",
+                        "playback_type": "extended",
+                        "start_time": 5.7098629999999995,
+                        "end_time": 5.7098629999999995,
+                        "duration": 25.63482993197279,
+                        "file_name": "cEfD-Mr7m2c_5e5021851258392b584cc55c.wav",
+                        "file_size_bytes": 4522028,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cEfD-Mr7m2c",
+                        "created_at": 20200221182925,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5e5021451258392b584cc55a",
+                "video": "5e5021451258392b584cc55b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e501d441258392b584cc558",
+                    "email": "tas2199@columbia.edu",
+                    "name": "Timothy Shertzer",
+                    "given_name": "Timothy",
+                    "picture": "https://lh5.googleusercontent.com/-jQoBxSIoXvY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcUm07WpcR9FzsDI35gAF89ghoo9Q/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "117119428427518202602",
+                    "last_login": 20200222154549,
+                    "token": "c6cd5b07651a57e93f6c9cccdfa8d6d241c7ea11a3b584ad796c5b3f28701ea8",
+                    "__v": 0,
+                    "updated_at": 20200222154549,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200221182821,
+                "updated_at": 20200221182821,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5e5021451258392b584cc55b",
+        "title": "Employment Rate for People With and Without Disabilities (Captioned)",
+        "description": "",
+        "youtube_id": "cEfD-Mr7m2c",
+        "created_at": 20200221182821,
+        "updated_at": 20200221182925,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

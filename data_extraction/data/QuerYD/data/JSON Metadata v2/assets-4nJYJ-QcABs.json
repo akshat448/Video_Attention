@@ -1,0 +1,735 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d8a541e7e4681160da29298",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "Three Minutes Silent Meditation ",
+                        "playback_type": "inline",
+                        "start_time": 8.253652597402597,
+                        "end_time": 11.410985930735931,
+                        "duration": 3.1573333333333333,
+                        "file_name": "4nJYJ-QcABs_5d8a541e7e4681160da29298.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924173630,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a49edd4c5147cbb99f9",
+                                "sentence": " Three minutes silent meditation.",
+                                "start_time": 0.37,
+                                "end_time": 3.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a542d7e4681160da2929b",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 13.000345,
+                        "end_time": 15.987011666666666,
+                        "duration": 2.986666666666667,
+                        "file_name": "4nJYJ-QcABs_5d8a542d7e4681160da2929b.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924173645,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2e57262f148c23c377",
+                                "sentence": " Sit in silence and stillness.",
+                                "start_time": 0.25,
+                                "end_time": 2.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7d3cd5be181566c3fd9e",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "Girl at desk",
+                        "playback_type": "inline",
+                        "start_time": 14.526428571428571,
+                        "end_time": 17.427761904761905,
+                        "duration": 2.9013333333333335,
+                        "file_name": "4nJYJ-QcABs_5d8a7d3cd5be181566c3fd9e.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924203156,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142c66db5aec148d44eb23",
+                                "sentence": " Girl at desk with eyes closed.",
+                                "start_time": 0.38,
+                                "end_time": 2.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7d66d5be181566c3fd9f",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "Class at desks",
+                        "playback_type": "inline",
+                        "start_time": 20.233413,
+                        "end_time": 23.049412999999998,
+                        "duration": 2.816,
+                        "file_name": "4nJYJ-QcABs_5d8a7d66d5be181566c3fd9f.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924203238,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d768b",
+                                "sentence": " For students at desk with eyes closed.",
+                                "start_time": 0.33,
+                                "end_time": 2.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7d877e4681160da292b3",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "Girl at desk",
+                        "playback_type": "inline",
+                        "start_time": 23.110227272727272,
+                        "end_time": 26.09689393939394,
+                        "duration": 2.986666666666667,
+                        "file_name": "4nJYJ-QcABs_5d8a7d877e4681160da292b3.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924203311,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a49edd4c5147cbb99f7",
+                                "sentence": " Girl at desk with ice closed.",
+                                "start_time": 0.39,
+                                "end_time": 2.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7db8d5be181566c3fda0",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "Girl at desk with eyes closed taking deep breath",
+                        "playback_type": "inline",
+                        "start_time": 27.732272727272726,
+                        "end_time": 32.084272727272726,
+                        "duration": 4.352,
+                        "file_name": "4nJYJ-QcABs_5d8a7db8d5be181566c3fda0.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924203400,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142d26753ada1499d666f2",
+                                "sentence": " Girl at desk with eyes closed, taking deep breasts.",
+                                "start_time": 0.27,
+                                "end_time": 4.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7de57e4681160da292b4",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "Keep your feet still",
+                        "playback_type": "inline",
+                        "start_time": 50.696921,
+                        "end_time": 53.086254333333336,
+                        "duration": 2.3893333333333335,
+                        "file_name": "4nJYJ-QcABs_5d8a7de57e4681160da292b4.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924203445,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a989318",
+                                "sentence": " Keep your feet still.",
+                                "start_time": 0.32,
+                                "end_time": 2.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7e54d5be181566c3fda1",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "Boy at desk though bubble",
+                        "playback_type": "inline",
+                        "start_time": 53.210209,
+                        "end_time": 62.51154233333333,
+                        "duration": 9.301333333333334,
+                        "file_name": "4nJYJ-QcABs_5d8a7e54d5be181566c3fda1.wav",
+                        "file_size_bytes": 1785900,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924203636,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142c65db5aec148d44eaf3",
+                                "sentence": " Boy at desk with ice closed.",
+                                "start_time": 0.46,
+                                "end_time": 3.4
+                            },
+                            {
+                                "_id": "5e142c65db5aec148d44eaf2",
+                                "sentence": " Thought bubble.",
+                                "start_time": 3.4,
+                                "end_time": 4.55
+                            },
+                            {
+                                "_id": "5e142c65db5aec148d44eaf1",
+                                "sentence": " Observe without judgement.",
+                                "start_time": 4.91,
+                                "end_time": 7.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7e8b7e4681160da292b6",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "Still everywhere",
+                        "playback_type": "inline",
+                        "start_time": 63.517617,
+                        "end_time": 66.333617,
+                        "duration": 2.816,
+                        "file_name": "4nJYJ-QcABs_5d8a7e8b7e4681160da292b6.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924203731,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e29aefae1231e09a13",
+                                "sentence": " Still everywhere.",
+                                "start_time": 0.5,
+                                "end_time": 2.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7eb7d5be181566c3fda2",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "Boy at desk eyes closed",
+                        "playback_type": "inline",
+                        "start_time": 75.442798,
+                        "end_time": 78.514798,
+                        "duration": 3.072,
+                        "file_name": "4nJYJ-QcABs_5d8a7eb7d5be181566c3fda2.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924203815,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142c66db5aec148d44eb01",
+                                "sentence": " Boy at desk with eyes closed.",
+                                "start_time": 0.62,
+                                "end_time": 3.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7ee97e4681160da292b7",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "If your mind is wondering try counting your breaths",
+                        "playback_type": "inline",
+                        "start_time": 85.83798701298701,
+                        "end_time": 90.61665367965368,
+                        "duration": 4.778666666666667,
+                        "file_name": "4nJYJ-QcABs_5d8a7ee97e4681160da292b7.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924203905,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a14",
+                                "sentence": " If your mind is wondering, try counting your breath.",
+                                "start_time": 0.73,
+                                "end_time": 4.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7f037e4681160da292b8",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "one",
+                        "playback_type": "inline",
+                        "start_time": 91.12032467532467,
+                        "end_time": 92.05899134199133,
+                        "duration": 0.9386666666666666,
+                        "file_name": "4nJYJ-QcABs_5d8a7f037e4681160da292b8.wav",
+                        "file_size_bytes": 180268,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924203931,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acb4a3b32147a9892f6",
+                                "sentence": " One,",
+                                "start_time": 0.17,
+                                "end_time": 0.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7f11d5be181566c3fda3",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "two",
+                        "playback_type": "inline",
+                        "start_time": 92.401288,
+                        "end_time": 93.425288,
+                        "duration": 1.024,
+                        "file_name": "4nJYJ-QcABs_5d8a7f11d5be181566c3fda3.wav",
+                        "file_size_bytes": 196652,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924203945,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d76dc",
+                                "sentence": " To.",
+                                "start_time": 0.15,
+                                "end_time": 0.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7f1a7e4681160da292b9",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "three",
+                        "playback_type": "inline",
+                        "start_time": 94.083247,
+                        "end_time": 95.107247,
+                        "duration": 1.024,
+                        "file_name": "4nJYJ-QcABs_5d8a7f1a7e4681160da292b9.wav",
+                        "file_size_bytes": 196652,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924203954,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142d27753ada1499d66701",
+                                "sentence": " Three,",
+                                "start_time": 0.02,
+                                "end_time": 0.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7f2fd5be181566c3fda4",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "three",
+                        "playback_type": "inline",
+                        "start_time": 99.160818,
+                        "end_time": 100.52615133333335,
+                        "duration": 1.3653333333333333,
+                        "file_name": "4nJYJ-QcABs_5d8a7f2fd5be181566c3fda4.wav",
+                        "file_size_bytes": 262188,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924204015,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142d26753ada1499d666fc",
+                                "sentence": " Three,",
+                                "start_time": 0.13,
+                                "end_time": 1.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7f3bd5be181566c3fda5",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "two",
+                        "playback_type": "inline",
+                        "start_time": 100.583108,
+                        "end_time": 101.607108,
+                        "duration": 1.024,
+                        "file_name": "4nJYJ-QcABs_5d8a7f3bd5be181566c3fda5.wav",
+                        "file_size_bytes": 196652,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924204027,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e39aefae1231e09a2a",
+                                "sentence": " To.",
+                                "start_time": 0,
+                                "end_time": 0.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7f44d5be181566c3fda6",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "one",
+                        "playback_type": "inline",
+                        "start_time": 101.571725,
+                        "end_time": 102.76639166666666,
+                        "duration": 1.1946666666666668,
+                        "file_name": "4nJYJ-QcABs_5d8a7f44d5be181566c3fda6.wav",
+                        "file_size_bytes": 229420,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924204036,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142e355fe14514a04fa2ee",
+                                "sentence": " One,",
+                                "start_time": 0.22,
+                                "end_time": 1.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7f6bd5be181566c3fda7",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "keep observing the silence",
+                        "playback_type": "inline",
+                        "start_time": 104.98904030539772,
+                        "end_time": 107.46370697206439,
+                        "duration": 2.474666666666667,
+                        "file_name": "4nJYJ-QcABs_5d8a7f6bd5be181566c3fda7.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924204115,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d76a2",
+                                "sentence": " Keep observing the silence.",
+                                "start_time": 0.46,
+                                "end_time": 2.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7f8ad5be181566c3fda8",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "girl at desk eye closed",
+                        "playback_type": "inline",
+                        "start_time": 116.016836,
+                        "end_time": 118.66216933333334,
+                        "duration": 2.6453333333333333,
+                        "file_name": "4nJYJ-QcABs_5d8a7f8ad5be181566c3fda8.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924204146,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d768d",
+                                "sentence": " Girl at desk with eyes closed.",
+                                "start_time": 0.26,
+                                "end_time": 2.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7fb27e4681160da292ba",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "class sitting at desks eyes closed",
+                        "playback_type": "inline",
+                        "start_time": 126.19278191607665,
+                        "end_time": 131.91011524940998,
+                        "duration": 5.717333333333333,
+                        "file_name": "4nJYJ-QcABs_5d8a7fb27e4681160da292ba.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924204226,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acd4a3b32147a989356",
+                                "sentence": " Observe the silence. Students sitting at desk with ice closed.",
+                                "start_time": 1.39,
+                                "end_time": 5.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7fc37e4681160da292bb",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "girl at desk ",
+                        "playback_type": "inline",
+                        "start_time": 131.920066,
+                        "end_time": 134.05339933333332,
+                        "duration": 2.1333333333333333,
+                        "file_name": "4nJYJ-QcABs_5d8a7fc37e4681160da292bb.wav",
+                        "file_size_bytes": 409644,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924204243,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d769b",
+                                "sentence": " Girl at desks with eyes closed.",
+                                "start_time": 0.2,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a7fd27e4681160da292bc",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "feel the silence",
+                        "playback_type": "inline",
+                        "start_time": 134.020238,
+                        "end_time": 135.89757133333333,
+                        "duration": 1.8773333333333333,
+                        "file_name": "4nJYJ-QcABs_5d8a7fd27e4681160da292bc.wav",
+                        "file_size_bytes": 360492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924204258,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e29aefae1231e09a1b",
+                                "sentence": " Feel the silence.",
+                                "start_time": 0.12,
+                                "end_time": 1.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a8000d5be181566c3fda9",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "girl deep breath",
+                        "playback_type": "inline",
+                        "start_time": 152.53007926643667,
+                        "end_time": 157.30874593310335,
+                        "duration": 4.778666666666667,
+                        "file_name": "4nJYJ-QcABs_5d8a8000d5be181566c3fda9.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924204344,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142db3f6af8b1498af3a55",
+                                "sentence": " Girl taking deep breaths.",
+                                "start_time": 0.74,
+                                "end_time": 3.18
+                            },
+                            {
+                                "_id": "5e142db3f6af8b1498af3a54",
+                                "sentence": " Ice closed.",
+                                "start_time": 3.18,
+                                "end_time": 4.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a801c7e4681160da292bd",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "find the stillness",
+                        "playback_type": "inline",
+                        "start_time": 164.413512,
+                        "end_time": 166.63217866666668,
+                        "duration": 2.2186666666666666,
+                        "file_name": "4nJYJ-QcABs_5d8a801c7e4681160da292bd.wav",
+                        "file_size_bytes": 426028,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924204412,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d769c",
+                                "sentence": " Find the stillness.",
+                                "start_time": 0.24,
+                                "end_time": 2.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a803ad5be181566c3fdaa",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "class deep breathing",
+                        "playback_type": "inline",
+                        "start_time": 175.64030653916396,
+                        "end_time": 179.48030653916396,
+                        "duration": 3.84,
+                        "file_name": "4nJYJ-QcABs_5d8a803ad5be181566c3fdaa.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924204442,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4bedd4c5147cbb9a3d",
+                                "sentence": " Class at desk, deep breathing, eyes closed.",
+                                "start_time": 0.37,
+                                "end_time": 3.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d8a806fd5be181566c3fdab",
+                        "video": "5d8a541e7e4681160da2929a",
+                        "audio_description": "5d8a541e7e4681160da29299",
+                        "user": "5d89871a7e4681160da2927e",
+                        "label": "when you are ready open your eyes",
+                        "playback_type": "inline",
+                        "start_time": 199.08067991578733,
+                        "end_time": 201.811346582454,
+                        "duration": 2.7306666666666666,
+                        "file_name": "4nJYJ-QcABs_5d8a806fd5be181566c3fdab.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4nJYJ-QcABs",
+                        "created_at": 20190924204535,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142c66db5aec148d44eb17",
+                                "sentence": " When you are ready, open your eyes.",
+                                "start_time": 0.16,
+                                "end_time": 2.69
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d8a541e7e4681160da29299",
+                "video": "5d8a541e7e4681160da2929a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d89871a7e4681160da2927e",
+                    "email": "kristenlruss1@gmail.com",
+                    "name": "k russell",
+                    "given_name": "k",
+                    "picture": "https://lh4.googleusercontent.com/-r29vQWmBiik/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfWVXW1g7q--VXTnmQvP-faim6aEg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "117065404700655927559",
+                    "last_login": 20190924171103,
+                    "token": "ed6fc25f884b20875c9eaf209bde2bc165df65047b732f96d740aa89b9deeafd",
+                    "__v": 0,
+                    "updated_at": 20190924171103,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190924173630,
+                "updated_at": 20190925171959,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Mindfulness",
+            "meditation",
+            "mindfulparenting",
+            "mindfulnessforchildren",
+            "annakaharris",
+            "thichnahhanh",
+            "yoga for kids",
+            "yoga for children",
+            "vipassana",
+            "silent meditation"
+        ],
+        "custom_tags": [],
+        "_id": "5d8a541e7e4681160da2929a",
+        "title": "3 Minutes Silent Meditation To The Sound of The Bell",
+        "description": "This video is a silent meditation. The sound of the bell helps center into the inner silence and stillness. \n\nDo this in the beginning of the day in schools or after a gym class. It helps centre into the present moment and brings calm and concentration to the class.\n\nSubscribe for more on our channel.\nor follow us on:\nfablefy.com\nfacebook.com/fablefy\ntwitter.com/fablefy\n\nMusic attribution:\n\nTibetan Bells and Sounds from Outer Space, \na pathway to Inner Peace. Sounds for relaxation and meditation\nThis piece is the very real Horst from Duisburg Germany with some Soundpieces of tibetan singing bowl attributed to planets of our solar system.\nThe sound of Moon/Mercury/Pluto was taken by me on November 23rd, 2013 also as a modul used in our soundproject \"Tibetan Bells and Sounds from Outer Space\" at YouTube-Channel :\nhttps://www.youtube.com/user/TaoChiSound\nThe Singing Bowl has frequencies of Moon-Kulmination, Mercury and Pluto [Grundton:Fis/93,8 Hz/Mond-Kulminationsperiode, 1. Oberton:D/282,5 Hz/Merkur,2. Oberton: Cis/561 Hz/Pluto Durchmesser ca.319 mm; H\u00f6he ca.145 mm; Gewicht ca.2950 Gramm]] and was treated with different mallets [drumsticks].\nI share three excerpts of this piece of 2, 3 and 1 Min here for you for free use\nfor more Information please visit:\nhttp://www.planetware.de/tune_in/Frequenz.html\nhttp://en.wikipedia.org/wiki/Singing_bowl",
+        "youtube_id": "4nJYJ-QcABs",
+        "created_at": 20190924173630,
+        "updated_at": 20190924204535,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 204
+    }
+}

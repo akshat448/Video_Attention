@@ -1,0 +1,111 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59b456d7c6c4802622d9bfe0",
+                        "video": "59b454d0c6c4802622d9bfd9",
+                        "audio_description": "59b454d0c6c4802622d9bfd8",
+                        "user": "59b452f1c6c4802622d9bfd5",
+                        "label": "First description",
+                        "playback_type": "extended",
+                        "start_time": 6.331514,
+                        "end_time": 6.331514,
+                        "duration": 7.509333333333333,
+                        "file_name": "ih3CbjixhoI_59b456d7c6c4802622d9bfe0.wav",
+                        "file_size_bytes": 1441836,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ih3CbjixhoI",
+                        "created_at": 20170909210215,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131e4dd66bb308b9c5590f",
+                                "sentence": " There are two bar plot's shown the employment for disabled and non disabled americans in the years 1991 in 2010.",
+                                "start_time": 0.42,
+                                "end_time": 7.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59b458a7c6c4802622d9bfe6",
+                        "video": "59b454d0c6c4802622d9bfd9",
+                        "audio_description": "59b454d0c6c4802622d9bfd8",
+                        "user": "59b452f1c6c4802622d9bfd5",
+                        "label": "Second description",
+                        "playback_type": "extended",
+                        "start_time": 14.029926,
+                        "end_time": 14.029926,
+                        "duration": 14.677333333333333,
+                        "file_name": "ih3CbjixhoI_59b458a7c6c4802622d9bfe6.wav",
+                        "file_size_bytes": 2818092,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ih3CbjixhoI",
+                        "created_at": 20170909210959,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131dee9b87ad08bbe5a182",
+                                "sentence": " In 1991, 50.2% of disabled were employed, while 84.4% of non disabled were employed.",
+                                "start_time": 0.28,
+                                "end_time": 7.79
+                            },
+                            {
+                                "_id": "5e131dee9b87ad08bbe5a181",
+                                "sentence": " In 2010, 41.1% of disabled were employed, while 79.1% of non disabled were employed.",
+                                "start_time": 7.79,
+                                "end_time": 14.61
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59b454d0c6c4802622d9bfd8",
+                "video": "59b454d0c6c4802622d9bfd9",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59b452f1c6c4802622d9bfd5",
+                    "email": "brandonwlee15@gmail.com",
+                    "name": "Brandon Lee",
+                    "given_name": "Brandon",
+                    "picture": "https://lh5.googleusercontent.com/-gAXv3a7VJWA/AAAAAAAAAAI/AAAAAAAAAAA/APJypA0orxqdunoaIRZvlnTEVPvdNYc6Yw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102239559488811615002",
+                    "last_login": 20170909204537,
+                    "token": "8e407aa3f8131d770662b14049b6898d505b03c71deb753d434fd20daefb2269",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170909205336,
+                "updated_at": 20170911161953,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59b454d0c6c4802622d9bfd9",
+        "title": "employment movie",
+        "description": "",
+        "youtube_id": "ih3CbjixhoI",
+        "created_at": 20170909205336,
+        "updated_at": 20170909210959,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

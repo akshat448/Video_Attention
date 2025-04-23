@@ -1,0 +1,150 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4346e13dfd851a2f01",
+                        "audio_description": "58e7cf2c46e13dfd851a2169",
+                        "created_at": 20140401052232,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140401052232,
+                        "file_name": "1396354952421.wav",
+                        "start_time": 3.114,
+                        "legacy_video_id": 1445,
+                        "legacy_user_id": 2152,
+                        "label": "",
+                        "legacy_audio_clip_id": 6331,
+                        "video": "58e7cf2846e13dfd851a19b9",
+                        "end_time": 3.114,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2c46e13dfd851a2168",
+                        "transcript": [
+                            {
+                                "_id": "5e1d7084bb71fc20ae603e24",
+                                "sentence": " Man seats and manmade the field c",
+                                "start_time": 0.4,
+                                "end_time": 5.08
+                            },
+                            {
+                                "_id": "5e1d7084bb71fc20ae603e23",
+                                "sentence": " once of a dull moment, I am heading victim into accordance.",
+                                "start_time": 5.81,
+                                "end_time": 9.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f5a",
+                        "audio_description": "58e7cf2c46e13dfd851a2169",
+                        "created_at": 20161019012336,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161019012336,
+                        "file_name": "14768654167171.wav",
+                        "start_time": 29.86,
+                        "legacy_video_id": 1445,
+                        "legacy_user_id": 2152,
+                        "label": "",
+                        "legacy_audio_clip_id": 25413,
+                        "video": "58e7cf2846e13dfd851a19b9",
+                        "end_time": 36.25,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2c46e13dfd851a2168",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de155990433204702",
+                                "sentence": " And There",
+                                "start_time": 1.95,
+                                "end_time": 3.16
+                            },
+                            {
+                                "_id": "5e47504de155990433204701",
+                                "sentence": " often I was at a right so honored techniques. Ken did.",
+                                "start_time": 3.16,
+                                "end_time": 5.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f5b",
+                        "audio_description": "58e7cf2c46e13dfd851a2169",
+                        "created_at": 20161019012500,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161019012500,
+                        "file_name": "14768655000981.wav",
+                        "start_time": 42.695,
+                        "legacy_video_id": 1445,
+                        "legacy_user_id": 2152,
+                        "label": "",
+                        "legacy_audio_clip_id": 25414,
+                        "video": "58e7cf2846e13dfd851a19b9",
+                        "end_time": 42.695,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2c46e13dfd851a2168",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de1559904332046ef",
+                                "sentence": " Therefore, laser shines. It's more ticked.",
+                                "start_time": 0.93,
+                                "end_time": 3.32
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2c46e13dfd851a2169",
+                "status": "published",
+                "legacy_video_id": 1445,
+                "legacy_user_id": 2152,
+                "video": "58e7cf2846e13dfd851a19b9",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2c46e13dfd851a2168",
+                    "name": "gzimmermann",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2152,
+                    "last_login": 0,
+                    "email": "gzimmermann@acm.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Webcam-Video"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a19b9",
+        "description": "",
+        "youtube_id": "ufDBUmkeXMM",
+        "views": 0,
+        "created_at": 20140303222557,
+        "title": "Spiegel Online vom 3. M\u00e4rz 2014, gelesen von Gottfried Zimmermann",
+        "legacy_video_id": 1445,
+        "updated_at": 20161019012514,
+        "youtube_status": "available",
+        "category": "News & Politics",
+        "category_id": "25",
+        "duration": 65
+    }
+}

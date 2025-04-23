@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4e7d",
+                        "audio_description": "58e7cf3346e13dfd851a24e1",
+                        "created_at": 20151102094756,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102094756,
+                        "file_name": "14464864761151.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2306,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18277,
+                        "video": "58e7cf2946e13dfd851a1d15",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec34c94fd7667ac66139c",
+                                "sentence": " Chris, a very young boy, sits in the lap of a female adult.",
+                                "start_time": 0.89,
+                                "end_time": 5.36
+                            },
+                            {
+                                "_id": "5e3ec34c94fd7667ac66139b",
+                                "sentence": " They are both sitting on the floor. She rubs lotion onto her hands. As she does. So, he places his hands into hers,",
+                                "start_time": 5.36,
+                                "end_time": 13.32
+                            },
+                            {
+                                "_id": "5e3ec34c94fd7667ac66139a",
+                                "sentence": " and they rub the lotion together, massaging each other's hands.",
+                                "start_time": 13.32,
+                                "end_time": 17.09
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a24e1",
+                "status": "published",
+                "legacy_video_id": 2306,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1d15",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d15",
+        "description": "",
+        "youtube_id": "fF8cAIfSbMw",
+        "views": 0,
+        "created_at": 20151102094723,
+        "title": "Chris and Massage - HUH",
+        "legacy_video_id": 2306,
+        "updated_at": 20151102094756,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 46
+    }
+}

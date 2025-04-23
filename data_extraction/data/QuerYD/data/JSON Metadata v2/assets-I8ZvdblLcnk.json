@@ -1,0 +1,188 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5d46e13dfd851a4534",
+                        "audio_description": "58e7cf3046e13dfd851a2369",
+                        "created_at": 20150822073807,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822073807,
+                        "file_name": "14402542875811.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2071,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14824,
+                        "video": "58e7cf2946e13dfd851a1c2a",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3acae569855f5850086bae",
+                                "sentence": " A young child in pink pants sits on the floor barefoot, holding a sock.",
+                                "start_time": 1.69,
+                                "end_time": 7.08
+                            },
+                            {
+                                "_id": "5e3acae569855f5850086bad",
+                                "sentence": " An adult leans in front of her and uses tactile sign language to sign sock before asking her to put the socks on.",
+                                "start_time": 7.17,
+                                "end_time": 14.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5d46e13dfd851a4535",
+                        "audio_description": "58e7cf3046e13dfd851a2369",
+                        "created_at": 20150822073914,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822073914,
+                        "file_name": "14402543544121.wav",
+                        "start_time": 17.094,
+                        "legacy_video_id": 2071,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14825,
+                        "video": "58e7cf2946e13dfd851a1c2a",
+                        "end_time": 17.094,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3acc09fdede55853222913",
+                                "sentence": " She sits with a sock touching her toes.",
+                                "start_time": 0.6,
+                                "end_time": 3.78
+                            },
+                            {
+                                "_id": "5e3acc09fdede55853222912",
+                                "sentence": " Each time the adult leans forward. In an attempt to help, she jerks away the adult sets back, waiting for the child to put her sock on.",
+                                "start_time": 3.78,
+                                "end_time": 12.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5d46e13dfd851a4536",
+                        "audio_description": "58e7cf3046e13dfd851a2369",
+                        "created_at": 20150822074023,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822074023,
+                        "file_name": "14402544233231.wav",
+                        "start_time": 28.576,
+                        "legacy_video_id": 2071,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14826,
+                        "video": "58e7cf2946e13dfd851a1c2a",
+                        "end_time": 28.576,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3acc08fdede558532228cf",
+                                "sentence": " The adult tickled her and instructs her to put her sock on.",
+                                "start_time": 0.7,
+                                "end_time": 4.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5d46e13dfd851a4537",
+                        "audio_description": "58e7cf3046e13dfd851a2369",
+                        "created_at": 20150822074155,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822074155,
+                        "file_name": "14402545158281.wav",
+                        "start_time": 45.904,
+                        "legacy_video_id": 2071,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14827,
+                        "video": "58e7cf2946e13dfd851a1c2a",
+                        "end_time": 45.904,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3acae469855f5850086b9d",
+                                "sentence": " She holds out her hands as if to give the sock to the adult.",
+                                "start_time": 0.33,
+                                "end_time": 4.28
+                            },
+                            {
+                                "_id": "5e3acae469855f5850086b9c",
+                                "sentence": " The adult leans forward, holds the sock, and signs know you you put the sock on.",
+                                "start_time": 4.28,
+                                "end_time": 10.14
+                            },
+                            {
+                                "_id": "5e3acae469855f5850086b9b",
+                                "sentence": " She then puts the sock on and is congratulated.",
+                                "start_time": 10.17,
+                                "end_time": 13.49
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2369",
+                "status": "published",
+                "legacy_video_id": 2071,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c2a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c2a",
+        "description": "",
+        "youtube_id": "I8ZvdblLcnk",
+        "views": 0,
+        "created_at": 20150822073729,
+        "title": "Lorri Peterson: Steps of Concept Development (3 of 4)",
+        "legacy_video_id": 2071,
+        "updated_at": 20150822074155,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 65
+    }
+}

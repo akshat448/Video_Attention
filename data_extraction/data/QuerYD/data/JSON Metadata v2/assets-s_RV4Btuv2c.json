@@ -1,0 +1,178 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6146e13dfd851a4703",
+                        "audio_description": "58e7cf3046e13dfd851a239b",
+                        "created_at": 20150911144238,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150911144238,
+                        "file_name": "14420077588171.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2151,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15512,
+                        "video": "58e7cf2946e13dfd851a1c7a",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 21.99,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba67a2079a0da87fe47d",
+                                "sentence": " A video montage with a voiceover shows three separate clips.",
+                                "start_time": 1.31,
+                                "end_time": 5.4
+                            },
+                            {
+                                "_id": "5e3aba67a2079a0da87fe47c",
+                                "sentence": " The first clip is of an older teenage male who is climbing a rock wall. He has one cochlear implant visible and wears glasses.",
+                                "start_time": 5.4,
+                                "end_time": 13.29
+                            },
+                            {
+                                "_id": "5e3aba67a2079a0da87fe47b",
+                                "sentence": " There's a female adult standing next to him, and they are using tactile sign language to communicate.",
+                                "start_time": 13.29,
+                                "end_time": 18.99
+                            },
+                            {
+                                "_id": "5e3aba67a2079a0da87fe47a",
+                                "sentence": " As he begins to climb, she backs away.",
+                                "start_time": 18.99,
+                                "end_time": 21.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a4704",
+                        "audio_description": "58e7cf3046e13dfd851a239b",
+                        "created_at": 20150911144333,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150911144333,
+                        "file_name": "14420078138611.wav",
+                        "start_time": 17.221,
+                        "legacy_video_id": 2151,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15513,
+                        "video": "58e7cf2946e13dfd851a1c7a",
+                        "end_time": 17.221,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abc32c648ec0da79cd6e0",
+                                "sentence": " A male adult stands at the sink,",
+                                "start_time": 1.11,
+                                "end_time": 3.48
+                            },
+                            {
+                                "_id": "5e3abc32c648ec0da79cd6df",
+                                "sentence": " filling a pan with water.",
+                                "start_time": 3.48,
+                                "end_time": 5.1
+                            },
+                            {
+                                "_id": "5e3abc32c648ec0da79cd6de",
+                                "sentence": " Once he has done, he takes the pan to the stove. A female adult stands off screen near the stove and places her hand on his arm",
+                                "start_time": 5.23,
+                                "end_time": 12.79
+                            },
+                            {
+                                "_id": "5e3abc32c648ec0da79cd6dd",
+                                "sentence": " as he fills around for the correct burner.",
+                                "start_time": 12.79,
+                                "end_time": 15.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a4705",
+                        "audio_description": "58e7cf3046e13dfd851a239b",
+                        "created_at": 20150911144503,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150911144503,
+                        "file_name": "14420079031821.wav",
+                        "start_time": 33.653,
+                        "legacy_video_id": 2151,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15514,
+                        "video": "58e7cf2946e13dfd851a1c7a",
+                        "end_time": 33.653,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac150d8af910da52dfd12",
+                                "sentence": " An adult male in a heavy coat and hood wearing glasses and using a white cane or to public bus.",
+                                "start_time": 1.11,
+                                "end_time": 8.27
+                            },
+                            {
+                                "_id": "5e3ac150d8af910da52dfd11",
+                                "sentence": " He pays for his ride and finds a place to set.",
+                                "start_time": 8.27,
+                                "end_time": 11.36
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a239b",
+                "status": "published",
+                "legacy_video_id": 2151,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c7a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c7a",
+        "description": "",
+        "youtube_id": "s_RV4Btuv2c",
+        "views": 0,
+        "created_at": 20150911144048,
+        "title": "Dignity Of Risk",
+        "legacy_video_id": 2151,
+        "updated_at": 20150911144503,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 37
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5dafe1e5816ebe3229a2eb88",
+                        "video": "5dafe1e5816ebe3229a2eb8a",
+                        "audio_description": "5dafe1e5816ebe3229a2eb89",
+                        "user": "5daf54bcad6d0b673b2f4026",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 3.074149,
+                        "end_time": 7.903899566893424,
+                        "duration": 4.829750566893424,
+                        "file_name": "epwyvihMOmE_5dafe1e5816ebe3229a2eb88.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/epwyvihMOmE",
+                        "created_at": 20191023051517,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5dafe1e5816ebe3229a2eb89",
+                "video": "5dafe1e5816ebe3229a2eb8a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5daf54bcad6d0b673b2f4026",
+                    "email": "leannwelliver@berkeley.edu",
+                    "name": "Paige Schneider",
+                    "given_name": "Paige",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mDjJiHlBp0f0AWsgiHPZSPy5RC7bV0S7TelJwNPIg=s96-c",
+                    "locale": "en",
+                    "google_user_id": "118291304759356978955",
+                    "last_login": 20191023055635,
+                    "token": "587f930466ae9b5bbbd927ada449282b6f174a3a743dae2bcf059aa918974a8f",
+                    "__v": 0,
+                    "updated_at": 20191023055635,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20191023051517,
+                "updated_at": 20191023051625,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "kylie jenner",
+            "stormi",
+            "rise and shine",
+            "music",
+            "remix",
+            "kim kardashian",
+            "stan twitter",
+            "dubstep remix",
+            "full remix",
+            "ariana grande",
+            "selena gomez",
+            "normani",
+            "compilation",
+            "apple music"
+        ],
+        "custom_tags": [],
+        "_id": "5dafe1e5816ebe3229a2eb8a",
+        "title": "Rise and Shine (REMIX) ft. Kylie Jenner",
+        "description": "the infamous rise and shine by kylie jenner has a remix. here\u2019s the full version of the song! make sure to check out my twitter\n\nhttps://twitter.com/zandirts\nhttps://instagram.com/zandirt",
+        "youtube_id": "epwyvihMOmE",
+        "created_at": 20191023051517,
+        "updated_at": 20191023051517,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Music",
+        "category_id": "10",
+        "duration": 123
+    }
+}

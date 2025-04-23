@@ -1,0 +1,159 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5e46e13dfd851a458f",
+                        "audio_description": "58e7cf3046e13dfd851a2383",
+                        "created_at": 20150823133215,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150823133215,
+                        "file_name": "14403619353641.wav",
+                        "start_time": 10.012,
+                        "legacy_video_id": 2098,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14922,
+                        "video": "58e7cf2946e13dfd851a1c45",
+                        "end_time": 10.012,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac6100d8f324490ee3994",
+                                "sentence": " The student opens the red folder and finds a calendar. She runs her fingers over the calendar.",
+                                "start_time": 1.06,
+                                "end_time": 7.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a4590",
+                        "audio_description": "58e7cf3046e13dfd851a2383",
+                        "created_at": 20150823133313,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150823133313,
+                        "file_name": "14403619932941.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2098,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14923,
+                        "video": "58e7cf2946e13dfd851a1c45",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac391d8af910da52dfd97",
+                                "sentence": " A teenage female student sits at a table between two adult females.",
+                                "start_time": 0.93,
+                                "end_time": 6.3
+                            },
+                            {
+                                "_id": "5e3ac391d8af910da52dfd96",
+                                "sentence": " The The adult on the right communicates with her using voice and tactile sign language.",
+                                "start_time": 6.99,
+                                "end_time": 13.09
+                            },
+                            {
+                                "_id": "5e3ac391d8af910da52dfd95",
+                                "sentence": " On the table in front of the student is a red folder.",
+                                "start_time": 13.25,
+                                "end_time": 16.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a4591",
+                        "audio_description": "58e7cf3046e13dfd851a2383",
+                        "created_at": 20150823133358,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150823133358,
+                        "file_name": "14403620384211.wav",
+                        "start_time": 20.519,
+                        "legacy_video_id": 2098,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14924,
+                        "video": "58e7cf2946e13dfd851a1c45",
+                        "end_time": 20.519,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7d6",
+                                "sentence": " The video jumps to show the student and the adult sitting on her left.",
+                                "start_time": 0.65,
+                                "end_time": 6.05
+                            },
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7d5",
+                                "sentence": " The calendar is open in front of the student on the table. She is placing an orange sticker onto the calendar.",
+                                "start_time": 6.05,
+                                "end_time": 13.07
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2383",
+                "status": "published",
+                "legacy_video_id": 2098,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c45",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "intervener",
+            "deaf-blind",
+            "calendar systems",
+            "communication"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c45",
+        "description": "",
+        "youtube_id": "yqFxYu15J6E",
+        "views": 0,
+        "created_at": 20150823133055,
+        "title": "Natalie, Robbie and Mimi Select a Date to Make the Necklace",
+        "legacy_video_id": 2098,
+        "updated_at": 20150823133403,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 36
+    }
+}

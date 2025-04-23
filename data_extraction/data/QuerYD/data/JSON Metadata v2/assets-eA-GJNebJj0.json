@@ -1,0 +1,365 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ce97fea39770c52107c62d9",
+                        "video": "5ce8baf7a774ac520ff93e43",
+                        "audio_description": "5ce8baf7a774ac520ff93e42",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "vine",
+                        "playback_type": "inline",
+                        "start_time": 2.3715569999999997,
+                        "end_time": 6.467556999999999,
+                        "duration": 4.096,
+                        "file_name": "eA-GJNebJj0_5ce97fea39770c52107c62d9.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/eA-GJNebJj0",
+                        "created_at": 20190525174826,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380772b595d544c54eb282",
+                                "sentence": " In soft sunlight, a hand caress is young leaves on a vine.",
+                                "start_time": 0.05,
+                                "end_time": 3.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ce98055a774ac520ff93e53",
+                        "video": "5ce8baf7a774ac520ff93e43",
+                        "audio_description": "5ce8baf7a774ac520ff93e42",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "water",
+                        "playback_type": "inline",
+                        "start_time": 11.996939,
+                        "end_time": 14.471605666666665,
+                        "duration": 2.474666666666667,
+                        "file_name": "eA-GJNebJj0_5ce98055a774ac520ff93e53.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/eA-GJNebJj0",
+                        "created_at": 20190525175013,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380771b595d544c54eb258",
+                                "sentence": " Water pours from a rusty outdoor pump.",
+                                "start_time": 0,
+                                "end_time": 2.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ce980b1a774ac520ff93e54",
+                        "video": "5ce8baf7a774ac520ff93e43",
+                        "audio_description": "5ce8baf7a774ac520ff93e42",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "washes",
+                        "playback_type": "inline",
+                        "start_time": 17.268702,
+                        "end_time": 20.938035333333335,
+                        "duration": 3.6693333333333333,
+                        "file_name": "eA-GJNebJj0_5ce980b1a774ac520ff93e54.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/eA-GJNebJj0",
+                        "created_at": 20190525175145,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e38063b3dc38044c4916dde",
+                                "sentence": " Someone washes their hands, droplets flying off and catching the sun.",
+                                "start_time": 0,
+                                "end_time": 3.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ce9815e39770c52107c62db",
+                        "video": "5ce8baf7a774ac520ff93e43",
+                        "audio_description": "5ce8baf7a774ac520ff93e42",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "drones",
+                        "playback_type": "inline",
+                        "start_time": 23.970569,
+                        "end_time": 27.383902333333335,
+                        "duration": 3.4133333333333336,
+                        "file_name": "eA-GJNebJj0_5ce9815e39770c52107c62db.wav",
+                        "file_size_bytes": 655404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/eA-GJNebJj0",
+                        "created_at": 20190525175438,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380773b595d544c54eb2db",
+                                "sentence": " Drones glide above a vineyard, watering the vines.",
+                                "start_time": 0.01,
+                                "end_time": 3.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ce9827939770c52107c62dc",
+                        "video": "5ce8baf7a774ac520ff93e43",
+                        "audio_description": "5ce8baf7a774ac520ff93e42",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "boots",
+                        "playback_type": "inline",
+                        "start_time": 30.344277,
+                        "end_time": 32.648277,
+                        "duration": 2.304,
+                        "file_name": "eA-GJNebJj0_5ce9827939770c52107c62dc.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/eA-GJNebJj0",
+                        "created_at": 20190525175921,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380773b595d544c54eb301",
+                                "sentence": " A figure in tall leather boots.",
+                                "start_time": 0,
+                                "end_time": 2.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ce98287a774ac520ff93e57",
+                        "video": "5ce8baf7a774ac520ff93e43",
+                        "audio_description": "5ce8baf7a774ac520ff93e42",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "stride",
+                        "playback_type": "inline",
+                        "start_time": 33.947481,
+                        "end_time": 35.995481000000005,
+                        "duration": 2.048,
+                        "file_name": "eA-GJNebJj0_5ce98287a774ac520ff93e57.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/eA-GJNebJj0",
+                        "created_at": 20190525175935,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e38063c3dc38044c4916dfc",
+                                "sentence": " They stride slowly between the vines.",
+                                "start_time": 0,
+                                "end_time": 2.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ce982a539770c52107c62dd",
+                        "video": "5ce8baf7a774ac520ff93e43",
+                        "audio_description": "5ce8baf7a774ac520ff93e42",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "crate",
+                        "playback_type": "inline",
+                        "start_time": 39.826666,
+                        "end_time": 43.75199933333334,
+                        "duration": 3.925333333333333,
+                        "file_name": "eA-GJNebJj0_5ce982a539770c52107c62dd.wav",
+                        "file_size_bytes": 753708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/eA-GJNebJj0",
+                        "created_at": 20190525180005,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e38063b3dc38044c4916de8",
+                                "sentence": " A crate of wine bottles labeled chateau. Pick hard in script.",
+                                "start_time": 0.08,
+                                "end_time": 3.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ce982c439770c52107c62de",
+                        "video": "5ce8baf7a774ac520ff93e43",
+                        "audio_description": "5ce8baf7a774ac520ff93e42",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "Jean Luc",
+                        "playback_type": "inline",
+                        "start_time": 50.865042,
+                        "end_time": 57.17970866666667,
+                        "duration": 6.314666666666667,
+                        "file_name": "eA-GJNebJj0_5ce982c439770c52107c62de.wav",
+                        "file_size_bytes": 1212460,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/eA-GJNebJj0",
+                        "created_at": 20190525180036,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e38063b3dc38044c4916de5",
+                                "sentence": " Sean luke picard raises his chin to look at us. His face is soft with age and jowled, but his eyes are piercing.",
+                                "start_time": 0.08,
+                                "end_time": 6.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ce982da39770c52107c62df",
+                        "video": "5ce8baf7a774ac520ff93e43",
+                        "audio_description": "5ce8baf7a774ac520ff93e42",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "title",
+                        "playback_type": "inline",
+                        "start_time": 57.749795,
+                        "end_time": 62.613794999999996,
+                        "duration": 4.864,
+                        "file_name": "eA-GJNebJj0_5ce982da39770c52107c62df.wav",
+                        "file_size_bytes": 933932,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/eA-GJNebJj0",
+                        "created_at": 20190525180058,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e38063c3dc38044c4916e1a",
+                                "sentence": " Deep space words on screen. Star trek the card coming soon.",
+                                "start_time": 0.24,
+                                "end_time": 4.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ce982ec39770c52107c62e0",
+                        "video": "5ce8baf7a774ac520ff93e43",
+                        "audio_description": "5ce8baf7a774ac520ff93e42",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "space",
+                        "playback_type": "inline",
+                        "start_time": 63.75908,
+                        "end_time": 66.66041333333334,
+                        "duration": 2.9013333333333335,
+                        "file_name": "eA-GJNebJj0_5ce982ec39770c52107c62e0.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/eA-GJNebJj0",
+                        "created_at": 20190525180116,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380772b595d544c54eb2ae",
+                                "sentence": " A glowing ring surrounded by space, junk space.",
+                                "start_time": 0,
+                                "end_time": 2.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ce982fea774ac520ff93e58",
+                        "video": "5ce8baf7a774ac520ff93e43",
+                        "audio_description": "5ce8baf7a774ac520ff93e42",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "end",
+                        "playback_type": "inline",
+                        "start_time": 67.211848,
+                        "end_time": 69.34518133333334,
+                        "duration": 2.1333333333333333,
+                        "file_name": "eA-GJNebJj0_5ce982fea774ac520ff93e58.wav",
+                        "file_size_bytes": 409644,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/eA-GJNebJj0",
+                        "created_at": 20190525180134,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380772b595d544c54eb26f",
+                                "sentence": " The end is only the beginning.",
+                                "start_time": 0,
+                                "end_time": 1.9
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ce8baf7a774ac520ff93e42",
+                "video": "5ce8baf7a774ac520ff93e43",
+                "user": {
+                    "opt_in": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "_id": "5be84e71adab15594f5695b8",
+                    "email": "melissa@abroomandaspoon.com",
+                    "name": "Melissa Hope",
+                    "given_name": "Melissa",
+                    "picture": "https://lh3.googleusercontent.com/-NH6cVqfO3mo/AAAAAAAAAAI/AAAAAAAAADM/KtvGqtns5s4/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102733358263403136327",
+                    "last_login": 20210110191137,
+                    "token": "662d89f15386822578295ff1017613bfa533e569f8448b7bdb9fed407ec5baee",
+                    "__v": 0,
+                    "updated_at": 20210110191137,
+                    "policy_review": "reviewed"
+                },
+                "status": "published",
+                "language": "en-ca",
+                "created_at": 20190525034807,
+                "updated_at": 20190529184559,
+                "notes": "[00:00:02:37] In soft sunlight, a hand caresses young leaves on a vine.\n\n[00:00:11:99] Water pours from a rusty outdoor pump.\n\n[00:00:17:26] Someone washes their hands, droplets flying off and catching the sun.\n\n[00:00:23:97] Drones glide above a vineyard, watering the vines.\n\n[00:00:30:34] A figure in tall leather boots.\n\n[00:00:33:94] They stride slowly between the vines.\n\n[00:00:39:82] A crate of wine bottles labelled Chateau Picard in script.\n\n[00:00:50:86] Jean Luc Picard raises his chin to look at us. His face is soft with age and jowled but his eyes are piercing. \n\n[00:00:57:74] Deep space. Words on screen: Star Trek, Picard. Coming soon.\n\n[00:01:03:75] A glowing ring surrounded by space junk: Space.\n\n[00:01:07:21] The end is only the beginning.",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "space",
+            "space channel",
+            "supernatural",
+            "sci-fi",
+            "scifi",
+            "Star Trek Picard",
+            "The Next Generation",
+            "TNG",
+            "Picard",
+            "Star Trek",
+            "Patrick Stewart",
+            "Star Trek Patrick Stewart",
+            "trek",
+            "Star Trek Picard trailer",
+            "Star Trek trailer",
+            "Picard trailer",
+            "Star Trek Patrick Stewart trailer",
+            "Jean-Luc Picard",
+            "Alison Pill",
+            "Michelle Hurd",
+            "Evan Evagora",
+            "Isa Briones",
+            "Santiago Cabrera",
+            "Harry Treadaway",
+            "Sir Patrick Stewart",
+            "Star Trek teaser",
+            "Star Trek Picard teaser",
+            "Picard teaser",
+            "new star trek"
+        ],
+        "custom_tags": [],
+        "_id": "5ce8baf7a774ac520ff93e43",
+        "title": "Star Trek: Picard \u2013 Official Teaser Trailer",
+        "description": "25 years ago today, \u2018All Good Things\u2019 brought us to an end. The end is only the beginning. \n\nStar Trek: Picard is coming soon to Canada on Space. https://www.space.ca/show/star-trek-picard/\n\nSubscribe for more: http://ow.ly/rQCIc  \n\nFor more SPACE follow:\nFacebook: http://www.facebook.com/SpaceChannel\nTwitter: http://twitter.com/SpaceChannel\nInstagram: http://instagram.com/spacechannel \nSnapchat: space.channel \nSpace: http://www.space.ca",
+        "youtube_id": "eA-GJNebJj0",
+        "created_at": 20190525034807,
+        "updated_at": 20190525180134,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 70
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59b86fdcc6c4802622d9c084",
+                        "video": "59b86f18c6c4802622d9c07e",
+                        "audio_description": "59b86f18c6c4802622d9c07d",
+                        "user": "59b86b05c6c4802622d9c071",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 11.145578231292516,
+                        "file_name": "TsujuQbDpI0_59b86fdcc6c4802622d9c084.wav",
+                        "file_size_bytes": 1966124,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/TsujuQbDpI0",
+                        "created_at": 20170912233804,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175ab47b5156f523f99ca1",
+                                "sentence": " A bar graph has shown it visualizes employment rates for disabled and non disabled americans. In 1991 and 2010.",
+                                "start_time": 0.77,
+                                "end_time": 10.01
+                            },
+                            {
+                                "_id": "5e175ab47b5156f523f99ca0",
+                                "sentence": " And.",
+                                "start_time": 10.01,
+                                "end_time": 11.1
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59b86f18c6c4802622d9c07d",
+                "video": "59b86f18c6c4802622d9c07e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59b86b05c6c4802622d9c071",
+                    "email": "albert95014@gmail.com",
+                    "name": "Albert Yang",
+                    "given_name": "Albert",
+                    "picture": "https://lh5.googleusercontent.com/-CQ48DG8oeJw/AAAAAAAAAAI/AAAAAAAAAAA/APJypA0twre3ZxTO4QpFMFnWIJaVgozc6w/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115156344036747385961",
+                    "last_login": 20170912231725,
+                    "token": "a94e5dbd2024d9a0b187b15a743fbf07f273d0bd3ef2f483e63d4b2105d16634",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170912233448,
+                "updated_at": 20170912233613,
+                "notes": "A bar graph is shown. It visualizes employment rates for disabled and non-disalbed Americans in 1991 and 2010.",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59b86f18c6c4802622d9c07e",
+        "title": "employment movie",
+        "description": "",
+        "youtube_id": "TsujuQbDpI0",
+        "created_at": 20170912233448,
+        "updated_at": 20170912233804,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

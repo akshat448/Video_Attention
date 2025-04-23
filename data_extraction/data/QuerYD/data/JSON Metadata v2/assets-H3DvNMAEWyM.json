@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cbf",
+                        "audio_description": "58e7cf3746e13dfd851a26a5",
+                        "created_at": 20160929083531,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929083531,
+                        "file_name": "14751633316211.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2736,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24460,
+                        "video": "58e7cf2946e13dfd851a1ec3",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45ba8398b0c327b1e12902",
+                                "sentence": " A young woman",
+                                "start_time": 0.54,
+                                "end_time": 2.13
+                            },
+                            {
+                                "_id": "5e45ba8398b0c327b1e12901",
+                                "sentence": " sits on a couch with her s s p",
+                                "start_time": 2.13,
+                                "end_time": 5.64
+                            },
+                            {
+                                "_id": "5e45ba8398b0c327b1e12900",
+                                "sentence": " and describes Pro tactile sign language.",
+                                "start_time": 5.8,
+                                "end_time": 9.94
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a26a5",
+                "status": "published",
+                "legacy_video_id": 2736,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1ec3",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ec3",
+        "description": "",
+        "youtube_id": "H3DvNMAEWyM",
+        "views": 0,
+        "created_at": 20160929083441,
+        "title": "Touch for Increasing Context: Pro-Tactile Signing with Corrina",
+        "legacy_video_id": 2736,
+        "updated_at": 20160929083531,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 17
+    }
+}

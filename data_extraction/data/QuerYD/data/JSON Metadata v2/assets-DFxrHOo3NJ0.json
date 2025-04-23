@@ -1,0 +1,83 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fda5d6c69f2192f639017fe",
+                        "video": "5fd16807a1480d63858c67ee",
+                        "audio_description": "5fd16807a1480d63858c67ed",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 30.346254,
+                        "end_time": 34.43296601814059,
+                        "duration": 4.08671201814059,
+                        "file_name": "DFxrHOo3NJ0_5fda5d6c69f2192f639017fe.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/DFxrHOo3NJ0",
+                        "created_at": 20201216191804,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5fda5ddece0a842f6990b284",
+                        "video": "5fd16807a1480d63858c67ee",
+                        "audio_description": "5fd16807a1480d63858c67ed",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 21.083482,
+                        "end_time": 21.083482,
+                        "duration": 6.594467120181406,
+                        "file_name": "DFxrHOo3NJ0_5fda5ddece0a842f6990b284.wav",
+                        "file_size_bytes": 1163308,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/DFxrHOo3NJ0",
+                        "created_at": 20201216191958,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fd16807a1480d63858c67ed",
+                "video": "5fd16807a1480d63858c67ee",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5fc6b5fb95521063835ce383",
+                    "email": "ecastillojenn@gmail.com",
+                    "name": "Jennifer Castillo",
+                    "given_name": "Jennifer",
+                    "picture": "https://lh4.googleusercontent.com/-5bpnry8pqfg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckH9ncyvBYAW2kOTFQ5bs4EeopJOg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115887003623205163006",
+                    "last_login": 20201221205124,
+                    "token": "1114491ec716f0171a30639c483ee718d98ebe8e044084b7b6bf4e03ccbb3772",
+                    "__v": 0,
+                    "updated_at": 20201221205124
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201210001255,
+                "updated_at": 20201210001255,
+                "notes": "",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fd16807a1480d63858c67ee",
+        "title": "West Feeding Dive",
+        "description": "Ever wonder what it's like to feed the fish at the California Science Center? Let's go diving with Aquarist Crystal to see what it\u2019s like!",
+        "youtube_id": "DFxrHOo3NJ0",
+        "created_at": 20201210001255,
+        "updated_at": 20201216191958,
+        "views": 0,
+        "__v": 0
+    }
+}

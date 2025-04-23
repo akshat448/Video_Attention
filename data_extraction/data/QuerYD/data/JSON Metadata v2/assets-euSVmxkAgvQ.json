@@ -1,0 +1,736 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf9046e13dfd851a682f",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201185223,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201185223,
+                        "file_name": "14806471433471.wav",
+                        "start_time": 1.616,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29433,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 11.336,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.72,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c1207aba721b5c672b",
+                                "sentence": " Phineas is looking at a house,",
+                                "start_time": 0.38,
+                                "end_time": 2.6
+                            },
+                            {
+                                "_id": "5e4ad2c1207aba721b5c672a",
+                                "sentence": " a truck on the street behind him pulls away, and he turns to see isabella sitting across the street on the steps to his house.",
+                                "start_time": 2.6,
+                                "end_time": 9.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6830",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201185643,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201185643,
+                        "file_name": "14806474037721.wav",
+                        "start_time": 11.807,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29434,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 11.807,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4acfc9bb48a54eda1a8605",
+                                "sentence": " They look at each other for a couple of seconds. Then phineas walks over to her.",
+                                "start_time": 0.22,
+                                "end_time": 4.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6831",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201185946,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201185946,
+                        "file_name": "14806475869841.wav",
+                        "start_time": 15.039,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29435,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 16.829,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f6d",
+                                "sentence": " She smiles.",
+                                "start_time": 0.4,
+                                "end_time": 1.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6832",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201190004,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201190004,
+                        "file_name": "14806476042881.wav",
+                        "start_time": 19.158,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29436,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 19.158,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad8b7ae24dc721d9530ee",
+                                "sentence": " She gestures for him to sit down.",
+                                "start_time": 0.17,
+                                "end_time": 2.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6833",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201190204,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201190204,
+                        "file_name": "14806477241561.wav",
+                        "start_time": 32.178,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29437,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 34.227999999999994,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad8b8ae24dc721d953129",
+                                "sentence": " They look away from each other.",
+                                "start_time": 0.24,
+                                "end_time": 2.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6834",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201190256,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201190256,
+                        "file_name": "14806477766461.wav",
+                        "start_time": 56.968,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29438,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 60.038000000000004,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c2207aba721b5c679c",
+                                "sentence": " She looks up. And then they look at each other.",
+                                "start_time": 0.08,
+                                "end_time": 2.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6835",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201190739,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201190739,
+                        "file_name": "14806480591711.wav",
+                        "start_time": 71.137,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29439,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 71.137,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c2207aba721b5c6781",
+                                "sentence": " Phineas pulls out two envelopes.",
+                                "start_time": 0.4,
+                                "end_time": 3.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6836",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201190830,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201190830,
+                        "file_name": "14806481102231.wav",
+                        "start_time": 74.342,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29440,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 74.342,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f2c",
+                                "sentence": " He hands her one of them.",
+                                "start_time": 0.11,
+                                "end_time": 1.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6837",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201190904,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201190904,
+                        "file_name": "14806481442931.wav",
+                        "start_time": 88.293,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29442,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 88.293,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c2207aba721b5c676d",
+                                "sentence": " The camera zooms out and we see all the neighbors clapping for them.",
+                                "start_time": 0.28,
+                                "end_time": 4.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6838",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201191010,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201191010,
+                        "file_name": "14806482104791.wav",
+                        "start_time": 120.859,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29444,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 123.15899999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c2207aba721b5c6773",
+                                "sentence": " Isabella drives off.",
+                                "start_time": 0.06,
+                                "end_time": 1.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6839",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201191321,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201191321,
+                        "file_name": "14806484011051.wav",
+                        "start_time": 126.127,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29448,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 126.127,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c2207aba721b5c6783",
+                                "sentence": " Verb comes up to phineas and touches his shoulder.",
+                                "start_time": 0.41,
+                                "end_time": 3.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a683a",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201191455,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201191455,
+                        "file_name": "14806484950021.wav",
+                        "start_time": 131.346,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29449,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 131.346,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4acfc8bb48a54eda1a85ca",
+                                "sentence": " For girlfriend pulls up and they kiss as he gets into the car.",
+                                "start_time": 0.5,
+                                "end_time": 4.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a683b",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201191638,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201191638,
+                        "file_name": "14806485989391.wav",
+                        "start_time": 143.217,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29453,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 143.217,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae1516af2cf721c1d3f1b",
+                                "sentence": " Isabel, as car pulls up to a stoplight,",
+                                "start_time": 0.13,
+                                "end_time": 2.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a683c",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201192157,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201192157,
+                        "file_name": "14806489172421.wav",
+                        "start_time": 148.455,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29454,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 148.455,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c2207aba721b5c67aa",
+                                "sentence": " Ferb's girlfriend's car pulls up next to isabella's as phineas is jumping out. Phineas runs to isabella's car window.",
+                                "start_time": 0.13,
+                                "end_time": 7.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a683d",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201192222,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201192222,
+                        "file_name": "14806489422701.wav",
+                        "start_time": 155.824,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29455,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 158.12400000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad8b8ae24dc721d953171",
+                                "sentence": " Phineas kisses isabella.",
+                                "start_time": 0.2,
+                                "end_time": 2.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a683e",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201192410,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201192410,
+                        "file_name": "14806490509591.wav",
+                        "start_time": 159.075,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29457,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 159.075,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c1207aba721b5c6734",
+                                "sentence": " Camera turns to for band his girlfriend in her car.",
+                                "start_time": 0.27,
+                                "end_time": 3.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a683f",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201192428,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201192428,
+                        "file_name": "14806490687001.wav",
+                        "start_time": 167.47,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29458,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 167.47,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c2207aba721b5c6780",
+                                "sentence": " For been his girlfriend drive off.",
+                                "start_time": 0.01,
+                                "end_time": 2.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6840",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201192614,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201192614,
+                        "file_name": "14806491743391.wav",
+                        "start_time": 173.577,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29460,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 173.577,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae109207aba721b5c67c9",
+                                "sentence": " Phineas and isabella kiss one more time. Then the scene shifts to real life with the two creators of the show sitting in a room.",
+                                "start_time": 0.34,
+                                "end_time": 7.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6841",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201192650,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201192650,
+                        "file_name": "14806492101861.wav",
+                        "start_time": 199.155,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29461,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 199.155,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ac7fb849dea37cce15321",
+                                "sentence": " The second creator walks off as the first one continues to cry in his chair.",
+                                "start_time": 0.21,
+                                "end_time": 5.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6842",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201193243,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201193243,
+                        "file_name": "14806495630171.wav",
+                        "start_time": 90.198,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29462,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 90.198,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad8b8ae24dc721d95317d",
+                                "sentence": " One of the neighbours says,",
+                                "start_time": 0.27,
+                                "end_time": 1.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6843",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201193304,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201193304,
+                        "file_name": "14806495842871.wav",
+                        "start_time": 93.697,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29463,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 93.697,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c1207aba721b5c6735",
+                                "sentence": " Ron ginny says to phineas, as he shakes his hand,",
+                                "start_time": 0.07,
+                                "end_time": 3.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6844",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201193329,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201193329,
+                        "file_name": "14806496093481.wav",
+                        "start_time": 96.314,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29464,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 96.314,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c2207aba721b5c6761",
+                                "sentence": " Asked be offered.",
+                                "start_time": 0,
+                                "end_time": 1.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6845",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201193702,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201193702,
+                        "file_name": "14806498227801.wav",
+                        "start_time": 102.889,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29465,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 111.06899999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae10a207aba721b5c681f",
+                                "sentence": " Phineas and isabella hug.",
+                                "start_time": 0.21,
+                                "end_time": 2.01
+                            },
+                            {
+                                "_id": "5e4ae10a207aba721b5c681e",
+                                "sentence": " They look at each other and blush and hold hands as isabella walks to her car. That's all packed up for college.",
+                                "start_time": 2.01,
+                                "end_time": 7.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6846",
+                        "audio_description": "58e7cf3b46e13dfd851a280a",
+                        "created_at": 20161201194533,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201194533,
+                        "file_name": "14806503331401.wav",
+                        "start_time": 79.914,
+                        "legacy_video_id": 3010,
+                        "legacy_user_id": 3477,
+                        "label": "",
+                        "legacy_audio_clip_id": 29466,
+                        "video": "58e7cf2946e13dfd851a1fd4",
+                        "end_time": 81.194,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2809",
+                        "transcript": [
+                            {
+                                "_id": "5e4acdba8085404ed8f9e390",
+                                "sentence": " They smile.",
+                                "start_time": 0,
+                                "end_time": 1.02
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3b46e13dfd851a280a",
+                "status": "published",
+                "legacy_video_id": 3010,
+                "legacy_user_id": 3477,
+                "video": "58e7cf2946e13dfd851a1fd4",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3b46e13dfd851a2809",
+                    "name": "leahshalva",
+                    "google_user_id_token": "",
+                    "created_at": 20161130083714,
+                    "updated_at": 20161201180449,
+                    "legacy_user_id": 3477,
+                    "last_login": 0,
+                    "email": "leah.fogel@vanderbilt.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1fd4",
+        "description": "",
+        "youtube_id": "euSVmxkAgvQ",
+        "views": 0,
+        "created_at": 20161201184722,
+        "title": "Phineas and Ferb Act Your Age - Confession + Ending",
+        "legacy_video_id": 3010,
+        "updated_at": 20161201194851,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 202
+    }
+}

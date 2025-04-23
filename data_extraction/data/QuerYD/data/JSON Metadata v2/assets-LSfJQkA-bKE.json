@@ -1,0 +1,138 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c51424b0071d10d85749599",
+                        "video": "5c513ee80071d10d85749596",
+                        "audio_description": "5c513ee80071d10d85749595",
+                        "user": "5c510ab1f0d93b533389a1cf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 78.42133333333334,
+                        "duration": 78.42133333333334,
+                        "file_name": "LSfJQkA-bKE_5c51424b0071d10d85749599.wav",
+                        "file_size_bytes": 15056940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LSfJQkA-bKE",
+                        "created_at": 20190130062059,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfdd",
+                                "sentence": " First start with two pieces of boneless, skinless chicken breast.",
+                                "start_time": 3.57,
+                                "end_time": 8.04
+                            },
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfdc",
+                                "sentence": " Then add 1/2 cup of mores, raspberry vinaigrette, and mix it in both the pieces.",
+                                "start_time": 8.04,
+                                "end_time": 13.59
+                            },
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfdb",
+                                "sentence": " After that, grill both sides of both the pieces until they are appropriately cooked.",
+                                "start_time": 17.31,
+                                "end_time": 22.61
+                            },
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfda",
+                                "sentence": " When this is finished, bake it at 400 degrees fahrenheit and 204 degrees celsius for 10 minutes.",
+                                "start_time": 28.02,
+                                "end_time": 34.79
+                            },
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfd9",
+                                "sentence": " Immediately after a chop of both pieces into tiny cubes.",
+                                "start_time": 34.81,
+                                "end_time": 39.44
+                            },
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfd8",
+                                "sentence": " When this is done, add in two diced apples, a half cup of raspberries, a half cup of toasted sliced almonds, three tablespoons of minced parsley, and another 1/4 cup of the vinaigrette.",
+                                "start_time": 42.16,
+                                "end_time": 54.55
+                            },
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfd7",
+                                "sentence": " Then mix the bowl",
+                                "start_time": 56.11,
+                                "end_time": 57.75
+                            },
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfd6",
+                                "sentence": " after mixing, add",
+                                "start_time": 59.32,
+                                "end_time": 61.43
+                            },
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfd5",
+                                "sentence": " a half cup of crumbled goat cheese,",
+                                "start_time": 61.7,
+                                "end_time": 65.03
+                            },
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfd4",
+                                "sentence": " then play small spoons of the mixture in lettuce. Sprinkle almonds and goat cheese on Top, and then serve on a platter.",
+                                "start_time": 65.91,
+                                "end_time": 73.9
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c513ee80071d10d85749595",
+                "video": "5c513ee80071d10d85749596",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c510ab1f0d93b533389a1cf",
+                    "email": "mrudhula.nit@gmail.com",
+                    "name": "Mrudhula Nithiyakumar",
+                    "given_name": "Mrudhula",
+                    "picture": "https://lh4.googleusercontent.com/-AoP3pWLp3d8/AAAAAAAAAAI/AAAAAAAAC-Q/rSwxIQWTjbw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116074772638083513469",
+                    "last_login": 20190130022345,
+                    "token": "35851d4dd4000fd06b48e3e28f4dc1222e800ad1c1213853bca71b68dacba5b5",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190130060632,
+                "updated_at": 20190130060632,
+                "notes": " ",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "BuzzFeed",
+            "BuzzFeedTasty",
+            "healthy recipes tasty",
+            "chicken salad wrap",
+            "easy lunch ideas",
+            "marie's dressing"
+        ],
+        "custom_tags": [],
+        "_id": "5c513ee80071d10d85749596",
+        "title": "Apple Berry Chicken Salad Wraps // Presented by Marie's Dressing",
+        "description": "Handheld salad?! These wraps have all the flavor of a bountiful salad with Marie's Raspberry Vinaigrette in a bite-sized package!",
+        "youtube_id": "LSfJQkA-bKE",
+        "created_at": 20190130060632,
+        "updated_at": 20190130062059,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Howto & Style",
+        "category_id": "26",
+        "duration": 82
+    }
+}

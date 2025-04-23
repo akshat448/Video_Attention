@@ -1,0 +1,125 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6546e13dfd851a4ad1",
+                        "audio_description": "58e7cf3246e13dfd851a249a",
+                        "created_at": 20151031005300,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151031005300,
+                        "file_name": "14462779808531.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2262,
+                        "legacy_user_id": 2860,
+                        "label": "",
+                        "legacy_audio_clip_id": 16829,
+                        "video": "58e7cf2946e13dfd851a1ce9",
+                        "end_time": 6.14,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a2498",
+                        "transcript": [
+                            {
+                                "_id": "5e3d4dabe861a180ef5d1eb3",
+                                "sentence": " President obama walks on greeting the speaker that's already at the podium.",
+                                "start_time": 0.04,
+                                "end_time": 5.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6646e13dfd851a4b96",
+                        "audio_description": "58e7cf3246e13dfd851a249a",
+                        "created_at": 20151101081143,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101081143,
+                        "file_name": "14463943032351.wav",
+                        "start_time": 18.197,
+                        "legacy_video_id": 2262,
+                        "legacy_user_id": 2860,
+                        "label": "",
+                        "legacy_audio_clip_id": 17217,
+                        "video": "58e7cf2946e13dfd851a1ce9",
+                        "end_time": 22.037,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a2498",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb688b9b7153a905c3dd3",
+                                "sentence": " He starts to clap.",
+                                "start_time": 0.76,
+                                "end_time": 2.76
+                            },
+                            {
+                                "_id": "5e3eb688b9b7153a905c3dd2",
+                                "sentence": " Yeah.",
+                                "start_time": 2.76,
+                                "end_time": 3.8
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3246e13dfd851a249a",
+                "status": "published",
+                "legacy_video_id": 2262,
+                "legacy_user_id": 2860,
+                "video": "58e7cf2946e13dfd851a1ce9",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3246e13dfd851a2498",
+                    "name": "Moniquei",
+                    "google_user_id_token": "",
+                    "created_at": 20151029073401,
+                    "updated_at": 20151210112816,
+                    "legacy_user_id": 2860,
+                    "last_login": 0,
+                    "email": "moniquelxxl@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Obama Addresses Townhall",
+            "Obama's townhall speech",
+            "Barack Obama's India Visit",
+            "Barack Obama",
+            "US President",
+            "Narendra Modi",
+            "Obama in India",
+            "Obama India Visit 2015",
+            "Siri Fort Auditorium",
+            "NDTV 24x7"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ce9",
+        "description": "",
+        "youtube_id": "2FsdWG_RlvA",
+        "views": 0,
+        "created_at": 20151030161849,
+        "title": "US President Barack Obama's full speech at a Delhi townhall",
+        "legacy_video_id": 2262,
+        "updated_at": 20151101081443,
+        "youtube_status": "available",
+        "category": "News & Politics",
+        "category_id": "25",
+        "duration": 2039
+    }
+}

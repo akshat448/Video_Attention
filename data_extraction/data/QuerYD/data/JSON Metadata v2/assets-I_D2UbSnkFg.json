@@ -1,0 +1,94 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cca",
+                        "audio_description": "58e7cf3746e13dfd851a26ae",
+                        "created_at": 20160929095432,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929095432,
+                        "file_name": "14751680721101.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2745,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24471,
+                        "video": "58e7cf2946e13dfd851a1ecc",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 21.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45b74798b0c327b1e126a0",
+                                "sentence": " A young boy with dark skin and dark hair sits in a supportive wheelchair",
+                                "start_time": 0.44,
+                                "end_time": 7.36
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e1269f",
+                                "sentence": " with a woman with light skin and curly blond hair sitting in front of him.",
+                                "start_time": 7.36,
+                                "end_time": 13.81
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e1269e",
+                                "sentence": " The woman shakes a necklace with a gold pendant on it in front of the boy.",
+                                "start_time": 14.06,
+                                "end_time": 20.76
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a26ae",
+                "status": "published",
+                "legacy_video_id": 2745,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1ecc",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "YouTube Editor"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ecc",
+        "description": "",
+        "youtube_id": "I_D2UbSnkFg",
+        "views": 0,
+        "created_at": 20160929095330,
+        "title": "Reciprocal Actions (TOUCH22) No audio",
+        "legacy_video_id": 2745,
+        "updated_at": 20160929095432,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 82
+    }
+}

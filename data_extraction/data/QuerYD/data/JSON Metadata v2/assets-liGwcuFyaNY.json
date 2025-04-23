@@ -1,0 +1,887 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bc81241a66f5a4b1625ce38",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 7.621475057220459,
+                        "end_time": 11.70818707536105,
+                        "duration": 4.08671201814059,
+                        "file_name": "liGwcuFyaNY_5bc81241a66f5a4b1625ce38.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018045529,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fc074eb41e8f84c199",
+                                "sentence": " We asked the coffee expert to guess, which is more expensive? Air b.",
+                                "start_time": 0.26,
+                                "end_time": 4.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8124ee16e6108007b13d9",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 11.785696,
+                        "end_time": 11.785696,
+                        "duration": 2.507755102040816,
+                        "file_name": "liGwcuFyaNY_5bc8124ee16e6108007b13d9.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018045542,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1cf",
+                                "sentence": " Epicurus price points coffee.",
+                                "start_time": 0.08,
+                                "end_time": 2.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc818e3e16e6108007b13dd",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 92.20629203623962,
+                        "end_time": 97.96484078907409,
+                        "duration": 5.758548752834467,
+                        "file_name": "liGwcuFyaNY_5bc818e3e16e6108007b13dd.wav",
+                        "file_size_bytes": 1015852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018052347,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c909137a8cb729a4b347",
+                                "sentence": " He puts the beans through an electric coffee grinder and pause the powders in hot water through their filters. He then pours out the coffee.",
+                                "start_time": 0,
+                                "end_time": 5.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc81ad4a66f5a4b1625ce41",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 143.24003303814698,
+                        "end_time": 143.24003303814698,
+                        "duration": 2.972154195011338,
+                        "file_name": "liGwcuFyaNY_5bc81ad4a66f5a4b1625ce41.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018053204,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c909137a8cb729a4b374",
+                                "sentence": " He picks up copy containing the lighter brown coffee.",
+                                "start_time": 0.07,
+                                "end_time": 2.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8217ca66f5a4b1625ce4c",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 198.87838708964537,
+                        "end_time": 201.75766146606261,
+                        "duration": 2.8792743764172335,
+                        "file_name": "liGwcuFyaNY_5bc8217ca66f5a4b1625ce4c.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018060028,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e0b81b2f1c5a36aeb5",
+                                "sentence": " Coffee b is more expensive by $9 per pound.",
+                                "start_time": 0.09,
+                                "end_time": 2.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc822d7e16e6108007b13f2",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 243.56965290081786,
+                        "end_time": 243.56965290081786,
+                        "duration": 13.096054421768708,
+                        "file_name": "liGwcuFyaNY_5bc822d7e16e6108007b13f2.wav",
+                        "file_size_bytes": 2310188,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018060615,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c909137a8cb729a4b2fd",
+                                "sentence": " To summarize what we know about roast,",
+                                "start_time": 0,
+                                "end_time": 2.27
+                            },
+                            {
+                                "_id": "5e16c909137a8cb729a4b2fc",
+                                "sentence": " a darker rose can mask coffees imperfections, but it does not necessarily indicate a lower quality coffee.",
+                                "start_time": 2.27,
+                                "end_time": 7.96
+                            },
+                            {
+                                "_id": "5e16c909137a8cb729a4b2fb",
+                                "sentence": " On the other hand, a lighter roast allows you to taste the origin character of a coffee.",
+                                "start_time": 8.03,
+                                "end_time": 12.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8239ba66f5a4b1625ce4f",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 245.02516193896486,
+                        "end_time": 247.62579685959977,
+                        "duration": 2.6006349206349206,
+                        "file_name": "liGwcuFyaNY_5bc8239ba66f5a4b1625ce4f.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018060931,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fc074eb41e8f84c190",
+                                "sentence": " Now, the processing of a coffee is compared.",
+                                "start_time": 0,
+                                "end_time": 2.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8245fe16e6108007b13f4",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 283.68114094277956,
+                        "end_time": 283.68114094277956,
+                        "duration": 2.6006349206349206,
+                        "file_name": "liGwcuFyaNY_5bc8245fe16e6108007b13f4.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018061247,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c909137a8cb729a4b2d5",
+                                "sentence": " He points the b coffee than the a cough.",
+                                "start_time": 0,
+                                "end_time": 2.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc825c3e16e6108007b13f5",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 288.36895504005435,
+                        "end_time": 290.59807068631284,
+                        "duration": 2.2291156462585033,
+                        "file_name": "liGwcuFyaNY_5bc825c3e16e6108007b13f5.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018061843,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fc074eb41e8f84c17e",
+                                "sentence": " He re starts the coffee making process.",
+                                "start_time": 0.11,
+                                "end_time": 2.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8260ae16e6108007b13f6",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 294.8333969446869,
+                        "end_time": 296.4123538607867,
+                        "duration": 1.5789569160997732,
+                        "file_name": "liGwcuFyaNY_5bc8260ae16e6108007b13f6.wav",
+                        "file_size_bytes": 278572,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018061954,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c98d450596b72a6a7dcc",
+                                "sentence": " He slipped the a coffee.",
+                                "start_time": 0,
+                                "end_time": 1.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8265da66f5a4b1625ce51",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 314.12087401716616,
+                        "end_time": 315.5140712960777,
+                        "duration": 1.3931972789115645,
+                        "file_name": "liGwcuFyaNY_5bc8265da66f5a4b1625ce51.wav",
+                        "file_size_bytes": 245804,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018062117,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c908137a8cb729a4b2aa",
+                                "sentence": " He tries to be coffee.",
+                                "start_time": 0,
+                                "end_time": 1.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc826a4a66f5a4b1625ce52",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 325.717572,
+                        "end_time": 325.717572,
+                        "duration": 2.3219954648526078,
+                        "file_name": "liGwcuFyaNY_5bc826a4a66f5a4b1625ce52.wav",
+                        "file_size_bytes": 409644,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018062228,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c7738d1b6b9aa0fea5e2",
+                                "sentence": " He points to the a coffee again.",
+                                "start_time": 0.13,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc82749e16e6108007b13f7",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 334.552236,
+                        "end_time": 339.1033471111111,
+                        "duration": 4.551111111111111,
+                        "file_name": "liGwcuFyaNY_5bc82749e16e6108007b13f7.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018062513,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f1f6a501d71c572ca02d",
+                                "sentence": " Coffee a is $8 per pound. And coffee b is $34 per pound.",
+                                "start_time": 0.16,
+                                "end_time": 4.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8293fa66f5a4b1625ce53",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 374.5675658950958,
+                        "end_time": 374.5675658950958,
+                        "duration": 15.232290249433106,
+                        "file_name": "liGwcuFyaNY_5bc8293fa66f5a4b1625ce53.wav",
+                        "file_size_bytes": 2687020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018063335,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c909137a8cb729a4b2d4",
+                                "sentence": " For processing what to look for.",
+                                "start_time": 0.07,
+                                "end_time": 2.72
+                            },
+                            {
+                                "_id": "5e16c909137a8cb729a4b2d3",
+                                "sentence": " Well Process beans are unbroken, ripe and typically uniform in size.",
+                                "start_time": 2.72,
+                                "end_time": 6.38
+                            },
+                            {
+                                "_id": "5e16c909137a8cb729a4b2d2",
+                                "sentence": " Specialty coffees typically employ more careful in patient processing practices.",
+                                "start_time": 6.38,
+                                "end_time": 11.03
+                            },
+                            {
+                                "_id": "5e16c909137a8cb729a4b2d1",
+                                "sentence": " Sand. In general, commercial coffees are more focused on volume rather than quantity.",
+                                "start_time": 11.07,
+                                "end_time": 15.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8299ee16e6108007b13f8",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 77.602644,
+                        "end_time": 77.602644,
+                        "duration": 3.436553287981859,
+                        "file_name": "liGwcuFyaNY_5bc8299ee16e6108007b13f8.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018063510,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c7738d1b6b9aa0fea5ab",
+                                "sentence": " He makes the point that thoroughly soak the filters with hot water.",
+                                "start_time": 0.4,
+                                "end_time": 3.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc82b66e16e6108007b13fa",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 375.806564038147,
+                        "end_time": 378.12855950299956,
+                        "duration": 2.3219954648526078,
+                        "file_name": "liGwcuFyaNY_5bc82b66e16e6108007b13fa.wav",
+                        "file_size_bytes": 409644,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018064246,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f1f7a501d71c572ca060",
+                                "sentence": " Next, the freshness of the beans is compare.",
+                                "start_time": 0.1,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc82bbca66f5a4b1625ce54",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 414.195475,
+                        "end_time": 415.7744319160998,
+                        "duration": 1.5789569160997732,
+                        "file_name": "liGwcuFyaNY_5bc82bbca66f5a4b1625ce54.wav",
+                        "file_size_bytes": 278572,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018064412,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c98d450596b72a6a7dcb",
+                                "sentence": " He makes the coffee again.",
+                                "start_time": 0.13,
+                                "end_time": 1.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc82bfce16e6108007b13fb",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 424.5729219256134,
+                        "end_time": 424.5729219256134,
+                        "duration": 3.0650340136054424,
+                        "file_name": "liGwcuFyaNY_5bc82bfce16e6108007b13fb.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018064516,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1b3",
+                                "sentence": " By off gassing. He means that bubbles form.",
+                                "start_time": 0.44,
+                                "end_time": 3.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc82c60a66f5a4b1625ce55",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 448.76724912397765,
+                        "end_time": 448.76724912397765,
+                        "duration": 2.136235827664399,
+                        "file_name": "liGwcuFyaNY_5bc82c60a66f5a4b1625ce55.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018064656,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f1f6a501d71c572ca056",
+                                "sentence": " Coffee. B is the steel and rose.",
+                                "start_time": 0.36,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc82cdfa66f5a4b1625ce56",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 515.1223690152586,
+                        "end_time": 515.1223690152586,
+                        "duration": 1.3931972789115645,
+                        "file_name": "liGwcuFyaNY_5bc82cdfa66f5a4b1625ce56.wav",
+                        "file_size_bytes": 245804,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018064903,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fc074eb41e8f84c18f",
+                                "sentence": " He tries coffee.",
+                                "start_time": 0.06,
+                                "end_time": 1.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc82d81e16e6108007b13fc",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 579.9952530038147,
+                        "end_time": 584.0819650219553,
+                        "duration": 4.08671201814059,
+                        "file_name": "liGwcuFyaNY_5bc82d81e16e6108007b13fc.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018065145,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fc074eb41e8f84c177",
+                                "sentence": " Coffee is $28 per pound. And coffee b is $10 per.",
+                                "start_time": 0.42,
+                                "end_time": 4.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc82e6fa66f5a4b1625ce57",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 629.787124,
+                        "end_time": 629.787124,
+                        "duration": 12.167256235827665,
+                        "file_name": "liGwcuFyaNY_5bc82e6fa66f5a4b1625ce57.wav",
+                        "file_size_bytes": 2146348,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018065543,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f3582620ea1c5831fef4",
+                                "sentence": " For freshness of a coffee,",
+                                "start_time": 0.09,
+                                "end_time": 1.82
+                            },
+                            {
+                                "_id": "5e15f3582620ea1c5831fef3",
+                                "sentence": " look for a roasted on date rather than a best by date. Purchase coffee that is no longer than three weeks passed this row state.",
+                                "start_time": 1.82,
+                                "end_time": 8.33
+                            },
+                            {
+                                "_id": "5e15f3582620ea1c5831fef2",
+                                "sentence": " And bestbuy days give little Information about the actual quality of the coffee.",
+                                "start_time": 8.33,
+                                "end_time": 12.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc82f65a66f5a4b1625ce59",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 631.6475059198914,
+                        "end_time": 633.5979821103675,
+                        "duration": 1.9504761904761905,
+                        "file_name": "liGwcuFyaNY_5bc82f65a66f5a4b1625ce59.wav",
+                        "file_size_bytes": 344108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018065949,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c909137a8cb729a4b34e",
+                                "sentence": " Varieties of coffee or compare neck.",
+                                "start_time": 0,
+                                "end_time": 1.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc83010e16e6108007b13fe",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 760.2357668970031,
+                        "end_time": 760.2357668970031,
+                        "duration": 1.3931972789115645,
+                        "file_name": "liGwcuFyaNY_5bc83010e16e6108007b13fe.wav",
+                        "file_size_bytes": 245804,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018070240,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c7738d1b6b9aa0fea5d8",
+                                "sentence": " He pointed coffee.",
+                                "start_time": 0.1,
+                                "end_time": 1.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc83077e16e6108007b13ff",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 793.849456,
+                        "end_time": 798.4934469297052,
+                        "duration": 4.6439909297052155,
+                        "file_name": "liGwcuFyaNY_5bc83077e16e6108007b13ff.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018070423,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f1f6a501d71c572ca036",
+                                "sentence": " Cup a is $86 per pound, and cubby is $30 for power.",
+                                "start_time": 0.34,
+                                "end_time": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc830e6a66f5a4b1625ce5a",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 845.789445,
+                        "end_time": 845.789445,
+                        "duration": 9.102222222222222,
+                        "file_name": "liGwcuFyaNY_5bc830e6a66f5a4b1625ce5a.wav",
+                        "file_size_bytes": 1605676,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018070614,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c7738d1b6b9aa0fea5a1",
+                                "sentence": " For varietals, we know that coffee beans come in many different varieties, just like apples or grapes. And also",
+                                "start_time": 0.23,
+                                "end_time": 5.95
+                            },
+                            {
+                                "_id": "5e16c7738d1b6b9aa0fea5a0",
+                                "sentence": " different geographical origins will produce different varieties.",
+                                "start_time": 5.95,
+                                "end_time": 9.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc83108a66f5a4b1625ce5b",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 849.565779,
+                        "end_time": 851.7948946462585,
+                        "duration": 2.2291156462585033,
+                        "file_name": "liGwcuFyaNY_5bc83108a66f5a4b1625ce5b.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018070648,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fc074eb41e8f84c192",
+                                "sentence": " Next, the source of the coffee is compared.",
+                                "start_time": 0.13,
+                                "end_time": 2.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc831b6a66f5a4b1625ce5c",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 959.2912049217987,
+                        "end_time": 963.0992774841569,
+                        "duration": 3.8080725623582765,
+                        "file_name": "liGwcuFyaNY_5bc831b6a66f5a4b1625ce5c.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018070942,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c7738d1b6b9aa0fea5ac",
+                                "sentence": " Coffee is $36 per pound. And coffee b is $28 for.",
+                                "start_time": 0.07,
+                                "end_time": 3.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc832f7a66f5a4b1625ce5d",
+                        "video": "5bc811ede16e6108007b13d8",
+                        "audio_description": "5bc811ede16e6108007b13d7",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 1015.141004,
+                        "end_time": 1015.141004,
+                        "duration": 18.483083900226756,
+                        "file_name": "liGwcuFyaNY_5bc832f7a66f5a4b1625ce5d.wav",
+                        "file_size_bytes": 3260460,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/liGwcuFyaNY",
+                        "created_at": 20181018071503,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fc074eb41e8f84c130",
+                                "sentence": " For source. If you can trace a coffee to its source,",
+                                "start_time": 0.27,
+                                "end_time": 2.88
+                            },
+                            {
+                                "_id": "5e1619fc074eb41e8f84c12f",
+                                "sentence": " you are more likely to be supporting sustainable high quality producers,",
+                                "start_time": 2.88,
+                                "end_time": 6.36
+                            },
+                            {
+                                "_id": "5e1619fc074eb41e8f84c12e",
+                                "sentence": " regional blends",
+                                "start_time": 6.36,
+                                "end_time": 7.64
+                            },
+                            {
+                                "_id": "5e1619fc074eb41e8f84c12d",
+                                "sentence": " or single source coffees, are often delicious traceable copies.",
+                                "start_time": 7.64,
+                                "end_time": 11.42
+                            },
+                            {
+                                "_id": "5e1619fc074eb41e8f84c12c",
+                                "sentence": " But Micro lot coffees from a single farm provide even more distinctive taste experience with the highest level of traceability.",
+                                "start_time": 11.72,
+                                "end_time": 18.26
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bc811ede16e6108007b13d7",
+                "video": "5bc811ede16e6108007b13d8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a9af29dd50e4355f98848c2",
+                    "email": "jessicalee0928@gmail.com",
+                    "name": "Lee J",
+                    "given_name": "Lee",
+                    "picture": "https://lh5.googleusercontent.com/-lkjbxVfVFVY/AAAAAAAAAAI/AAAAAAAAT3o/Jv9Ve2HWh2Y/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "105654751603076050205",
+                    "last_login": 20190125053842,
+                    "token": "9975fccdc4e262dc9d892970368aa458acc5ecf7ec2aecb2482275dda41d2d30",
+                    "__v": 0,
+                    "updated_at": 20190125053842,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181018045405,
+                "updated_at": 20181108232629,
+                "notes": "36 28",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {
+                    "7": 1
+                }
+            }
+        ],
+        "tags": [
+            "cheap vs expensive",
+            "coffee",
+            "coffee video",
+            "expert",
+            "review",
+            "roast",
+            "roasts",
+            "taste",
+            "taste test",
+            "how to make coffee",
+            "expensive coffee",
+            "dillon edwards",
+            "coffee expert",
+            "coffee taste test",
+            "best coffee",
+            "coffe",
+            "cheap coffee",
+            "cheap vs expensive coffee",
+            "coffee review",
+            "coffee expert reviews",
+            "coffee expert epicurious",
+            "coffee expert guesses",
+            "coffee drinks explained",
+            "coffee explained",
+            "coffee making",
+            "coffee making process",
+            "coffee making video",
+            "epicurious",
+            "cooking",
+            "recipes",
+            "price points"
+        ],
+        "custom_tags": [],
+        "_id": "5bc811ede16e6108007b13d8",
+        "title": "Coffee Expert Guesses Cheap vs. Expensive Coffee | Price Points | Epicurious",
+        "description": "In this episode of 'Price Points', Epicurious challenges coffee expert Dillon Edwards of Parlor Coffee to guess which coffee is more expensive. Edwards breaks down roasts (dark roast vs light roast), processing, freshness, varietals, and source. For each element, the connoisseur looks at and tests each coffee before guessing which coffee costs more. Once the prices are revealed, Edwards explains why a specific coffee costs more and dives into specifics on how each coffee is made.\n\nStill haven\u2019t subscribed to Epicurious on YouTube? \u25ba\u25ba http://bit.ly/epiyoutubesub\n\nABOUT EPICURIOUS\nBrowse thousands of recipes and videos from Bon App\u00e9tit, Gourmet, and more. Find inventive cooking ideas, ingredients, and restaurant menus from the world\u2019s largest food archive.\n\nCoffee Expert Guesses Cheap vs. Expensive Coffee | Price Points | Epicurious",
+        "youtube_id": "liGwcuFyaNY",
+        "created_at": 20181018045405,
+        "updated_at": 20181018071503,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Howto & Style",
+        "category_id": "26",
+        "duration": 1037
+    }
+}

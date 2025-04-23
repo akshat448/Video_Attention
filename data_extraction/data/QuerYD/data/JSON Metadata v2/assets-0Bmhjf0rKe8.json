@@ -1,0 +1,204 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf3f46e13dfd851a29bb",
+                        "audio_description": "58e7cf2a46e13dfd851a2087",
+                        "created_at": 20130626221159,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130626221159,
+                        "file_name": "0Bmhjf0rKe8-32-1-0-4-0.wav",
+                        "start_time": 4,
+                        "legacy_video_id": 1172,
+                        "legacy_user_id": 32,
+                        "label": "",
+                        "legacy_audio_clip_id": 3103,
+                        "video": "58e7cf2846e13dfd851a18e2",
+                        "end_time": 4,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2a46e13dfd851a2083",
+                        "transcript": [
+                            {
+                                "_id": "5e1b1028706b0d21de5d3eeb",
+                                "sentence": " A person tickle a very small kitten with a white belly and four tiny white paws.",
+                                "start_time": 0.2,
+                                "end_time": 5.94
+                            },
+                            {
+                                "_id": "5e1b1028706b0d21de5d3eea",
+                                "sentence": " As the person lifts their hands away from the kitten, it extends its paws into the air.",
+                                "start_time": 5.97,
+                                "end_time": 10.72
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2a46e13dfd851a2087",
+                "status": "published",
+                "legacy_video_id": 1172,
+                "legacy_user_id": 32,
+                "video": "58e7cf2846e13dfd851a18e2",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2a46e13dfd851a2083",
+                    "name": "mlawren5",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20140408120339,
+                    "legacy_user_id": 32,
+                    "last_login": 0,
+                    "email": "megan@ski.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf3e46e13dfd851a294c",
+                        "audio_description": "58e7cf2a46e13dfd851a2087",
+                        "created_at": 20130513145247,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130513145247,
+                        "file_name": "0Bmhjf0rKe8-36-1-0-3-0.wav",
+                        "start_time": 3,
+                        "legacy_video_id": 1172,
+                        "legacy_user_id": 36,
+                        "label": "",
+                        "legacy_audio_clip_id": 2621,
+                        "video": "58e7cf2846e13dfd851a18e2",
+                        "end_time": 3,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2a46e13dfd851a2094",
+                        "transcript": [
+                            {
+                                "_id": "5e211d0b65f1f371b11febfe",
+                                "sentence": " A gray and white kitten lies on its back.",
+                                "start_time": 0.02,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3e46e13dfd851a294e",
+                        "audio_description": "58e7cf2a46e13dfd851a2087",
+                        "created_at": 20130514073854,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130514073854,
+                        "file_name": "0Bmhjf0rKe8-36-1-0-8-0.wav",
+                        "start_time": 8,
+                        "legacy_video_id": 1172,
+                        "legacy_user_id": 36,
+                        "label": "",
+                        "legacy_audio_clip_id": 2627,
+                        "video": "58e7cf2846e13dfd851a18e2",
+                        "end_time": 8,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2a46e13dfd851a2094",
+                        "transcript": [
+                            {
+                                "_id": "5e1d7085bb71fc20ae603e3d",
+                                "sentence": " A woman tickle the kittens white tummy, then jerks both hands up, spreading her fingers",
+                                "start_time": 0.03,
+                                "end_time": 4.93
+                            },
+                            {
+                                "_id": "5e1d7085bb71fc20ae603e3c",
+                                "sentence": " simultaneously. The kitten extends both white paws toes spread.",
+                                "start_time": 5.04,
+                                "end_time": 9.2
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2a46e13dfd851a2096",
+                "status": "published",
+                "legacy_video_id": 1172,
+                "legacy_user_id": 36,
+                "video": "58e7cf2846e13dfd851a18e2",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2a46e13dfd851a2094",
+                    "name": "terig",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20140515113743,
+                    "legacy_user_id": 36,
+                    "last_login": 0,
+                    "email": "terigrossman@earthlink.net",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "cat",
+            "cute",
+            "surprised",
+            "kitty",
+            "kitten",
+            "tickle",
+            "jazz",
+            "hands",
+            "animal",
+            "funny",
+            "comedy",
+            "puppy",
+            "baby",
+            "dog",
+            "small",
+            "little",
+            "adorable",
+            "video",
+            "Kittens",
+            "Laughing",
+            "Cats",
+            "Meow",
+            "Playing",
+            "Pet",
+            "Dogs",
+            "Pets",
+            "Animals"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a18e2",
+        "description": "",
+        "youtube_id": "0Bmhjf0rKe8",
+        "views": 0,
+        "created_at": 20130510141927,
+        "title": "",
+        "legacy_video_id": 1172,
+        "updated_at": 20130626221159,
+        "youtube_status": "available",
+        "category": "Pets & Animals",
+        "category_id": "15",
+        "duration": 17
+    }
+}

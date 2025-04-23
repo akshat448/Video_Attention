@@ -1,0 +1,472 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8e46e13dfd851a66f9",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130154706,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130154706,
+                        "file_name": "14805496267531.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28813,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 3.07,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e4744441636c804328c791f",
+                                "sentence": " Hiccup, blazon conscious in his bed.",
+                                "start_time": 0.44,
+                                "end_time": 2.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a66fe",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130161126,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130161126,
+                        "file_name": "14805510865421.wav",
+                        "start_time": 6.425,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28835,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 10.004999999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e4744431636c804328c77dc",
+                                "sentence": " His dragon toothless washes standing over him.",
+                                "start_time": 0,
+                                "end_time": 2.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a66ff",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130161200,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130161200,
+                        "file_name": "14805511202931.wav",
+                        "start_time": 11.972,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28836,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 15.812,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e4744431636c804328c78e3",
+                                "sentence": " Toothless, leans back to speak as hiccup begins to open his eyes.",
+                                "start_time": 0,
+                                "end_time": 3.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a6703",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130162328,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130162328,
+                        "file_name": "14805518084701.wav",
+                        "start_time": 16.828,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28854,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 18.618,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e4744431636c804328c785f",
+                                "sentence": " Too close, nudges his face.",
+                                "start_time": 0.09,
+                                "end_time": 1.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a6704",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130162348,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130162348,
+                        "file_name": "14805518281271.wav",
+                        "start_time": 21.128,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28856,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 23.428,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e4744431636c804328c7868",
+                                "sentence": " He accidentally steps on his stomach.",
+                                "start_time": 0.11,
+                                "end_time": 2.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a6707",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130162802,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130162802,
+                        "file_name": "14805520821671.wav",
+                        "start_time": 24.307,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28862,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 26.357,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e474573872a5004357bc5dd",
+                                "sentence": " Alert. Now he looks around.",
+                                "start_time": 0,
+                                "end_time": 1.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a670b",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130163306,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130163306,
+                        "file_name": "14805523861791.wav",
+                        "start_time": 27.5,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28871,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 29.03,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e474571872a5004357bc500",
+                                "sentence": " Useless licks his lips.",
+                                "start_time": 0,
+                                "end_time": 1.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a670c",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130163330,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130163330,
+                        "file_name": "14805524104351.wav",
+                        "start_time": 31.667,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28872,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 33.717,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e474573872a5004357bc5c7",
+                                "sentence": " The dragon jumps around.",
+                                "start_time": 0.25,
+                                "end_time": 1.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a670d",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130163354,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130163354,
+                        "file_name": "14805524340991.wav",
+                        "start_time": 40.944,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28873,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 44.014,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e4744441636c804328c7907",
+                                "sentence": " Giving up hiccup, looks back down at himself in bed.",
+                                "start_time": 0.03,
+                                "end_time": 2.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a670e",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130163415,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130163415,
+                        "file_name": "14805524557251.wav",
+                        "start_time": 44.194,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28875,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 46.754000000000005,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e4744441636c804328c7924",
+                                "sentence": " He removes the blanket covering his leg.",
+                                "start_time": 0,
+                                "end_time": 2.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a6710",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130163434,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130163434,
+                        "file_name": "14805524743441.wav",
+                        "start_time": 48.788,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28877,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 50.318,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae6cf207aba721b5c6856",
+                                "sentence": " His eyes widen.",
+                                "start_time": 0.16,
+                                "end_time": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a6711",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130163604,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130163604,
+                        "file_name": "14805525644331.wav",
+                        "start_time": 52.547,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28879,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 57.407,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e474572872a5004357bc551",
+                                "sentence": " He places one leg on the ground, followed by a steel peg, whereas other leg should be.",
+                                "start_time": 0.12,
+                                "end_time": 4.61
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a6712",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130163623,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130163623,
+                        "file_name": "14805525832511.wav",
+                        "start_time": 59.502,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28880,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 61.802,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae6cf207aba721b5c6862",
+                                "sentence": " Hiccup attempts to walk.",
+                                "start_time": 0.03,
+                                "end_time": 1.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a6713",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130163635,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130163635,
+                        "file_name": "14805525950711.wav",
+                        "start_time": 72.51,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28881,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 74.30000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e4744441636c804328c7940",
+                                "sentence": " Toothless catches him.",
+                                "start_time": 0.08,
+                                "end_time": 1.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a6714",
+                        "audio_description": "58e7cf3b46e13dfd851a27ec",
+                        "created_at": 20161130163706,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130163706,
+                        "file_name": "14805526266901.wav",
+                        "start_time": 80.255,
+                        "legacy_video_id": 2992,
+                        "legacy_user_id": 3327,
+                        "label": "",
+                        "legacy_audio_clip_id": 28882,
+                        "video": "58e7cf2946e13dfd851a1fc2",
+                        "end_time": 84.095,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27eb",
+                        "transcript": [
+                            {
+                                "_id": "5e474572872a5004357bc51e",
+                                "sentence": " Hiccup leans on the dragon as they both walked towards the door.",
+                                "start_time": 0.01,
+                                "end_time": 3.54
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3b46e13dfd851a27ec",
+                "status": "published",
+                "legacy_video_id": 2992,
+                "legacy_user_id": 3327,
+                "video": "58e7cf2946e13dfd851a1fc2",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3b46e13dfd851a27eb",
+                    "name": "Rachelgurule",
+                    "google_user_id_token": "",
+                    "created_at": 20161024134238,
+                    "updated_at": 20161024134403,
+                    "legacy_user_id": 3327,
+                    "last_login": 0,
+                    "email": "Rachel.gurule@yahoo.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1fc2",
+        "description": "",
+        "youtube_id": "H7muODd2pCo",
+        "views": 0,
+        "created_at": 20161130151039,
+        "title": "Httyd - Hiccup lost his leg",
+        "legacy_video_id": 2992,
+        "updated_at": 20161130164200,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 85
+    }
+}

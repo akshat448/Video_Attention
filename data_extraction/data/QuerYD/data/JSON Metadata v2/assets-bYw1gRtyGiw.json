@@ -1,0 +1,179 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4946e13dfd851a3491",
+                        "audio_description": "58e7cf2e46e13dfd851a2257",
+                        "created_at": 20141027110220,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141027110220,
+                        "file_name": "14144329407081.wav",
+                        "start_time": 432.498,
+                        "legacy_video_id": 1662,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 8879,
+                        "video": "58e7cf2846e13dfd851a1a91",
+                        "end_time": 432.498,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e230e1072edc9955c746ec8",
+                                "sentence": " Map of Africa highlighting the current ebola outbreak in guinea, liberia and sierra leone. It.",
+                                "start_time": 0.3,
+                                "end_time": 7.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3492",
+                        "audio_description": "58e7cf2e46e13dfd851a2257",
+                        "created_at": 20141027111522,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141027111522,
+                        "file_name": "14144337226391.wav",
+                        "start_time": 869.525,
+                        "legacy_video_id": 1662,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 8881,
+                        "video": "58e7cf2846e13dfd851a1a91",
+                        "end_time": 869.525,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e232a2adfe56d0b2951ab70",
+                                "sentence": " Graph of number of outbreaks from April to September.",
+                                "start_time": 0.05,
+                                "end_time": 4.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3493",
+                        "audio_description": "58e7cf2e46e13dfd851a2257",
+                        "created_at": 20141027114708,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141027114708,
+                        "file_name": "14144356288051.wav",
+                        "start_time": 180.469,
+                        "legacy_video_id": 1662,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 8882,
+                        "video": "58e7cf2846e13dfd851a1a91",
+                        "end_time": 180.469,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e232684c832bd02b748f913",
+                                "sentence": " Map of Africa highlighting ebola outbreak in south sudan and democratic republic of congo.",
+                                "start_time": 0.14,
+                                "end_time": 5.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3494",
+                        "audio_description": "58e7cf2e46e13dfd851a2257",
+                        "created_at": 20141027115759,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141027115759,
+                        "file_name": "14144362794451.wav",
+                        "start_time": 466.465,
+                        "legacy_video_id": 1662,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 8883,
+                        "video": "58e7cf2846e13dfd851a1a91",
+                        "end_time": 466.465,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e254e57538e0b1ebdfeb605",
+                                "sentence": " Population map of Africa showing greater population in west Africa than central Africa.",
+                                "start_time": 0.16,
+                                "end_time": 5.73
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2e46e13dfd851a2257",
+                "status": "published",
+                "legacy_video_id": 1662,
+                "legacy_user_id": 2415,
+                "video": "58e7cf2846e13dfd851a1a91",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2e46e13dfd851a2256",
+                    "name": "@DescribeVT",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2415,
+                    "last_login": 0,
+                    "email": "braille@vt.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Ebola",
+            "virus",
+            "zombies",
+            "Africa",
+            "Hot Zone",
+            "Contagion",
+            "Outbreak",
+            "Guinea",
+            "Sierra Leone",
+            "Liberia",
+            "Nigeria",
+            "Congo",
+            "Ebola (Disease Or Medical Condition)",
+            "Health (Industry)"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a91",
+        "description": "",
+        "youtube_id": "bYw1gRtyGiw",
+        "views": 0,
+        "created_at": 20141027103524,
+        "title": "Ebola: World War E?",
+        "legacy_video_id": 1662,
+        "updated_at": 20141027120137,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 2190
+    }
+}

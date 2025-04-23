@@ -1,0 +1,888 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bff721aaf05527dd32a0020",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "Intro of mice and men",
+                        "playback_type": "extended",
+                        "start_time": 0.15,
+                        "end_time": 0.15,
+                        "duration": 18.432,
+                        "file_name": "y8v2hvtM9_c_5bff721aaf05527dd32a0020.wav",
+                        "file_size_bytes": 3538988,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129045906,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db84c6355f269e19a2c63",
+                                "sentence": " Ending scene from of mice and men, a film adaptation of John steinbeck. 1937 novel,",
+                                "start_time": 0.77,
+                                "end_time": 7.76
+                            },
+                            {
+                                "_id": "5e4db84c6355f269e19a2c62",
+                                "sentence": " george and lennie sit next to the salinas river of previously agreed upon meet up spot, if anything were to go wrong.",
+                                "start_time": 7.76,
+                                "end_time": 14.75
+                            },
+                            {
+                                "_id": "5e4db84c6355f269e19a2c61",
+                                "sentence": " Lenny has just killed curly, his wife in fled.",
+                                "start_time": 14.75,
+                                "end_time": 17.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff73dcd306017427723023",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "George lenny description",
+                        "playback_type": "extended",
+                        "start_time": 3.801937,
+                        "end_time": 3.801937,
+                        "duration": 13.568,
+                        "file_name": "y8v2hvtM9_c_5bff73dcd306017427723023.wav",
+                        "file_size_bytes": 2605100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129050636,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcc2db5327e2f0f9c8da1",
+                                "sentence": " George, a middle aged man with dark hair and sharp features. Crouch is next to lenny, who is a larger man of similar age with balding hair and soft features.",
+                                "start_time": 0.74,
+                                "end_time": 10.87
+                            },
+                            {
+                                "_id": "5e4dcc2db5327e2f0f9c8da0",
+                                "sentence": " George looks at lenny in understanding.",
+                                "start_time": 10.87,
+                                "end_time": 13.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff7610af05527dd32a002a",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 8.138571428571428,
+                        "end_time": 11.893238095238095,
+                        "duration": 3.7546666666666666,
+                        "file_name": "y8v2hvtM9_c_5bff7610af05527dd32a002a.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129051600,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8dbb",
+                                "sentence": " George breathes in deeply and looks down.",
+                                "start_time": 0.33,
+                                "end_time": 3.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff767dd30601742772302e",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "Lenny shuffle stand",
+                        "playback_type": "inline",
+                        "start_time": 16.47681818181818,
+                        "end_time": 22.36481818181818,
+                        "duration": 5.888,
+                        "file_name": "y8v2hvtM9_c_5bff767dd30601742772302e.wav",
+                        "file_size_bytes": 1130540,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129051749,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8e21",
+                                "sentence": " Lenny shuffles uncomfortably and looks around. He then stands up.",
+                                "start_time": 0.23,
+                                "end_time": 4.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff76d8d30601742772302f",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "Walks over to george",
+                        "playback_type": "inline",
+                        "start_time": 26.098984,
+                        "end_time": 33.43765066666667,
+                        "duration": 7.338666666666667,
+                        "file_name": "y8v2hvtM9_c_5bff76d8d30601742772302f.wav",
+                        "file_size_bytes": 1409068,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129051920,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db9e8a0009d69e009f81d",
+                                "sentence": " Yeah,",
+                                "start_time": 0,
+                                "end_time": 0.68
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f81c",
+                                "sentence": " lenny shuffles closer to george and sits in front of his face.",
+                                "start_time": 0.68,
+                                "end_time": 5.42
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f81b",
+                                "sentence": " Lenny looks into george's eyes.",
+                                "start_time": 5.42,
+                                "end_time": 7.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff76fcaf05527dd32a002c",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 37.284188,
+                        "end_time": 40.270854666666665,
+                        "duration": 2.986666666666667,
+                        "file_name": "y8v2hvtM9_c_5bff76fcaf05527dd32a002c.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129051956,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd1cc1703f62f116f75d4",
+                                "sentence": " George looks at lenny in a serious manner.",
+                                "start_time": 0.23,
+                                "end_time": 2.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff773bd306017427723031",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 59.92948051948052,
+                        "end_time": 62.148147186147185,
+                        "duration": 2.2186666666666666,
+                        "file_name": "y8v2hvtM9_c_5bff773bd306017427723031.wav",
+                        "file_size_bytes": 426028,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129052059,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db9e4a0009d69e009f773",
+                                "sentence": " George looks away again.",
+                                "start_time": 0.33,
+                                "end_time": 2.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff775dd306017427723032",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 68.388314,
+                        "end_time": 68.388314,
+                        "duration": 5.034666666666666,
+                        "file_name": "y8v2hvtM9_c_5bff775dd306017427723032.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129052133,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcd901703f62f116f7471",
+                                "sentence": " George puts his hand on lenny his shoulder in an effort to comfort him.",
+                                "start_time": 0.51,
+                                "end_time": 4.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff778ed306017427723033",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 76.196867,
+                        "end_time": 78.58620033333334,
+                        "duration": 2.3893333333333335,
+                        "file_name": "y8v2hvtM9_c_5bff778ed306017427723033.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129052222,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db9e5a0009d69e009f7c9",
+                                "sentence": " George points off into the distance.",
+                                "start_time": 0,
+                                "end_time": 2.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff77e4af05527dd32a002d",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 82.30126200000001,
+                        "end_time": 86.90926200000001,
+                        "duration": 4.608,
+                        "file_name": "y8v2hvtM9_c_5bff77e4af05527dd32a002d.wav",
+                        "file_size_bytes": 884780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129052348,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcd901703f62f116f7415",
+                                "sentence": " Lenny adjust his sitting position and looks off to where george pointed.",
+                                "start_time": 0.38,
+                                "end_time": 4.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff7859d306017427723036",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 106.719968,
+                        "end_time": 110.38930133333332,
+                        "duration": 3.6693333333333333,
+                        "file_name": "y8v2hvtM9_c_5bff7859d306017427723036.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129052545,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcd901703f62f116f7414",
+                                "sentence": " Lenny looks off into the distance with his mouth open.",
+                                "start_time": 0,
+                                "end_time": 3.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff7895af05527dd32a002f",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 122.756786,
+                        "end_time": 125.91411933333333,
+                        "duration": 3.1573333333333333,
+                        "file_name": "y8v2hvtM9_c_5bff7895af05527dd32a002f.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129052645,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcd901703f62f116f7433",
+                                "sentence": " George takes his head off of linear shoulder and looks up.",
+                                "start_time": 0.04,
+                                "end_time": 3.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff78d2af05527dd32a0030",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 138.259223,
+                        "end_time": 138.259223,
+                        "duration": 3.84,
+                        "file_name": "y8v2hvtM9_c_5bff78d2af05527dd32a0030.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129052746,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db9e5a0009d69e009f79a",
+                                "sentence": " George starts reaching in his pocket, looking for something.",
+                                "start_time": 0.16,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff78edaf05527dd32a0031",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 145.078807,
+                        "end_time": 145.078807,
+                        "duration": 2.048,
+                        "file_name": "y8v2hvtM9_c_5bff78edaf05527dd32a0031.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129052813,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcd901703f62f116f7474",
+                                "sentence": " George quickly stands up.",
+                                "start_time": 0.04,
+                                "end_time": 2.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff7ac4af05527dd32a0032",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 147.312482,
+                        "end_time": 147.312482,
+                        "duration": 4.522666666666667,
+                        "file_name": "y8v2hvtM9_c_5bff7ac4af05527dd32a0032.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129053604,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8de2",
+                                "sentence": " George pulls a gun out of his pocket and points it at the back of lenny's head.",
+                                "start_time": 0.4,
+                                "end_time": 4.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff7b04d306017427723037",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 148.165815,
+                        "end_time": 151.06714833333334,
+                        "duration": 2.9013333333333335,
+                        "file_name": "y8v2hvtM9_c_5bff7b04d306017427723037.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129053708,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db9e5a0009d69e009f7a0",
+                                "sentence": " Lenny falls on his side after being shot.",
+                                "start_time": 0.02,
+                                "end_time": 2.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff7ce6d306017427723038",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 153.209166,
+                        "end_time": 157.049166,
+                        "duration": 3.84,
+                        "file_name": "y8v2hvtM9_c_5bff7ce6d306017427723038.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129054510,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8ddc",
+                                "sentence": " George looks at lenny is lifeless body and brings down the gun.",
+                                "start_time": 0,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff7d56af05527dd32a0034",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 160.5518181818182,
+                        "end_time": 164.05048484848487,
+                        "duration": 3.498666666666667,
+                        "file_name": "y8v2hvtM9_c_5bff7d56af05527dd32a0034.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129054702,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fcb5327e2f0f9c8db8",
+                                "sentence": " George crouch is next to lenny and holds him.",
+                                "start_time": 0.25,
+                                "end_time": 3.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff7d81af05527dd32a0035",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 170.17012987012987,
+                        "end_time": 179.81279653679653,
+                        "duration": 9.642666666666667,
+                        "file_name": "y8v2hvtM9_c_5bff7d81af05527dd32a0035.wav",
+                        "file_size_bytes": 1851436,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129054745,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8e1e",
+                                "sentence": " The scene fades to georges face while he's sitting in an automobile.",
+                                "start_time": 0.39,
+                                "end_time": 5.36
+                            },
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8e1d",
+                                "sentence": " He looks off into the distance, contemplating what he had done.",
+                                "start_time": 5.36,
+                                "end_time": 9.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff7db4d306017427723039",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 181.63811688311688,
+                        "end_time": 192.9874502164502,
+                        "duration": 11.349333333333334,
+                        "file_name": "y8v2hvtM9_c_5bff7db4d306017427723039.wav",
+                        "file_size_bytes": 2179116,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129054836,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db84c6355f269e19a2c95",
+                                "sentence": " The scene fades again as george reminisces about a time when he and lenny were working together on a farm,",
+                                "start_time": 0.15,
+                                "end_time": 7.11
+                            },
+                            {
+                                "_id": "5e4db84c6355f269e19a2c94",
+                                "sentence": " throwing feed bags into the back of a truck.",
+                                "start_time": 7.11,
+                                "end_time": 9.59
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff7dc6af05527dd32a0037",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 199.392054,
+                        "end_time": 204.256054,
+                        "duration": 4.864,
+                        "file_name": "y8v2hvtM9_c_5bff7dc6af05527dd32a0037.wav",
+                        "file_size_bytes": 933932,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129054854,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8e2f",
+                                "sentence": " George and lennie walked slowly away from the truck",
+                                "start_time": 0.26,
+                                "end_time": 3.38
+                            },
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8e2e",
+                                "sentence": " in slow motion.",
+                                "start_time": 3.45,
+                                "end_time": 4.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff7e02af05527dd32a0039",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 212.34272727272725,
+                        "end_time": 216.60939393939393,
+                        "duration": 4.266666666666667,
+                        "file_name": "y8v2hvtM9_c_5bff7e02af05527dd32a0039.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129054954,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db9e8a0009d69e009f842",
+                                "sentence": " Lenny puts his hand on george's back. As they walk off together.",
+                                "start_time": 0.26,
+                                "end_time": 4.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff7e19d30601742772303b",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 221.59110389610387,
+                        "end_time": 224.40710389610388,
+                        "duration": 2.816,
+                        "file_name": "y8v2hvtM9_c_5bff7e19d30601742772303b.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129055017,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8de9",
+                                "sentence": " The scene fades to black.",
+                                "start_time": 0.31,
+                                "end_time": 2.61
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff81cdaf05527dd32a003a",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 45.218145,
+                        "end_time": 47.86347833333333,
+                        "duration": 2.6453333333333333,
+                        "file_name": "y8v2hvtM9_c_5bff81cdaf05527dd32a003a.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129060605,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db9e4a0009d69e009f774",
+                                "sentence": " George stares intently at lenny.",
+                                "start_time": 0.17,
+                                "end_time": 2.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff81dcd30601742772303c",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 48.17162337662338,
+                        "end_time": 51.328956709956714,
+                        "duration": 3.1573333333333333,
+                        "file_name": "y8v2hvtM9_c_5bff81dcd30601742772303c.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129060620,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcc2cb5327e2f0f9c8d47",
+                                "sentence": " He then breaks his glance and looks away.",
+                                "start_time": 0.5,
+                                "end_time": 3.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff8245af05527dd32a003b",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 89.574955,
+                        "end_time": 91.878955,
+                        "duration": 2.304,
+                        "file_name": "y8v2hvtM9_c_5bff8245af05527dd32a003b.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129060805,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcd901703f62f116f7435",
+                                "sentence": " Lenny looks at george for reassurance.",
+                                "start_time": 0,
+                                "end_time": 2.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff82d1d30601742772303e",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 8.20189,
+                        "end_time": 8.20189,
+                        "duration": 9.557333333333334,
+                        "file_name": "y8v2hvtM9_c_5bff82d1d30601742772303e.wav",
+                        "file_size_bytes": 1835052,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129061025,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dc8c37eb22e2f0e757467",
+                                "sentence": " George and lennie sit on the bank of the river, lenny, seated on a rock.",
+                                "start_time": 0.05,
+                                "end_time": 5.54
+                            },
+                            {
+                                "_id": "5e4dc8c37eb22e2f0e757466",
+                                "sentence": " They are surrounded by trees, and birds chirp in the background.",
+                                "start_time": 5.72,
+                                "end_time": 9.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff82f2d30601742772303f",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 21.086298701298702,
+                        "end_time": 22.963632034632035,
+                        "duration": 1.8773333333333333,
+                        "file_name": "y8v2hvtM9_c_5bff82f2d30601742772303f.wav",
+                        "file_size_bytes": 360492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129061058,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8e1b",
+                                "sentence": " Lenny shrugs his shoulders.",
+                                "start_time": 0,
+                                "end_time": 1.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff8319af05527dd32a003d",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 35.672236,
+                        "end_time": 35.672236,
+                        "duration": 6.485333333333333,
+                        "file_name": "y8v2hvtM9_c_5bff8319af05527dd32a003d.wav",
+                        "file_size_bytes": 1245228,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129061137,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcd901703f62f116f742c",
+                                "sentence": " Lenny looks at george with his mouth, slightly open, a vacant expression on his face.",
+                                "start_time": 0.61,
+                                "end_time": 6.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff83a5af05527dd32a003e",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 104.657526,
+                        "end_time": 104.657526,
+                        "duration": 5.290666666666667,
+                        "file_name": "y8v2hvtM9_c_5bff83a5af05527dd32a003e.wav",
+                        "file_size_bytes": 1015852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129061357,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8dee",
+                                "sentence": " George sadly puts his head on lenny. His shoulder as he crouch is behind him.",
+                                "start_time": 0.06,
+                                "end_time": 5.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bff8709af05527dd32a0042",
+                        "video": "5bff71e6af05527dd32a001f",
+                        "audio_description": "5bff71e6af05527dd32a001e",
+                        "user": "5bd2079f9fd7274e38d25baf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 190.14662337662335,
+                        "end_time": 194.41329004329003,
+                        "duration": 4.266666666666667,
+                        "file_name": "y8v2hvtM9_c_5bff8709af05527dd32a0042.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/y8v2hvtM9_c",
+                        "created_at": 20181129062825,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db9e8a0009d69e009f81f",
+                                "sentence": " George and lennie look at each other knowingly before they start walking away.",
+                                "start_time": 0.24,
+                                "end_time": 4.22
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bff71e6af05527dd32a001e",
+                "video": "5bff71e6af05527dd32a001f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bd2079f9fd7274e38d25baf",
+                    "email": "claireallen@berkeley.edu",
+                    "name": "Claire Allen",
+                    "given_name": "Claire",
+                    "picture": "https://lh5.googleusercontent.com/-urcWao67Mww/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbC7aOY8PVOTSOiKjYv8QUpcBS4JeQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "110839286724523852454",
+                    "last_login": 20181129044113,
+                    "token": "398ccd303c5e2ca52b54909b83ff01ea6a955429a7ebba97bbdcc03d9759780f",
+                    "__v": 0,
+                    "updated_at": 20181129044113,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181129045814,
+                "updated_at": 20181129045814,
+                "notes": "Ending scene from Of Mice and Men, a film adaptation of John Steinbeck\u2019s 1937 novel.\r\nGeorge and Lenny sit next to the Salinas river, a previously agreed-upon meetup spot if anything where to go wrong. Lenny has just killed Curly\u2019s wife and fled.\r\n\r\nGeorge, a middle-aged man with dark hair and sharp features, crouches next to Lenny, who is a larger man of similar age with balding hair and soft features. George looks at Lenny in understanding.\r\n\r\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Of",
+            "Mice",
+            "and",
+            "Men",
+            "ending"
+        ],
+        "custom_tags": [],
+        "_id": "5bff71e6af05527dd32a001f",
+        "title": "Of Mice and Men ending",
+        "description": "Of Mice and Men ending",
+        "youtube_id": "y8v2hvtM9_c",
+        "created_at": 20181129045814,
+        "updated_at": 20181129062825,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 228
+    }
+}

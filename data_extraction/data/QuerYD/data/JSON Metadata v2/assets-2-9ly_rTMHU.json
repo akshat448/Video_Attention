@@ -1,0 +1,104 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6146e13dfd851a4742",
+                        "audio_description": "58e7cf3046e13dfd851a23a7",
+                        "created_at": 20150912131539,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150912131539,
+                        "file_name": "14420889391291.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2163,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15575,
+                        "video": "58e7cf2946e13dfd851a1c86",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abc32c648ec0da79cd6dc",
+                                "sentence": " Several individuals throw and catch a large black ball in a gym.",
+                                "start_time": 1.06,
+                                "end_time": 5.32
+                            },
+                            {
+                                "_id": "5e3abc32c648ec0da79cd6db",
+                                "sentence": " There are three people on one side of the gym and three people on the other side of the gym.",
+                                "start_time": 5.48,
+                                "end_time": 10.44
+                            },
+                            {
+                                "_id": "5e3abc32c648ec0da79cd6da",
+                                "sentence": " They are facing each other and are wearing blind boats.",
+                                "start_time": 10.44,
+                                "end_time": 14.18
+                            },
+                            {
+                                "_id": "5e3abc32c648ec0da79cd6d9",
+                                "sentence": " One side throws or rose. The ball on the other side catches it all webby and blindfolded.",
+                                "start_time": 14.18,
+                                "end_time": 20.27
+                            },
+                            {
+                                "_id": "5e3abc32c648ec0da79cd6d8",
+                                "sentence": " The voice you hear is of a man that is off screen.",
+                                "start_time": 20.33,
+                                "end_time": 23.48
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a23a7",
+                "status": "published",
+                "legacy_video_id": 2163,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c86",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c86",
+        "description": "",
+        "youtube_id": "2-9ly_rTMHU",
+        "views": 0,
+        "created_at": 20150912131453,
+        "title": "For Maurice: Goalball",
+        "legacy_video_id": 2163,
+        "updated_at": 20150912131539,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 18
+    }
+}

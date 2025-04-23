@@ -1,0 +1,1482 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c19d470db5fb418cbb9dafe",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "title",
+                        "playback_type": "inline",
+                        "start_time": 2.260359,
+                        "end_time": 4.735025666666667,
+                        "duration": 2.474666666666667,
+                        "file_name": "5yGDP151_bM_5c19d470db5fb418cbb9dafe.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219051736,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769a9a",
+                                "sentence": " Title, a mighty pink would tree.",
+                                "start_time": 0.33,
+                                "end_time": 2.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d4acdb5fb418cbb9daff",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "treehouse",
+                        "playback_type": "inline",
+                        "start_time": 5.274497,
+                        "end_time": 7.493163666666667,
+                        "duration": 2.2186666666666666,
+                        "file_name": "5yGDP151_bM_5c19d4acdb5fb418cbb9daff.wav",
+                        "file_size_bytes": 426028,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219051836,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769ab0",
+                                "sentence": " A house at the Top of a tree.",
+                                "start_time": 0.19,
+                                "end_time": 2.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d4e3db5fb418cbb9db00",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "paint",
+                        "playback_type": "inline",
+                        "start_time": 8.592026,
+                        "end_time": 14.650692666666668,
+                        "duration": 6.058666666666666,
+                        "file_name": "5yGDP151_bM_5c19d4e3db5fb418cbb9db00.wav",
+                        "file_size_bytes": 1163308,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219051931,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4df3317f8d5e96ba59",
+                                "sentence": " In the house, pink panther paints on a canvas. He holds out his thumb towards a bird in the window.",
+                                "start_time": 0.55,
+                                "end_time": 6.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d4f6d3a30918d8e7a1e3",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "canvas",
+                        "playback_type": "inline",
+                        "start_time": 16.467382,
+                        "end_time": 19.710048666666665,
+                        "duration": 3.2426666666666666,
+                        "file_name": "5yGDP151_bM_5c19d4f6d3a30918d8e7a1e3.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219051950,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4df3317f8d5e96ba58",
+                                "sentence": " He stands back from his painting. It is of his thumb.",
+                                "start_time": 0.05,
+                                "end_time": 3.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d50cdb5fb418cbb9db01",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "shake",
+                        "playback_type": "inline",
+                        "start_time": 20.511752,
+                        "end_time": 21.791752000000002,
+                        "duration": 1.28,
+                        "file_name": "5yGDP151_bM_5c19d50cdb5fb418cbb9db01.wav",
+                        "file_size_bytes": 245804,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219052012,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769a9c",
+                                "sentence": " His house shake.",
+                                "start_time": 0.19,
+                                "end_time": 1.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d566db5fb418cbb9db02",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "overpass",
+                        "playback_type": "inline",
+                        "start_time": 25.45469,
+                        "end_time": 34.75602333333333,
+                        "duration": 9.301333333333334,
+                        "file_name": "5yGDP151_bM_5c19d566db5fb418cbb9db02.wav",
+                        "file_size_bytes": 1785900,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219052142,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96ba9e",
+                                "sentence": " It shakes again, and he drops his paintbrush. He stumps out onto his porch and does a double take. There's an overpass of traffic leading to his tree and leading from it.",
+                                "start_time": 0.08,
+                                "end_time": 9.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d58ad3a30918d8e7a1e4",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "axe",
+                        "playback_type": "inline",
+                        "start_time": 35.424654,
+                        "end_time": 44.640654,
+                        "duration": 9.216,
+                        "file_name": "5yGDP151_bM_5c19d58ad3a30918d8e7a1e4.wav",
+                        "file_size_bytes": 1769516,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219052218,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96babf",
+                                "sentence": " A small man in a hard hat is chopping at the massive tree with an axe. He imagines the tree laughing at him. Then imagine scaring it with a much bigger ax. He runs away.",
+                                "start_time": 0,
+                                "end_time": 9.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d5a9d3a30918d8e7a1e5",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "platform",
+                        "playback_type": "inline",
+                        "start_time": 44.690573,
+                        "end_time": 48.615906333333335,
+                        "duration": 3.925333333333333,
+                        "file_name": "5yGDP151_bM_5c19d5a9d3a30918d8e7a1e5.wav",
+                        "file_size_bytes": 753708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219052249,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769aaa",
+                                "sentence": " A platform lowers. There's a bucket on it. That pink panther picks up.",
+                                "start_time": 0.08,
+                                "end_time": 3.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d615db5fb418cbb9db05",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "truck search",
+                        "playback_type": "inline",
+                        "start_time": 47.46577,
+                        "end_time": 55.31643666666667,
+                        "duration": 7.850666666666666,
+                        "file_name": "5yGDP151_bM_5c19d615db5fb418cbb9db05.wav",
+                        "file_size_bytes": 1507372,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219052437,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4cf3317f8d5e96ba36",
+                                "sentence": " The man searches his truck, he tossed his tools and a monkey with a wrench over his head, then produces and acts larger than he is.",
+                                "start_time": 0.25,
+                                "end_time": 7.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d652db5fb418cbb9db06",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "metal paint",
+                        "playback_type": "inline",
+                        "start_time": 55.947056,
+                        "end_time": 62.091056,
+                        "duration": 6.144,
+                        "file_name": "5yGDP151_bM_5c19d652db5fb418cbb9db06.wav",
+                        "file_size_bytes": 1179692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219052538,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4cf3317f8d5e96ba3a",
+                                "sentence": " Pink panther pulls a massive paintbrush out of the bucket and uses it to paint a layer of metal around the base of the tree.",
+                                "start_time": 0.13,
+                                "end_time": 6.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d662d3a30918d8e7a1e8",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "up",
+                        "playback_type": "inline",
+                        "start_time": 63.586693,
+                        "end_time": 66.23202633333332,
+                        "duration": 2.6453333333333333,
+                        "file_name": "5yGDP151_bM_5c19d662d3a30918d8e7a1e8.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219052554,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769ace",
+                                "sentence": " He sits on the platform and it rises out of sight.",
+                                "start_time": 0.03,
+                                "end_time": 2.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d681d3a30918d8e7a1e9",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "backwards",
+                        "playback_type": "inline",
+                        "start_time": 66.265031,
+                        "end_time": 76.24903099999999,
+                        "duration": 9.984,
+                        "file_name": "5yGDP151_bM_5c19d681d3a30918d8e7a1e9.wav",
+                        "file_size_bytes": 1916972,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219052625,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96bac0",
+                                "sentence": " The man swings the axe at the tree, and it bounces off, throwing him backwards into a lamp post. When the lights falls from, it lends and his head lighting him up until he pulls the cable to turn it off.",
+                                "start_time": 0.01,
+                                "end_time": 9.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d6c0d3a30918d8e7a1ea",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "weedwacker",
+                        "playback_type": "inline",
+                        "start_time": 76.92879,
+                        "end_time": 95.87279000000001,
+                        "duration": 18.944,
+                        "file_name": "5yGDP151_bM_5c19d6c0d3a30918d8e7a1ea.wav",
+                        "file_size_bytes": 3637292,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219052728,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96baac",
+                                "sentence": " The man tries to start a weed whacker using a pull cable. A pink hand taps his shoulder.",
+                                "start_time": 0.01,
+                                "end_time": 4.98
+                            },
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96baab",
+                                "sentence": " The men turns to look, but sees no one. When he turns back, he's holding a baby doll.",
+                                "start_time": 4.98,
+                                "end_time": 9.72
+                            },
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96baaa",
+                                "sentence": " He throws the doll and reaches for a cable behind him. But it is a raft which inflates rapidly. A wave of water washes through and washes him away in the raft.",
+                                "start_time": 9.72,
+                                "end_time": 18.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d770d3a30918d8e7a1ed",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "weedwacker again",
+                        "playback_type": "inline",
+                        "start_time": 94.915811,
+                        "end_time": 114.37181100000001,
+                        "duration": 19.456,
+                        "file_name": "5yGDP151_bM_5c19d770d3a30918d8e7a1ed.wav",
+                        "file_size_bytes": 3735596,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219053024,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96ba9d",
+                                "sentence": " The man has the weed whacker. Again, a pink hand taps his shoulder, but no one is behind it. When he looks,",
+                                "start_time": 0.08,
+                                "end_time": 5.36
+                            },
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96ba9c",
+                                "sentence": " when he pulls the pull cable again, he finds it attached to a lawn mower, which pulls him straight up the trunk of the tree along the underside of a branch, then straight out into the air,",
+                                "start_time": 5.36,
+                                "end_time": 14.33
+                            },
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96ba9b",
+                                "sentence": " the longer pauses, and they drop out of sight, the lawn. Marie starts and bounces him through the air.",
+                                "start_time": 14.33,
+                                "end_time": 19.41
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d7b4d3a30918d8e7a1ef",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "shrink powder",
+                        "playback_type": "inline",
+                        "start_time": 114.271076,
+                        "end_time": 120.927076,
+                        "duration": 6.656,
+                        "file_name": "5yGDP151_bM_5c19d7b4d3a30918d8e7a1ef.wav",
+                        "file_size_bytes": 1277996,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219053132,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96bac9",
+                                "sentence": " The man glares at the tree, then grins at the boxes holding, which uses a diagram to show that as a powder that will shrink a tree.",
+                                "start_time": 0.09,
+                                "end_time": 6.61
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d7c2db5fb418cbb9db07",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "skip",
+                        "playback_type": "inline",
+                        "start_time": 121.356114,
+                        "end_time": 124.25744733333335,
+                        "duration": 2.9013333333333335,
+                        "file_name": "5yGDP151_bM_5c19d7c2db5fb418cbb9db07.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219053146,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769aaf",
+                                "sentence": " He skips around the base of the tree, sprinkling the powder.",
+                                "start_time": 0,
+                                "end_time": 2.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d812d3a30918d8e7a1f0",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "shrinking",
+                        "playback_type": "inline",
+                        "start_time": 124.224558,
+                        "end_time": 132.416558,
+                        "duration": 8.192,
+                        "file_name": "5yGDP151_bM_5c19d812d3a30918d8e7a1f0.wav",
+                        "file_size_bytes": 1572908,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219053306,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4df3317f8d5e96ba47",
+                                "sentence": " The tree shakes and suddenly shrinks down to knee height. Pink panther falls to the ground, causing the men to spill the powder on himself. He shrinks, too.",
+                                "start_time": 0.15,
+                                "end_time": 8.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d82bdb5fb418cbb9db0a",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "big PP",
+                        "playback_type": "inline",
+                        "start_time": 133.433754,
+                        "end_time": 138.72442066666667,
+                        "duration": 5.290666666666667,
+                        "file_name": "5yGDP151_bM_5c19d82bdb5fb418cbb9db0a.wav",
+                        "file_size_bytes": 1015852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219053331,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4cf3317f8d5e96ba29",
+                                "sentence": " The tiny man runs away as pink panther reaches toward him. Pink panther looks at the box.",
+                                "start_time": 0.02,
+                                "end_time": 5.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d8b8d3a30918d8e7a1f3",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "diagram",
+                        "playback_type": "inline",
+                        "start_time": 138.78371,
+                        "end_time": 150.04771000000002,
+                        "duration": 11.264,
+                        "file_name": "5yGDP151_bM_5c19d8b8d3a30918d8e7a1f3.wav",
+                        "file_size_bytes": 2162732,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219053552,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4cf3317f8d5e96ba3c",
+                                "sentence": " Pink panther grins with one finger. He turns the down arrow on the diagram upwards. He sprinkles powder on the tiny. Tree The tree grows rapidly to its original size between the pieces of the overpass.",
+                                "start_time": 0.04,
+                                "end_time": 11.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d8d4db5fb418cbb9db0b",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "carpenter ant",
+                        "playback_type": "inline",
+                        "start_time": 150.535024,
+                        "end_time": 158.64169066666665,
+                        "duration": 8.106666666666667,
+                        "file_name": "5yGDP151_bM_5c19d8d4db5fb418cbb9db0b.wav",
+                        "file_size_bytes": 1556524,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219053620,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4cf3317f8d5e96ba31",
+                                "sentence": " The man has a carpenter ant in a box. He releases it and it completely consumes a pile of logs.",
+                                "start_time": 0,
+                                "end_time": 5.51
+                            },
+                            {
+                                "_id": "5e36ee4cf3317f8d5e96ba30",
+                                "sentence": " He jumps in grins and tux the ant back in the box.",
+                                "start_time": 5.51,
+                                "end_time": 8.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d8f6db5fb418cbb9db0c",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "binoculars",
+                        "playback_type": "inline",
+                        "start_time": 159.131251,
+                        "end_time": 170.651251,
+                        "duration": 11.52,
+                        "file_name": "5yGDP151_bM_5c19d8f6db5fb418cbb9db0c.wav",
+                        "file_size_bytes": 2211884,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219053654,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4cf3317f8d5e96ba37",
+                                "sentence": " Pink panther watches him through binoculars from the tree house. He pulls out a pink box with hard on it, and shakes and aunt into his pop. It hops around, he blows it out into the air, and it descends on a parachute.",
+                                "start_time": 0,
+                                "end_time": 11.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d911d3a30918d8e7a1f4",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "ant love",
+                        "playback_type": "inline",
+                        "start_time": 174.160328,
+                        "end_time": 183.80299466666665,
+                        "duration": 9.642666666666667,
+                        "file_name": "5yGDP151_bM_5c19d911d3a30918d8e7a1f4.wav",
+                        "file_size_bytes": 1851436,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219053721,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4cf3317f8d5e96ba2c",
+                                "sentence": " At the base of the tree, the man shakes his aunt out onto the ground. As the parachute lands, the two aunts bounce beside each other, then cuddle together, and heart appears above them.",
+                                "start_time": 0.15,
+                                "end_time": 9.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d93ad3a30918d8e7a1f6",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "slump",
+                        "playback_type": "inline",
+                        "start_time": 184.538524,
+                        "end_time": 188.20785733333332,
+                        "duration": 3.6693333333333333,
+                        "file_name": "5yGDP151_bM_5c19d93ad3a30918d8e7a1f6.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219053802,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f63a17db8d5f769a8d",
+                                "sentence": " The ants hop off together while the man's shoulders droop.",
+                                "start_time": 0.03,
+                                "end_time": 3.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d954db5fb418cbb9db0d",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "beaver",
+                        "playback_type": "inline",
+                        "start_time": 189.401408,
+                        "end_time": 195.289408,
+                        "duration": 5.888,
+                        "file_name": "5yGDP151_bM_5c19d954db5fb418cbb9db0d.wav",
+                        "file_size_bytes": 1130540,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219053828,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4cf3317f8d5e96ba33",
+                                "sentence": " The man rubs his hands together as he stares at a cage with a picture of a vicious beaver devouring wood on the side.",
+                                "start_time": 0.4,
+                                "end_time": 5.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d9acdb5fb418cbb9db0e",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "shake",
+                        "playback_type": "inline",
+                        "start_time": 210.471626,
+                        "end_time": 212.519626,
+                        "duration": 2.048,
+                        "file_name": "5yGDP151_bM_5c19d9acdb5fb418cbb9db0e.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219053956,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f63a17db8d5f769a78",
+                                "sentence": " He picks up the cage and shakes it.",
+                                "start_time": 0.13,
+                                "end_time": 2.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19d9c0d3a30918d8e7a1f8",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "beaver",
+                        "playback_type": "inline",
+                        "start_time": 212.34117,
+                        "end_time": 218.48517,
+                        "duration": 6.144,
+                        "file_name": "5yGDP151_bM_5c19d9c0d3a30918d8e7a1f8.wav",
+                        "file_size_bytes": 1179692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219054016,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96bac8",
+                                "sentence": " A beaver falls out, his eyes are half closed, and his ears and whiskers are drooping. His a bandage on one leg.",
+                                "start_time": 0,
+                                "end_time": 6.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19da5cd3a30918d8e7a1f9",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "jump back",
+                        "playback_type": "inline",
+                        "start_time": 195.391668,
+                        "end_time": 200.08500133333334,
+                        "duration": 4.693333333333333,
+                        "file_name": "5yGDP151_bM_5c19da5cd3a30918d8e7a1f9.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219054252,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769a9e",
+                                "sentence": " He opens the cage and jumps back and watches the cage with an open mouth grin.",
+                                "start_time": 0,
+                                "end_time": 4.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19da8bdb5fb418cbb9db11",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "grin fades",
+                        "playback_type": "inline",
+                        "start_time": 205.477186,
+                        "end_time": 208.20785266666667,
+                        "duration": 2.7306666666666666,
+                        "file_name": "5yGDP151_bM_5c19da8bdb5fb418cbb9db11.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219054339,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769ab4",
+                                "sentence": " After nothing leaves the cage, his grin fades.",
+                                "start_time": 0,
+                                "end_time": 2.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19dab1db5fb418cbb9db12",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "tree pointing",
+                        "playback_type": "inline",
+                        "start_time": 218.62002,
+                        "end_time": 227.15335333333334,
+                        "duration": 8.533333333333333,
+                        "file_name": "5yGDP151_bM_5c19dab1db5fb418cbb9db12.wav",
+                        "file_size_bytes": 1638444,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219054417,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96baca",
+                                "sentence": " The man points at the tree. The beaver doesn't move. The man rubs his belly and licks his lips. He pretends to eat the tree. The beaver blinks slowly.",
+                                "start_time": 0.32,
+                                "end_time": 8.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19daf9d3a30918d8e7a1fa",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "scent",
+                        "playback_type": "inline",
+                        "start_time": 228.071641,
+                        "end_time": 236.86097433333333,
+                        "duration": 8.789333333333333,
+                        "file_name": "5yGDP151_bM_5c19daf9d3a30918d8e7a1fa.wav",
+                        "file_size_bytes": 1687596,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219054529,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4df3317f8d5e96ba6a",
+                                "sentence": " Assent to sends to the beavers knows the beavers eyes widen, he bounces to his feet. He uses the man's head as a step to start running up the trunk of the tree.",
+                                "start_time": 0,
+                                "end_time": 8.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19db9fdb5fb418cbb9db14",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "kitchen",
+                        "playback_type": "inline",
+                        "start_time": 234.463321,
+                        "end_time": 242.65532100000001,
+                        "duration": 8.192,
+                        "file_name": "5yGDP151_bM_5c19db9fdb5fb418cbb9db14.wav",
+                        "file_size_bytes": 1572908,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219054815,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dd8",
+                                "sentence": " The beaver watches as pink panther fries a slice of wood",
+                                "start_time": 0,
+                                "end_time": 3.31
+                            },
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dd7",
+                                "sentence": " as pink panther flips the wood. The beaver takes a seat at the table with a knife and fork in his paws.",
+                                "start_time": 3.31,
+                                "end_time": 8.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19dbecdb5fb418cbb9db15",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "served",
+                        "playback_type": "inline",
+                        "start_time": 241.806947,
+                        "end_time": 248.03628033333334,
+                        "duration": 6.229333333333333,
+                        "file_name": "5yGDP151_bM_5c19dbecdb5fb418cbb9db15.wav",
+                        "file_size_bytes": 1196076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219054932,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34de1",
+                                "sentence": " Pink panther serves the beaver, the wood, the beaver cuts up a piece on savers. It he gives pink panther a thumbs up.",
+                                "start_time": 0,
+                                "end_time": 6.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19dc22db5fb418cbb9db17",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "manic",
+                        "playback_type": "inline",
+                        "start_time": 248.481153,
+                        "end_time": 254.28381966666666,
+                        "duration": 5.802666666666667,
+                        "file_name": "5yGDP151_bM_5c19dc22db5fb418cbb9db17.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219055026,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96ba92",
+                                "sentence": " The man has bloodshed, eyes in a manic grin. He works the controls on a wrecking ball at the base of the tree.",
+                                "start_time": 0,
+                                "end_time": 5.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19dc3dd3a30918d8e7a1fc",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "sweats",
+                        "playback_type": "inline",
+                        "start_time": 255.465567,
+                        "end_time": 270.569567,
+                        "duration": 15.104,
+                        "file_name": "5yGDP151_bM_5c19dc3dd3a30918d8e7a1fc.wav",
+                        "file_size_bytes": 2900012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219055053,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dcf",
+                                "sentence": " We sweats as he watches the ball swing, the ball taps the tree, and everything shakes. As cracks form in the ball,",
+                                "start_time": 0.08,
+                                "end_time": 6.69
+                            },
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dce",
+                                "sentence": " the man, its eyes widen, and mouth drops open as cracks spread through the whole machine, and it shatters to pieces around him.",
+                                "start_time": 6.76,
+                                "end_time": 14.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19dcd9db5fb418cbb9db18",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "score 1",
+                        "playback_type": "inline",
+                        "start_time": 271.628264,
+                        "end_time": 283.916264,
+                        "duration": 12.288,
+                        "file_name": "5yGDP151_bM_5c19dcd9db5fb418cbb9db18.wav",
+                        "file_size_bytes": 2359340,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219055329,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2f7fbe258d5dd34e02",
+                                "sentence": " Pink panther, the beaver and the two aunts watch from the tree house. They hold up scores of five and six. The men's eyebrows knit together as cracks form all over him, and he shatters as well, with just his eyes and eyebrows left.",
+                                "start_time": 0.12,
+                                "end_time": 12.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19dd06d3a30918d8e7a1fe",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "plans",
+                        "playback_type": "inline",
+                        "start_time": 283.912296,
+                        "end_time": 292.5309626666667,
+                        "duration": 8.618666666666666,
+                        "file_name": "5yGDP151_bM_5c19dd06d3a30918d8e7a1fe.wav",
+                        "file_size_bytes": 1654828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219055414,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dd2",
+                                "sentence": " The man looks at plans for a catapult to launch himself into a treetop, kidnap the pink panther, chop down the tree, and unite the two pieces of the overpass.",
+                                "start_time": 0,
+                                "end_time": 8.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19dd21db5fb418cbb9db19",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "launch",
+                        "playback_type": "inline",
+                        "start_time": 292.468044,
+                        "end_time": 303.30537733333335,
+                        "duration": 10.837333333333333,
+                        "file_name": "5yGDP151_bM_5c19dd21db5fb418cbb9db19.wav",
+                        "file_size_bytes": 2080812,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219055441,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34ded",
+                                "sentence": " Wearing helmet, the man launches himself into the air. He flies to the house's window through a cake held by pink. Panther, then threw a pillow held by pink panther, then back to the far window opened by pink panther.",
+                                "start_time": 0.08,
+                                "end_time": 10.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19dd61db5fb418cbb9db1b",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "fly",
+                        "playback_type": "inline",
+                        "start_time": 303.318484,
+                        "end_time": 308.01181733333334,
+                        "duration": 4.693333333333333,
+                        "file_name": "5yGDP151_bM_5c19dd61db5fb418cbb9db1b.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219055545,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2f7fbe258d5dd34dfd",
+                                "sentence": " He flies to the air covered in feathers. He looks down in flail, then falls fast.",
+                                "start_time": 0,
+                                "end_time": 4.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19ddbddb5fb418cbb9db1c",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "struggle",
+                        "playback_type": "inline",
+                        "start_time": 309.386748,
+                        "end_time": 312.202748,
+                        "duration": 2.816,
+                        "file_name": "5yGDP151_bM_5c19ddbddb5fb418cbb9db1c.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219055717,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4df3317f8d5e96ba74",
+                                "sentence": " We We appears flapping his arms hard.",
+                                "start_time": 0,
+                                "end_time": 2.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19ddccdb5fb418cbb9db1d",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "plane",
+                        "playback_type": "inline",
+                        "start_time": 313.399613,
+                        "end_time": 315.87427966666667,
+                        "duration": 2.474666666666667,
+                        "file_name": "5yGDP151_bM_5c19ddccdb5fb418cbb9db1d.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219055732,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4df3317f8d5e96ba56",
+                                "sentence": " He gets smashed against the nose of an airplane.",
+                                "start_time": 0,
+                                "end_time": 2.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19de22d3a30918d8e7a202",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "feather cough",
+                        "playback_type": "inline",
+                        "start_time": 319.61498099999994,
+                        "end_time": 321.74831433333327,
+                        "duration": 2.1333333333333333,
+                        "file_name": "5yGDP151_bM_5c19de22d3a30918d8e7a202.wav",
+                        "file_size_bytes": 409644,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219055858,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dbe",
+                                "sentence": " On the ground, he coughs up feathers.",
+                                "start_time": 0.21,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19de87db5fb418cbb9db1e",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "plank",
+                        "playback_type": "inline",
+                        "start_time": 322.95333928571426,
+                        "end_time": 325.42800595238094,
+                        "duration": 2.474666666666667,
+                        "file_name": "5yGDP151_bM_5c19de87db5fb418cbb9db1e.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219060039,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dc3",
+                                "sentence": " He grins down at a giant plank of wood.",
+                                "start_time": 0,
+                                "end_time": 2.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19debed3a30918d8e7a205",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "lever",
+                        "playback_type": "inline",
+                        "start_time": 330.564604,
+                        "end_time": 343.10860399999996,
+                        "duration": 12.544,
+                        "file_name": "5yGDP151_bM_5c19debed3a30918d8e7a205.wav",
+                        "file_size_bytes": 2408492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219060134,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dda",
+                                "sentence": " Mystics one end of the tree and inserts a triangle block under the centre of the plank.",
+                                "start_time": 0.16,
+                                "end_time": 4.78
+                            },
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dd9",
+                                "sentence": " On one of the overpasses, he pushes a massive weight off the edge. So it falls on one end of the plank launching tree into the air.",
+                                "start_time": 4.78,
+                                "end_time": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19df98d3a30918d8e7a207",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "celebrate",
+                        "playback_type": "inline",
+                        "start_time": 343.69822,
+                        "end_time": 351.2928866666667,
+                        "duration": 7.594666666666667,
+                        "file_name": "5yGDP151_bM_5c19df98d3a30918d8e7a207.wav",
+                        "file_size_bytes": 1458220,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219060512,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2f7fbe258d5dd34df9",
+                                "sentence": " The man runs to the hole and celebrates,",
+                                "start_time": 0.08,
+                                "end_time": 2.53
+                            },
+                            {
+                                "_id": "5e36eb2f7fbe258d5dd34df8",
+                                "sentence": " he brings over a wheelbarrow of tools, and a cloud of dust rises as he begins to work.",
+                                "start_time": 2.53,
+                                "end_time": 7.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19dfedd3a30918d8e7a208",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "dust",
+                        "playback_type": "inline",
+                        "start_time": 356.545646,
+                        "end_time": 365.8469793333333,
+                        "duration": 9.301333333333334,
+                        "file_name": "5yGDP151_bM_5c19dfedd3a30918d8e7a208.wav",
+                        "file_size_bytes": 1785900,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219060637,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2f7fbe258d5dd34e0a",
+                                "sentence": " When the dust clears, the new joining peace of the over passes in place and the man is standing in the middle of it around shadow appears at his feet and grows rapidly. The man looks up.",
+                                "start_time": 0.16,
+                                "end_time": 9.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19e174db5fb418cbb9db22",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "crash",
+                        "playback_type": "inline",
+                        "start_time": 367.228341,
+                        "end_time": 375.50567433333333,
+                        "duration": 8.277333333333333,
+                        "file_name": "5yGDP151_bM_5c19e174db5fb418cbb9db22.wav",
+                        "file_size_bytes": 1589292,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219061308,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34de5",
+                                "sentence": " The tree crashes down, rising a huge cloud of dust.",
+                                "start_time": 0.16,
+                                "end_time": 3.27
+                            },
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34de4",
+                                "sentence": " The dust clears to show the tree has broken the new overpass piece on his blocking traffic again.",
+                                "start_time": 3.27,
+                                "end_time": 8.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19e187db5fb418cbb9db23",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "flat",
+                        "playback_type": "inline",
+                        "start_time": 375.316724,
+                        "end_time": 382.1433906666667,
+                        "duration": 6.826666666666667,
+                        "file_name": "5yGDP151_bM_5c19e187db5fb418cbb9db23.wav",
+                        "file_size_bytes": 1310764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219061327,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dd4",
+                                "sentence": " The man pulls himself out from under the tree. He lies face down on the ground, then kicks his feet and beats his fists on the ground.",
+                                "start_time": 0,
+                                "end_time": 6.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19e1a9d3a30918d8e7a209",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "binoculars again",
+                        "playback_type": "inline",
+                        "start_time": 382.651019,
+                        "end_time": 388.88035233333335,
+                        "duration": 6.229333333333333,
+                        "file_name": "5yGDP151_bM_5c19e1a9d3a30918d8e7a209.wav",
+                        "file_size_bytes": 1196076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219061401,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2f7fbe258d5dd34dfb",
+                                "sentence": " Pink panther watches through binoculars at the house. Pink panther and the beaver look at each other than down at the man.",
+                                "start_time": 0.03,
+                                "end_time": 6.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19e216db5fb418cbb9db25",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "solution",
+                        "playback_type": "inline",
+                        "start_time": 388.850976,
+                        "end_time": 402.5896426666667,
+                        "duration": 13.738666666666667,
+                        "file_name": "5yGDP151_bM_5c19e216db5fb418cbb9db25.wav",
+                        "file_size_bytes": 2637868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219061550,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34deb",
+                                "sentence": " Pink panther touches a man shoulder.",
+                                "start_time": 0.11,
+                                "end_time": 2.62
+                            },
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dea",
+                                "sentence": " When he turns pink, panther is standing there with an axe. With him are the beaver and the ants.",
+                                "start_time": 2.62,
+                                "end_time": 7.37
+                            },
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34de9",
+                                "sentence": " The man watches as the ant, and beaver run up the trunk of the tree.",
+                                "start_time": 7.37,
+                                "end_time": 11.16
+                            },
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34de8",
+                                "sentence": " Wood chips fall on him, and he grins.",
+                                "start_time": 11.16,
+                                "end_time": 13.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19e25adb5fb418cbb9db26",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "cash",
+                        "playback_type": "inline",
+                        "start_time": 401.881088,
+                        "end_time": 411.86508799999996,
+                        "duration": 9.984,
+                        "file_name": "5yGDP151_bM_5c19e25adb5fb418cbb9db26.wav",
+                        "file_size_bytes": 1916972,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219061658,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2f7fbe258d5dd34e06",
+                                "sentence": " The man is handed cash. When car drives away in another, pulls up a tunnel has been put through the tree and the overpass runs through it. And the man has a toll booth inside.",
+                                "start_time": 0,
+                                "end_time": 9.03
+                            },
+                            {
+                                "_id": "5e36eb2f7fbe258d5dd34e05",
+                                "sentence": " Yeah.",
+                                "start_time": 9.16,
+                                "end_time": 9.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19e299d3a30918d8e7a20b",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "eating",
+                        "playback_type": "inline",
+                        "start_time": 410.566707,
+                        "end_time": 417.734707,
+                        "duration": 7.168,
+                        "file_name": "5yGDP151_bM_5c19e299d3a30918d8e7a20b.wav",
+                        "file_size_bytes": 1376300,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219061801,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dc1",
+                                "sentence": " In the tree house, pink panther eat steak, and the beaver eats a piece of wood at a table. The ants eat their piece of wood chunk of table below it.",
+                                "start_time": 0.04,
+                                "end_time": 7.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19e2b5d3a30918d8e7a20c",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "laughs",
+                        "playback_type": "inline",
+                        "start_time": 419.499426,
+                        "end_time": 421.12075933333335,
+                        "duration": 1.6213333333333333,
+                        "file_name": "5yGDP151_bM_5c19e2b5d3a30918d8e7a20c.wav",
+                        "file_size_bytes": 311340,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219061829,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4df3317f8d5e96ba72",
+                                "sentence": " Everyone laughs.",
+                                "start_time": 0.24,
+                                "end_time": 1.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c19e2fad3a30918d8e7a20d",
+                        "video": "5c19d445d3a30918d8e7a1e0",
+                        "audio_description": "5c19d445d3a30918d8e7a1df",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "end",
+                        "playback_type": "inline",
+                        "start_time": 421.82144,
+                        "end_time": 426.0027733333333,
+                        "duration": 4.181333333333333,
+                        "file_name": "5yGDP151_bM_5c19e2fad3a30918d8e7a20d.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5yGDP151_bM",
+                        "created_at": 20181219061938,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2e7fbe258d5dd34dd0",
+                                "sentence": " Pink writing on a blue sky, pink panther and pals.",
+                                "start_time": 0.27,
+                                "end_time": 4.12
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c19d445d3a30918d8e7a1df",
+                "video": "5c19d445d3a30918d8e7a1e0",
+                "user": {
+                    "opt_in": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "_id": "5be84e71adab15594f5695b8",
+                    "email": "melissa@abroomandaspoon.com",
+                    "name": "Melissa Hope",
+                    "given_name": "Melissa",
+                    "picture": "https://lh3.googleusercontent.com/-NH6cVqfO3mo/AAAAAAAAAAI/AAAAAAAAADM/KtvGqtns5s4/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102733358263403136327",
+                    "last_login": 20210110191137,
+                    "token": "662d89f15386822578295ff1017613bfa533e569f8448b7bdb9fed407ec5baee",
+                    "__v": 0,
+                    "updated_at": 20210110191137,
+                    "policy_review": "reviewed"
+                },
+                "status": "published",
+                "language": "en-ca",
+                "created_at": 20181219051653,
+                "updated_at": 20200702082116,
+                "notes": "Title: The Mighty Pinkwood Tree\n\nA house at top of a tree.\n\nIn the house, Pink Panther paints on a canvas. He holds out his thumb towards a bird in the window.\n\nHe stands back from his painting; it is of his thumb.\n\nHis house shakes.\n\nIt shakes again and he drops his paintbrush. He stomps out on to his porch and does a double-take: there\u2019s an overpass of traffic leading to his tree and leading from it.\n\nA small man in a hardhat is chopping at the massive tree with an axe.\n\nHe imagines the tree laughing at him, then imagines scaring it with a much bigger axe.\n\nHe runs away.\n\nA platform lowers. There\u2019s a bucket on it that Pink Panther picks up.\n\nThe man searches his truck. He tosses tools and a monkey with a wrench over his head, then produces an axe larger than he is.\n\nPink Panther pulls a massive paint brush out of the bucket and uses it to paint a layer of metal around the base of the tree.\n\nHe sits on the platform and it rises out of sight.\n\nThe man swings the axe at the tree and it bounces off, throwing him backwards into a lamppost. One of the lights falls from it and lands on his head, lighting him up until he pulls the cable to turn it off.\n\nThe man tries to start a weedwacker using a pull cable. A pink hand taps his shoulder. The man looks but sees no one, but when he turns back he is holding a baby doll. He throws the doll and reaches for a cable behind him, but it is to a raft which inflates rapidly. A wave of water washes through and washes him away in the raft.\n\nThe man has the weedwacker again. A pink hand taps his shoulder, but no one is behind him when he looks. When he pulls the pull cable again, he finds it is attached to a lawn mower  which pulls him straight up the trunk of the tree, along the underside of a branch, then straight out into the air. The lawn mower pauses and they drop out of sight. The lawn mower restarts and bounces him through the air.\n\nThe man glares at the tree, then grins at the box he is holding, which uses a diagram to show that it is a powder that will shrink a tree.\n\nHe skips around the base of the tree, sprinkling the powder.\n\nThe tree shakes and suddenly shrinks down to knee height. Pink Panther falls to the ground, causing the man to spill powder on himself. He shrinks too.\n\nThe tiny man runs away as Pink Panther reaches towards him. Pink Panther looks at the box.\n\nPink Panther grins. With one finger, he turns the down arrow on the diagram upwards. He sprinkles powder on the tiny tree. The tree grows rapidly to its original size between the pieces of the overpass.\n\nThe man has a carpenter ant in a box. He releases it and it completely consumes a pile of logs. He jumps and grins, and tucks the ant back in the box.\n\nPink Panther watches him through binoculars from the tree house. He pulls out a pink box with a heart on it and shakes an ant on to his palm. It hops around. He blows it out into the air and it descends on a parachute.\n\nAt the base of the tree, the man shakes his ant on to the ground as the parachute lands. The two ants bounce beside each other, than cuddle together and a heart appears above them. \n\nThe ants hop off together while the man\u2019s shoulders droop.\n\nThe man rubs his hands together as he stares at a cage with a picture of a vicious beaver devouring wood on the side. \n\nHe opens the cage and jumps back and watches the cage with an open mouthed grin. \n\nAfter nothing leaves the cage, his grin fades.\n\nHe picks up the cage and shakes it. \n\nA beaver falls out. His eyes are half-closed and his ears and whiskers are drooping. He has a bandage on one leg.\n\nThe man points at the tree. The beaver doesn\u2019t move. The man rubs his belly and licks his lips. He pretends to eat the tree. The beaver blinks slowly. \n\nA scent descends to the beaver\u2019s nose. The beaver\u2019s eyes widen and he bounces to his feet. He uses the man\u2019s head as a step to start running up the trunk of the tree.\n\nThe beaver watches as the Pink Panther fries a slice of wood. As Pink Panther flips the wood, the beaver takes a seat at the table with a fork and knife in his paws.\n\nPink Panther serves the beaver the wood. The beaver cuts off a piece and savours it. He gives the Pink Panther a thumbs up.\n\nThe man has bloodshot eyes and a manic grin. He works the controls on a wrecking ball at the base of the tree.\n\nHe sweats as he watches the ball swing. The ball taps the tree and everything shakes as cracks form in the ball. The man\u2019s eyes widen and mouth drops open as cracks spread through the whole machine and it shatters into pieces around him. \n\nPink Panther, the beaver, and the two ants watch from the tree house. They hold up scores of 5 and 6. The man\u2019s eyebrows knit together as cracks form all over him and he shatters as well, with just his eyes and eyebrows left.\n\nThe man looks at plans for a catapult to launch himself into the tree top, kidnap Pink Panther, chop down the tree, and unite the two pieces of the overpass. \n\nWearing a helmet, the man launches himself into the air. He flies through the house\u2019s window, through a cake held by Pink Panther, then through a pillow held by Pink Panther, then back through the far window, opened by Pink Panther.\n\nHe flies through the air covered in feathers. He looks down and flails, then falls fast. \n\nHe reappears, flapping his arms hard.\n\nHe gets smashed against the nose of an airplane.\n\nOn the ground, he coughs up feathers. \n\nHe grins down at a giant plank of wood. \n\nHe sticks one end under the tree and inserts a triangle block under the centre of the plank. On one of the overpasses, he pushes a massive weight off the edge so it falls on one end of the plank, launching the tree into the air.\n\nThe man runs to the hole and celebrates. He brings over a wheelbarrow of tools and a cloud of dust rises as he begins to work. \n\nWhen the dust clears, the new joining piece of the overpass is in place and the man is standing in the middle of it. A round shadow appears at his feet and grows rapidly. The man looks up.\n\nThe tree crashes down, rising a huge cloud of dust. The dust clears to show the tree has broken the new overpass piece and is blocking traffic again.\n\nThe man pulls himself out from under the tree. He lies face down on the ground, then kicks his feet and beats his fists on the ground. \n\nPink Panther watches through binoculars. At the house, Pink Panther and the beaver look at each other, then down at the man.\n\nPink Panther touches the man\u2019s shoulder. When he turns, Pink Panther is standing there with an axe. With him are the beaver and the ants. The man watches as the ants and beaver run up the trunk of the tree. Wood chips fall on him and he grins.\n\nThe man is handed cash. One car drives away and another pulls up. A tunnel has been put in the tree and the overpass runs through it, and the man has a toll booth inside. \n\nIn the tree house, Pink Panther eats steak and the beaver eats a piece of wood at a table. The ants eat their piece of wood and a chunk of table below it. \n\nEveryone laughs.\n\nPink writing on a blue sky: Pink Panther and Pals.",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 3,
+                "overall_rating_votes_sum": 15,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "freeway",
+            "tree house",
+            "construction",
+            "panther",
+            "the pink panther",
+            "big nose",
+            "dog",
+            "pink panther and pals",
+            "slapstick",
+            "body comedy",
+            "physical comedy",
+            "funny animals"
+        ],
+        "custom_tags": [],
+        "_id": "5c19d445d3a30918d8e7a1e0",
+        "title": "The Mighty Pinkwood Tree | Pink Panther and Pals",
+        "description": "Pink Panther tries to save his tree house when Big Nose wants to get rid of it and build a freeway instead.\n\nThe Pink Panther is the sly, lanky animated cat created by Friz Freleng and David DePatie. The iconic feline was first created in 1964.\n\nSubscribe for more Official Pink Panther content from MGM: http://bit.ly/2a6uNap\nNew episodes of Pink Panther and Pals will be uploaded every Monday, Thursday, and Saturday!\n\nOwn: http://amzn.to/29RCsMV (Amazon)\nhttp://apple.co/2a6Cf5m (iTunes)\n\nLike: https://www.facebook.com/officialpinkpanther/\nFollow: https://twitter.com/thepinkpanther",
+        "youtube_id": "5yGDP151_bM",
+        "created_at": 20181219051653,
+        "updated_at": 20181219061938,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 442
+    }
+}

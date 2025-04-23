@@ -1,0 +1,224 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5d1e",
+                        "audio_description": "58e7cf3746e13dfd851a26c2",
+                        "created_at": 20160929151546,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929151546,
+                        "file_name": "14751873461041.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2766,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24557,
+                        "video": "58e7cf2946e13dfd851a1ee1",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.04,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e44293279f74cbc7c082eb8",
+                                "sentence": " A light skin adult woman with shoulder length, brown hair,",
+                                "start_time": 0.34,
+                                "end_time": 6.07
+                            },
+                            {
+                                "_id": "5e44293279f74cbc7c082eb7",
+                                "sentence": " a black shirt, and a light blue scarf",
+                                "start_time": 6.09,
+                                "end_time": 9.9
+                            },
+                            {
+                                "_id": "5e44293279f74cbc7c082eb6",
+                                "sentence": " sits in front of a white wall.",
+                                "start_time": 9.9,
+                                "end_time": 13.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5d1f",
+                        "audio_description": "58e7cf3746e13dfd851a26c2",
+                        "created_at": 20160929151746,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929151746,
+                        "file_name": "14751874660291.wav",
+                        "start_time": 15.927,
+                        "legacy_video_id": 2766,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24558,
+                        "video": "58e7cf2946e13dfd851a1ee1",
+                        "end_time": 15.927,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.78,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e44281da888c4bc7acb61a9",
+                                "sentence": " An illustration of a light blue paper board with a large red star",
+                                "start_time": 0.23,
+                                "end_time": 7.54
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61a8",
+                                "sentence": " comes into view.",
+                                "start_time": 7.54,
+                                "end_time": 9.11
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61a7",
+                                "sentence": " As the picture resumed. In the bottom of the board chose the word star",
+                                "start_time": 9.23,
+                                "end_time": 15.9
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61a6",
+                                "sentence": " written and four raised white circles containing braille",
+                                "start_time": 15.9,
+                                "end_time": 21.62
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61a5",
+                                "sentence": " just above it.",
+                                "start_time": 21.62,
+                                "end_time": 23.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5d20",
+                        "audio_description": "58e7cf3746e13dfd851a26c2",
+                        "created_at": 20160929151920,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929151920,
+                        "file_name": "14751875600971.wav",
+                        "start_time": 23.853,
+                        "legacy_video_id": 2766,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24559,
+                        "video": "58e7cf2946e13dfd851a1ee1",
+                        "end_time": 23.853,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 31.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e442703c26fa0bc796fd497",
+                                "sentence": " A new illustration replaces the old one,",
+                                "start_time": 0.59,
+                                "end_time": 4.51
+                            },
+                            {
+                                "_id": "5e442703c26fa0bc796fd496",
+                                "sentence": " a young light skin child",
+                                "start_time": 4.67,
+                                "end_time": 7.86
+                            },
+                            {
+                                "_id": "5e442703c26fa0bc796fd495",
+                                "sentence": " sits at a braille a with an adult standing behind him.",
+                                "start_time": 7.86,
+                                "end_time": 12.72
+                            },
+                            {
+                                "_id": "5e442703c26fa0bc796fd494",
+                                "sentence": " The adult has his fingers resting on the braille keys, while the child's hand rest on Top of the adults.",
+                                "start_time": 12.82,
+                                "end_time": 22.25
+                            },
+                            {
+                                "_id": "5e442703c26fa0bc796fd493",
+                                "sentence": " The picture starts, zoomed in on their hands and zooms out slowly to show the full picture.",
+                                "start_time": 22.42,
+                                "end_time": 31.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5d21",
+                        "audio_description": "58e7cf3746e13dfd851a26c2",
+                        "created_at": 20160929151957,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929151957,
+                        "file_name": "14751875972841.wav",
+                        "start_time": 31.862,
+                        "legacy_video_id": 2766,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24560,
+                        "video": "58e7cf2946e13dfd851a1ee1",
+                        "end_time": 31.862,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ca888c4bc7acb6108",
+                                "sentence": " The scene transitions back to the woman sitting in front of the white wall.",
+                                "start_time": 0,
+                                "end_time": 5.89
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a26c2",
+                "status": "published",
+                "legacy_video_id": 2766,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1ee1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ee1",
+        "description": "",
+        "youtube_id": "KLNDN9B0Ubo",
+        "views": 0,
+        "created_at": 20160929151433,
+        "title": "Sandra Kennrick: Literacy and Homemade Books",
+        "legacy_video_id": 2766,
+        "updated_at": 20160929151957,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 56
+    }
+}

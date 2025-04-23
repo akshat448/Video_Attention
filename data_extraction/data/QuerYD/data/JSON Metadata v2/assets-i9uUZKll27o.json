@@ -1,0 +1,148 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf3f46e13dfd851a2a07",
+                        "audio_description": "58e7cf2b46e13dfd851a20be",
+                        "created_at": 20130805111959,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130805111959,
+                        "file_name": "i9uUZKll27o-83-1-0-4-0.wav",
+                        "start_time": 4,
+                        "legacy_video_id": 1267,
+                        "legacy_user_id": 83,
+                        "label": "",
+                        "legacy_audio_clip_id": 3415,
+                        "video": "58e7cf2846e13dfd851a1915",
+                        "end_time": 4,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20b7",
+                        "transcript": [
+                            {
+                                "_id": "5e1fc1938520e28db1de234b",
+                                "sentence": " Mister d is a blue cartoon character with big eyes covered by square glasses.",
+                                "start_time": 0.03,
+                                "end_time": 6.03
+                            },
+                            {
+                                "_id": "5e1fc1938520e28db1de234a",
+                                "sentence": " He's wearing a t shirt with a letter d on it, and a pair of shorts.",
+                                "start_time": 6.03,
+                                "end_time": 10.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3f46e13dfd851a2a08",
+                        "audio_description": "58e7cf2b46e13dfd851a20be",
+                        "created_at": 20130805112225,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130805112225,
+                        "file_name": "i9uUZKll27o-83-1-0-10-0.wav",
+                        "start_time": 10,
+                        "legacy_video_id": 1267,
+                        "legacy_user_id": 83,
+                        "label": "",
+                        "legacy_audio_clip_id": 3420,
+                        "video": "58e7cf2846e13dfd851a1915",
+                        "end_time": 10,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20b7",
+                        "transcript": [
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f76d",
+                                "sentence": " Mister d walks a tightrope",
+                                "start_time": 0,
+                                "end_time": 2.54
+                            },
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f76c",
+                                "sentence": " while he juggles several letters.",
+                                "start_time": 2.54,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3f46e13dfd851a2a09",
+                        "audio_description": "58e7cf2b46e13dfd851a20be",
+                        "created_at": 20130805112412,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130805112412,
+                        "file_name": "i9uUZKll27o-83-1-0-13-0.wav",
+                        "start_time": 13,
+                        "legacy_video_id": 1267,
+                        "legacy_user_id": 83,
+                        "label": "",
+                        "legacy_audio_clip_id": 3423,
+                        "video": "58e7cf2846e13dfd851a1915",
+                        "end_time": 13,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20b7",
+                        "transcript": [
+                            {
+                                "_id": "5e1b0d6ee2b19a1588f3c041",
+                                "sentence": " At the end of the clip, the letters above him form the word balance.",
+                                "start_time": 0,
+                                "end_time": 5.38
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20be",
+                "status": "published",
+                "legacy_video_id": 1267,
+                "legacy_user_id": 83,
+                "video": "58e7cf2846e13dfd851a1915",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20b7",
+                    "name": "mvdiaz",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20141205043002,
+                    "legacy_user_id": 83,
+                    "last_login": 0,
+                    "email": "mvdiaz@dicapta.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1915",
+        "description": "",
+        "youtube_id": "i9uUZKll27o",
+        "views": 0,
+        "created_at": 20130805111845,
+        "title": "Mr. D- Find a  balance",
+        "legacy_video_id": 1267,
+        "updated_at": 20130805112412,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 16
+    }
+}

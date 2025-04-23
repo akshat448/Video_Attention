@@ -1,0 +1,742 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d329adc9d41be1e9b2eb19a",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 2.55352,
+                        "end_time": 2.55352,
+                        "duration": 24.427392290249433,
+                        "file_name": "D6lmibFiur8_5d329adc9d41be1e9b2eb19a.wav",
+                        "file_size_bytes": 4309036,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720043852,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c1a7f8232990368e8f1",
+                                "sentence": " An introductory slide is shown with text printed on it.",
+                                "start_time": 0.23,
+                                "end_time": 5.33
+                            },
+                            {
+                                "_id": "5e557c1a7f8232990368e8f0",
+                                "sentence": " At the Top left, it says edge hill university",
+                                "start_time": 5.33,
+                                "end_time": 9.1
+                            },
+                            {
+                                "_id": "5e557c1a7f8232990368e8ef",
+                                "sentence": " at the center, it says lecture capture dash, penn auto",
+                                "start_time": 9.1,
+                                "end_time": 14.31
+                            },
+                            {
+                                "_id": "5e557c1a7f8232990368e8ee",
+                                "sentence": " presenting performance and practice",
+                                "start_time": 14.31,
+                                "end_time": 17.35
+                            },
+                            {
+                                "_id": "5e557c1a7f8232990368e8ed",
+                                "sentence": " at the bottom. Right? A purple logo with learning technology development printed in white.",
+                                "start_time": 17.35,
+                                "end_time": 23.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d329ba3e261b61e394e4424",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 8.701505059127808,
+                        "end_time": 8.701505059127808,
+                        "duration": 24.055873015873015,
+                        "file_name": "D6lmibFiur8_5d329ba3e261b61e394e4424.wav",
+                        "file_size_bytes": 4243500,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720044211,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2e7604239900952363",
+                                "sentence": " Sure,",
+                                "start_time": 0,
+                                "end_time": 0.61
+                            },
+                            {
+                                "_id": "5e557b2e7604239900952362",
+                                "sentence": " the frame changes to an ethnically white male sitting in what appears to be an office. While being interviewed.",
+                                "start_time": 1,
+                                "end_time": 10.33
+                            },
+                            {
+                                "_id": "5e557b2e7604239900952361",
+                                "sentence": " He has a microphone attached to his shirt around the chest area, and he's looking straight into the camera.",
+                                "start_time": 10.33,
+                                "end_time": 17.37
+                            },
+                            {
+                                "_id": "5e557b2e7604239900952360",
+                                "sentence": " Yeah.",
+                                "start_time": 17.68,
+                                "end_time": 18.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d329c49e261b61e394e4425",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 13.629603011444091,
+                        "end_time": 13.629603011444091,
+                        "duration": 24.427392290249433,
+                        "file_name": "D6lmibFiur8_5d329c49e261b61e394e4425.wav",
+                        "file_size_bytes": 4309036,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720044457,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2e76042399009523a9",
+                                "sentence": " The",
+                                "start_time": 0,
+                                "end_time": 0.56
+                            },
+                            {
+                                "_id": "5e557b2e76042399009523a8",
+                                "sentence": " the frame changes to the entrance of a college campus. There is a white and purple sign",
+                                "start_time": 0.88,
+                                "end_time": 7.85
+                            },
+                            {
+                                "_id": "5e557b2e76042399009523a7",
+                                "sentence": " in the foreground with edge hill university faculty of health and social care.",
+                                "start_time": 7.85,
+                                "end_time": 14.3
+                            },
+                            {
+                                "_id": "5e557b2e76042399009523a6",
+                                "sentence": " Western campus printed on it",
+                                "start_time": 14.3,
+                                "end_time": 17.38
+                            },
+                            {
+                                "_id": "5e557b2e76042399009523a5",
+                                "sentence": " in the background. There is a modern",
+                                "start_time": 17.38,
+                                "end_time": 19.92
+                            },
+                            {
+                                "_id": "5e557b2e76042399009523a4",
+                                "sentence": " campus building with people walking past the camera.",
+                                "start_time": 19.92,
+                                "end_time": 24.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d329d4a9d41be1e9b2eb19b",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 18.756868975204465,
+                        "end_time": 18.756868975204465,
+                        "duration": 32.60081632653061,
+                        "file_name": "D6lmibFiur8_5d329d4a9d41be1e9b2eb19b.wav",
+                        "file_size_bytes": 5750828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720044914,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e51760423990095242f",
+                                "sentence": " The frame changes back to Kevin and the office. He looks up",
+                                "start_time": 0,
+                                "end_time": 5.75
+                            },
+                            {
+                                "_id": "5e557e51760423990095242e",
+                                "sentence": " as he speaks. A small video is shown on the bottom left as a visual tool",
+                                "start_time": 5.75,
+                                "end_time": 11.86
+                            },
+                            {
+                                "_id": "5e557e51760423990095242d",
+                                "sentence": " of the things Kevin is talking about.",
+                                "start_time": 11.86,
+                                "end_time": 14.46
+                            },
+                            {
+                                "_id": "5e557e51760423990095242c",
+                                "sentence": " First a classroom with students and laptops.",
+                                "start_time": 14.6,
+                                "end_time": 18.48
+                            },
+                            {
+                                "_id": "5e557e51760423990095242b",
+                                "sentence": " Second a closet,",
+                                "start_time": 18.48,
+                                "end_time": 21.36
+                            },
+                            {
+                                "_id": "5e557e51760423990095242a",
+                                "sentence": " a close up of a tablet or laptop with a girl sitting in front of it.",
+                                "start_time": 21.39,
+                                "end_time": 26.5
+                            },
+                            {
+                                "_id": "5e557e517604239900952429",
+                                "sentence": " And 3rd, the same girl is looking at a laptop while speaking into a headset.",
+                                "start_time": 26.5,
+                                "end_time": 32.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d329df09d41be1e9b2eb19c",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 76.0777328626709,
+                        "end_time": 76.0777328626709,
+                        "duration": 11.331337868480725,
+                        "file_name": "D6lmibFiur8_5d329df09d41be1e9b2eb19c.wav",
+                        "file_size_bytes": 1998892,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720045200,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e5176042399009523fa",
+                                "sentence": " The",
+                                "start_time": 0,
+                                "end_time": 0.71
+                            },
+                            {
+                                "_id": "5e557e5176042399009523f9",
+                                "sentence": " the small video on the bottom left disappears. Kevin continues to speak while looking up, and sometimes at the camera.",
+                                "start_time": 1.6,
+                                "end_time": 10.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d329e94e261b61e394e4427",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 101.18806004768372,
+                        "end_time": 101.18806004768372,
+                        "duration": 16.34684807256236,
+                        "file_name": "D6lmibFiur8_5d329e94e261b61e394e4427.wav",
+                        "file_size_bytes": 2883628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720045444,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c197f8232990368e8a3",
+                                "sentence": " The",
+                                "start_time": 0,
+                                "end_time": 0.57
+                            },
+                            {
+                                "_id": "5e557c197f8232990368e8a2",
+                                "sentence": " the frame changes to a web page scrolling through a series of video clips.",
+                                "start_time": 0.72,
+                                "end_time": 6.78
+                            },
+                            {
+                                "_id": "5e557c197f8232990368e8a1",
+                                "sentence": " A clip is selected and chose a hospital setting with four doctors surrounding a patient",
+                                "start_time": 6.78,
+                                "end_time": 13.49
+                            },
+                            {
+                                "_id": "5e557c197f8232990368e8a0",
+                                "sentence": " who is laying on a hospital bed.",
+                                "start_time": 13.49,
+                                "end_time": 15.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d329ef4e261b61e394e4428",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 110.26638096376037,
+                        "end_time": 110.26638096376037,
+                        "duration": 10.7740589569161,
+                        "file_name": "D6lmibFiur8_5d329ef4e261b61e394e4428.wav",
+                        "file_size_bytes": 1900588,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720045620,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e558ce7e7cbb2f900b180f2",
+                                "sentence": " The",
+                                "start_time": 0,
+                                "end_time": 0.63
+                            },
+                            {
+                                "_id": "5e558ce7e7cbb2f900b180f1",
+                                "sentence": " the frame changes back to Kevin. His right hand is slightly above his head",
+                                "start_time": 0.73,
+                                "end_time": 6.89
+                            },
+                            {
+                                "_id": "5e558ce7e7cbb2f900b180f0",
+                                "sentence": " with his index finger pointing upwards.",
+                                "start_time": 6.89,
+                                "end_time": 10.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d329f479d41be1e9b2eb19e",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 116.20804700762939,
+                        "end_time": 116.20804700762939,
+                        "duration": 13.653333333333334,
+                        "file_name": "D6lmibFiur8_5d329f479d41be1e9b2eb19e.wav",
+                        "file_size_bytes": 2408492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720045743,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e517604239900952412",
+                                "sentence": " Quick.",
+                                "start_time": 0,
+                                "end_time": 0.68
+                            },
+                            {
+                                "_id": "5e557e517604239900952411",
+                                "sentence": " The frame changes back to a web page with a selection of videos.",
+                                "start_time": 0.88,
+                                "end_time": 6.46
+                            },
+                            {
+                                "_id": "5e557e517604239900952410",
+                                "sentence": " The cursor moves around the screen to navigate different applications available on the web page.",
+                                "start_time": 6.46,
+                                "end_time": 13.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d329fb3e261b61e394e4429",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 140.61529994468688,
+                        "end_time": 140.61529994468688,
+                        "duration": 9.47374149659864,
+                        "file_name": "D6lmibFiur8_5d329fb3e261b61e394e4429.wav",
+                        "file_size_bytes": 1671212,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720045931,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5579b87f8232990368e85b",
+                                "sentence": " The",
+                                "start_time": 0,
+                                "end_time": 0.57
+                            },
+                            {
+                                "_id": "5e5579b87f8232990368e85a",
+                                "sentence": " the frame changes back to Kevin. He looks into the camera as he speaks,",
+                                "start_time": 0.88,
+                                "end_time": 6.81
+                            },
+                            {
+                                "_id": "5e5579b87f8232990368e859",
+                                "sentence": " and sometimes at the interviewer.",
+                                "start_time": 6.81,
+                                "end_time": 9.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32a01c9d41be1e9b2eb19f",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 158.6058568321533,
+                        "end_time": 158.6058568321533,
+                        "duration": 16.34684807256236,
+                        "file_name": "D6lmibFiur8_5d32a01c9d41be1e9b2eb19f.wav",
+                        "file_size_bytes": 2883628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720050116,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e55787176042399009522b0",
+                                "sentence": " The",
+                                "start_time": 0,
+                                "end_time": 0.62
+                            },
+                            {
+                                "_id": "5e55787176042399009522af",
+                                "sentence": " the frame changes to a different angle of",
+                                "start_time": 1.07,
+                                "end_time": 4.51
+                            },
+                            {
+                                "_id": "5e55787176042399009522ae",
+                                "sentence": " Kevin being interviewed in the office. This angle shows more of the right side of kevin's body.",
+                                "start_time": 4.54,
+                                "end_time": 11.99
+                            },
+                            {
+                                "_id": "5e55787176042399009522ad",
+                                "sentence": " He continues to look back and forth as he speaks.",
+                                "start_time": 11.99,
+                                "end_time": 16.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32a0679d41be1e9b2eb1a0",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 171.95456491226196,
+                        "end_time": 171.95456491226196,
+                        "duration": 6.780226757369615,
+                        "file_name": "D6lmibFiur8_5d32a0679d41be1e9b2eb1a0.wav",
+                        "file_size_bytes": 1196076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720050231,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c197f8232990368e8ad",
+                                "sentence": " The",
+                                "start_time": 0,
+                                "end_time": 0.59
+                            },
+                            {
+                                "_id": "5e557c197f8232990368e8ac",
+                                "sentence": " the frame changes to kevin's left side as he continues to speak.",
+                                "start_time": 0.72,
+                                "end_time": 6.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32a0f6e261b61e394e442a",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 191.0938270152588,
+                        "end_time": 191.0938270152588,
+                        "duration": 21.640997732426303,
+                        "file_name": "D6lmibFiur8_5d32a0f6e261b61e394e442a.wav",
+                        "file_size_bytes": 3817516,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720050454,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557bad14a7ae98ff6a9a77",
+                                "sentence": " The",
+                                "start_time": 0,
+                                "end_time": 0.56
+                            },
+                            {
+                                "_id": "5e557bad14a7ae98ff6a9a76",
+                                "sentence": " the frame changes to the same previously shown college campus from a different angle.",
+                                "start_time": 0.93,
+                                "end_time": 7.94
+                            },
+                            {
+                                "_id": "5e557bad14a7ae98ff6a9a75",
+                                "sentence": " At the foreground, there is a small pool of muddy water surrounded by green grass.",
+                                "start_time": 7.94,
+                                "end_time": 13.83
+                            },
+                            {
+                                "_id": "5e557bad14a7ae98ff6a9a74",
+                                "sentence": " In the background, there is a modern college campus building with students in the distance.",
+                                "start_time": 13.83,
+                                "end_time": 20.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32a1579d41be1e9b2eb1a1",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 196.2574029065399,
+                        "end_time": 196.2574029065399,
+                        "duration": 9.102222222222222,
+                        "file_name": "D6lmibFiur8_5d32a1579d41be1e9b2eb1a1.wav",
+                        "file_size_bytes": 1605676,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720050631,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2c76042399009522e2",
+                                "sentence": " It",
+                                "start_time": 0,
+                                "end_time": 0.89
+                            },
+                            {
+                                "_id": "5e557b2c76042399009522e1",
+                                "sentence": " the frame changes back to Kevin and the office. He continues to speak while looking back and forth.",
+                                "start_time": 0.89,
+                                "end_time": 8.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32a1aee261b61e394e442b",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 205.93068888746643,
+                        "end_time": 205.93068888746643,
+                        "duration": 13.003174603174603,
+                        "file_name": "D6lmibFiur8_5d32a1aee261b61e394e442b.wav",
+                        "file_size_bytes": 2293804,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720050758,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e5076042399009523de",
+                                "sentence": " But",
+                                "start_time": 0,
+                                "end_time": 1
+                            },
+                            {
+                                "_id": "5e557e5076042399009523dd",
+                                "sentence": " the frame changes to a college campus hallway. There are students standing around and a sign that says clinical studies, faculty of health,",
+                                "start_time": 1,
+                                "end_time": 12.38
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32a1dfe261b61e394e442c",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 210.25965890272522,
+                        "end_time": 210.25965890272522,
+                        "duration": 7.894784580498866,
+                        "file_name": "D6lmibFiur8_5d32a1dfe261b61e394e442c.wav",
+                        "file_size_bytes": 1392684,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720050847,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c1a7f8232990368e8d6",
+                                "sentence": " The",
+                                "start_time": 0,
+                                "end_time": 0.94
+                            },
+                            {
+                                "_id": "5e557c1a7f8232990368e8d5",
+                                "sentence": " the frame changes back to Kevin. He mostly looked to his left",
+                                "start_time": 0.94,
+                                "end_time": 6.38
+                            },
+                            {
+                                "_id": "5e557c1a7f8232990368e8d4",
+                                "sentence": " as he speaks.",
+                                "start_time": 6.38,
+                                "end_time": 7.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32a2779d41be1e9b2eb1a2",
+                        "video": "5d3298d69d41be1e9b2eb197",
+                        "audio_description": "5d3298d69d41be1e9b2eb196",
+                        "user": "5d3262be9d41be1e9b2eb16b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 223.92042296948242,
+                        "end_time": 223.92042296948242,
+                        "duration": 34.5512925170068,
+                        "file_name": "D6lmibFiur8_5d32a2779d41be1e9b2eb1a2.wav",
+                        "file_size_bytes": 6094892,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D6lmibFiur8",
+                        "created_at": 20190720051119,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c1a7f8232990368e8e1",
+                                "sentence": " The frame changes to a conclusion. Aris lied that says",
+                                "start_time": 0.93,
+                                "end_time": 5.6
+                            },
+                            {
+                                "_id": "5e557c1a7f8232990368e8e0",
+                                "sentence": " edge hill university on the Top left",
+                                "start_time": 5.6,
+                                "end_time": 9.04
+                            },
+                            {
+                                "_id": "5e557c1a7f8232990368e8df",
+                                "sentence": " the center of the frame says want to find out more about pinup toe, question mark,",
+                                "start_time": 9.04,
+                                "end_time": 16.27
+                            },
+                            {
+                                "_id": "5e557c1a7f8232990368e8de",
+                                "sentence": " contact learning services, colon",
+                                "start_time": 16.27,
+                                "end_time": 19.63
+                            },
+                            {
+                                "_id": "5e557c1a7f8232990368e8dd",
+                                "sentence": " lecture capture at edge hill dot a c dot u k",
+                                "start_time": 19.63,
+                                "end_time": 25.38
+                            },
+                            {
+                                "_id": "5e557c1a7f8232990368e8dc",
+                                "sentence": " the bottom right of the frame has a purple logo with learning technology development",
+                                "start_time": 25.38,
+                                "end_time": 32.27
+                            },
+                            {
+                                "_id": "5e557c1a7f8232990368e8db",
+                                "sentence": " printed in white.",
+                                "start_time": 32.27,
+                                "end_time": 34.03
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d3298d69d41be1e9b2eb196",
+                "video": "5d3298d69d41be1e9b2eb197",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d3262be9d41be1e9b2eb16b",
+                    "email": "gmeinbergpaganini@fordham.edu",
+                    "name": "Giovanna Meinberg Paganini",
+                    "given_name": "Giovanna",
+                    "picture": "https://lh3.googleusercontent.com/---BvxIIuGUo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reiReOLQEiMmqTjCEWSn6dGHZgHuQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "110275479653168353019",
+                    "last_login": 20190720062654,
+                    "token": "9e680c9b86dfbc90f0f4f7b8d22e82a9f3de42b9370edac36b262a6d2b768b77",
+                    "__v": 0,
+                    "updated_at": 20190720062654,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190720043014,
+                "updated_at": 20200508121508,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "assessment",
+            "formative assessment",
+            "summative assessment",
+            "lecture capture",
+            "case study",
+            "good practice",
+            "best practice",
+            "technology",
+            "learning technology",
+            "Edge Hill University",
+            "Learning Services",
+            "Kevin Henshaw",
+            "ODP",
+            "Operating Department Practice",
+            "Learning Technology Development"
+        ],
+        "custom_tags": [],
+        "_id": "5d3298d69d41be1e9b2eb197",
+        "title": "Technology Supported Learning - Lecture Capture (Student Observation).",
+        "description": "Kevin Henshaw is a Senior Lecturer in Operating Department Practice at Edge Hill University.  Kevin talks about his experience of using Panopto software for student observations in both formative and summative assessment.\n\nTranscript: http://eshare.edgehill.ac.uk/id/document/40200",
+        "youtube_id": "D6lmibFiur8",
+        "created_at": 20190720043014,
+        "updated_at": 20190720051119,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 232
+    }
+}

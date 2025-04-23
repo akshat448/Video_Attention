@@ -1,0 +1,147 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5cd3663aabc2b679a39dda06",
+                        "video": "5cd35e21125b9b71bec3117a",
+                        "audio_description": "5cd35e21125b9b71bec31179",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "anchor table",
+                        "playback_type": "extended",
+                        "start_time": 0.23749883787536621,
+                        "end_time": 0.23749883787536621,
+                        "duration": 11.981496598639456,
+                        "file_name": "I1Lpw_nJ9dk_5cd3663aabc2b679a39dda06.wav",
+                        "file_size_bytes": 2113580,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/I1Lpw_nJ9dk",
+                        "created_at": 20190508232858,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e19aefae1231e09988",
+                                "sentence": " Cameo cell model demonstration, a table with two predominantly displayed objects, a 3D model of a cell on the left,",
+                                "start_time": 0.26,
+                                "end_time": 6.47
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09987",
+                                "sentence": " and an open black laptop on the right. The screen of a laptop shows the 3D model in real time.",
+                                "start_time": 6.47,
+                                "end_time": 11.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cd3669f7e12a779a02c6fcf",
+                        "video": "5cd35e21125b9b71bec3117a",
+                        "audio_description": "5cd35e21125b9b71bec31179",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "hand stylus",
+                        "playback_type": "inline",
+                        "start_time": 1.1362208531341556,
+                        "end_time": 6.61613015018631,
+                        "duration": 5.479909297052155,
+                        "file_name": "I1Lpw_nJ9dk_5cd3669f7e12a779a02c6fcf.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/I1Lpw_nJ9dk",
+                        "created_at": 20190508233039,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e843f9dc541230061b70",
+                                "sentence": " A hand with a square wooden stylus with black and white bar code markers touches the structure of the cell.",
+                                "start_time": 0.12,
+                                "end_time": 5.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cd3689d7e12a779a02c6fd2",
+                        "video": "5cd35e21125b9b71bec3117a",
+                        "audio_description": "5cd35e21125b9b71bec31179",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "stylus pulled away",
+                        "playback_type": "inline",
+                        "start_time": 12.484451895095825,
+                        "end_time": 16.2925244574541,
+                        "duration": 3.8080725623582765,
+                        "file_name": "I1Lpw_nJ9dk_5cd3689d7e12a779a02c6fd2.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/I1Lpw_nJ9dk",
+                        "created_at": 20190508233909,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e842f9dc541230061af8",
+                                "sentence": " The stylus is pulled away and comes back to such a different part of the cell model.",
+                                "start_time": 0.11,
+                                "end_time": 3.72
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5cd35e21125b9b71bec31179",
+                "video": "5cd35e21125b9b71bec3117a",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "591ccdc32805421bd3af5910",
+                    "email": "charitypc@gmail.com",
+                    "name": "Charity Pitcher-Cooper",
+                    "given_name": "Charity",
+                    "picture": "https://lh5.googleusercontent.com/-QWgHIV6dqG4/AAAAAAAAAAI/AAAAAAAAA8k/zbElaAqZIsY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102960542363040396571",
+                    "last_login": 20210122172832,
+                    "token": "3d49b4ee09a7b279fbc2705b8e6dd7c75ec919e82a13d07eb1c9925ff7849cf2",
+                    "__v": 0,
+                    "updated_at": 20210122172832,
+                    "policy_review": "reviewed",
+                    "admin": 1
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190508225425,
+                "updated_at": 20190508234120,
+                "notes": "CamIO Cell Model Demonstration\n\nA table with two prominently displayed objects, a 3D model of a cell on the left, and an open black laptop on the right. The screen of the laptop shows the 3D model in real time.\n\nA hand with a square wooden stylus with black and white barcode markers touches a structure of the cell. \n\nThe stylus is pulled away, and comes back to touch a different part of the cell model\n\n",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "CamIO",
+            "Audio Haptic",
+            "Blind",
+            "Visually Impaired",
+            "Smith-Kettlewell"
+        ],
+        "custom_tags": [],
+        "_id": "5cd35e21125b9b71bec3117a",
+        "title": "CamIO Cell Model Demonstration",
+        "description": "CamIO (short for \u201cCamera Input-Output\u201d) is a system to make physical objects (such as documents, maps, devices and 3D models) accessible to blind and visually impaired persons, by providing real-time audio feedback in response to the location on an object that the user is touching.",
+        "youtube_id": "I1Lpw_nJ9dk",
+        "created_at": 20190508225425,
+        "updated_at": 20190508233909,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Science & Technology",
+        "category_id": "28",
+        "duration": 36
+    }
+}

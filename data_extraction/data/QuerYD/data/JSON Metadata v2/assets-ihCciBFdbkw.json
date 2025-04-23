@@ -1,0 +1,722 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5938983d53f02d7a0fdd3a57",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5938983d53f02d7a0fdd3a58",
+                        "user": "58efd3aa982dc859d3b56dfe",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 9.97315282070923,
+                        "end_time": 25.948481618895173,
+                        "duration": 15.975328798185942,
+                        "file_name": "ihCciBFdbkw_5938983d53f02d7a0fdd3a57.wav",
+                        "file_size_bytes": 2818092,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20170608002013,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5938983d53f02d7a0fdd3a58",
+                "video": "5938983d53f02d7a0fdd3a59",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58efd3aa982dc859d3b56dfe",
+                    "email": "trungdinh0429@gmail.com",
+                    "name": "Trung Dinh",
+                    "given_name": "Trung",
+                    "picture": "https://lh6.googleusercontent.com/-nEpyqID_kRI/AAAAAAAAAAI/AAAAAAAAAAA/AMcAYi_oMHmm4sAxW1btOsu0fjcvdE3zZQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "103038597696501227025",
+                    "last_login": 20170612190729,
+                    "token": "4207aba294c2cb2dd0b7d479073629abc72dfd5cf59c83db733bf0cb7aa54d38",
+                    "__v": 0,
+                    "updated_at": 20170612190729,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20170608002013,
+                "updated_at": 20170608002013,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "594095a9a01de163a4ae0062",
+                        "video": null,
+                        "audio_description": null,
+                        "user": "593f44155de2104355026c72",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 13.188934240362812,
+                        "file_name": null,
+                        "file_size_bytes": 2326572,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20170614014721,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "594095a9a01de163a4ae0063",
+                "video": "5938983d53f02d7a0fdd3a59",
+                "user": {
+                    "opt_in": [],
+                    "_id": "593f44155de2104355026c72",
+                    "email": "tesa.gardlik@gmail.com",
+                    "name": "Tesa Gardlik",
+                    "given_name": "Tesa",
+                    "picture": "https://lh3.googleusercontent.com/-5nkMFk1_YvU/AAAAAAAAAAI/AAAAAAAAAEU/6HeoRaVQ5pw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116513602206943731429",
+                    "last_login": 20170623223851,
+                    "token": "f2f2554c68afcfb7ff2f2e8556d82e59a9257b7523a9d0982779929e6a3df6dc",
+                    "__v": 0,
+                    "updated_at": 20170623223851,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20170614014721,
+                "updated_at": 20170614014721,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [],
+                "_id": "596ae84b2d86547c82b0ce78",
+                "video": "5938983d53f02d7a0fdd3a59",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59419b64ec334b6b75726340",
+                    "email": "joshua.junhee@gmail.com",
+                    "name": "Joshua Lee",
+                    "given_name": "Joshua",
+                    "picture": "https://lh3.googleusercontent.com/-LQx1uxnKEr0/AAAAAAAAAAI/AAAAAAAAAeY/aT4LyNTfbaM/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "114192644780780474093",
+                    "last_login": 20180402193003,
+                    "token": "c663223581bcec86a2a073a6e32dee90e4b78bc8f1e32c50734a83322197e364",
+                    "__v": 0,
+                    "updated_at": 20180402193003,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20170716041507,
+                "updated_at": 20170716041507,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a85b6213c55fb6e05de89f3",
+                        "video": null,
+                        "audio_description": null,
+                        "user": "5a85b50d5005c16325ca8ac2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 2.977214,
+                        "end_time": 2.977214,
+                        "duration": 19.797333333333334,
+                        "file_name": null,
+                        "file_size_bytes": 3801132,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180215163233,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5a85b6473c55fb6e05de89f5",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5a85b6213c55fb6e05de89f4",
+                        "user": "5a85b50d5005c16325ca8ac2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 3.916216,
+                        "end_time": 8.268216,
+                        "duration": 4.352,
+                        "file_name": "ihCciBFdbkw_5a85b6473c55fb6e05de89f5.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180215163311,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc5e89e9e1a99b00a2b96",
+                                "sentence": " Excuse me. The following is an honest movie trailer, a scream junky, original product.",
+                                "start_time": 0.1,
+                                "end_time": 4.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a85b65d3c55fb6e05de89f6",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5a85b6213c55fb6e05de89f4",
+                        "user": "5a85b50d5005c16325ca8ac2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 10.180525,
+                        "end_time": 14.617858333333333,
+                        "duration": 4.437333333333333,
+                        "file_name": "ihCciBFdbkw_5a85b65d3c55fb6e05de89f6.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180215163333,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc5e89e9e1a99b00a2bad",
+                                "sentence": " The scream reads elimination presents the secret life of PETS.",
+                                "start_time": 0.25,
+                                "end_time": 3.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a85b6a53c55fb6e05de89f7",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5a85b6213c55fb6e05de89f4",
+                        "user": "5a85b50d5005c16325ca8ac2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 17.134512,
+                        "end_time": 17.134512,
+                        "duration": 24.149333333333335,
+                        "file_name": "ihCciBFdbkw_5a85b6a53c55fb6e05de89f7.wav",
+                        "file_size_bytes": 4636716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180215163445,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3de4",
+                                "sentence": " Three different people",
+                                "start_time": 0.68,
+                                "end_time": 2.21
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3de3",
+                                "sentence": " come up on stage with",
+                                "start_time": 2.21,
+                                "end_time": 4.36
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3de2",
+                                "sentence": " oscars. And your bottom is",
+                                "start_time": 4.36,
+                                "end_time": 7.52
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3de1",
+                                "sentence": " animated feature film, dawn hill Christmas and and one coral bed, quito sex,",
+                                "start_time": 7.52,
+                                "end_time": 13.59
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3de0",
+                                "sentence": " which is red",
+                                "start_time": 13.59,
+                                "end_time": 15.61
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3ddf",
+                                "sentence": " banner. And two",
+                                "start_time": 15.61,
+                                "end_time": 17.8
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3dde",
+                                "sentence": " more",
+                                "start_time": 17.97,
+                                "end_time": 19.72
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3ddd",
+                                "sentence": " oscar awards.",
+                                "start_time": 20.25,
+                                "end_time": 22.16
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3ddc",
+                                "sentence": " Stunning next.",
+                                "start_time": 22.16,
+                                "end_time": 24.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a85b6f53c55fb6e05de89f8",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5a85b6213c55fb6e05de89f4",
+                        "user": "5a85b50d5005c16325ca8ac2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 26.603477,
+                        "end_time": 26.603477,
+                        "duration": 12.970666666666666,
+                        "file_name": "ihCciBFdbkw_5a85b6f53c55fb6e05de89f8.wav",
+                        "file_size_bytes": 2490412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180215163605,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3da8",
+                                "sentence": " A photograph of a comic book reading big",
+                                "start_time": 2.13,
+                                "end_time": 4.78
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3da7",
+                                "sentence": " beg. He was sick",
+                                "start_time": 5.36,
+                                "end_time": 7.22
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3da6",
+                                "sentence": " as a Japanese rating.",
+                                "start_time": 7.4,
+                                "end_time": 9.22
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3da5",
+                                "sentence": " And Some",
+                                "start_time": 9.22,
+                                "end_time": 10.3
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3da4",
+                                "sentence": " enemy characters, a fuse on.",
+                                "start_time": 10.3,
+                                "end_time": 12.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a85b7ee3c55fb6e05de89f9",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5a85b6213c55fb6e05de89f4",
+                        "user": "5a85b50d5005c16325ca8ac2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 114.32332,
+                        "end_time": 114.32332,
+                        "duration": 4.864,
+                        "file_name": "ihCciBFdbkw_5a85b7ee3c55fb6e05de89f9.wav",
+                        "file_size_bytes": 933932,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180215164014,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc5e79e9e1a99b00a2b7f",
+                                "sentence": " I club",
+                                "start_time": 0.22,
+                                "end_time": 1.19
+                            },
+                            {
+                                "_id": "5e4cc5e79e9e1a99b00a2b7e",
+                                "sentence": " of the disney pictography. Wally appears on.",
+                                "start_time": 1.24,
+                                "end_time": 4.82
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a85b6213c55fb6e05de89f4",
+                "video": "5938983d53f02d7a0fdd3a59",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a85b50d5005c16325ca8ac2",
+                    "email": "jodiefleming83.jf@gmail.com",
+                    "name": "jodie fleming",
+                    "given_name": "jodie",
+                    "picture": "https://lh6.googleusercontent.com/-JIJ01RUvM-U/AAAAAAAAAAI/AAAAAAAAAl4/jiuSchSWtE4/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111977642610041720128",
+                    "last_login": 20180215162757,
+                    "token": "921f6445c5fb0044d123e2e83f17964340c243340a6e1e8c8fd02321818414ae",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-gb",
+                "created_at": 20180215163233,
+                "updated_at": 20180215163233,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ac324bbb9b1ed1a198fc10a",
+                        "video": null,
+                        "audio_description": null,
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0.42708,
+                        "end_time": 3.5849938321995465,
+                        "duration": 3.1579138321995464,
+                        "file_name": null,
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180403065243,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5ac324c1b9b1ed1a198fc10c",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5ac324bbb9b1ed1a198fc10b",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 3.635926,
+                        "end_time": 5.772161827664399,
+                        "duration": 2.136235827664399,
+                        "file_name": "ihCciBFdbkw_5ac324c1b9b1ed1a198fc10c.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180403065249,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e17652326a278fc5f09050e",
+                                "sentence": " An honest movie trailer.",
+                                "start_time": 0.35,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ac324dfb9b1ed1a198fc10e",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5ac324bbb9b1ed1a198fc10b",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 8.203897950408935,
+                        "end_time": 11.36181178260848,
+                        "duration": 3.1579138321995464,
+                        "file_name": "ihCciBFdbkw_5ac324dfb9b1ed1a198fc10e.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180403065319,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e17652326a278fc5f090510",
+                                "sentence": " Scenes from a secret life of PETS is shown.",
+                                "start_time": 0.02,
+                                "end_time": 3.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ac32565b9b1ed1a198fc112",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5ac324bbb9b1ed1a198fc10b",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 49.27320193515015,
+                        "end_time": 49.27320193515015,
+                        "duration": 5.201269841269841,
+                        "file_name": "ihCciBFdbkw_5ac32565b9b1ed1a198fc112.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180403065533,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e17652326a278fc5f09053f",
+                                "sentence": " All these elements are included in big hero six and various marvel movies.",
+                                "start_time": 0.42,
+                                "end_time": 5.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ac325a6b9b1ed1a198fc113",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5ac324bbb9b1ed1a198fc10b",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 90.0524319847412,
+                        "end_time": 90.0524319847412,
+                        "duration": 5.108390022675737,
+                        "file_name": "ihCciBFdbkw_5ac325a6b9b1ed1a198fc113.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180403065638,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1764a918b91efc60c48d50",
+                                "sentence": " Riley from inside out and hiccup from how to train a dragon also have a similar tooth gap.",
+                                "start_time": 0.44,
+                                "end_time": 5.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ac325cfb9b1ed1a198fc114",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5ac324bbb9b1ed1a198fc10b",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 96.4890211373291,
+                        "end_time": 99.73981478812276,
+                        "duration": 3.250793650793651,
+                        "file_name": "ihCciBFdbkw_5ac325cfb9b1ed1a198fc114.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180403065719,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e17652326a278fc5f090511",
+                                "sentence": " Heroes, nano bots build a small tower in seconds.",
+                                "start_time": 0.23,
+                                "end_time": 3.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ac32601b9b1ed1a198fc115",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5ac324bbb9b1ed1a198fc10b",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 176.00908993896485,
+                        "end_time": 176.00908993896485,
+                        "duration": 3.7151927437641725,
+                        "file_name": "ihCciBFdbkw_5ac32601b9b1ed1a198fc115.wav",
+                        "file_size_bytes": 655404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180403065809,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e17658409dae8fc6194ffcc",
+                                "sentence": " Disney's recent successes, like frozen and utopia, are shown.",
+                                "start_time": 0.18,
+                                "end_time": 3.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ac3265ab9b1ed1a198fc116",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5ac324bbb9b1ed1a198fc10b",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 205.0886832002716,
+                        "end_time": 205.0886832002716,
+                        "duration": 1.3003174603174603,
+                        "file_name": "ihCciBFdbkw_5ac3265ab9b1ed1a198fc116.wav",
+                        "file_size_bytes": 229420,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180403065938,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e17652326a278fc5f090544",
+                                "sentence": " Bay max I.",
+                                "start_time": 0.17,
+                                "end_time": 1.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ac32685b9b1ed1a198fc117",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5ac324bbb9b1ed1a198fc10b",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 221.02775904196167,
+                        "end_time": 221.02775904196167,
+                        "duration": 3.0650340136054424,
+                        "file_name": "ihCciBFdbkw_5ac32685b9b1ed1a198fc117.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180403070021,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e17652326a278fc5f090513",
+                                "sentence": " Yo kai manipulate heroes, nano bots, locally.",
+                                "start_time": 0.25,
+                                "end_time": 3.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ac326bdb9b1ed1a198fc118",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5ac324bbb9b1ed1a198fc10b",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 224.833714,
+                        "end_time": 224.833714,
+                        "duration": 3.3436734693877552,
+                        "file_name": "ihCciBFdbkw_5ac326bdb9b1ed1a198fc118.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180403070117,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e17652326a278fc5f090535",
+                                "sentence": " Hero holds a drawing of a bird in a ring.",
+                                "start_time": 0.38,
+                                "end_time": 3.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ac3270ab9b1ed1a198fc119",
+                        "video": "5938983d53f02d7a0fdd3a59",
+                        "audio_description": "5ac324bbb9b1ed1a198fc10b",
+                        "user": "5a9af29dd50e4355f98848c2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 33.156006,
+                        "end_time": 36.49967946938775,
+                        "duration": 3.3436734693877552,
+                        "file_name": "ihCciBFdbkw_5ac3270ab9b1ed1a198fc119.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ihCciBFdbkw",
+                        "created_at": 20180403070234,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e17652426a278fc5f09054c",
+                                "sentence": " Heroes, friends are shown to look similar to the adventure.",
+                                "start_time": 0.45,
+                                "end_time": 3.3
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ac324bbb9b1ed1a198fc10b",
+                "video": "5938983d53f02d7a0fdd3a59",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a9af29dd50e4355f98848c2",
+                    "email": "jessicalee0928@gmail.com",
+                    "name": "Lee J",
+                    "given_name": "Lee",
+                    "picture": "https://lh5.googleusercontent.com/-lkjbxVfVFVY/AAAAAAAAAAI/AAAAAAAAT3o/Jv9Ve2HWh2Y/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "105654751603076050205",
+                    "last_login": 20190125053842,
+                    "token": "9975fccdc4e262dc9d892970368aa458acc5ecf7ec2aecb2482275dda41d2d30",
+                    "__v": 0,
+                    "updated_at": 20190125053842,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180403065243,
+                "updated_at": 20180405214709,
+                "notes": "comments request an honest trailer of big hero 6\r\nan honest movie trailer\r\nscenes from a secret life of pets is shown\r\n\r\nhiro's friends are shown to look subtly similar to the avengers\r\nsimilar scenes from various marvel movies and big hero 6 are shown side by side\r\n\r\nriley from inside out and hiccup from how to train your dragon also have a similar tooth gap\r\nhiro's nanobots build a small tower in seconds\r\ndisney's recent success, like frozen and zootopia, are shown\r\n\r\nbaymax hugs hiro many times\r\n\r\nbaymax as\r\nyokai manipulates hiro's nanbots spookily\r\nhiro holds a drawing of a bird in a ring",
+                "__v": 0,
+                "overall_rating_average": 3,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 3,
+                "admin_review": "",
+                "feedbacks": {
+                    "4": 1,
+                    "5": 1
+                }
+            }
+        ],
+        "tags": [
+            "pixar",
+            "disney",
+            "big hero 6",
+            "anime",
+            "big hero pixar",
+            "big hero cartoon",
+            "big hero 6 honest trailer",
+            "animated honest trailer",
+            "pixar honest trailer",
+            "screenjunkies honest trailer",
+            "honest trailers",
+            "cartoon honest trailers",
+            "big hero 7",
+            "beymax",
+            "disney cartoons",
+            "honest disney trailers",
+            "honest disney animation trailer",
+            "disney animation",
+            "disney pixar",
+            "disney honest trailer",
+            "screen junkies",
+            "screenjunkies",
+            "honest movie trailer"
+        ],
+        "custom_tags": [],
+        "_id": "5938983d53f02d7a0fdd3a59",
+        "title": "Honest Trailers - Big Hero 6",
+        "description": "Love Honest Trailers? We get even MORE honest over on ScreenJunkies Plus! \u25ba\u25ba http://sj.plus/ht_GoPlus\r\n\r\nAdorkably nerdy hero Hiro and Marshmall-O-Bamacare team up in this Marvely Pixar movie that is luckily not at all like Frozen. Big Hero 6!\r\n\r\nGot a tip? Email us \u25ba tips@screenjunkies.com\r\nFollow us on Twitter \u25ba http://twitter.com/screenjunkies\r\nLike us on Facebook \u25ba http://www.fb.com/screenjunkies\r\nGet Screen Junkies Gear! \u25ba\u25ba http://bit.ly/SJMerch\r\n\r\nVoiceover Narration by Jon Bailey: http://youtube.com/jon3pnt0\r\nTitle design by Robert Holtby \r\n\r\nSeries Created by Andy Signore -  http://twitter.com/andysignore & Brett Weiner\r\nWritten by Spencer Gilbert, Dan Murrell, Joe Starr & Andy Signore\r\nEdited by Anthony Falleroni\r\n\r\nAlso while we have you, why not check out more HONEST TRAILERS!\r\nHonest Trailers - Inside Out\r\nhttp://sj.plus/1RVWC0j\r\n\r\nHonest Trailers - The Jungle Book\r\nhttp://sj.plus/1Sp0TwZ\r\n \r\nHonest Trailers - Minions\r\nhttp://sj.plus/1NtSKTc\r\n\r\nHonest Trailers - Frozen \r\nhttp://sj.plus/24v2KE3\r\n\r\nHonest Trailers - Aladdin \r\nhttp://sj.plus/1Ubl9nR\r\n\r\nHonest Trailers - Deadpool\r\nhttp://sj.plus/Deadpool",
+        "youtube_id": "ihCciBFdbkw",
+        "created_at": 20170608002013,
+        "updated_at": 20180403070234,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 287
+    }
+}

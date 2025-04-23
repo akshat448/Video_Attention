@@ -1,0 +1,187 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bc103eb8b6b161563b70ec3",
+                        "video": "5bc103eb8b6b161563b70ec5",
+                        "audio_description": "5bc103eb8b6b161563b70ec4",
+                        "user": "5bc0f5ff63bda31a06de6fc8",
+                        "label": "Intro",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 8.618666666666666,
+                        "file_name": "fiKThScYotw_5bc103eb8b6b161563b70ec3.wav",
+                        "file_size_bytes": 1654828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/fiKThScYotw",
+                        "created_at": 20181012202827,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cba11a9ec2e99b2fb3d18",
+                                "sentence": " Young student demonstrates use of a white cane on stairs, sidewalks in open parking lots and in classroom.",
+                                "start_time": 1.01,
+                                "end_time": 8.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc10448a66f5a4b1625cd2f",
+                        "video": "5bc103eb8b6b161563b70ec5",
+                        "audio_description": "5bc103eb8b6b161563b70ec4",
+                        "user": "5bc0f5ff63bda31a06de6fc8",
+                        "label": "Description",
+                        "playback_type": "inline",
+                        "start_time": 3.9303632250671385,
+                        "end_time": 56.92236322506714,
+                        "duration": 52.992,
+                        "file_name": "fiKThScYotw_5bc10448a66f5a4b1625cd2f.wav",
+                        "file_size_bytes": 10174508,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/fiKThScYotw",
+                        "created_at": 20181012203000,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db9e8a0009d69e009f831",
+                                "sentence": " White cane day",
+                                "start_time": 0.44,
+                                "end_time": 2.01
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f830",
+                                "sentence": " conquer curbs",
+                                "start_time": 2.01,
+                                "end_time": 3.28
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f82f",
+                                "sentence": " and back",
+                                "start_time": 6.49,
+                                "end_time": 7.67
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f82e",
+                                "sentence": " Yeah,",
+                                "start_time": 7.92,
+                                "end_time": 9.04
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f82d",
+                                "sentence": " there's only one tool for the job.",
+                                "start_time": 9.81,
+                                "end_time": 12.15
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f82c",
+                                "sentence": " The white cane",
+                                "start_time": 12.15,
+                                "end_time": 13.62
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f82b",
+                                "sentence": " crossing streets,",
+                                "start_time": 14.53,
+                                "end_time": 15.98
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f82a",
+                                "sentence": " slaying stairs",
+                                "start_time": 19.48,
+                                "end_time": 21
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f829",
+                                "sentence": " and sidewalks.",
+                                "start_time": 24.34,
+                                "end_time": 25.72
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f828",
+                                "sentence": " Nothing gets past my white cane.",
+                                "start_time": 29.75,
+                                "end_time": 32.28
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f827",
+                                "sentence": " It's here to detect",
+                                "start_time": 34.35,
+                                "end_time": 36.02
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f826",
+                                "sentence": " and to protect.",
+                                "start_time": 45.2,
+                                "end_time": 47.03
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f825",
+                                "sentence": " That's what my white cane",
+                                "start_time": 48.02,
+                                "end_time": 49.86
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f824",
+                                "sentence": " does for me.",
+                                "start_time": 50.39,
+                                "end_time": 51.79
+                            },
+                            {
+                                "_id": "5e4db9e8a0009d69e009f823",
+                                "sentence": " Uh.",
+                                "start_time": 52.27,
+                                "end_time": 52.95
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bc103eb8b6b161563b70ec4",
+                "video": "5bc103eb8b6b161563b70ec5",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bc0f5ff63bda31a06de6fc8",
+                    "email": "schambers@g.coppellisd.com",
+                    "name": "Stacey Chambers",
+                    "given_name": "Stacey",
+                    "picture": "https://lh4.googleusercontent.com/-YC5UvBnYUVo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXOzDCZHaOD7xGyD3Ya0AALCGy5Rw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "103368208589837715287",
+                    "last_login": 20181012193001,
+                    "token": "b45992faf8d7c0916de9ef10711bf06d3910e3984892ac9bc7a36f6593443acf",
+                    "__v": 0,
+                    "updated_at": 20181012193001,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181012202827,
+                "updated_at": 20181012202827,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5bc103eb8b6b161563b70ec5",
+        "title": "It\u2019s Here! White Cane Day!",
+        "description": "Coppell ISD Learner shares information about how his white cane helps him be independent.",
+        "youtube_id": "fiKThScYotw",
+        "created_at": 20181012202827,
+        "updated_at": 20181012203000,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 61
+    }
+}

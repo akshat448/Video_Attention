@@ -1,0 +1,95 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5e46e13dfd851a454f",
+                        "audio_description": "58e7cf3046e13dfd851a2376",
+                        "created_at": 20150822084252,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822084252,
+                        "file_name": "14402581723611.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2085,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14855,
+                        "video": "58e7cf2946e13dfd851a1c38",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.55,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3acc08fdede558532228e3",
+                                "sentence": " A toddler sits in a wheel chair with a clear lap desk attached to it.",
+                                "start_time": 0.33,
+                                "end_time": 4.67
+                            },
+                            {
+                                "_id": "5e3acc08fdede558532228e2",
+                                "sentence": " An adult sets a small yellow toy with multi colored musical keys in front of him.",
+                                "start_time": 4.81,
+                                "end_time": 10.35
+                            },
+                            {
+                                "_id": "5e3acc08fdede558532228e1",
+                                "sentence": " She taps on it to show him that it makes sound.",
+                                "start_time": 10.35,
+                                "end_time": 13.5
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2376",
+                "status": "published",
+                "legacy_video_id": 2085,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c38",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "active learning",
+            "responsive environments"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c38",
+        "description": "",
+        "youtube_id": "h-3HBVFgiWc",
+        "views": 0,
+        "created_at": 20150822084150,
+        "title": "Copy of Exploring rice and toys Phase 2",
+        "legacy_video_id": 2085,
+        "updated_at": 20150822084252,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 17
+    }
+}

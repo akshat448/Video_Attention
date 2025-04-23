@@ -1,0 +1,153 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7146e13dfd851a53e8",
+                        "audio_description": "58e7cf2b46e13dfd851a20ee",
+                        "created_at": 20151218142920,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151218142920,
+                        "file_name": "14504777600831.wav",
+                        "start_time": 41.31,
+                        "legacy_video_id": 2412,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 20551,
+                        "video": "58e7cf2946e13dfd851a1d7f",
+                        "end_time": 41.31,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1246b735cb4247ac49e",
+                                "sentence": " Peter min neck, president braille institute.",
+                                "start_time": 0.2,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7146e13dfd851a53e9",
+                        "audio_description": "58e7cf2b46e13dfd851a20ee",
+                        "created_at": 20151218143059,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151218143059,
+                        "file_name": "14504778599031.wav",
+                        "start_time": 1.287,
+                        "legacy_video_id": 2412,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 20552,
+                        "video": "58e7cf2946e13dfd851a1d7f",
+                        "end_time": 1.287,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e42be870499b0b4276480d8",
+                                "sentence": " Seasons greetings from braille institute.",
+                                "start_time": 0.24,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7146e13dfd851a53ea",
+                        "audio_description": "58e7cf2b46e13dfd851a20ee",
+                        "created_at": 20151218143311,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151218143311,
+                        "file_name": "14504779918201.wav",
+                        "start_time": 148.707,
+                        "legacy_video_id": 2412,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 20553,
+                        "video": "58e7cf2946e13dfd851a1d7f",
+                        "end_time": 148.707,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e42be870499b0b4276480be",
+                                "sentence": " For more Information, call one 800 braille or visit online at braille institute dot org",
+                                "start_time": 0.1,
+                                "end_time": 8.24
+                            },
+                            {
+                                "_id": "5e42be870499b0b4276480bd",
+                                "sentence": " braille institute, empowering visually impaired people to live fulfilling lives.",
+                                "start_time": 8.24,
+                                "end_time": 14.3
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20ee",
+                "status": "published",
+                "legacy_video_id": 2412,
+                "legacy_user_id": 88,
+                "video": "58e7cf2946e13dfd851a1d7f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20d1",
+                    "name": "jimhull",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20151217172851,
+                    "legacy_user_id": 88,
+                    "last_login": 0,
+                    "email": "jimhull@jimhull.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "braille institute",
+            "blind services",
+            "blindness",
+            "blind",
+            "Health (Industry)",
+            "Braille Institute Of America (Organization)",
+            "Eye",
+            "Vision",
+            "Christmas",
+            "education"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d7f",
+        "description": "",
+        "youtube_id": "A5WeiYHnvNY",
+        "views": 0,
+        "created_at": 20151216031933,
+        "title": "2015 Braille Institute Seasons Greetings",
+        "legacy_video_id": 2412,
+        "updated_at": 20151225235541,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 162
+    }
+}

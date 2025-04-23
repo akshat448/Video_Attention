@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5e46e13dfd851a453e",
+                        "audio_description": "58e7cf3046e13dfd851a236e",
+                        "created_at": 20150822075858,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822075858,
+                        "file_name": "14402555379811.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2076,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14834,
+                        "video": "58e7cf2946e13dfd851a1c2f",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd722",
+                                "sentence": " A child sits in a wheel chair with a small guitar on her lap,",
+                                "start_time": 1.09,
+                                "end_time": 5.1
+                            },
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd721",
+                                "sentence": " and adults drums the guitar with the child's hand resting on Top of her hand.",
+                                "start_time": 5.1,
+                                "end_time": 10.2
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a236e",
+                "status": "published",
+                "legacy_video_id": 2076,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c2f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "hand under hand",
+            "tactile modeling",
+            "intervener",
+            "guitar",
+            "Concept Development"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c2f",
+        "description": "",
+        "youtube_id": "AoKlbyqbEGM",
+        "views": 0,
+        "created_at": 20150822075825,
+        "title": "Tactile Modeling - Cora",
+        "legacy_video_id": 2076,
+        "updated_at": 20150822075858,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 13
+    }
+}

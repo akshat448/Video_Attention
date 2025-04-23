@@ -1,0 +1,83 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5f8d496c206e0d5fdec3d64c",
+                        "video": "5f8d496c206e0d5fdec3d64e",
+                        "audio_description": "5f8d496c206e0d5fdec3d64d",
+                        "user": "5f864dd2206e0d5fdec3d45a",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0.89244,
+                        "end_time": 0.89244,
+                        "duration": 17.749333333333333,
+                        "file_name": "4JhtDUFx1AU_5f8d496c206e0d5fdec3d64c.wav",
+                        "file_size_bytes": 3407916,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4JhtDUFx1AU",
+                        "created_at": 20201019080812,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5f8d49b8206e0d5fdec3d64f",
+                        "video": "5f8d496c206e0d5fdec3d64e",
+                        "audio_description": "5f8d496c206e0d5fdec3d64d",
+                        "user": "5f864dd2206e0d5fdec3d45a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 2.808029,
+                        "end_time": 7.928029,
+                        "duration": 5.12,
+                        "file_name": "4JhtDUFx1AU_5f8d49b8206e0d5fdec3d64f.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4JhtDUFx1AU",
+                        "created_at": 20201019080928,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5f8d496c206e0d5fdec3d64d",
+                "video": "5f8d496c206e0d5fdec3d64e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5f864dd2206e0d5fdec3d45a",
+                    "email": "sherenawrite@gmail.com",
+                    "name": "Sherena Huntsman",
+                    "given_name": "Sherena",
+                    "picture": "https://lh3.googleusercontent.com/a-/AOh14Gh9gEs5jct-e7xPhBX3-_gNlnmACYDrX1rN-Mgo=s96-c",
+                    "locale": "en",
+                    "google_user_id": "113543529102485309338",
+                    "last_login": 20201019075945,
+                    "token": "97323ed6cfab81ca523b0f69ccd58c7131b48c7b9e420abb4e84eb073fd97d67",
+                    "__v": 0,
+                    "updated_at": 20201019075945
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201019080812,
+                "updated_at": 20201019080812,
+                "notes": "",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5f8d496c206e0d5fdec3d64e",
+        "title": "Tinkerbell the ChiWeenie Scary Spider Debut",
+        "description": "My dog dresses up for Halloween as a spider and loves the attention.",
+        "youtube_id": "4JhtDUFx1AU",
+        "created_at": 20201019080812,
+        "updated_at": 20201019080928,
+        "views": 0,
+        "__v": 0
+    }
+}

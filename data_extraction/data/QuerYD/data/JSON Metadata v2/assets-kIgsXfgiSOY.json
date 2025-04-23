@@ -1,0 +1,413 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7946e13dfd851a59c3",
+                        "audio_description": "58e7cf3146e13dfd851a2434",
+                        "created_at": 20160623161723,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160623161723,
+                        "file_name": "14667238431601.wav",
+                        "start_time": 5.088,
+                        "legacy_video_id": 2608,
+                        "legacy_user_id": 2274,
+                        "label": "",
+                        "legacy_audio_clip_id": 23340,
+                        "video": "58e7cf2946e13dfd851a1e43",
+                        "end_time": 5.088,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2430",
+                        "transcript": [
+                            {
+                                "_id": "5e44281da888c4bc7acb61b1",
+                                "sentence": " President george h w bush.",
+                                "start_time": 0.02,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59c4",
+                        "audio_description": "58e7cf3146e13dfd851a2434",
+                        "created_at": 20160623162031,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160623162031,
+                        "file_name": "14667240317671.wav",
+                        "start_time": 15.466,
+                        "legacy_video_id": 2608,
+                        "legacy_user_id": 2274,
+                        "label": "",
+                        "legacy_audio_clip_id": 23343,
+                        "video": "58e7cf2946e13dfd851a1e43",
+                        "end_time": 15.466,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2430",
+                        "transcript": [
+                            {
+                                "_id": "5e442af4c26fa0bc796fd658",
+                                "sentence": " Donald trump.",
+                                "start_time": 0.05,
+                                "end_time": 1.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59c5",
+                        "audio_description": "58e7cf3146e13dfd851a2434",
+                        "created_at": 20160623162244,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160623162244,
+                        "file_name": "14667241641171.wav",
+                        "start_time": 25.623,
+                        "legacy_video_id": 2608,
+                        "legacy_user_id": 2274,
+                        "label": "",
+                        "legacy_audio_clip_id": 23344,
+                        "video": "58e7cf2946e13dfd851a1e43",
+                        "end_time": 25.623,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2430",
+                        "transcript": [
+                            {
+                                "_id": "5e442b7cf8a7edbc7bf679f3",
+                                "sentence": " She holds back tears.",
+                                "start_time": 0.18,
+                                "end_time": 1.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59c6",
+                        "audio_description": "58e7cf3146e13dfd851a2434",
+                        "created_at": 20160623162518,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160623162518,
+                        "file_name": "14667243180621.wav",
+                        "start_time": 31.013,
+                        "legacy_video_id": 2608,
+                        "legacy_user_id": 2274,
+                        "label": "",
+                        "legacy_audio_clip_id": 23345,
+                        "video": "58e7cf2946e13dfd851a1e43",
+                        "end_time": 34.333,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2430",
+                        "transcript": [
+                            {
+                                "_id": "5e44288dc26fa0bc796fd4f0",
+                                "sentence": " Title 2016. Issue with liz plank.",
+                                "start_time": 0.14,
+                                "end_time": 2.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59c7",
+                        "audio_description": "58e7cf3146e13dfd851a2434",
+                        "created_at": 20160623162735,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160623162735,
+                        "file_name": "14667244556041.wav",
+                        "start_time": 48.975,
+                        "legacy_video_id": 2608,
+                        "legacy_user_id": 2274,
+                        "label": "",
+                        "legacy_audio_clip_id": 23347,
+                        "video": "58e7cf2946e13dfd851a1e43",
+                        "end_time": 48.975,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2430",
+                        "transcript": [
+                            {
+                                "_id": "5e442af4c26fa0bc796fd602",
+                                "sentence": " Trump calls fox news critic in wheelchair a loser who just sits there.",
+                                "start_time": 0,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59c8",
+                        "audio_description": "58e7cf3146e13dfd851a2434",
+                        "created_at": 20160623163008,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160623163008,
+                        "file_name": "14667246082101.wav",
+                        "start_time": 67.25,
+                        "legacy_video_id": 2608,
+                        "legacy_user_id": 2274,
+                        "label": "",
+                        "legacy_audio_clip_id": 23349,
+                        "video": "58e7cf2946e13dfd851a1e43",
+                        "end_time": 67.25,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2430",
+                        "transcript": [
+                            {
+                                "_id": "5e442af4c26fa0bc796fd635",
+                                "sentence": " Title. In 2015, less than 1% of characters on television had a disability.",
+                                "start_time": 0.19,
+                                "end_time": 5.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59c9",
+                        "audio_description": "58e7cf3146e13dfd851a2434",
+                        "created_at": 20160623163216,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160623163216,
+                        "file_name": "14667247362221.wav",
+                        "start_time": 77.844,
+                        "legacy_video_id": 2608,
+                        "legacy_user_id": 2274,
+                        "label": "",
+                        "legacy_audio_clip_id": 23350,
+                        "video": "58e7cf2946e13dfd851a1e43",
+                        "end_time": 77.844,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2430",
+                        "transcript": [
+                            {
+                                "_id": "5e44288dc26fa0bc796fd4ef",
+                                "sentence": " Doctor panetta, senior research fellow for the house institute for a fair and inclusive society, uses a wheelchair and wears a breathing apparatus on his nose.",
+                                "start_time": 0.12,
+                                "end_time": 8.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59ca",
+                        "audio_description": "58e7cf3146e13dfd851a2434",
+                        "created_at": 20160623163455,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160623163455,
+                        "file_name": "14667248951861.wav",
+                        "start_time": 158.733,
+                        "legacy_video_id": 2608,
+                        "legacy_user_id": 2274,
+                        "label": "",
+                        "legacy_audio_clip_id": 23351,
+                        "video": "58e7cf2946e13dfd851a1e43",
+                        "end_time": 169.473,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2430",
+                        "transcript": [
+                            {
+                                "_id": "5e44281da888c4bc7acb61ad",
+                                "sentence": " At the disability organizing network conference in pasadena, California,",
+                                "start_time": 0,
+                                "end_time": 4.33
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61ac",
+                                "sentence": " liz meets and chats with people with various disabilities, including the woman who held back tears at the beginning.",
+                                "start_time": 4.33,
+                                "end_time": 10.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59cb",
+                        "audio_description": "58e7cf3146e13dfd851a2434",
+                        "created_at": 20160623163645,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160623163645,
+                        "file_name": "14667250058781.wav",
+                        "start_time": 195.303,
+                        "legacy_video_id": 2608,
+                        "legacy_user_id": 2274,
+                        "label": "",
+                        "legacy_audio_clip_id": 23352,
+                        "video": "58e7cf2946e13dfd851a1e43",
+                        "end_time": 195.303,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2430",
+                        "transcript": [
+                            {
+                                "_id": "5e442af4c26fa0bc796fd617",
+                                "sentence": " Title. Currently, it's legal for employers to pay people with disabilities less than the federal minimum wage.",
+                                "start_time": 0.33,
+                                "end_time": 6.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59cc",
+                        "audio_description": "58e7cf3146e13dfd851a2434",
+                        "created_at": 20160623163924,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160623163924,
+                        "file_name": "14667251643381.wav",
+                        "start_time": 203.991,
+                        "legacy_video_id": 2608,
+                        "legacy_user_id": 2274,
+                        "label": "",
+                        "legacy_audio_clip_id": 23353,
+                        "video": "58e7cf2946e13dfd851a1e43",
+                        "end_time": 203.991,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2430",
+                        "transcript": [
+                            {
+                                "_id": "5e4429aaa888c4bc7acb6275",
+                                "sentence": " Title, nearly one in three people with a disability live in poverty.",
+                                "start_time": 0.4,
+                                "end_time": 4.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59cd",
+                        "audio_description": "58e7cf3146e13dfd851a2434",
+                        "created_at": 20160623164150,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160623164150,
+                        "file_name": "14667253108991.wav",
+                        "start_time": 247.637,
+                        "legacy_video_id": 2608,
+                        "legacy_user_id": 2274,
+                        "label": "",
+                        "legacy_audio_clip_id": 23354,
+                        "video": "58e7cf2946e13dfd851a1e43",
+                        "end_time": 247.637,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2430",
+                        "transcript": [
+                            {
+                                "_id": "5e44288dc26fa0bc796fd518",
+                                "sentence": " Director of community organizing California foundation for independent living centers.",
+                                "start_time": 0.15,
+                                "end_time": 4.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59ce",
+                        "audio_description": "58e7cf3146e13dfd851a2434",
+                        "created_at": 20160623164527,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160623164527,
+                        "file_name": "14667255276921.wav",
+                        "start_time": 284.53,
+                        "legacy_video_id": 2608,
+                        "legacy_user_id": 2274,
+                        "label": "",
+                        "legacy_audio_clip_id": 23355,
+                        "video": "58e7cf2946e13dfd851a1e43",
+                        "end_time": 284.53,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2430",
+                        "transcript": [
+                            {
+                                "_id": "5e442d4079f74cbc7c082f2f",
+                                "sentence": " Titles video by liz plank, mattie mccullough, dean peterson.",
+                                "start_time": 0.79,
+                                "end_time": 5.13
+                            },
+                            {
+                                "_id": "5e442d4079f74cbc7c082f2e",
+                                "sentence": " In the lower left hand corner is video of liz talking to a woman in a wheelchair wearing a pink cardigan and white blouse.",
+                                "start_time": 5.3,
+                                "end_time": 13.28
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3146e13dfd851a2434",
+                "status": "published",
+                "legacy_video_id": 2608,
+                "legacy_user_id": 2274,
+                "video": "58e7cf2946e13dfd851a1e43",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3146e13dfd851a2430",
+                    "name": "MFTB",
+                    "google_user_id_token": "",
+                    "created_at": 20140515140626,
+                    "updated_at": 20160623160758,
+                    "legacy_user_id": 2274,
+                    "last_login": 0,
+                    "email": "descriptionto@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "disability",
+            "trump",
+            "2016ish",
+            "vox",
+            "election",
+            "clinton",
+            "hillary",
+            "donald",
+            "liz",
+            "plank",
+            "victor",
+            "pineda"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e43",
+        "description": "",
+        "youtube_id": "kIgsXfgiSOY",
+        "views": 0,
+        "created_at": 20160623161250,
+        "title": "50 Million Americans live with disabilities \u2013 so why ignore their vote?",
+        "legacy_video_id": 2608,
+        "updated_at": 20160623164716,
+        "youtube_status": "available",
+        "category": "News & Politics",
+        "category_id": "25",
+        "duration": 302
+    }
+}

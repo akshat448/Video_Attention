@@ -1,0 +1,899 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38af",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128214158,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128214158,
+                        "file_name": "14225101185511.wav",
+                        "start_time": 1.559,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10845,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 7.699,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e23284be12f340b26b27c2d",
+                                "sentence": " In a hall of mirrors, a detective move slowly forward. His revolver trained ahead of him.",
+                                "start_time": 0.55,
+                                "end_time": 5.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38b0",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128214337,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128214337,
+                        "file_name": "14225102173301.wav",
+                        "start_time": 20.739,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10847,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 26.369,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e232683c832bd02b748f8f6",
+                                "sentence": " The countless mirrors reflect his image back to him as he advances further into the dimly lit room.",
+                                "start_time": 0,
+                                "end_time": 5.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38b1",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128214551,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128214551,
+                        "file_name": "14225103512211.wav",
+                        "start_time": 34.036,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10850,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 36.846000000000004,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e232a21dfe56d0b2951ab3f",
+                                "sentence": " The detective lunches forward. And it's a mirror.",
+                                "start_time": 0,
+                                "end_time": 2.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38b2",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128214622,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128214622,
+                        "file_name": "14225103823451.wav",
+                        "start_time": 40.5,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10851,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 42.03,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e232a28dfe56d0b2951ab68",
+                                "sentence": " On the other side,",
+                                "start_time": 0,
+                                "end_time": 1.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38b3",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128214642,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128214642,
+                        "file_name": "14225104026341.wav",
+                        "start_time": 43.022,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10852,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 45.321999999999996,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e2327a0b012e302b8a229ae",
+                                "sentence": " He steps back behind a mirror.",
+                                "start_time": 0,
+                                "end_time": 2.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38b4",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128214757,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128214757,
+                        "file_name": "14225104777361.wav",
+                        "start_time": 47.222,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10854,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 53.102000000000004,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e23279fb012e302b8a229a8",
+                                "sentence": " The countless mirrors reflect the detectives image back to him as he advances further into the dimly lit room.",
+                                "start_time": 0,
+                                "end_time": 5.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38b5",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128214921,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128214921,
+                        "file_name": "14225105617581.wav",
+                        "start_time": 62.311,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10856,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 65.121,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e230e1972edc9955c746ef1",
+                                "sentence": " The detective ames, that his own reflections.",
+                                "start_time": 0,
+                                "end_time": 2.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38b6",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128215023,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128215023,
+                        "file_name": "14225106233431.wav",
+                        "start_time": 75.961,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10858,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 78.521,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e2327b5b012e302b8a229bc",
+                                "sentence": " The detective runs into another mirror.",
+                                "start_time": 0,
+                                "end_time": 2.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38b7",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128215238,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128215238,
+                        "file_name": "14225107587211.wav",
+                        "start_time": 91.29,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10861,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 93.85000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e23279cb012e302b8a22987",
+                                "sentence": " The detective runs into a mirror.",
+                                "start_time": 0,
+                                "end_time": 2.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38b8",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128215419,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128215419,
+                        "file_name": "14225108596391.wav",
+                        "start_time": 107.073,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10863,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 109.12299999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e232845e12f340b26b27c15",
+                                "sentence": " The real carlo flinch is.",
+                                "start_time": 0,
+                                "end_time": 1.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38b9",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128215513,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128215513,
+                        "file_name": "14225109134231.wav",
+                        "start_time": 133.189,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10864,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 134.719,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e232684c832bd02b748f90e",
+                                "sentence": " He flinch is again,",
+                                "start_time": 0,
+                                "end_time": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38ba",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128215550,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128215550,
+                        "file_name": "14225109505191.wav",
+                        "start_time": 144.202,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10865,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 145.732,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e232684c832bd02b748f902",
+                                "sentence": " The detective takes aim.",
+                                "start_time": 0,
+                                "end_time": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38bb",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128215626,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128215626,
+                        "file_name": "14225109865831.wav",
+                        "start_time": 173.066,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10866,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 174.596,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e232a2fdfe56d0b2951ab79",
+                                "sentence": " Shoots his knee.",
+                                "start_time": 0,
+                                "end_time": 1.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38bc",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128215747,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128215747,
+                        "file_name": "14225110676231.wav",
+                        "start_time": 213.221,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10868,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 215.781,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e23279eb012e302b8a2299d",
+                                "sentence": " The detective throws them down and sets off.",
+                                "start_time": 0,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38bd",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128220002,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128220002,
+                        "file_name": "14225112021191.wav",
+                        "start_time": 54.158,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10869,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 56.968,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e232683c832bd02b748f8e6",
+                                "sentence": " Several reflections stare back at the detective.",
+                                "start_time": 0,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38be",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150128220114,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150128220114,
+                        "file_name": "14225112745001.wav",
+                        "start_time": 83.069,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2550,
+                        "label": "",
+                        "legacy_audio_clip_id": 10870,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 86.139,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ed",
+                        "transcript": [
+                            {
+                                "_id": "5e230e0772edc9955c746e8e",
+                                "sentence": " For carlos, stare back at the detective.",
+                                "start_time": 0,
+                                "end_time": 2.96
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2f46e13dfd851a22ef",
+                "status": "published",
+                "legacy_video_id": 1776,
+                "legacy_user_id": 2550,
+                "video": "58e7cf2846e13dfd851a1b03",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2f46e13dfd851a22ed",
+                    "name": "ras",
+                    "google_user_id_token": "",
+                    "created_at": 20150128164401,
+                    "updated_at": 20150128164510,
+                    "legacy_user_id": 2550,
+                    "last_login": 0,
+                    "email": "rachel.steens@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5846e13dfd851a4177",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150506123722,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150506123722,
+                        "file_name": "14309410426921.wav",
+                        "start_time": 1.229,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2570,
+                        "label": "",
+                        "legacy_audio_clip_id": 13464,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 7.369,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2317",
+                        "transcript": [
+                            {
+                                "_id": "5e30a169168423183b465abc",
+                                "sentence": " A red and black background appears on the screen in the display of a hall of mirrors.",
+                                "start_time": 0.07,
+                                "end_time": 5.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a4178",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150506124133,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150506124133,
+                        "file_name": "14309412938511.wav",
+                        "start_time": 10.428,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2570,
+                        "label": "",
+                        "legacy_audio_clip_id": 13466,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 10.428,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2317",
+                        "transcript": [
+                            {
+                                "_id": "5e30a00588d6c9183c280ead",
+                                "sentence": " A man with a gun searches for a criminal.",
+                                "start_time": 0.44,
+                                "end_time": 3.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a4179",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150506124441,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150506124441,
+                        "file_name": "14309414811391.wav",
+                        "start_time": 17.637,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2570,
+                        "label": "",
+                        "legacy_audio_clip_id": 13467,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 21.477,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2317",
+                        "transcript": [
+                            {
+                                "_id": "5e30adb2168423183b465cef",
+                                "sentence": " He continues his search through the hall of mirrors.",
+                                "start_time": 0.05,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a417a",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150506125034,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150506125034,
+                        "file_name": "14309418340721.wav",
+                        "start_time": 34.057,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2570,
+                        "label": "",
+                        "legacy_audio_clip_id": 13469,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 34.057,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2317",
+                        "transcript": [
+                            {
+                                "_id": "5e310aacb9f2b0e2d2f9e077",
+                                "sentence": " A dark skinned man with gray hair and a blue dirty jump suit appears.",
+                                "start_time": 0.04,
+                                "end_time": 4.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a417b",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150506125419,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150506125419,
+                        "file_name": "14309420591731.wav",
+                        "start_time": 42.867,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2570,
+                        "label": "",
+                        "legacy_audio_clip_id": 13470,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 48.497,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2317",
+                        "transcript": [
+                            {
+                                "_id": "5e310aadb9f2b0e2d2f9e0b5",
+                                "sentence": " This man continues to hide throughout the hall, hoping not to get caught by the man with the gun.",
+                                "start_time": 0,
+                                "end_time": 5.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a417c",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150506130109,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150506130109,
+                        "file_name": "14309424698971.wav",
+                        "start_time": 61.401,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2570,
+                        "label": "",
+                        "legacy_audio_clip_id": 13471,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 68.311,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2317",
+                        "transcript": [
+                            {
+                                "_id": "5e30a00588d6c9183c280e7f",
+                                "sentence": " The man with a gun, presumably a cop becomes frustrated because he has not caught the criminal.",
+                                "start_time": 0,
+                                "end_time": 6.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a417d",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150506130822,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150506130822,
+                        "file_name": "14309429022341.wav",
+                        "start_time": 87.002,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2570,
+                        "label": "",
+                        "legacy_audio_clip_id": 13473,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 87.002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2317",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280fa2",
+                                "sentence": " The criminal carlo appears in four mirrors, staring at the cup.",
+                                "start_time": 0.39,
+                                "end_time": 5.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a417e",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150506131255,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150506131255,
+                        "file_name": "14309431753641.wav",
+                        "start_time": 106.694,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2570,
+                        "label": "",
+                        "legacy_audio_clip_id": 13474,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 106.694,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2317",
+                        "transcript": [
+                            {
+                                "_id": "5e310aadb9f2b0e2d2f9e082",
+                                "sentence": " Eagerly looking, the cop finds carlos pretending to be a mirror.",
+                                "start_time": 0,
+                                "end_time": 4.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a417f",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150506133337,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150506133337,
+                        "file_name": "14309444171811.wav",
+                        "start_time": 164.176,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2570,
+                        "label": "",
+                        "legacy_audio_clip_id": 13475,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 164.176,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2317",
+                        "transcript": [
+                            {
+                                "_id": "5e30adb2168423183b465cee",
+                                "sentence": " Carlos continues to still act like a mirror.",
+                                "start_time": 1.33,
+                                "end_time": 4.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a4180",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150506133507,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150506133507,
+                        "file_name": "14309445072231.wav",
+                        "start_time": 173.705,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2570,
+                        "label": "",
+                        "legacy_audio_clip_id": 13476,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 173.705,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2317",
+                        "transcript": [
+                            {
+                                "_id": "5e310aacb9f2b0e2d2f9e02d",
+                                "sentence": " He shoots his gun at carlos is left knee.",
+                                "start_time": 0.82,
+                                "end_time": 4.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a4181",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150506133911,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150506133911,
+                        "file_name": "14309447516301.wav",
+                        "start_time": 178.503,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2570,
+                        "label": "",
+                        "legacy_audio_clip_id": 13477,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 178.503,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2317",
+                        "transcript": [
+                            {
+                                "_id": "5e30adb1168423183b465c91",
+                                "sentence": " Flows slowly falls to the ground in pain.",
+                                "start_time": 0,
+                                "end_time": 3.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a4182",
+                        "audio_description": "58e7cf2f46e13dfd851a22ef",
+                        "created_at": 20150506185734,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150506185734,
+                        "file_name": "14309638541461.wav",
+                        "start_time": 187.523,
+                        "legacy_video_id": 1776,
+                        "legacy_user_id": 2570,
+                        "label": "",
+                        "legacy_audio_clip_id": 13478,
+                        "video": "58e7cf2846e13dfd851a1b03",
+                        "end_time": 187.523,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2317",
+                        "transcript": [
+                            {
+                                "_id": "5e30adb2168423183b465cae",
+                                "sentence": " Cop points his gun back at carlos, this time at his head.",
+                                "start_time": 0,
+                                "end_time": 5.34
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2318",
+                "status": "published",
+                "legacy_video_id": 1776,
+                "legacy_user_id": 2570,
+                "video": "58e7cf2846e13dfd851a1b03",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2317",
+                    "name": "Cherish93",
+                    "google_user_id_token": "",
+                    "created_at": 20150303161304,
+                    "updated_at": 20150506114452,
+                    "legacy_user_id": 2570,
+                    "last_login": 0,
+                    "email": "c.holder93@yahoo.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Key & Peele",
+            "Key and Peele",
+            "Jordan Peele",
+            "Keegan Michael Key",
+            "keey & peele",
+            "Key & Peele episodes",
+            "Carlo",
+            "Detective",
+            "funhouse",
+            "Michael Mann",
+            "serial killer",
+            "hunting a killer",
+            "spooky laugh",
+            "comedy central",
+            "comedians",
+            "comedy",
+            "funny",
+            "funny video",
+            "comedy videos",
+            "funny jokes",
+            "hilarious videos",
+            "get out",
+            "oscars",
+            "scary",
+            "fun house",
+            "carnival",
+            "movie parody",
+            "comedy sketch",
+            "shot in foot",
+            "key and peele hall of mirrors",
+            "illusion",
+            "key & peele hall of mirrors",
+            "hall of mirrors",
+            "house of mirrors"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b03",
+        "description": "",
+        "youtube_id": "TCw-iEJoVfY",
+        "views": 0,
+        "created_at": 20150128213757,
+        "title": "Uncensored - Key & Peele - Hall of Mirrors",
+        "legacy_video_id": 1776,
+        "updated_at": 20150506185734,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 237
+    }
+}

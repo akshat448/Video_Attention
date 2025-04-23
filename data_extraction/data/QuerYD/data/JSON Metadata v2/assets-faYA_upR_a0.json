@@ -1,0 +1,546 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5be9001ad6534f595cb498ed",
+                        "video": "5be8ff17d6534f595cb498ec",
+                        "audio_description": "5be8ff17d6534f595cb498eb",
+                        "user": "5be349322aca700f8bc75399",
+                        "label": "1",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 6.570666666666667,
+                        "duration": 6.570666666666667,
+                        "file_name": "faYA_upR_a0_5be9001ad6534f595cb498ed.wav",
+                        "file_size_bytes": 1261612,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/faYA_upR_a0",
+                        "created_at": 20181112042250,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db9e5a0009d69e009f7a3",
+                                "sentence": " A title credit ears, finding the path and put dick it.",
+                                "start_time": 0.55,
+                                "end_time": 3.68
+                            },
+                            {
+                                "_id": "5e4db9e5a0009d69e009f7a2",
+                                "sentence": " A cartoon fact can be seen in the bottom right corner looking.",
+                                "start_time": 3.68,
+                                "end_time": 6.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5be900e8adab15594f5695e8",
+                        "video": "5be8ff17d6534f595cb498ec",
+                        "audio_description": "5be8ff17d6534f595cb498eb",
+                        "user": "5be349322aca700f8bc75399",
+                        "label": "2",
+                        "playback_type": "inline",
+                        "start_time": 6.941341,
+                        "end_time": 12.317341,
+                        "duration": 5.376,
+                        "file_name": "faYA_upR_a0_5be900e8adab15594f5695e8.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/faYA_upR_a0",
+                        "created_at": 20181112042616,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcd901703f62f116f749a",
+                                "sentence": " Simon's cat sits on a table while Simon walks towards it with a box.",
+                                "start_time": 0.93,
+                                "end_time": 4.59
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5be8ff17d6534f595cb498eb",
+                "video": "5be8ff17d6534f595cb498ec",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5be349322aca700f8bc75399",
+                    "email": "jth362@nyu.edu",
+                    "name": "Justin Harrison",
+                    "given_name": "Justin",
+                    "picture": "https://lh3.googleusercontent.com/-GEz7on1kZso/AAAAAAAAAAI/AAAAAAAAAEw/Nai57MtMgOY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "106430572552204739834",
+                    "last_login": 20181113231709,
+                    "token": "d3bb904c8226016443a4eb6942d4b0398f01e32108be683f2e73bd8ea28213ce",
+                    "__v": 0,
+                    "updated_at": 20181113231709,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20181112041831,
+                "updated_at": 20181112041831,
+                "notes": "Simon's cat sits on a table while Simon walks towards it. ",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [],
+                "_id": "5bea832c5c23506c80c664ad",
+                "video": "5be8ff17d6534f595cb498ec",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bea82535c23506c80c664ac",
+                    "email": "idrobit@ucu.edu.ua",
+                    "name": "\u0406\u0440\u0438\u043d\u0430 \u0414\u0440\u043e\u0431\u0456\u0442",
+                    "given_name": "\u0406\u0440\u0438\u043d\u0430",
+                    "picture": "https://lh4.googleusercontent.com/-ppR4CCwdmH8/AAAAAAAAAAI/AAAAAAAAAAc/L6XyUQ4Q2F8/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "110481281821443305790",
+                    "last_login": 20181114072122,
+                    "token": "f4079847b977a242c9b296aa312de777647a3e626132951b5bad39d9188201b4",
+                    "__v": 0,
+                    "updated_at": 20181114072122,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "uk",
+                "created_at": 20181113075420,
+                "updated_at": 20181113075420,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c68ee9dcfe5b70c5f19dbc4",
+                        "video": "5be8ff17d6534f595cb498ec",
+                        "audio_description": "5c68ae558482c3085646e690",
+                        "user": "5c67a10184900704e4f043b9",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0.7951169675750732,
+                        "end_time": 24.944450300908407,
+                        "duration": 24.149333333333335,
+                        "file_name": "faYA_upR_a0_5c68ee9dcfe5b70c5f19dbc4.wav",
+                        "file_size_bytes": 4636716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/faYA_upR_a0",
+                        "created_at": 20190217051821,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e993544080122fa67a74",
+                                "sentence": " A black and white animated cat,",
+                                "start_time": 0,
+                                "end_time": 1.82
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a73",
+                                "sentence": " simon's cat. In perth date cake.",
+                                "start_time": 1.82,
+                                "end_time": 4.15
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a72",
+                                "sentence": " A cat sits on the table grooming itself.",
+                                "start_time": 4.89,
+                                "end_time": 7.21
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a71",
+                                "sentence": " Simon approach is holding. A box,",
+                                "start_time": 7.69,
+                                "end_time": 9.72
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a70",
+                                "sentence": " places the box down on the table.",
+                                "start_time": 9.72,
+                                "end_time": 11.75
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a6f",
+                                "sentence": " He starts to lift up the box.",
+                                "start_time": 12.35,
+                                "end_time": 14.2
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a6e",
+                                "sentence": " Out comes a birthday cake decorated with fish.",
+                                "start_time": 18.21,
+                                "end_time": 21.24
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a6d",
+                                "sentence": " The cat looks at it, then resumes grooming itself.",
+                                "start_time": 21.24,
+                                "end_time": 23.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c68f005cfe5b70c5f19dbc8",
+                        "video": "5be8ff17d6534f595cb498ec",
+                        "audio_description": "5c68ae558482c3085646e690",
+                        "user": "5c67a10184900704e4f043b9",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 25.113907091552733,
+                        "end_time": 35.951240424886066,
+                        "duration": 10.837333333333333,
+                        "file_name": "faYA_upR_a0_5c68f005cfe5b70c5f19dbc8.wav",
+                        "file_size_bytes": 2080812,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/faYA_upR_a0",
+                        "created_at": 20190217052421,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e8e9e525a91232f90ae6",
+                                "sentence": " Simon scrape some icing off the Top of the cake with his finger. He tries to feed it to the cat.",
+                                "start_time": 0.8,
+                                "end_time": 5.39
+                            },
+                            {
+                                "_id": "5e13e8e9e525a91232f90ae5",
+                                "sentence": " The cat leans away and almost loses its balance. It catches itself, but looks annoyed at Simon.",
+                                "start_time": 5.39,
+                                "end_time": 10.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c68f316a161690bf25e2a36",
+                        "video": "5be8ff17d6534f595cb498ec",
+                        "audio_description": "5c68ae558482c3085646e690",
+                        "user": "5c67a10184900704e4f043b9",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 35.6443310076294,
+                        "end_time": 52.11366434096273,
+                        "duration": 16.469333333333335,
+                        "file_name": "faYA_upR_a0_5c68f316a161690bf25e2a36.wav",
+                        "file_size_bytes": 3162156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/faYA_upR_a0",
+                        "created_at": 20190217053726,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e993544080122fa67a62",
+                                "sentence": " Simon eats the icing. His eyes go wide.",
+                                "start_time": 2.09,
+                                "end_time": 4.79
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a61",
+                                "sentence": " He takes his finger out of his mouth and smiles at the cat.",
+                                "start_time": 5.97,
+                                "end_time": 8.97
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a60",
+                                "sentence": " The cat resumes grooming itself.",
+                                "start_time": 9.64,
+                                "end_time": 11.6
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a5f",
+                                "sentence": " Simon gags a little,",
+                                "start_time": 11.77,
+                                "end_time": 13.39
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a5e",
+                                "sentence": " then rubs and pats his tummy as he smiles.",
+                                "start_time": 13.39,
+                                "end_time": 16.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c68f37fa161690bf25e2a38",
+                        "video": "5be8ff17d6534f595cb498ec",
+                        "audio_description": "5c68ae558482c3085646e690",
+                        "user": "5c67a10184900704e4f043b9",
+                        "label": "redo, to the right",
+                        "playback_type": "inline",
+                        "start_time": 53.24891109727478,
+                        "end_time": 69.46224443060811,
+                        "duration": 16.213333333333335,
+                        "file_name": "faYA_upR_a0_5c68f37fa161690bf25e2a38.wav",
+                        "file_size_bytes": 3113004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/faYA_upR_a0",
+                        "created_at": 20190217053911,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e998544080122fa67aa0",
+                                "sentence": " Simon covers his mouth. As he gags again,",
+                                "start_time": 0.67,
+                                "end_time": 3.11
+                            },
+                            {
+                                "_id": "5e13e998544080122fa67a9f",
+                                "sentence": " he runs off and drops the box on the table.",
+                                "start_time": 3.11,
+                                "end_time": 5.67
+                            },
+                            {
+                                "_id": "5e13e998544080122fa67a9e",
+                                "sentence": " The cat walks through the cake towards the box.",
+                                "start_time": 6.48,
+                                "end_time": 9.44
+                            },
+                            {
+                                "_id": "5e13e998544080122fa67a9d",
+                                "sentence": " It peers inside,",
+                                "start_time": 10.68,
+                                "end_time": 12.28
+                            },
+                            {
+                                "_id": "5e13e998544080122fa67a9c",
+                                "sentence": " then jumped in.",
+                                "start_time": 13.99,
+                                "end_time": 15.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c68f401cfe5b70c5f19dbcf",
+                        "video": "5be8ff17d6534f595cb498ec",
+                        "audio_description": "5c68ae558482c3085646e690",
+                        "user": "5c67a10184900704e4f043b9",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 78.63880004196167,
+                        "end_time": 91.18280004196167,
+                        "duration": 12.544,
+                        "file_name": "faYA_upR_a0_5c68f401cfe5b70c5f19dbcf.wav",
+                        "file_size_bytes": 2408492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/faYA_upR_a0",
+                        "created_at": 20190217054121,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e993544080122fa67a66",
+                                "sentence": " The cat begins licking icing off its paw.",
+                                "start_time": 0.67,
+                                "end_time": 3.33
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a65",
+                                "sentence": " Simon excitedly gets party hats from under the table and puts one on each of them.",
+                                "start_time": 4.1,
+                                "end_time": 8.66
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a64",
+                                "sentence": " He gets some icing on his hand,",
+                                "start_time": 8.8,
+                                "end_time": 10.55
+                            },
+                            {
+                                "_id": "5e13e993544080122fa67a63",
+                                "sentence": " tries to shake it off, and eats it.",
+                                "start_time": 10.55,
+                                "end_time": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c68f479a161690bf25e2a3e",
+                        "video": "5be8ff17d6534f595cb498ec",
+                        "audio_description": "5c68ae558482c3085646e690",
+                        "user": "5c67a10184900704e4f043b9",
+                        "label": "runs off again",
+                        "playback_type": "inline",
+                        "start_time": 90.74924909727478,
+                        "end_time": 107.98658243060811,
+                        "duration": 17.237333333333332,
+                        "file_name": "faYA_upR_a0_5c68f479a161690bf25e2a3e.wav",
+                        "file_size_bytes": 3309612,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/faYA_upR_a0",
+                        "created_at": 20190217054321,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e998544080122fa67ad9",
+                                "sentence": " he licks his lips and smiles.",
+                                "start_time": 0.67,
+                                "end_time": 2.74
+                            },
+                            {
+                                "_id": "5e13e998544080122fa67ad8",
+                                "sentence": " He gags,",
+                                "start_time": 4.13,
+                                "end_time": 5.31
+                            },
+                            {
+                                "_id": "5e13e998544080122fa67ad7",
+                                "sentence": " then runs off",
+                                "start_time": 5.31,
+                                "end_time": 6.43
+                            },
+                            {
+                                "_id": "5e13e998544080122fa67ad6",
+                                "sentence": " the cat, looks towards the cake",
+                                "start_time": 8.59,
+                                "end_time": 10.51
+                            },
+                            {
+                                "_id": "5e13e998544080122fa67ad5",
+                                "sentence": " towards where Simon ran off.",
+                                "start_time": 10.74,
+                                "end_time": 12.62
+                            },
+                            {
+                                "_id": "5e13e998544080122fa67ad4",
+                                "sentence": " Shrugs",
+                                "start_time": 12.94,
+                                "end_time": 14.02
+                            },
+                            {
+                                "_id": "5e13e998544080122fa67ad3",
+                                "sentence": " and resumes licking its paw.",
+                                "start_time": 14.16,
+                                "end_time": 15.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c6a5ecba161690bf25e2a7a",
+                        "video": "5be8ff17d6534f595cb498ec",
+                        "audio_description": "5c68ae558482c3085646e690",
+                        "user": "5c67a10184900704e4f043b9",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 69.56098297711182,
+                        "end_time": 78.00898297711183,
+                        "duration": 8.448,
+                        "file_name": "faYA_upR_a0_5c6a5ecba161690bf25e2a7a.wav",
+                        "file_size_bytes": 1622060,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/faYA_upR_a0",
+                        "created_at": 20190218072915,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e8e9e525a91232f90a89",
+                                "sentence": " The cat licks icing off its ears.",
+                                "start_time": 0.65,
+                                "end_time": 2.84
+                            },
+                            {
+                                "_id": "5e13e8e9e525a91232f90a88",
+                                "sentence": " Simon returns wiping his mouth of the cloth.",
+                                "start_time": 2.87,
+                                "end_time": 5.54
+                            },
+                            {
+                                "_id": "5e13e8e9e525a91232f90a87",
+                                "sentence": " He looks down at the destroyed cake and frowns.",
+                                "start_time": 5.55,
+                                "end_time": 8.41
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c68ae558482c3085646e690",
+                "video": "5be8ff17d6534f595cb498ec",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c67a10184900704e4f043b9",
+                    "email": "wondersofwonderland@gmail.com",
+                    "name": "Christine Thompson",
+                    "given_name": "Christine",
+                    "picture": "https://lh6.googleusercontent.com/-6oNgf2TOm6k/AAAAAAAAAAI/AAAAAAAAANs/9TDThTZclOw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "105431569525076506113",
+                    "last_login": 20190216053457,
+                    "token": "67838bd8a77c293ccdaefa04e2ff6bec96354ba6eff834905b7039e53218df89",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190217004405,
+                "updated_at": 20190218124214,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "simons cat",
+            "simon's cat",
+            "simonscat",
+            "simon tofield",
+            "simon the cat",
+            "funny cats",
+            "cute cats",
+            "cat fails",
+            "animated animals",
+            "short animation",
+            "animated cats",
+            "tofield",
+            "simon's katze",
+            "simon",
+            "kitty",
+            "traditional animation",
+            "black and white cat",
+            "\u041a\u043e\u0442 \u0421\u0430\u0439\u043c\u043e\u043d\u0430",
+            "cat lovers",
+            "animal (film character)",
+            "fail",
+            "funny cat",
+            "cats",
+            "cute",
+            "kitten",
+            "kittens",
+            "pets",
+            "simons cats",
+            "Cat",
+            "Animation",
+            "Kitten",
+            "Funny",
+            "Humour",
+            "fun",
+            "videos",
+            "purrthday",
+            "party animal",
+            "happy birthday",
+            "cake",
+            "SimonsCat10Years"
+        ],
+        "custom_tags": [],
+        "_id": "5be8ff17d6534f595cb498ec",
+        "title": "Purrthday Cake (A 10th Birthday Special) - Simon's Cat | SHORTS #75",
+        "description": "Purrthday Cake - Simon's Cat \nSIMON'S CAT YOUTUBE CHANNEL IS 10 YEARS OLD! - Send us your birthday messages! - #SimonsCat10Years. \n'A loving owner treats his cat to a special cat birthday cake - full of yummy cat food! (Definitely not made for human consumption)'\n\nMarch 4th 2008 marks the date when the Simon's Cat YouTube channel was launched. A massive thank you to all of the fans that have supported us so far! Watch the film that started it all here - https://www.youtube.com/watch?v=w0ffwDYo00Q\n\nDon't forget to SUBSCRIBE and 'HIT THE BELL' for Notifications! - http://bit.ly/scytsubs\n\n\u2018Purrthday Cake\u2019 Credits:\nDirected by: Simon Tofield\nAnimation: Harry Slinger-Thompson\nAssistant Animator: Julia Young\nAnimation Supervisor: Rachel Farfan\nDesign/Rig: Trevor Phillips\nArt Director: Liza Nechaeva\nProducer: Emma Burch\nAssociate Producer: Edwin Eckford\nMusic: Shrooty\nFoley: Chris Swaine @ Fonic\n\nLove Simon\u2019s Cat? Watch our 12 minute colour film \u2018Off to the Vet\u2019 - https://youtu.be/GTUruS-lnEo \n\nWant Purr-sonalized Simon's Cat merchandise? Click here - https://shop.simonscat.com/\n\nHave you visited the official Simon's Cat website? http://www.simonscat.com \n\nStay connected with Simon's Cat on:\nFacebook: http://facebook.com/simonscat\nGoogle+: http://plus.google.com/+SimonsCat\nTwitter: http://twitter.com/SimonsCat\nInstagram: https://www.instagram.com/simonscatofficial/?hl=en \nTumblr: http://simonscat.tumblr.com/\nPinterest: http://pinterest.com/simonscat\n\nWant to see more of our Black & White films? \nCheck out our play list here: http://www.goo.gl/FkqgHw\n\nWant to know more about the history of Simon's Cat?\nWatch the Simon's Cat Story here - http://goo.gl/Vfx2JS \n\nFAQs:\n\nQ. What software do you use?\nA. Simon's Cat is made using Adobe Flash / TV Paint / CelAction animation software.\n\nQ. Why does it take so long to make each Simon's Cat film?\nA. Animation is a slow process and Simon\u2019s Cat films pay particular attention to observed, real life cat behaviour. Historically the films were traditionally animated frame by frame. More recently we use Celaction which has sped up the process but still requires a lot of care and attention. Each film takes approximately 6-9 weeks to make, depending on complexity, number of characters and special effects.\n\nQ. Where can I buy Simon\u2019s Cat merchandise?\nA. You can purchase Simon's Cat products from our online shop! - https://shop.simonscat.com/",
+        "youtube_id": "faYA_upR_a0",
+        "created_at": 20181112041831,
+        "updated_at": 20190218072915,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 128
+    }
+}

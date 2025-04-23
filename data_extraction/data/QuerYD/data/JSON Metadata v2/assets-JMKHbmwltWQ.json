@@ -1,0 +1,582 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b04",
+                        "audio_description": "58e7cf3546e13dfd851a25ad",
+                        "created_at": 20160818131450,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818131450,
+                        "file_name": "14715512903641.wav",
+                        "start_time": 0.423,
+                        "legacy_video_id": 2650,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23854,
+                        "video": "58e7cf2946e13dfd851a1e6d",
+                        "end_time": 0.423,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 38.11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268879f74cbc7c082d7f",
+                                "sentence": " A woman wearing a long sleeved black shirt is standing at a table",
+                                "start_time": 0.18,
+                                "end_time": 5.22
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d7e",
+                                "sentence": " while a woman in a dark green sweater",
+                                "start_time": 5.23,
+                                "end_time": 7.63
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d7d",
+                                "sentence": " wearing ear mufflers and a blindfold walks up,",
+                                "start_time": 7.63,
+                                "end_time": 10.41
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d7c",
+                                "sentence": " the two women come together and communicate using tactile American sign language",
+                                "start_time": 10.87,
+                                "end_time": 16.27
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d7b",
+                                "sentence": " t a s l",
+                                "start_time": 16.34,
+                                "end_time": 17.84
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d7a",
+                                "sentence": " the woman in black signs. Hi, I'm",
+                                "start_time": 18.2,
+                                "end_time": 21.5
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d79",
+                                "sentence": " she said the name sign that looks like a color.",
+                                "start_time": 22.22,
+                                "end_time": 24.8
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d78",
+                                "sentence": " How are you?",
+                                "start_time": 25.33,
+                                "end_time": 26.44
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d77",
+                                "sentence": " The blindfolded woman replies",
+                                "start_time": 26.88,
+                                "end_time": 28.95
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d76",
+                                "sentence": " signing",
+                                "start_time": 29.83,
+                                "end_time": 31
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d75",
+                                "sentence": " good",
+                                "start_time": 31.39,
+                                "end_time": 32.21
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d74",
+                                "sentence": " the woman in black signs.",
+                                "start_time": 32.7,
+                                "end_time": 34.52
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d73",
+                                "sentence": " Let's sit!",
+                                "start_time": 34.57,
+                                "end_time": 35.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b05",
+                        "audio_description": "58e7cf3546e13dfd851a25ad",
+                        "created_at": 20160818131615,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818131615,
+                        "file_name": "14715513751141.wav",
+                        "start_time": 16.86,
+                        "legacy_video_id": 2650,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23855,
+                        "video": "58e7cf2946e13dfd851a1e6d",
+                        "end_time": 16.86,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 19.69,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44230ba888c4bc7acb60a2",
+                                "sentence": " They sit down at a table sitting side by side,",
+                                "start_time": 0.21,
+                                "end_time": 3.38
+                            },
+                            {
+                                "_id": "5e44230ba888c4bc7acb60a1",
+                                "sentence": " the woman in black sitting on the right",
+                                "start_time": 3.83,
+                                "end_time": 6.11
+                            },
+                            {
+                                "_id": "5e44230ba888c4bc7acb60a0",
+                                "sentence": " with a student to her. Right,",
+                                "start_time": 6.11,
+                                "end_time": 8.22
+                            },
+                            {
+                                "_id": "5e44230ba888c4bc7acb609f",
+                                "sentence": " they begin to communicate using t a s al. Again,",
+                                "start_time": 8.35,
+                                "end_time": 11.78
+                            },
+                            {
+                                "_id": "5e44230ba888c4bc7acb609e",
+                                "sentence": " the woman in black signs.",
+                                "start_time": 12.33,
+                                "end_time": 14.16
+                            },
+                            {
+                                "_id": "5e44230ba888c4bc7acb609d",
+                                "sentence": " Today, you're building a ball.",
+                                "start_time": 14.27,
+                                "end_time": 16.24
+                            },
+                            {
+                                "_id": "5e44230ba888c4bc7acb609c",
+                                "sentence": " It's fun.",
+                                "start_time": 16.24,
+                                "end_time": 17.2
+                            },
+                            {
+                                "_id": "5e44230ba888c4bc7acb609b",
+                                "sentence": " Ready to touch the ball.",
+                                "start_time": 17.34,
+                                "end_time": 18.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b06",
+                        "audio_description": "58e7cf3546e13dfd851a25ad",
+                        "created_at": 20160818132030,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818132030,
+                        "file_name": "14715516304931.wav",
+                        "start_time": 35.307,
+                        "legacy_video_id": 2650,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23856,
+                        "video": "58e7cf2946e13dfd851a1e6d",
+                        "end_time": 35.307,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 21.99,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44223979f74cbc7c082c2c",
+                                "sentence": " The woman in black pushes a colorful ball made of paper towards the blindfolded woman.",
+                                "start_time": 0.41,
+                                "end_time": 5.83
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c2b",
+                                "sentence": " The ball is made up of small pieces of circular paper folded into triangles and attached with the seams out, creating a paper edge.",
+                                "start_time": 5.96,
+                                "end_time": 14.75
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c2a",
+                                "sentence": " The blindfolded woman explores the ball with her hands, feeling the different sides and edges.",
+                                "start_time": 14.93,
+                                "end_time": 21.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b07",
+                        "audio_description": "58e7cf3546e13dfd851a25ad",
+                        "created_at": 20160818132251,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818132251,
+                        "file_name": "14715517717531.wav",
+                        "start_time": 50.627,
+                        "legacy_video_id": 2650,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23857,
+                        "video": "58e7cf2946e13dfd851a1e6d",
+                        "end_time": 50.627,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 30.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44288dc26fa0bc796fd4f7",
+                                "sentence": " Yeah,",
+                                "start_time": 0,
+                                "end_time": 0.85
+                            },
+                            {
+                                "_id": "5e44288dc26fa0bc796fd4f6",
+                                "sentence": " the blindfolded woman puts the ball down and the two women communicate using t a s l",
+                                "start_time": 0.87,
+                                "end_time": 6.96
+                            },
+                            {
+                                "_id": "5e44288dc26fa0bc796fd4f5",
+                                "sentence": " the woman in black signs. We are going to make a ball today, okay?",
+                                "start_time": 7.46,
+                                "end_time": 12.01
+                            },
+                            {
+                                "_id": "5e44288dc26fa0bc796fd4f4",
+                                "sentence": " And the blindfolded woman nods her head.",
+                                "start_time": 12.19,
+                                "end_time": 14.68
+                            },
+                            {
+                                "_id": "5e44288dc26fa0bc796fd4f3",
+                                "sentence": " The woman in black then grabs a clear plastic bag from the table, bring it into her in the blindfolded woman's hands.",
+                                "start_time": 14.89,
+                                "end_time": 22.75
+                            },
+                            {
+                                "_id": "5e44288dc26fa0bc796fd4f2",
+                                "sentence": " Together they open the bag, and the blindfolded woman pulls the contents out of the bag,",
+                                "start_time": 22.91,
+                                "end_time": 28.41
+                            },
+                            {
+                                "_id": "5e44288dc26fa0bc796fd4f1",
+                                "sentence": " placing them on the table.",
+                                "start_time": 28.41,
+                                "end_time": 30.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b08",
+                        "audio_description": "58e7cf3546e13dfd851a25ad",
+                        "created_at": 20160818133109,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818133109,
+                        "file_name": "14715522696121.wav",
+                        "start_time": 87.265,
+                        "legacy_video_id": 2650,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23858,
+                        "video": "58e7cf2946e13dfd851a1e6d",
+                        "end_time": 87.265,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 28.9,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44223979f74cbc7c082c37",
+                                "sentence": " The scene fades out and a new scene fades in",
+                                "start_time": 0,
+                                "end_time": 4.19
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c36",
+                                "sentence": " a close up of the two women's hands. Working with the contents of the back",
+                                "start_time": 4.84,
+                                "end_time": 9.4
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c35",
+                                "sentence": " says",
+                                "start_time": 9.44,
+                                "end_time": 10.17
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c34",
+                                "sentence": " several pieces of paper",
+                                "start_time": 10.17,
+                                "end_time": 12.01
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c33",
+                                "sentence": " cut into different sizes and shapes",
+                                "start_time": 12.01,
+                                "end_time": 14.45
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c32",
+                                "sentence": " together.",
+                                "start_time": 14.8,
+                                "end_time": 15.98
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c31",
+                                "sentence": " They work to fold the different pieces of paper.",
+                                "start_time": 15.98,
+                                "end_time": 18.73
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c30",
+                                "sentence": " They use an already folded piece of cardboard",
+                                "start_time": 19.18,
+                                "end_time": 22.26
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c2f",
+                                "sentence": " as a mold and guide to fold the other pieces of paper around it",
+                                "start_time": 22.26,
+                                "end_time": 26.88
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c2e",
+                                "sentence": " into the same shape.",
+                                "start_time": 26.88,
+                                "end_time": 28.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b09",
+                        "audio_description": "58e7cf3546e13dfd851a25ad",
+                        "created_at": 20160818133727,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818133727,
+                        "file_name": "14715526476291.wav",
+                        "start_time": 143.374,
+                        "legacy_video_id": 2650,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23860,
+                        "video": "58e7cf2946e13dfd851a1e6d",
+                        "end_time": 143.374,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 24.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e4421bdc26fa0bc796fd38a",
+                                "sentence": " The scene fades out and a new scene fates in",
+                                "start_time": 0.65,
+                                "end_time": 4.03
+                            },
+                            {
+                                "_id": "5e4421bdc26fa0bc796fd389",
+                                "sentence": " a close up of the women's hands working on the project together.",
+                                "start_time": 4.12,
+                                "end_time": 8.13
+                            },
+                            {
+                                "_id": "5e4421bdc26fa0bc796fd388",
+                                "sentence": " The blindfolded woman is working with a paper continuing to fold the paper around the cardboard mold",
+                                "start_time": 8.24,
+                                "end_time": 14.93
+                            },
+                            {
+                                "_id": "5e4421bdc26fa0bc796fd387",
+                                "sentence": " while the woman in black",
+                                "start_time": 14.93,
+                                "end_time": 16.53
+                            },
+                            {
+                                "_id": "5e4421bdc26fa0bc796fd386",
+                                "sentence": " sits closely by affirming the blindfolded woman by patting her on the back gently.",
+                                "start_time": 16.53,
+                                "end_time": 22.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b0a",
+                        "audio_description": "58e7cf3546e13dfd851a25ad",
+                        "created_at": 20160818133902,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818133902,
+                        "file_name": "14715527424131.wav",
+                        "start_time": 165.2,
+                        "legacy_video_id": 2650,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23861,
+                        "video": "58e7cf2946e13dfd851a1e6d",
+                        "end_time": 165.2,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44243df8a7edbc7bf679d7",
+                                "sentence": " The scene widens",
+                                "start_time": 0.19,
+                                "end_time": 2.15
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679d6",
+                                "sentence": " so that the table and women are both in full view.",
+                                "start_time": 2.29,
+                                "end_time": 5.85
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679d5",
+                                "sentence": " The blindfolded woman is still folding paper.",
+                                "start_time": 6.09,
+                                "end_time": 9.13
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679d4",
+                                "sentence": " The woman in black briefly stops her in signs",
+                                "start_time": 9.46,
+                                "end_time": 12.88
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679d3",
+                                "sentence": " three more.",
+                                "start_time": 12.96,
+                                "end_time": 14.12
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679d2",
+                                "sentence": " Good job.",
+                                "start_time": 14.19,
+                                "end_time": 15.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b0b",
+                        "audio_description": "58e7cf3546e13dfd851a25ad",
+                        "created_at": 20160818134040,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818134040,
+                        "file_name": "14715528403071.wav",
+                        "start_time": 195.432,
+                        "legacy_video_id": 2650,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23862,
+                        "video": "58e7cf2946e13dfd851a1e6d",
+                        "end_time": 195.432,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 19.69,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ba888c4bc7acb60e0",
+                                "sentence": " The blindfolded woman starts to fold again.",
+                                "start_time": 0.61,
+                                "end_time": 3.43
+                            },
+                            {
+                                "_id": "5e44281ba888c4bc7acb60df",
+                                "sentence": " As she starts, the woman in black",
+                                "start_time": 3.5,
+                                "end_time": 6.08
+                            },
+                            {
+                                "_id": "5e44281ba888c4bc7acb60de",
+                                "sentence": " taps the blindfolded woman in signs. Wonderful",
+                                "start_time": 6.08,
+                                "end_time": 9.56
+                            },
+                            {
+                                "_id": "5e44281ba888c4bc7acb60dd",
+                                "sentence": " good job,",
+                                "start_time": 9.56,
+                                "end_time": 10.56
+                            },
+                            {
+                                "_id": "5e44281ba888c4bc7acb60dc",
+                                "sentence": " then pats her on the back again.",
+                                "start_time": 10.86,
+                                "end_time": 12.79
+                            },
+                            {
+                                "_id": "5e44281ba888c4bc7acb60db",
+                                "sentence": " The blindfolded woman resumes folding the paper.",
+                                "start_time": 13.19,
+                                "end_time": 15.98
+                            },
+                            {
+                                "_id": "5e44281ba888c4bc7acb60da",
+                                "sentence": " Then the scene fades out.",
+                                "start_time": 16.21,
+                                "end_time": 18.37
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25ad",
+                "status": "published",
+                "legacy_video_id": 2650,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e6d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e6d",
+        "description": "",
+        "youtube_id": "JMKHbmwltWQ",
+        "views": 0,
+        "created_at": 20160818131140,
+        "title": "DWNF Clips 7 and 8 combined",
+        "legacy_video_id": 2650,
+        "updated_at": 20160818134040,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 223
+    }
+}

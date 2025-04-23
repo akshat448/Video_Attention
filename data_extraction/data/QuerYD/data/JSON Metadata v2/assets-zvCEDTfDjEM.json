@@ -1,0 +1,862 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4646e13dfd851a31d0",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626215439,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626215439,
+                        "file_name": "14038448798631.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7633,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 6.65,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211ad5ccb66271b021c863",
+                                "sentence": " A slide with text.",
+                                "start_time": 0.46,
+                                "end_time": 2.2
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c862",
+                                "sentence": " Can people who are deafblind make a difference in the world?",
+                                "start_time": 2.25,
+                                "end_time": 6.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31d1",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626215912,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626215912,
+                        "file_name": "14038451529371.wav",
+                        "start_time": 7.781,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7634,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 7.781,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 24.04,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211b4c97555271ae44f509",
+                                "sentence": " A slide with text",
+                                "start_time": 0,
+                                "end_time": 1.56
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f508",
+                                "sentence": " and a black and white image of helen keller and two traveling companions",
+                                "start_time": 1.56,
+                                "end_time": 6.41
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f507",
+                                "sentence": " walking past a large group of Japanese school children who are waving flags.",
+                                "start_time": 6.41,
+                                "end_time": 11.92
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f506",
+                                "sentence": " The text reads. A group of schoolchildren welcomed helen keller as she visited Japan in 1948.",
+                                "start_time": 12.21,
+                                "end_time": 20.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31d2",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626220004,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626220004,
+                        "file_name": "14038452047681.wav",
+                        "start_time": 19.074,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7635,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 26.234,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211b5097555271ae44f529",
+                                "sentence": " A slide with text.",
+                                "start_time": 0.13,
+                                "end_time": 1.84
+                            },
+                            {
+                                "_id": "5e211b5097555271ae44f528",
+                                "sentence": " Yes, we can",
+                                "start_time": 1.84,
+                                "end_time": 3.33
+                            },
+                            {
+                                "_id": "5e211b5097555271ae44f527",
+                                "sentence": " And We do.",
+                                "start_time": 3.33,
+                                "end_time": 4.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31d3",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626220105,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626220105,
+                        "file_name": "14038452658341.wav",
+                        "start_time": 28.661,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7636,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 56.281000000000006,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 27.62,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211b4c97555271ae44f499",
+                                "sentence": " A series of images",
+                                "start_time": 0.06,
+                                "end_time": 1.89
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f498",
+                                "sentence": " of a young woman who is deafblind traveling in nicaragua.",
+                                "start_time": 1.89,
+                                "end_time": 5.52
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f497",
+                                "sentence": " She is using it cain and traveling with two companions.",
+                                "start_time": 5.55,
+                                "end_time": 9.76
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f496",
+                                "sentence": " She is climbing a hill of rocks.",
+                                "start_time": 9.8,
+                                "end_time": 12.08
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f495",
+                                "sentence": " She is walking through a forest,",
+                                "start_time": 12.12,
+                                "end_time": 14.52
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f494",
+                                "sentence": " an image of her grilling bread on a grill,",
+                                "start_time": 14.73,
+                                "end_time": 18.13
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f493",
+                                "sentence": " working with",
+                                "start_time": 18.39,
+                                "end_time": 19.75
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f492",
+                                "sentence": " local schoolchildren",
+                                "start_time": 19.75,
+                                "end_time": 21.59
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f491",
+                                "sentence": " visiting a local village",
+                                "start_time": 21.59,
+                                "end_time": 23.51
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f490",
+                                "sentence": " and using tactile sign language to communicate.",
+                                "start_time": 23.51,
+                                "end_time": 26.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31d4",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626220259,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626220259,
+                        "file_name": "14038453793321.wav",
+                        "start_time": 56.817,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7637,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 79.06700000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 22.25,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211b4d97555271ae44f518",
+                                "sentence": " A series of images",
+                                "start_time": 0.23,
+                                "end_time": 2.12
+                            },
+                            {
+                                "_id": "5e211b4d97555271ae44f517",
+                                "sentence": " of a team travelling in the virgin islands.",
+                                "start_time": 2.12,
+                                "end_time": 5.59
+                            },
+                            {
+                                "_id": "5e211b4d97555271ae44f516",
+                                "sentence": " Two members of the team are deafblind,",
+                                "start_time": 5.59,
+                                "end_time": 8.39
+                            },
+                            {
+                                "_id": "5e211b4d97555271ae44f515",
+                                "sentence": " one holds a cane prominently.",
+                                "start_time": 8.39,
+                                "end_time": 10.57
+                            },
+                            {
+                                "_id": "5e211b4d97555271ae44f514",
+                                "sentence": " They are standing outside a school.",
+                                "start_time": 10.64,
+                                "end_time": 13.12
+                            },
+                            {
+                                "_id": "5e211b4d97555271ae44f513",
+                                "sentence": " There's image of them working at a workshop and talking with people",
+                                "start_time": 13.23,
+                                "end_time": 17.23
+                            },
+                            {
+                                "_id": "5e211b4d97555271ae44f512",
+                                "sentence": " and visiting with people in the virgin islands.",
+                                "start_time": 17.44,
+                                "end_time": 20.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31d5",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626220426,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626220426,
+                        "file_name": "14038454666691.wav",
+                        "start_time": 83.54,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7638,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 83.54,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 31.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211ad5ccb66271b021c8ba",
+                                "sentence": " A video clip",
+                                "start_time": 0.27,
+                                "end_time": 1.8
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c8b9",
+                                "sentence": " of an elementary school age deafblind ugandan girl",
+                                "start_time": 1.8,
+                                "end_time": 6.22
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c8b8",
+                                "sentence": " sitting with her teacher on the floor of a school for the deaf.",
+                                "start_time": 6.22,
+                                "end_time": 10.54
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c8b7",
+                                "sentence": " The teacher is taking her hands and forming her hands into the shape of sign language letters",
+                                "start_time": 10.76,
+                                "end_time": 17.48
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c8b6",
+                                "sentence": " near her sits us a visiting American",
+                                "start_time": 17.74,
+                                "end_time": 21.14
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c8b5",
+                                "sentence": " who is also deaf blind,",
+                                "start_time": 21.14,
+                                "end_time": 23.15
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c8b4",
+                                "sentence": " who is talking with her and using sign language to communicate",
+                                "start_time": 23.15,
+                                "end_time": 27.36
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c8b3",
+                                "sentence": " with two students and the teacher.",
+                                "start_time": 27.36,
+                                "end_time": 30.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31d6",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626220852,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626220852,
+                        "file_name": "14038457324571.wav",
+                        "start_time": 89.301,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7639,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 133.291,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 43.99,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211b4c97555271ae44f4f2",
+                                "sentence": " A series of images of individuals who happen to be blind,",
+                                "start_time": 0,
+                                "end_time": 4.4
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4f1",
+                                "sentence": " deaf, blind",
+                                "start_time": 4.4,
+                                "end_time": 5.67
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4f0",
+                                "sentence": " and hearing sighted. Traveling in uganda.",
+                                "start_time": 5.67,
+                                "end_time": 8.74
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4ef",
+                                "sentence": " A blind man stands under a large sign at the equator,",
+                                "start_time": 9.01,
+                                "end_time": 13.46
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4ee",
+                                "sentence": " holding his cane prominently.",
+                                "start_time": 13.46,
+                                "end_time": 15.72
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4ed",
+                                "sentence": " Images of the team visiting at the helen keller world conference and using tactile sign language to communicate",
+                                "start_time": 16.2,
+                                "end_time": 23.51
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4ec",
+                                "sentence": " images of the team standing beside a road,",
+                                "start_time": 23.76,
+                                "end_time": 27.63
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4eb",
+                                "sentence": " talking with people from uganda and with each other",
+                                "start_time": 27.63,
+                                "end_time": 31.48
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4ea",
+                                "sentence": " images of the team",
+                                "start_time": 31.72,
+                                "end_time": 33.57
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4e9",
+                                "sentence": " observing a marketplace.",
+                                "start_time": 33.57,
+                                "end_time": 35.95
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4e8",
+                                "sentence": " Images of children who are deaf at a school for the deaf,",
+                                "start_time": 36.21,
+                                "end_time": 40.33
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4e7",
+                                "sentence": " signing and looking at the camera.",
+                                "start_time": 40.4,
+                                "end_time": 43.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31d7",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626221047,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626221047,
+                        "file_name": "14038458475421.wav",
+                        "start_time": 136.416,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7640,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 157.646,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 21.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211ad5ccb66271b021c85b",
+                                "sentence": " A video clip of three elementary school age",
+                                "start_time": 0.12,
+                                "end_time": 4.87
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c85a",
+                                "sentence": " ugandan boys who happen to be deaf at the school for the deaf.",
+                                "start_time": 4.87,
+                                "end_time": 9.04
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c859",
+                                "sentence": " The three are looking at the camera",
+                                "start_time": 9.35,
+                                "end_time": 11.81
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c858",
+                                "sentence": " and are signing in ugandan sign language",
+                                "start_time": 11.85,
+                                "end_time": 15.19
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c857",
+                                "sentence": " to the person who is taking the video.",
+                                "start_time": 15.19,
+                                "end_time": 17.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31d8",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626221200,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626221200,
+                        "file_name": "14038459208451.wav",
+                        "start_time": 156.909,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7641,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 156.909,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.2,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211b4c97555271ae44f4a0",
+                                "sentence": " A slide with text.",
+                                "start_time": 0.15,
+                                "end_time": 2
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f49f",
+                                "sentence": " On december 20, 2013. Senator Bob corker officially opposed the ratification",
+                                "start_time": 2.04,
+                                "end_time": 9.27
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f49e",
+                                "sentence": " of the convention on the rights of persons with disabilities",
+                                "start_time": 9.27,
+                                "end_time": 13.16
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f49d",
+                                "sentence": " c r p d",
+                                "start_time": 13.16,
+                                "end_time": 15.21
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f49c",
+                                "sentence": " which he also voted against in December 2012.",
+                                "start_time": 15.21,
+                                "end_time": 19.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31d9",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626221329,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626221329,
+                        "file_name": "14038460099661.wav",
+                        "start_time": 168.931,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7642,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 168.931,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 26.85,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211b4c97555271ae44f4bd",
+                                "sentence": " A slide with text",
+                                "start_time": 0.26,
+                                "end_time": 2
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4bc",
+                                "sentence": " as a group of young deafblind americans who have recently founded the national organization",
+                                "start_time": 2,
+                                "end_time": 8.67
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4bb",
+                                "sentence": " d BC a",
+                                "start_time": 8.67,
+                                "end_time": 10.48
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4ba",
+                                "sentence": " to give back to our community and nation.",
+                                "start_time": 10.48,
+                                "end_time": 13.24
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4b9",
+                                "sentence": " We are dismayed",
+                                "start_time": 13.24,
+                                "end_time": 14.97
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4b8",
+                                "sentence": " by this announcement and his further decision to abandon consideration of the treaty",
+                                "start_time": 14.97,
+                                "end_time": 20.81
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4b7",
+                                "sentence": " by the senate foreign relations committee, of which he is a ranking member.",
+                                "start_time": 20.81,
+                                "end_time": 26.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31da",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626221441,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626221441,
+                        "file_name": "14038460815771.wav",
+                        "start_time": 180.285,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7643,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 195.885,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211ad5ccb66271b021c84b",
+                                "sentence": " A slide with text",
+                                "start_time": 0,
+                                "end_time": 1.6
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c84a",
+                                "sentence": " d BC a is asking that the dignity and human rights of every American",
+                                "start_time": 1.68,
+                                "end_time": 7.53
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c849",
+                                "sentence": " be respected,",
+                                "start_time": 7.53,
+                                "end_time": 8.88
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c848",
+                                "sentence": " not just at home, but wherever americans go in the world,",
+                                "start_time": 8.88,
+                                "end_time": 12.92
+                            },
+                            {
+                                "_id": "5e211ad5ccb66271b021c847",
+                                "sentence": " just like everyone else.",
+                                "start_time": 12.92,
+                                "end_time": 15.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31db",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626221551,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626221551,
+                        "file_name": "14038461512611.wav",
+                        "start_time": 200.097,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7644,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 200.097,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211d0c65f1f371b11fec1c",
+                                "sentence": " A slide with text on an image of a young helen keller.",
+                                "start_time": 0.01,
+                                "end_time": 4.3
+                            },
+                            {
+                                "_id": "5e211d0c65f1f371b11fec1b",
+                                "sentence": " Today is helen keller's birthday.",
+                                "start_time": 4.3,
+                                "end_time": 7.05
+                            },
+                            {
+                                "_id": "5e211d0c65f1f371b11fec1a",
+                                "sentence": " This video is dedicated to helping restore her vision for future generations",
+                                "start_time": 7.05,
+                                "end_time": 13.19
+                            },
+                            {
+                                "_id": "5e211d0c65f1f371b11fec19",
+                                "sentence": " support the c r p d.",
+                                "start_time": 13.19,
+                                "end_time": 15.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31dc",
+                        "audio_description": "58e7cf2d46e13dfd851a21f1",
+                        "created_at": 20140626221749,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140626221749,
+                        "file_name": "14038462690071.wav",
+                        "start_time": 206.045,
+                        "legacy_video_id": 1573,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 7645,
+                        "video": "58e7cf2846e13dfd851a1a38",
+                        "end_time": 206.045,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 36.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e211b4c97555271ae44f4d3",
+                                "sentence": " The logo for deaf blind citizens in action",
+                                "start_time": 0.08,
+                                "end_time": 3.69
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4d2",
+                                "sentence": " capital d BC a",
+                                "start_time": 3.69,
+                                "end_time": 7.54
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4d1",
+                                "sentence": " in the center of the d shape",
+                                "start_time": 7.78,
+                                "end_time": 10.29
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4d0",
+                                "sentence": " is the American sign language letter d",
+                                "start_time": 10.36,
+                                "end_time": 13.83
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4cf",
+                                "sentence": " in the center of the b shape",
+                                "start_time": 13.83,
+                                "end_time": 16.32
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4ce",
+                                "sentence": " is an icon",
+                                "start_time": 16.47,
+                                "end_time": 18.18
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4cd",
+                                "sentence": " for the braille letter b",
+                                "start_time": 18.18,
+                                "end_time": 20.51
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4cc",
+                                "sentence": " in the center of the sea",
+                                "start_time": 20.51,
+                                "end_time": 22.86
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4cb",
+                                "sentence": " is an icon of a person standing",
+                                "start_time": 23.15,
+                                "end_time": 26.63
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4ca",
+                                "sentence": " And The",
+                                "start_time": 26.86,
+                                "end_time": 27.75
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4c9",
+                                "sentence": " stylized version of the letter a",
+                                "start_time": 27.75,
+                                "end_time": 30.83
+                            },
+                            {
+                                "_id": "5e211b4c97555271ae44f4c8",
+                                "sentence": " is an image of a person walking forward with a dog guide.",
+                                "start_time": 30.85,
+                                "end_time": 36.05
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21f1",
+                "status": "published",
+                "legacy_video_id": 1573,
+                "legacy_user_id": 2298,
+                "video": "58e7cf2846e13dfd851a1a38",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21f0",
+                    "name": "parkera",
+                    "google_user_id_token": "",
+                    "created_at": 20140626172125,
+                    "updated_at": 20160929202638,
+                    "legacy_user_id": 2298,
+                    "last_login": 0,
+                    "email": "parkera@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Helen Keller",
+            "DeafBlind",
+            "CRPD",
+            "Bob Corker (U.S. Congressperson)",
+            "Bob Corker",
+            "Ranking Member (Legislative Committee Title)",
+            "DBCA",
+            "Freedom",
+            "Helen Keller's Vision",
+            "Vision",
+            "Dream",
+            "Deafblind",
+            "DeafBlind Month",
+            "Helen Keller's Birthday",
+            "Celebration",
+            "International Travel",
+            "Birthday (Quotation Subject)",
+            "June",
+            "June 27 (Day Of Year)"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a38",
+        "description": "",
+        "youtube_id": "zvCEDTfDjEM",
+        "views": 0,
+        "created_at": 20140626205127,
+        "title": "DBCA Supports CRPD - Helen Keller's Birthday (June 27th)",
+        "legacy_video_id": 1573,
+        "updated_at": 20140627172057,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 214
+    }
+}

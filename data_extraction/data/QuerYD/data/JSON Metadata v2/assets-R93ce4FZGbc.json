@@ -1,0 +1,590 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7346e13dfd851a55df",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225111258,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225111258,
+                        "file_name": "14564275782721.wav",
+                        "start_time": 15.989,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21698,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 15.989,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e4065f0fe1db5ac5130e5b8",
+                                "sentence": " A school of fishes swimming below.",
+                                "start_time": 0,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7346e13dfd851a55e0",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225111333,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225111333,
+                        "file_name": "14564276130961.wav",
+                        "start_time": 24.182,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21699,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 24.182,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e42c26c16b75ab425f7168a",
+                                "sentence": " To pink fish are talking. When a shadow passes overhead,",
+                                "start_time": 0.04,
+                                "end_time": 5.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7346e13dfd851a55e1",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225112857,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225112857,
+                        "file_name": "14564285372791.wav",
+                        "start_time": 25.576,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21708,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 25.576,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e4061f2fe1db5ac5130e57e",
+                                "sentence": " Looking shark is swimming towards them.",
+                                "start_time": 0,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7346e13dfd851a55e2",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225113550,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225113550,
+                        "file_name": "14564289502091.wav",
+                        "start_time": 10.07,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21711,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 10.07,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e42c2100499b0b427648152",
+                                "sentence": " Baby shark, a yellow triangular fin is poking through the water.",
+                                "start_time": 0,
+                                "end_time": 5.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7346e13dfd851a55e3",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225114818,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225114818,
+                        "file_name": "14564296980641.wav",
+                        "start_time": 35.985,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21716,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 35.985,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e4061f2fe1db5ac5130e585",
+                                "sentence": " Baby shark is swimming after the fish.",
+                                "start_time": 0.39,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7346e13dfd851a55e4",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225114840,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225114840,
+                        "file_name": "14564297200921.wav",
+                        "start_time": 41.585,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21717,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 41.585,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e4065476b1368ac5088fc24",
+                                "sentence": " Mummy shark is swimming with baby shark.",
+                                "start_time": 0,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7346e13dfd851a55e5",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225114909,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225114909,
+                        "file_name": "14564297494521.wav",
+                        "start_time": 49.235,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21718,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 49.235,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e4061f2fe1db5ac5130e573",
+                                "sentence": " Now, daddy is swimming with mummy and baby shark.",
+                                "start_time": 0.03,
+                                "end_time": 3.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7346e13dfd851a55e6",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225114940,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225114940,
+                        "file_name": "14564297804111.wav",
+                        "start_time": 58.159,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21719,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 58.159,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e4065476b1368ac5088fbf9",
+                                "sentence": " Grandma shark joins daddy mummy and baby shark to swim.",
+                                "start_time": 0.04,
+                                "end_time": 5.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a55e7",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225115014,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225115014,
+                        "file_name": "14564298148801.wav",
+                        "start_time": 68.064,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21720,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 68.064,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e4061f2fe1db5ac5130e57c",
+                                "sentence": " Now, grandpa shark is swimming with the rest of the family.",
+                                "start_time": 0,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a55e8",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225115324,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225115324,
+                        "file_name": "14564300042961.wav",
+                        "start_time": 82.864,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21725,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 82.864,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1256b735cb4247ac4a1",
+                                "sentence": " The fish are swimming away from the family of sharks.",
+                                "start_time": 0,
+                                "end_time": 4.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a55e9",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225115357,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225115357,
+                        "file_name": "14564300378971.wav",
+                        "start_time": 86.599,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21726,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 86.599,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e40671ca2babac06dc162f6",
+                                "sentence": " The fish are hiding in the holes in the coral.",
+                                "start_time": 0.19,
+                                "end_time": 3.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a55ea",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225115444,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225115444,
+                        "file_name": "14564300841311.wav",
+                        "start_time": 95.678,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21727,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 95.678,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1236b735cb4247ac42d",
+                                "sentence": " Fish are singing and dancing inside the coral.",
+                                "start_time": 0,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a55eb",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225120953,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225120953,
+                        "file_name": "14564309931581.wav",
+                        "start_time": 26.94,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21733,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 26.94,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e4061f2fe1db5ac5130e571",
+                                "sentence": " Baby shark out for a swim.",
+                                "start_time": 0,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a55ec",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225122111,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225122111,
+                        "file_name": "14564316719571.wav",
+                        "start_time": 100.208,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21736,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 100.208,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e41660d35f2c8876894b3f3",
+                                "sentence": " The fish are standing on Top of the coral, dancing and singing with the family of sharks.",
+                                "start_time": 0,
+                                "end_time": 6.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a55ed",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225122400,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225122400,
+                        "file_name": "14564318402041.wav",
+                        "start_time": 75.369,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21738,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 75.369,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e4061f2fe1db5ac5130e57d",
+                                "sentence": " Grandma has joined the hunt.",
+                                "start_time": 0,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a55ee",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225122428,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225122428,
+                        "file_name": "14564318683201.wav",
+                        "start_time": 76.978,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21739,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 76.978,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e4065476b1368ac5088fc17",
+                                "sentence": " Baby shark and grandpa have joined the hunts.",
+                                "start_time": 0,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a55ef",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225123903,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225123903,
+                        "file_name": "14564327436731.wav",
+                        "start_time": 72.995,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21748,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 72.995,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e4061f2fe1db5ac5130e584",
+                                "sentence": " Mommy has joined daddy shark in the hunt.",
+                                "start_time": 0.15,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a55f0",
+                        "audio_description": "58e7cf3646e13dfd851a2602",
+                        "created_at": 20160225124442,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160225124442,
+                        "file_name": "14564330822561.wav",
+                        "start_time": 70.89,
+                        "legacy_video_id": 2480,
+                        "legacy_user_id": 3063,
+                        "label": "",
+                        "legacy_audio_clip_id": 21754,
+                        "video": "58e7cf2946e13dfd851a1dc3",
+                        "end_time": 70.89,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2601",
+                        "transcript": [
+                            {
+                                "_id": "5e40671ca2babac06dc16310",
+                                "sentence": " The shark is hunting the fish.",
+                                "start_time": 0,
+                                "end_time": 2.28
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a2602",
+                "status": "published",
+                "legacy_video_id": 2480,
+                "legacy_user_id": 3063,
+                "video": "58e7cf2946e13dfd851a1dc3",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2601",
+                    "name": "Diser",
+                    "google_user_id_token": "",
+                    "created_at": 20160225105009,
+                    "updated_at": 20160411061458,
+                    "legacy_user_id": 3063,
+                    "last_login": 0,
+                    "email": "dinired53@msn.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "pinkfong",
+            "family",
+            "kids",
+            "children",
+            "toddlers",
+            "babies",
+            "preschoolers",
+            "preschool",
+            "education",
+            "educational",
+            "videos",
+            "kids education",
+            "education for children",
+            "preschool learning",
+            "videos for kids",
+            "kids videos",
+            "kids animation",
+            "songs",
+            "songs for kids",
+            "songs for children",
+            "songs for toddlers",
+            "kids songs",
+            "children\u2019s songs",
+            "preschool songs",
+            "toddler songs",
+            "best kids songs",
+            "best children\u2019s songs",
+            "nursery rhymes",
+            "animal song",
+            "animal cartoon",
+            "baby shark",
+            "baby shark challenge",
+            "baby shark dance"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1dc3",
+        "description": "",
+        "youtube_id": "R93ce4FZGbc",
+        "views": 0,
+        "created_at": 20160225105205,
+        "title": "Baby Shark | Animal Songs | PINKFONG Songs for Children",
+        "legacy_video_id": 2480,
+        "updated_at": 20160225124442,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 117
+    }
+}

@@ -1,0 +1,405 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "598f549faacee334625b5804",
+                        "video": "598f53abaacee334625b5803",
+                        "audio_description": "598f53abaacee334625b5802",
+                        "user": "598f23d0aacee334625b57c3",
+                        "label": "Logo",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 5.572789115646258,
+                        "duration": 5.572789115646258,
+                        "file_name": "rk_qLtk0m2c_598f549faacee334625b5804.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rk_qLtk0m2c",
+                        "created_at": 20170812191855,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13208539953108ba5413df",
+                                "sentence": " America's got talent auditions, logo",
+                                "start_time": 0.08,
+                                "end_time": 3.95
+                            },
+                            {
+                                "_id": "5e13208539953108ba5413de",
+                                "sentence": " plays.",
+                                "start_time": 4.03,
+                                "end_time": 5.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "598f5527aacee334625b5806",
+                        "video": "598f53abaacee334625b5803",
+                        "audio_description": "598f53abaacee334625b5802",
+                        "user": "598f23d0aacee334625b57c3",
+                        "label": "Greeting",
+                        "playback_type": "extended",
+                        "start_time": 9.839467,
+                        "end_time": 9.839467,
+                        "duration": 28.142585034013607,
+                        "file_name": "rk_qLtk0m2c_598f5527aacee334625b5806.wav",
+                        "file_size_bytes": 4964396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rk_qLtk0m2c",
+                        "created_at": 20170812192111,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131e4dd66bb308b9c55920",
+                                "sentence": " 12 year old darcy lynn walks onto stage. She's wearing a blue dress and smiling.",
+                                "start_time": 0.37,
+                                "end_time": 6.63
+                            },
+                            {
+                                "_id": "5e131e4dd66bb308b9c5591f",
+                                "sentence": " She is carrying a white puppet with bunny ears and a pink dress. She sets the puppet on a stand and turns and faces, the judges and the crowd. The four judges, Simon, heidi, mel, b and howie greet her, and Simon begins to speak.",
+                                "start_time": 6.63,
+                                "end_time": 28.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "598f555faacee334625b5807",
+                        "video": "598f53abaacee334625b5803",
+                        "audio_description": "598f53abaacee334625b5802",
+                        "user": "598f23d0aacee334625b57c3",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 24.253490963760377,
+                        "end_time": 27.875803888930445,
+                        "duration": 3.622312925170068,
+                        "file_name": "rk_qLtk0m2c_598f555faacee334625b5807.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rk_qLtk0m2c",
+                        "created_at": 20170812192207,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13211631e8ea08fddf94c5",
+                                "sentence": " Petunia, the puppet response to simon's greeting.",
+                                "start_time": 0,
+                                "end_time": 3.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "598f558caacee334625b5808",
+                        "video": "598f53abaacee334625b5803",
+                        "audio_description": "598f53abaacee334625b5802",
+                        "user": "598f23d0aacee334625b57c3",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 48.169211,
+                        "end_time": 52.34880283673469,
+                        "duration": 4.179591836734694,
+                        "file_name": "rk_qLtk0m2c_598f558caacee334625b5808.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rk_qLtk0m2c",
+                        "created_at": 20170812192252,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13208439953108ba5413be",
+                                "sentence": " The two new starts to sing. Darcy continues to smile.",
+                                "start_time": 0,
+                                "end_time": 4.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "598f55baaacee334625b580c",
+                        "video": "598f53abaacee334625b5803",
+                        "audio_description": "598f53abaacee334625b5802",
+                        "user": "598f23d0aacee334625b57c3",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 91.2446759923706,
+                        "end_time": 93.380911820035,
+                        "duration": 2.136235827664399,
+                        "file_name": "rk_qLtk0m2c_598f55baaacee334625b580c.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rk_qLtk0m2c",
+                        "created_at": 20170812192338,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1321c617363f08feff97f8",
+                                "sentence": " Darcy begins to sing.",
+                                "start_time": 0.15,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "598f55d2aacee334625b580d",
+                        "video": "598f53abaacee334625b5803",
+                        "audio_description": "598f53abaacee334625b5802",
+                        "user": "598f23d0aacee334625b57c3",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 96.80895997138977,
+                        "end_time": 104.14646564032401,
+                        "duration": 7.337505668934241,
+                        "file_name": "rk_qLtk0m2c_598f55d2aacee334625b580d.wav",
+                        "file_size_bytes": 1294380,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rk_qLtk0m2c",
+                        "created_at": 20170812192402,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131def9b87ad08bbe5a18c",
+                                "sentence": " Petunia covers darcy, his mouth with her hands, and begins to sing again. Darcy continues to smile.",
+                                "start_time": 0.35,
+                                "end_time": 7.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "598f55f5aacee334625b580e",
+                        "video": "598f53abaacee334625b5803",
+                        "audio_description": "598f53abaacee334625b5802",
+                        "user": "598f23d0aacee334625b57c3",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 124.0289300667572,
+                        "end_time": 130.7162770055327,
+                        "duration": 6.6873469387755105,
+                        "file_name": "rk_qLtk0m2c_598f55f5aacee334625b580e.wav",
+                        "file_size_bytes": 1179692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rk_qLtk0m2c",
+                        "created_at": 20170812192437,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13208539953108ba5413e1",
+                                "sentence": " A Junior sings, darcy smiles. Her mouth does not move.",
+                                "start_time": 0,
+                                "end_time": 5.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "598f561faacee334625b580f",
+                        "video": "598f53abaacee334625b5803",
+                        "audio_description": "598f53abaacee334625b5802",
+                        "user": "598f23d0aacee334625b57c3",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 155.21485787602234,
+                        "end_time": 164.87435900980918,
+                        "duration": 9.659501133786849,
+                        "file_name": "rk_qLtk0m2c_598f561faacee334625b580f.wav",
+                        "file_size_bytes": 1703980,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rk_qLtk0m2c",
+                        "created_at": 20170812192519,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131df09b87ad08bbe5a191",
+                                "sentence": " The audience stands and claps. The judges stand. Simon looks down, smiles, and then stands.",
+                                "start_time": 0.41,
+                                "end_time": 9.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "598f5636aacee334625b5810",
+                        "video": "598f53abaacee334625b5803",
+                        "audio_description": "598f53abaacee334625b5802",
+                        "user": "598f23d0aacee334625b57c3",
+                        "label": "Darcy cries",
+                        "playback_type": "inline",
+                        "start_time": 176.93503113542175,
+                        "end_time": 182.1363009766916,
+                        "duration": 5.201269841269841,
+                        "file_name": "rk_qLtk0m2c_598f5636aacee334625b5810.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rk_qLtk0m2c",
+                        "created_at": 20170812192542,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13208439953108ba5413c4",
+                                "sentence": " Darcy cries as the audience cheers. She continues to smile.",
+                                "start_time": 0.28,
+                                "end_time": 5.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "598f564faacee334625b5811",
+                        "video": "598f53abaacee334625b5803",
+                        "audio_description": "598f53abaacee334625b5802",
+                        "user": "598f23d0aacee334625b57c3",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 196.75195809155272,
+                        "end_time": 200.1885113795346,
+                        "duration": 3.436553287981859,
+                        "file_name": "rk_qLtk0m2c_598f564faacee334625b5811.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rk_qLtk0m2c",
+                        "created_at": 20170812192607,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13211731e8ea08fddf94d6",
+                                "sentence": " Melby presses the golden buzzer.",
+                                "start_time": 0.04,
+                                "end_time": 3.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "598f568baacee334625b5812",
+                        "video": "598f53abaacee334625b5803",
+                        "audio_description": "598f53abaacee334625b5802",
+                        "user": "598f23d0aacee334625b57c3",
+                        "label": "Finale",
+                        "playback_type": "extended",
+                        "start_time": 241.7713310038147,
+                        "end_time": 241.7713310038147,
+                        "duration": 10.309659863945578,
+                        "file_name": "rk_qLtk0m2c_598f568baacee334625b5812.wav",
+                        "file_size_bytes": 1818668,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rk_qLtk0m2c",
+                        "created_at": 20170812192707,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131e4dd66bb308b9c558f6",
+                                "sentence": " Yeah,",
+                                "start_time": 0.37,
+                                "end_time": 1.28
+                            },
+                            {
+                                "_id": "5e131e4dd66bb308b9c558f5",
+                                "sentence": " melby hugs darcy. Her mom and tire banks join her on stage.",
+                                "start_time": 1.48,
+                                "end_time": 9.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "598f57a9aacee334625b5813",
+                        "video": "598f53abaacee334625b5803",
+                        "audio_description": "598f53abaacee334625b5802",
+                        "user": "598f23d0aacee334625b57c3",
+                        "label": "Confetti",
+                        "playback_type": "inline",
+                        "start_time": 217.49630802288817,
+                        "end_time": 222.4189384083757,
+                        "duration": 4.922630385487528,
+                        "file_name": "rk_qLtk0m2c_598f57a9aacee334625b5813.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rk_qLtk0m2c",
+                        "created_at": 20170812193153,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13208439953108ba5413bf",
+                                "sentence": " Golden confetti begins to fall from the ceiling.",
+                                "start_time": 0.48,
+                                "end_time": 4.53
+                            }
+                        ]
+                    }
+                ],
+                "_id": "598f53abaacee334625b5802",
+                "video": "598f53abaacee334625b5803",
+                "user": {
+                    "opt_in": [],
+                    "_id": "598f23d0aacee334625b57c3",
+                    "email": "kisabell8@gmail.com",
+                    "name": "Karin Isabell",
+                    "given_name": "Karin",
+                    "picture": "https://lh6.googleusercontent.com/-0Ihmqu3LaVg/AAAAAAAAAAI/AAAAAAAAAAA/AMp5VUrpLA0oLiYDFxgeuft5jZlWgJcMvw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "117007489950620246027",
+                    "last_login": 20170812155040,
+                    "token": "ebf31f16fb910bc20d6013202197b904764c1c30cc8a2252cb83662367ac65a5",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170812191451,
+                "updated_at": 20170827183057,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "America's Got Talent 2017",
+            "america's got talent",
+            "america's got talent fails",
+            "america's got talent best",
+            "america's got talent auditions",
+            "AGT",
+            "AGT 2017 auditions",
+            "AGT best auditions",
+            "NBC",
+            "TV",
+            "TV Shows",
+            "Highlights",
+            "Previews",
+            "Simon Cowell",
+            "Howie Mandel",
+            "Tyra Banks",
+            "Heidi Klum",
+            "Mel B",
+            "season 12",
+            "America's",
+            "Got",
+            "Talent",
+            "funny",
+            "judge",
+            "vote",
+            "clips",
+            "talent",
+            "entertainment",
+            "competition",
+            "biggest talent show",
+            "talent show"
+        ],
+        "custom_tags": [],
+        "_id": "598f53abaacee334625b5803",
+        "title": "Darci Lynne: 12-Year-Old Singing Ventriloquist Gets Golden Buzzer - America's Got Talent 2017",
+        "description": "12-year-old who uses ventriloquism to overcome her shyness stuns the crowd with a surprising singing act! See her wow everyone and get a Golden Buzzer from Mel B.\r\n\u00bb Get The America's Got Talent App: http://bit.ly/AGTApp\r\n\u00bb Subscribe for More: http://bit.ly/AGTSub\r\n\u00bb Watch America's Got Talent Tuesdays & Wednesdays 8/7c on NBC!\r\n\u00bb See Howie Join a Dance Troupe!: http://bit.ly/2r6yU0y\r\n\r\nAMERICA'S GOT TALENT ON SOCIAL\r\nLike AGT: https://www.facebook.com/agt\r\nFollow AGT: https://twitter.com/agt\r\nAGT Tumblr: http://nbcagt.tumblr.com/\r\nAGT Instagram: http://instagram.com/agt\r\n\r\nIn season 12, NBC's America's Got Talent follows Simon Cowell, Heidi Klum, Mel B and Howie Mandel in their talent search, showcasing unique performers from across the country. \r\n\r\nFind America's Got Talent trailers, full episode highlights, previews, promos, clips, and digital exclusives here. \r\n\r\nNBC ON SOCIAL\r\nLike NBC: http://Facebook.com/NBC\r\nFollow NBC: http://Twitter.com/NBC\r\nNBC Tumblr: http://NBCtv.tumblr.com/\r\nNBC Pinterest: http://Pinterest.com/NBCtv/\r\nNBC Google+: https://plus.google.com/+NBC\r\nYouTube: http://www.youtube.com/nbc\r\nNBC Instagram: http://instagram.com/nbc\r\n\r\nABOUT AMERICA'S GOT TALENT\r\nWith the talent search open to acts of all ages, \"America's Got Talent\" has brought the variety format back to the forefront of American culture by showcasing unique performers from across the country. The series is a true celebration of the American spirit, featuring a colorful array of singers, dancers, comedians, contortionists, impressionists, jugglers, magicians, ventriloquists and hopeful stars, all vying for their chance to win America's hearts and the $1 million prize.\r\n\r\nDarci Lynne: 12-Year-Old Singing Ventriloquist Gets Golden Buzzer - America's Got Talent 2017\r\nhttps://youtu.be/rk_qLtk0m2c\r\n\r\nAmerica's Got Talent\r\nhttp://www.youtube.com/user/americasgottalent",
+        "youtube_id": "rk_qLtk0m2c",
+        "created_at": 20170812191451,
+        "updated_at": 20170812193153,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 265
+    }
+}

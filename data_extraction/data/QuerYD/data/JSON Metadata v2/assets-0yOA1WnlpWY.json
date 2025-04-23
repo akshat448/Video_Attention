@@ -1,0 +1,902 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a9c7a28d50e4355f9884988",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5a9c7327d50e4355f9884976",
+                        "user": "5a9c71d0d50e4355f988496f",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 15.559289,
+                        "end_time": 24.661511222222224,
+                        "duration": 9.102222222222222,
+                        "file_name": "0yOA1WnlpWY_5a9c7a28d50e4355f9884988.wav",
+                        "file_size_bytes": 1605676,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180304225848,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5a56a79523a24ddc579f51",
+                                "sentence": " This is a test",
+                                "start_time": 1.13,
+                                "end_time": 3.28
+                            },
+                            {
+                                "_id": "5e5a56a79523a24ddc579f50",
+                                "sentence": " to see if I can record my voice",
+                                "start_time": 3.28,
+                                "end_time": 6.06
+                            },
+                            {
+                                "_id": "5e5a56a79523a24ddc579f4f",
+                                "sentence": " and describe these pickles.",
+                                "start_time": 6.21,
+                                "end_time": 8.68
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a9c7327d50e4355f9884976",
+                "video": "5a9c7327d50e4355f9884977",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a9c71d0d50e4355f988496f",
+                    "email": "annlouisemerry@comcast.net",
+                    "name": "Ann Merry",
+                    "given_name": "Ann",
+                    "picture": "https://lh5.googleusercontent.com/-9dHRwVjAw14/AAAAAAAAAAI/AAAAAAAAAAA/AGi4gfxZqdlQlC__fEbPIOcKHXCkQAKUmA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "103956240907058877919",
+                    "last_login": 20180304222312,
+                    "token": "5ab27c3151332140e3cabb18e57d672224692b8622e8a7948a29607985c60e93",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": null,
+                "created_at": 20180304222855,
+                "updated_at": 20180304222855,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a9c7327d50e4355f9884978",
+                        "video": null,
+                        "audio_description": null,
+                        "user": "5a9c71d0d50e4355f988496f",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 7.244625850340136,
+                        "duration": 7.244625850340136,
+                        "file_name": null,
+                        "file_size_bytes": 1277996,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180304222855,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5a9c7327d50e4355f9884979",
+                "video": "5a9c7327d50e4355f9884977",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a9c71d0d50e4355f988496f",
+                    "email": "annlouisemerry@comcast.net",
+                    "name": "Ann Merry",
+                    "given_name": "Ann",
+                    "picture": "https://lh5.googleusercontent.com/-9dHRwVjAw14/AAAAAAAAAAI/AAAAAAAAAAA/AGi4gfxZqdlQlC__fEbPIOcKHXCkQAKUmA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "103956240907058877919",
+                    "last_login": 20180304222312,
+                    "token": "5ab27c3151332140e3cabb18e57d672224692b8622e8a7948a29607985c60e93",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20180304222855,
+                "updated_at": 20180304222855,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5adb15ed97118f02e77aed7e",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Legend",
+                        "playback_type": "extended",
+                        "start_time": 0.852803,
+                        "end_time": 0.852803,
+                        "duration": 6.912,
+                        "file_name": "0yOA1WnlpWY_5adb15ed97118f02e77aed7e.wav",
+                        "file_size_bytes": 1327148,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421104357,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1894e5efa6d6557a270f45",
+                                "sentence": " Food wishes and all recipes production",
+                                "start_time": 0.05,
+                                "end_time": 2.94
+                            },
+                            {
+                                "_id": "5e1894e5efa6d6557a270f44",
+                                "sentence": " bread and butter pickles, how to make great depression style sweet pickles.",
+                                "start_time": 2.94,
+                                "end_time": 6.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb160d97118f02e77aed7f",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Colander",
+                        "playback_type": "extended",
+                        "start_time": 7.057084,
+                        "end_time": 7.057084,
+                        "duration": 2.816,
+                        "file_name": "0yOA1WnlpWY_5adb160d97118f02e77aed7f.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421104429,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1893f983fdba557ba3f70f",
+                                "sentence": " Our calendar holds many cucumbers.",
+                                "start_time": 0.1,
+                                "end_time": 2.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb163497118f02e77aed80",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Jar",
+                        "playback_type": "extended",
+                        "start_time": 18.276978,
+                        "end_time": 18.276978,
+                        "duration": 2.816,
+                        "file_name": "0yOA1WnlpWY_5adb163497118f02e77aed80.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421104508,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189843e6b8aa6db98ab395",
+                                "sentence": " An open jar of sweet pickles.",
+                                "start_time": 0.35,
+                                "end_time": 2.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb166d97118f02e77aed81",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Slicing",
+                        "playback_type": "extended",
+                        "start_time": 48.081316,
+                        "end_time": 48.081316,
+                        "duration": 4.778666666666667,
+                        "file_name": "0yOA1WnlpWY_5adb166d97118f02e77aed81.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421104605,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1893f083fdba557ba3f6cc",
+                                "sentence": " On a wooden board, the Top is sliced off a mini cucumber and discarded.",
+                                "start_time": 0.26,
+                                "end_time": 4.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb16b497118f02e77aed82",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "More slicing",
+                        "playback_type": "extended",
+                        "start_time": 69.05461799999999,
+                        "end_time": 69.05461799999999,
+                        "duration": 5.802666666666667,
+                        "file_name": "0yOA1WnlpWY_5adb16b497118f02e77aed82.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421104716,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18953e83fdba557ba3f721",
+                                "sentence": " About 10 mini cucumbers are sliced into culture and trans, the ends are discarded.",
+                                "start_time": 0.35,
+                                "end_time": 5.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb16df97118f02e77aed83",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Bowl",
+                        "playback_type": "extended",
+                        "start_time": 80.80035099999999,
+                        "end_time": 80.80035099999999,
+                        "duration": 3.584,
+                        "file_name": "0yOA1WnlpWY_5adb16df97118f02e77aed83.wav",
+                        "file_size_bytes": 688172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421104759,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189841e6b8aa6db98ab37b",
+                                "sentence": " Ricky campers a transfer to a large glass bowl.",
+                                "start_time": 0.46,
+                                "end_time": 3.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb171697118f02e77aed84",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Extra veg",
+                        "playback_type": "extended",
+                        "start_time": 90.474567,
+                        "end_time": 90.474567,
+                        "duration": 9.898666666666667,
+                        "file_name": "0yOA1WnlpWY_5adb171697118f02e77aed84.wav",
+                        "file_size_bytes": 1900588,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421104854,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1894803ffd80557d850c5b",
+                                "sentence": " A white onion cut into two inch slices is added with a couple of DC did red chilli sliced into rings.",
+                                "start_time": 0.31,
+                                "end_time": 7.41
+                            },
+                            {
+                                "_id": "5e1894803ffd80557d850c5a",
+                                "sentence": " The vegetables are stirred with a metal spoon.",
+                                "start_time": 7.41,
+                                "end_time": 9.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb176897118f02e77aed85",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Salt",
+                        "playback_type": "extended",
+                        "start_time": 124.021912,
+                        "end_time": 124.021912,
+                        "duration": 6.826666666666667,
+                        "file_name": "0yOA1WnlpWY_5adb176897118f02e77aed85.wav",
+                        "file_size_bytes": 1310764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421105016,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1895e03ffd80557d850ce3",
+                                "sentence": " The Top layer of vegetables is covered in kosher salt. The salt is stirred into the vegetable mix. Well, with a metal spoon,",
+                                "start_time": 0.17,
+                                "end_time": 6.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb17f197118f02e77aed87",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Cling film",
+                        "playback_type": "extended",
+                        "start_time": 136.046293,
+                        "end_time": 136.046293,
+                        "duration": 8.106666666666667,
+                        "file_name": "0yOA1WnlpWY_5adb17f197118f02e77aed87.wav",
+                        "file_size_bytes": 1556524,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421105233,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897bd2bf63c6db887ec03",
+                                "sentence": " Glenn films pressed directly over the vegetables covering them. The vegetables are put in the fridge, cover and chill for two to four hours.",
+                                "start_time": 0.39,
+                                "end_time": 8.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb18b497118f02e77aed8a",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Mix",
+                        "playback_type": "extended",
+                        "start_time": 139.71822,
+                        "end_time": 139.71822,
+                        "duration": 3.1573333333333333,
+                        "file_name": "0yOA1WnlpWY_5adb18b497118f02e77aed8a.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421105548,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1893f183fdba557ba3f6d1",
+                                "sentence": " Mix occasionally during the salting process.",
+                                "start_time": 0.37,
+                                "end_time": 3.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb190e97118f02e77aed8c",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Remove",
+                        "playback_type": "extended",
+                        "start_time": 159.102708,
+                        "end_time": 159.102708,
+                        "duration": 4.778666666666667,
+                        "file_name": "0yOA1WnlpWY_5adb190e97118f02e77aed8c.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421105718,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18954183fdba557ba3f76b",
+                                "sentence": " The boulders removed from the fridge. The vegetables sit in a large pool of liquid.",
+                                "start_time": 0.35,
+                                "end_time": 4.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb194397118f02e77aed8d",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Rinse",
+                        "playback_type": "extended",
+                        "start_time": 169.356082,
+                        "end_time": 169.356082,
+                        "duration": 6.314666666666667,
+                        "file_name": "0yOA1WnlpWY_5adb194397118f02e77aed8d.wav",
+                        "file_size_bytes": 1212460,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421105811,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897ac2bf63c6db887ebec",
+                                "sentence": " The vegetables are transferred to a calendar and placed under running water",
+                                "start_time": 0.15,
+                                "end_time": 4.19
+                            },
+                            {
+                                "_id": "5e1897ac2bf63c6db887ebeb",
+                                "sentence": " rinse very very well.",
+                                "start_time": 4.19,
+                                "end_time": 6.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb197b97118f02e77aed8f",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Drain",
+                        "playback_type": "extended",
+                        "start_time": 184.198971,
+                        "end_time": 184.198971,
+                        "duration": 3.1573333333333333,
+                        "file_name": "0yOA1WnlpWY_5adb197b97118f02e77aed8f.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421105907,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18947b3ffd80557d850c06",
+                                "sentence": " The calendar is placed over a bowl to drain.",
+                                "start_time": 0.14,
+                                "end_time": 3.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb199c97118f02e77aed90",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Sugar",
+                        "playback_type": "extended",
+                        "start_time": 194.149912,
+                        "end_time": 194.149912,
+                        "duration": 7.68,
+                        "file_name": "0yOA1WnlpWY_5adb199c97118f02e77aed90.wav",
+                        "file_size_bytes": 1474604,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421105940,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1894e5efa6d6557a270f4b",
+                                "sentence": " Two cups of sugar are added to a metal pan off the heat.",
+                                "start_time": 0.27,
+                                "end_time": 3.82
+                            },
+                            {
+                                "_id": "5e1894e5efa6d6557a270f4a",
+                                "sentence": " A couple of tablespoons of golden mustard seeds are added.",
+                                "start_time": 3.82,
+                                "end_time": 7.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb19d097118f02e77aed91",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Celery",
+                        "playback_type": "extended",
+                        "start_time": 202.044469,
+                        "end_time": 202.044469,
+                        "duration": 7.082666666666666,
+                        "file_name": "0yOA1WnlpWY_5adb19d097118f02e77aed91.wav",
+                        "file_size_bytes": 1359916,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421110032,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189336efa6d6557a270eb3",
+                                "sentence": " A large tablespoon of celery seed, about a dozen black pepper corns and half a teaspoon of ground cloves are added.",
+                                "start_time": 0.21,
+                                "end_time": 7.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb1a1997118f02e77aed93",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Tumeric",
+                        "playback_type": "extended",
+                        "start_time": 213.094671,
+                        "end_time": 213.094671,
+                        "duration": 2.3893333333333335,
+                        "file_name": "0yOA1WnlpWY_5adb1a1997118f02e77aed93.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421110145,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189af101480c791ecb0526",
+                                "sentence": " A piece man of can wreck is added.",
+                                "start_time": 0.14,
+                                "end_time": 2.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb1a4697118f02e77aed94",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Garlic",
+                        "playback_type": "extended",
+                        "start_time": 216.182517,
+                        "end_time": 216.182517,
+                        "duration": 3.7546666666666666,
+                        "file_name": "0yOA1WnlpWY_5adb1a4697118f02e77aed94.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421110230,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189645b8e766557cda67db",
+                                "sentence": " A couple of clothes of sliced fresh garlic her at it.",
+                                "start_time": 0.23,
+                                "end_time": 3.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb1a7297118f02e77aed95",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Vinegar",
+                        "playback_type": "extended",
+                        "start_time": 233.352825,
+                        "end_time": 233.352825,
+                        "duration": 7.850666666666666,
+                        "file_name": "0yOA1WnlpWY_5adb1a7297118f02e77aed95.wav",
+                        "file_size_bytes": 1507372,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421110314,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1893f583fdba557ba3f702",
+                                "sentence": " Vinegar is added.",
+                                "start_time": 0.37,
+                                "end_time": 1.76
+                            },
+                            {
+                                "_id": "5e1893f583fdba557ba3f701",
+                                "sentence": " It completely covers the dry ingredients.",
+                                "start_time": 1.76,
+                                "end_time": 4.32
+                            },
+                            {
+                                "_id": "5e1893f583fdba557ba3f700",
+                                "sentence": " A cup of water is added,",
+                                "start_time": 4.32,
+                                "end_time": 6.09
+                            },
+                            {
+                                "_id": "5e1893f583fdba557ba3f6ff",
+                                "sentence": " the pan is put on the heat.",
+                                "start_time": 6.09,
+                                "end_time": 7.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb1aa997118f02e77aed96",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Simmer",
+                        "playback_type": "extended",
+                        "start_time": 247.03493400000002,
+                        "end_time": 247.03493400000002,
+                        "duration": 6.570666666666667,
+                        "file_name": "0yOA1WnlpWY_5adb1aa997118f02e77aed96.wav",
+                        "file_size_bytes": 1261612,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421110409,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897a92bf63c6db887eba5",
+                                "sentence": " The contents of the pan a whisked",
+                                "start_time": 0.63,
+                                "end_time": 2.63
+                            },
+                            {
+                                "_id": "5e1897a92bf63c6db887eba4",
+                                "sentence": " bring to simmer over medium high heat.",
+                                "start_time": 2.63,
+                                "end_time": 5.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb1ad497118f02e77aed97",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Vegetables",
+                        "playback_type": "extended",
+                        "start_time": 256.16088699999995,
+                        "end_time": 256.16088699999995,
+                        "duration": 7.253333333333333,
+                        "file_name": "0yOA1WnlpWY_5adb1ad497118f02e77aed97.wav",
+                        "file_size_bytes": 1392684,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421110452,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1894e5efa6d6557a270f60",
+                                "sentence": " Simmer for two minutes, then add cucumbers.",
+                                "start_time": 0.35,
+                                "end_time": 3.16
+                            },
+                            {
+                                "_id": "5e1894e5efa6d6557a270f5f",
+                                "sentence": " The vegetables are pushed gently with a metal spoon, so they are covered in liquid.",
+                                "start_time": 3.17,
+                                "end_time": 7.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb1afd97118f02e77aed98",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Done",
+                        "playback_type": "extended",
+                        "start_time": 269.166214,
+                        "end_time": 269.166214,
+                        "duration": 7.082666666666666,
+                        "file_name": "0yOA1WnlpWY_5adb1afd97118f02e77aed98.wav",
+                        "file_size_bytes": 1359916,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421110533,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189336efa6d6557a270e92",
+                                "sentence": " Liquid starts to gently bubble at the edge of the pan,",
+                                "start_time": 0.32,
+                                "end_time": 3.46
+                            },
+                            {
+                                "_id": "5e189336efa6d6557a270e91",
+                                "sentence": " turn off heat, and let mixture cool completely.",
+                                "start_time": 3.46,
+                                "end_time": 6.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb1b4697118f02e77aed99",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Cool",
+                        "playback_type": "extended",
+                        "start_time": 286.82472,
+                        "end_time": 286.82472,
+                        "duration": 4.864,
+                        "file_name": "0yOA1WnlpWY_5adb1b4697118f02e77aed99.wav",
+                        "file_size_bytes": 933932,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421110646,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897aa2bf63c6db887ebd8",
+                                "sentence": " The vegetables cool in their cooking liquid, which is a clear yellowy green.",
+                                "start_time": 0.38,
+                                "end_time": 4.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb1bd497118f02e77aed9c",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Foodwishes",
+                        "playback_type": "extended",
+                        "start_time": 352.0591,
+                        "end_time": 352.0591,
+                        "duration": 4.522666666666667,
+                        "file_name": "0yOA1WnlpWY_5adb1bd497118f02e77aed9c.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421110908,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189646b8e766557cda67f4",
+                                "sentence": " Go to food wishes dot com for ingredient amounts and more Information.",
+                                "start_time": 0.37,
+                                "end_time": 4.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb1f5897118f02e77aed9e",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "End",
+                        "playback_type": "extended",
+                        "start_time": 358.925001,
+                        "end_time": 358.925001,
+                        "duration": 5.290666666666667,
+                        "file_name": "0yOA1WnlpWY_5adb1f5897118f02e77aed9e.wav",
+                        "file_size_bytes": 1015852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421112408,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189336efa6d6557a270e90",
+                                "sentence": " What's your food? Wish?",
+                                "start_time": 0.28,
+                                "end_time": 1.91
+                            },
+                            {
+                                "_id": "5e189336efa6d6557a270e8f",
+                                "sentence": " Copyright, food, wishes, video recipes.",
+                                "start_time": 2.04,
+                                "end_time": 5.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb22f897118f02e77aed9f",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "Jar",
+                        "playback_type": "extended",
+                        "start_time": 308.314211,
+                        "end_time": 308.314211,
+                        "duration": 6.570666666666667,
+                        "file_name": "0yOA1WnlpWY_5adb22f897118f02e77aed9f.wav",
+                        "file_size_bytes": 1261612,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421113936,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189a54d8d656791f3ddb23",
+                                "sentence": " The vegetables are packed into a large glass screw. Top jar. Liquid is added almost up to the rim.",
+                                "start_time": 0.23,
+                                "end_time": 6.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb237197118f02e77aeda0",
+                        "video": "5a9c7327d50e4355f9884977",
+                        "audio_description": "5adb10b8ba6ad77b6b7b0133",
+                        "user": "5adaf62eba6ad77b6b7b012c",
+                        "label": "All recipes",
+                        "playback_type": "extended",
+                        "start_time": 362.247209,
+                        "end_time": 362.247209,
+                        "duration": 2.304,
+                        "file_name": "0yOA1WnlpWY_5adb237197118f02e77aeda0.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0yOA1WnlpWY",
+                        "created_at": 20180421114137,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18954283fdba557ba3f76f",
+                                "sentence": " And all recipes production.",
+                                "start_time": 0.3,
+                                "end_time": 2.26
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5adb10b8ba6ad77b6b7b0133",
+                "video": "5a9c7327d50e4355f9884977",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5adaf62eba6ad77b6b7b012c",
+                    "email": "lucyp55@gmail.com",
+                    "name": "Lucy Proctor",
+                    "given_name": "Lucy",
+                    "picture": "https://lh4.googleusercontent.com/-UHr4wNmp1kA/AAAAAAAAAAI/AAAAAAAAAAA/ACLGyWBxB6BacrlDpLO_MtmCIzLPRHc1Dw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "108660874916900937175",
+                    "last_login": 20180421101253,
+                    "token": "99f9cf9acc6305005842c0f84f0126a2c3309634bf790eb54367377bf60e397c",
+                    "__v": 0,
+                    "updated_at": 20180421101253,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180421102144,
+                "updated_at": 20180421162644,
+                "notes": "\r\n",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Bread & Butter Pickles",
+            "Pickles",
+            "Great Depression (Event)",
+            "preserving",
+            "Pickled Cucumber (Dish)",
+            "Cooking (Interest)",
+            "chef",
+            "john",
+            "foodwishes",
+            "condiment",
+            "side dish",
+            "garnish",
+            "pickled",
+            "pickling",
+            "Food",
+            "Eating",
+            "recipes",
+            "recipe"
+        ],
+        "custom_tags": [],
+        "_id": "5a9c7327d50e4355f9884977",
+        "title": "Bread & Butter Pickles - How to Make Great Depression-Style Sweet Pickles",
+        "description": "Learn how to make Bread & Butter Pickles! Go to http://foodwishes.blogspot.com/2014/08/bread-butter-pickles-one-of-great.html for the ingredient amounts, extra information, and many, many more video recipes! I hope you enjoy this easy Bread & Butter Pickles recipe!",
+        "youtube_id": "0yOA1WnlpWY",
+        "created_at": 20180304222855,
+        "updated_at": 20180421114137,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Howto & Style",
+        "category_id": "26",
+        "duration": 366
+    }
+}

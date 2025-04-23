@@ -1,0 +1,104 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5ac6",
+                        "audio_description": "58e7cf3646e13dfd851a264e",
+                        "created_at": 20160817132404,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817132404,
+                        "file_name": "14714654443081.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2643,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23781,
+                        "video": "58e7cf2946e13dfd851a1e66",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 30.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ca888c4bc7acb6123",
+                                "sentence": " An intervenor and a student play with a green corrugated tube.",
+                                "start_time": 0.47,
+                                "end_time": 4.86
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb6122",
+                                "sentence": " The tube is flexible, allowing it to expand, collapse and be manipulated into different shapes.",
+                                "start_time": 5.11,
+                                "end_time": 11.62
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb6121",
+                                "sentence": " The student holds on to the tube as the intervenor connects the ends together, making a circle.",
+                                "start_time": 11.89,
+                                "end_time": 18
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb6120",
+                                "sentence": " The student let's go of the tube with her left hand for a moment and then touches her right armpit.",
+                                "start_time": 18.21,
+                                "end_time": 25.39
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb611f",
+                                "sentence": " Then she places both hands back onto the tube.",
+                                "start_time": 25.75,
+                                "end_time": 29.12
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a264e",
+                "status": "published",
+                "legacy_video_id": 2643,
+                "legacy_user_id": 3125,
+                "video": "58e7cf2946e13dfd851a1e66",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2637",
+                    "name": "Jhogan13",
+                    "google_user_id_token": "",
+                    "created_at": 20160504150811,
+                    "updated_at": 20160817114117,
+                    "legacy_user_id": 3125,
+                    "last_login": 0,
+                    "email": "Jhogan13@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e66",
+        "description": "",
+        "youtube_id": "hc1hzSvynVY",
+        "views": 0,
+        "created_at": 20160817132217,
+        "title": "Chris Megan Tube Greeting Excerpt (Touching Armpit) - Module 7",
+        "legacy_video_id": 2643,
+        "updated_at": 20160817132404,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 6
+    }
+}

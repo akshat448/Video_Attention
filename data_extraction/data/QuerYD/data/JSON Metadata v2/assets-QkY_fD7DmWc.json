@@ -1,0 +1,1391 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bc88a14e16e6108007b1417",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Four little kittens, breakfast and playtime",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 3.84,
+                        "duration": 3.84,
+                        "file_name": "QkY_fD7DmWc_5bc88a14e16e6108007b1417.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018132644,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7bde184ed625070feb6d",
+                                "sentence": " Four little kittens, breakfast and plate.",
+                                "start_time": 0.58,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc88cd7e16e6108007b141b",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "A can is opened. Wet food is put on the plate. ",
+                        "playback_type": "inline",
+                        "start_time": 6.657398,
+                        "end_time": 10.582731333333333,
+                        "duration": 3.925333333333333,
+                        "file_name": "QkY_fD7DmWc_5bc88cd7e16e6108007b141b.wav",
+                        "file_size_bytes": 753708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018133831,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9c2",
+                                "sentence": " A can is opened. What food is put on the plate?",
+                                "start_time": 0.3,
+                                "end_time": 3.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc88d1ae16e6108007b141c",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "The food is mashed up with a spoon.",
+                        "playback_type": "inline",
+                        "start_time": 10.53093,
+                        "end_time": 14.11493,
+                        "duration": 3.584,
+                        "file_name": "QkY_fD7DmWc_5bc88d1ae16e6108007b141c.wav",
+                        "file_size_bytes": 688172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018133938,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9f6",
+                                "sentence": " The food is mashed up with a spoon.",
+                                "start_time": 0.2,
+                                "end_time": 3.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc88dc1e16e6108007b141d",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "A crate is unlocked.",
+                        "playback_type": "inline",
+                        "start_time": 15.008793,
+                        "end_time": 16.971459666666668,
+                        "duration": 1.9626666666666666,
+                        "file_name": "QkY_fD7DmWc_5bc88dc1e16e6108007b141d.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018134225,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9c7",
+                                "sentence": " A crate is on law.",
+                                "start_time": 0.19,
+                                "end_time": 1.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc88e07e16e6108007b141e",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "A kitten approaches the food. ",
+                        "playback_type": "inline",
+                        "start_time": 18.836536,
+                        "end_time": 21.140535999999997,
+                        "duration": 2.304,
+                        "file_name": "QkY_fD7DmWc_5bc88e07e16e6108007b141e.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018134335,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9d6",
+                                "sentence": " A kitten approaches be food.",
+                                "start_time": 0.17,
+                                "end_time": 2.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc88e4ca66f5a4b1625ce6f",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Three of the four kittens are eating.",
+                        "playback_type": "inline",
+                        "start_time": 26.747636,
+                        "end_time": 29.307636,
+                        "duration": 2.56,
+                        "file_name": "QkY_fD7DmWc_5bc88e4ca66f5a4b1625ce6f.wav",
+                        "file_size_bytes": 491564,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018134444,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9a5",
+                                "sentence": " Three of the four kittens are eating.",
+                                "start_time": 0.2,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc88e79e16e6108007b141f",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "The fourth kitten looks intrigued. ",
+                        "playback_type": "inline",
+                        "start_time": 28.549755,
+                        "end_time": 31.365755,
+                        "duration": 2.816,
+                        "file_name": "QkY_fD7DmWc_5bc88e79e16e6108007b141f.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018134529,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7bdf184ed625070feb82",
+                                "sentence": " Riff off! Kevin looks entreat.",
+                                "start_time": 0.09,
+                                "end_time": 2.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc88f07a66f5a4b1625ce70",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "The kittens names are Phoenix, dotty, sox, and butters.",
+                        "playback_type": "inline",
+                        "start_time": 31.650515,
+                        "end_time": 36.343848333333334,
+                        "duration": 4.693333333333333,
+                        "file_name": "QkY_fD7DmWc_5bc88f07a66f5a4b1625ce70.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018134751,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9e3",
+                                "sentence": " The kittens names are phoenix dotty, socks and buttars.",
+                                "start_time": 0.21,
+                                "end_time": 4.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc88f6aa66f5a4b1625ce71",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Butters approaches the food. ",
+                        "playback_type": "inline",
+                        "start_time": 42.726954,
+                        "end_time": 45.457620666666664,
+                        "duration": 2.7306666666666666,
+                        "file_name": "QkY_fD7DmWc_5bc88f6aa66f5a4b1625ce71.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018134930,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7bde184ed625070feb71",
+                                "sentence": " Buttars approaches the food.",
+                                "start_time": 0.08,
+                                "end_time": 2.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc88f86a66f5a4b1625ce72",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "All four kittens are eating. ",
+                        "playback_type": "inline",
+                        "start_time": 49.209593,
+                        "end_time": 52.36692633333333,
+                        "duration": 3.1573333333333333,
+                        "file_name": "QkY_fD7DmWc_5bc88f86a66f5a4b1625ce72.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018134958,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9a3",
+                                "sentence": " All four kittens are eating.",
+                                "start_time": 0.28,
+                                "end_time": 3.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8913be16e6108007b1421",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Behind the kittens there is a cardboard box and a toy tunnel, and a cat bed. ",
+                        "playback_type": "inline",
+                        "start_time": 53.294052,
+                        "end_time": 59.182052,
+                        "duration": 5.888,
+                        "file_name": "QkY_fD7DmWc_5bc8913be16e6108007b1421.wav",
+                        "file_size_bytes": 1130540,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018135715,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9c3",
+                                "sentence": " Behind the kittens, there is a copper box, a toy tunnel, and a cat bed.",
+                                "start_time": 0.04,
+                                "end_time": 5.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89194e16e6108007b1422",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Dotty stands up and licks her lips.",
+                        "playback_type": "inline",
+                        "start_time": 62.810951,
+                        "end_time": 66.22428433333333,
+                        "duration": 3.4133333333333336,
+                        "file_name": "QkY_fD7DmWc_5bc89194e16e6108007b1422.wav",
+                        "file_size_bytes": 655404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018135844,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9bc",
+                                "sentence": " Body stands up and licks her lips.",
+                                "start_time": 0.2,
+                                "end_time": 3.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc891bba66f5a4b1625ce73",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Two kittens stop eating. ",
+                        "playback_type": "inline",
+                        "start_time": 66.890042,
+                        "end_time": 69.79137533333332,
+                        "duration": 2.9013333333333335,
+                        "file_name": "QkY_fD7DmWc_5bc891bba66f5a4b1625ce73.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018135923,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9da",
+                                "sentence": " To Kevin stop eating.",
+                                "start_time": 0.35,
+                                "end_time": 2.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8931ea66f5a4b1625ce77",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "The kitten leaves the camera. ",
+                        "playback_type": "inline",
+                        "start_time": 85.673862,
+                        "end_time": 88.745862,
+                        "duration": 3.072,
+                        "file_name": "QkY_fD7DmWc_5bc8931ea66f5a4b1625ce77.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018140518,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7bdf184ed625070feb7b",
+                                "sentence": " Rican leaves the camera.",
+                                "start_time": 0.21,
+                                "end_time": 3.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8936de16e6108007b1424",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "A kitten jumps into view.",
+                        "playback_type": "inline",
+                        "start_time": 97.36154300000001,
+                        "end_time": 99.40954300000001,
+                        "duration": 2.048,
+                        "file_name": "QkY_fD7DmWc_5bc8936de16e6108007b1424.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018140637,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9a4",
+                                "sentence": " A kitten jumps interview.",
+                                "start_time": 0.13,
+                                "end_time": 2.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc893a5e16e6108007b1425",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "The kitten looks around pensively. ",
+                        "playback_type": "inline",
+                        "start_time": 99.681612,
+                        "end_time": 103.09494533333333,
+                        "duration": 3.4133333333333336,
+                        "file_name": "QkY_fD7DmWc_5bc893a5e16e6108007b1425.wav",
+                        "file_size_bytes": 655404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018140733,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9f8",
+                                "sentence": " The kitten looks around pensive Lily.",
+                                "start_time": 0.12,
+                                "end_time": 3.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc893e2a66f5a4b1625ce78",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Two kittens are eating.",
+                        "playback_type": "inline",
+                        "start_time": 107.610328,
+                        "end_time": 109.99966133333334,
+                        "duration": 2.3893333333333335,
+                        "file_name": "QkY_fD7DmWc_5bc893e2a66f5a4b1625ce78.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018140834,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9d7",
+                                "sentence": " Two kittens are eating.",
+                                "start_time": 0.48,
+                                "end_time": 2.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89408e16e6108007b1426",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "The other two begin playing.",
+                        "playback_type": "inline",
+                        "start_time": 111.439772,
+                        "end_time": 114.25577200000001,
+                        "duration": 2.816,
+                        "file_name": "QkY_fD7DmWc_5bc89408e16e6108007b1426.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018140912,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9e6",
+                                "sentence": " The upper to begin playing.",
+                                "start_time": 0.2,
+                                "end_time": 2.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89460a66f5a4b1625ce7a",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "These two chase each other. ",
+                        "playback_type": "inline",
+                        "start_time": 120.112508,
+                        "end_time": 122.75784133333335,
+                        "duration": 2.6453333333333333,
+                        "file_name": "QkY_fD7DmWc_5bc89460a66f5a4b1625ce7a.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018141040,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9f2",
+                                "sentence": " These to change each other.",
+                                "start_time": 0.24,
+                                "end_time": 2.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc894bda66f5a4b1625ce7b",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "A kitten suddenly pounces on another kitten. Then they play fight. ",
+                        "playback_type": "inline",
+                        "start_time": 124.266465,
+                        "end_time": 129.04513166666666,
+                        "duration": 4.778666666666667,
+                        "file_name": "QkY_fD7DmWc_5bc894bda66f5a4b1625ce7b.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018141213,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fcea00",
+                                "sentence": " And kin suddenly pounce is on another",
+                                "start_time": 0.04,
+                                "end_time": 3.36
+                            },
+                            {
+                                "_id": "5e1a7b848211d62506fce9ff",
+                                "sentence": " they play fight.",
+                                "start_time": 3.36,
+                                "end_time": 4.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc894e9a66f5a4b1625ce7c",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "They paw and bite at each other playfully.",
+                        "playback_type": "inline",
+                        "start_time": 133.59697,
+                        "end_time": 137.09563666666668,
+                        "duration": 3.498666666666667,
+                        "file_name": "QkY_fD7DmWc_5bc894e9a66f5a4b1625ce7c.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018141257,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9fa",
+                                "sentence": " They pour and bright at each other playfully.",
+                                "start_time": 0,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8952fa66f5a4b1625ce7d",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "They continue to chase each other with the remaining kittens stop eating. ",
+                        "playback_type": "inline",
+                        "start_time": 136.727543,
+                        "end_time": 142.359543,
+                        "duration": 5.632,
+                        "file_name": "QkY_fD7DmWc_5bc8952fa66f5a4b1625ce7d.wav",
+                        "file_size_bytes": 1081388,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018141407,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9a1",
+                                "sentence": " They continue to chase each other while the remaining kitten stop eating.",
+                                "start_time": 0.08,
+                                "end_time": 5.59
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89581e16e6108007b1427",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "One kitten scratches the toy scrating post. ",
+                        "playback_type": "inline",
+                        "start_time": 145.415666,
+                        "end_time": 149.85299933333332,
+                        "duration": 4.437333333333333,
+                        "file_name": "QkY_fD7DmWc_5bc89581e16e6108007b1427.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018141529,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce99f",
+                                "sentence": " One kitten stretches, but toy stretching post.",
+                                "start_time": 0.07,
+                                "end_time": 4.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc895c8e16e6108007b1428",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Two kittens frantically chase each other in and out of the toy tunnel. ",
+                        "playback_type": "inline",
+                        "start_time": 154.900316,
+                        "end_time": 160.276316,
+                        "duration": 5.376,
+                        "file_name": "QkY_fD7DmWc_5bc895c8e16e6108007b1428.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018141640,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9e2",
+                                "sentence": " Two kittens frantically chase each other in and out of the toy tunnel.",
+                                "start_time": 0.2,
+                                "end_time": 5.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89620a66f5a4b1625ce7e",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "The remanding kittens join playing. ",
+                        "playback_type": "inline",
+                        "start_time": 164.215557,
+                        "end_time": 167.97022366666667,
+                        "duration": 3.7546666666666666,
+                        "file_name": "QkY_fD7DmWc_5bc89620a66f5a4b1625ce7e.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018141808,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9c0",
+                                "sentence": " The remaining kittens join playing.",
+                                "start_time": 0.19,
+                                "end_time": 3.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89660a66f5a4b1625ce7f",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Two kittens chase each other and pounce occousionly. ",
+                        "playback_type": "inline",
+                        "start_time": 170.767399,
+                        "end_time": 174.86339900000002,
+                        "duration": 4.096,
+                        "file_name": "QkY_fD7DmWc_5bc89660a66f5a4b1625ce7f.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018141912,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9b3",
+                                "sentence": " Two kittens, tracy supper and pounds occasionally.",
+                                "start_time": 0.03,
+                                "end_time": 4.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89704e16e6108007b1429",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Three kittens chase each other and go into the cardboard box. ",
+                        "playback_type": "inline",
+                        "start_time": 181.54476700000004,
+                        "end_time": 186.32343366666672,
+                        "duration": 4.778666666666667,
+                        "file_name": "QkY_fD7DmWc_5bc89704e16e6108007b1429.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018142156,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9dd",
+                                "sentence": " Three kittens chase each other and going to be cardboard box.",
+                                "start_time": 0.16,
+                                "end_time": 4.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89776e16e6108007b142a",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "One kitten paws at a toy, while another kitten paws at the floor. ",
+                        "playback_type": "inline",
+                        "start_time": 187.545134,
+                        "end_time": 192.75046733333332,
+                        "duration": 5.205333333333333,
+                        "file_name": "QkY_fD7DmWc_5bc89776e16e6108007b142a.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018142350,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9e5",
+                                "sentence": " One kitten paws at a toy, while another kitten paws at the floor.",
+                                "start_time": 0.15,
+                                "end_time": 5.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc897aaa66f5a4b1625ce81",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "All of the kittens jumps on top of each other carelessly. ",
+                        "playback_type": "inline",
+                        "start_time": 196.325621,
+                        "end_time": 200.42162100000002,
+                        "duration": 4.096,
+                        "file_name": "QkY_fD7DmWc_5bc897aaa66f5a4b1625ce81.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018142442,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9b4",
+                                "sentence": " All of the kittens jump on each other carelessly.",
+                                "start_time": 0,
+                                "end_time": 4.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc897e6e16e6108007b142b",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "One kitten goes in the tunnel, while another kitten jumps on top of the tunnel. ",
+                        "playback_type": "inline",
+                        "start_time": 201.078374,
+                        "end_time": 206.11304066666668,
+                        "duration": 5.034666666666666,
+                        "file_name": "QkY_fD7DmWc_5bc897e6e16e6108007b142b.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018142542,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9f4",
+                                "sentence": " One of the kittens goes in the tunnel, while another jumps on Top of the tongue.",
+                                "start_time": 0.04,
+                                "end_time": 4.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89828a66f5a4b1625ce82",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Two kittens play inside and and top of the tunnel frantically. ",
+                        "playback_type": "inline",
+                        "start_time": 208.019112,
+                        "end_time": 213.82177866666666,
+                        "duration": 5.802666666666667,
+                        "file_name": "QkY_fD7DmWc_5bc89828a66f5a4b1625ce82.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018142648,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9cc",
+                                "sentence": " Two kittens play inside. And on Top of the tunnel frantically.",
+                                "start_time": 0.24,
+                                "end_time": 5.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8987da66f5a4b1625ce83",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "The tunnel has moved. The kittens continue to play in the tunnel. ",
+                        "playback_type": "inline",
+                        "start_time": 213.467454,
+                        "end_time": 219.355454,
+                        "duration": 5.888,
+                        "file_name": "QkY_fD7DmWc_5bc8987da66f5a4b1625ce83.wav",
+                        "file_size_bytes": 1130540,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018142813,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9e1",
+                                "sentence": " We tunnel has moved,",
+                                "start_time": 0.24,
+                                "end_time": 2.14
+                            },
+                            {
+                                "_id": "5e1a7b848211d62506fce9e0",
+                                "sentence": " but kittens continue to play in the tunnel.",
+                                "start_time": 2.14,
+                                "end_time": 5.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89936a66f5a4b1625ce84",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Two kittens outside the tunnel pounce and paw at each other. ",
+                        "playback_type": "inline",
+                        "start_time": 227.982061,
+                        "end_time": 233.614061,
+                        "duration": 5.632,
+                        "file_name": "QkY_fD7DmWc_5bc89936a66f5a4b1625ce84.wav",
+                        "file_size_bytes": 1081388,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018143118,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9b0",
+                                "sentence": " Two kittens outside the tunnel, pounds and paw at each other.",
+                                "start_time": 0.25,
+                                "end_time": 4.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc899cda66f5a4b1625ce85",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "A kitten paws at the kitten inside the tunnel.",
+                        "playback_type": "inline",
+                        "start_time": 231.175551,
+                        "end_time": 235.35688433333334,
+                        "duration": 4.181333333333333,
+                        "file_name": "QkY_fD7DmWc_5bc899cda66f5a4b1625ce85.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018143349,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7bdf184ed625070feb77",
+                                "sentence": " And kitten paws at the kitchen inside the tunnel.",
+                                "start_time": 0.2,
+                                "end_time": 3.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89a4ca66f5a4b1625ce86",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Two kittens continue to chase each other. ",
+                        "playback_type": "inline",
+                        "start_time": 237.612802,
+                        "end_time": 242.05013533333332,
+                        "duration": 4.437333333333333,
+                        "file_name": "QkY_fD7DmWc_5bc89a4ca66f5a4b1625ce86.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018143556,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9e7",
+                                "sentence": " Two kittens continue to chase each other.",
+                                "start_time": 0.47,
+                                "end_time": 4.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89abea66f5a4b1625ce87",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "A kitten goes inside the tunnel.",
+                        "playback_type": "inline",
+                        "start_time": 247.156111,
+                        "end_time": 250.228111,
+                        "duration": 3.072,
+                        "file_name": "QkY_fD7DmWc_5bc89abea66f5a4b1625ce87.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018143750,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7bde184ed625070feb73",
+                                "sentence": " A kin goes inside the tunnel.",
+                                "start_time": 0.29,
+                                "end_time": 3.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89b04e16e6108007b142e",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Another kitten anoyingly jumps on and around the kitten in the tunnel. ",
+                        "playback_type": "inline",
+                        "start_time": 255.223094,
+                        "end_time": 261.367094,
+                        "duration": 6.144,
+                        "file_name": "QkY_fD7DmWc_5bc89b04e16e6108007b142e.wav",
+                        "file_size_bytes": 1179692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018143900,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce99d",
+                                "sentence": " Another kin annoying Lily jumps on and around the kitten in the tunnel.",
+                                "start_time": 0.21,
+                                "end_time": 6.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89b59a66f5a4b1625ce88",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "The kitten in the tunnel paws at the annoying kitten.",
+                        "playback_type": "inline",
+                        "start_time": 263.571249,
+                        "end_time": 267.923249,
+                        "duration": 4.352,
+                        "file_name": "QkY_fD7DmWc_5bc89b59a66f5a4b1625ce88.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018144025,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7bde184ed625070feb6e",
+                                "sentence": " The can and the tunnel pause at the annoying can.",
+                                "start_time": 0.39,
+                                "end_time": 4.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89ba5e16e6108007b142f",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "One kitten paws at a blue toy ball. ",
+                        "playback_type": "inline",
+                        "start_time": 268.464709,
+                        "end_time": 272.3900423333334,
+                        "duration": 3.925333333333333,
+                        "file_name": "QkY_fD7DmWc_5bc89ba5e16e6108007b142f.wav",
+                        "file_size_bytes": 753708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018144141,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9f7",
+                                "sentence": " One can pause at a blue toy ball.",
+                                "start_time": 0.31,
+                                "end_time": 3.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89be7a66f5a4b1625ce89",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "All of the kittens chase each other and jump around the tunnel. ",
+                        "playback_type": "inline",
+                        "start_time": 277.351983,
+                        "end_time": 283.3253163333334,
+                        "duration": 5.973333333333334,
+                        "file_name": "QkY_fD7DmWc_5bc89be7a66f5a4b1625ce89.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018144247,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9ac",
+                                "sentence": " All of the kittens chase each other and jump around the tunnel.",
+                                "start_time": 0.44,
+                                "end_time": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89c2fe16e6108007b1430",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Some of the kittens go in and out of the tunnel. ",
+                        "playback_type": "inline",
+                        "start_time": 281.649373,
+                        "end_time": 286.5987063333334,
+                        "duration": 4.949333333333334,
+                        "file_name": "QkY_fD7DmWc_5bc89c2fe16e6108007b1430.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018144359,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7bdf184ed625070feb7e",
+                                "sentence": " Some of the kittens go in and out of the tunnel.",
+                                "start_time": 0.42,
+                                "end_time": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89c9ca66f5a4b1625ce8a",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "This action continue for a few seconds.",
+                        "playback_type": "inline",
+                        "start_time": 288.904464,
+                        "end_time": 293.256464,
+                        "duration": 4.352,
+                        "file_name": "QkY_fD7DmWc_5bc89c9ca66f5a4b1625ce8a.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018144548,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9db",
+                                "sentence": " This action continues for a few moments.",
+                                "start_time": 0.41,
+                                "end_time": 4.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89cdca66f5a4b1625ce8b",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "The kitten inside the tunnel looks at the camera and is scared. ",
+                        "playback_type": "inline",
+                        "start_time": 293.11927,
+                        "end_time": 299.26327,
+                        "duration": 6.144,
+                        "file_name": "QkY_fD7DmWc_5bc89cdca66f5a4b1625ce8b.wav",
+                        "file_size_bytes": 1179692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018144652,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9f5",
+                                "sentence": " The pin inside the tunnel looks at the camera and is scared.",
+                                "start_time": 0.4,
+                                "end_time": 5.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89d5fe16e6108007b1433",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "All four kittens are inside the cardbord box. ",
+                        "playback_type": "inline",
+                        "start_time": 304.785198,
+                        "end_time": 310.16119799999996,
+                        "duration": 5.376,
+                        "file_name": "QkY_fD7DmWc_5bc89d5fe16e6108007b1433.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018144903,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9c4",
+                                "sentence": " All four kittens are inside the cardboard box.",
+                                "start_time": 0.31,
+                                "end_time": 4.38
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89d9ce16e6108007b1434",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Subscribe. ",
+                        "playback_type": "inline",
+                        "start_time": 311.539351,
+                        "end_time": 314.18468433333334,
+                        "duration": 2.6453333333333333,
+                        "file_name": "QkY_fD7DmWc_5bc89d9ce16e6108007b1434.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018145004,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9a0",
+                                "sentence": " Sub streib.",
+                                "start_time": 0.37,
+                                "end_time": 2.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89e4be16e6108007b1435",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Dotty stands up.",
+                        "playback_type": "inline",
+                        "start_time": 37.121872,
+                        "end_time": 40.193872000000006,
+                        "duration": 3.072,
+                        "file_name": "QkY_fD7DmWc_5bc89e4be16e6108007b1435.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018145259,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9a2",
+                                "sentence": " Body stands up.",
+                                "start_time": 0.49,
+                                "end_time": 2.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89f2ba66f5a4b1625ce8c",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "A kitten goes close up to the camera.",
+                        "playback_type": "inline",
+                        "start_time": 70.313348,
+                        "end_time": 75.09201466666667,
+                        "duration": 4.778666666666667,
+                        "file_name": "QkY_fD7DmWc_5bc89f2ba66f5a4b1625ce8c.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018145643,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce99e",
+                                "sentence": " A kitten goes close up to the camera.",
+                                "start_time": 0.4,
+                                "end_time": 4.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc89fbba66f5a4b1625ce8d",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Only the kittens tummy and paws are visible. ",
+                        "playback_type": "inline",
+                        "start_time": 74.939766,
+                        "end_time": 80.91309933333334,
+                        "duration": 5.973333333333334,
+                        "file_name": "QkY_fD7DmWc_5bc89fbba66f5a4b1625ce8d.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018145907,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9f1",
+                                "sentence": " Only the canes, tummy and paws are visible.",
+                                "start_time": 0.45,
+                                "end_time": 5.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8a3b8e16e6108007b1437",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "A paper plat is put down on the floor.",
+                        "playback_type": "inline",
+                        "start_time": 3.2405059999999994,
+                        "end_time": 7.336506,
+                        "duration": 4.096,
+                        "file_name": "QkY_fD7DmWc_5bc8a3b8e16e6108007b1437.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018151608,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b838211d62506fce9b5",
+                                "sentence": " A paper plate is put down on the floor.",
+                                "start_time": 0.28,
+                                "end_time": 3.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8a435a66f5a4b1625ce8e",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "Only one kitten is still eating. ",
+                        "playback_type": "inline",
+                        "start_time": 94.184034,
+                        "end_time": 98.280034,
+                        "duration": 4.096,
+                        "file_name": "QkY_fD7DmWc_5bc8a435a66f5a4b1625ce8e.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018151813,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b848211d62506fce9e4",
+                                "sentence": " Only one kitten is still eating.",
+                                "start_time": 0.16,
+                                "end_time": 3.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8a4c3a66f5a4b1625ce8f",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "A kitten jumps on another kittens back. ",
+                        "playback_type": "inline",
+                        "start_time": 177.366791,
+                        "end_time": 182.06012433333333,
+                        "duration": 4.693333333333333,
+                        "file_name": "QkY_fD7DmWc_5bc8a4c3a66f5a4b1625ce8f.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018152035,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b101c266225047bf55f",
+                                "sentence": " A kitten jumps on a number. Kittens back.",
+                                "start_time": 0.17,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc8a56de16e6108007b1438",
+                        "video": "5bc88a14e16e6108007b1419",
+                        "audio_description": "5bc88a14e16e6108007b1418",
+                        "user": "5bc885c7e16e6108007b1413",
+                        "label": "The kitten inside the tunnel looks directly at the camera. ",
+                        "playback_type": "inline",
+                        "start_time": 220.083637,
+                        "end_time": 226.31297033333334,
+                        "duration": 6.229333333333333,
+                        "file_name": "QkY_fD7DmWc_5bc8a56de16e6108007b1438.wav",
+                        "file_size_bytes": 1196076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QkY_fD7DmWc",
+                        "created_at": 20181018152325,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a7b111c266225047bf5d0",
+                                "sentence": " The kitten inside the tunnel looks directly at the camera.",
+                                "start_time": 0.54,
+                                "end_time": 5.05
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bc88a14e16e6108007b1418",
+                "video": "5bc88a14e16e6108007b1419",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bc885c7e16e6108007b1413",
+                    "email": "orensteine1@montclair.edu",
+                    "name": "Emily Orenstein",
+                    "given_name": "Emily",
+                    "picture": "https://lh6.googleusercontent.com/-vsotpfwXjYk/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbAbUzrZlCNZY8qX7PxwQBXpg-JBTQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113430008432007300976",
+                    "last_login": 20181018132406,
+                    "token": "5b324dab589ccdb0b77464c9cb28a7cadda515e7775d51ba57b934959d202c82",
+                    "__v": 0,
+                    "updated_at": 20181018132406,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181018132644,
+                "updated_at": 20181019104321,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Cole and Marmalade",
+            "Cats",
+            "Cat Videos",
+            "Cat Logic",
+            "foster kittens",
+            "kittens",
+            "cute kittens",
+            "little kittens",
+            "Cat Man Chris",
+            "kitten breakfast",
+            "adorable",
+            "kitten meow",
+            "meow",
+            "kitten sounds",
+            "awww",
+            "kitten lady",
+            "how to",
+            "bottle feed kittens",
+            "rescue",
+            "TNR",
+            "spay",
+            "neuter"
+        ],
+        "custom_tags": [],
+        "_id": "5bc88a14e16e6108007b1419",
+        "title": "4 Little Kittens - Breakfast & Playtime!",
+        "description": "Subscribe: http://bit.ly/SubToCatManChris\nMeet Sox, Phoenix, Dotty and Butters, four kittens we fostered this summer, more coming soon! :)\n\n#FosteringSavesLives \u2764\ufe0f\n\n\ud83d\udc31 Find me here...\n\u2022 https://www.facebook.com/CatManChrisPoole/\n\u2022 https://www.instagram.com/catmanchrispoole\n\n\ud83d\udc55 Buy Our Merch: https://shop.coleandmarmalade.com\n\u2022 Shop our Amazon Store: https://www.amazon.com/shop/coleandmarmalade\n\nHave a question? Contact me at: coleandmarmalade@gmail.com \nAffiliate Links may be present above.\n\nAbout Me: Cat Dad to celebricats Cole & Marmalade and former videographer at Big Cat Rescue in Tampa FL\u2026 follow me for daily clips, vlogs, cat rescue work, BIG cat videos and more!\n\n\"Fig Leaf Times Two\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/",
+        "youtube_id": "QkY_fD7DmWc",
+        "created_at": 20181018132644,
+        "updated_at": 20181018152325,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Pets & Animals",
+        "category_id": "15",
+        "duration": 315
+    }
+}

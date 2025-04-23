@@ -1,0 +1,346 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a862ee63c55fb6e05de8a01",
+                        "video": "5a862d013c55fb6e05de89ff",
+                        "audio_description": "5a862d013c55fb6e05de89fe",
+                        "user": "5a862b773c55fb6e05de89fc",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 30.783174,
+                        "end_time": 37.47052093877551,
+                        "duration": 6.6873469387755105,
+                        "file_name": "q2Bj8OCmxb4_5a862ee63c55fb6e05de8a01.wav",
+                        "file_size_bytes": 1179692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q2Bj8OCmxb4",
+                        "created_at": 20180216010750,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5a862d013c55fb6e05de89fe",
+                "video": "5a862d013c55fb6e05de89ff",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a862b773c55fb6e05de89fc",
+                    "email": "saposnikd1@montclair.edu",
+                    "name": "David Saposnik",
+                    "given_name": "David",
+                    "picture": "https://lh4.googleusercontent.com/-t2dAedhdNms/AAAAAAAAAAI/AAAAAAAAAAA/ACSILjV0_WMqhKONiiqI2yBwd8MXo4oG2g/s96-c/photo.jpg",
+                    "google_user_id": "100619216787979033076",
+                    "last_login": 20180216005311,
+                    "token": "df07056f338b7a7e975a5b0c286a4f242ee02b607f09d6a95d7bd40cf1450c44",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180216005945,
+                "updated_at": 20180223002440,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 2,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 2,
+                "admin_review": "",
+                "feedbacks": {
+                    "7": 1
+                }
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bd236e59fd7274e38d25bd1",
+                        "video": "5a862d013c55fb6e05de89ff",
+                        "audio_description": "5bd236601d5e5c4317a4ec5a",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "Anchor what is culture",
+                        "playback_type": "extended",
+                        "start_time": 0.7258020553131104,
+                        "end_time": 0.7258020553131104,
+                        "duration": 6.6873469387755105,
+                        "file_name": "q2Bj8OCmxb4_5bd236e59fd7274e38d25bd1.wav",
+                        "file_size_bytes": 1179692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q2Bj8OCmxb4",
+                        "created_at": 20181025213429,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf744142332f10dce323",
+                                "sentence": " What is culture",
+                                "start_time": 0.54,
+                                "end_time": 1.8
+                            },
+                            {
+                                "_id": "5e4dcf744142332f10dce322",
+                                "sentence": " hand with? Marker writes, what is culture on an old tiny silent movie style cue card?",
+                                "start_time": 1.8,
+                                "end_time": 6.53
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bd236601d5e5c4317a4ec5a",
+                "video": "5a862d013c55fb6e05de89ff",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "591ccdc32805421bd3af5910",
+                    "email": "charitypc@gmail.com",
+                    "name": "Charity Pitcher-Cooper",
+                    "given_name": "Charity",
+                    "picture": "https://lh5.googleusercontent.com/-QWgHIV6dqG4/AAAAAAAAAAI/AAAAAAAAA8k/zbElaAqZIsY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102960542363040396571",
+                    "last_login": 20210122172832,
+                    "token": "3d49b4ee09a7b279fbc2705b8e6dd7c75ec919e82a13d07eb1c9925ff7849cf2",
+                    "__v": 0,
+                    "updated_at": 20210122172832,
+                    "policy_review": "reviewed",
+                    "admin": 1
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20181025213216,
+                "updated_at": 20181025213216,
+                "notes": "What is culture. Hand with Marker writes what is culture on old timey silent movie style cue card.\n\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bd0bfc24c62b13d0adab745",
+                        "video": "5a862d013c55fb6e05de89ff",
+                        "audio_description": "5bd0be3d1d5e5c4317a4ebca",
+                        "user": "5bd0b6994c62b13d0adab739",
+                        "label": "Opening Pt1",
+                        "playback_type": "inline",
+                        "start_time": 0.6,
+                        "end_time": 5.801269841269841,
+                        "duration": 5.201269841269841,
+                        "file_name": "q2Bj8OCmxb4_5bd0bfc24c62b13d0adab745.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q2Bj8OCmxb4",
+                        "created_at": 20181024185354,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf744142332f10dce36e",
+                                "sentence": " Black background with white box tax and sides as what is culture?",
+                                "start_time": 0.45,
+                                "end_time": 4.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bd0c0e01d5e5c4317a4ebcd",
+                        "video": "5a862d013c55fb6e05de89ff",
+                        "audio_description": "5bd0be3d1d5e5c4317a4ebca",
+                        "user": "5bd0b6994c62b13d0adab739",
+                        "label": "Background",
+                        "playback_type": "inline",
+                        "start_time": 18.040145000000003,
+                        "end_time": 21.66245792517007,
+                        "duration": 3.622312925170068,
+                        "file_name": "q2Bj8OCmxb4_5bd0c0e01d5e5c4317a4ebcd.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q2Bj8OCmxb4",
+                        "created_at": 20181024185840,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf744142332f10dce34a",
+                                "sentence": " There is a white and black swirling background.",
+                                "start_time": 0.79,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bd0c1fe1d5e5c4317a4ebce",
+                        "video": "5a862d013c55fb6e05de89ff",
+                        "audio_description": "5bd0be3d1d5e5c4317a4ebca",
+                        "user": "5bd0b6994c62b13d0adab739",
+                        "label": "Savanna",
+                        "playback_type": "inline",
+                        "start_time": 27.704545454545453,
+                        "end_time": 31.04821892393321,
+                        "duration": 3.3436734693877552,
+                        "file_name": "q2Bj8OCmxb4_5bd0c1fe1d5e5c4317a4ebce.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q2Bj8OCmxb4",
+                        "created_at": 20181024190326,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dbd8f3a3b5681e2b9497f",
+                                "sentence": " A savannah setting with palm trees and a pond.",
+                                "start_time": 0.27,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bd0c27d1d5e5c4317a4ebcf",
+                        "video": "5a862d013c55fb6e05de89ff",
+                        "audio_description": "5bd0be3d1d5e5c4317a4ebca",
+                        "user": "5bd0b6994c62b13d0adab739",
+                        "label": "CArtoon",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 1.0216780045351475,
+                        "duration": 1.0216780045351475,
+                        "file_name": "q2Bj8OCmxb4_5bd0c27d1d5e5c4317a4ebcf.wav",
+                        "file_size_bytes": 180268,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q2Bj8OCmxb4",
+                        "created_at": 20181024190533,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dbd903a3b5681e2b9498c",
+                                "sentence": " Cartoon,",
+                                "start_time": 0.13,
+                                "end_time": 0.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bd0c2f34c62b13d0adab749",
+                        "video": "5a862d013c55fb6e05de89ff",
+                        "audio_description": "5bd0be3d1d5e5c4317a4ebca",
+                        "user": "5bd0b6994c62b13d0adab739",
+                        "label": "Boy",
+                        "playback_type": "inline",
+                        "start_time": 36.45794500000001,
+                        "end_time": 39.987378106575974,
+                        "duration": 3.5294331065759637,
+                        "file_name": "q2Bj8OCmxb4_5bd0c2f34c62b13d0adab749.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q2Bj8OCmxb4",
+                        "created_at": 20181024190731,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dbd8f3a3b5681e2b94977",
+                                "sentence": " A boy size inner caveman outfit on the right side.",
+                                "start_time": 0.26,
+                                "end_time": 3.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bd0c5141d5e5c4317a4ebd0",
+                        "video": "5a862d013c55fb6e05de89ff",
+                        "audio_description": "5bd0be3d1d5e5c4317a4ebca",
+                        "user": "5bd0b6994c62b13d0adab739",
+                        "label": "Descriptiion of setting and dad",
+                        "playback_type": "inline",
+                        "start_time": 66.0318181818182,
+                        "end_time": 75.13404040404042,
+                        "duration": 9.102222222222222,
+                        "file_name": "q2Bj8OCmxb4_5bd0c5141d5e5c4317a4ebd0.wav",
+                        "file_size_bytes": 1605676,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q2Bj8OCmxb4",
+                        "created_at": 20181024191636,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd1cc1703f62f116f758f",
+                                "sentence": " The father walked in from the left side and picked up a stick with a string attached at the end. He is now fishing for more than a day while the boy waits.",
+                                "start_time": 0.35,
+                                "end_time": 8.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bd0c5db4c62b13d0adab74c",
+                        "video": "5a862d013c55fb6e05de89ff",
+                        "audio_description": "5bd0be3d1d5e5c4317a4ebca",
+                        "user": "5bd0b6994c62b13d0adab739",
+                        "label": "Second day",
+                        "playback_type": "inline",
+                        "start_time": 75.32437800000001,
+                        "end_time": 80.15412856689343,
+                        "duration": 4.829750566893424,
+                        "file_name": "q2Bj8OCmxb4_5bd0c5db4c62b13d0adab74c.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q2Bj8OCmxb4",
+                        "created_at": 20181024191955,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd1cc1703f62f116f7592",
+                                "sentence": " It is the second day of the night, and the father pulls out of fish to show his son.",
+                                "start_time": 0.53,
+                                "end_time": 4.79
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bd0be3d1d5e5c4317a4ebca",
+                "video": "5a862d013c55fb6e05de89ff",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bd0b6994c62b13d0adab739",
+                    "email": "salvarynh1@montclair.edu",
+                    "name": "Hannah Salvaryn",
+                    "given_name": "Hannah",
+                    "picture": "https://lh5.googleusercontent.com/-nl7AvJTwodA/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbBgEKpmDKa38_AUa_9vLLaJY8-OKQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111898400166964384988",
+                    "last_login": 20181025213035,
+                    "token": "936111ec515dae4ae37a0572955c60e17a1d4a06f76d93c75189734172133b11",
+                    "__v": 0,
+                    "updated_at": 20181025213035,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20181024184725,
+                "updated_at": 20181024184725,
+                "notes": ":00-:04 Black background with a white box, text inside says \"what is culture\"\r\n:18:64-:20 Bl& White swirling background\r\n\r\nA savanna setting with palm trees and a pond. \r\nA boy sighs in a caveman outfit on the right side\r\n\r\nThe father walked in from the left side and picked up a stick with a string attached at the end. He is now fishing for more than a day while the boy waits\r\n\r\nThe dad had taught the son a lesson. The son made a joke",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Anthropology (Field Of Study)",
+            "culture definition",
+            "Cultural Anthropology (Field Of Study)"
+        ],
+        "custom_tags": [],
+        "_id": "5a862d013c55fb6e05de89ff",
+        "title": "What is Culture?",
+        "description": "",
+        "youtube_id": "q2Bj8OCmxb4",
+        "created_at": 20180216005945,
+        "updated_at": 20181025213429,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 393
+    }
+}

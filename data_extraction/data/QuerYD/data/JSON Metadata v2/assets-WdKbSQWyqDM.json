@@ -1,0 +1,167 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7846e13dfd851a5901",
+                        "audio_description": "58e7cf3346e13dfd851a250e",
+                        "created_at": 20160531180824,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160531180824,
+                        "file_name": "14647433044791.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2582,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 23014,
+                        "video": "58e7cf2946e13dfd851a1e29",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 29.92,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e42b3336b735cb4247ac338",
+                                "sentence": " A female adult sets with a young male toddler on her lap. She holds a toy that is perched on the child's lap",
+                                "start_time": 1.04,
+                                "end_time": 8.09
+                            },
+                            {
+                                "_id": "5e42b3336b735cb4247ac337",
+                                "sentence": " with her right hand.",
+                                "start_time": 8.09,
+                                "end_time": 9.65
+                            },
+                            {
+                                "_id": "5e42b3336b735cb4247ac336",
+                                "sentence": " The toy resembles a drum.",
+                                "start_time": 9.72,
+                                "end_time": 12.09
+                            },
+                            {
+                                "_id": "5e42b3336b735cb4247ac335",
+                                "sentence": " Using hand over hand guidance, she raises and lowers his left arm in hand,",
+                                "start_time": 12.22,
+                                "end_time": 17.74
+                            },
+                            {
+                                "_id": "5e42b3336b735cb4247ac334",
+                                "sentence": " tapping the drum.",
+                                "start_time": 17.74,
+                                "end_time": 18.96
+                            },
+                            {
+                                "_id": "5e42b3336b735cb4247ac333",
+                                "sentence": " After repeating this motion a few times, he pulls his hand away and places it over his eye",
+                                "start_time": 19.16,
+                                "end_time": 26.28
+                            },
+                            {
+                                "_id": "5e42b3336b735cb4247ac332",
+                                "sentence": " and forehead.",
+                                "start_time": 26.28,
+                                "end_time": 27.34
+                            },
+                            {
+                                "_id": "5e42b3336b735cb4247ac331",
+                                "sentence": " His right hand is in his mouth.",
+                                "start_time": 27.48,
+                                "end_time": 29.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7846e13dfd851a5902",
+                        "audio_description": "58e7cf3346e13dfd851a250e",
+                        "created_at": 20160531180911,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160531180911,
+                        "file_name": "14647433516161.wav",
+                        "start_time": 15.708,
+                        "legacy_video_id": 2582,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 23015,
+                        "video": "58e7cf2946e13dfd851a1e29",
+                        "end_time": 15.708,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e442b7cf8a7edbc7bf67a13",
+                                "sentence": " The adults, which is to use hand over hand guidance",
+                                "start_time": 0.9,
+                                "end_time": 4
+                            },
+                            {
+                                "_id": "5e442b7cf8a7edbc7bf67a12",
+                                "sentence": " with his right hand.",
+                                "start_time": 4.14,
+                                "end_time": 5.41
+                            },
+                            {
+                                "_id": "5e442b7cf8a7edbc7bf67a11",
+                                "sentence": " And they continue to tap the drum for a few seconds until he places both hands over his eyes.",
+                                "start_time": 5.44,
+                                "end_time": 11.48
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a250e",
+                "status": "published",
+                "legacy_video_id": 2582,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1e29",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "intervener",
+            "deaf-blind",
+            "hand over hand",
+            "supports"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e29",
+        "description": "",
+        "youtube_id": "WdKbSQWyqDM",
+        "views": 0,
+        "created_at": 20160531180627,
+        "title": "Hand Over Hand - Module 5",
+        "legacy_video_id": 2582,
+        "updated_at": 20160531180911,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 24
+    }
+}

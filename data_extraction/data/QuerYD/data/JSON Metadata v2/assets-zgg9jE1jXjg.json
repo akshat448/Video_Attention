@@ -1,0 +1,464 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4746e13dfd851a327c",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925031343,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925031343,
+                        "file_name": "14116148229911.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8052,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e21172ba0a26c5f69de4728",
+                                "sentence": " Many women gather at UC berkeley is memorial stadium for football charity event, pig skins and pearls.",
+                                "start_time": 0.2,
+                                "end_time": 6.86
+                            },
+                            {
+                                "_id": "5e21172ba0a26c5f69de4727",
+                                "sentence": " Everyone is excited to be there.",
+                                "start_time": 6.88,
+                                "end_time": 9.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a327d",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925031554,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925031554,
+                        "file_name": "14116149545001.wav",
+                        "start_time": 13.201,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8053,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 20.871000000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e21172ba0a26c5f69de476a",
+                                "sentence": " All of the football players, women",
+                                "start_time": 0.36,
+                                "end_time": 3.06
+                            },
+                            {
+                                "_id": "5e21172ba0a26c5f69de4769",
+                                "sentence": " cheerleaders,",
+                                "start_time": 3.06,
+                                "end_time": 4.13
+                            },
+                            {
+                                "_id": "5e21172ba0a26c5f69de4768",
+                                "sentence": " and the Coach gather and socialize together.",
+                                "start_time": 4.13,
+                                "end_time": 7.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a327e",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925031715,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925031715,
+                        "file_name": "14116150356421.wav",
+                        "start_time": 22.345,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8054,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 25.924999999999997,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e21172ba0a26c5f69de4714",
+                                "sentence": " There are food and drinks being served.",
+                                "start_time": 0.37,
+                                "end_time": 3.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a327f",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925031837,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925031837,
+                        "file_name": "14116151171981.wav",
+                        "start_time": 38.101,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8055,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 47.051,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ecb5",
+                                "sentence": " It feels like you are at a game day with the cheerleaders, the cow band and the rally committee",
+                                "start_time": 0.33,
+                                "end_time": 6.6
+                            },
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ecb4",
+                                "sentence": " all showing their school spirit.",
+                                "start_time": 6.6,
+                                "end_time": 8.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a3280",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925032008,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925032008,
+                        "file_name": "14116152085671.wav",
+                        "start_time": 50.831,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8056,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 57.741,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e21172ba0a26c5f69de4781",
+                                "sentence": " The women interact with the Coach and the football players,",
+                                "start_time": 0.31,
+                                "end_time": 4.18
+                            },
+                            {
+                                "_id": "5e21172ba0a26c5f69de4780",
+                                "sentence": " some of them receiving autographs.",
+                                "start_time": 4.18,
+                                "end_time": 6.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a3281",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925032154,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925032154,
+                        "file_name": "14116153143961.wav",
+                        "start_time": 64.564,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8057,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 71.72399999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e21172ba0a26c5f69de4787",
+                                "sentence": " After socializing outside",
+                                "start_time": 0.23,
+                                "end_time": 2.51
+                            },
+                            {
+                                "_id": "5e21172ba0a26c5f69de4786",
+                                "sentence": " the football, players bring the women out onto the field with enthusiasm.",
+                                "start_time": 2.51,
+                                "end_time": 7.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a3282",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925032418,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925032418,
+                        "file_name": "14116154580951.wav",
+                        "start_time": 76.704,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8059,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 81.824,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e2118f083aed771afad1e74",
+                                "sentence": " The team explains drills to the women. And then they begin training.",
+                                "start_time": 0.56,
+                                "end_time": 4.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a3283",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925032504,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925032504,
+                        "file_name": "14116155046991.wav",
+                        "start_time": 93.771,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8060,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 97.351,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e21172aa0a26c5f69de4707",
+                                "sentence": " They learned how to backpedal across the field.",
+                                "start_time": 0.37,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a3284",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925032549,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925032549,
+                        "file_name": "14116155493071.wav",
+                        "start_time": 100.125,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8061,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 103.195,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec7a",
+                                "sentence": " The cheerleaders teach them some cheers.",
+                                "start_time": 0.27,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a3285",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925032653,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925032653,
+                        "file_name": "14116156135661.wav",
+                        "start_time": 105.151,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8062,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 108.731,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec99",
+                                "sentence": " They practice passing and catching the football.",
+                                "start_time": 0.13,
+                                "end_time": 3.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a3286",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925032923,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925032923,
+                        "file_name": "14116157639371.wav",
+                        "start_time": 113.736,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8064,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 119.366,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e2115db3c73235f669fc80c",
+                                "sentence": " They worked through many more drills, practicing the way a cow football player would.",
+                                "start_time": 0.37,
+                                "end_time": 5.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a3287",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925033004,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925033004,
+                        "file_name": "14116158041061.wav",
+                        "start_time": 127.709,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8065,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 137.679,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e21172ba0a26c5f69de4723",
+                                "sentence": " All the while the women are having a good time learning from the team.",
+                                "start_time": 0.39,
+                                "end_time": 4.61
+                            },
+                            {
+                                "_id": "5e21172ba0a26c5f69de4722",
+                                "sentence": " One. Women even pretends to give birth to a football while making a touchdown.",
+                                "start_time": 4.72,
+                                "end_time": 9.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4746e13dfd851a3288",
+                        "audio_description": "58e7cf2e46e13dfd851a221b",
+                        "created_at": 20140925033125,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140925033125,
+                        "file_name": "14116158858991.wav",
+                        "start_time": 150.127,
+                        "legacy_video_id": 1621,
+                        "legacy_user_id": 2368,
+                        "label": "",
+                        "legacy_audio_clip_id": 8066,
+                        "video": "58e7cf2846e13dfd851a1a68",
+                        "end_time": 157.797,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a221a",
+                        "transcript": [
+                            {
+                                "_id": "5e211519c4c00c5f6705e3c3",
+                                "sentence": " To finish off. They all practice jumping into the end zone for a touchdown, leaving with a smile on their faces.",
+                                "start_time": 0.08,
+                                "end_time": 7.16
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2e46e13dfd851a221b",
+                "status": "published",
+                "legacy_video_id": 1621,
+                "legacy_user_id": 2368,
+                "video": "58e7cf2846e13dfd851a1a68",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2e46e13dfd851a221a",
+                    "name": "mhaseeb28",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2368,
+                    "last_login": 0,
+                    "email": "mhaseeb28@berkeley.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "cal",
+            "berkeley",
+            "golden bears",
+            "bears",
+            "california golden bears"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a68",
+        "description": "",
+        "youtube_id": "zgg9jE1jXjg",
+        "views": 0,
+        "created_at": 20140925031143,
+        "title": "Cal Football: 2014 Pigskins and Pearls",
+        "legacy_video_id": 1621,
+        "updated_at": 20140924203127,
+        "youtube_status": "available",
+        "category": "Sports",
+        "category_id": "17",
+        "duration": 162
+    }
+}

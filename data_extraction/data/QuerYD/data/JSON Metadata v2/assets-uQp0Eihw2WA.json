@@ -1,0 +1,114 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5746e13dfd851a40c6",
+                        "audio_description": "58e7cf3046e13dfd851a2357",
+                        "created_at": 20150425175335,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425175335,
+                        "file_name": "14300096157841.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1948,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13258,
+                        "video": "58e7cf2846e13dfd851a1baf",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 22.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bfa67c75183e4aae75",
+                                "sentence": " Lacey,",
+                                "start_time": 1.18,
+                                "end_time": 2.26
+                            },
+                            {
+                                "_id": "5e30a4bfa67c75183e4aae74",
+                                "sentence": " a young child who appears to be around the age of three, stands in front of a large mirror.",
+                                "start_time": 2.26,
+                                "end_time": 7.82
+                            },
+                            {
+                                "_id": "5e30a4bfa67c75183e4aae73",
+                                "sentence": " Her mother, who is off camera, ask her to repeat specific words. Lacey complies by voicing and signing the words.",
+                                "start_time": 7.82,
+                                "end_time": 16.23
+                            },
+                            {
+                                "_id": "5e30a4bfa67c75183e4aae72",
+                                "sentence": " Her hair is blonde and has pulled up into a messy ponytail. She smiles as she talks with her mom.",
+                                "start_time": 16.23,
+                                "end_time": 22.48
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2357",
+                "status": "published",
+                "legacy_video_id": 1948,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1baf",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "deaf-blind",
+            "interveners",
+            "communication",
+            "mother-child interaction",
+            "Deafblindness (Disease Or Medical Condition)",
+            "Deaf-Blindness",
+            "Deafblind",
+            "NCDB",
+            "National Center on Deaf-Blindness",
+            "American Sign Language (Human Language)",
+            "Pidgin (Language Family)",
+            "parent-child interaction",
+            "OHOA",
+            "Open Hands Open Access",
+            "Deaf-Blind Intervener Training Modules"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1baf",
+        "description": "",
+        "youtube_id": "uQp0Eihw2WA",
+        "views": 0,
+        "created_at": 20150425175009,
+        "title": "Lacy Talks With Her Mom - Module 8",
+        "legacy_video_id": 1948,
+        "updated_at": 20150425175335,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 61
+    }
+}

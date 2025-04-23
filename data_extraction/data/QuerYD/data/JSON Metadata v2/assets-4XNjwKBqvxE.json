@@ -1,0 +1,612 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4646e13dfd851a319a",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604142842,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604142842,
+                        "file_name": "14019173228771.wav",
+                        "start_time": 0.904,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7492,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 6.784,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e21172ba0a26c5f69de476b",
+                                "sentence": " Words appear. Ud el universal design for learning.",
+                                "start_time": 0.59,
+                                "end_time": 5.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a319b",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604143349,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604143349,
+                        "file_name": "14019176299221.wav",
+                        "start_time": 59.937,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7493,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 59.937,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec69",
+                                "sentence": " Ta go pato, assistant professor applied technology center.",
+                                "start_time": 0.02,
+                                "end_time": 5.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a319c",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604143445,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604143445,
+                        "file_name": "14019176858461.wav",
+                        "start_time": 97.891,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7494,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 102.491,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e21172aa0a26c5f69de4705",
+                                "sentence": " Candide, a darling director, disability resource center.",
+                                "start_time": 0.35,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a319d",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604143532,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604143532,
+                        "file_name": "14019177322561.wav",
+                        "start_time": 130.014,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7495,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 130.014,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9eca1",
+                                "sentence": " Suzanne most, the department chair mathematics.",
+                                "start_time": 0.56,
+                                "end_time": 4.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a319e",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604143624,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604143624,
+                        "file_name": "14019177843651.wav",
+                        "start_time": 171.378,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7496,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 175.72799999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211b4c97555271ae44f4d5",
+                                "sentence": " Ri framing disability. Can't eat a darling.",
+                                "start_time": 0.44,
+                                "end_time": 4.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a319f",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604143835,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604143835,
+                        "file_name": "14019179154841.wav",
+                        "start_time": 272.896,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7498,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 276.216,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ecc3",
+                                "sentence": " Multiple means of representation.",
+                                "start_time": 0.52,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31a0",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604143848,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604143848,
+                        "file_name": "14019179283531.wav",
+                        "start_time": 276.076,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7499,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 279.916,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec92",
+                                "sentence": " Jenny barnes, associate professor nursing.",
+                                "start_time": 0.28,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31a1",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604143928,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604143928,
+                        "file_name": "14019179684661.wav",
+                        "start_time": 302.342,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7500,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 306.942,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dd3c73235f669fc854",
+                                "sentence": " Polymer cn average instructional designer had junk faculty.",
+                                "start_time": 0.25,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31a2",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604144021,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604144021,
+                        "file_name": "14019180210001.wav",
+                        "start_time": 341.483,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7501,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 341.483,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e2118ef83aed771afad1e0d",
+                                "sentence": " Paul roberts, assistant professor health and lifetime activities.",
+                                "start_time": 0.4,
+                                "end_time": 4.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31a3",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604144054,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604144054,
+                        "file_name": "14019180542101.wav",
+                        "start_time": 364.094,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7502,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 367.414,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211ad5ccb66271b021c861",
+                                "sentence": " Multiple means of expression.",
+                                "start_time": 0.47,
+                                "end_time": 3.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31a4",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604144113,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604144113,
+                        "file_name": "14019180739331.wav",
+                        "start_time": 370.695,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7503,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 370.695,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ecc2",
+                                "sentence": " Alex lang shall adjunct faculty. Fine arts.",
+                                "start_time": 0.5,
+                                "end_time": 4.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31a5",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604144249,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604144249,
+                        "file_name": "14019181690061.wav",
+                        "start_time": 451.48,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7504,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 451.48,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211519c4c00c5f6705e3a2",
+                                "sentence": " Cindy soda storm associate professor mathematics.",
+                                "start_time": 0.33,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31a6",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604144313,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604144313,
+                        "file_name": "14019181933001.wav",
+                        "start_time": 469.057,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7505,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 472.377,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e21172aa0a26c5f69de4706",
+                                "sentence": " Multiple means of engagement.",
+                                "start_time": 0.36,
+                                "end_time": 3.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31a7",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604144334,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604144334,
+                        "file_name": "14019182149791.wav",
+                        "start_time": 476.191,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7506,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 476.191,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e21172aa0a26c5f69de4703",
+                                "sentence": " Cat arena. Celine iii, associate professor psychology.",
+                                "start_time": 0.42,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31a8",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604144442,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604144442,
+                        "file_name": "14019182824851.wav",
+                        "start_time": 525.199,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7507,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 525.199,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211b4c97555271ae44f48a",
+                                "sentence": " Cindy's order storm.",
+                                "start_time": 0.26,
+                                "end_time": 2.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31a9",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604144532,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604144532,
+                        "file_name": "14019183324991.wav",
+                        "start_time": 566.356,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7508,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 566.356,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211d0b65f1f371b11febfb",
+                                "sentence": " Mildred sparks associate professor English.",
+                                "start_time": 0.11,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31aa",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604144636,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604144636,
+                        "file_name": "14019183967121.wav",
+                        "start_time": 620.056,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7509,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 620.056,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211d0b65f1f371b11fec01",
+                                "sentence": " John mccormick.",
+                                "start_time": 0.29,
+                                "end_time": 1.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31ab",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604144721,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604144721,
+                        "file_name": "14019184415161.wav",
+                        "start_time": 657.586,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7510,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 657.586,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211682ad6c4c5f68d9ecd8",
+                                "sentence": " Alex lane shawl.",
+                                "start_time": 0.36,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31ac",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604144800,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604144800,
+                        "file_name": "14019184805331.wav",
+                        "start_time": 686.679,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7511,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 691.279,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211d0c65f1f371b11fec59",
+                                "sentence": " Salt lake community college, disability resource center.",
+                                "start_time": 0.28,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a31ad",
+                        "audio_description": "58e7cf2d46e13dfd851a21e2",
+                        "created_at": 20140604144819,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140604144819,
+                        "file_name": "14019184993371.wav",
+                        "start_time": 689.93,
+                        "legacy_video_id": 1559,
+                        "legacy_user_id": 84,
+                        "label": "",
+                        "legacy_audio_clip_id": 7512,
+                        "video": "58e7cf2846e13dfd851a1a2a",
+                        "end_time": 694.53,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e1",
+                        "transcript": [
+                            {
+                                "_id": "5e211b4c97555271ae44f47d",
+                                "sentence": " A production of s l CCTV productions.",
+                                "start_time": 0.32,
+                                "end_time": 4.58
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21e2",
+                "status": "published",
+                "legacy_video_id": 1559,
+                "legacy_user_id": 84,
+                "video": "58e7cf2846e13dfd851a1a2a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21e1",
+                    "name": "mhelquist",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20161129150222,
+                    "legacy_user_id": 84,
+                    "last_login": 0,
+                    "email": "mhelquist@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a2a",
+        "description": "",
+        "youtube_id": "4XNjwKBqvxE",
+        "views": 0,
+        "created_at": 20140604141941,
+        "title": "Universal Design For Learning",
+        "legacy_video_id": 1559,
+        "updated_at": 20140604150713,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 697
+    }
+}

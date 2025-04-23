@@ -1,0 +1,131 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf9246e13dfd851a69e6",
+                        "audio_description": "58e7cf3c46e13dfd851a282b",
+                        "created_at": 20161211112107,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161211112107,
+                        "file_name": "14814840679061.wav",
+                        "start_time": 1.379,
+                        "legacy_video_id": 3021,
+                        "legacy_user_id": 52,
+                        "label": "",
+                        "legacy_audio_clip_id": 30080,
+                        "video": "58e7cf2946e13dfd851a1fdf",
+                        "end_time": 1.379,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a282a",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c1207aba721b5c6755",
+                                "sentence": " Title t d f autism theatre initiative,",
+                                "start_time": 0.09,
+                                "end_time": 2.67
+                            },
+                            {
+                                "_id": "5e4ad2c1207aba721b5c6754",
+                                "sentence": " a woman with a light tan complexion, big brown eyes and long cascading ring. Let's stands facing us in a dressing room.",
+                                "start_time": 2.67,
+                                "end_time": 8.14
+                            },
+                            {
+                                "_id": "5e4ad2c1207aba721b5c6753",
+                                "sentence": " She wears a gold crown ring with red and green jewels, and a red and gold open necked dress with strands of matching jewels about her arms.",
+                                "start_time": 8.18,
+                                "end_time": 14.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a69e7",
+                        "audio_description": "58e7cf3c46e13dfd851a282b",
+                        "created_at": 20161211112253,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161211112253,
+                        "file_name": "14814841737441.wav",
+                        "start_time": 102.107,
+                        "legacy_video_id": 3021,
+                        "legacy_user_id": 52,
+                        "label": "",
+                        "legacy_audio_clip_id": 30081,
+                        "video": "58e7cf2946e13dfd851a1fdf",
+                        "end_time": 106.707,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a282a",
+                        "transcript": [
+                            {
+                                "_id": "5e4acf2d04044e4ed9f61958",
+                                "sentence": " Closing title t d f autism theatre initiative, donate now access dot e d f dot org.",
+                                "start_time": 0,
+                                "end_time": 4.51
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3c46e13dfd851a282b",
+                "status": "published",
+                "legacy_video_id": 3021,
+                "legacy_user_id": 52,
+                "video": "58e7cf2946e13dfd851a1fdf",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3c46e13dfd851a282a",
+                    "name": "mwilde",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20170307124717,
+                    "legacy_user_id": 52,
+                    "last_login": 0,
+                    "email": "martin@wildemouth.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Theatre Development Fund",
+            "TDF",
+            "TKTS",
+            "Broadway",
+            "Theatre",
+            "Theater",
+            "Musicals",
+            "Plays",
+            "Times Square",
+            "NYC"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1fdf",
+        "description": "",
+        "youtube_id": "-PN1gwDOa5I",
+        "views": 0,
+        "created_at": 20161209082413,
+        "title": "Ali Ewoldt for Autism Theatre Initiative",
+        "legacy_video_id": 3021,
+        "updated_at": 20161211113714,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 108
+    }
+}

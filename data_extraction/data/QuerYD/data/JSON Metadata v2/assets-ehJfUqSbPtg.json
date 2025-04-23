@@ -1,0 +1,281 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c4179e00071d10d85749330",
+                        "video": "5c3c230a5d6e4004fe2d03f7",
+                        "audio_description": "5c3c230a5d6e4004fe2d03f6",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "There are three black cats in an untidy room. A Roomba goes about the room.",
+                        "playback_type": "extended",
+                        "start_time": 1.434808,
+                        "end_time": 1.434808,
+                        "duration": 6.741333333333333,
+                        "file_name": "ehJfUqSbPtg_5c4179e00071d10d85749330.wav",
+                        "file_size_bytes": 1294380,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ehJfUqSbPtg",
+                        "created_at": 20190118070152,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e998544080122fa67ae4",
+                                "sentence": " There are three black cats in an untidy room.",
+                                "start_time": 1.01,
+                                "end_time": 4.05
+                            },
+                            {
+                                "_id": "5e13e998544080122fa67ae3",
+                                "sentence": " A rumba goes about the room.",
+                                "start_time": 4.05,
+                                "end_time": 6.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c417a190071d10d85749331",
+                        "video": "5c3c230a5d6e4004fe2d03f7",
+                        "audio_description": "5c3c230a5d6e4004fe2d03f6",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "The Roomba approaches cat number one, and the cat backs away timidly.",
+                        "playback_type": "extended",
+                        "start_time": 7.719937012987014,
+                        "end_time": 7.719937012987014,
+                        "duration": 5.802666666666667,
+                        "file_name": "ehJfUqSbPtg_5c417a190071d10d85749331.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ehJfUqSbPtg",
+                        "created_at": 20190118070249,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e998544080122fa67aaa",
+                                "sentence": " The rumor approaches cat number one, and the cat backs away timidly.",
+                                "start_time": 0.48,
+                                "end_time": 5.45
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c417a640071d10d85749332",
+                        "video": "5c3c230a5d6e4004fe2d03f7",
+                        "audio_description": "5c3c230a5d6e4004fe2d03f6",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "The Roomba reaches a hallway, and cats number two and three come towards it.",
+                        "playback_type": "extended",
+                        "start_time": 21.250794,
+                        "end_time": 21.250794,
+                        "duration": 5.717333333333333,
+                        "file_name": "ehJfUqSbPtg_5c417a640071d10d85749332.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ehJfUqSbPtg",
+                        "created_at": 20190118070404,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e994544080122fa67a84",
+                                "sentence": " The rumba reaches a hallway, and cats number two and three come towards it.",
+                                "start_time": 0.37,
+                                "end_time": 5.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c417b2378cb3e29766accbd",
+                        "video": "5c3c230a5d6e4004fe2d03f7",
+                        "audio_description": "5c3c230a5d6e4004fe2d03f6",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "Cat number three sniffs the Roomba, and retreats away when the Roomba comes towards it.",
+                        "playback_type": "extended",
+                        "start_time": 40.724749,
+                        "end_time": 40.724749,
+                        "duration": 6.4,
+                        "file_name": "ehJfUqSbPtg_5c417b2378cb3e29766accbd.wav",
+                        "file_size_bytes": 1228844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ehJfUqSbPtg",
+                        "created_at": 20190118070715,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e998544080122fa67abd",
+                                "sentence": " Cat number three sniffs the rumba and retreats away. When the rumba comes towards it.",
+                                "start_time": 0.63,
+                                "end_time": 6.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c417b9e78cb3e29766accbe",
+                        "video": "5c3c230a5d6e4004fe2d03f7",
+                        "audio_description": "5c3c230a5d6e4004fe2d03f6",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "The Roomba comes after cat number one, who is on a staircase next to the hallway. The Roomba cannot reach cat number one, as the cat sits on the step below the floor.",
+                        "playback_type": "extended",
+                        "start_time": 69.653078,
+                        "end_time": 69.653078,
+                        "duration": 11.861333333333333,
+                        "file_name": "ehJfUqSbPtg_5c417b9e78cb3e29766accbe.wav",
+                        "file_size_bytes": 2277420,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ehJfUqSbPtg",
+                        "created_at": 20190118070918,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e93c9aefae1231e09a3e",
+                                "sentence": " The rumor comes after cat number one, who is on a staircase next to the hallway,",
+                                "start_time": 0.51,
+                                "end_time": 5.94
+                            },
+                            {
+                                "_id": "5e13e93c9aefae1231e09a3d",
+                                "sentence": " the room, but cannot reach cat number one as the cat sits on the step below the floor.",
+                                "start_time": 5.94,
+                                "end_time": 11.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c417bcc0071d10d85749335",
+                        "video": "5c3c230a5d6e4004fe2d03f7",
+                        "audio_description": "5c3c230a5d6e4004fe2d03f6",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "The Roomba backs away from cat number one, but comes straight back at it, and cat number one jumps down a step.",
+                        "playback_type": "extended",
+                        "start_time": 77.602726,
+                        "end_time": 77.602726,
+                        "duration": 8.021333333333333,
+                        "file_name": "ehJfUqSbPtg_5c417bcc0071d10d85749335.wav",
+                        "file_size_bytes": 1540140,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ehJfUqSbPtg",
+                        "created_at": 20190118071004,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e8e9e525a91232f90ad2",
+                                "sentence": " The rumor backs away from cat number one, but come straight back at it. And cat number one jumps down a step.",
+                                "start_time": 0.42,
+                                "end_time": 7.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c417bf078cb3e29766accbf",
+                        "video": "5c3c230a5d6e4004fe2d03f7",
+                        "audio_description": "5c3c230a5d6e4004fe2d03f6",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "Cat number three goes in front of the Roomba, and dodges it as it nears the cat.",
+                        "playback_type": "extended",
+                        "start_time": 85.497694,
+                        "end_time": 85.497694,
+                        "duration": 6.058666666666666,
+                        "file_name": "ehJfUqSbPtg_5c417bf078cb3e29766accbf.wav",
+                        "file_size_bytes": 1163308,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ehJfUqSbPtg",
+                        "created_at": 20190118071040,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e999544080122fa67afc",
+                                "sentence": " Hat number three goes in front of the rumba and dodgers it as it nears the cat.",
+                                "start_time": 0.69,
+                                "end_time": 5.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c417d0e78cb3e29766accc0",
+                        "video": "5c3c230a5d6e4004fe2d03f7",
+                        "audio_description": "5c3c230a5d6e4004fe2d03f6",
+                        "user": "5c3bdc265d6e4004fe2d03df",
+                        "label": "Once again, the Roomba approaches cat number three, and nearly hits it before the cat hurries away.",
+                        "playback_type": "extended",
+                        "start_time": 57.803599,
+                        "end_time": 57.803599,
+                        "duration": 7.509333333333333,
+                        "file_name": "ehJfUqSbPtg_5c417d0e78cb3e29766accc0.wav",
+                        "file_size_bytes": 1441836,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ehJfUqSbPtg",
+                        "created_at": 20190118071526,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e8eae525a91232f90b4a",
+                                "sentence": " Once again, the rumor approaches cat number three and nearly hits it before the cat hurries away.",
+                                "start_time": 0.45,
+                                "end_time": 6.77
+                            },
+                            {
+                                "_id": "5e13e8eae525a91232f90b49",
+                                "sentence": " Yeah.",
+                                "start_time": 6.81,
+                                "end_time": 7.47
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c3c230a5d6e4004fe2d03f6",
+                "video": "5c3c230a5d6e4004fe2d03f7",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c3bdc265d6e4004fe2d03df",
+                    "email": "enochlee04@gmail.com",
+                    "name": "Enoch Lee",
+                    "given_name": "Enoch",
+                    "picture": "https://lh6.googleusercontent.com/-B2rcF5w4NDw/AAAAAAAAAAI/AAAAAAAAANY/bLC9gA5pUL8/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "100858671042298218163",
+                    "last_login": 20201223014044,
+                    "token": "8774500f137f7b67696e61908f88643da67bbf26753e43382ce091d5861b1baf",
+                    "__v": 0,
+                    "updated_at": 20201223014044,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190114055002,
+                "updated_at": 20190221201214,
+                "notes": "00:01 There are three black cats in an untidy room. A Roomba goes about the room.\n00:07 The Roomba approaches cat number one, and the cat backs away timidly.\n00:21 The Roomba reaches a hallway, and cats number two and three come towards it.\n00:40 Cat number three sniffs the Roomba, and retreats away when the Roomba comes towards it.\n00:57 Once again, the Roomba approaches cat number three, and nearly hits it before the cat hurries away.\n01:09 The Roomba comes after cat number one, who is on a staircase next to the hallway. The Roomba cannot reach cat number one, as the cat sits on the step below the floor.\n01:17 The Roomba backs away from cat number one, but comes straight back at it, and cat number one jumps down a step.\n01:25 Cat number three goes in front of the Roomba, and dodges it as it nears the cat.",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "black cats",
+            "cats",
+            "roomba",
+            "cat video",
+            "funny cats",
+            "roomba cats"
+        ],
+        "custom_tags": [],
+        "_id": "5c3c230a5d6e4004fe2d03f7",
+        "title": "Black cats scared of roomba",
+        "description": "My blacks cats get scared of the new roomba",
+        "youtube_id": "ehJfUqSbPtg",
+        "created_at": 20190114055002,
+        "updated_at": 20190118071526,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 89
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4e98",
+                        "audio_description": "58e7cf3346e13dfd851a24e7",
+                        "created_at": 20151102102209,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102102209,
+                        "file_name": "14464885298731.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2312,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18304,
+                        "video": "58e7cf2946e13dfd851a1d1b",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ed2a129f9bdab9cd96e88",
+                                "sentence": " Joe, a young toddler, sits in the lap of an adult male holding a clear plastic canister with a blue lid.",
+                                "start_time": 1.38,
+                                "end_time": 9.13
+                            },
+                            {
+                                "_id": "5e3ed2a129f9bdab9cd96e87",
+                                "sentence": " As the adult speaks to him, joel explores the lid.",
+                                "start_time": 9.4,
+                                "end_time": 12.76
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a24e7",
+                "status": "published",
+                "legacy_video_id": 2312,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1d1b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d1b",
+        "description": "",
+        "youtube_id": "1ePcSm1ninM",
+        "views": 0,
+        "created_at": 20151102102132,
+        "title": "Joel Opens the Top",
+        "legacy_video_id": 2312,
+        "updated_at": 20151102102209,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 33
+    }
+}

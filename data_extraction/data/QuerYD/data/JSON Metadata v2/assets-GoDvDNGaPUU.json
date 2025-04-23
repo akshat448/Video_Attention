@@ -1,0 +1,81 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bd352afb55a005b89021581",
+                        "video": "5ba83660c3271f04e440516a",
+                        "audio_description": "5ba83660c3271f04e4405169",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 7.616145124716553,
+                        "duration": 7.616145124716553,
+                        "file_name": "GoDvDNGaPUU_5bd352afb55a005b89021581.wav",
+                        "file_size_bytes": 1343532,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/GoDvDNGaPUU",
+                        "created_at": 20181026174519,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b14944c0dc733277dc344",
+                                "sentence": " A multicolored mccaw hangs round on a green bench while walking around a little.",
+                                "start_time": 1.23,
+                                "end_time": 6.48
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ba83660c3271f04e4405169",
+                "video": "5ba83660c3271f04e440516a",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "59c25b2ec6c4802622d9c1bf",
+                    "email": "rgman1995@gmail.com",
+                    "name": "Ryan G",
+                    "given_name": "Ryan",
+                    "picture": "https://lh3.googleusercontent.com/-NxEEiJBaock/AAAAAAAAAAI/AAAAAAAAAc0/5fcpjk_lXKY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113561788356507984833",
+                    "last_login": 20201230202355,
+                    "token": "27b561de1a2557461b6807ff8a71622302ac468380f084bd313e4b4fc0a8dc39",
+                    "__v": 0,
+                    "updated_at": 20201230202355,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180924005704,
+                "updated_at": 20180924005704,
+                "notes": "A multi-colored macaw hangs around on a green bench while walking around a little. ",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5ba83660c3271f04e440516a",
+        "title": "A Macau in downtown Maywood, NJ",
+        "description": "",
+        "youtube_id": "GoDvDNGaPUU",
+        "created_at": 20180924005704,
+        "updated_at": 20181026174519,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 16
+    }
+}

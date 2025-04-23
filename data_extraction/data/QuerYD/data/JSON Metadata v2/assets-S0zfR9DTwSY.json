@@ -1,0 +1,102 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59c2892bc6c4802622d9c1d7",
+                        "video": "59c288dcc6c4802622d9c1d5",
+                        "audio_description": "59c288dcc6c4802622d9c1d4",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 12.538775510204081,
+                        "duration": 12.538775510204081,
+                        "file_name": "S0zfR9DTwSY_59c2892bc6c4802622d9c1d7.wav",
+                        "file_size_bytes": 2211884,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/S0zfR9DTwSY",
+                        "created_at": 20170920152843,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175e2b26a278fc5f090468",
+                                "sentence": " In a classroom, a group of children shake a colorful parachute, while a beach ball bounces in the middle.",
+                                "start_time": 0.51,
+                                "end_time": 6.48
+                            },
+                            {
+                                "_id": "5e175e2b26a278fc5f090467",
+                                "sentence": " The children attempt to keep the ball in the center of the parachute while shaking it.",
+                                "start_time": 6.72,
+                                "end_time": 11.1
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59c288dcc6c4802622d9c1d4",
+                "video": "59c288dcc6c4802622d9c1d5",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "59c25b2ec6c4802622d9c1bf",
+                    "email": "rgman1995@gmail.com",
+                    "name": "Ryan G",
+                    "given_name": "Ryan",
+                    "picture": "https://lh3.googleusercontent.com/-NxEEiJBaock/AAAAAAAAAAI/AAAAAAAAAc0/5fcpjk_lXKY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113561788356507984833",
+                    "last_login": 20201230202355,
+                    "token": "27b561de1a2557461b6807ff8a71622302ac468380f084bd313e4b4fc0a8dc39",
+                    "__v": 0,
+                    "updated_at": 20201230202355,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170920152724,
+                "updated_at": 20170920152724,
+                "notes": "In a classroom, a group of children shake a colorful parachute while a beach ball bounces in the middle. The children attempt to keep the ball in the center of the parachute while shaking it. ",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "parachute",
+            "listen like learn",
+            "your child needs music",
+            "mugalive",
+            "Children's Music (Musical Genre)",
+            "Rahel",
+            "Rahelmusic",
+            "kids",
+            "mother goose on the loose",
+            "your baby needs music",
+            "yourchildneedsmusic",
+            "music and movement",
+            "yoga",
+            "Ball"
+        ],
+        "custom_tags": [],
+        "_id": "59c288dcc6c4802622d9c1d5",
+        "title": "Parachute Ball Toss",
+        "description": "Summer fun at MUGALIVE and YOUR CHILD NEEDS MUSIC\r\nwww.mugalive.net\r\nwww.yourchildneedsmusic.com",
+        "youtube_id": "S0zfR9DTwSY",
+        "created_at": 20170920152724,
+        "updated_at": 20170920152843,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 16
+    }
+}

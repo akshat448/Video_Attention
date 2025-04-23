@@ -1,0 +1,83 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59ba02c7c6c4802622d9c13d",
+                        "video": "59ba029cc6c4802622d9c13c",
+                        "audio_description": "59ba029cc6c4802622d9c13b",
+                        "user": "59b9eeafc6c4802622d9c11a",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 8.17342403628118,
+                        "file_name": "v-9kQlydxu0_59ba02c7c6c4802622d9c13d.wav",
+                        "file_size_bytes": 1441836,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/v-9kQlydxu0",
+                        "created_at": 20170914041711,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "59ba03bdc6c4802622d9c13e",
+                        "video": "59ba029cc6c4802622d9c13c",
+                        "audio_description": "59ba029cc6c4802622d9c13b",
+                        "user": "59b9eeafc6c4802622d9c11a",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 7.415496999999999,
+                        "end_time": 7.415496999999999,
+                        "duration": 21.826757369614512,
+                        "file_name": "v-9kQlydxu0_59ba03bdc6c4802622d9c13e.wav",
+                        "file_size_bytes": 3850284,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/v-9kQlydxu0",
+                        "created_at": 20170914042117,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "59ba029cc6c4802622d9c13b",
+                "video": "59ba029cc6c4802622d9c13c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59b9eeafc6c4802622d9c11a",
+                    "email": "jinsiting@gmail.com",
+                    "name": "\u91d1\u601d\u5a77",
+                    "given_name": "\u601d\u5a77",
+                    "picture": "https://lh6.googleusercontent.com/-XK3ycygF9ME/AAAAAAAAAAI/AAAAAAAAAAA/APJypA2pBxXtNXqWv6yM4nZ6VLaAOQMYsg/s96-c/photo.jpg",
+                    "locale": "zh-CN",
+                    "google_user_id": "100588127093293388455",
+                    "last_login": 20170914041201,
+                    "token": "028c924ec4d4b3f712266976719aacaa7f1ad26cd3d8fc92dc4342d55e7d6167",
+                    "__v": 0,
+                    "updated_at": 20170914041201
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170914041628,
+                "updated_at": 20170914041628,
+                "notes": "The employment for disabled Americans was 50.2% and the employment rate for non-disabled Americans was 84.4% in 1991. While in 2010, the employment rate for disabled was 41.1% and employment rate for non-disabled Americans was 79.1%.",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59ba029cc6c4802622d9c13c",
+        "title": "employment movie",
+        "description": "",
+        "youtube_id": "v-9kQlydxu0",
+        "created_at": 20170914041628,
+        "updated_at": 20170914042117,
+        "views": 0,
+        "__v": 0
+    }
+}

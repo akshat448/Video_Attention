@@ -1,0 +1,139 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ef15cef9b6f6f0d30a413e7",
+                        "video": "5ef15cb99b6f6f0d30a413e6",
+                        "audio_description": "5ef15cb99b6f6f0d30a413e5",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 2.083457,
+                        "end_time": 2.083457,
+                        "duration": 8.6378231292517,
+                        "file_name": "j4vo5y0eHnA_5ef15cef9b6f6f0d30a413e7.wav",
+                        "file_size_bytes": 1523756,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/j4vo5y0eHnA",
+                        "created_at": 20200623013751,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5ef15d2d8b60190d32ef4448",
+                        "video": "5ef15cb99b6f6f0d30a413e6",
+                        "audio_description": "5ef15cb99b6f6f0d30a413e5",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 12.424777,
+                        "end_time": 12.424777,
+                        "duration": 7.523265306122449,
+                        "file_name": "j4vo5y0eHnA_5ef15d2d8b60190d32ef4448.wav",
+                        "file_size_bytes": 1327148,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/j4vo5y0eHnA",
+                        "created_at": 20200623013853,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5ef15d5e9b6f6f0d30a413e8",
+                        "video": "5ef15cb99b6f6f0d30a413e6",
+                        "audio_description": "5ef15cb99b6f6f0d30a413e5",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 16.646244,
+                        "end_time": 22.126153297052156,
+                        "duration": 5.479909297052155,
+                        "file_name": "j4vo5y0eHnA_5ef15d5e9b6f6f0d30a413e8.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/j4vo5y0eHnA",
+                        "created_at": 20200623013942,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5ef15d968b60190d32ef4449",
+                        "video": "5ef15cb99b6f6f0d30a413e6",
+                        "audio_description": "5ef15cb99b6f6f0d30a413e5",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 72.09061363636363,
+                        "end_time": 72.09061363636363,
+                        "duration": 5.572789115646258,
+                        "file_name": "j4vo5y0eHnA_5ef15d968b60190d32ef4449.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/j4vo5y0eHnA",
+                        "created_at": 20200623014038,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5ef15cb99b6f6f0d30a413e5",
+                "video": "5ef15cb99b6f6f0d30a413e6",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "59c25b2ec6c4802622d9c1bf",
+                    "email": "rgman1995@gmail.com",
+                    "name": "Ryan G",
+                    "given_name": "Ryan",
+                    "picture": "https://lh3.googleusercontent.com/-NxEEiJBaock/AAAAAAAAAAI/AAAAAAAAAc0/5fcpjk_lXKY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113561788356507984833",
+                    "last_login": 20201230202355,
+                    "token": "27b561de1a2557461b6807ff8a71622302ac468380f084bd313e4b4fc0a8dc39",
+                    "__v": 0,
+                    "updated_at": 20201230202355,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200623013657,
+                "updated_at": 20200629112133,
+                "notes": "At a gymnastics birthday party, a group of people put a parachute over their heads, creating a giant mushroom shape.\n\nOnce inside the parachute, the gymnastics instructor tells the birthday boy to stand in the middle. \n\nThe group moves closer as the parachute shakes a little.",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {
+                    "7": 1
+                }
+            }
+        ],
+        "tags": [
+            "Aidan",
+            "4th",
+            "birthday",
+            "mushroom",
+            "parachute"
+        ],
+        "custom_tags": [],
+        "_id": "5ef15cb99b6f6f0d30a413e6",
+        "title": "Aidan's 4th Birthday: Mushroom",
+        "description": "So fun. We made a mushroom out of the parachute and Aidan got to stand in the middle.",
+        "youtube_id": "j4vo5y0eHnA",
+        "created_at": 20200623013657,
+        "updated_at": 20200623014038,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 82
+    }
+}

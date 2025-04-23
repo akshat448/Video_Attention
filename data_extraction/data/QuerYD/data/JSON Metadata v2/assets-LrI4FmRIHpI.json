@@ -1,0 +1,99 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7fea1d15c8ca3ccf56d712",
+                        "video": "5d7fe9fa8302113cc4be5053",
+                        "audio_description": "5d7fe9fa8302113cc4be5052",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 22.784,
+                        "duration": 22.784,
+                        "file_name": "LrI4FmRIHpI_5d7fea1d15c8ca3ccf56d712.wav",
+                        "file_size_bytes": 4374572,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LrI4FmRIHpI",
+                        "created_at": 20190916200133,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51952d9a8b1f3b420811cd",
+                                "sentence": " Cooper students train and failed tax rates. Agricultural studies, no matter your career goals, a culture studies will prepare you",
+                                "start_time": 1.32,
+                                "end_time": 7.71
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b420811cc",
+                                "sentence": " students in cap of chapter tax rates careers graduates can be prepared to work in commercial and family farming, farm supply landscaping, much more",
+                                "start_time": 7.71,
+                                "end_time": 14.83
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b420811cb",
+                                "sentence": " students sent by a tractor tax rates, like the program earning associate degree in 16 months,",
+                                "start_time": 14.83,
+                                "end_time": 19.63
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b420811ca",
+                                "sentence": " students walk across campus text reads. You've got this.",
+                                "start_time": 19.66,
+                                "end_time": 22.64
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7fe9fa8302113cc4be5052",
+                "video": "5d7fe9fa8302113cc4be5053",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190916200058,
+                "updated_at": 20190916200058,
+                "notes": "Group of students stand in field\r\nText reads:\r\nAgricultural Studies\r\nNo matter your career goals, agriculture studies will prepare you. \r\n\r\nStudents sit in cab of tractor\r\nText reads:\r\nCareers\r\nGraduates can be prepared to work in commercial and family farming, farm supply, landscaping and much more!\r\n\r\nStudents stand by tractor\r\nText reads:\r\nLength of program\r\nEarn an associate degree in 16 months\r\n\r\nStudents walk across campus\r\nText reads:\r\nYou've got this",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Agricultural Studies",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5d7fe9fa8302113cc4be5053",
+        "title": "Agricultural Studies",
+        "description": "Information on the Agricultural Studies program.",
+        "youtube_id": "LrI4FmRIHpI",
+        "created_at": 20190916200058,
+        "updated_at": 20190916200133,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

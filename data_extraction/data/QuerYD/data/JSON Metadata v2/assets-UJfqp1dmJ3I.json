@@ -1,0 +1,979 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bec62abaf05527dd329fd4b",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5bec62abaf05527dd329fd4c",
+                        "user": "5bec5d4255b9a27dc8dc84d1",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 2.6187521468658446,
+                        "end_time": 15.589418813532511,
+                        "duration": 12.970666666666666,
+                        "file_name": "UJfqp1dmJ3I_5bec62abaf05527dd329fd4b.wav",
+                        "file_size_bytes": 2490412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20181114180011,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194b0b8b0287abc9cae7cf",
+                                "sentence": " Various different breakfast. Social",
+                                "start_time": 1.29,
+                                "end_time": 3.32
+                            },
+                            {
+                                "_id": "5e194b0b8b0287abc9cae7ce",
+                                "sentence": " fun is being shown.",
+                                "start_time": 4.76,
+                                "end_time": 6.35
+                            },
+                            {
+                                "_id": "5e194b0b8b0287abc9cae7cd",
+                                "sentence": " Three eggs, sir,",
+                                "start_time": 6.6,
+                                "end_time": 7.9
+                            },
+                            {
+                                "_id": "5e194b0b8b0287abc9cae7cc",
+                                "sentence": " being cracked into a bowl.",
+                                "start_time": 9.25,
+                                "end_time": 11.32
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bec62abaf05527dd329fd4c",
+                "video": "5bec62abaf05527dd329fd4d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bec5d4255b9a27dc8dc84d1",
+                    "email": "sis316@nyu.edu",
+                    "name": "Shahriar Islam Sadi",
+                    "given_name": "Shahriar Islam",
+                    "picture": "https://lh6.googleusercontent.com/-2hIWnxhtD-k/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-hX-qMGB95xHD3dmJuOj6Rm3tk4Ig/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111355882688331721998",
+                    "last_login": 20181114173706,
+                    "token": "e90c6fc213d6900c7227696224d3d6fc49763b3fc78d3b62d50422e7fe17d0fc",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20181114180011,
+                "updated_at": 20181114180011,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c3bfd865d6e4004fe2d03e4",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 3.436553287981859,
+                        "duration": 3.436553287981859,
+                        "file_name": "UJfqp1dmJ3I_5c3bfd865d6e4004fe2d03e4.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114030958,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b53ca",
+                                "sentence": " Top five tasty breakfast recipes.",
+                                "start_time": 0.37,
+                                "end_time": 3.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfd925d6e4004fe2d03e5",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 3.455067,
+                        "end_time": 10.328173575963719,
+                        "duration": 6.873106575963718,
+                        "file_name": "UJfqp1dmJ3I_5c3bfd925d6e4004fe2d03e5.wav",
+                        "file_size_bytes": 1212460,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031010,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f67",
+                                "sentence": " How to make a super fluffy omelette,",
+                                "start_time": 0.13,
+                                "end_time": 2.34
+                            },
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f66",
+                                "sentence": " separate three egg yolks and five egg whites into two separate bowls.",
+                                "start_time": 2.53,
+                                "end_time": 6.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfdac792ed604f8cd7119",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 10.279222,
+                        "end_time": 22.260718598639457,
+                        "duration": 11.981496598639456,
+                        "file_name": "UJfqp1dmJ3I_5c3bfdac792ed604f8cd7119.wav",
+                        "file_size_bytes": 2113580,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031036,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f81",
+                                "sentence": " Whisk the egg yolks until a smooth, creamy and semi thick consistency appears, and then set aside.",
+                                "start_time": 0.08,
+                                "end_time": 6.42
+                            },
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f80",
+                                "sentence": " Next, add the egg whites into separate bowl and whisk them until they form soft peaks.",
+                                "start_time": 6.55,
+                                "end_time": 11.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfdcd792ed604f8cd711a",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 22.264983,
+                        "end_time": 39.72638889569161,
+                        "duration": 17.46140589569161,
+                        "file_name": "UJfqp1dmJ3I_5c3bfdcd792ed604f8cd711a.wav",
+                        "file_size_bytes": 3080236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031109,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3ff9",
+                                "sentence": " Add the egg yolks to the fluffy egg whites and gently fold them together with a rubber spatula until combined.",
+                                "start_time": 0.7,
+                                "end_time": 7.39
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3ff8",
+                                "sentence": " Then pour the mixture into a buttered non sick frying pan on low heat, folding the edges up and occasionally adding a sliver of butter.",
+                                "start_time": 7.74,
+                                "end_time": 16.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfde45d6e4004fe2d03e6",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 49.283108,
+                        "end_time": 55.59893566439909,
+                        "duration": 6.315827664399093,
+                        "file_name": "UJfqp1dmJ3I_5c3bfde45d6e4004fe2d03e6.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031132,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fd1",
+                                "sentence": " Next, cover up the pan for five minutes. And after add salt and pepper to taste.",
+                                "start_time": 0.23,
+                                "end_time": 5.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfdf95d6e4004fe2d03e7",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 65.6946,
+                        "end_time": 69.40979274376417,
+                        "duration": 3.7151927437641725,
+                        "file_name": "UJfqp1dmJ3I_5c3bfdf95d6e4004fe2d03e7.wav",
+                        "file_size_bytes": 655404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031153,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143658934733259b5457",
+                                "sentence": " Finally, serve on a plate with chives.",
+                                "start_time": 0.27,
+                                "end_time": 3.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfe155d6e4004fe2d03e8",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 74.771801,
+                        "end_time": 85.36010031972789,
+                        "duration": 10.588299319727891,
+                        "file_name": "UJfqp1dmJ3I_5c3bfe155d6e4004fe2d03e8.wav",
+                        "file_size_bytes": 1867820,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031221,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3f88",
+                                "sentence": " How to make perfect fluffy pancakes",
+                                "start_time": 0.13,
+                                "end_time": 2.8
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3f87",
+                                "sentence": " in a large bowl AD for shifted cups of flour, four tablespoons of baking powder and whisk them together.",
+                                "start_time": 2.84,
+                                "end_time": 10.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfe325d6e4004fe2d03e9",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 85.404449,
+                        "end_time": 102.21569616553288,
+                        "duration": 16.81124716553288,
+                        "file_name": "UJfqp1dmJ3I_5c3bfe325d6e4004fe2d03e9.wav",
+                        "file_size_bytes": 2965548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031250,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f5a",
+                                "sentence": " Next, add three egg yolks and three 4th cup of melted butter to four cups of warm milk in a small bowl and whisk it together.",
+                                "start_time": 0.6,
+                                "end_time": 8.59
+                            },
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f59",
+                                "sentence": " Then in another bowl with an electric mixer,",
+                                "start_time": 8.81,
+                                "end_time": 11.73
+                            },
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f58",
+                                "sentence": " beat four eggs, egg whites until they form stiff peaks, and then set aside.",
+                                "start_time": 11.73,
+                                "end_time": 16.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfe4f792ed604f8cd711b",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 102.257603,
+                        "end_time": 115.91093633333334,
+                        "duration": 13.653333333333334,
+                        "file_name": "UJfqp1dmJ3I_5c3bfe4f792ed604f8cd711b.wav",
+                        "file_size_bytes": 2408492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031319,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d4005",
+                                "sentence": " Next, add the egg mixture into the flour mixture, and whisk together until well combined.",
+                                "start_time": 0.22,
+                                "end_time": 6.05
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d4004",
+                                "sentence": " Then add the fluffy egg whites to the batter, and fold together gently until well combined.",
+                                "start_time": 6.44,
+                                "end_time": 12.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfe6f792ed604f8cd711c",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 115.892102,
+                        "end_time": 126.38752150113378,
+                        "duration": 10.495419501133787,
+                        "file_name": "UJfqp1dmJ3I_5c3bfe6f792ed604f8cd711c.wav",
+                        "file_size_bytes": 1851436,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031351,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d400a",
+                                "sentence": " Next, with the measuring cup,",
+                                "start_time": 0.63,
+                                "end_time": 2.71
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d4009",
+                                "sentence": " scoop about 1.5 cups of batter into a very small pan and cover it while cooking on low heat.",
+                                "start_time": 2.82,
+                                "end_time": 9.45
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfec35d6e4004fe2d03ea",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 130.39772727272728,
+                        "end_time": 139.5928293135436,
+                        "duration": 9.195102040816327,
+                        "file_name": "UJfqp1dmJ3I_5c3bfec35d6e4004fe2d03ea.wav",
+                        "file_size_bytes": 1622060,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031515,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fb5",
+                                "sentence": " Use a toothpick to measure whether it is done cooking or not.",
+                                "start_time": 0,
+                                "end_time": 3.45
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fb4",
+                                "sentence": " If there is liquid batter still on the toothpick after taking it out, it still needs to cook a little longer.",
+                                "start_time": 3.51,
+                                "end_time": 9.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfee25d6e4004fe2d03eb",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 139.416119,
+                        "end_time": 143.5957108367347,
+                        "duration": 4.179591836734694,
+                        "file_name": "UJfqp1dmJ3I_5c3bfee25d6e4004fe2d03eb.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031546,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b53aa",
+                                "sentence": " Finally serve the pancakes with him. Fruit or syrup?",
+                                "start_time": 0.1,
+                                "end_time": 3.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfef4792ed604f8cd711d",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 143.451234,
+                        "end_time": 151.43889839909298,
+                        "duration": 7.987664399092971,
+                        "file_name": "UJfqp1dmJ3I_5c3bfef4792ed604f8cd711d.wav",
+                        "file_size_bytes": 1409068,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031604,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3faa",
+                                "sentence": " How to make breakfast bombs,",
+                                "start_time": 0.44,
+                                "end_time": 2.76
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fa9",
+                                "sentence": " cut four strips of bacon into bite sized pieces and cook them in a pan.",
+                                "start_time": 2.76,
+                                "end_time": 7.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bff125d6e4004fe2d03ec",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 151.436427,
+                        "end_time": 168.5263136213152,
+                        "duration": 17.08988662131519,
+                        "file_name": "UJfqp1dmJ3I_5c3bff125d6e4004fe2d03ec.wav",
+                        "file_size_bytes": 3014700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031634,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fa3",
+                                "sentence": " Use tongs to take the bacon pieces out of the pan, and using the left of her biggest baking grease from the same pan, add to mince cloves of garlic.",
+                                "start_time": 0.21,
+                                "end_time": 10.11
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fa2",
+                                "sentence": " After cooking the garlic. For about a minute, add eight beaten eggs and a quarter cup of chopped scallions into the pan.",
+                                "start_time": 10.18,
+                                "end_time": 16.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bff375d6e4004fe2d03ed",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 178.970937,
+                        "end_time": 190.2093950498866,
+                        "duration": 11.23845804988662,
+                        "file_name": "UJfqp1dmJ3I_5c3bff375d6e4004fe2d03ed.wav",
+                        "file_size_bytes": 1982508,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031711,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fd4",
+                                "sentence": " Fold the eggs together as they cook, and add salt and pepper to taste.",
+                                "start_time": 0.39,
+                                "end_time": 4.81
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fd3",
+                                "sentence": " Next, shred six potatoes and use a cheese cloth to squeeze out all of the water from them.",
+                                "start_time": 4.96,
+                                "end_time": 11.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bff575d6e4004fe2d03ee",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 197.646022,
+                        "end_time": 206.8411240408163,
+                        "duration": 9.195102040816327,
+                        "file_name": "UJfqp1dmJ3I_5c3bff575d6e4004fe2d03ee.wav",
+                        "file_size_bytes": 1622060,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031743,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f55",
+                                "sentence": " Then add the potatoes and egg three 4th cup of flour, a half cup of cheddar cheese, and mix it together, adding salt and pepper to taste.",
+                                "start_time": 0.06,
+                                "end_time": 8.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bff965d6e4004fe2d03ef",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 210.534879,
+                        "end_time": 240.53506040589568,
+                        "duration": 30.00018140589569,
+                        "file_name": "UJfqp1dmJ3I_5c3bff965d6e4004fe2d03ef.wav",
+                        "file_size_bytes": 5292076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031846,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fe5",
+                                "sentence": " Cover a cup or a small bowl in plastic wrap, then add the potato mixture as the crust,",
+                                "start_time": 0.22,
+                                "end_time": 5.87
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fe4",
+                                "sentence": " then fill in the inside with some cheddar cheese, some of the scrambled eggs, and some of the bacon. And to Top it all off, some of the cheese,",
+                                "start_time": 5.87,
+                                "end_time": 13.78
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fe3",
+                                "sentence": " then use a plastic wrap to fashion the whole thing into a ball. And it is easy to uh fashion it into a ball",
+                                "start_time": 13.91,
+                                "end_time": 21.46
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fe2",
+                                "sentence": " bye,",
+                                "start_time": 21.46,
+                                "end_time": 22.31
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fe1",
+                                "sentence": " twisting the uh corners together",
+                                "start_time": 22.45,
+                                "end_time": 25.74
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fe0",
+                                "sentence": " and forming a bowl of the potato.",
+                                "start_time": 25.74,
+                                "end_time": 29.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bffad5d6e4004fe2d03f0",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 240.350093,
+                        "end_time": 247.59471885034012,
+                        "duration": 7.244625850340136,
+                        "file_name": "UJfqp1dmJ3I_5c3bffad5d6e4004fe2d03f0.wav",
+                        "file_size_bytes": 1277996,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031909,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d4002",
+                                "sentence": " Repeat this step above until all of the ingredients run out,",
+                                "start_time": 0.23,
+                                "end_time": 3.7
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d4001",
+                                "sentence": " and then chill the balls in the fridge for at least 20 minutes.",
+                                "start_time": 3.7,
+                                "end_time": 7.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bffc35d6e4004fe2d03f1",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 247.373465,
+                        "end_time": 260.4695194217687,
+                        "duration": 13.096054421768708,
+                        "file_name": "UJfqp1dmJ3I_5c3bffc35d6e4004fe2d03f1.wav",
+                        "file_size_bytes": 2310188,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114031931,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fce",
+                                "sentence": " Then add the balls onto an oven sheet covered by posh and paper, and cover them with egg wash. Bake them at 375 degrees fahrenheit for 35 minutes,",
+                                "start_time": 0.21,
+                                "end_time": 9.84
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fcd",
+                                "sentence": " and serve with some ketchup on the side.",
+                                "start_time": 9.84,
+                                "end_time": 12.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bffe1792ed604f8cd711e",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 260.497582,
+                        "end_time": 277.1230695283447,
+                        "duration": 16.62548752834467,
+                        "file_name": "UJfqp1dmJ3I_5c3bffe1792ed604f8cd711e.wav",
+                        "file_size_bytes": 2932780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114032001,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fcc",
+                                "sentence": " How to make a loaded egg breakfast roll at two dozen eggs, a half cup of milk, and a teaspoon of salt and pepper each, and whisk it together",
+                                "start_time": 0.13,
+                                "end_time": 8.16
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fcb",
+                                "sentence": " on a grease sheet pan. Ladle the egg mixture onto it until it is full, and bake it for 350 degrees fahrenheit for 20 minutes.",
+                                "start_time": 8.16,
+                                "end_time": 16.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bffee5d6e4004fe2d03f2",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 277.155034,
+                        "end_time": 284.30678003174603,
+                        "duration": 7.151746031746032,
+                        "file_name": "UJfqp1dmJ3I_5c3bffee5d6e4004fe2d03f2.wav",
+                        "file_size_bytes": 1261612,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114032014,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f6ff",
+                                "sentence": " Layer spinach and sheets of cheese and ham and bacon onto the egg and roll the whole thing up.",
+                                "start_time": 0.05,
+                                "end_time": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bfffd5d6e4004fe2d03f3",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 284.3337,
+                        "end_time": 293.43592222222225,
+                        "duration": 9.102222222222222,
+                        "file_name": "UJfqp1dmJ3I_5c3bfffd5d6e4004fe2d03f3.wav",
+                        "file_size_bytes": 1605676,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114032029,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f789",
+                                "sentence": " Cover the surface of the rolled egg with parchment paper, and bake it for 350 degrees fahrenheit for 20 minutes.",
+                                "start_time": 0.6,
+                                "end_time": 8.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3c001f792ed604f8cd711f",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 293.436409,
+                        "end_time": 303.6531890453515,
+                        "duration": 10.216780045351474,
+                        "file_name": "UJfqp1dmJ3I_5c3c001f792ed604f8cd711f.wav",
+                        "file_size_bytes": 1802284,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114032103,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f73f",
+                                "sentence": " To serve, you can either cut off a slice of the roll and eat it, or you can cut off a slice of the roll and sandra ship between two slices of a bagel.",
+                                "start_time": 0.13,
+                                "end_time": 8.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3c0041792ed604f8cd7120",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 307.842058,
+                        "end_time": 323.63162716099777,
+                        "duration": 15.789569160997733,
+                        "file_name": "UJfqp1dmJ3I_5c3c0041792ed604f8cd7120.wav",
+                        "file_size_bytes": 2785324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114032137,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f754",
+                                "sentence": " Lastly, how to make crunchy choro French toast sticks",
+                                "start_time": 0.29,
+                                "end_time": 4.77
+                            },
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f753",
+                                "sentence": " con entire brioche bread into four slices horizontally. Then cut those loves into halves,",
+                                "start_time": 5.32,
+                                "end_time": 11.9
+                            },
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f752",
+                                "sentence": " making a bunch of sticks.",
+                                "start_time": 11.9,
+                                "end_time": 14.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3c0069792ed604f8cd7121",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 334.852868,
+                        "end_time": 352.3142738956916,
+                        "duration": 17.46140589569161,
+                        "file_name": "UJfqp1dmJ3I_5c3c0069792ed604f8cd7121.wav",
+                        "file_size_bytes": 3080236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114032217,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f75b",
+                                "sentence": " Add a bunch of corn flakes into a large zip up blagg, and crush them with a rolling pin.",
+                                "start_time": 0.39,
+                                "end_time": 5.55
+                            },
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f75a",
+                                "sentence": " Then in a bowl at two teaspoons of cinnamon and brown sugar, each one teaspoon of vanilla,",
+                                "start_time": 5.69,
+                                "end_time": 11.66
+                            },
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f759",
+                                "sentence": " three tablespoons of milk, and three eggs, and then whisk them all together.",
+                                "start_time": 11.66,
+                                "end_time": 16.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3c00865d6e4004fe2d03f4",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 352.282706,
+                        "end_time": 371.5088284489796,
+                        "duration": 19.22612244897959,
+                        "file_name": "UJfqp1dmJ3I_5c3c00865d6e4004fe2d03f4.wav",
+                        "file_size_bytes": 3391532,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114032246,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f715",
+                                "sentence": " Then dunk a bread piece in the liquid mixture, and then cover it in the corn flake crumbs, then repeat it for all other bread pieces as well.",
+                                "start_time": 0.28,
+                                "end_time": 8.35
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f714",
+                                "sentence": " Finally, in a well oiled pan, fry the bread pieces on all sides, and after taking it out, coat in two cups sugar and some cinnamon to taste.",
+                                "start_time": 8.76,
+                                "end_time": 18.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3c008c792ed604f8cd7122",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 371.533186,
+                        "end_time": 374.50534019501134,
+                        "duration": 2.972154195011338,
+                        "file_name": "UJfqp1dmJ3I_5c3c008c792ed604f8cd7122.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114032252,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f7c",
+                                "sentence": " Finally, serve it all on a plate.",
+                                "start_time": 0.24,
+                                "end_time": 2.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3c009e5d6e4004fe2d03f5",
+                        "video": "5bec62abaf05527dd329fd4d",
+                        "audio_description": "5c3bf1a3792ed604f8cd7118",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 391.6908719961853,
+                        "end_time": 394.1986270982261,
+                        "duration": 2.507755102040816,
+                        "file_name": "UJfqp1dmJ3I_5c3c009e5d6e4004fe2d03f5.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UJfqp1dmJ3I",
+                        "created_at": 20190114032310,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fb6",
+                                "sentence": " Tc kitchenware.",
+                                "start_time": 0.67,
+                                "end_time": 2.26
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c3bf1a3792ed604f8cd7118",
+                "video": "5bec62abaf05527dd329fd4d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a9c74ced50e4355f988497b",
+                    "email": "gunnyahhh@gmail.com",
+                    "name": "Joseph Lee",
+                    "given_name": "Joseph",
+                    "picture": "https://lh5.googleusercontent.com/-6EqPf4R6QZQ/AAAAAAAAAAI/AAAAAAAAACI/Pzk8eL-0-HI/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113785133396582188569",
+                    "last_login": 20200615212725,
+                    "token": "58c63a03ad29dab58af38c6bcf8f370a86885d7de0bdbe86753bab254a248e0b",
+                    "__v": 0,
+                    "updated_at": 20200615212725,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190114021915,
+                "updated_at": 20190530231852,
+                "notes": "1) top five tasty breakfast recipes\n\n2) how to make a super fluffy omelet\n- separate 3 egg yolks and 5 egg whites into two separate bowls\n- whisk the egg yolks until a smooth creamy and semi-thick consistency appears and then set aside\n- next add the egg whites into a separate bowl and whisk them until they form soft peaks\n- add the egg yolks to the fluffy egg whites and gently fold them together with a rubber spatula until combined \n- then pour the mixture into a buttered nonstick frying pan on low heat folding the edges up and occasionally adding a sliver of butter\n- next cover up the pan for 5 minutes and after, add salt and pepper to taste\n- finally, serve on a plate with chives\n\n2) how to make the perfect fluffy pancake\n- in a large bowl, add four sifted cups of flour, four tablespoons of baking powder, and whisk together\n- next, add three egg yolks and3/4 cups of melted butter to 4 cups of warm milk in a small bowl, and whisk it together\n- then in another bowl, with an electric mixer, beat 4 egg whites until they form stiff peaks and then set aside\n- next, add the egg yolk mixture into the flour mixture, and whisk together until well combined\n- add the fluffy egg whites to the batter and fold together gently\n- with a measuring cup for solids, pour about 1 and a half cups of batter into a very small pan and cover it while cooking on low heat\n- use a toothpick to measure whether it is done or not \n- finally, serve with some fruits and syrup\n\n3) how to make breakfast bombs\n- cut four strips of bacon into bite-sized pieces and cook them in a pan\n- use tongs to take them out of the pan, and using the leftover bacon grease, add 2 minced cloves of garlic \n- after cooking the garlic for about a minute, add 8 beaten eggs and a quarter cup of chopped scallions into the pan\n- fold the eggs together as they cook and add salt and pepper to taste\n- next, shred 6 potatoes and use a cheesecloth to squeeze out all the water from them\n- then add the potatoes, and egg, 3/4 cup of flour, a half cup of cheddar cheese, and mix it together, adding salt and pepper to taste\n- cover a cup or a small bowl in plastic wrap and add the potato mixture as the crust, then fill the inside with some cheddar cheese, some of the scrambled eggs, and some bacon, then use the plastic wrap to fashion the whole thing into a ball \n- repeat the step above until all of the ingredients run out, and then chill the balls in the fridge for 20 minutes\n- then add the balls onto an oven sheet covered by parchment paper, and cover them with egg wash\n- bake at 375 degrees fahrenheit for 35-35 minutes and serve with some ketchup on the side\n\n4) how to make a loaded egg breakfast roll\n- add 2 dozen eggs, a half cup of milk, and a teaspoon of salt and pepper each, and whisk together\n- on a greased sheet pan, ladle the egg mixture onto it until it is full and bake it for 350 degrees fahrenheit for 20 minutes\n- layer spinach and sheets of cheese and ham and bacon onto the egg and roll the whole thing up\n- cover the surface of the rolled egg with parchment paper and bake it for 350 degrees fahrenheit for 20 minutes\n- cut off a slice of the roll and sandwich it between two slices of a bagel\n\n5) how to make crunchy churro french toast sticks\n- cut an entire brioche bread into four slices, horizontally then cut those loaves into halves\n- add a bunch of corn flakes into a large ziploc bag and crush them with a rolling pin\n- then in a bowl, add 2 teaspoons of cinnamon and brown sugar each, 1 teaspoon of vanilla, 3 tablespoons of milk, and 3 eggs,  and then whisk them all together\n- dunk a bread piece in the liquid mixture and then cover it in the corn flake crumbs, then repeat for all other bread pieces as well\n- then in a well oiled pan, fry the bread pieces on all sides and after taking it out, coat in two cups of sugar and some cinnamon \n- finally serve all on a plate ",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 10,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "FSC"
+        ],
+        "custom_tags": [],
+        "_id": "5bec62abaf05527dd329fd4d",
+        "title": "Top 5 Tasty Breakfast Recipes",
+        "description": "Get the recipes! \n- https://tasty.co/recipe/super-fluffy-omelet\n- https://tasty.co/recipe/fluffy-perfect-pancakes\n- https://tasty.co/recipe/breakfast-bombs\n- https://tasty.co/recipe/crunchy-churro-french-toast-sticks\n- https://tasty.co/recipe/epic-egg-breakfast-roll\n\nShop the Tasty kitchenware collection here: http://bit.ly/2IooLS4\n\nCheck us out on Facebook! - facebook.com/buzzfeedtasty\n\nCredits: https://www.buzzfeed.com/bfmp/videos/64329\n\nMUSIC\n\nLicensed via Audio Network",
+        "youtube_id": "UJfqp1dmJ3I",
+        "created_at": 20181114180011,
+        "updated_at": 20190114032310,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Howto & Style",
+        "category_id": "26",
+        "duration": 394
+    }
+}

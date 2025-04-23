@@ -1,0 +1,489 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "593d75b853f02d7a0fdd3aa6",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0.510354093460083,
+                        "end_time": 0.510354093460083,
+                        "duration": 19.882666666666665,
+                        "file_name": "ZmdOe1hjW-s_593d75b853f02d7a0fdd3aa6.wav",
+                        "file_size_bytes": 3817516,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611165416,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e160277e2b8b81d41341ae2",
+                                "sentence": " Bert and ernie are in the woods. On a snowy winter day. They are looking at a snowman bird. A yellow puppet with an orange nose is wearing a navy jacket, knit scarf, hat and mittens.",
+                                "start_time": 0.77,
+                                "end_time": 13.05
+                            },
+                            {
+                                "_id": "5e160277e2b8b81d41341ae1",
+                                "sentence": " Ernie, at an puppet with a red nose, is wearing a navy jacket, yellow hat and scarf.",
+                                "start_time": 13.05,
+                                "end_time": 19.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d763f53f02d7a0fdd3aa9",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 9.032935940872193,
+                        "end_time": 9.032935940872193,
+                        "duration": 9.728,
+                        "file_name": "ZmdOe1hjW-s_593d763f53f02d7a0fdd3aa9.wav",
+                        "file_size_bytes": 1867820,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611165631,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e160216e4579d1d3ee2665b",
+                                "sentence": " The snowman has two arms made from sticks,",
+                                "start_time": 1.31,
+                                "end_time": 4.72
+                            },
+                            {
+                                "_id": "5e160216e4579d1d3ee2665a",
+                                "sentence": " two round black eyes, a carrot for a nose, and a mouth.",
+                                "start_time": 4.72,
+                                "end_time": 9.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d76f353f02d7a0fdd3aab",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Bert walks away",
+                        "playback_type": "extended",
+                        "start_time": 14.853424969482422,
+                        "end_time": 14.853424969482422,
+                        "duration": 4.693333333333333,
+                        "file_name": "ZmdOe1hjW-s_593d76f353f02d7a0fdd3aab.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611165931,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1602dda98d3b1d40bd5a8a",
+                                "sentence": " Bert turns around and starts to walk away from ernie.",
+                                "start_time": 1.11,
+                                "end_time": 4.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d773353f02d7a0fdd3aac",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Bert looks back",
+                        "playback_type": "extended",
+                        "start_time": 16.005635049591064,
+                        "end_time": 16.005635049591064,
+                        "duration": 3.328,
+                        "file_name": "ZmdOe1hjW-s_593d773353f02d7a0fdd3aac.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611170035,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16033fe4579d1d3ee26664",
+                                "sentence": " Bert looks back at ernie.",
+                                "start_time": 1.48,
+                                "end_time": 3.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d77f253f02d7a0fdd3aae",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Ernie walks towards Bert",
+                        "playback_type": "extended",
+                        "start_time": 65.17963012016297,
+                        "end_time": 65.17963012016297,
+                        "duration": 6.656,
+                        "file_name": "ZmdOe1hjW-s_593d77f253f02d7a0fdd3aae.wav",
+                        "file_size_bytes": 1277996,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611170346,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16020ee4579d1d3ee26625",
+                                "sentence": " Ernie walks towards burt and puts his left hand on bird's right shoulder.",
+                                "start_time": 1.26,
+                                "end_time": 6.61
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d788e53f02d7a0fdd3ab1",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Ernie walks towards the snowman",
+                        "playback_type": "extended",
+                        "start_time": 82.93284904768372,
+                        "end_time": 82.93284904768372,
+                        "duration": 4.949333333333334,
+                        "file_name": "ZmdOe1hjW-s_593d788e53f02d7a0fdd3ab1.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611170622,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e160277e2b8b81d41341af9",
+                                "sentence": " Ernie walks towards the snowman and touches it.",
+                                "start_time": 1,
+                                "end_time": 4.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d78e753f02d7a0fdd3ab2",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Bert walks away",
+                        "playback_type": "extended",
+                        "start_time": 108.64449504196168,
+                        "end_time": 108.64449504196168,
+                        "duration": 5.12,
+                        "file_name": "ZmdOe1hjW-s_593d78e753f02d7a0fdd3ab2.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611170751,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e160279e2b8b81d41341b3e",
+                                "sentence": " Bert walks away. Ernie follows and then stops.",
+                                "start_time": 1.01,
+                                "end_time": 5.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d793553f02d7a0fdd3ab3",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Ernie hugs snowman",
+                        "playback_type": "extended",
+                        "start_time": 114.54027182643128,
+                        "end_time": 114.54027182643128,
+                        "duration": 4.522666666666667,
+                        "file_name": "ZmdOe1hjW-s_593d793553f02d7a0fdd3ab3.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611170909,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1602dca98d3b1d40bd5a86",
+                                "sentence": " Ernie goes back to the snowman and hugs it.",
+                                "start_time": 1.48,
+                                "end_time": 4.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d796753f02d7a0fdd3ab4",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Bert walks back",
+                        "playback_type": "extended",
+                        "start_time": 119.66631017356873,
+                        "end_time": 119.66631017356873,
+                        "duration": 2.986666666666667,
+                        "file_name": "ZmdOe1hjW-s_593d796753f02d7a0fdd3ab4.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611170959,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1602dba98d3b1d40bd5a77",
+                                "sentence": " Bert walks back.",
+                                "start_time": 1.19,
+                                "end_time": 2.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d79ab53f02d7a0fdd3ab5",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Takes hat",
+                        "playback_type": "extended",
+                        "start_time": 152.2701020782013,
+                        "end_time": 152.2701020782013,
+                        "duration": 5.034666666666666,
+                        "file_name": "ZmdOe1hjW-s_593d79ab53f02d7a0fdd3ab5.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611171107,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f661b81b2f1c5a36af85",
+                                "sentence": " Ernie, take spurts hat and puts it on the snowman.",
+                                "start_time": 1.11,
+                                "end_time": 4.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d7a5b53f02d7a0fdd3ab7",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Takes Scarf",
+                        "playback_type": "extended",
+                        "start_time": 165.7873308970032,
+                        "end_time": 165.7873308970032,
+                        "duration": 8.448,
+                        "file_name": "ZmdOe1hjW-s_593d7a5b53f02d7a0fdd3ab7.wav",
+                        "file_size_bytes": 1622060,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611171403,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e160277e2b8b81d41341b11",
+                                "sentence": " As ernie take spurts, scarf off. Bernie spins around. Ernie puts the scarf on the snowman.",
+                                "start_time": 0.7,
+                                "end_time": 8.41
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d7a9053f02d7a0fdd3ab8",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Shivers",
+                        "playback_type": "inline",
+                        "start_time": 169.61679388746643,
+                        "end_time": 171.75012722079975,
+                        "duration": 2.1333333333333333,
+                        "file_name": "ZmdOe1hjW-s_593d7a9053f02d7a0fdd3ab8.wav",
+                        "file_size_bytes": 409644,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611171456,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f660b81b2f1c5a36af70",
+                                "sentence": " Bert shivers,",
+                                "start_time": 0.71,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d7ac853f02d7a0fdd3ab9",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Ernie walks away",
+                        "playback_type": "inline",
+                        "start_time": 178.70355002861024,
+                        "end_time": 180.75155002861024,
+                        "duration": 2.048,
+                        "file_name": "ZmdOe1hjW-s_593d7ac853f02d7a0fdd3ab9.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611171552,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1602dda98d3b1d40bd5a90",
+                                "sentence": " Ernie walks away.",
+                                "start_time": 0.55,
+                                "end_time": 2.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d7b0653f02d7a0fdd3aba",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Ernie walks back",
+                        "playback_type": "extended",
+                        "start_time": 182.84111603242494,
+                        "end_time": 182.84111603242494,
+                        "duration": 3.4133333333333336,
+                        "file_name": "ZmdOe1hjW-s_593d7b0653f02d7a0fdd3aba.wav",
+                        "file_size_bytes": 655404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611171654,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1602dba98d3b1d40bd5a76",
+                                "sentence": " Ernie walks back towards burt.",
+                                "start_time": 0.78,
+                                "end_time": 3.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d7b3753f02d7a0fdd3abb",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "Walk away",
+                        "playback_type": "extended",
+                        "start_time": 190.73478892370605,
+                        "end_time": 190.73478892370605,
+                        "duration": 4.608,
+                        "file_name": "ZmdOe1hjW-s_593d7b3753f02d7a0fdd3abb.wav",
+                        "file_size_bytes": 884780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611171743,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16020de4579d1d3ee26616",
+                                "sentence": " Ernie and bert walk away.",
+                                "start_time": 1.1,
+                                "end_time": 3.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "593d7b8453f02d7a0fdd3abc",
+                        "video": "593d75b853f02d7a0fdd3aa8",
+                        "audio_description": "593d75b853f02d7a0fdd3aa7",
+                        "user": "593c2c3d53f02d7a0fdd3a76",
+                        "label": "zoom in on snowman",
+                        "playback_type": "extended",
+                        "start_time": 193.94423105340576,
+                        "end_time": 193.94423105340576,
+                        "duration": 4.522666666666667,
+                        "file_name": "ZmdOe1hjW-s_593d7b8453f02d7a0fdd3abc.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZmdOe1hjW-s",
+                        "created_at": 20170611171900,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e160277e2b8b81d41341b24",
+                                "sentence": " The camera slowly zooms in on the snowman.",
+                                "start_time": 0.67,
+                                "end_time": 4.48
+                            }
+                        ]
+                    }
+                ],
+                "_id": "593d75b853f02d7a0fdd3aa7",
+                "video": "593d75b853f02d7a0fdd3aa8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "593c2c3d53f02d7a0fdd3a76",
+                    "email": "macnishm@gmail.com",
+                    "name": "Meredith MacNish",
+                    "given_name": "Meredith",
+                    "picture": "https://lh3.googleusercontent.com/-w-fLXQEywWM/AAAAAAAAAAI/AAAAAAAAAAA/AAyYBF7CIHcfdZiM1p3RQ7s-sfsJQqMY4g/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "107106971145726165552",
+                    "last_login": 20170616193821,
+                    "token": "da1dd923caf6c2a4c8af9aade8be177754254ef40df842b86d408bd692dc2f89",
+                    "__v": 0,
+                    "updated_at": 20170616193821,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170611165416,
+                "updated_at": 20170616193839,
+                "notes": "Bert and Ernie are in the woods on a snowy winter day.  They are looking at a snowman.  Bert, a yellow puppet with an orange nose is wearing a navy jacket, knit scarf, hat and mittens.  Ernie, a tan puppet with a red nose, is wearing a navy jacket, yellow hat and a scarf.\r\nThe snowman has two arms made from sticks, two round black eyes, a carrot for a nose and a mouth.\r\nBert turns around and starts to walk away from Ernie.\r\nBert looks back at Ernie.\r\nErnie walks towards Bert and puts his left hand on Berts right shoulder.\r\nErnie walks towards the snowman and touches it.\r\nBert walks away. Ernie follows and then stops.\r\nErnie goes back to the snowman and hugs it.\r\nBert walks back.\r\nErnie takes Bert's hat and puts it on the snowman.\r\nAs Ernie takes Bert's scarf off, Bert spins around.  Ernie puts the scarf on the snowman.\r\nBert shivers.\r\nErnie walks away.\r\nErnie walks back towards Bert.\r\nThe camera slowly zooms in on the snowman.\r\n",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 9,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "sesame street",
+            "old school sesame street",
+            "classic sesame street",
+            "bert and ernie",
+            "ernie",
+            "bert",
+            "1970's",
+            "1973",
+            "cold",
+            "snowman",
+            "frosty the snowman",
+            "sesame street snowman",
+            "puppet snowman",
+            "snowman muppet",
+            "muppets christmas",
+            "seasme street christmas",
+            "winter",
+            "snow",
+            "play in the snow",
+            "how to build a snow man"
+        ],
+        "custom_tags": [],
+        "_id": "593d75b853f02d7a0fdd3aa8",
+        "title": "Sesame Street: How to Build a Snowman (with Bert and Ernie)",
+        "description": "What's your favorite thing to do when it snows? Bert and Ernie love to build a jolly old snowman. Can you build a snowman? Make sure you give him a hat and a scarf to keep him warm!\r\n\r\nSubscribe to the Sesame Street Channel here: http://www.youtube.com/subscription_center?add_user=SesameStreet\r\n \r\nFor more fun games and videos for your preschooler in a safe, child-friendly environment, visit us at http://www.sesamestreet.org\r\n \r\nSesame Street is a production of Sesame Workshop, a nonprofit educational organization. The Workshop produces Sesame Street programs, seen in over 150 countries, and other acclaimed shows, including The Electric Company.  Beyond television, the Workshop produces content for multiple media platforms on a wide range of issues including literacy and numeracy, emotional wellbeing, health and wellness, and respect and understanding.  Learn more at http://www.sesamestreet.org.",
+        "youtube_id": "ZmdOe1hjW-s",
+        "created_at": 20170611165416,
+        "updated_at": 20170611171900,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 219
+    }
+}

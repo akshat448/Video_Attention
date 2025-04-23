@@ -1,0 +1,148 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59ac700ac6c4802622d9bf7c",
+                        "video": "59ac700ac6c4802622d9bf7e",
+                        "audio_description": "59ac700ac6c4802622d9bf7d",
+                        "user": "598ab32eaacee334625b5706",
+                        "label": "penny",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 8.266303854875284,
+                        "duration": 8.266303854875284,
+                        "file_name": "ez6mZxgL1Wg_59ac700ac6c4802622d9bf7c.wav",
+                        "file_size_bytes": 1458220,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ez6mZxgL1Wg",
+                        "created_at": 20170903211138,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16020de4579d1d3ee2661f",
+                                "sentence": " A word appears in capital letters. Penny,",
+                                "start_time": 0.44,
+                                "end_time": 3.56
+                            },
+                            {
+                                "_id": "5e16020de4579d1d3ee2661e",
+                                "sentence": " our view zooms into a penny,",
+                                "start_time": 3.7,
+                                "end_time": 5.92
+                            },
+                            {
+                                "_id": "5e16020de4579d1d3ee2661d",
+                                "sentence": " laying down on concrete.",
+                                "start_time": 5.92,
+                                "end_time": 7.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59ac7114c6c4802622d9bf80",
+                        "video": "59ac700ac6c4802622d9bf7e",
+                        "audio_description": "59ac700ac6c4802622d9bf7d",
+                        "user": "598ab32eaacee334625b5706",
+                        "label": "end",
+                        "playback_type": "inline",
+                        "start_time": 9.652077,
+                        "end_time": 33.80082983446712,
+                        "duration": 24.14875283446712,
+                        "file_name": "ez6mZxgL1Wg_59ac7114c6c4802622d9bf80.wav",
+                        "file_size_bytes": 4259884,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ez6mZxgL1Wg",
+                        "created_at": 20170903211604,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f65eb81b2f1c5a36af1a",
+                                "sentence": " But penny continues to lay on concrete",
+                                "start_time": 0.54,
+                                "end_time": 3.14
+                            },
+                            {
+                                "_id": "5e15f65eb81b2f1c5a36af19",
+                                "sentence": " later. It lies on a skateboard as lenny rines it, and our view shifts to him",
+                                "start_time": 3.14,
+                                "end_time": 8.38
+                            },
+                            {
+                                "_id": "5e15f65eb81b2f1c5a36af18",
+                                "sentence": " in a logo. Jake and lenny lie down on the grass.",
+                                "start_time": 8.38,
+                                "end_time": 11.2
+                            },
+                            {
+                                "_id": "5e15f65eb81b2f1c5a36af17",
+                                "sentence": " The skateboard is attached to lens chest, a j kimmel film",
+                                "start_time": 11.2,
+                                "end_time": 15.11
+                            },
+                            {
+                                "_id": "5e15f65eb81b2f1c5a36af16",
+                                "sentence": " described for blind and visually impaired audiences by you describe descriptions written and read by Simon, right,",
+                                "start_time": 15.11,
+                                "end_time": 21.03
+                            },
+                            {
+                                "_id": "5e15f65eb81b2f1c5a36af15",
+                                "sentence": " funded by the US department of education.",
+                                "start_time": 21.03,
+                                "end_time": 23.77
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59ac700ac6c4802622d9bf7d",
+                "video": "59ac700ac6c4802622d9bf7e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "598ab32eaacee334625b5706",
+                    "email": "simonwrightisback@gmail.com",
+                    "name": "Yume Lion VHS Openings",
+                    "given_name": "Yume Lion",
+                    "picture": "https://lh5.googleusercontent.com/-odXlGPlIBH0/AAAAAAAAAAI/AAAAAAAAAHk/H2-o_U7fTa4/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116816886665962031288",
+                    "last_login": 20171221215035,
+                    "token": "3dd30653f785ae41f3974783163fc45781aab6b0315943a30d2c92fc3fed78b3",
+                    "__v": 0,
+                    "updated_at": 20171221215035,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170903211138,
+                "updated_at": 20170906183908,
+                "notes": "the penny continues to lay on concrete. later it lies on a skateboard as lenny rides it and our view shifts to him. In a logo, jake and lenny lie down on the grass. the skateboard is attached to lenny's chest. a jake kimmel film. described for blind and visually impaired audiences by you describe. Descriptions written and read by simon wright.",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59ac700ac6c4802622d9bf7e",
+        "title": "penny",
+        "description": "Enjoy!",
+        "youtube_id": "ez6mZxgL1Wg",
+        "created_at": 20170903211138,
+        "updated_at": 20170903211604,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 36
+    }
+}

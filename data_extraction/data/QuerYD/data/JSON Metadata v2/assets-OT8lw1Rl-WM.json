@@ -1,0 +1,91 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7146e13dfd851a541a",
+                        "audio_description": "58e7cf3546e13dfd851a25e1",
+                        "created_at": 20160107083453,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160107083453,
+                        "file_name": "14521844933791.wav",
+                        "start_time": 3.923,
+                        "legacy_video_id": 2432,
+                        "legacy_user_id": 3024,
+                        "label": "",
+                        "legacy_audio_clip_id": 20693,
+                        "video": "58e7cf2946e13dfd851a1d93",
+                        "end_time": 3.923,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e0",
+                        "transcript": [
+                            {
+                                "_id": "5e42be880499b0b427648111",
+                                "sentence": " An empty desk",
+                                "start_time": 0.62,
+                                "end_time": 2.06
+                            },
+                            {
+                                "_id": "5e42be880499b0b427648110",
+                                "sentence": " where a child once sat.",
+                                "start_time": 2.06,
+                                "end_time": 3.99
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25e1",
+                "status": "published",
+                "legacy_video_id": 2432,
+                "legacy_user_id": 3024,
+                "video": "58e7cf2946e13dfd851a1d93",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25e0",
+                    "name": "ICFI",
+                    "google_user_id_token": "",
+                    "created_at": 20160107083029,
+                    "updated_at": 20160331114807,
+                    "legacy_user_id": 3024,
+                    "last_login": 0,
+                    "email": "robert.vivirito@icfi.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Empty",
+            "Seat",
+            "PSA",
+            "Smaller"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d93",
+        "description": "",
+        "youtube_id": "OT8lw1Rl-WM",
+        "views": 0,
+        "created_at": 20160107083316,
+        "title": "Empty Seat PSA",
+        "legacy_video_id": 2432,
+        "updated_at": 20160107083636,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 203
+    }
+}

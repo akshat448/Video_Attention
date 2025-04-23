@@ -1,0 +1,461 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5f46e13dfd851a461f",
+                        "audio_description": "58e7cf3246e13dfd851a2450",
+                        "created_at": 20150904081703,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150904081703,
+                        "file_name": "14413798229911.wav",
+                        "start_time": 40.525,
+                        "legacy_video_id": 1433,
+                        "legacy_user_id": 2757,
+                        "label": "",
+                        "legacy_audio_clip_id": 15101,
+                        "video": "58e7cf2846e13dfd851a19ad",
+                        "end_time": 40.525,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a244f",
+                        "transcript": [
+                            {
+                                "_id": "5e14baeb4c9d4f17c41093b1",
+                                "sentence": " Lead singer is now dressed as a fox.",
+                                "start_time": 0.07,
+                                "end_time": 4.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a4620",
+                        "audio_description": "58e7cf3246e13dfd851a2450",
+                        "created_at": 20150904082209,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150904082209,
+                        "file_name": "14413801299191.wav",
+                        "start_time": 44.243,
+                        "legacy_video_id": 1433,
+                        "legacy_user_id": 2757,
+                        "label": "",
+                        "legacy_audio_clip_id": 15103,
+                        "video": "58e7cf2846e13dfd851a19ad",
+                        "end_time": 44.243,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a244f",
+                        "transcript": [
+                            {
+                                "_id": "5e14bb3d2093d217c3bb5729",
+                                "sentence": " Nighttime forest seen. Many people are dancing,",
+                                "start_time": 0.83,
+                                "end_time": 5.83
+                            },
+                            {
+                                "_id": "5e14bb3d2093d217c3bb5728",
+                                "sentence": " and the lead singer is in his fox suit.",
+                                "start_time": 5.83,
+                                "end_time": 8.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a4621",
+                        "audio_description": "58e7cf3246e13dfd851a2450",
+                        "created_at": 20150904082304,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150904082304,
+                        "file_name": "14413801847731.wav",
+                        "start_time": 58.537,
+                        "legacy_video_id": 1433,
+                        "legacy_user_id": 2757,
+                        "label": "",
+                        "legacy_audio_clip_id": 15105,
+                        "video": "58e7cf2846e13dfd851a19ad",
+                        "end_time": 58.537,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.04,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a244f",
+                        "transcript": [
+                            {
+                                "_id": "5e14bb3c2093d217c3bb56bb",
+                                "sentence": " In the night time for a scene, there is a grandpa",
+                                "start_time": 0,
+                                "end_time": 4.24
+                            },
+                            {
+                                "_id": "5e14bb3c2093d217c3bb56ba",
+                                "sentence": " sitting in a chair reading to a child on his",
+                                "start_time": 4.53,
+                                "end_time": 7.82
+                            },
+                            {
+                                "_id": "5e14bb3c2093d217c3bb56b9",
+                                "sentence": " lap.",
+                                "start_time": 7.82,
+                                "end_time": 8.6
+                            },
+                            {
+                                "_id": "5e14bb3c2093d217c3bb56b8",
+                                "sentence": " Grandpa is mouthing the same sounds as the singer.",
+                                "start_time": 9.02,
+                                "end_time": 13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a4623",
+                        "audio_description": "58e7cf3246e13dfd851a2450",
+                        "created_at": 20150904082410,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150904082410,
+                        "file_name": "14413802503701.wav",
+                        "start_time": 81.998,
+                        "legacy_video_id": 1433,
+                        "legacy_user_id": 2757,
+                        "label": "",
+                        "legacy_audio_clip_id": 15107,
+                        "video": "58e7cf2846e13dfd851a19ad",
+                        "end_time": 81.998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a244f",
+                        "transcript": [
+                            {
+                                "_id": "5e14bb3d2093d217c3bb572b",
+                                "sentence": " New forest scene with a hiding fox, the fox running",
+                                "start_time": 0.04,
+                                "end_time": 5.14
+                            },
+                            {
+                                "_id": "5e14bb3d2093d217c3bb572a",
+                                "sentence": " and a horse eating.",
+                                "start_time": 5.14,
+                                "end_time": 6.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a4624",
+                        "audio_description": "58e7cf3246e13dfd851a2450",
+                        "created_at": 20150904082509,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150904082509,
+                        "file_name": "14413803099751.wav",
+                        "start_time": 115.397,
+                        "legacy_video_id": 1433,
+                        "legacy_user_id": 2757,
+                        "label": "",
+                        "legacy_audio_clip_id": 15108,
+                        "video": "58e7cf2846e13dfd851a19ad",
+                        "end_time": 115.397,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a244f",
+                        "transcript": [
+                            {
+                                "_id": "5e14bb3c2093d217c3bb56e7",
+                                "sentence": " Forest scene with dancers and singer in his fox suit.",
+                                "start_time": 0.24,
+                                "end_time": 5.26
+                            },
+                            {
+                                "_id": "5e14bb3c2093d217c3bb56e6",
+                                "sentence": " Grandpa is reading and mouthing the sounds.",
+                                "start_time": 5.39,
+                                "end_time": 8.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a4625",
+                        "audio_description": "58e7cf3246e13dfd851a2450",
+                        "created_at": 20150904082715,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150904082715,
+                        "file_name": "14413804351751.wav",
+                        "start_time": 155.556,
+                        "legacy_video_id": 1433,
+                        "legacy_user_id": 2757,
+                        "label": "",
+                        "legacy_audio_clip_id": 15109,
+                        "video": "58e7cf2846e13dfd851a19ad",
+                        "end_time": 155.556,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a244f",
+                        "transcript": [
+                            {
+                                "_id": "5e14bb3c2093d217c3bb56ae",
+                                "sentence": " Forest scene,",
+                                "start_time": 0.28,
+                                "end_time": 2.16
+                            },
+                            {
+                                "_id": "5e14bb3c2093d217c3bb56ad",
+                                "sentence": " the singers looking for the fox with a flashlight.",
+                                "start_time": 2.16,
+                                "end_time": 6.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a4626",
+                        "audio_description": "58e7cf3246e13dfd851a2450",
+                        "created_at": 20150904082757,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150904082757,
+                        "file_name": "14413804779391.wav",
+                        "start_time": 173.932,
+                        "legacy_video_id": 1433,
+                        "legacy_user_id": 2757,
+                        "label": "",
+                        "legacy_audio_clip_id": 15110,
+                        "video": "58e7cf2846e13dfd851a19ad",
+                        "end_time": 173.932,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a244f",
+                        "transcript": [
+                            {
+                                "_id": "5e14bbaf269db217c5e53094",
+                                "sentence": " A fox runs through the forest, past the dancers,",
+                                "start_time": 0,
+                                "end_time": 3.88
+                            },
+                            {
+                                "_id": "5e14bbaf269db217c5e53093",
+                                "sentence": " and becomes animated.",
+                                "start_time": 3.88,
+                                "end_time": 6.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a4627",
+                        "audio_description": "58e7cf3246e13dfd851a2450",
+                        "created_at": 20150904082848,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150904082848,
+                        "file_name": "14413805280401.wav",
+                        "start_time": 188.209,
+                        "legacy_video_id": 1433,
+                        "legacy_user_id": 2757,
+                        "label": "",
+                        "legacy_audio_clip_id": 15111,
+                        "video": "58e7cf2846e13dfd851a19ad",
+                        "end_time": 188.209,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a244f",
+                        "transcript": [
+                            {
+                                "_id": "5e14bbaf269db217c5e53085",
+                                "sentence": " Animated fox stands on his back, legs",
+                                "start_time": 0.08,
+                                "end_time": 4.11
+                            },
+                            {
+                                "_id": "5e14bbaf269db217c5e53084",
+                                "sentence": " sings and dances.",
+                                "start_time": 4.92,
+                                "end_time": 7.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a4628",
+                        "audio_description": "58e7cf3246e13dfd851a2450",
+                        "created_at": 20150904082947,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150904082947,
+                        "file_name": "14413805870621.wav",
+                        "start_time": 213.314,
+                        "legacy_video_id": 1433,
+                        "legacy_user_id": 2757,
+                        "label": "",
+                        "legacy_audio_clip_id": 15112,
+                        "video": "58e7cf2846e13dfd851a19ad",
+                        "end_time": 213.314,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a244f",
+                        "transcript": [
+                            {
+                                "_id": "5e14bb3d2093d217c3bb56f9",
+                                "sentence": " Morning for a scene.",
+                                "start_time": 0.66,
+                                "end_time": 2.88
+                            },
+                            {
+                                "_id": "5e14bb3d2093d217c3bb56f8",
+                                "sentence": " The humans are walking out of the forest.",
+                                "start_time": 3.13,
+                                "end_time": 5.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a4629",
+                        "audio_description": "58e7cf3246e13dfd851a2450",
+                        "created_at": 20150904082947,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150904082947,
+                        "file_name": "14413805871631.wav",
+                        "start_time": 213.314,
+                        "legacy_video_id": 1433,
+                        "legacy_user_id": 2757,
+                        "label": "",
+                        "legacy_audio_clip_id": 15113,
+                        "video": "58e7cf2846e13dfd851a19ad",
+                        "end_time": 213.314,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a244f",
+                        "transcript": [
+                            {
+                                "_id": "5e14bb3c2093d217c3bb56a7",
+                                "sentence": " Morning for a scene.",
+                                "start_time": 0.66,
+                                "end_time": 2.88
+                            },
+                            {
+                                "_id": "5e14bb3c2093d217c3bb56a6",
+                                "sentence": " The humans are walking out of the forest.",
+                                "start_time": 3.13,
+                                "end_time": 5.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a462a",
+                        "audio_description": "58e7cf3246e13dfd851a2450",
+                        "created_at": 20150904083300,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150904083300,
+                        "file_name": "14413807806781.wav",
+                        "start_time": 8.095,
+                        "legacy_video_id": 1433,
+                        "legacy_user_id": 2757,
+                        "label": "",
+                        "legacy_audio_clip_id": 15114,
+                        "video": "58e7cf2846e13dfd851a19ad",
+                        "end_time": 8.095,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a244f",
+                        "transcript": [
+                            {
+                                "_id": "5e14bbb0269db217c5e53099",
+                                "sentence": " House party scene.",
+                                "start_time": 0,
+                                "end_time": 2.3
+                            },
+                            {
+                                "_id": "5e14bbb0269db217c5e53098",
+                                "sentence": " People are dressed in various animal costumes except the lead singer.",
+                                "start_time": 2.63,
+                                "end_time": 7.64
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3246e13dfd851a2450",
+                "status": "published",
+                "legacy_video_id": 1433,
+                "legacy_user_id": 2757,
+                "video": "58e7cf2846e13dfd851a19ad",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3246e13dfd851a244f",
+                    "name": "vlnumkena",
+                    "google_user_id_token": "",
+                    "created_at": 20150904080546,
+                    "updated_at": 20150904080955,
+                    "legacy_user_id": 2757,
+                    "last_login": 0,
+                    "email": "vlnumkena@aol.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "updated_at": 20181211022436,
+                "admin_review": "",
+                "feedbacks": {
+                    "2": 1,
+                    "3": 1
+                }
+            }
+        ],
+        "tags": [
+            "ylvis what does the fox say",
+            "what did the fox say video",
+            "What does the fox say",
+            "ylvis the fox",
+            "ylvis the fox lyrics",
+            "The Fox",
+            "what the fox say",
+            "whats the fox say",
+            "the fox say",
+            "what did the fox say",
+            "ylvis what does the fox say official music video",
+            "fox say",
+            "ylvis",
+            "fox",
+            "i kveld med ylvis",
+            "what does the fox",
+            "what does the fox say lyrics",
+            "what does the fox say original",
+            "the fox song",
+            "the fox says",
+            "the fox ylvis"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a19ad",
+        "description": "",
+        "youtube_id": "jofNR_WkoCE",
+        "views": 0,
+        "created_at": 20140301083106,
+        "title": "Ylvis - The Fox (What Does The Fox Say?) [Official music video HD]",
+        "legacy_video_id": 1433,
+        "updated_at": 20150904083300,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 225
+    }
+}

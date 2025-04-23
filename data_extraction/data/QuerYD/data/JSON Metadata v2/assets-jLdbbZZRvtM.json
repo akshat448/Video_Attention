@@ -1,0 +1,71 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5eb46073c0004d517a050a03",
+                        "video": "5eb46031c5520751804911c3",
+                        "audio_description": "5eb46031c5520751804911c2",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "description",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 8.021333333333333,
+                        "file_name": "jLdbbZZRvtM_5eb46073c0004d517a050a03.wav",
+                        "file_size_bytes": 1540140,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/jLdbbZZRvtM",
+                        "created_at": 20200507192435,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5eb46031c5520751804911c2",
+                "video": "5eb46031c5520751804911c3",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e9f7a4d84f1bb7886752425",
+                    "email": "chhsad201@gmail.com",
+                    "name": "CHHS AD201",
+                    "given_name": "CHHS",
+                    "picture": "https://lh5.googleusercontent.com/-JpwQdP332ew/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOjaGw_XfdNe6Y3TML0kj8gdNHJZA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111438173098375409345",
+                    "last_login": 20201014163508,
+                    "token": "8b25ee0df1dcdee4a1c94ede45a3e8475678aa3b10c76fbf6ea8097a75608fa7",
+                    "__v": 0,
+                    "updated_at": 20201014163508,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200507192329,
+                "updated_at": 20200507192329,
+                "notes": "Brandon is seen sitting in a room talking to the camera. He is wearing a baseball hat, glasses, an orange t shirt and jeans. ",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5eb46031c5520751804911c3",
+        "title": "CCP - Proactive Planning Tip One for TBI",
+        "description": "CSU Center for Community Partnerships Hope Speaks Project",
+        "youtube_id": "jLdbbZZRvtM",
+        "created_at": 20200507192329,
+        "updated_at": 20200507192435,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 38
+    }
+}

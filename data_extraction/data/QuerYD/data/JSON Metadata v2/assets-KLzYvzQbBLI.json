@@ -1,0 +1,674 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [],
+                "_id": "5d2c727a2b6b5c0326fbd6d7",
+                "video": "5d2c727a2b6b5c0326fbd6d8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d282ed16e1ff55b95381a60",
+                    "email": "rajasekar@oclocksolutions.com",
+                    "name": "Rajasekar U",
+                    "given_name": "Rajasekar",
+                    "picture": "https://lh4.googleusercontent.com/-9N7FIbyEFPw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfimMOuCiAYFKyGpa_c8_BeAw9sQw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116336644253439305717",
+                    "last_login": 20190715123132,
+                    "token": "f53952a2371e4882beb93bbad197f278389129fce68f6e856c26215b5882e4bf",
+                    "__v": 0,
+                    "updated_at": 20190715123132,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20190715123258,
+                "updated_at": 20190715123258,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d2cbb58ccd53807e970f412",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 14.762666666666666,
+                        "duration": 14.762666666666666,
+                        "file_name": "KLzYvzQbBLI_5d2cbb58ccd53807e970f412.wav",
+                        "file_size_bytes": 2834476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715174352,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e51760423990095244e",
+                                "sentence": " The camera is pointed down at a surface with supplies laid out, which are a ruler, green paper, straw, scissors, and two piece of paper,",
+                                "start_time": 0.5,
+                                "end_time": 6.96
+                            },
+                            {
+                                "_id": "5e557e51760423990095244d",
+                                "sentence": " one yellow circular with a 10 centimeter diameter, and one green rectangular measuring seven by 12 centimeters.",
+                                "start_time": 6.96,
+                                "end_time": 12.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cbea86e1ff55b95381a81",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 14.350649350649352,
+                        "end_time": 32.44131601731602,
+                        "duration": 18.090666666666667,
+                        "file_name": "KLzYvzQbBLI_5d2cbea86e1ff55b95381a81.wav",
+                        "file_size_bytes": 3473452,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715175800,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557bac14a7ae98ff6a9a0b",
+                                "sentence": " The circle is picked up. Another supplies are laid aside.",
+                                "start_time": 0.68,
+                                "end_time": 3.64
+                            },
+                            {
+                                "_id": "5e557bac14a7ae98ff6a9a0a",
+                                "sentence": " Fold the circle in half three times, ending up with a pizza slice shaped wedge equaling 1/8, the circle",
+                                "start_time": 4.25,
+                                "end_time": 10.02
+                            },
+                            {
+                                "_id": "5e557bac14a7ae98ff6a9a09",
+                                "sentence": " across the whole curved outer edge. A scalp design is drawn pencil with three bumps.",
+                                "start_time": 12.34,
+                                "end_time": 17.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cbf006e1ff55b95381a82",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 34.44155844155844,
+                        "end_time": 40.92689177489177,
+                        "duration": 6.485333333333333,
+                        "file_name": "KLzYvzQbBLI_5d2cbf006e1ff55b95381a82.wav",
+                        "file_size_bytes": 1245228,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715175928,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557f2414a7ae98ff6a9ad4",
+                                "sentence": " Grab scissors from off screen and cut along. The pencil line was just drawn, cutting all layers of the full paper.",
+                                "start_time": 0.58,
+                                "end_time": 6.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cbf806e1ff55b95381a84",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 49.36623376623377,
+                        "end_time": 55.595567099567106,
+                        "duration": 6.229333333333333,
+                        "file_name": "KLzYvzQbBLI_5d2cbf806e1ff55b95381a84.wav",
+                        "file_size_bytes": 1196076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715180136,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e55821b43a659c66dd36e24",
+                                "sentence": " In the two pointed in dense between the bumps make cuts that extend 2/3 of the way down the wedge.",
+                                "start_time": 1.16,
+                                "end_time": 6.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cbfa8ccd53807e970f416",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "0.57",
+                        "playback_type": "inline",
+                        "start_time": 56.839123,
+                        "end_time": 63.66578966666667,
+                        "duration": 6.826666666666667,
+                        "file_name": "KLzYvzQbBLI_5d2cbfa8ccd53807e970f416.wav",
+                        "file_size_bytes": 1310764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715180216,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2e7604239900952392",
+                                "sentence": " The paper is unfolded one fold at a time, cutting the same length down. The unfolded seen each time.",
+                                "start_time": 0.46,
+                                "end_time": 5.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc028ccd53807e970f418",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 64.2909090909091,
+                        "end_time": 85.19757575757576,
+                        "duration": 20.906666666666666,
+                        "file_name": "KLzYvzQbBLI_5d2cc028ccd53807e970f418.wav",
+                        "file_size_bytes": 4014124,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715180424,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e517604239900952458",
+                                "sentence": " With the paper completely unfolded. The same length cut is made on both sides. The last fold,",
+                                "start_time": 0.34,
+                                "end_time": 5.04
+                            },
+                            {
+                                "_id": "5e557e517604239900952457",
+                                "sentence": " the unfolded paper now resembles a basic daisy, and the cuts have created Free moving petals around the entire circle.",
+                                "start_time": 5.04,
+                                "end_time": 10.67
+                            },
+                            {
+                                "_id": "5e557e517604239900952456",
+                                "sentence": " The ruler is picked up and pushed onto each pedal as it is held in two fingers, causing each petal decrease down the middle.",
+                                "start_time": 10.84,
+                                "end_time": 16.96
+                            },
+                            {
+                                "_id": "5e557e517604239900952455",
+                                "sentence": " This is done around the whole circle.",
+                                "start_time": 16.96,
+                                "end_time": 18.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc06cccd53807e970f419",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 109.918808,
+                        "end_time": 127.41214133333332,
+                        "duration": 17.493333333333332,
+                        "file_name": "KLzYvzQbBLI_5d2cc06cccd53807e970f419.wav",
+                        "file_size_bytes": 3358764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715180532,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557bad14a7ae98ff6a9a29",
+                                "sentence": " Refold the circle gently back into wedge, which no longer lies flat. Because of the crease petals. It is then placed down",
+                                "start_time": 0.64,
+                                "end_time": 6.83
+                            },
+                            {
+                                "_id": "5e557bad14a7ae98ff6a9a28",
+                                "sentence": " from all screen eight more finished wedges are brought in identical to the one place down.",
+                                "start_time": 6.83,
+                                "end_time": 11.47
+                            },
+                            {
+                                "_id": "5e557bad14a7ae98ff6a9a27",
+                                "sentence": " Another paper is brought on screen identical to the others, except that it has not been folded back into a wedge.",
+                                "start_time": 11.47,
+                                "end_time": 16.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc1d1ccd53807e970f41b",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 127.43376623376624,
+                        "end_time": 138.01509956709958,
+                        "duration": 10.581333333333333,
+                        "file_name": "KLzYvzQbBLI_5d2cc1d1ccd53807e970f41b.wav",
+                        "file_size_bytes": 2031660,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715181129,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e5076042399009523ed",
+                                "sentence": " A wooden skewer with adhesive on the end is used to apply the adhesive to the pointed ends of all but one of the wedges,",
+                                "start_time": 0.5,
+                                "end_time": 6.28
+                            },
+                            {
+                                "_id": "5e557e5076042399009523ec",
+                                "sentence": " which are then stuck onto the unfolded circle next to each other all the way around.",
+                                "start_time": 6.28,
+                                "end_time": 10.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc2126e1ff55b95381a88",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 190.5766233766234,
+                        "end_time": 197.82995670995672,
+                        "duration": 7.253333333333333,
+                        "file_name": "KLzYvzQbBLI_5d2cc2126e1ff55b95381a88.wav",
+                        "file_size_bytes": 1392684,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715181234,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557bad14a7ae98ff6a9a23",
+                                "sentence": " The folded wedges are gently spread out slightly, so that the pedals come up into a dome shape with an empty space of Top.",
+                                "start_time": 0.41,
+                                "end_time": 7.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc2676e1ff55b95381a8a",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 207.944329,
+                        "end_time": 218.69632900000002,
+                        "duration": 10.752,
+                        "file_name": "KLzYvzQbBLI_5d2cc2676e1ff55b95381a8a.wav",
+                        "file_size_bytes": 2064428,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715181359,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c197f8232990368e8b8",
+                                "sentence": " The last wedge is picked up and applied with adhesive at the point and stuck into the empty space.",
+                                "start_time": 0.44,
+                                "end_time": 5.36
+                            },
+                            {
+                                "_id": "5e557c197f8232990368e8b7",
+                                "sentence": " The flower is now a full half tone.",
+                                "start_time": 5.36,
+                                "end_time": 7.41
+                            },
+                            {
+                                "_id": "5e557c197f8232990368e8b6",
+                                "sentence": " The petals are adjusted slightly to be dispersed evenly.",
+                                "start_time": 7.41,
+                                "end_time": 10.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc2beccd53807e970f41d",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 223.2961038961039,
+                        "end_time": 229.01343722943722,
+                        "duration": 5.717333333333333,
+                        "file_name": "KLzYvzQbBLI_5d2cc2beccd53807e970f41d.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715181526,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e5076042399009523ef",
+                                "sentence": " The flowers held in one hand and gently pressed on with the other, encouraging the adhesive to hold.",
+                                "start_time": 0.61,
+                                "end_time": 5.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc333ccd53807e970f41e",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 234.7766233766234,
+                        "end_time": 261.05929004329005,
+                        "duration": 26.282666666666668,
+                        "file_name": "KLzYvzQbBLI_5d2cc333ccd53807e970f41e.wav",
+                        "file_size_bytes": 5046316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715181723,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2d760423990095232d",
+                                "sentence": " The flower is set down on the green. Rectangular paper is retrieved from off screen. The green paper is fold in half down. The longer side,",
+                                "start_time": 0.33,
+                                "end_time": 7.03
+                            },
+                            {
+                                "_id": "5e557b2d760423990095232c",
+                                "sentence": " the scissors are retrieved and used to cut a curve starting from the corner of the fold.",
+                                "start_time": 7.34,
+                                "end_time": 11.5
+                            },
+                            {
+                                "_id": "5e557b2d760423990095232b",
+                                "sentence": " The curve goes almost all the way across the paper, but stops very near the other folded corner.",
+                                "start_time": 11.68,
+                                "end_time": 16.66
+                            },
+                            {
+                                "_id": "5e557b2d760423990095232a",
+                                "sentence": " The cut is instead continued out for the last centimeter parallel to the fold.",
+                                "start_time": 16.72,
+                                "end_time": 20.88
+                            },
+                            {
+                                "_id": "5e557b2d7604239900952329",
+                                "sentence": " Small wedge cut outs are then made",
+                                "start_time": 21.21,
+                                "end_time": 23.83
+                            },
+                            {
+                                "_id": "5e557b2d7604239900952328",
+                                "sentence": " in varying sizes down the curve.",
+                                "start_time": 23.83,
+                                "end_time": 26.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc3bfccd53807e970f41f",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 269.7922077922078,
+                        "end_time": 288.6508744588745,
+                        "duration": 18.858666666666668,
+                        "file_name": "KLzYvzQbBLI_5d2cc3bfccd53807e970f41f.wav",
+                        "file_size_bytes": 3620908,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715181943,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2c76042399009522e6",
+                                "sentence": " The cut out scraps are scraped off screen on the paper is unfolded. Now shaped like a leaf,",
+                                "start_time": 0.48,
+                                "end_time": 5.27
+                            },
+                            {
+                                "_id": "5e557b2c76042399009522e5",
+                                "sentence": " it is placed down,",
+                                "start_time": 5.27,
+                                "end_time": 6.48
+                            },
+                            {
+                                "_id": "5e557b2c76042399009522e4",
+                                "sentence": " the straws run on screen, and about two centimeters of the end is flat.",
+                                "start_time": 6.79,
+                                "end_time": 10.56
+                            },
+                            {
+                                "_id": "5e557b2c76042399009522e3",
+                                "sentence": " Cuts are made in the middle of the flat and part, and the foal decreases. Also two centimeters.",
+                                "start_time": 10.66,
+                                "end_time": 15.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc4276e1ff55b95381a8d",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 288.677587,
+                        "end_time": 293.2002536666667,
+                        "duration": 4.522666666666667,
+                        "file_name": "KLzYvzQbBLI_5d2cc4276e1ff55b95381a8d.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715182127,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557f2414a7ae98ff6a9ac2",
+                                "sentence": " The four pieces of the straws cut, end arse played out, and adhesive is applied to them.",
+                                "start_time": 0.23,
+                                "end_time": 4.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc49dccd53807e970f421",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 309.440876,
+                        "end_time": 314.9875426666667,
+                        "duration": 5.546666666666667,
+                        "file_name": "KLzYvzQbBLI_5d2cc49dccd53807e970f421.wav",
+                        "file_size_bytes": 1065004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715182325,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5579b97f8232990368e88b",
+                                "sentence": " The yellow flower is picked up and displayed straw and is attached to the back of the flower in the center.",
+                                "start_time": 0.24,
+                                "end_time": 5.38
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc4be6e1ff55b95381a8f",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 318.473243,
+                        "end_time": 327.5185763333334,
+                        "duration": 9.045333333333334,
+                        "file_name": "KLzYvzQbBLI_5d2cc4be6e1ff55b95381a8f.wav",
+                        "file_size_bytes": 1736748,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715182358,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557e5076042399009523d5",
+                                "sentence": " The leaf is picked up, and adhesive is applied to the end of leaf at its base.",
+                                "start_time": 0.77,
+                                "end_time": 4.76
+                            },
+                            {
+                                "_id": "5e557e5076042399009523d4",
+                                "sentence": " It is then attached to the straws down about halfway down.",
+                                "start_time": 4.76,
+                                "end_time": 8.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc4e2ccd53807e970f422",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 330.594674,
+                        "end_time": 333.410674,
+                        "duration": 2.816,
+                        "file_name": "KLzYvzQbBLI_5d2cc4e2ccd53807e970f422.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715182434,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557bac14a7ae98ff6a99c9",
+                                "sentence": " The flowers adjusted again, to be slade evenly.",
+                                "start_time": 0.33,
+                                "end_time": 2.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2cc5276e1ff55b95381a90",
+                        "video": "5d2c727a2b6b5c0326fbd6d8",
+                        "audio_description": "5d2cba8c2b6b5c0326fbd6da",
+                        "user": "5d2cb9306e1ff55b95381a7a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 343.46835,
+                        "end_time": 350.80701666666664,
+                        "duration": 7.338666666666667,
+                        "file_name": "KLzYvzQbBLI_5d2cc5276e1ff55b95381a90.wav",
+                        "file_size_bytes": 1409068,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KLzYvzQbBLI",
+                        "created_at": 20190715182543,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557f2314a7ae98ff6a9a90",
+                                "sentence": " Another finished pink paper flower is well, so bread onscreen. Both flowers are turned over to be shown to the camera and then placed down.",
+                                "start_time": 0.36,
+                                "end_time": 7.02
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d2cba8c2b6b5c0326fbd6da",
+                "video": "5d2c727a2b6b5c0326fbd6d8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d2cb9306e1ff55b95381a7a",
+                    "email": "cviola@fordham.edu",
+                    "name": "Caroline Viola",
+                    "given_name": "Caroline",
+                    "picture": "https://lh5.googleusercontent.com/-hV-bbfLPueY/AAAAAAAAAAI/AAAAAAAAAB0/mzNMibS3Hfs/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "103560603218565766132",
+                    "last_login": 20190715173440,
+                    "token": "1ce19b8f4cbdaf833b3533a31d4f18c5fd89ff9010b3e3fe19501eeab1656a54",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190715174028,
+                "updated_at": 20190715174028,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Paper Flowers Making",
+            "Paper Flower Making",
+            "Flower Making",
+            "Flowers Making",
+            "DIY Paper Flower",
+            "DIY Paper Flowers",
+            "How to Make Paper Flower",
+            "How to Make paper Flowers",
+            "How to Make Flower",
+            "How to Make Flowers",
+            "Origami Flower",
+            "Origami Flowers",
+            "Paper Flower",
+            "Paper Flowers",
+            "Making Paper Flowers Step by Step",
+            "DIY-Paper Crafts",
+            "how to make flowers with paper",
+            "flower making with paper",
+            "how to make flower with paper",
+            "how to make a paper flower",
+            "paper flower origami",
+            "Flower",
+            "Flowers"
+        ],
+        "custom_tags": [],
+        "_id": "5d2c727a2b6b5c0326fbd6d8",
+        "title": "How to Make Beautiful Flower with Paper - Making Paper Flowers Step by Step - DIY Paper Flowers",
+        "description": "How to Make Beautiful Flower with Paper - Making Paper Flowers Step by Step - DIY Paper Flowers\nSUBSCRIBE: https://goo.gl/Iim0Dk\n\nMaterial for this project:\n-Colored Paper\n-Scissors\n-Glue\n-Ruler\n\nMeasurement:\n-Yellow Paper 10x10 cm\n-Green Paper 7x12 cm\n\nHow to Make Simple Flower with Paper\nhttps://youtu.be/GM-8gd2AAcY\n\nHow to Make Daisy Paper Flower\nhttps://youtu.be/SjemmsCdLUM\n\nHow to Make Fluffy Paper Flower\nhttps://youtu.be/q5sBAaZFjKg\n\nHow to Make Beautiful Paper Flower\nhttps://youtu.be/hnQyjp75vP0\n\nHow to Make Flower with Colored Paper\nhttps://youtu.be/6vFBYXuzivg\n\nHow to Make Marigold Paper Flower\nhttps://youtu.be/LUVHI7HQfSA\n\nHow to Make Paper Rose \nhttps://youtu.be/QksNXBTmj84\n\nHow to Make Aster Flower with Paper\nhttps://youtu.be/_jxmEQqUMjk",
+        "youtube_id": "KLzYvzQbBLI",
+        "created_at": 20190715123258,
+        "updated_at": 20190715182543,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Howto & Style",
+        "category_id": "26",
+        "duration": 354
+    }
+}

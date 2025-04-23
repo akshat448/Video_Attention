@@ -1,0 +1,188 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4946e13dfd851a34e9",
+                        "audio_description": "58e7cf2e46e13dfd851a2297",
+                        "created_at": 20141106203029,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141106203029,
+                        "file_name": "14153346299691.wav",
+                        "start_time": 4.899,
+                        "legacy_video_id": 1677,
+                        "legacy_user_id": 2425,
+                        "label": "",
+                        "legacy_audio_clip_id": 9020,
+                        "video": "58e7cf2846e13dfd851a1aa0",
+                        "end_time": 4.899,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2296",
+                        "transcript": [
+                            {
+                                "_id": "5e230e0d72edc9955c746ec4",
+                                "sentence": " There is a dog and a cat on the stair. Raise the dog is a step around the cat, and he tries to come down.",
+                                "start_time": 0.9,
+                                "end_time": 7.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a34ea",
+                        "audio_description": "58e7cf2e46e13dfd851a2297",
+                        "created_at": 20141106203109,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141106203109,
+                        "file_name": "14153346699331.wav",
+                        "start_time": 16.257,
+                        "legacy_video_id": 1677,
+                        "legacy_user_id": 2425,
+                        "label": "",
+                        "legacy_audio_clip_id": 9021,
+                        "video": "58e7cf2846e13dfd851a1aa0",
+                        "end_time": 16.257,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2296",
+                        "transcript": [
+                            {
+                                "_id": "5e254d1e824e581ebf8e1cb9",
+                                "sentence": " There is another dog at the bottom stairs who doesn't have a problem to pass the cat.",
+                                "start_time": 0.42,
+                                "end_time": 5.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a34eb",
+                        "audio_description": "58e7cf2e46e13dfd851a2297",
+                        "created_at": 20141106203235,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141106203235,
+                        "file_name": "14153347558741.wav",
+                        "start_time": 68.51,
+                        "legacy_video_id": 1677,
+                        "legacy_user_id": 2425,
+                        "label": "",
+                        "legacy_audio_clip_id": 9023,
+                        "video": "58e7cf2846e13dfd851a1aa0",
+                        "end_time": 68.51,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2296",
+                        "transcript": [
+                            {
+                                "_id": "5e254d1e824e581ebf8e1c8f",
+                                "sentence": " The other dog shows him how to pass the cat.",
+                                "start_time": 0.67,
+                                "end_time": 3.86
+                            },
+                            {
+                                "_id": "5e254d1e824e581ebf8e1c8e",
+                                "sentence": " And At the same time, a boy comes down the stairs and helps both to come down and pass the cat.",
+                                "start_time": 3.86,
+                                "end_time": 9.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a34ed",
+                        "audio_description": "58e7cf2e46e13dfd851a2297",
+                        "created_at": 20141106203316,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141106203316,
+                        "file_name": "14153347963911.wav",
+                        "start_time": 73.35,
+                        "legacy_video_id": 1677,
+                        "legacy_user_id": 2425,
+                        "label": "",
+                        "legacy_audio_clip_id": 9025,
+                        "video": "58e7cf2846e13dfd851a1aa0",
+                        "end_time": 73.35,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2296",
+                        "transcript": [
+                            {
+                                "_id": "5e254e56538e0b1ebdfeb5bd",
+                                "sentence": " At the end, the other dog family attacked the cat. So it moved. And who could come down the stairs?",
+                                "start_time": 0.59,
+                                "end_time": 7.23
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2e46e13dfd851a2297",
+                "status": "published",
+                "legacy_video_id": 1677,
+                "legacy_user_id": 2425,
+                "video": "58e7cf2846e13dfd851a1aa0",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2e46e13dfd851a2296",
+                    "name": "antaldora3",
+                    "google_user_id_token": "",
+                    "created_at": 20141104163432,
+                    "updated_at": 20141104163538,
+                    "legacy_user_id": 2425,
+                    "last_login": 0,
+                    "email": "antaldora3@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Cat (Animal)",
+            "Dog (Domesticated Animal)",
+            "you shall not pass",
+            "intimidates",
+            "won't let through",
+            "won't let pass",
+            "funny dogs",
+            "Scaredy Cat (Film)",
+            "scaredy dog",
+            "funny cats",
+            "dog afraid of cat",
+            "cutiesnfuzzies",
+            "jukinvideodotcom",
+            "jukinmedia",
+            "lord of the rings",
+            "gandalf",
+            "gandalf quotes"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1aa0",
+        "description": "",
+        "youtube_id": "hUenwQAtW8M",
+        "views": 0,
+        "created_at": 20141106201845,
+        "title": "Dog Afraid of \"You Shall Not Pass\" Cat | Furry Gandalf",
+        "legacy_video_id": 1677,
+        "updated_at": 20141106203316,
+        "youtube_status": "available",
+        "category": "Pets & Animals",
+        "category_id": "15",
+        "duration": 85
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45a3",
+                        "audio_description": "58e7cf3046e13dfd851a2388",
+                        "created_at": 20150826173308,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826173308,
+                        "file_name": "14406355883261.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2103,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14944,
+                        "video": "58e7cf2946e13dfd851a1c4a",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 21.48,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3acae269855f5850086b81",
+                                "sentence": " A still image shows christopher, a young toddler, in the arms of his mother.",
+                                "start_time": 0.97,
+                                "end_time": 5.94
+                            },
+                            {
+                                "_id": "5e3acae269855f5850086b80",
+                                "sentence": " They are standing next to a crib, and he is sucking on his thumb. Yellow print on the bottom left corner of the screen reads bedtime.",
+                                "start_time": 5.94,
+                                "end_time": 14.87
+                            },
+                            {
+                                "_id": "5e3acae269855f5850086b7f",
+                                "sentence": " As the video plays yellow print appears on a black background. The voice you hear reads the print.",
+                                "start_time": 14.87,
+                                "end_time": 21.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45a4",
+                        "audio_description": "58e7cf3046e13dfd851a2388",
+                        "created_at": 20150826173418,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826173418,
+                        "file_name": "14406356580841.wav",
+                        "start_time": 28.278,
+                        "legacy_video_id": 2103,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14945,
+                        "video": "58e7cf2946e13dfd851a1c4a",
+                        "end_time": 28.278,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac329108b490da613b3a4",
+                                "sentence": " Mom holding christopher in standing next to the crib,",
+                                "start_time": 0.6,
+                                "end_time": 4.8
+                            },
+                            {
+                                "_id": "5e3ac329108b490da613b3a3",
+                                "sentence": " talks about their bedtime routine.",
+                                "start_time": 4.8,
+                                "end_time": 6.94
+                            },
+                            {
+                                "_id": "5e3ac329108b490da613b3a2",
+                                "sentence": " As she speaks, she places christopher into his crib and covers him with the blanket.",
+                                "start_time": 7.06,
+                                "end_time": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45a5",
+                        "audio_description": "58e7cf3046e13dfd851a2388",
+                        "created_at": 20150826173628,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826173628,
+                        "file_name": "14406357882881.wav",
+                        "start_time": 125.458,
+                        "legacy_video_id": 2103,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14946,
+                        "video": "58e7cf2946e13dfd851a1c4a",
+                        "end_time": 125.458,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3eac648ec0da79cd7ec",
+                                "sentence": " The closing image is the same as the first image.",
+                                "start_time": 0.4,
+                                "end_time": 3.52
+                            },
+                            {
+                                "_id": "5e3ac3eac648ec0da79cd7eb",
+                                "sentence": " The voice you hear reach yellow print that appears at the bottom of the screen.",
+                                "start_time": 3.52,
+                                "end_time": 7.64
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2388",
+                "status": "published",
+                "legacy_video_id": 2103,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c4a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c4a",
+        "description": "",
+        "youtube_id": "v6DwXJZwsr4",
+        "views": 0,
+        "created_at": 20150826173222,
+        "title": "Bedtime",
+        "legacy_video_id": 2103,
+        "updated_at": 20150826173628,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 132
+    }
+}

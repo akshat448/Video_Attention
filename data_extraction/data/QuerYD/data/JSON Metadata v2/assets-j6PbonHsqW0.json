@@ -1,0 +1,749 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6046e13dfd851a469a",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905180738,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905180738,
+                        "file_name": "14415016589641.wav",
+                        "start_time": 6.191,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15326,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 8.751,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac7d07c48e647e3103aa6",
+                                "sentence": " The pyramids of Egypt.",
+                                "start_time": 0.31,
+                                "end_time": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a469b",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905180757,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905180757,
+                        "file_name": "14415016769971.wav",
+                        "start_time": 10.399,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15327,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 13.209,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac6100d8f324490ee3993",
+                                "sentence": " Cairo 1920.",
+                                "start_time": 0.49,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a469c",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905183029,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905183029,
+                        "file_name": "14415030292531.wav",
+                        "start_time": 37.792,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15339,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 42.652,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3abd68a2079a0da87fe4fb",
+                                "sentence": " The device has several rows of icons resembling hieroglyphics.",
+                                "start_time": 0.77,
+                                "end_time": 4.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a469d",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905185222,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905185222,
+                        "file_name": "14415043425361.wav",
+                        "start_time": 108.264,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15351,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 108.264,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac6130d8f324490ee39eb",
+                                "sentence": " A door closes, and it is dark.",
+                                "start_time": 0.77,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a469e",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905185646,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905185646,
+                        "file_name": "14415046060611.wav",
+                        "start_time": 132.532,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15355,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 137.132,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3abbad108b490da613b2e5",
+                                "sentence": " The camel looks at the statue with wide eyes. It resembles himself.",
+                                "start_time": 0.42,
+                                "end_time": 4.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a469f",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905185735,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905185735,
+                        "file_name": "14415046556051.wav",
+                        "start_time": 139.244,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15356,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 143.084,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3abe42108b490da613b34d",
+                                "sentence": " He swallows hard and shakes his head.",
+                                "start_time": 0.99,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46a0",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905185944,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905185944,
+                        "file_name": "14415047840591.wav",
+                        "start_time": 143.483,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15357,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 152.433,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3abbad108b490da613b2d7",
+                                "sentence": " The face of the pyramid turns again, creating king tut, and descends back into the ground with only a pyramid visible above the earth.",
+                                "start_time": 0.21,
+                                "end_time": 8.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46a1",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905190744,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905190744,
+                        "file_name": "14415052645531.wav",
+                        "start_time": 181.671,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15363,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 183.201,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe559",
+                                "sentence": " Credits,",
+                                "start_time": 0,
+                                "end_time": 0.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46a2",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905192056,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905192056,
+                        "file_name": "14415060562321.wav",
+                        "start_time": 27.833,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15365,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 27.833,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe546",
+                                "sentence": " An archaeologist is sitting in a square shaped excavation site about five feet below ground.",
+                                "start_time": 1.04,
+                                "end_time": 6.57
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe545",
+                                "sentence": " A ladder is behind him. An egyptian pyramid is in the distance to the left of the archaeologist. A camel sits above the excavation site, facing the pyramid and chewing on a small brush.",
+                                "start_time": 6.57,
+                                "end_time": 17.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46a3",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905192220,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905192220,
+                        "file_name": "14415061400021.wav",
+                        "start_time": 28.634,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15366,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 33.494,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe560",
+                                "sentence": " The archaeologist looks towards the camel. Then back at his Discovery,",
+                                "start_time": 0.82,
+                                "end_time": 4.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46a4",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905192358,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905192358,
+                        "file_name": "14415062386441.wav",
+                        "start_time": 53.654,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15367,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 53.654,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7d2",
+                                "sentence": " The archaeologist brushes some stand off of the device, causing it to beep.",
+                                "start_time": 0.06,
+                                "end_time": 4.74
+                            },
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7d1",
+                                "sentence": " His eyes bulge, and he appears surprised. While the archaeologist shakes the device, the pyramids in the distance start to rise above the earth.",
+                                "start_time": 4.79,
+                                "end_time": 13.06
+                            },
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7d0",
+                                "sentence": " The camels jaw drops on, the brush falls out as he sees the rising pyramid.",
+                                "start_time": 13.14,
+                                "end_time": 17.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46a5",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905192617,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905192617,
+                        "file_name": "14415063774141.wav",
+                        "start_time": 57.498,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15369,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 67.218,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.72,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe530",
+                                "sentence": " The archaeologist with wide eyes and an open mouth turns around. Out from the earth comes a statue of king tutt with an egyptian pyramid on his head.",
+                                "start_time": 1.3,
+                                "end_time": 9.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46a6",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905192805,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905192805,
+                        "file_name": "14415064858011.wav",
+                        "start_time": 68.513,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15370,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 83.093,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe535",
+                                "sentence": " The archaeologist suddenly puts the device back in the sand. He and the camel look at each other, and the camel nods his head and encouragement.",
+                                "start_time": 1.24,
+                                "end_time": 8.65
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe534",
+                                "sentence": " The archaeologist hits a button on the device he found from the mouth of king tut comes a set of stairs.",
+                                "start_time": 8.7,
+                                "end_time": 14.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46a7",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905192919,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905192919,
+                        "file_name": "14415065591791.wav",
+                        "start_time": 87.603,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15371,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 96.81299999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac153d8af910da52dfd61",
+                                "sentence": " The archaeologist climbs up the ladder out of the excavation site and walks towards the pyramids. The camel looks at the device while arching his eyebrows.",
+                                "start_time": 0.08,
+                                "end_time": 9.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46a8",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905193053,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905193053,
+                        "file_name": "14415066531191.wav",
+                        "start_time": 100.608,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15372,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 107.768,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd750",
+                                "sentence": " The archaeologist climbs up the massive set of stairs and into the mouth of the pyramid of king tut.",
+                                "start_time": 0.96,
+                                "end_time": 7.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46a9",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905193206,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905193206,
+                        "file_name": "14415067262701.wav",
+                        "start_time": 110.432,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15373,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 125.782,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac150d8af910da52dfd16",
+                                "sentence": " The scene cuts back to the camel, who was chewing the device that the archaeologists found.",
+                                "start_time": 0.18,
+                                "end_time": 5.11
+                            },
+                            {
+                                "_id": "5e3ac150d8af910da52dfd15",
+                                "sentence": " The statue of the face of king tut begins spinning in three sections, eyes, nose and mouth. Each time the section spins, a different face is created.",
+                                "start_time": 5.12,
+                                "end_time": 15.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46aa",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905193349,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905193349,
+                        "file_name": "14415068297231.wav",
+                        "start_time": 156.298,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15374,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 165.508,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3e9c648ec0da79cd7e5",
+                                "sentence": " A brick of the pyramid is removed, and the archaeologist is launched out of the pyramid through the sky and lands in the excavation site.",
+                                "start_time": 0.99,
+                                "end_time": 9.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46ab",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905193435,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905193435,
+                        "file_name": "14415068755331.wav",
+                        "start_time": 169.81,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15375,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 177.48,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd720",
+                                "sentence": " The archaeologist and the camel look at each other,",
+                                "start_time": 0.96,
+                                "end_time": 3.8
+                            },
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd71f",
+                                "sentence": " the camel swallows. They both looked back towards the pyramid.",
+                                "start_time": 3.8,
+                                "end_time": 7.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46ac",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905194818,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905194818,
+                        "file_name": "14415076979971.wav",
+                        "start_time": 13.649,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15377,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 26.948999999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3abe41108b490da613b34a",
+                                "sentence": " An archeologist uses a small excavation brush to brush away some sand.",
+                                "start_time": 0.14,
+                                "end_time": 4.47
+                            },
+                            {
+                                "_id": "5e3abe41108b490da613b349",
+                                "sentence": " It reveals a small, thin, rectangular shaped device that resembles a cracked cell phone. The archaeologist brushes off some sand and picks up his Discovery.",
+                                "start_time": 4.47,
+                                "end_time": 13.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6046e13dfd851a46ad",
+                        "audio_description": "58e7cf3246e13dfd851a2460",
+                        "created_at": 20150905202322,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150905202322,
+                        "file_name": "14415098021171.wav",
+                        "start_time": 127.676,
+                        "legacy_video_id": 2142,
+                        "legacy_user_id": 2749,
+                        "label": "",
+                        "legacy_audio_clip_id": 15379,
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "end_time": 131.516,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a245f",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a3a2079a0da87fe520",
+                                "sentence": " The camel continues to chew on the device.",
+                                "start_time": 1.12,
+                                "end_time": 3.8
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3246e13dfd851a2460",
+                "status": "published",
+                "legacy_video_id": 2142,
+                "legacy_user_id": 2749,
+                "video": "58e7cf2946e13dfd851a1c71",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3246e13dfd851a245f",
+                    "name": "kmsearfoss",
+                    "google_user_id_token": "",
+                    "created_at": 20150901081107,
+                    "updated_at": 20150904113204,
+                    "legacy_user_id": 2749,
+                    "last_login": 0,
+                    "email": "kmsearfoss@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5beb1ee63f8c5f6c43f18134",
+                        "video": "58e7cf2946e13dfd851a1c71",
+                        "audio_description": "5beb1d743f8c5f6c43f18133",
+                        "user": "5be5cb302aca700f8bc753f3",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 19.285333333333334,
+                        "duration": 19.285333333333334,
+                        "file_name": "j6PbonHsqW0_5beb1ee63f8c5f6c43f18134.wav",
+                        "file_size_bytes": 3702828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/j6PbonHsqW0",
+                        "created_at": 20181113185846,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5b45a36c700002db690ff4",
+                                "sentence": "Anima\u00e7\u00e3o digital t\u00edtulo na tela. L\u00ea pir\u00e2mide eg\u00edpcia.",
+                                "start_time": 3.52,
+                                "end_time": 8.67
+                            },
+                            {
+                                "_id": "5e5b45a36c700002db690ff3",
+                                "sentence": "Clicar em 1920 escritos sobre um fundo de areia.",
+                                "start_time": 11.18,
+                                "end_time": 14.63
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5beb1d743f8c5f6c43f18133",
+                "video": "58e7cf2946e13dfd851a1c71",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5be5cb302aca700f8bc753f3",
+                    "email": "naramarques13@gmail.com",
+                    "name": "Nara Marques",
+                    "given_name": "Nara",
+                    "picture": "https://lh5.googleusercontent.com/-UffjLIMIyys/AAAAAAAAAAI/AAAAAAAAABo/4v2_6Np-0S4/s96-c/photo.jpg",
+                    "locale": "pt-BR",
+                    "google_user_id": "103421171112416088041",
+                    "last_login": 20181113184956,
+                    "token": "5d2277a08cfbd60795748d4e4ef9389081ada0242fc89c9f13f7e92d216ca62b",
+                    "__v": 0,
+                    "updated_at": 20181113184956,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "pt-br",
+                "created_at": 20181113185236,
+                "updated_at": 20181113185236,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "pyramid",
+            "egypt",
+            "short film",
+            "animation",
+            "supinfocom",
+            "arles",
+            "mucem",
+            "merveilles du monde",
+            "wonders of the world",
+            "camel",
+            "archeologist",
+            "remote control",
+            "fun",
+            "cartoon",
+            "nicojak",
+            "onectin",
+            "Egyptian Pyramids",
+            "Animated Cartoon (TV Genre)",
+            "Short",
+            "cgi",
+            "funny",
+            "les pyramides d'\u00e9gypte",
+            "disney",
+            "disney shorts",
+            "disney favorite",
+            "MOPA",
+            "Ecole MOPA",
+            "MOPA school",
+            "motion picture in arles",
+            "Lol",
+            "Fortnite",
+            "Trailer",
+            "Teaser",
+            "Season 11"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c71",
+        "description": "",
+        "youtube_id": "j6PbonHsqW0",
+        "views": 0,
+        "created_at": 20150905180436,
+        "title": "The Egyptian Pyramids - Funny Animated Short Film (Full HD)",
+        "legacy_video_id": 2142,
+        "updated_at": 20181113185846,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 216
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5f248c9b4247471490b1dc22",
+                        "video": "5f248c9b4247471490b1dc24",
+                        "audio_description": "5f248c9b4247471490b1dc23",
+                        "user": "5c4d26090071d10d857494f3",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0.771355,
+                        "end_time": 2.9900216666666664,
+                        "duration": 2.2186666666666666,
+                        "file_name": "uwFhl9lG-z0_5f248c9b4247471490b1dc22.wav",
+                        "file_size_bytes": 426028,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uwFhl9lG-z0",
+                        "created_at": 20200731212651,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5f248cc24247471490b1dc26",
+                        "video": "5f248c9b4247471490b1dc24",
+                        "audio_description": "5f248c9b4247471490b1dc23",
+                        "user": "5c4d26090071d10d857494f3",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 3.87581,
+                        "end_time": 3.87581,
+                        "duration": 8.448,
+                        "file_name": "uwFhl9lG-z0_5f248cc24247471490b1dc26.wav",
+                        "file_size_bytes": 1622060,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uwFhl9lG-z0",
+                        "created_at": 20200731212730,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5f248c9b4247471490b1dc23",
+                "video": "5f248c9b4247471490b1dc24",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c4d26090071d10d857494f3",
+                    "email": "akim012304@gmail.com",
+                    "name": "Andrew Kim",
+                    "given_name": "Andrew",
+                    "picture": "https://lh4.googleusercontent.com/-DG0Soas8lcU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwca7Qdhk49NmsKR6PV_h9KxisF3XHw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "104372052077833639829",
+                    "last_login": 20200812031502,
+                    "token": "c347332e972d6f1071560c60c81d34ee787c5646ce7722c2dff7eb98175c71b8",
+                    "__v": 0,
+                    "updated_at": 20200812031502,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200731212651,
+                "updated_at": 20200817045645,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 3,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 3,
+                "feedbacks": {
+                    "3": 1,
+                    "6": 1,
+                    "7": 1
+                }
+            }
+        ],
+        "tags": [
+            "Blind",
+            "Legally Blind",
+            "Retinitis Pigmentosa",
+            "Visually Impaired",
+            "Vision Impairment",
+            "Low Vision",
+            "Limited Vision",
+            "Vision",
+            "Disability",
+            "Disabled"
+        ],
+        "custom_tags": [],
+        "_id": "5f248c9b4247471490b1dc24",
+        "title": "Top 5 Things Not To Say To A Visually Impaired Person",
+        "description": "This is my list of the top 5 things you should not say to a visually impaired person. \n\nFollow me on Twitter:  https://twitter.com/its_CaylawithaC\n\nYou Don\u2019t Look Blind: https://youtu.be/-x5sFYm9O1Q",
+        "youtube_id": "uwFhl9lG-z0",
+        "created_at": 20200731212651,
+        "updated_at": 20200731212730,
+        "views": 0,
+        "__v": 0,
+        "category_id": "22",
+        "category": "People & Blogs",
+        "duration": 444,
+        "youtube_status": "available"
+    }
+}

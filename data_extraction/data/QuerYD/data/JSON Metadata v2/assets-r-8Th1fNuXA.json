@@ -1,0 +1,99 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7bf60515c8ca3ccf56d6ed",
+                        "video": "5d7bf5d98302113cc4be502a",
+                        "audio_description": "5d7bf5d98302113cc4be5029",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "Manufacturing Program Description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 26.538666666666668,
+                        "duration": 26.538666666666668,
+                        "file_name": "r-8Th1fNuXA_5d7bf60515c8ca3ccf56d6ed.wav",
+                        "file_size_bytes": 5095468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/r-8Th1fNuXA",
+                        "created_at": 20190913200317,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2e7604239900952349",
+                                "sentence": " Two men work at a control panel. Tax rates, manufacturing, engineering technology. Do you like to fix things or your problem software? If so, manufacturing engineering technologies for you",
+                                "start_time": 0.18,
+                                "end_time": 8.35
+                            },
+                            {
+                                "_id": "5e557b2e7604239900952348",
+                                "sentence": " two men manipulate a robotic arm, tax rates careers. Graduates can be prepared to work in manufacturing plants, repair shops,",
+                                "start_time": 8.35,
+                                "end_time": 14.35
+                            },
+                            {
+                                "_id": "5e557b2e7604239900952347",
+                                "sentence": " wholesalers, and a whole lot more sets of hands make small adjustments to a device. Tax rates lead the programmer associate degree in 16 months or certificate or diploma, as little as four months",
+                                "start_time": 14.35,
+                                "end_time": 22.57
+                            },
+                            {
+                                "_id": "5e557b2e7604239900952346",
+                                "sentence": " long. Woman stands in manufacturing lab tech streets. You've got this.",
+                                "start_time": 22.57,
+                                "end_time": 26.36
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7bf5d98302113cc4be5029",
+                "video": "5d7bf5d98302113cc4be502a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190913200233,
+                "updated_at": 20190913200233,
+                "notes": "2 men work at a control panel. \r\nText reads:\r\nManufacturing Engineering Technology\r\nDo you like to fix things? Are you a problem solver?\r\nIf so,  manufacturing engineering technology is for you.\r\n\r\n2 men manuipulate a robotic arm. \r\nText reads:\r\nCarrers\r\nGraduates can be prepared to work in manufacturing plants, repair shops, wholesalers and a whole lot more!\r\n\r\nSets of hands make small adjustments to a device. \r\nText reads:\r\nLength of Program\r\nEarn an associate degree in 16 months, or certificate or diploma in as little as 4 months. \r\n\r\nA blonde woman stands in a manufacturing lab. \r\nText reads:\r\nYou've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Manufacturing and Engineering Technology",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5d7bf5d98302113cc4be502a",
+        "title": "Manufacturing and Engineering Technology Program Video",
+        "description": "Information on the Manufacturing and Engineering Technology program.",
+        "youtube_id": "r-8Th1fNuXA",
+        "created_at": 20190913200233,
+        "updated_at": 20190913200317,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

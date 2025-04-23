@@ -1,0 +1,282 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bda",
+                        "audio_description": "58e7cf3546e13dfd851a25d5",
+                        "created_at": 20160826121633,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160826121633,
+                        "file_name": "14722389938821.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2693,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24127,
+                        "video": "58e7cf2946e13dfd851a1e98",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45b90f0269c027b2e189c7",
+                                "sentence": " A light skinned young male sits in a supportive wheelchair.",
+                                "start_time": 0,
+                                "end_time": 3.32
+                            },
+                            {
+                                "_id": "5e45b90f0269c027b2e189c6",
+                                "sentence": " An adult female sits",
+                                "start_time": 3.45,
+                                "end_time": 5.49
+                            },
+                            {
+                                "_id": "5e45b90f0269c027b2e189c5",
+                                "sentence": " to the students side and out of view,",
+                                "start_time": 5.74,
+                                "end_time": 8.31
+                            },
+                            {
+                                "_id": "5e45b90f0269c027b2e189c4",
+                                "sentence": " she holds a binder in front of the student.",
+                                "start_time": 8.86,
+                                "end_time": 11.19
+                            },
+                            {
+                                "_id": "5e45b90f0269c027b2e189c3",
+                                "sentence": " Each page of the binder has several different picture symbols with small words or phrases on each symbol.",
+                                "start_time": 11.25,
+                                "end_time": 17.37
+                            },
+                            {
+                                "_id": "5e45b90f0269c027b2e189c2",
+                                "sentence": " The woman flips through a few pages stops and points at a question mark.",
+                                "start_time": 17.52,
+                                "end_time": 22.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bdb",
+                        "audio_description": "58e7cf3546e13dfd851a25d5",
+                        "created_at": 20160826121656,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160826121656,
+                        "file_name": "14722390167231.wav",
+                        "start_time": 25.15,
+                        "legacy_video_id": 2693,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24128,
+                        "video": "58e7cf2946e13dfd851a1e98",
+                        "end_time": 25.15,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb24a3885227afb5cd54",
+                                "sentence": " The woman starts flipping through the binder, again, stopping on a page and pointing at a book symbol,",
+                                "start_time": 0.16,
+                                "end_time": 6.01
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd53",
+                                "sentence": " then flips to a music simple.",
+                                "start_time": 6.01,
+                                "end_time": 8.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bdc",
+                        "audio_description": "58e7cf3546e13dfd851a25d5",
+                        "created_at": 20160826121725,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160826121725,
+                        "file_name": "14722390459171.wav",
+                        "start_time": 40.128,
+                        "legacy_video_id": 2693,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24129,
+                        "video": "58e7cf2946e13dfd851a1e98",
+                        "end_time": 40.128,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45b89f98b0c327b1e12856",
+                                "sentence": " The woman sets the binder down and holds up a book called today. I feel silly.",
+                                "start_time": 0.09,
+                                "end_time": 4.63
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e12855",
+                                "sentence": " The students miles,",
+                                "start_time": 4.78,
+                                "end_time": 6.41
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e12854",
+                                "sentence": " the woman holds up her phone with music on it.",
+                                "start_time": 6.64,
+                                "end_time": 9.4
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e12853",
+                                "sentence": " Then she switches back",
+                                "start_time": 10.02,
+                                "end_time": 11.76
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e12852",
+                                "sentence": " to the book.",
+                                "start_time": 11.76,
+                                "end_time": 12.65
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e12851",
+                                "sentence": " and the student smiles again.",
+                                "start_time": 12.65,
+                                "end_time": 14.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bdd",
+                        "audio_description": "58e7cf3546e13dfd851a25d5",
+                        "created_at": 20160826121842,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160826121842,
+                        "file_name": "14722391229851.wav",
+                        "start_time": 66.158,
+                        "legacy_video_id": 2693,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24130,
+                        "video": "58e7cf2946e13dfd851a1e98",
+                        "end_time": 66.158,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb23a3885227afb5ccff",
+                                "sentence": " The woman puts her phone and book down and picks up the binder with the symbols.",
+                                "start_time": 0,
+                                "end_time": 4.17
+                            },
+                            {
+                                "_id": "5e45bb23a3885227afb5ccfe",
+                                "sentence": " She flips to the page with a book symbol",
+                                "start_time": 4.33,
+                                "end_time": 7.18
+                            },
+                            {
+                                "_id": "5e45bb23a3885227afb5ccfd",
+                                "sentence": " and then holds up the book.",
+                                "start_time": 7.63,
+                                "end_time": 9.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bde",
+                        "audio_description": "58e7cf3546e13dfd851a25d5",
+                        "created_at": 20160826121910,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160826121910,
+                        "file_name": "14722391503401.wav",
+                        "start_time": 80.727,
+                        "legacy_video_id": 2693,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24131,
+                        "video": "58e7cf2946e13dfd851a1e98",
+                        "end_time": 80.727,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.76,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e4427a179f74cbc7c082e08",
+                                "sentence": " The woman flips the pages on the binder to the page with the music symbol.",
+                                "start_time": 0.38,
+                                "end_time": 4.64
+                            },
+                            {
+                                "_id": "5e4427a179f74cbc7c082e07",
+                                "sentence": " She then flips to a page with different mood symbols.",
+                                "start_time": 4.93,
+                                "end_time": 8.45
+                            },
+                            {
+                                "_id": "5e4427a179f74cbc7c082e06",
+                                "sentence": " She points at the one for silly.",
+                                "start_time": 8.5,
+                                "end_time": 11
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25d5",
+                "status": "published",
+                "legacy_video_id": 2693,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e98",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e98",
+        "description": "",
+        "youtube_id": "bWy7nCH3zmQ",
+        "views": 0,
+        "created_at": 20160826115916,
+        "title": "Christian: Making a Choice Between Two Activities in the Classroom (picture symbols)",
+        "legacy_video_id": 2693,
+        "updated_at": 20160826121910,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 117
+    }
+}

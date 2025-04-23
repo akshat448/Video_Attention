@@ -1,0 +1,545 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8c46e13dfd851a6623",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128135650,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128135650,
+                        "file_name": "14803702102401.wav",
+                        "start_time": 0.32,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28371,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 5.44,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e474a40776f3e043421dde4",
+                                "sentence": " Richard sits alone at a table in a large room, and two row walks in with pursed lips.",
+                                "start_time": 0.11,
+                                "end_time": 5.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8c46e13dfd851a6624",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128140435,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128140435,
+                        "file_name": "14803706753861.wav",
+                        "start_time": 13.425,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28374,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 13.425,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e47480ce1559904332045d6",
+                                "sentence": " Back in the tower of London, a man walks in on a sleeping Prince. He stands overlooking the Prince and places a red cloth on his face, suffocating the child.",
+                                "start_time": 0,
+                                "end_time": 9.62
+                            },
+                            {
+                                "_id": "5e47480ce1559904332045d5",
+                                "sentence": " The Prince gasps for air through the cloth.",
+                                "start_time": 9.62,
+                                "end_time": 12.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8c46e13dfd851a6625",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128141100,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128141100,
+                        "file_name": "14803710604741.wav",
+                        "start_time": 32.23,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28381,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 35.04,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e47480ce15599043320459c",
+                                "sentence": " Teal nods and turns around to leave.",
+                                "start_time": 0,
+                                "end_time": 2.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8c46e13dfd851a6626",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128141418,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128141418,
+                        "file_name": "14803712580881.wav",
+                        "start_time": 45.309,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28385,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 50.428999999999995,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e47472f776f3e043421dcec",
+                                "sentence": " Richard swivels his chair around, means his head back, and slowly glances up.",
+                                "start_time": 0,
+                                "end_time": 4.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8c46e13dfd851a6627",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128141509,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128141509,
+                        "file_name": "14803713094711.wav",
+                        "start_time": 57.778,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28386,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 57.778,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e474572872a5004357bc522",
+                                "sentence": " Richard makes direct eye contact with the audience.",
+                                "start_time": 0,
+                                "end_time": 3.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8c46e13dfd851a6628",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128141734,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128141734,
+                        "file_name": "14803714540321.wav",
+                        "start_time": 69.392,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28388,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 73.482,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e474a40776f3e043421ddef",
+                                "sentence": " Slowly and hails, froze his brow and purses his lips.",
+                                "start_time": 0,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8c46e13dfd851a6629",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128142241,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128142241,
+                        "file_name": "14803717611701.wav",
+                        "start_time": 80.16,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28390,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 85.28,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e47480ce1559904332045a9",
+                                "sentence": " Now we are in a still bedroom. Some light comes in through the windows.",
+                                "start_time": 0,
+                                "end_time": 4.59
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8c46e13dfd851a662a",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128143132,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128143132,
+                        "file_name": "14803722919961.wav",
+                        "start_time": 84.961,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28395,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 93.661,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e47480ce1559904332045e0",
+                                "sentence": " A wide eyed pale, an lies on the bed. It becomes clear she is dead as a large spider crawls from her forehead to her cheek.",
+                                "start_time": 0,
+                                "end_time": 7.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8c46e13dfd851a662b",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128144322,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128144322,
+                        "file_name": "14803730020001.wav",
+                        "start_time": 93.4,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28401,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 93.4,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e474730776f3e043421dd48",
+                                "sentence": " Now a girl sits alone on a staircase, hunched over, rocking back and forth as she wipes away tears.",
+                                "start_time": 0.35,
+                                "end_time": 7.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8c46e13dfd851a662e",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128144637,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128144637,
+                        "file_name": "14803731975751.wav",
+                        "start_time": 103.541,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28405,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 103.541,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e47480ce1559904332045d2",
+                                "sentence": " Now we are back inside richards headquarters.",
+                                "start_time": 0,
+                                "end_time": 3.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8c46e13dfd851a662f",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128145229,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128145229,
+                        "file_name": "14803735490661.wav",
+                        "start_time": 140.857,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28411,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 140.857,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e474730776f3e043421dd2c",
+                                "sentence": " Richard glances at his watch.",
+                                "start_time": 0,
+                                "end_time": 1.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8d46e13dfd851a6630",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128145358,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128145358,
+                        "file_name": "14803736388531.wav",
+                        "start_time": 160.056,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28413,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 160.056,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e47480ce1559904332045ab",
+                                "sentence": " Richard takes off his glasses in the corners of his mouth, suddenly rise in response to his mother's insults.",
+                                "start_time": 0,
+                                "end_time": 5.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8d46e13dfd851a6633",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128150246,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128150246,
+                        "file_name": "14803741661531.wav",
+                        "start_time": 181.787,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28422,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 192.27700000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.49,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e474a40776f3e043421ddba",
+                                "sentence": " Richard becomes wide eyed and stares at the duchess. As she departs. For a moment, nervously, cree sing his forehead.",
+                                "start_time": 0.4,
+                                "end_time": 7.25
+                            },
+                            {
+                                "_id": "5e474a40776f3e043421ddb9",
+                                "sentence": " He looks back at radcliffe and smirks.",
+                                "start_time": 7.25,
+                                "end_time": 10.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8d46e13dfd851a6636",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128151500,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128151500,
+                        "file_name": "14803749004621.wav",
+                        "start_time": 195.965,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28428,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 208.245,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e474730776f3e043421dd35",
+                                "sentence": " Now we are out of foggy landing field where airplanes are lined up. In a 1930s, car drives in behind the planes.",
+                                "start_time": 0,
+                                "end_time": 7.05
+                            },
+                            {
+                                "_id": "5e474730776f3e043421dd34",
+                                "sentence": " The duchess, queen elizabeth and her daughter elizabeth are let out by attendance.",
+                                "start_time": 7.05,
+                                "end_time": 11.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8d46e13dfd851a6639",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128151726,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128151726,
+                        "file_name": "14803750463841.wav",
+                        "start_time": 223.428,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28431,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 223.428,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e474730776f3e043421dd52",
+                                "sentence": " Queen elizabeth stifles a cry as she hugs her mother and clutches her daughter's head closely to her shoulder.",
+                                "start_time": 0,
+                                "end_time": 6.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8d46e13dfd851a663c",
+                        "audio_description": "58e7cf3b46e13dfd851a27e2",
+                        "created_at": 20161128152649,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161128152649,
+                        "file_name": "14803756094221.wav",
+                        "start_time": 253.483,
+                        "legacy_video_id": 2981,
+                        "legacy_user_id": 3464,
+                        "label": "",
+                        "legacy_audio_clip_id": 28438,
+                        "video": "58e7cf2946e13dfd851a1fb7",
+                        "end_time": 275.733,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 22.25,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27e1",
+                        "transcript": [
+                            {
+                                "_id": "5e474a40776f3e043421dddf",
+                                "sentence": " The duchess boards the airplane as queen elizabeth and her daughter remain on the landing field.",
+                                "start_time": 0.2,
+                                "end_time": 5.63
+                            },
+                            {
+                                "_id": "5e474a40776f3e043421ddde",
+                                "sentence": " As the airplane departs, the mother and daughter feel a gust of wind from the airplanes propeller.",
+                                "start_time": 5.63,
+                                "end_time": 10.94
+                            },
+                            {
+                                "_id": "5e474a40776f3e043421dddd",
+                                "sentence": " Queen elizabeth holds her daughter closely as they gaze towards the departing aircraft.",
+                                "start_time": 10.94,
+                                "end_time": 15.8
+                            },
+                            {
+                                "_id": "5e474a40776f3e043421dddc",
+                                "sentence": " They remain unwavering in their gaze, even as the plane is high in the air.",
+                                "start_time": 15.8,
+                                "end_time": 21.7
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3b46e13dfd851a27e2",
+                "status": "published",
+                "legacy_video_id": 2981,
+                "legacy_user_id": 3464,
+                "video": "58e7cf2946e13dfd851a1fb7",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3b46e13dfd851a27e1",
+                    "name": "apollock",
+                    "google_user_id_token": "",
+                    "created_at": 20161127212236,
+                    "updated_at": 20161127212443,
+                    "legacy_user_id": 3464,
+                    "last_login": 0,
+                    "email": "ariellepollock@berkeley.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Jack",
+            "Gallgher",
+            "Richard",
+            "III",
+            "Film",
+            "U4C",
+            "Media",
+            "Assessment"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1fb7",
+        "description": "",
+        "youtube_id": "uTDkM7wUx-A",
+        "views": 0,
+        "created_at": 20161127215043,
+        "title": "Richard III - Scene 14",
+        "legacy_video_id": 2981,
+        "updated_at": 20161128152653,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 279
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4ead",
+                        "audio_description": "58e7cf3346e13dfd851a24f0",
+                        "created_at": 20151102104643,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102104643,
+                        "file_name": "14464900037661.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2321,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18325,
+                        "video": "58e7cf2946e13dfd851a1d24",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec10568d74267abd5f96a",
+                                "sentence": " Anna sits on a playground next to a bouncy riding toy that is shaped and painted to resemble a pelican.",
+                                "start_time": 0.52,
+                                "end_time": 6.81
+                            },
+                            {
+                                "_id": "5e3ec10568d74267abd5f969",
+                                "sentence": " The handle of the toy represents the ears of the bird. A portion of the back of the bird is painted black and is the seat of the toy.",
+                                "start_time": 6.85,
+                                "end_time": 15.27
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a24f0",
+                "status": "published",
+                "legacy_video_id": 2321,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1d24",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d24",
+        "description": "",
+        "youtube_id": "O7_TzpkCZrg",
+        "views": 0,
+        "created_at": 20151102104603,
+        "title": "The Bird Story- Take 1 Part 2",
+        "legacy_video_id": 2321,
+        "updated_at": 20151102104643,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 46
+    }
+}

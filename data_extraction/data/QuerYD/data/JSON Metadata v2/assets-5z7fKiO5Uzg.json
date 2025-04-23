@@ -1,0 +1,171 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf3f46e13dfd851a29f0",
+                        "audio_description": "58e7cf2b46e13dfd851a20d4",
+                        "created_at": 20130801182838,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130801182838,
+                        "file_name": "5z7fKiO5Uzg-88-1-0-13-0.wav",
+                        "start_time": 13,
+                        "legacy_video_id": 1262,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 3355,
+                        "video": "58e7cf2846e13dfd851a1910",
+                        "end_time": 13,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1b1027706b0d21de5d3ecc",
+                                "sentence": " Paris a le mara is at the beach where children play on a sunny day.",
+                                "start_time": 0.26,
+                                "end_time": 4.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3f46e13dfd851a29f1",
+                        "audio_description": "58e7cf2b46e13dfd851a20d4",
+                        "created_at": 20130801182956,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130801182956,
+                        "file_name": "5z7fKiO5Uzg-88-1-0-32-0.wav",
+                        "start_time": 32,
+                        "legacy_video_id": 1262,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 3356,
+                        "video": "58e7cf2846e13dfd851a1910",
+                        "end_time": 32,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f711",
+                                "sentence": " At the beach soo park as trophosphere a and a visually impaired child play together at the water's edge.",
+                                "start_time": 0.37,
+                                "end_time": 6.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3f46e13dfd851a29f2",
+                        "audio_description": "58e7cf2b46e13dfd851a20d4",
+                        "created_at": 20130801183920,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130801183920,
+                        "file_name": "5z7fKiO5Uzg-88-1-0-197-0.wav",
+                        "start_time": 197,
+                        "legacy_video_id": 1262,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 3363,
+                        "video": "58e7cf2846e13dfd851a1910",
+                        "end_time": 197,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1b1028706b0d21de5d3f24",
+                                "sentence": " Braille institute empowering visually impaired people to live fulfilling lives.",
+                                "start_time": 0.11,
+                                "end_time": 6.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2ada",
+                        "audio_description": "58e7cf2b46e13dfd851a20d4",
+                        "created_at": 20131001181253,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131001181253,
+                        "file_name": "1380676373341.wav",
+                        "start_time": 109.45,
+                        "legacy_video_id": 1262,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 4081,
+                        "video": "58e7cf2846e13dfd851a1910",
+                        "end_time": 109.45,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1c71ca8fa8029f79acfbd2",
+                                "sentence": " Kids and parents enjoy a braille institute beach day with activities and booths run by braille staffers.",
+                                "start_time": 0.11,
+                                "end_time": 8.27
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20d4",
+                "status": "published",
+                "legacy_video_id": 1262,
+                "legacy_user_id": 88,
+                "video": "58e7cf2846e13dfd851a1910",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20d1",
+                    "name": "jimhull",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20151217172851,
+                    "legacy_user_id": 88,
+                    "last_login": 0,
+                    "email": "jimhull@jimhull.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "child development",
+            "blind",
+            "visually impaired",
+            "children",
+            "parents",
+            "what to do"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1910",
+        "description": "",
+        "youtube_id": "5z7fKiO5Uzg",
+        "views": 0,
+        "created_at": 20130801175900,
+        "title": "Braille Institute helping Children with Visual Impairment",
+        "legacy_video_id": 1262,
+        "updated_at": 20131226170737,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 200
+    }
+}

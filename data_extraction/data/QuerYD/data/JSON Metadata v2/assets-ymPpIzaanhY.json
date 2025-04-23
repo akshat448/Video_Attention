@@ -1,0 +1,89 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4a46e13dfd851a3589",
+                        "audio_description": "58e7cf2d46e13dfd851a21c8",
+                        "created_at": 20141114170148,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141114170148,
+                        "file_name": "14160133083141.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1709,
+                        "legacy_user_id": 2255,
+                        "label": "",
+                        "legacy_audio_clip_id": 9310,
+                        "video": "58e7cf2846e13dfd851a1ac0",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21c1",
+                        "transcript": [
+                            {
+                                "_id": "5e25331e7482b6a6dfabc5b1",
+                                "sentence": " A slightly disheveled willy wonk, a wearing a purple vest, grey silk tie, begins speaking angrily",
+                                "start_time": 0.15,
+                                "end_time": 6.2
+                            },
+                            {
+                                "_id": "5e25331e7482b6a6dfabc5b0",
+                                "sentence": " while gesticulate ing with his index finger.",
+                                "start_time": 6.2,
+                                "end_time": 8.95
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21c8",
+                "status": "published",
+                "legacy_video_id": 1709,
+                "legacy_user_id": 2255,
+                "video": "58e7cf2846e13dfd851a1ac0",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21c1",
+                    "name": "mduigou",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2255,
+                    "last_login": 0,
+                    "email": "youdescribe@duigou.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "So You Get Nothing",
+            "You Lose! Good Day Sir!"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ac0",
+        "description": "",
+        "youtube_id": "ymPpIzaanhY",
+        "views": 0,
+        "created_at": 20141114165808,
+        "title": "So You Get Nothing, You Lose! Good Day Sir!",
+        "legacy_video_id": 1709,
+        "updated_at": 20141114170148,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 7
+    }
+}

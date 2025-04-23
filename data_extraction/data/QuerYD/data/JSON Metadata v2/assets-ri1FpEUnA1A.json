@@ -1,0 +1,98 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6146e13dfd851a4725",
+                        "audio_description": "58e7cf3046e13dfd851a23a5",
+                        "created_at": 20150912121256,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150912121256,
+                        "file_name": "14420851760571.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2161,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15546,
+                        "video": "58e7cf2946e13dfd851a1c84",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 22.76,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac329108b490da613b393",
+                                "sentence": " A male student wearing glasses and a blue hoodie stands in a music classroom.",
+                                "start_time": 1.95,
+                                "end_time": 7.12
+                            },
+                            {
+                                "_id": "5e3ac329108b490da613b392",
+                                "sentence": " He and another student drum on a display of drum sets before them.",
+                                "start_time": 7.12,
+                                "end_time": 11.64
+                            },
+                            {
+                                "_id": "5e3ac329108b490da613b391",
+                                "sentence": " He lightly taps the drum in front of him. The other student taps the drums to show him what to do",
+                                "start_time": 11.64,
+                                "end_time": 18.01
+                            },
+                            {
+                                "_id": "5e3ac329108b490da613b390",
+                                "sentence": " in response. He taps the drums again and then stops grinning ear to ear.",
+                                "start_time": 18.01,
+                                "end_time": 22.74
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a23a5",
+                "status": "published",
+                "legacy_video_id": 2161,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c84",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c84",
+        "description": "",
+        "youtube_id": "ri1FpEUnA1A",
+        "views": 0,
+        "created_at": 20150912121203,
+        "title": "Debbie Sanders: Student In Music Class (2 of 3)",
+        "legacy_video_id": 2161,
+        "updated_at": 20150912121256,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 18
+    }
+}

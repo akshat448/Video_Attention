@@ -1,0 +1,558 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45a6",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826173814,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826173814,
+                        "file_name": "14406358944021.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14947,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7c8",
+                                "sentence": " A still image shows joel, a young toddler standing and holding a diaper with his mom kneeling behind him.",
+                                "start_time": 0.83,
+                                "end_time": 7.97
+                            },
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7c7",
+                                "sentence": " Yellow print at the bottom of the screen reads ready to change.",
+                                "start_time": 8.48,
+                                "end_time": 12.8
+                            },
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7c6",
+                                "sentence": " As the video plays yellow print appears on a black background. The voice you hear reads the print.",
+                                "start_time": 13.04,
+                                "end_time": 20.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45a7",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826173856,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826173856,
+                        "file_name": "14406359365291.wav",
+                        "start_time": 8.687,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14948,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 8.687,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.72,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac327108b490da613b367",
+                                "sentence": " Joel stands grasping the frame of a rocking horse.",
+                                "start_time": 0.62,
+                                "end_time": 4.2
+                            },
+                            {
+                                "_id": "5e3ac327108b490da613b366",
+                                "sentence": " His mother neal's behind him and uses her hands to sign diaper on his waist.",
+                                "start_time": 4.29,
+                                "end_time": 9.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45a8",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826173935,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826173935,
+                        "file_name": "14406359752741.wav",
+                        "start_time": 21.078,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14949,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 21.078,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac392d8af910da52dfdea",
+                                "sentence": " As she touches his hands, he grasped her index fingers.",
+                                "start_time": 0.86,
+                                "end_time": 4.98
+                            },
+                            {
+                                "_id": "5e3ac392d8af910da52dfde9",
+                                "sentence": " She supports him. While he walks across the room,",
+                                "start_time": 5.13,
+                                "end_time": 8.41
+                            },
+                            {
+                                "_id": "5e3ac392d8af910da52dfde8",
+                                "sentence": " they walk over to the blue bag that is hanging from a white crib.",
+                                "start_time": 8.56,
+                                "end_time": 12.56
+                            },
+                            {
+                                "_id": "5e3ac392d8af910da52dfde7",
+                                "sentence": " There are diapers inside the bag.",
+                                "start_time": 12.56,
+                                "end_time": 14.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45a9",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826173956,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826173956,
+                        "file_name": "14406359966991.wav",
+                        "start_time": 32.454,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14950,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 32.454,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac391d8af910da52dfdad",
+                                "sentence": " Joel retrieved the diaper.",
+                                "start_time": 0.48,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45aa",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826174028,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826174028,
+                        "file_name": "14406360287951.wav",
+                        "start_time": 43.668,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14951,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 43.668,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe558",
+                                "sentence": " After resisting for a moment, joel, with the help of his mother, lies down on the carpet.",
+                                "start_time": 0.6,
+                                "end_time": 6.39
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe557",
+                                "sentence": " He squeals and kicks his feet in the air.",
+                                "start_time": 6.39,
+                                "end_time": 9.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45ab",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826174120,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826174120,
+                        "file_name": "14406360805691.wav",
+                        "start_time": 51.172,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14952,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 51.172,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 22.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac392d8af910da52dfdcc",
+                                "sentence": " Yellow print on a black background reads",
+                                "start_time": 0.4,
+                                "end_time": 3.41
+                            },
+                            {
+                                "_id": "5e3ac392d8af910da52dfdcb",
+                                "sentence": " joles diaper routine number one, user touch q and the spoken word",
+                                "start_time": 3.41,
+                                "end_time": 9.27
+                            },
+                            {
+                                "_id": "5e3ac392d8af910da52dfdca",
+                                "sentence": " diaper",
+                                "start_time": 9.27,
+                                "end_time": 10.16
+                            },
+                            {
+                                "_id": "5e3ac392d8af910da52dfdc9",
+                                "sentence": " number two",
+                                "start_time": 10.16,
+                                "end_time": 11.46
+                            },
+                            {
+                                "_id": "5e3ac392d8af910da52dfdc8",
+                                "sentence": " guide joel to the diaper bag. Number three,",
+                                "start_time": 11.6,
+                                "end_time": 15.62
+                            },
+                            {
+                                "_id": "5e3ac392d8af910da52dfdc7",
+                                "sentence": " let joelle take out the diaper",
+                                "start_time": 15.72,
+                                "end_time": 18.14
+                            },
+                            {
+                                "_id": "5e3ac392d8af910da52dfdc6",
+                                "sentence": " number four, ask him to sit or lie down.",
+                                "start_time": 18.14,
+                                "end_time": 22.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45ac",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826174225,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826174225,
+                        "file_name": "14406361458231.wav",
+                        "start_time": 62.317,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14953,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 68.457,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe54d",
+                                "sentence": " How does a consistent routine prepare joe to be a more active learner?",
+                                "start_time": 0.85,
+                                "end_time": 6.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45ad",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826174314,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826174314,
+                        "file_name": "14406361939981.wav",
+                        "start_time": 69.15,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14954,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 69.15,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac825a64ad347e453c5eb",
+                                "sentence": " When his parents used the same routine and the same words every time, he can begin to anticipate what's next.",
+                                "start_time": 0.66,
+                                "end_time": 7.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45ae",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826174422,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826174422,
+                        "file_name": "14406362623351.wav",
+                        "start_time": 76.444,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14955,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 76.444,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd72f",
+                                "sentence": " Knowing what's next",
+                                "start_time": 0.74,
+                                "end_time": 2.44
+                            },
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd72e",
+                                "sentence": " helps them adjust to the change and not be startled by a sudden action.",
+                                "start_time": 2.44,
+                                "end_time": 6.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45af",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826174527,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826174527,
+                        "file_name": "14406363279421.wav",
+                        "start_time": 81.735,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14956,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 81.735,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac825a64ad347e453c5e9",
+                                "sentence": " A still photo shows joel smiling and grasping the fingers of his mother.",
+                                "start_time": 1.24,
+                                "end_time": 5.8
+                            },
+                            {
+                                "_id": "5e3ac825a64ad347e453c5e8",
+                                "sentence": " Yellow print at the bottom of the screen reads.",
+                                "start_time": 5.8,
+                                "end_time": 8.88
+                            },
+                            {
+                                "_id": "5e3ac825a64ad347e453c5e7",
+                                "sentence": " He can relax and enjoy the predictable repetition of their shared routine.",
+                                "start_time": 8.88,
+                                "end_time": 14.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45b0",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826174632,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826174632,
+                        "file_name": "14406363922011.wav",
+                        "start_time": 89.623,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14957,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 89.623,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3acc07fdede558532228bb",
+                                "sentence": " Yellow print on a black background reads. The routine helps them learn where the diapers are kept,",
+                                "start_time": 0.39,
+                                "end_time": 6.32
+                            },
+                            {
+                                "_id": "5e3acc07fdede558532228ba",
+                                "sentence": " so he can start to build visual and spatial memory.",
+                                "start_time": 6.32,
+                                "end_time": 9.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45b1",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826174700,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826174700,
+                        "file_name": "14406364207291.wav",
+                        "start_time": 95.858,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14958,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 101.488,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac826a64ad347e453c603",
+                                "sentence": " Watch again. How many times does joe's mom repeat? The word diaper?",
+                                "start_time": 0.53,
+                                "end_time": 5.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45b2",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826174759,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826174759,
+                        "file_name": "14406364797571.wav",
+                        "start_time": 103.18,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14959,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 103.18,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac391d8af910da52dfd99",
+                                "sentence": " Once he has diaper, how can they adapt his routine to expand his receptive vocabulary?",
+                                "start_time": 0.51,
+                                "end_time": 7.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45b3",
+                        "audio_description": "58e7cf3046e13dfd851a2389",
+                        "created_at": 20150826174850,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826174850,
+                        "file_name": "14406365300551.wav",
+                        "start_time": 109.294,
+                        "legacy_video_id": 2104,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14960,
+                        "video": "58e7cf2946e13dfd851a1c4b",
+                        "end_time": 109.294,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac6100d8f324490ee39a2",
+                                "sentence": " A still photo shows joel smiling and grasping the fingers of his mother.",
+                                "start_time": 0.46,
+                                "end_time": 5.1
+                            },
+                            {
+                                "_id": "5e3ac6100d8f324490ee39a1",
+                                "sentence": " Yellow print at the bottom of the screen reads, joe has cortical visual impairment,",
+                                "start_time": 5.16,
+                                "end_time": 11.21
+                            },
+                            {
+                                "_id": "5e3ac6100d8f324490ee39a0",
+                                "sentence": " c vi, and a moderate hearing loss.",
+                                "start_time": 11.21,
+                                "end_time": 14.64
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2389",
+                "status": "published",
+                "legacy_video_id": 2104,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c4b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c4b",
+        "description": "",
+        "youtube_id": "xA9uSxI36Ik",
+        "views": 0,
+        "created_at": 20150826173734,
+        "title": "Ready to Change",
+        "legacy_video_id": 2104,
+        "updated_at": 20150826174850,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 116
+    }
+}

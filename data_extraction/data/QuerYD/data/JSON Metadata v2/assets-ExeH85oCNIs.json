@@ -1,0 +1,154 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5746e13dfd851a409b",
+                        "audio_description": "58e7cf3046e13dfd851a2344",
+                        "created_at": 20150425112700,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425112700,
+                        "file_name": "14299864201081.wav",
+                        "start_time": 0.039,
+                        "legacy_video_id": 1929,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13209,
+                        "video": "58e7cf2846e13dfd851a1b9c",
+                        "end_time": 0.039,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 18.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a562168423183b465bd8",
+                                "sentence": " A bond man wearing glasses and a woman with shoulder length curly brown hair sit at an office table in front of a laptop.",
+                                "start_time": 1.65,
+                                "end_time": 8.74
+                            },
+                            {
+                                "_id": "5e30a562168423183b465bd7",
+                                "sentence": " He gestures towards the computer, and she knocked her head and purses her lips.",
+                                "start_time": 8.94,
+                                "end_time": 13.2
+                            },
+                            {
+                                "_id": "5e30a562168423183b465bd6",
+                                "sentence": " While he is talking. She looks away frequently and appears to be lost in thought.",
+                                "start_time": 13.2,
+                                "end_time": 18.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5746e13dfd851a409c",
+                        "audio_description": "58e7cf3046e13dfd851a2344",
+                        "created_at": 20150425112834,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425112834,
+                        "file_name": "14299865140521.wav",
+                        "start_time": 67.673,
+                        "legacy_video_id": 1929,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13210,
+                        "video": "58e7cf2846e13dfd851a1b9c",
+                        "end_time": 67.673,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f788d6c9183c280f16",
+                                "sentence": " He gestures back to the screen.",
+                                "start_time": 0.61,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5746e13dfd851a409d",
+                        "audio_description": "58e7cf3046e13dfd851a2344",
+                        "created_at": 20150425112934,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425112934,
+                        "file_name": "14299865743751.wav",
+                        "start_time": 95.088,
+                        "legacy_video_id": 1929,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13211,
+                        "video": "58e7cf2846e13dfd851a1b9c",
+                        "end_time": 95.088,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f788d6c9183c280eb2",
+                                "sentence": " He is visibly frustrated.",
+                                "start_time": 1.03,
+                                "end_time": 3.22
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2344",
+                "status": "published",
+                "legacy_video_id": 1929,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1b9c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "communication",
+            "OHOA learning modules",
+            "deaf-blind",
+            "intervener",
+            "interruption"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b9c",
+        "description": "",
+        "youtube_id": "ExeH85oCNIs",
+        "views": 0,
+        "created_at": 20150425112419,
+        "title": "Interruption1Montgomery - Module 6",
+        "legacy_video_id": 1929,
+        "updated_at": 20150425112941,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 96
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5af624c85eb2f317e6b8e1d7",
+                        "video": "5af624c85eb2f317e6b8e1d9",
+                        "audio_description": "5af624c85eb2f317e6b8e1d8",
+                        "user": "5af624095eb2f317e6b8e1d6",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0.3,
+                        "end_time": 0.3,
+                        "duration": 2.1333333333333333,
+                        "file_name": "oPwrodxghrw_5af624c85eb2f317e6b8e1d7.wav",
+                        "file_size_bytes": 409644,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/oPwrodxghrw",
+                        "created_at": 20180511231832,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e2191b263d3c80d19f0d148",
+                                "sentence": " Max and the chief.",
+                                "start_time": 0.4,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5af625fb5eb2f317e6b8e1dd",
+                        "video": "5af624c85eb2f317e6b8e1d9",
+                        "audio_description": "5af624c85eb2f317e6b8e1d8",
+                        "user": "5af624095eb2f317e6b8e1d6",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 5.441840999999999,
+                        "end_time": 8.769841,
+                        "duration": 3.328,
+                        "file_name": "oPwrodxghrw_5af625fb5eb2f317e6b8e1dd.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/oPwrodxghrw",
+                        "created_at": 20180511232339,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e219309a294340d18b4c485",
+                                "sentence": " With thumb and forefinger. Max chose a 2 centimeter gap.",
+                                "start_time": 0.21,
+                                "end_time": 3.29
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5af624c85eb2f317e6b8e1d8",
+                "video": "5af624c85eb2f317e6b8e1d9",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5af624095eb2f317e6b8e1d6",
+                    "email": "mjduigou@gmail.com",
+                    "name": "Mike Duigou",
+                    "given_name": "Mike",
+                    "picture": "https://lh3.googleusercontent.com/-HkSTs5EXBRo/AAAAAAAAAAI/AAAAAAAAAfM/p6Dhfnjoe4A/s96-c/photo.jpg",
+                    "locale": "en-CA",
+                    "google_user_id": "116804056275752358592",
+                    "last_login": 20180524014549,
+                    "token": "0f74a45e539af3316818f2fd895082a9e0aa1fe9b32bed28684d0571c2cecbad",
+                    "__v": 0,
+                    "updated_at": 20180524014549,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en",
+                "created_at": 20180511231832,
+                "updated_at": 20180517074632,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 2,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 2,
+                "admin_review": "",
+                "feedbacks": {
+                    "0": 1
+                }
+            }
+        ],
+        "tags": [
+            "Get",
+            "Smart",
+            "Missed",
+            "it"
+        ],
+        "custom_tags": [],
+        "_id": "5af624c85eb2f317e6b8e1d9",
+        "title": "Get Smart: Missed it by that much",
+        "description": "",
+        "youtube_id": "oPwrodxghrw",
+        "created_at": 20180511231832,
+        "updated_at": 20180511232339,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 10
+    }
+}

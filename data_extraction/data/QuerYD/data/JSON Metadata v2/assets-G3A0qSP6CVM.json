@@ -1,0 +1,493 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59e5bd342a385d33db80b8f4",
+                        "video": "59e5bbd92a385d33db80b8f1",
+                        "audio_description": "59e5bbd92a385d33db80b8f0",
+                        "user": "59e4c2262a385d33db80b8d2",
+                        "label": "Jessica",
+                        "playback_type": "inline",
+                        "start_time": 3.7322380553131103,
+                        "end_time": 19.336047579122635,
+                        "duration": 15.603809523809524,
+                        "file_name": "G3A0qSP6CVM_59e5bd342a385d33db80b8f4.wav",
+                        "file_size_bytes": 2752556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/G3A0qSP6CVM",
+                        "created_at": 20171017082004,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5aefe77473c383d1159a49",
+                                "sentence": "Ein wundersch\u00f6nen, wundersch\u00f6nen Himmel mit super,",
+                                "start_time": 0,
+                                "end_time": 3.25
+                            },
+                            {
+                                "_id": "5e5aefe77473c383d1159a48",
+                                "sentence": "super s\u00fc\u00dfe v\u00f6gelchen \u00fcber den D\u00e4chern von Istanbul.",
+                                "start_time": 3.25,
+                                "end_time": 7.55
+                            },
+                            {
+                                "_id": "5e5aefe77473c383d1159a47",
+                                "sentence": "Es gibt ein minaretten S\u00e4nger.",
+                                "start_time": 7.55,
+                                "end_time": 10.23
+                            },
+                            {
+                                "_id": "5e5aefe77473c383d1159a46",
+                                "sentence": "Jetzt laufen viele t\u00fcrkische M\u00e4nner durch einen schmalen H\u00e4user Gang.",
+                                "start_time": 10.23,
+                                "end_time": 21.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59e5bd892a385d33db80b8f8",
+                        "video": "59e5bbd92a385d33db80b8f1",
+                        "audio_description": "59e5bbd92a385d33db80b8f0",
+                        "user": "59e4c2262a385d33db80b8d2",
+                        "label": "Bruno",
+                        "playback_type": "inline",
+                        "start_time": 30.590543897003172,
+                        "end_time": 47.30891124394195,
+                        "duration": 16.718367346938777,
+                        "file_name": "G3A0qSP6CVM_59e5bd892a385d33db80b8f8.wav",
+                        "file_size_bytes": 2949164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/G3A0qSP6CVM",
+                        "created_at": 20171017082129,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5aefe77473c383d1159a55",
+                                "sentence": "Was macht denn die Frau, warum steht",
+                                "start_time": 0,
+                                "end_time": 3.48
+                            },
+                            {
+                                "_id": "5e5aefe77473c383d1159a54",
+                                "sentence": "sie da am Fenster? Was er denn",
+                                "start_time": 3.48,
+                                "end_time": 6.49
+                            },
+                            {
+                                "_id": "5e5aefe77473c383d1159a53",
+                                "sentence": "interessantes zu erz\u00e4hlen? Warum ist sie mit diesem jungen Mann da?",
+                                "start_time": 6.49,
+                                "end_time": 11.21
+                            },
+                            {
+                                "_id": "5e5aefe77473c383d1159a52",
+                                "sentence": "In der Wohnung in Istanbul?",
+                                "start_time": 11.21,
+                                "end_time": 13.35
+                            },
+                            {
+                                "_id": "5e5aefe77473c383d1159a51",
+                                "sentence": "Das ist eine gro\u00dfe Frage.",
+                                "start_time": 13.35,
+                                "end_time": 23.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59e5becc2a385d33db80b901",
+                        "video": "59e5bbd92a385d33db80b8f1",
+                        "audio_description": "59e5bbd92a385d33db80b8f0",
+                        "user": "59e4c2262a385d33db80b8d2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 56.273551948501584,
+                        "end_time": 56.273551948501584,
+                        "duration": 34.27265306122449,
+                        "file_name": "G3A0qSP6CVM_59e5becc2a385d33db80b901.wav",
+                        "file_size_bytes": 6045740,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/G3A0qSP6CVM",
+                        "created_at": 20171017082652,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5aefe67473c383d1159a21",
+                                "sentence": "Ja, aber was,",
+                                "start_time": 0,
+                                "end_time": 3.55
+                            },
+                            {
+                                "_id": "5e5aefe67473c383d1159a20",
+                                "sentence": "Wie funktioniert das",
+                                "start_time": 3.55,
+                                "end_time": 6.08
+                            },
+                            {
+                                "_id": "5e5aefe67473c383d1159a1f",
+                                "sentence": "denn? Beliebteste Video",
+                                "start_time": 6.08,
+                                "end_time": 11.75
+                            },
+                            {
+                                "_id": "5e5aefe67473c383d1159a1e",
+                                "sentence": "weitergehen, oder? Ne? das",
+                                "start_time": 11.75,
+                                "end_time": 15.07
+                            },
+                            {
+                                "_id": "5e5aefe67473c383d1159a1d",
+                                "sentence": "Video entstehen und du sprichst nur noch sprechen",
+                                "start_time": 15.07,
+                                "end_time": 18.01
+                            },
+                            {
+                                "_id": "5e5aefe67473c383d1159a1c",
+                                "sentence": "als Video weiterleiten gedacht. Das Video w\u00fcrde",
+                                "start_time": 18.01,
+                                "end_time": 21.92
+                            },
+                            {
+                                "_id": "5e5aefe67473c383d1159a1b",
+                                "sentence": "weitergehen. Ohne die Stimme.",
+                                "start_time": 21.92,
+                                "end_time": 24.61
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a017b9f08f3084d7d2a64c7",
+                        "video": "59e5bbd92a385d33db80b8f1",
+                        "audio_description": "59e5bbd92a385d33db80b8f0",
+                        "user": "59e4c2262a385d33db80b8d2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 69.12458212588501,
+                        "end_time": 87.60766602611177,
+                        "duration": 18.483083900226756,
+                        "file_name": "G3A0qSP6CVM_5a017b9f08f3084d7d2a64c7.wav",
+                        "file_size_bytes": 3260460,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/G3A0qSP6CVM",
+                        "created_at": 20171107092343,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5aefe77473c383d1159a4c",
+                                "sentence": "Also wei\u00df \u00e4h, das war ja",
+                                "start_time": 0,
+                                "end_time": 3.69
+                            },
+                            {
+                                "_id": "5e5aefe77473c383d1159a4b",
+                                "sentence": "keine einfache Lage. Deine Tochter wurde hier in der Stadt get\u00f6tet und sich dann der Verbrecher ist weggelaufen und ja,",
+                                "start_time": 3.69,
+                                "end_time": 14.51
+                            },
+                            {
+                                "_id": "5e5aefe77473c383d1159a4a",
+                                "sentence": "das war schon eine schwierige Lage.",
+                                "start_time": 14.51,
+                                "end_time": 22.83
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59e5bbd92a385d33db80b8f0",
+                "video": "59e5bbd92a385d33db80b8f1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59e4c2262a385d33db80b8d2",
+                    "email": "brunocrespel78@gmail.com",
+                    "name": "Bruno Crespel",
+                    "given_name": "Bruno",
+                    "picture": "https://lh6.googleusercontent.com/-3K_wkfujkGw/AAAAAAAAAAI/AAAAAAAAAAA/ACnBePZJ5DA0qo8eoRxRpAIaa81NSwe63A/s96-c/photo.jpg",
+                    "locale": "fr",
+                    "google_user_id": "106467288749983097388",
+                    "last_login": 20171107091746,
+                    "token": "224ef9af10e9bfb786a2085d2794eb906777807c0bc50eaab4d158fe0dbe8120",
+                    "__v": 0,
+                    "updated_at": 20171107091746,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "de",
+                "created_at": 20171017081417,
+                "updated_at": 20171017081417,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a44a69ee1a7ea665efb473c",
+                        "video": "59e5bbd92a385d33db80b8f1",
+                        "audio_description": "5a43ee0848725a0c1295c972",
+                        "user": "5a43d76d48725a0c1295c970",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 10.24,
+                        "file_name": "G3A0qSP6CVM_5a44a69ee1a7ea665efb473c.wav",
+                        "file_size_bytes": 1966124,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/G3A0qSP6CVM",
+                        "created_at": 20171228080902,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5aefe67473c383d1159a32",
+                                "sentence": "Eine junge Frau mit braunem, zusammengefunden im Haar,",
+                                "start_time": 0,
+                                "end_time": 4.58
+                            },
+                            {
+                                "_id": "5e5aefe67473c383d1159a31",
+                                "sentence": "sitzt rauchend auf einem wei\u00dfen Bett.",
+                                "start_time": 4.58,
+                                "end_time": 7.69
+                            },
+                            {
+                                "_id": "5e5aefe67473c383d1159a30",
+                                "sentence": "Die Sonne f\u00e4llt durch das Fenster ins Zimmer hinein.",
+                                "start_time": 7.69,
+                                "end_time": 10.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a44a71ce1a7ea665efb473e",
+                        "video": "59e5bbd92a385d33db80b8f1",
+                        "audio_description": "5a43ee0848725a0c1295c972",
+                        "user": "5a43d76d48725a0c1295c970",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 3.235092,
+                        "end_time": 9.635092,
+                        "duration": 6.4,
+                        "file_name": "G3A0qSP6CVM_5a44a71ce1a7ea665efb473e.wav",
+                        "file_size_bytes": 1228844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/G3A0qSP6CVM",
+                        "created_at": 20171228081108,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5aefe77473c383d1159a6a",
+                                "sentence": "In einer Wohnsiedlung stehen mehrere minarette.",
+                                "start_time": 0,
+                                "end_time": 6.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a44a7ece1a7ea665efb4740",
+                        "video": "59e5bbd92a385d33db80b8f1",
+                        "audio_description": "5a43ee0848725a0c1295c972",
+                        "user": "5a43d76d48725a0c1295c970",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 11.486563,
+                        "end_time": 16.691896333333332,
+                        "duration": 5.205333333333333,
+                        "file_name": "G3A0qSP6CVM_5a44a7ece1a7ea665efb4740.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/G3A0qSP6CVM",
+                        "created_at": 20171228081436,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5b12dd35481e200300114e",
+                                "sentence": "M\u00e4nner gehen durch eine Gasse.",
+                                "start_time": 0,
+                                "end_time": 3.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a44a8c1e1a7ea665efb4741",
+                        "video": "59e5bbd92a385d33db80b8f1",
+                        "audio_description": "5a43ee0848725a0c1295c972",
+                        "user": "5a43d76d48725a0c1295c970",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 23.820945,
+                        "end_time": 34.743611666666666,
+                        "duration": 10.922666666666666,
+                        "file_name": "G3A0qSP6CVM_5a44a8c1e1a7ea665efb4741.wav",
+                        "file_size_bytes": 2097196,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/G3A0qSP6CVM",
+                        "created_at": 20171228081809,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5aefe77473c383d1159a97",
+                                "sentence": "Eine \u00e4ltere Frau mit blonden Haar steht in einem Zimmer.",
+                                "start_time": 0,
+                                "end_time": 5.15
+                            },
+                            {
+                                "_id": "5e5aefe77473c383d1159a96",
+                                "sentence": "Ein junger Mann kommt auf sie zu.",
+                                "start_time": 5.15,
+                                "end_time": 6.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a44a977e1a7ea665efb4742",
+                        "video": "59e5bbd92a385d33db80b8f1",
+                        "audio_description": "5a43ee0848725a0c1295c972",
+                        "user": "5a43d76d48725a0c1295c970",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 38.267982,
+                        "end_time": 38.267982,
+                        "duration": 6.826666666666667,
+                        "file_name": "G3A0qSP6CVM_5a44a977e1a7ea665efb4742.wav",
+                        "file_size_bytes": 1310764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/G3A0qSP6CVM",
+                        "created_at": 20171228082111,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5aefe77473c383d1159a4f",
+                                "sentence": "Die Frau und der Mann schauen aus dem Fenster und sehen viele M\u00e4nner eine Treppe hinunter gehen.",
+                                "start_time": 0,
+                                "end_time": 14.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a44aa2ae1a7ea665efb4743",
+                        "video": "59e5bbd92a385d33db80b8f1",
+                        "audio_description": "5a43ee0848725a0c1295c972",
+                        "user": "5a43d76d48725a0c1295c970",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 114.895945,
+                        "end_time": 121.63727833333333,
+                        "duration": 6.741333333333333,
+                        "file_name": "G3A0qSP6CVM_5a44aa2ae1a7ea665efb4743.wav",
+                        "file_size_bytes": 1294380,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/G3A0qSP6CVM",
+                        "created_at": 20171228082410,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5b12dc35481e2003001130",
+                                "sentence": "Die Frau schaut den jungen Mann an und l\u00e4chelt.",
+                                "start_time": 0,
+                                "end_time": 4.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a44ab48e1a7ea665efb4745",
+                        "video": "59e5bbd92a385d33db80b8f1",
+                        "audio_description": "5a43ee0848725a0c1295c972",
+                        "user": "5a43d76d48725a0c1295c970",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 125.605581,
+                        "end_time": 129.01891433333333,
+                        "duration": 3.4133333333333336,
+                        "file_name": "G3A0qSP6CVM_5a44ab48e1a7ea665efb4745.wav",
+                        "file_size_bytes": 655404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/G3A0qSP6CVM",
+                        "created_at": 20171228082856,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5aefe67473c383d1159a26",
+                                "sentence": "Der junge Mann nichts.",
+                                "start_time": 0,
+                                "end_time": 7.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a44abede1a7ea665efb4748",
+                        "video": "59e5bbd92a385d33db80b8f1",
+                        "audio_description": "5a43ee0848725a0c1295c972",
+                        "user": "5a43d76d48725a0c1295c970",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 130.355672,
+                        "end_time": 130.355672,
+                        "duration": 4.608,
+                        "file_name": "G3A0qSP6CVM_5a44abede1a7ea665efb4748.wav",
+                        "file_size_bytes": 884780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/G3A0qSP6CVM",
+                        "created_at": 20171228083141,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5aefe77473c383d1159a59",
+                                "sentence": "Drau\u00dfen gehen die M\u00e4nner die Treppe hinunter.",
+                                "start_time": 0,
+                                "end_time": 10.08
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a43ee0848725a0c1295c972",
+                "video": "59e5bbd92a385d33db80b8f1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a43d76d48725a0c1295c970",
+                    "email": "nathalie.nuessli@hotmail.com",
+                    "name": "Dominique N\u00fcssli",
+                    "given_name": "Dominique",
+                    "picture": "https://lh4.googleusercontent.com/-3PknwE8utqA/AAAAAAAAAAI/AAAAAAAAAAA/AFiYof3E9840tF2jo9ckyg-PNffMJ1C1fg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111465255502909283029",
+                    "last_login": 20171227175127,
+                    "token": "2278e9b81d9fd7ad0ae8c995078c9dfe4f74d21b80805afbb794eaa59745201f",
+                    "__v": 0,
+                    "updated_at": 20171227175127,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "de-ch",
+                "created_at": 20171227190128,
+                "updated_at": 20171228182334,
+                "notes": "Eine junge Frau mit braunem zusammengebundenem Haar sitzt rauchend auf einem weissen Bett. Die Sonne f\u00e4llt durch das Fenster ins Zimmer hinein.\r\n\r\nIn einer Wohnsiedelung stehen mehrere Minarette. \r\n\r\nM\u00e4nner gehen durch eine Gasse.\r\n\r\nEine \u00e4ltere Frau mit blondem Haar steht in einem Zimmer. Ein junger Mann kommt auf sie zu.\r\n\r\nDie Frau und der Mann schauen aus dem Fenster und sehen viele M\u00e4nner eine Treppe hinunter gehen.\r\n\r\nDie Frau schaut den jungen Mann an und l\u00e4chelt.\r\n\r\nDer Mann nickt.\r\nDRaussen gehen die M\u00e4nner die Treppe hinunter.",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59e5bbd92a385d33db80b8f1",
+        "title": "Opferfest kurz erkl\u00e4rt -Auf der anderen Seite-",
+        "description": "",
+        "youtube_id": "G3A0qSP6CVM",
+        "created_at": 20171017081417,
+        "updated_at": 20171228083141,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 135
+    }
+}

@@ -1,0 +1,926 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35b3",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123195419,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123195419,
+                        "file_name": "14168012592881.wav",
+                        "start_time": 1.3,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9381,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 1.3,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e2115de3c73235f669fc88c",
+                                "sentence": " The title page of the book is showing",
+                                "start_time": 0,
+                                "end_time": 2.26
+                            },
+                            {
+                                "_id": "5e2115de3c73235f669fc88b",
+                                "sentence": " there's a drawing of barn animals, a sheep, chicken, cow, pig and duck are hooking arms in dancing in a field.",
+                                "start_time": 2.26,
+                                "end_time": 8.61
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35b5",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123195627,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123195627,
+                        "file_name": "14168013871311.wav",
+                        "start_time": 15.489,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9384,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 15.489,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec83",
+                                "sentence": " The page turns",
+                                "start_time": 0.3,
+                                "end_time": 1.78
+                            },
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec82",
+                                "sentence": " the cow",
+                                "start_time": 1.78,
+                                "end_time": 2.7
+                            },
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec81",
+                                "sentence": " with green sunglasses on is singing and playing the fiddle with the moon in the background.",
+                                "start_time": 2.7,
+                                "end_time": 7.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35b7",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123195726,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123195726,
+                        "file_name": "14168014460841.wav",
+                        "start_time": 28.727,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9386,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 30.517,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec9b",
+                                "sentence": " The page turns.",
+                                "start_time": 0.26,
+                                "end_time": 1.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35b8",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123195945,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123195945,
+                        "file_name": "14168015851511.wav",
+                        "start_time": 40.71,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9388,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 40.71,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.62,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dd3c73235f669fc868",
+                                "sentence": " There are three pictures.",
+                                "start_time": 0,
+                                "end_time": 1.92
+                            },
+                            {
+                                "_id": "5e2115dd3c73235f669fc867",
+                                "sentence": " First, a pig and a horse are facing each other and bowing",
+                                "start_time": 2.13,
+                                "end_time": 6.26
+                            },
+                            {
+                                "_id": "5e2115dd3c73235f669fc866",
+                                "sentence": " then",
+                                "start_time": 6.81,
+                                "end_time": 7.67
+                            },
+                            {
+                                "_id": "5e2115dd3c73235f669fc865",
+                                "sentence": " a cow and a sheep face each other and bow.",
+                                "start_time": 7.67,
+                                "end_time": 11.11
+                            },
+                            {
+                                "_id": "5e2115dd3c73235f669fc864",
+                                "sentence": " Then a pig and a sheep are twirling together.",
+                                "start_time": 12.3,
+                                "end_time": 16.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35ba",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123200054,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123200054,
+                        "file_name": "14168016541181.wav",
+                        "start_time": 40.881,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9390,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 42.411,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dd3c73235f669fc870",
+                                "sentence": " The page turns.",
+                                "start_time": 0,
+                                "end_time": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35bb",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123200200,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123200200,
+                        "file_name": "14168017201421.wav",
+                        "start_time": 50.823,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9391,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 50.823,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e211651ad6c4c5f68d9ec62",
+                                "sentence": " There are two pictures on the left side of the page.",
+                                "start_time": 0.48,
+                                "end_time": 3.4
+                            },
+                            {
+                                "_id": "5e211651ad6c4c5f68d9ec61",
+                                "sentence": " A dog is bouncing after a bunny,",
+                                "start_time": 3.48,
+                                "end_time": 6.07
+                            },
+                            {
+                                "_id": "5e211651ad6c4c5f68d9ec60",
+                                "sentence": " and a pig is walking behind a duck.",
+                                "start_time": 6.07,
+                                "end_time": 8.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35bd",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123200351,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123200351,
+                        "file_name": "14168018312471.wav",
+                        "start_time": 51.124,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9394,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 51.124,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9eca2",
+                                "sentence": " On the right side of the page are five chickens that look like they're spinning.",
+                                "start_time": 0.23,
+                                "end_time": 4.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35be",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123200409,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123200409,
+                        "file_name": "14168018496871.wav",
+                        "start_time": 51.865,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9395,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 53.915,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dd3c73235f669fc83b",
+                                "sentence": " The page turns.",
+                                "start_time": 0.55,
+                                "end_time": 2.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35bf",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123200529,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123200529,
+                        "file_name": "14168019294341.wav",
+                        "start_time": 59.461,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9396,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 59.461,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 18.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e2115de3c73235f669fc892",
+                                "sentence": " Across the left and right page, the animals",
+                                "start_time": 0.69,
+                                "end_time": 4.06
+                            },
+                            {
+                                "_id": "5e2115de3c73235f669fc891",
+                                "sentence": " walk together in pairs,",
+                                "start_time": 4.06,
+                                "end_time": 6
+                            },
+                            {
+                                "_id": "5e2115de3c73235f669fc890",
+                                "sentence": " a pig and a sheep",
+                                "start_time": 6.07,
+                                "end_time": 7.54
+                            },
+                            {
+                                "_id": "5e2115de3c73235f669fc88f",
+                                "sentence": " are a pair two. Cows are a pair. Two chickens are a pair,",
+                                "start_time": 7.93,
+                                "end_time": 11.8
+                            },
+                            {
+                                "_id": "5e2115de3c73235f669fc88e",
+                                "sentence": " a bunny, and a masseur, a pair. Two horses are a pair,",
+                                "start_time": 11.8,
+                                "end_time": 15.01
+                            },
+                            {
+                                "_id": "5e2115de3c73235f669fc88d",
+                                "sentence": " and the dog and the pig are a pair.",
+                                "start_time": 15.13,
+                                "end_time": 18.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35c0",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123200630,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123200630,
+                        "file_name": "14168019906561.wav",
+                        "start_time": 63.351,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9397,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 63.351,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e211651ad6c4c5f68d9ec5c",
+                                "sentence": " The page turns.",
+                                "start_time": 0.07,
+                                "end_time": 1.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35c2",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123200708,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123200708,
+                        "file_name": "14168020284651.wav",
+                        "start_time": 69.124,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9399,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 69.124,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e211656ad6c4c5f68d9ecce",
+                                "sentence": " On the left page, there are two pictures.",
+                                "start_time": 0.22,
+                                "end_time": 2.52
+                            },
+                            {
+                                "_id": "5e211656ad6c4c5f68d9eccd",
+                                "sentence": " The first picture is just the feet of horses.",
+                                "start_time": 2.68,
+                                "end_time": 7.04
+                            },
+                            {
+                                "_id": "5e211656ad6c4c5f68d9eccc",
+                                "sentence": " In the second picture are three mice running.",
+                                "start_time": 7.64,
+                                "end_time": 10.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35c3",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123200726,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123200726,
+                        "file_name": "14168020466581.wav",
+                        "start_time": 69.542,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9400,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 69.542,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dc3c73235f669fc82b",
+                                "sentence": " On the right page",
+                                "start_time": 0.35,
+                                "end_time": 1.82
+                            },
+                            {
+                                "_id": "5e2115dc3c73235f669fc82a",
+                                "sentence": " are two pigs dancing together",
+                                "start_time": 1.82,
+                                "end_time": 4.07
+                            },
+                            {
+                                "_id": "5e2115dc3c73235f669fc829",
+                                "sentence": " and a cow and a chicken dancing together.",
+                                "start_time": 4.07,
+                                "end_time": 6.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35c4",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123200745,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123200745,
+                        "file_name": "14168020659191.wav",
+                        "start_time": 71.025,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9401,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 73.075,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ecbd",
+                                "sentence": " The page turns.",
+                                "start_time": 0.25,
+                                "end_time": 2.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35c5",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123200850,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123200850,
+                        "file_name": "14168021301231.wav",
+                        "start_time": 81.096,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9402,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 81.096,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e21172aa0a26c5f69de470a",
+                                "sentence": " The left page has two pictures.",
+                                "start_time": 0.11,
+                                "end_time": 2.3
+                            },
+                            {
+                                "_id": "5e21172aa0a26c5f69de4709",
+                                "sentence": " The first is a donkey standing.",
+                                "start_time": 2.3,
+                                "end_time": 4.52
+                            },
+                            {
+                                "_id": "5e21172aa0a26c5f69de4708",
+                                "sentence": " and the second are two sheep dancing.",
+                                "start_time": 4.66,
+                                "end_time": 7.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35c7",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123200916,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123200916,
+                        "file_name": "14168021562091.wav",
+                        "start_time": 81.497,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9404,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 81.497,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e2115de3c73235f669fc893",
+                                "sentence": " The page on the right has 12 little chicks running around.",
+                                "start_time": 0.31,
+                                "end_time": 4.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35c8",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123200951,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123200951,
+                        "file_name": "14168021917841.wav",
+                        "start_time": 82.778,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9405,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 82.778,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec93",
+                                "sentence": " Page turns.",
+                                "start_time": 0,
+                                "end_time": 1.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35c9",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123201033,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123201033,
+                        "file_name": "14168022338831.wav",
+                        "start_time": 88.382,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9406,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 88.382,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dd3c73235f669fc84f",
+                                "sentence": " On the left page, the cow with the green glasses is standing on a box, playing the fiddle and singing",
+                                "start_time": 0.26,
+                                "end_time": 6.34
+                            },
+                            {
+                                "_id": "5e2115dd3c73235f669fc84e",
+                                "sentence": " from left to right.",
+                                "start_time": 6.49,
+                                "end_time": 8.03
+                            },
+                            {
+                                "_id": "5e2115dd3c73235f669fc84d",
+                                "sentence": " Two mice, a dog and a sheep,",
+                                "start_time": 8.79,
+                                "end_time": 11.65
+                            },
+                            {
+                                "_id": "5e2115dd3c73235f669fc84c",
+                                "sentence": " a horse and a pig, and two chickens walking together.",
+                                "start_time": 11.65,
+                                "end_time": 15.45
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35ca",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123201052,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123201052,
+                        "file_name": "14168022524961.wav",
+                        "start_time": 91.409,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9407,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 91.409,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9eca5",
+                                "sentence": " The page turns.",
+                                "start_time": 0.06,
+                                "end_time": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35cc",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123201212,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123201212,
+                        "file_name": "14168023328321.wav",
+                        "start_time": 99.392,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9409,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 99.392,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dd3c73235f669fc85c",
+                                "sentence": " The page on the left has two pictures.",
+                                "start_time": 0.36,
+                                "end_time": 2.5
+                            },
+                            {
+                                "_id": "5e2115dd3c73235f669fc85b",
+                                "sentence": " The first is a Turkey and a sheep in the air.",
+                                "start_time": 2.58,
+                                "end_time": 6.25
+                            },
+                            {
+                                "_id": "5e2115dd3c73235f669fc85a",
+                                "sentence": " The second is a goat",
+                                "start_time": 6.39,
+                                "end_time": 8.68
+                            },
+                            {
+                                "_id": "5e2115dd3c73235f669fc859",
+                                "sentence": " jumping after a frog.",
+                                "start_time": 8.86,
+                                "end_time": 10.61
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35ce",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123201238,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123201238,
+                        "file_name": "14168023582161.wav",
+                        "start_time": 99.893,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9411,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 99.893,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ecb2",
+                                "sentence": " The picture on the right is of a dog twirling a cat in the air.",
+                                "start_time": 1.03,
+                                "end_time": 4.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35cf",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123201321,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123201321,
+                        "file_name": "14168024016031.wav",
+                        "start_time": 100.786,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9412,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 100.786,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9eca0",
+                                "sentence": " Page turns.",
+                                "start_time": 0,
+                                "end_time": 1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35d0",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123201409,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123201409,
+                        "file_name": "14168024494211.wav",
+                        "start_time": 107.45,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9413,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 107.45,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dd3c73235f669fc82d",
+                                "sentence": " The picture on the left is a cow and a donkey dancing together.",
+                                "start_time": 0.47,
+                                "end_time": 3.85
+                            },
+                            {
+                                "_id": "5e2115dd3c73235f669fc82c",
+                                "sentence": " And the picture on the right is the barnyard animals bowing towards each other.",
+                                "start_time": 3.96,
+                                "end_time": 8.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35d1",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123201451,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123201451,
+                        "file_name": "14168024911211.wav",
+                        "start_time": 108.121,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9414,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 109.651,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e2115db3c73235f669fc7fe",
+                                "sentence": " Page turns.",
+                                "start_time": 0,
+                                "end_time": 1.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35d3",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123201534,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123201534,
+                        "file_name": "14168025344881.wav",
+                        "start_time": 119.305,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9416,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 119.305,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ecbc",
+                                "sentence": " The pig, the cow, the duck, the chicken, the sheep, the horse, and the mouse",
+                                "start_time": 0.95,
+                                "end_time": 6
+                            },
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ecbb",
+                                "sentence": " are all waving goodbye in a line.",
+                                "start_time": 6.13,
+                                "end_time": 9.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35d5",
+                        "audio_description": "58e7cf2f46e13dfd851a22c8",
+                        "created_at": 20141123201629,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123201629,
+                        "file_name": "14168025899451.wav",
+                        "start_time": 121.737,
+                        "legacy_video_id": 1717,
+                        "legacy_user_id": 2467,
+                        "label": "",
+                        "legacy_audio_clip_id": 9418,
+                        "video": "58e7cf2846e13dfd851a1ac8",
+                        "end_time": 123.267,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c7",
+                        "transcript": [
+                            {
+                                "_id": "5e21151ac4c00c5f6705e3e2",
+                                "sentence": " The screen goes black.",
+                                "start_time": 0,
+                                "end_time": 1.36
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2f46e13dfd851a22c8",
+                "status": "published",
+                "legacy_video_id": 1717,
+                "legacy_user_id": 2467,
+                "video": "58e7cf2846e13dfd851a1ac8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2f46e13dfd851a22c7",
+                    "name": "kitkat3133",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2467,
+                    "last_login": 0,
+                    "email": "kitty.greeley@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "childrens",
+            "book",
+            "square",
+            "dance",
+            "music"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ac8",
+        "description": "",
+        "youtube_id": "3cOSt2QVJf4",
+        "views": 0,
+        "created_at": 20141123194649,
+        "title": "Barnyard Dance",
+        "legacy_video_id": 1717,
+        "updated_at": 20141123202913,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 124
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5eb58270c5520751804911ea",
+                        "video": "5eb5825bc0004d517a050a23",
+                        "audio_description": "5eb5825bc0004d517a050a22",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "title",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 2.7306666666666666,
+                        "duration": 2.7306666666666666,
+                        "file_name": "V9WcxlXAWCM_5eb58270c5520751804911ea.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/V9WcxlXAWCM",
+                        "created_at": 20200508160152,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5eb58411c0004d517a050a26",
+                        "video": "5eb5825bc0004d517a050a23",
+                        "audio_description": "5eb5825bc0004d517a050a22",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "description",
+                        "playback_type": "inline",
+                        "start_time": 4.989269,
+                        "end_time": 31.357269,
+                        "duration": 26.368,
+                        "file_name": "V9WcxlXAWCM_5eb58411c0004d517a050a26.wav",
+                        "file_size_bytes": 5062700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/V9WcxlXAWCM",
+                        "created_at": 20200508160849,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5eb5825bc0004d517a050a22",
+                "video": "5eb5825bc0004d517a050a23",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e9f7a4d84f1bb7886752425",
+                    "email": "chhsad201@gmail.com",
+                    "name": "CHHS AD201",
+                    "given_name": "CHHS",
+                    "picture": "https://lh5.googleusercontent.com/-JpwQdP332ew/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOjaGw_XfdNe6Y3TML0kj8gdNHJZA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111438173098375409345",
+                    "last_login": 20201014163508,
+                    "token": "8b25ee0df1dcdee4a1c94ede45a3e8475678aa3b10c76fbf6ea8097a75608fa7",
+                    "__v": 0,
+                    "updated_at": 20201014163508,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200508160131,
+                "updated_at": 20200508160131,
+                "notes": "Valentine's Date Night: Cooking with Chocolate\n\nA teacher at the front of an industrial kitchen talks to participants who are looking at their ingredients and recipes\n\nParticipants whisk chocolate and cut up strawberries while the teacher demonstrates at the front of the class\n\nThey then pour their chocolate mixture into baking dishes\n\nThey sit down to eat what they have made",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5eb5825bc0004d517a050a23",
+        "title": "Valentine's Date Night: Cooking With Chocolate",
+        "description": "",
+        "youtube_id": "V9WcxlXAWCM",
+        "created_at": 20200508160131,
+        "updated_at": 20200508160849,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 32
+    }
+}

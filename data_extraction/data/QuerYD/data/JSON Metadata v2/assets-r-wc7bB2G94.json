@@ -1,0 +1,83 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5eb0801fe1b8b12f0893d9cd",
+                        "video": "5eb07fadef5cdb79909855da",
+                        "audio_description": "5eb07fadef5cdb79909855d9",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "Intro",
+                        "playback_type": "extended",
+                        "start_time": 0.41257909727478026,
+                        "end_time": 0.41257909727478026,
+                        "duration": 18.018684807256236,
+                        "file_name": "r-wc7bB2G94_5eb0801fe1b8b12f0893d9cd.wav",
+                        "file_size_bytes": 3178540,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/r-wc7bB2G94",
+                        "created_at": 20200504205039,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5eb07fadef5cdb79909855d9",
+                "video": "5eb07fadef5cdb79909855da",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e9f7a4d84f1bb7886752425",
+                    "email": "chhsad201@gmail.com",
+                    "name": "CHHS AD201",
+                    "given_name": "CHHS",
+                    "picture": "https://lh5.googleusercontent.com/-JpwQdP332ew/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOjaGw_XfdNe6Y3TML0kj8gdNHJZA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111438173098375409345",
+                    "last_login": 20201014163508,
+                    "token": "8b25ee0df1dcdee4a1c94ede45a3e8475678aa3b10c76fbf6ea8097a75608fa7",
+                    "__v": 0,
+                    "updated_at": 20201014163508,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200504204845,
+                "updated_at": 20200504204845,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "spyder",
+            "apparel design",
+            "outdoor sportswear",
+            "down jacket",
+            "colorado state university",
+            "Design (Industry)",
+            "College",
+            "University",
+            "Student",
+            "Clothing (Industry)",
+            "Students"
+        ],
+        "custom_tags": [],
+        "_id": "5eb07fadef5cdb79909855da",
+        "title": "CSU graduates at Spyder- Design and Fitting",
+        "description": "Graduates of the Design and Merchandising program at Colorado State University and employees of Spyder Active Sports in Boulder, CO talk about design and fitting of a self-lined stretch down jacket.\n\nSummer 2013\n\nwww.dm.chhs.colostate.edu/students/undergraduate/outdoor-apparel.aspx",
+        "youtube_id": "r-wc7bB2G94",
+        "created_at": 20200504204845,
+        "updated_at": 20200504205039,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 119
+    }
+}

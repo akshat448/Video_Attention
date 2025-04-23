@@ -1,0 +1,104 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6146e13dfd851a4707",
+                        "audio_description": "58e7cf3046e13dfd851a239d",
+                        "created_at": 20150911144944,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150911144944,
+                        "file_name": "14420081849141.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2153,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15516,
+                        "video": "58e7cf2946e13dfd851a1c7c",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 30.43,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abc33c648ec0da79cd6fb",
+                                "sentence": " A group of individuals stand near a parking lot.",
+                                "start_time": 1.46,
+                                "end_time": 4.7
+                            },
+                            {
+                                "_id": "5e3abc33c648ec0da79cd6fa",
+                                "sentence": " They are gathered around a long table that holds small bands of water, some cups and plants with purple flowers on them.",
+                                "start_time": 4.7,
+                                "end_time": 12.03
+                            },
+                            {
+                                "_id": "5e3abc33c648ec0da79cd6f9",
+                                "sentence": " Two young twin boys dressed in identical red and black striped shirts explore the water and the plants.",
+                                "start_time": 12.03,
+                                "end_time": 19.03
+                            },
+                            {
+                                "_id": "5e3abc33c648ec0da79cd6f8",
+                                "sentence": " Several adults are with them. One of the twins has direct help from a young female adult.",
+                                "start_time": 19.03,
+                                "end_time": 24.71
+                            },
+                            {
+                                "_id": "5e3abc33c648ec0da79cd6f7",
+                                "sentence": " She guides his hands to the cup of water, and he begins re filling and emptying a cup.",
+                                "start_time": 24.71,
+                                "end_time": 30.15
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a239d",
+                "status": "published",
+                "legacy_video_id": 2153,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c7c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c7c",
+        "description": "",
+        "youtube_id": "nfosQcd4l5Q",
+        "views": 0,
+        "created_at": 20150911144820,
+        "title": "Active Learning - at the greenhouse",
+        "legacy_video_id": 2153,
+        "updated_at": 20150911144944,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 19
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fe17305ce0a842f6990b59f",
+                        "video": "5fe17305ce0a842f6990b5a1",
+                        "audio_description": "5fe17305ce0a842f6990b5a0",
+                        "user": "5e21155bcbccda44ce25834e",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 18.176,
+                        "duration": 18.176,
+                        "file_name": "pXAp_ICCElI_5fe17305ce0a842f6990b59f.wav",
+                        "file_size_bytes": 3489836,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/pXAp_ICCElI",
+                        "created_at": 20201222041605,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5fe17357ce0a842f6990b5a3",
+                        "video": "5fe17305ce0a842f6990b5a1",
+                        "audio_description": "5fe17305ce0a842f6990b5a0",
+                        "user": "5e21155bcbccda44ce25834e",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 26.4,
+                        "end_time": 31.178666666666665,
+                        "duration": 4.778666666666667,
+                        "file_name": "pXAp_ICCElI_5fe17357ce0a842f6990b5a3.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/pXAp_ICCElI",
+                        "created_at": 20201222041727,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5fe173ba69f2192f63901ae3",
+                        "video": "5fe17305ce0a842f6990b5a1",
+                        "audio_description": "5fe17305ce0a842f6990b5a0",
+                        "user": "5e21155bcbccda44ce25834e",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 35.25,
+                        "end_time": 77.91666666666666,
+                        "duration": 42.666666666666664,
+                        "file_name": "pXAp_ICCElI_5fe173ba69f2192f63901ae3.wav",
+                        "file_size_bytes": 8192044,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/pXAp_ICCElI",
+                        "created_at": 20201222041906,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fe17305ce0a842f6990b5a0",
+                "video": "5fe17305ce0a842f6990b5a1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e21155bcbccda44ce25834e",
+                    "email": "adamtube24@gmail.com",
+                    "name": "Adam Tube",
+                    "given_name": "Adam",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mBOknX704axg2t7HyLti2QAvz_qnxFBDVvf0vkx7Go=s96-c",
+                    "locale": "en",
+                    "google_user_id": "106738816814368490019",
+                    "last_login": 20201227034838,
+                    "token": "17de7e8fbf32b4b078f9fef983c039f41ba3688d2908cd82f62682a6aa175ed6",
+                    "__v": 0,
+                    "updated_at": 20201227034838,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201222041605,
+                "updated_at": 20201222041605,
+                "notes": "",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fe17305ce0a842f6990b5a1",
+        "title": "Uglydolls part 1:Intro",
+        "description": "Meet Uglyville",
+        "youtube_id": "pXAp_ICCElI",
+        "created_at": 20201222041605,
+        "updated_at": 20201222041906,
+        "views": 0,
+        "__v": 0
+    }
+}

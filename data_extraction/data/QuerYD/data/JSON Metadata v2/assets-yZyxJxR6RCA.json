@@ -1,0 +1,101 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7fdbb18302113cc4be504c",
+                        "video": "5d7fdb7b8302113cc4be504b",
+                        "audio_description": "5d7fdb7b8302113cc4be504a",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 25.6,
+                        "duration": 25.6,
+                        "file_name": "yZyxJxR6RCA_5d7fdbb18302113cc4be504c.wav",
+                        "file_size_bytes": 4915244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/yZyxJxR6RCA",
+                        "created_at": 20190916190001,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5579b87f8232990368e858",
+                                "sentence": " Students walk around the studio tax rates, visual communication design and technology. This program focuses on creating different kinds of media for today's world",
+                                "start_time": 0.44,
+                                "end_time": 7.93
+                            },
+                            {
+                                "_id": "5e5579b87f8232990368e857",
+                                "sentence": " student and it's video tech streets, careers, graduates, working website, design and management, photography studios, public relations and marketing firms. And many more",
+                                "start_time": 7.93,
+                                "end_time": 15.67
+                            },
+                            {
+                                "_id": "5e5579b87f8232990368e856",
+                                "sentence": " student sits at a computer tax rates like the program on soc degree now only 60 months or certificate in his little as four months",
+                                "start_time": 15.67,
+                                "end_time": 22.57
+                            },
+                            {
+                                "_id": "5e5579b87f8232990368e855",
+                                "sentence": " strain stands in ending studio tax rates. You've got this.",
+                                "start_time": 22.57,
+                                "end_time": 25.56
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7fdb7b8302113cc4be504a",
+                "video": "5d7fdb7b8302113cc4be504b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190916185907,
+                "updated_at": 20190916185907,
+                "notes": "Students walk around a studio\r\nText reads:\r\nVisual Communication: Design and Technology\r\nThis program focuses on creating different kinds of media for today's world. \r\n\r\nA student edits video\r\nText reads:\r\nCareers \r\nGraduates work in website design and management, photography studios, public relation and marketing firms and many more!\r\n\r\nA student sits at a computer\r\nText reads:\r\nLength of program\r\nEarn an associate degree in only 16 months or certificate in as little as 4 months. \r\n\r\nA student stands in editing studio. \r\nText reads:\r\nYou've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Visual Communication: Design and Technology",
+            "kctcs",
+            "video",
+            "desktop"
+        ],
+        "custom_tags": [],
+        "_id": "5d7fdb7b8302113cc4be504b",
+        "title": "Visual Communication: Design and Technology program video",
+        "description": "Information on the Visual Communication: Design and Technology program.",
+        "youtube_id": "yZyxJxR6RCA",
+        "created_at": 20190916185907,
+        "updated_at": 20190916190001,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

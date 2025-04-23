@@ -1,0 +1,165 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59d57aee9ef095141975e1ab",
+                        "video": "59d57aee9ef095141975e1ad",
+                        "audio_description": "59d57aee9ef095141975e1ac",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 4.233884,
+                        "end_time": 4.233884,
+                        "duration": 15.789569160997733,
+                        "file_name": "iimJIWQqAGA_59d57aee9ef095141975e1ab.wav",
+                        "file_size_bytes": 2785324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/iimJIWQqAGA",
+                        "created_at": 20171005002102,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f65fb81b2f1c5a36af5e",
+                                "sentence": " In a shopping mall, a little brown haired girl in a white shirt and blue jeans walks up to a green balloon machine while eating a lollipop.",
+                                "start_time": 0.39,
+                                "end_time": 8.77
+                            },
+                            {
+                                "_id": "5e15f65fb81b2f1c5a36af5d",
+                                "sentence": " She then puts the coin into the machine and presses a button while the machine shows various colored balloons.",
+                                "start_time": 8.89,
+                                "end_time": 14.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59d57b619ef095141975e1ae",
+                        "video": "59d57aee9ef095141975e1ad",
+                        "audio_description": "59d57aee9ef095141975e1ac",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 21.935449,
+                        "end_time": 21.935449,
+                        "duration": 8.080544217687075,
+                        "file_name": "iimJIWQqAGA_59d57b619ef095141975e1ae.wav",
+                        "file_size_bytes": 1425452,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/iimJIWQqAGA",
+                        "created_at": 20171005002257,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16020de4579d1d3ee26608",
+                                "sentence": " After the girl presses the button,",
+                                "start_time": 0.39,
+                                "end_time": 2.68
+                            },
+                            {
+                                "_id": "5e16020de4579d1d3ee26607",
+                                "sentence": " a red balloon inflates while the timer on the machine counts down.",
+                                "start_time": 2.68,
+                                "end_time": 7.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59d57c249ef095141975e1b0",
+                        "video": "59d57aee9ef095141975e1ad",
+                        "audio_description": "59d57aee9ef095141975e1ac",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 31.821246,
+                        "end_time": 31.821246,
+                        "duration": 10.681179138321996,
+                        "file_name": "iimJIWQqAGA_59d57c249ef095141975e1b0.wav",
+                        "file_size_bytes": 1884204,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/iimJIWQqAGA",
+                        "created_at": 20171005002612,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f661b81b2f1c5a36af82",
+                                "sentence": " Now, a red heart shaped balloon with a thin white string is formed as the little girl takes the balloon out of the machine",
+                                "start_time": 0.34,
+                                "end_time": 7.59
+                            },
+                            {
+                                "_id": "5e15f661b81b2f1c5a36af81",
+                                "sentence": " and holds it while walking in the mall.",
+                                "start_time": 7.59,
+                                "end_time": 9.91
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59d57aee9ef095141975e1ac",
+                "video": "59d57aee9ef095141975e1ad",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "59c25b2ec6c4802622d9c1bf",
+                    "email": "rgman1995@gmail.com",
+                    "name": "Ryan G",
+                    "given_name": "Ryan",
+                    "picture": "https://lh3.googleusercontent.com/-NxEEiJBaock/AAAAAAAAAAI/AAAAAAAAAc0/5fcpjk_lXKY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113561788356507984833",
+                    "last_login": 20201230202355,
+                    "token": "27b561de1a2557461b6807ff8a71622302ac468380f084bd313e4b4fc0a8dc39",
+                    "__v": 0,
+                    "updated_at": 20201230202355,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20171005002102,
+                "updated_at": 20171005214601,
+                "notes": "In a shopping mall, a little brown haired girl in a white shirt and blue jeans walks up to a green balloon machine while eating a lolipop. She then puts the coin into the machine and presses a button while the machine shows various colored balloons.\r\n\r\nAfter the girl presses the button, a red balloon inflates while the timer on the machine counts down. \r\n\r\nNow, a red heart shaped balloon with a thin white string is formed as the little girl takes the balloon out of the machine and holds it while walking in the mall.",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {
+                    "3": 1
+                }
+            }
+        ],
+        "tags": [
+            "Vending Machine (Collection Category)",
+            "Balloon (Literature Subject)",
+            "Helium (Chemical Element)",
+            "Zoo (Type Of Museum)",
+            "Circus (Business Operation)",
+            "New Entertainment R&D Dept. (Business Operation)",
+            "Amusement Park (Literature Subject)",
+            "Shopping (Website Category)",
+            "Toys R Us (Organization)",
+            "Toy (Industry)"
+        ],
+        "custom_tags": [],
+        "_id": "59d57aee9ef095141975e1ad",
+        "title": "Balloon Vending Machine",
+        "description": "This is an unique, interactive vending machine, during the balloon preparing processes children and adults could see through the transparent window how their helium balloon was made. The helium balloon is a real hit!",
+        "youtube_id": "iimJIWQqAGA",
+        "created_at": 20171005002102,
+        "updated_at": 20171005002612,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 59
+    }
+}

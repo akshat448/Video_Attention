@@ -1,0 +1,376 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5cf301c839770c52107c62f7",
+                        "video": "5cf301c839770c52107c62f9",
+                        "audio_description": "5cf301c839770c52107c62f8",
+                        "user": "5c4689660071d10d857493b7",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 4.039271,
+                        "end_time": 4.039271,
+                        "duration": 3.328,
+                        "file_name": "2nWP7ClUspo_5cf301c839770c52107c62f7.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2nWP7ClUspo",
+                        "created_at": 20190601225256,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c5f4d02ed79aa16c1c70",
+                                "sentence": " Disney presents the best of YouTube.",
+                                "start_time": 0.49,
+                                "end_time": 3.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cf301d8a774ac520ff93e75",
+                        "video": "5cf301c839770c52107c62f9",
+                        "audio_description": "5cf301c839770c52107c62f8",
+                        "user": "5c4689660071d10d857493b7",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 6.177807,
+                        "end_time": 10.188473666666667,
+                        "duration": 4.010666666666666,
+                        "file_name": "2nWP7ClUspo_5cf301d8a774ac520ff93e75.wav",
+                        "file_size_bytes": 770092,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2nWP7ClUspo",
+                        "created_at": 20190601225312,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c5178d1b6b9aa0fea4a1",
+                                "sentence": " Simon's cat in cat nap.",
+                                "start_time": 0.66,
+                                "end_time": 3.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cf301f839770c52107c62fa",
+                        "video": "5cf301c839770c52107c62f9",
+                        "audio_description": "5cf301c839770c52107c62f8",
+                        "user": "5c4689660071d10d857493b7",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 12.170606,
+                        "end_time": 12.170606,
+                        "duration": 6.912,
+                        "file_name": "2nWP7ClUspo_5cf301f839770c52107c62fa.wav",
+                        "file_size_bytes": 1327148,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2nWP7ClUspo",
+                        "created_at": 20190601225344,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c67ab3b3649a9fc09eb2",
+                                "sentence": " The little kitten lays in her bed",
+                                "start_time": 0.58,
+                                "end_time": 3.39
+                            },
+                            {
+                                "_id": "5e16c67ab3b3649a9fc09eb1",
+                                "sentence": " trying to get simon's cat's attention.",
+                                "start_time": 3.39,
+                                "end_time": 6.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cf3024da774ac520ff93e76",
+                        "video": "5cf301c839770c52107c62f9",
+                        "audio_description": "5cf301c839770c52107c62f8",
+                        "user": "5c4689660071d10d857493b7",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 24.446916,
+                        "end_time": 24.446916,
+                        "duration": 6.741333333333333,
+                        "file_name": "2nWP7ClUspo_5cf3024da774ac520ff93e76.wav",
+                        "file_size_bytes": 1294380,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2nWP7ClUspo",
+                        "created_at": 20190601225509,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c679b3b3649a9fc09e47",
+                                "sentence": " The little cannon hops into simon's cat's bed",
+                                "start_time": 0.28,
+                                "end_time": 3.19
+                            },
+                            {
+                                "_id": "5e16c679b3b3649a9fc09e46",
+                                "sentence": " and",
+                                "start_time": 3.19,
+                                "end_time": 4
+                            },
+                            {
+                                "_id": "5e16c679b3b3649a9fc09e45",
+                                "sentence": " wants to lay down with him.",
+                                "start_time": 4,
+                                "end_time": 6.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cf3029aa774ac520ff93e77",
+                        "video": "5cf301c839770c52107c62f9",
+                        "audio_description": "5cf301c839770c52107c62f8",
+                        "user": "5c4689660071d10d857493b7",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 46.799822,
+                        "end_time": 46.799822,
+                        "duration": 10.666666666666666,
+                        "file_name": "2nWP7ClUspo_5cf3029aa774ac520ff93e77.wav",
+                        "file_size_bytes": 2048044,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2nWP7ClUspo",
+                        "created_at": 20190601225626,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea51c",
+                                "sentence": " The little kittens judge has out all its limbs",
+                                "start_time": 0.29,
+                                "end_time": 3.3
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea51b",
+                                "sentence": " and takes uh paula simons cats room.",
+                                "start_time": 3.3,
+                                "end_time": 6.24
+                            },
+                            {
+                                "_id": "5e16c5188d1b6b9aa0fea51a",
+                                "sentence": " Simon's cat tells the kitten to go to its own bed.",
+                                "start_time": 6.24,
+                                "end_time": 9.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cf302cb39770c52107c62fb",
+                        "video": "5cf301c839770c52107c62f9",
+                        "audio_description": "5cf301c839770c52107c62f8",
+                        "user": "5c4689660071d10d857493b7",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 56.391939,
+                        "end_time": 56.391939,
+                        "duration": 10.069333333333333,
+                        "file_name": "2nWP7ClUspo_5cf302cb39770c52107c62fb.wav",
+                        "file_size_bytes": 1933356,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2nWP7ClUspo",
+                        "created_at": 20190601225715,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c5f5d02ed79aa16c1ce1",
+                                "sentence": " Since the kitten won't listen,",
+                                "start_time": 0.37,
+                                "end_time": 2.46
+                            },
+                            {
+                                "_id": "5e16c5f5d02ed79aa16c1ce0",
+                                "sentence": " simon's cat goes over to the kittens",
+                                "start_time": 2.46,
+                                "end_time": 4.93
+                            },
+                            {
+                                "_id": "5e16c5f5d02ed79aa16c1cdf",
+                                "sentence": " bed to try to get comfy,",
+                                "start_time": 4.93,
+                                "end_time": 6.9
+                            },
+                            {
+                                "_id": "5e16c5f5d02ed79aa16c1cde",
+                                "sentence": " but all of its toys are in",
+                                "start_time": 6.9,
+                                "end_time": 9
+                            },
+                            {
+                                "_id": "5e16c5f5d02ed79aa16c1cdd",
+                                "sentence": " his bed.",
+                                "start_time": 9,
+                                "end_time": 10.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cf302f439770c52107c62fc",
+                        "video": "5cf301c839770c52107c62f9",
+                        "audio_description": "5cf301c839770c52107c62f8",
+                        "user": "5c4689660071d10d857493b7",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 63.490375,
+                        "end_time": 63.490375,
+                        "duration": 5.546666666666667,
+                        "file_name": "2nWP7ClUspo_5cf302f439770c52107c62fc.wav",
+                        "file_size_bytes": 1065004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2nWP7ClUspo",
+                        "created_at": 20190601225756,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c5f4d02ed79aa16c1c87",
+                                "sentence": " Then the kitten starts playing with his toys and make sure that simon's cat won't be able to get any rest.",
+                                "start_time": 0.14,
+                                "end_time": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cf3032da774ac520ff93e78",
+                        "video": "5cf301c839770c52107c62f9",
+                        "audio_description": "5cf301c839770c52107c62f8",
+                        "user": "5c4689660071d10d857493b7",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 79.158331,
+                        "end_time": 79.158331,
+                        "duration": 12.373333333333333,
+                        "file_name": "2nWP7ClUspo_5cf3032da774ac520ff93e78.wav",
+                        "file_size_bytes": 2375724,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2nWP7ClUspo",
+                        "created_at": 20190601225853,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c67ab3b3649a9fc09ea5",
+                                "sentence": " Then after the kitten is done playing with its toys, the kitten just ends up",
+                                "start_time": 0.24,
+                                "end_time": 4.63
+                            },
+                            {
+                                "_id": "5e16c67ab3b3649a9fc09ea4",
+                                "sentence": " sitting on Top of simon's cat",
+                                "start_time": 4.63,
+                                "end_time": 7.03
+                            },
+                            {
+                                "_id": "5e16c67ab3b3649a9fc09ea3",
+                                "sentence": " and just end up sleeping in its own bed. Anyways.",
+                                "start_time": 7.03,
+                                "end_time": 9.97
+                            },
+                            {
+                                "_id": "5e16c67ab3b3649a9fc09ea2",
+                                "sentence": " Simon's cat is very, very frustrated.",
+                                "start_time": 9.97,
+                                "end_time": 12.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cf3034da774ac520ff93e79",
+                        "video": "5cf301c839770c52107c62f9",
+                        "audio_description": "5cf301c839770c52107c62f8",
+                        "user": "5c4689660071d10d857493b7",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 85.151054,
+                        "end_time": 85.151054,
+                        "duration": 3.072,
+                        "file_name": "2nWP7ClUspo_5cf3034da774ac520ff93e79.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2nWP7ClUspo",
+                        "created_at": 20190601225925,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c67ab3b3649a9fc09e91",
+                                "sentence": " A film by Simon to field.",
+                                "start_time": 0.49,
+                                "end_time": 3.03
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5cf301c839770c52107c62f8",
+                "video": "5cf301c839770c52107c62f9",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c4689660071d10d857493b7",
+                    "email": "loislo0617@gmail.com",
+                    "name": "Lois Hong",
+                    "given_name": "Lois",
+                    "picture": "https://lh5.googleusercontent.com/-DNrcUT382pg/AAAAAAAAAAI/AAAAAAAAWzI/sGKgrZIMHgQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "100080436849928288029",
+                    "last_login": 20200806015813,
+                    "token": "fad736c34b0b841be9f192631f94ac5697a71bde5412f4df87c35073edade523",
+                    "__v": 0,
+                    "updated_at": 20200806015813,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190601225256,
+                "updated_at": 20190725205540,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {
+                    "7": 1
+                }
+            }
+        ],
+        "tags": [
+            "meow",
+            "The Walt Disney Company",
+            "Disney YouTube",
+            "Happy",
+            "disney",
+            "animation",
+            "simons cat",
+            "nap",
+            "disneyshorts",
+            "catnap",
+            "Disney Shorts",
+            "Disney",
+            "pet",
+            "simon's cat",
+            "cartoon",
+            "cat",
+            "simonscat",
+            "funny",
+            "Disney Videos",
+            "simon"
+        ],
+        "custom_tags": [],
+        "_id": "5cf301c839770c52107c62f9",
+        "title": "Simon's Cat in \"Catnap\" | Disney Favorite",
+        "description": "A new kitten makes naptime impossible for Simon's cat.  \n\nThank you to simonscat for being a part of the Disney network on YouTube.\n\nSUBSCRIBE to get notified when new Disney Shorts videos are posted: http://di.sn/SubscribeDisneyShorts\n\nGet more from Disney!\nDisney YouTube: http://di.sn/SubscribeDisney\nLike Disney: http://Facebook.com/Disney\nFollow Disney: http://Twitter.com/Disney\nDisney Tumblr: http://disney.tumblr.com/\nDisney Google+: http://plus.google.com/+Disney/posts\nDisney Instagram: http://Instagram.com/Disney\n",
+        "youtube_id": "2nWP7ClUspo",
+        "created_at": 20190601225256,
+        "updated_at": 20190601225925,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 90
+    }
+}

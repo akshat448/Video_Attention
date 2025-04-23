@@ -1,0 +1,65 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fd2b91295521063835cec17",
+                        "video": "5fd2b8eb95521063835cec15",
+                        "audio_description": "5fd2b8eb95521063835cec14",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 4.73687074829932,
+                        "file_name": "ZMfVl38EwpI_5fd2b91295521063835cec17.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZMfVl38EwpI",
+                        "created_at": 20201211001058,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fd2b8eb95521063835cec14",
+                "video": "5fd2b8eb95521063835cec15",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5fc6b5fb95521063835ce383",
+                    "email": "ecastillojenn@gmail.com",
+                    "name": "Jennifer Castillo",
+                    "given_name": "Jennifer",
+                    "picture": "https://lh4.googleusercontent.com/-5bpnry8pqfg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckH9ncyvBYAW2kOTFQ5bs4EeopJOg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115887003623205163006",
+                    "last_login": 20201221205124,
+                    "token": "1114491ec716f0171a30639c483ee718d98ebe8e044084b7b6bf4e03ccbb3772",
+                    "__v": 0,
+                    "updated_at": 20201221205124
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201211001019,
+                "updated_at": 20201211001019,
+                "notes": "",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fd2b8eb95521063835cec15",
+        "title": "A Clear View: Building the Ecosystems Kelp Tank",
+        "description": "The 188,000-gallon kelp tank in the California Science Center's Ecosystems gallery is built from acrylic, which can be curved into interesting shapes. The tank gives guests a fish's view of the aquatic environment, so they can get an immersive view of the wonders of the Kelp Forest exhibit without having to get wet!\n\nFor more science videos, blog posts, and virtual tours, visit californiasciencecenter.org/beyond",
+        "youtube_id": "ZMfVl38EwpI",
+        "created_at": 20201211001019,
+        "updated_at": 20201211001058,
+        "views": 0,
+        "__v": 0
+    }
+}

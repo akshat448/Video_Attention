@@ -1,0 +1,377 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5d46e13dfd851a4525",
+                        "audio_description": "58e7cf3046e13dfd851a2364",
+                        "created_at": 20150822064421,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822064421,
+                        "file_name": "14402510615391.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2066,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14805,
+                        "video": "58e7cf2946e13dfd851a1c25",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 26.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac6100d8f324490ee39ac",
+                                "sentence": " William, a young toddler with bilateral cochlear implants,",
+                                "start_time": 1.51,
+                                "end_time": 5.84
+                            },
+                            {
+                                "_id": "5e3ac6100d8f324490ee39ab",
+                                "sentence": " sits on the carpet in front of a brown leather couch.",
+                                "start_time": 5.84,
+                                "end_time": 9.28
+                            },
+                            {
+                                "_id": "5e3ac6100d8f324490ee39aa",
+                                "sentence": " Around him are several toys. There is a yellow plastic hand, a yellow and blue dump truck,",
+                                "start_time": 9.36,
+                                "end_time": 16.39
+                            },
+                            {
+                                "_id": "5e3ac6100d8f324490ee39a9",
+                                "sentence": " a blue crocheted cat, a blue bumpy ball, a large block with pictures on its side,",
+                                "start_time": 16.39,
+                                "end_time": 23.87
+                            },
+                            {
+                                "_id": "5e3ac6100d8f324490ee39a8",
+                                "sentence": " and a plastic key ring.",
+                                "start_time": 23.87,
+                                "end_time": 26.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5d46e13dfd851a4526",
+                        "audio_description": "58e7cf3046e13dfd851a2364",
+                        "created_at": 20150822064556,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822064556,
+                        "file_name": "14402511567751.wav",
+                        "start_time": 11.805,
+                        "legacy_video_id": 2066,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14806,
+                        "video": "58e7cf2946e13dfd851a1c25",
+                        "end_time": 19.735,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3acae469855f5850086baa",
+                                "sentence": " He picks up the key ring and sets it to the side before picking it up again and throwing it behind him.",
+                                "start_time": 1.05,
+                                "end_time": 7.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5d46e13dfd851a4527",
+                        "audio_description": "58e7cf3046e13dfd851a2364",
+                        "created_at": 20150822064846,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822064846,
+                        "file_name": "14402513261131.wav",
+                        "start_time": 24.484,
+                        "legacy_video_id": 2066,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14808,
+                        "video": "58e7cf2946e13dfd851a1c25",
+                        "end_time": 31.394000000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac827a64ad347e453c613",
+                                "sentence": " He pulls the cat into his lap,",
+                                "start_time": 0.55,
+                                "end_time": 2.93
+                            },
+                            {
+                                "_id": "5e3ac827a64ad347e453c612",
+                                "sentence": " picks up the yellow hand, and tosses it behind him.",
+                                "start_time": 3.16,
+                                "end_time": 6.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5d46e13dfd851a4528",
+                        "audio_description": "58e7cf3046e13dfd851a2364",
+                        "created_at": 20150822065001,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822065001,
+                        "file_name": "14402514011551.wav",
+                        "start_time": 42.105,
+                        "legacy_video_id": 2066,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14809,
+                        "video": "58e7cf2946e13dfd851a1c25",
+                        "end_time": 47.735,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac6110d8f324490ee39ba",
+                                "sentence": " William moves the cat around a bit as he looks at his other toys.",
+                                "start_time": 0.55,
+                                "end_time": 5.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5d46e13dfd851a4529",
+                        "audio_description": "58e7cf3046e13dfd851a2364",
+                        "created_at": 20150822065127,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822065127,
+                        "file_name": "14402514877541.wav",
+                        "start_time": 57.295,
+                        "legacy_video_id": 2066,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14811,
+                        "video": "58e7cf2946e13dfd851a1c25",
+                        "end_time": 65.475,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3acc09fdede5585322291e",
+                                "sentence": " He stares intently at the dump truck before laying the cat in front of him and reaching out for the truck.",
+                                "start_time": 1.49,
+                                "end_time": 7.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5d46e13dfd851a452a",
+                        "audio_description": "58e7cf3046e13dfd851a2364",
+                        "created_at": 20150822065209,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822065209,
+                        "file_name": "14402515291521.wav",
+                        "start_time": 73.649,
+                        "legacy_video_id": 2066,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14812,
+                        "video": "58e7cf2946e13dfd851a1c25",
+                        "end_time": 81.069,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac328108b490da613b36c",
+                                "sentence": " It's just out of his reach, and it takes several attempts for him to grasp it and pull it into his lap.",
+                                "start_time": 0.51,
+                                "end_time": 6.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5d46e13dfd851a452b",
+                        "audio_description": "58e7cf3046e13dfd851a2364",
+                        "created_at": null,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": null,
+                        "file_name": "14402515887481.wav",
+                        "start_time": 94.678,
+                        "legacy_video_id": 2066,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14813,
+                        "video": "58e7cf2946e13dfd851a1c25",
+                        "end_time": 101.588,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac328108b490da613b371",
+                                "sentence": " He bangs it around in his lap and on the floor for a few moments before tossing it to the side.",
+                                "start_time": 0.78,
+                                "end_time": 6.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5d46e13dfd851a452c",
+                        "audio_description": "58e7cf3046e13dfd851a2364",
+                        "created_at": 20150822065501,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822065501,
+                        "file_name": "14402517011781.wav",
+                        "start_time": 118.101,
+                        "legacy_video_id": 2066,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14814,
+                        "video": "58e7cf2946e13dfd851a1c25",
+                        "end_time": 128.591,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.49,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe566",
+                                "sentence": " William reaches out and fills the blue ball, which has a light that flickers inside",
+                                "start_time": 0.78,
+                                "end_time": 6.16
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe565",
+                                "sentence": " and the block before picking up the ball and throwing it away from him.",
+                                "start_time": 6.16,
+                                "end_time": 10.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5d46e13dfd851a452d",
+                        "audio_description": "58e7cf3046e13dfd851a2364",
+                        "created_at": 20150822065552,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822065552,
+                        "file_name": "14402517523741.wav",
+                        "start_time": 137.389,
+                        "legacy_video_id": 2066,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14815,
+                        "video": "58e7cf2946e13dfd851a1c25",
+                        "end_time": 144.809,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac7d07c48e647e3103aad",
+                                "sentence": " After reaching out for the block,",
+                                "start_time": 0.42,
+                                "end_time": 2.61
+                            },
+                            {
+                                "_id": "5e3ac7d07c48e647e3103aac",
+                                "sentence": " he moves the truck and pulls the crocheted cat back into his lap.",
+                                "start_time": 2.61,
+                                "end_time": 6.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5d46e13dfd851a452e",
+                        "audio_description": "58e7cf3046e13dfd851a2364",
+                        "created_at": 20150822065714,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822065714,
+                        "file_name": "14402518345951.wav",
+                        "start_time": 151.678,
+                        "legacy_video_id": 2066,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14816,
+                        "video": "58e7cf2946e13dfd851a1c25",
+                        "end_time": 159.608,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac6110d8f324490ee39c2",
+                                "sentence": " He continues to pickup and move his toys, tossing them a bit too far, and struggles to reach them.",
+                                "start_time": 1.18,
+                                "end_time": 7.17
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2364",
+                "status": "published",
+                "legacy_video_id": 2066,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c25",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "responsive environments",
+            "Active Learning"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c25",
+        "description": "",
+        "youtube_id": "iFIsvjt9NSs",
+        "views": 0,
+        "created_at": 20150822064319,
+        "title": "William with toys - Active Learning",
+        "legacy_video_id": 2066,
+        "updated_at": 20150822065718,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 177
+    }
+}

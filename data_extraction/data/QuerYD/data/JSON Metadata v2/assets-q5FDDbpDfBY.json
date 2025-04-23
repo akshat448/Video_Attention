@@ -1,0 +1,611 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b4a2bc72662e2425f3f8537",
+                        "video": "5b4a29ea2662e2425f3f8534",
+                        "audio_description": "5b4a29ea2662e2425f3f8533",
+                        "user": "5b48a3de2662e2425f3f84d1",
+                        "label": "t2-1",
+                        "playback_type": "inline",
+                        "start_time": 64.335419,
+                        "end_time": 168.36081582539683,
+                        "duration": 104.02539682539683,
+                        "file_name": "q5FDDbpDfBY_5b4a2bc72662e2425f3f8537.wav",
+                        "file_size_bytes": 18350124,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q5FDDbpDfBY",
+                        "created_at": 20180714165847,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dbd8f3a3b5681e2b94940",
+                                "sentence": " A cat plays on board.",
+                                "start_time": 32.55,
+                                "end_time": 34.13
+                            },
+                            {
+                                "_id": "5e4dbd8f3a3b5681e2b9493f",
+                                "sentence": " a sailboat un stands,",
+                                "start_time": 81.77,
+                                "end_time": 83.56
+                            },
+                            {
+                                "_id": "5e4dbd8f3a3b5681e2b9493e",
+                                "sentence": " wires and insulation.",
+                                "start_time": 98.82,
+                                "end_time": 100.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b4a2e172662e2425f3f8539",
+                        "video": "5b4a29ea2662e2425f3f8534",
+                        "audio_description": "5b4a29ea2662e2425f3f8533",
+                        "user": "5b48a3de2662e2425f3f84d1",
+                        "label": "t3-1",
+                        "playback_type": "inline",
+                        "start_time": 283.342054,
+                        "end_time": 393.68327848979595,
+                        "duration": 110.34122448979592,
+                        "file_name": "q5FDDbpDfBY_5b4a2e172662e2425f3f8539.wav",
+                        "file_size_bytes": 19464236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q5FDDbpDfBY",
+                        "created_at": 20180714170839,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c93",
+                                "sentence": " Virtue thank god",
+                                "start_time": 15.48,
+                                "end_time": 17.04
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c92",
+                                "sentence": " second",
+                                "start_time": 17.27,
+                                "end_time": 18.52
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c91",
+                                "sentence": " title, first coat in fast forward jessica puts on light blue rubber gloves facing the left port side wall of the v berth. Grabbing a paint roller. She applies white paint from a black tray. Using mostly horizontal strokes. She rolls a fresh layer of paint onto the wood panel wall surface, occasionally switching hands",
+                                "start_time": 19.78,
+                                "end_time": 37.69
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c90",
+                                "sentence": " above her light in as from a hatch to her. Right is a rectangular opening in the paneling in which yellowish foam insulation is visible",
+                                "start_time": 37.69,
+                                "end_time": 45.75
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c8f",
+                                "sentence": " over to the right side. She applies paint to a similar angled wall. A gallon of valspar ultra sits near a few mask and paint tray on the floor.",
+                                "start_time": 45.77,
+                                "end_time": 54.48
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c8e",
+                                "sentence": " The floor to ceiling space gives her only inches to spare above her head",
+                                "start_time": 54.48,
+                                "end_time": 58.8
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c8d",
+                                "sentence": " title, sanding between coats.",
+                                "start_time": 58.97,
+                                "end_time": 61.76
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c8c",
+                                "sentence": " Now, wearing a white dust mask and safety goggles, she rubbed sandpaper across the ceiling. Following the direction of the paneling.",
+                                "start_time": 61.76,
+                                "end_time": 68.83
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c8b",
+                                "sentence": " She shifts positions in hands to reach different sections of the ceiling.",
+                                "start_time": 68.83,
+                                "end_time": 73.04
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c8a",
+                                "sentence": " She puts her gloves back on title final coat.",
+                                "start_time": 77.44,
+                                "end_time": 80.86
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c89",
+                                "sentence": " No longer wearing the dust mask and goggles. She picks up the roller rolls on some paint, then applies paint to the ceiling.",
+                                "start_time": 81.09,
+                                "end_time": 88.28
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c88",
+                                "sentence": " A heavy duty vacuum sits just outside her work space light still shining in from the open hatch above",
+                                "start_time": 88.31,
+                                "end_time": 94.67
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2c87",
+                                "sentence": " in the boat yard.",
+                                "start_time": 100.9,
+                                "end_time": 102.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b4a2fc12662e2425f3f853c",
+                        "video": "5b4a29ea2662e2425f3f8534",
+                        "audio_description": "5b4a29ea2662e2425f3f8533",
+                        "user": "5b48a3de2662e2425f3f84d1",
+                        "label": "t4-1",
+                        "playback_type": "inline",
+                        "start_time": 393.105192,
+                        "end_time": 406.5727656961451,
+                        "duration": 13.467573696145125,
+                        "file_name": "q5FDDbpDfBY_5b4a2fc12662e2425f3f853c.wav",
+                        "file_size_bytes": 2375724,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q5FDDbpDfBY",
+                        "created_at": 20180714171545,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7b0afed6d97588d2ce2",
+                                "sentence": " In a cluttered work space, match shirt, li's leans over wooden object in glances to jessica.",
+                                "start_time": 5.18,
+                                "end_time": 10.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b4a2ff72662e2425f3f853d",
+                        "video": "5b4a29ea2662e2425f3f8534",
+                        "audio_description": "5b4a29ea2662e2425f3f8533",
+                        "user": "5b48a3de2662e2425f3f84d1",
+                        "label": "t5-1",
+                        "playback_type": "inline",
+                        "start_time": 437.776236,
+                        "end_time": 458.7670750022676,
+                        "duration": 20.990839002267574,
+                        "file_name": "q5FDDbpDfBY_5b4a2ff72662e2425f3f853d.wav",
+                        "file_size_bytes": 3702828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q5FDDbpDfBY",
+                        "created_at": 20180714171639,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7b0afed6d97588d2cf3",
+                                "sentence": " A prominent rectangular patch. And the keel.",
+                                "start_time": 15.33,
+                                "end_time": 17.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b4a303c2662e2425f3f853e",
+                        "video": "5b4a29ea2662e2425f3f8534",
+                        "audio_description": "5b4a29ea2662e2425f3f8533",
+                        "user": "5b48a3de2662e2425f3f84d1",
+                        "label": "t6-1",
+                        "playback_type": "inline",
+                        "start_time": 516.9078,
+                        "end_time": 555.8244439909297,
+                        "duration": 38.91664399092971,
+                        "file_name": "q5FDDbpDfBY_5b4a303c2662e2425f3f853e.wav",
+                        "file_size_bytes": 6864940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q5FDDbpDfBY",
+                        "created_at": 20180714171748,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cb5",
+                                "sentence": " The would glisten.",
+                                "start_time": 5.36,
+                                "end_time": 6.84
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cb4",
+                                "sentence": " uh",
+                                "start_time": 15.14,
+                                "end_time": 15.88
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cb3",
+                                "sentence": " yeah",
+                                "start_time": 29.85,
+                                "end_time": 30.56
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cb2",
+                                "sentence": " yeah.",
+                                "start_time": 33.45,
+                                "end_time": 34.16
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cb1",
+                                "sentence": " uh",
+                                "start_time": 34.53,
+                                "end_time": 35.28
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cb0",
+                                "sentence": " inside the boat.",
+                                "start_time": 35.77,
+                                "end_time": 37.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b4a30972662e2425f3f8540",
+                        "video": "5b4a29ea2662e2425f3f8534",
+                        "audio_description": "5b4a29ea2662e2425f3f8533",
+                        "user": "5b48a3de2662e2425f3f84d1",
+                        "label": "t7-1",
+                        "playback_type": "inline",
+                        "start_time": 578.170948,
+                        "end_time": 588.6663675011338,
+                        "duration": 10.495419501133787,
+                        "file_name": "q5FDDbpDfBY_5b4a30972662e2425f3f8540.wav",
+                        "file_size_bytes": 1851436,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q5FDDbpDfBY",
+                        "created_at": 20180714171919,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cc5",
+                                "sentence": " Five distinct spots.",
+                                "start_time": 5.6,
+                                "end_time": 7.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b4a31182662e2425f3f8541",
+                        "video": "5b4a29ea2662e2425f3f8534",
+                        "audio_description": "5b4a29ea2662e2425f3f8533",
+                        "user": "5b48a3de2662e2425f3f84d1",
+                        "label": "t8-1",
+                        "playback_type": "inline",
+                        "start_time": 588.582657,
+                        "end_time": 682.2983939614513,
+                        "duration": 93.71573696145124,
+                        "file_name": "q5FDDbpDfBY_5b4a31182662e2425f3f8541.wav",
+                        "file_size_bytes": 16531500,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q5FDDbpDfBY",
+                        "created_at": 20180714172128,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc224da4a9499b120368a",
+                                "sentence": " Outside under a white cloth mat and jessica at their work stations. Beside the boat mat operates an electric sander.",
+                                "start_time": 5.62,
+                                "end_time": 12.53
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b1203689",
+                                "sentence": " Jessica lifts a hatch cover, rotating at 90 degrees.",
+                                "start_time": 16.59,
+                                "end_time": 20.36
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b1203688",
+                                "sentence": " Jessica dips an object into a bucket, then shakes it.",
+                                "start_time": 25.4,
+                                "end_time": 28.8
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b1203687",
+                                "sentence": " Matt holds a frame, pointing out the shape with curved bottom corners and sharp Top corners.",
+                                "start_time": 36.96,
+                                "end_time": 42.2
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b1203686",
+                                "sentence": " Matt, ben's down to pick up a piece of sandpaper from the ground and continue standing by",
+                                "start_time": 45.49,
+                                "end_time": 50.28
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b1203685",
+                                "sentence": " both. Focus on their work.",
+                                "start_time": 50.28,
+                                "end_time": 52.01
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b1203684",
+                                "sentence": " We decided to do a little change of plans and our standing and burnishing process. Uh Yesterday we're going through being the first coat of varnish on the areas I had already got into court of maxine.",
+                                "start_time": 58.27,
+                                "end_time": 68.91
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b1203683",
+                                "sentence": " You gotta know is how like to know if he was uh build in all of the turning to matt",
+                                "start_time": 69.57,
+                                "end_time": 76.58
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b1203682",
+                                "sentence": " ever study. We just stayed",
+                                "start_time": 83.07,
+                                "end_time": 87.12
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b1203681",
+                                "sentence": " next",
+                                "start_time": 87.33,
+                                "end_time": 88.36
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b1203680",
+                                "sentence": " short term.",
+                                "start_time": 88.36,
+                                "end_time": 89.64
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b120367f",
+                                "sentence": " Turning to matt.",
+                                "start_time": 89.64,
+                                "end_time": 90.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b4a31552662e2425f3f8542",
+                        "video": "5b4a29ea2662e2425f3f8534",
+                        "audio_description": "5b4a29ea2662e2425f3f8533",
+                        "user": "5b48a3de2662e2425f3f84d1",
+                        "label": "t9-1",
+                        "playback_type": "inline",
+                        "start_time": 707.078819,
+                        "end_time": 738.6579573219955,
+                        "duration": 31.579138321995465,
+                        "file_name": "q5FDDbpDfBY_5b4a31552662e2425f3f8542.wav",
+                        "file_size_bytes": 5570604,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q5FDDbpDfBY",
+                        "created_at": 20180714172229,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc225da4a9499b1203725",
+                                "sentence": " The wood shines",
+                                "start_time": 3.54,
+                                "end_time": 5.01
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203724",
+                                "sentence": " yeah,",
+                                "start_time": 5.88,
+                                "end_time": 9.93
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203723",
+                                "sentence": " and assembled wood pieces.",
+                                "start_time": 11.14,
+                                "end_time": 17.74
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203722",
+                                "sentence": " A man in a cap",
+                                "start_time": 19.84,
+                                "end_time": 21.2
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203721",
+                                "sentence": " uh",
+                                "start_time": 27.53,
+                                "end_time": 29.86
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203720",
+                                "sentence": " has.",
+                                "start_time": 30.07,
+                                "end_time": 31.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b4a31bb2662e2425f3f8544",
+                        "video": "5b4a29ea2662e2425f3f8534",
+                        "audio_description": "5b4a29ea2662e2425f3f8533",
+                        "user": "5b48a3de2662e2425f3f84d1",
+                        "label": "t10-1",
+                        "playback_type": "inline",
+                        "start_time": 746.644602,
+                        "end_time": 787.1402029070294,
+                        "duration": 40.49560090702948,
+                        "file_name": "q5FDDbpDfBY_5b4a31bb2662e2425f3f8544.wav",
+                        "file_size_bytes": 7143468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q5FDDbpDfBY",
+                        "created_at": 20180714172411,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc225da4a9499b120374c",
+                                "sentence": " Jessica stands in front of green tropical vegetation",
+                                "start_time": 4.36,
+                                "end_time": 7.57
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b120374b",
+                                "sentence": " for joining us. That",
+                                "start_time": 7.73,
+                                "end_time": 8.71
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b120374a",
+                                "sentence": " and of course we continuing wage the future just had",
+                                "start_time": 12.8,
+                                "end_time": 15.68
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203749",
+                                "sentence": " none of it ever ends in uh one week to week left even period. So just keep watching parents team.",
+                                "start_time": 15.68,
+                                "end_time": 22.61
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203748",
+                                "sentence": " So where we",
+                                "start_time": 23.2,
+                                "end_time": 24.36
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203747",
+                                "sentence": " prepare for hurricane matthew and go through that and start on the floors of our vote. So thanks for joining along and be liked. You can always focus on the east region.",
+                                "start_time": 24.4,
+                                "end_time": 33.03
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203746",
+                                "sentence": " Music credits, epidemic sound performs climbing through the air, three wonders fire and flames. And for the weekend,",
+                                "start_time": 33.13,
+                                "end_time": 40.45
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b4a33b32662e2425f3f8548",
+                        "video": "5b4a29ea2662e2425f3f8534",
+                        "audio_description": "5b4a29ea2662e2425f3f8533",
+                        "user": "5b48a3de2662e2425f3f84d1",
+                        "label": "t1",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 50.89814058956916,
+                        "duration": 50.89814058956916,
+                        "file_name": "q5FDDbpDfBY_5b4a33b32662e2425f3f8548.wav",
+                        "file_size_bytes": 8978476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q5FDDbpDfBY",
+                        "created_at": 20180714173235,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7adafed6d97588d2c53",
+                                "sentence": " A wooden boat with peeling varnish rests on stands facing ground level palm trees. It has round portals, a faded light blue boat in the water,",
+                                "start_time": 1.31,
+                                "end_time": 8.95
+                            },
+                            {
+                                "_id": "5e4cb7adafed6d97588d2c52",
+                                "sentence": " a dirty, dingy boat on stands secured with straps. A blue catamaran with mildew stains mass ling beside it.",
+                                "start_time": 8.95,
+                                "end_time": 15.86
+                            },
+                            {
+                                "_id": "5e4cb7adafed6d97588d2c51",
+                                "sentence": " The transom of another boat reads, living well is the best revenge. It' stop insides mossy, moldy and rusty.",
+                                "start_time": 15.86,
+                                "end_time": 22.25
+                            },
+                            {
+                                "_id": "5e4cb7adafed6d97588d2c50",
+                                "sentence": " Another dirty catamaran is named Alice of zimbabwe.",
+                                "start_time": 22.25,
+                                "end_time": 25.5
+                            },
+                            {
+                                "_id": "5e4cb7adafed6d97588d2c4f",
+                                "sentence": " A metal boat on stands in wood blocks, faces the woods ahead.",
+                                "start_time": 25.55,
+                                "end_time": 29.59
+                            },
+                            {
+                                "_id": "5e4cb7adafed6d97588d2c4e",
+                                "sentence": " From left to right. Rows of cleaner sailboats on stands along a grass path. The blue sky scattered with clouds, a young woman with blue eyes, broad white smile, and long brown hair,",
+                                "start_time": 29.86,
+                                "end_time": 40.31
+                            },
+                            {
+                                "_id": "5e4cb7adafed6d97588d2c4d",
+                                "sentence": " a photo montage.",
+                                "start_time": 45.4,
+                                "end_time": 46.9
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b4a29ea2662e2425f3f8533",
+                "video": "5b4a29ea2662e2425f3f8534",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b48a3de2662e2425f3f84d1",
+                    "email": "obliqueplanet@gmail.com",
+                    "name": "T Burns",
+                    "given_name": "T",
+                    "picture": "https://lh4.googleusercontent.com/-YZcXpm6Znbo/AAAAAAAAAAI/AAAAAAAAAAA/AAnnY7qZPwSB8TGHxAPcndr2mzNSKoKO9g/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "107689271282833845601",
+                    "last_login": 20200429212208,
+                    "token": "c6ee6e489ffe2e92dc45043ed090334c58f47b78344be01953dc943393747803",
+                    "__v": 0,
+                    "updated_at": 20200429212208,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180714165050,
+                "updated_at": 20180714165050,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "sailing",
+            "Florida",
+            "boat work",
+            "renovation",
+            "boat graveyard",
+            "mj sailing",
+            "sailing vlog",
+            "recommended sailing",
+            "recommended travel",
+            "liveaboard sailing",
+            "liveaboard sailboat",
+            "how to sail the world",
+            "how much does it cost to buy a sailboat",
+            "how much does it cost to sail the world",
+            "debt free living",
+            "debt free travel",
+            "tiny home",
+            "tiny home living",
+            "sv delos",
+            "delos",
+            "sailing la vagabonde",
+            "sailing doodles",
+            "tulas endless summer",
+            "aluminum sailboat",
+            "metal sailboat"
+        ],
+        "custom_tags": [],
+        "_id": "5b4a29ea2662e2425f3f8534",
+        "title": "Welcome to the Boat Graveyard  (EP 1 - MJ Sailing)",
+        "description": "Click subscribe to follow all our adventures.  Please become a Patreon!  https://www.patreon.com/mjsailing\n\nCheck out our previous sailing photos on Instagram:\nhttp://www.instagram.com/mattandjessicasailing\n\nOur first entry in our video series after cruising for 3 years and blogging for 6!  In this episode you will see the history of how we arrived at where we now are in Indiantown Marina (aka the Boat Graveyard), and a few of the projects we're tackling as we rebuild a 37 ft custom aluminum sailboat.\n\nThank you for watching and we hope you enjoy!\nMatt & Jessica \n\nWebsite: \nhttp://www.mjsailing.com\n\n\nFacebook:\nhttp://www.facebook.com/mjsailing",
+        "youtube_id": "q5FDDbpDfBY",
+        "created_at": 20180714165050,
+        "updated_at": 20180714173235,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 788
+    }
+}

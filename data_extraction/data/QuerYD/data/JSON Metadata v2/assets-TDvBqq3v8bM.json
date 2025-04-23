@@ -1,0 +1,98 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf9246e13dfd851a69e5",
+                        "audio_description": "58e7cf3c46e13dfd851a2831",
+                        "created_at": 20161211105540,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161211105540,
+                        "file_name": "14814825404681.wav",
+                        "start_time": 1.94,
+                        "legacy_video_id": 3025,
+                        "legacy_user_id": 3508,
+                        "label": "",
+                        "legacy_audio_clip_id": 30065,
+                        "video": "58e7cf2946e13dfd851a1fe3",
+                        "end_time": 1.94,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2830",
+                        "transcript": [
+                            {
+                                "_id": "5e4ace69bb48a54eda1a854b",
+                                "sentence": " There is a",
+                                "start_time": 0.37,
+                                "end_time": 1.37
+                            },
+                            {
+                                "_id": "5e4ace69bb48a54eda1a854a",
+                                "sentence": " big green grassy field,",
+                                "start_time": 1.37,
+                                "end_time": 3.87
+                            },
+                            {
+                                "_id": "5e4ace69bb48a54eda1a8549",
+                                "sentence": " this mama mountain",
+                                "start_time": 3.87,
+                                "end_time": 6.06
+                            },
+                            {
+                                "_id": "5e4ace69bb48a54eda1a8548",
+                                "sentence": " in the background with some brown huts in the foreground.",
+                                "start_time": 6.06,
+                                "end_time": 9.74
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3c46e13dfd851a2831",
+                "status": "published",
+                "legacy_video_id": 3025,
+                "legacy_user_id": 3508,
+                "video": "58e7cf2946e13dfd851a1fe3",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3c46e13dfd851a2830",
+                    "name": "rachelchaikof",
+                    "google_user_id_token": "",
+                    "created_at": 20161211104153,
+                    "updated_at": 20161211104702,
+                    "legacy_user_id": 3508,
+                    "last_login": 0,
+                    "email": "rachel@rachelchaikof.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1fe3",
+        "description": "",
+        "youtube_id": "TDvBqq3v8bM",
+        "views": 0,
+        "created_at": 20161211104713,
+        "title": "Peace Corps: Disability Training",
+        "legacy_video_id": 3025,
+        "updated_at": 20161211105540,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 361
+    }
+}

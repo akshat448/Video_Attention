@@ -1,0 +1,88 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fda6d8bce0a842f6990b29a",
+                        "video": "5fda6d6869f2192f6390181c",
+                        "audio_description": "5fda6d6869f2192f6390181b",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 5.479909297052155,
+                        "file_name": "13S9n41lme8_5fda6d8bce0a842f6990b29a.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/13S9n41lme8",
+                        "created_at": 20201216202651,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5fda6db7ce0a842f6990b29b",
+                        "video": "5fda6d6869f2192f6390181c",
+                        "audio_description": "5fda6d6869f2192f6390181b",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 76.19891249999993,
+                        "end_time": 76.19891249999993,
+                        "duration": 4.551111111111111,
+                        "file_name": "13S9n41lme8_5fda6db7ce0a842f6990b29b.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/13S9n41lme8",
+                        "created_at": 20201216202735,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fda6d6869f2192f6390181b",
+                "video": "5fda6d6869f2192f6390181c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5fc6b5fb95521063835ce383",
+                    "email": "ecastillojenn@gmail.com",
+                    "name": "Jennifer Castillo",
+                    "given_name": "Jennifer",
+                    "picture": "https://lh4.googleusercontent.com/-5bpnry8pqfg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckH9ncyvBYAW2kOTFQ5bs4EeopJOg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115887003623205163006",
+                    "last_login": 20201221205124,
+                    "token": "1114491ec716f0171a30639c483ee718d98ebe8e044084b7b6bf4e03ccbb3772",
+                    "__v": 0,
+                    "updated_at": 20201221205124
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201216202616,
+                "updated_at": 20201219053817,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 3,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 3,
+                "feedbacks": {
+                    "7": 1
+                }
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fda6d6869f2192f6390181c",
+        "title": "Marine Animals and Their Senses: Shark Senses!",
+        "description": "Sharks have the same senses that we do--but they also have a bonus sense! Watch as Aquarist Crystal reveals how sharks sense the world around them. Special thanks to Aquarist Natalie, Aquarist Crystal and Assistant Dive Safety Officer Sean.\n\nFor more science videos, blog posts, and virtual tours, visit californiasciencecenter.org/beyond",
+        "youtube_id": "13S9n41lme8",
+        "created_at": 20201216202616,
+        "updated_at": 20201216202735,
+        "views": 0,
+        "__v": 0
+    }
+}

@@ -1,0 +1,379 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c634c710477e6699ad65f38",
+                        "video": "5c634ae04c74b5698f64337f",
+                        "audio_description": "5c634ae04c74b5698f64337e",
+                        "user": "5c633a7c0477e6699ad65f24",
+                        "label": "Chloe 1",
+                        "playback_type": "inline",
+                        "start_time": 20.808734,
+                        "end_time": 45.979164839002266,
+                        "duration": 25.170430839002268,
+                        "file_name": "wkP0rYhSrLQ_5c634c710477e6699ad65f38.wav",
+                        "file_size_bytes": 4440108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/wkP0rYhSrLQ",
+                        "created_at": 20190212224505,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be5a1",
+                                "sentence": " In a different apartment, a chubby cat named chloe opens the fridge and sees a roast chicken.",
+                                "start_time": 0.88,
+                                "end_time": 5.77
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be5a0",
+                                "sentence": " She licked her lips, but closes the fridge door.",
+                                "start_time": 5.77,
+                                "end_time": 8.43
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be59f",
+                                "sentence": " Later, she opens the fridge and reaches for the chicken,",
+                                "start_time": 8.95,
+                                "end_time": 12.27
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be59e",
+                                "sentence": " but does not eat it.",
+                                "start_time": 12.27,
+                                "end_time": 13.48
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be59d",
+                                "sentence": " Chloe repeatedly opens the fridge and looks hungrily at the chicken.",
+                                "start_time": 14.74,
+                                "end_time": 18.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c634d360477e6699ad65f3a",
+                        "video": "5c634ae04c74b5698f64337f",
+                        "audio_description": "5c634ae04c74b5698f64337e",
+                        "user": "5c633a7c0477e6699ad65f24",
+                        "label": "Mel",
+                        "playback_type": "inline",
+                        "start_time": 45.037077,
+                        "end_time": 77.91653278231291,
+                        "duration": 32.879455782312924,
+                        "file_name": "wkP0rYhSrLQ_5c634d360477e6699ad65f3a.wav",
+                        "file_size_bytes": 5799980,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/wkP0rYhSrLQ",
+                        "created_at": 20190212224822,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be573",
+                                "sentence": " In another apartment, a pug named mel pushes an arm chair across the room.",
+                                "start_time": 0.58,
+                                "end_time": 4.6
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be572",
+                                "sentence": " He then pushes a table full of dog treats.",
+                                "start_time": 4.6,
+                                "end_time": 7.1
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be571",
+                                "sentence": " He yanks open the curtain of a window, which looks out at a tree.",
+                                "start_time": 7.18,
+                                "end_time": 10.91
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be570",
+                                "sentence": " The pug throws a pillow onto the chair and sits down.",
+                                "start_time": 11.36,
+                                "end_time": 14.62
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be56f",
+                                "sentence": " Mel stares out the window, determined",
+                                "start_time": 15.3,
+                                "end_time": 17.77
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be56e",
+                                "sentence": " he spots a squirrel in the tree and bounces off the window.",
+                                "start_time": 18.16,
+                                "end_time": 21.51
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be56d",
+                                "sentence": " He jumps up and down in place.",
+                                "start_time": 22.1,
+                                "end_time": 24.12
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be56c",
+                                "sentence": " The squirrel sees mel and runs up the tree.",
+                                "start_time": 25.79,
+                                "end_time": 28.53
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be56b",
+                                "sentence": " Mel sits down on the chair again with a satisfied smile.",
+                                "start_time": 29.13,
+                                "end_time": 32.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c634ded4c74b5698f643383",
+                        "video": "5c634ae04c74b5698f64337f",
+                        "audio_description": "5c634ae04c74b5698f64337e",
+                        "user": "5c633a7c0477e6699ad65f24",
+                        "label": "Buddy",
+                        "playback_type": "inline",
+                        "start_time": 77.05706980519481,
+                        "end_time": 100.83430336528552,
+                        "duration": 23.777233560090703,
+                        "file_name": "wkP0rYhSrLQ_5c634ded4c74b5698f643383.wav",
+                        "file_size_bytes": 4194348,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/wkP0rYhSrLQ",
+                        "created_at": 20190212225125,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be589",
+                                "sentence": " A dashing named buddy climbs on a kitchen counter and knocks the bowl off an electric mixer.",
+                                "start_time": 1.93,
+                                "end_time": 7.07
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be588",
+                                "sentence": " He lies under it and turns it on.",
+                                "start_time": 7.07,
+                                "end_time": 9.27
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be587",
+                                "sentence": " The mixer massages the dogs long slim back,",
+                                "start_time": 9.35,
+                                "end_time": 12.71
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be586",
+                                "sentence": " but he moves forward and let's the mixer massage his lower back entail.",
+                                "start_time": 12.81,
+                                "end_time": 16.88
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be585",
+                                "sentence": " He flips over, and the mixer rubs his belly",
+                                "start_time": 17.05,
+                                "end_time": 19.97
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be584",
+                                "sentence": " relaxed.",
+                                "start_time": 20.48,
+                                "end_time": 21.63
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be583",
+                                "sentence": " Buddy falls off the counter.",
+                                "start_time": 21.63,
+                                "end_time": 23.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c634e540477e6699ad65f3c",
+                        "video": "5c634ae04c74b5698f64337f",
+                        "audio_description": "5c634ae04c74b5698f64337e",
+                        "user": "5c633a7c0477e6699ad65f24",
+                        "label": "Chloe 2",
+                        "playback_type": "inline",
+                        "start_time": 99.43528733766233,
+                        "end_time": 110.58086556895485,
+                        "duration": 11.145578231292516,
+                        "file_name": "wkP0rYhSrLQ_5c634e540477e6699ad65f3c.wav",
+                        "file_size_bytes": 1966124,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/wkP0rYhSrLQ",
+                        "created_at": 20190212225308,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be57d",
+                                "sentence": " Chloe sits beside the eaten chicken stuffed.",
+                                "start_time": 0.93,
+                                "end_time": 3.95
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be57c",
+                                "sentence": " She falls out of the fridge",
+                                "start_time": 4.35,
+                                "end_time": 6.13
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be57b",
+                                "sentence": " when she looks up,",
+                                "start_time": 6.63,
+                                "end_time": 8.06
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be57a",
+                                "sentence": " she spots a cake.",
+                                "start_time": 8.06,
+                                "end_time": 9.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c634f214c74b5698f643385",
+                        "video": "5c634ae04c74b5698f64337f",
+                        "audio_description": "5c634ae04c74b5698f64337e",
+                        "user": "5c633a7c0477e6699ad65f24",
+                        "label": "Leonard",
+                        "playback_type": "inline",
+                        "start_time": 108.594135,
+                        "end_time": 119.83259304988661,
+                        "duration": 11.23845804988662,
+                        "file_name": "wkP0rYhSrLQ_5c634f214c74b5698f643385.wav",
+                        "file_size_bytes": 1982508,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/wkP0rYhSrLQ",
+                        "created_at": 20190212225633,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be598",
+                                "sentence": " In a luxurious apartment,",
+                                "start_time": 0.72,
+                                "end_time": 2.64
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be597",
+                                "sentence": " a white poodle named leonard turns on the stereo with his nose.",
+                                "start_time": 3.65,
+                                "end_time": 7.1
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be596",
+                                "sentence": " Leonard head bangs along to the music.",
+                                "start_time": 7.79,
+                                "end_time": 10.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c6350cc0477e6699ad65f3f",
+                        "video": "5c634ae04c74b5698f64337f",
+                        "audio_description": "5c634ae04c74b5698f64337e",
+                        "user": "5c633a7c0477e6699ad65f24",
+                        "label": "Sweetpea",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 21.455238095238094,
+                        "duration": 21.455238095238094,
+                        "file_name": "wkP0rYhSrLQ_5c6350cc0477e6699ad65f3f.wav",
+                        "file_size_bytes": 3784748,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/wkP0rYhSrLQ",
+                        "created_at": 20190212230340,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be56a",
+                                "sentence": " A parakeet named sweet pea bumps the cage door and flies out of the cage",
+                                "start_time": 0.64,
+                                "end_time": 5.44
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be569",
+                                "sentence": " sweet piece, which is on a fan and turns on the tv.",
+                                "start_time": 5.54,
+                                "end_time": 9.08
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be568",
+                                "sentence": " The green and yellow bird flies against the wind of the fan pretending to fly alongside the fighter jets on tv",
+                                "start_time": 11.06,
+                                "end_time": 17.75
+                            },
+                            {
+                                "_id": "5e3808ef2e8d9f44c62be567",
+                                "sentence": " that glide through a canyon.",
+                                "start_time": 17.75,
+                                "end_time": 19.29
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c634ae04c74b5698f64337e",
+                "video": "5c634ae04c74b5698f64337f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c633a7c0477e6699ad65f24",
+                    "email": "sbattista2@gmail.com",
+                    "name": "sierra b",
+                    "given_name": "sierra",
+                    "picture": "https://lh3.googleusercontent.com/-_BqPuJpnL4E/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQO4Tvo7vTKB0dj9XOyC4oxG5856Wg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "110817108782871043451",
+                    "last_login": 20190226041329,
+                    "token": "00a30cc552508352d79cca35d4ca9cdfda2b076f02b3666392ea6b8526fb429a",
+                    "__v": 0,
+                    "updated_at": 20190226041329,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-ca",
+                "created_at": 20190212223824,
+                "updated_at": 20190216061327,
+                "notes": "\n",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "the secret life of pets",
+            "the secret life of pets movie",
+            "the secret life of pets scene",
+            "the secret life of pets clip",
+            "the secret life of pets 2",
+            "the secret life of pets song",
+            "the secret life of pets music",
+            "the secret life of pets max",
+            "the secret life of pets gidget and max",
+            "the secret life of pets bunny",
+            "the secret life of pets pig",
+            "max and gidget",
+            "the secret life of pets snowball",
+            "the secret life of pets rabbit",
+            "the secret life of pets dog",
+            "the secret life of pets factory"
+        ],
+        "custom_tags": [],
+        "_id": "5c634ae04c74b5698f64337f",
+        "title": "The Secret Life of Pets - Home Alone Scene | Fandango Family",
+        "description": "The Secret Life of Pets - Home Alone: The pets can finally have some fun after their owners leave for the day.\nBUY THE MOVIE: https://www.fandangonow.com/details/movie/the-secret-life-of-pets-2016/MMVECE4515FFB07614BF9F78AEFDD14A980E?cmp=Movieclips_YT_Description\n\nWatch the best The Secret Life of Pets scenes & clips:\nhttps://www.youtube.com/playlist?list=PLZbXA4lyCtqpZQ8glofvMIwn4WrNFEi-j\n\nFILM DESCRIPTION:\nMax (Louis C.K.) is a spoiled terrier who enjoys a comfortable life in a New York building until his owner adopts Duke, a giant and unruly canine. During their walk outside, they encounter a group of ferocious alley cats and wind up in a truck that's bound for the pound. Luckily, a rebellious bunny named Snowball swoops in to save the doggy duo from captivity. In exchange, Snowball demands that Max and Duke join his gang of abandoned pets on a mission against the humans who've done them wrong.\n\nCREDITS:\nTM & \u00a9 Universal (2016)\nCast: \n\nWatch More:\n\u25ba Animated Movie Clips: http://bit.ly/2mjpE3Z\n\u25ba Trailers: http://bit.ly/2miQBF7\n\u25ba Interviews: http://bit.ly/2D3wfuL\n\u25ba Mom's Movie Minute: http://bit.ly/2FsiLWI\n\u25ba Movies on FandangoNOW: http://bit.ly/2DletzH\n\nJoin the Fandango Family:\n\u25ba Subscribe to FAMILY: http://bit.ly/2FqcDOW\n\u25ba Watch Movieclips ORIGINALS: http://bit.ly/2mq4AtC\n\u25ba Like us on FACEBOOK: http://bit.ly/2Etzp6Y\n\u25ba Follow us on TWITTER: http://bit.ly/2mg1siS\n\u25ba Follow us on INSTAGRAM: http://bit.ly/2miBQSC\n\nFANDANGO FAMILY helps you find family-friendly trailers, clips and featurettes that are perfect for all ages to enjoy.",
+        "youtube_id": "wkP0rYhSrLQ",
+        "created_at": 20190212223824,
+        "updated_at": 20190212230340,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 131
+    }
+}

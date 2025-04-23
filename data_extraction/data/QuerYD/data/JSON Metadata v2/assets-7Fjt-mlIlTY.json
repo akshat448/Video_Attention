@@ -1,0 +1,398 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4e9a",
+                        "audio_description": "58e7cf3346e13dfd851a24e9",
+                        "created_at": 20151102102557,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102102557,
+                        "file_name": "14464887570771.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2314,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18306,
+                        "video": "58e7cf2946e13dfd851a1d1d",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb688b9b7153a905c3dc8",
+                                "sentence": " Kelly, a young toddler, sits on the floor with two large metal bowls around her. One bowl holds a whisk, while the other holds a small purple hollow ball that has shapes cut out of it.",
+                                "start_time": 0.65,
+                                "end_time": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4e9b",
+                        "audio_description": "58e7cf3346e13dfd851a24e9",
+                        "created_at": 20151102102635,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102102635,
+                        "file_name": "14464887952501.wav",
+                        "start_time": 10.367,
+                        "legacy_video_id": 2314,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18307,
+                        "video": "58e7cf2946e13dfd851a1d1d",
+                        "end_time": 10.367,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec34d94fd7667ac6613c9",
+                                "sentence": " An adult puts a yellow swicky toy into the first bowl, squeezing it several times.",
+                                "start_time": 0.81,
+                                "end_time": 6.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4e9c",
+                        "audio_description": "58e7cf3346e13dfd851a24e9",
+                        "created_at": 20151102102753,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102102753,
+                        "file_name": "14464888738931.wav",
+                        "start_time": 24.971,
+                        "legacy_video_id": 2314,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18308,
+                        "video": "58e7cf2946e13dfd851a1d1d",
+                        "end_time": 24.971,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ed2a329f9bdab9cd96edd",
+                                "sentence": " As the adult picks up the squeaky toy, kaylie reaches out to touch it. The adult places it back into the bowl, and kaylee pushes it down, rocking her head from side to side.",
+                                "start_time": 0.27,
+                                "end_time": 10.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4e9d",
+                        "audio_description": "58e7cf3346e13dfd851a24e9",
+                        "created_at": 20151102102938,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102102938,
+                        "file_name": "14464889784811.wav",
+                        "start_time": 31.954,
+                        "legacy_video_id": 2314,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18309,
+                        "video": "58e7cf2946e13dfd851a1d1d",
+                        "end_time": 31.954,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ed2a229f9bdab9cd96e9e",
+                                "sentence": " The adult picks up the whisk with kelly's hand, also holding the Top of the whisk. The adult begins to tap it on the metal bowl, and on the squeaky toy.",
+                                "start_time": 0.44,
+                                "end_time": 9.55
+                            },
+                            {
+                                "_id": "5e3ed2a229f9bdab9cd96e9d",
+                                "sentence": " As the adult moves her hand away, kelly withdraws for a moment and then picks up the whisk and begins tapping it again.",
+                                "start_time": 9.55,
+                                "end_time": 16.86
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a24e9",
+                "status": "published",
+                "legacy_video_id": 2314,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1d1d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b8a",
+                        "audio_description": "58e7cf3346e13dfd851a24e9",
+                        "created_at": 20160824115350,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824115350,
+                        "file_name": "14720648302091.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2314,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24039,
+                        "video": "58e7cf2946e13dfd851a1d1d",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268879f74cbc7c082d16",
+                                "sentence": " A light skinned female toddler sits on a hardwood floor surrounded by toys and too large metal bowls.",
+                                "start_time": 0.48,
+                                "end_time": 7.19
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d15",
+                                "sentence": " She shakes her head back and forth several times, and then looks forward at the person filming.",
+                                "start_time": 7.27,
+                                "end_time": 12.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b8b",
+                        "audio_description": "58e7cf3346e13dfd851a24e9",
+                        "created_at": 20160824115437,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824115437,
+                        "file_name": "14720648775741.wav",
+                        "start_time": 9.401,
+                        "legacy_video_id": 2314,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24040,
+                        "video": "58e7cf2946e13dfd851a1d1d",
+                        "end_time": 9.401,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.72,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268979f74cbc7c082d98",
+                                "sentence": " A hand holding a yellow soft toy comes into view and to the side of the toddler.",
+                                "start_time": 0.87,
+                                "end_time": 6.34
+                            },
+                            {
+                                "_id": "5e44268979f74cbc7c082d97",
+                                "sentence": " The person drops the toy into one of the large bowls to the toddlers left and guides her hands to the toy",
+                                "start_time": 6.57,
+                                "end_time": 13.49
+                            },
+                            {
+                                "_id": "5e44268979f74cbc7c082d96",
+                                "sentence": " that author doesn't follow. So the person picks up the toy and holds it under the toddlers hand.",
+                                "start_time": 13.65,
+                                "end_time": 19.61
+                            },
+                            {
+                                "_id": "5e44268979f74cbc7c082d95",
+                                "sentence": " Uh.",
+                                "start_time": 19.8,
+                                "end_time": 20.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b8c",
+                        "audio_description": "58e7cf3346e13dfd851a24e9",
+                        "created_at": 20160824115547,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824115547,
+                        "file_name": "14720649476971.wav",
+                        "start_time": 22.513,
+                        "legacy_video_id": 2314,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24041,
+                        "video": "58e7cf2946e13dfd851a1d1d",
+                        "end_time": 22.513,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb23a3885227afb5cd02",
+                                "sentence": " The hand is no longer in view.",
+                                "start_time": 0.57,
+                                "end_time": 3.12
+                            },
+                            {
+                                "_id": "5e45bb23a3885227afb5cd01",
+                                "sentence": " Now, the toddler is feeling the yellow toy with her hand on her own for a moment, then pulls her hand back",
+                                "start_time": 3.12,
+                                "end_time": 9.67
+                            },
+                            {
+                                "_id": "5e45bb23a3885227afb5cd00",
+                                "sentence": " and shakes her head back and forth several times.",
+                                "start_time": 9.67,
+                                "end_time": 12.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b8d",
+                        "audio_description": "58e7cf3346e13dfd851a24e9",
+                        "created_at": 20160824115716,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824115716,
+                        "file_name": "14720650367571.wav",
+                        "start_time": 30.236,
+                        "legacy_video_id": 2314,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24042,
+                        "video": "58e7cf2946e13dfd851a1d1d",
+                        "end_time": 30.236,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268979f74cbc7c082db7",
+                                "sentence": " The hand comes back into view, and using hand under hand guides the toddlers hand to a whisk that is also in the bowl with yellow toy.",
+                                "start_time": 0.64,
+                                "end_time": 9.73
+                            },
+                            {
+                                "_id": "5e44268979f74cbc7c082db6",
+                                "sentence": " The toddler holds onto the metal whisk while the person's hand taps it on to the side of the metal bowl.",
+                                "start_time": 10.16,
+                                "end_time": 16.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b8e",
+                        "audio_description": "58e7cf3346e13dfd851a24e9",
+                        "created_at": 20160824115752,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824115752,
+                        "file_name": "14720650727581.wav",
+                        "start_time": 43.306,
+                        "legacy_video_id": 2314,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24043,
+                        "video": "58e7cf2946e13dfd851a1d1d",
+                        "end_time": 43.306,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.04,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb24a3885227afb5cd4a",
+                                "sentence": " The person, let's go of the whisk",
+                                "start_time": 0.2,
+                                "end_time": 2.52
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd49",
+                                "sentence": " and then removes their hand.",
+                                "start_time": 2.52,
+                                "end_time": 4.48
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd48",
+                                "sentence": " The toddler is now holding the whisk on her own.",
+                                "start_time": 4.58,
+                                "end_time": 7.69
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd47",
+                                "sentence": " She then let's go shortly after and picks it back up as the video ends.",
+                                "start_time": 7.69,
+                                "end_time": 12.88
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25a6",
+                "status": "published",
+                "legacy_video_id": 2314,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1d1d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d1d",
+        "description": "",
+        "youtube_id": "7Fjt-mlIlTY",
+        "views": 0,
+        "created_at": 20151102102530,
+        "title": "Kailee resonance and sound",
+        "legacy_video_id": 2314,
+        "updated_at": 20160824115752,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 50
+    }
+}

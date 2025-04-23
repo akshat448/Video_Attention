@@ -1,0 +1,556 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5afb",
+                        "audio_description": "58e7cf3546e13dfd851a25ac",
+                        "created_at": 20160818111620,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818111620,
+                        "file_name": "14715441801651.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2649,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23837,
+                        "video": "58e7cf2946e13dfd851a1e6c",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 22.76,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb24a3885227afb5cd91",
+                                "sentence": " A young male child, orion,",
+                                "start_time": 0.92,
+                                "end_time": 4.06
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd90",
+                                "sentence": " lies on his back on a carpeted floor.",
+                                "start_time": 4.06,
+                                "end_time": 7.15
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd8f",
+                                "sentence": " Only the right side of his body and arm are visible.",
+                                "start_time": 7.51,
+                                "end_time": 11.55
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd8e",
+                                "sentence": " he has his right hand",
+                                "start_time": 12.9,
+                                "end_time": 15.5
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd8d",
+                                "sentence": " reach out and is tapping on the leg of his dad sitting next to him.",
+                                "start_time": 16.96,
+                                "end_time": 22.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5afc",
+                        "audio_description": "58e7cf3546e13dfd851a25ac",
+                        "created_at": 20160818112036,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818112036,
+                        "file_name": "14715444366711.wav",
+                        "start_time": 8.087,
+                        "legacy_video_id": 2649,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23838,
+                        "video": "58e7cf2946e13dfd851a1e6c",
+                        "end_time": 8.087,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb24a3885227afb5cd58",
+                                "sentence": " White text appears that reads",
+                                "start_time": 0.32,
+                                "end_time": 3.28
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd57",
+                                "sentence": " orion and dad.",
+                                "start_time": 3.28,
+                                "end_time": 5.12
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd56",
+                                "sentence": " The camera moves up to reveal more of a ryan's body.",
+                                "start_time": 5.45,
+                                "end_time": 9.57
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd55",
+                                "sentence": " Orion has short white hair.",
+                                "start_time": 9.6,
+                                "end_time": 12.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5afd",
+                        "audio_description": "58e7cf3546e13dfd851a25ac",
+                        "created_at": 20160818123852,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818123852,
+                        "file_name": "14715491322041.wav",
+                        "start_time": 10.789,
+                        "legacy_video_id": 2649,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23840,
+                        "video": "58e7cf2946e13dfd851a1e6c",
+                        "end_time": 10.789,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 35.55,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e442889c26fa0bc796fd4c9",
+                                "sentence": " The video fades out,",
+                                "start_time": 0.87,
+                                "end_time": 2.47
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4c8",
+                                "sentence": " and a new scene fades in.",
+                                "start_time": 2.47,
+                                "end_time": 4.29
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4c7",
+                                "sentence": " The same child is lying on his back on the carpet in the same position.",
+                                "start_time": 4.57,
+                                "end_time": 8.89
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4c6",
+                                "sentence": " His feet are up, pushing against his dad's side and leg,",
+                                "start_time": 9.18,
+                                "end_time": 14.13
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4c5",
+                                "sentence": " his right hand is reached out,",
+                                "start_time": 14.47,
+                                "end_time": 16.91
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4c4",
+                                "sentence": " tapping his fingers on the adults leg.",
+                                "start_time": 16.91,
+                                "end_time": 19.61
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4c3",
+                                "sentence": " His dad taps his fingers on orion stomach,",
+                                "start_time": 20.18,
+                                "end_time": 23.83
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4c2",
+                                "sentence": " white text in the bottom left hand corner of the screen raids,",
+                                "start_time": 24.41,
+                                "end_time": 28.97
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4c1",
+                                "sentence": " 9:52 pm,",
+                                "start_time": 29.06,
+                                "end_time": 30.92
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4c0",
+                                "sentence": " december 1,",
+                                "start_time": 30.95,
+                                "end_time": 32.4
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4bf",
+                                "sentence": " 2013.",
+                                "start_time": 32.4,
+                                "end_time": 33.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5afe",
+                        "audio_description": "58e7cf3546e13dfd851a25ac",
+                        "created_at": 20160818124039,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818124039,
+                        "file_name": "14715492391011.wav",
+                        "start_time": 17.15,
+                        "legacy_video_id": 2649,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23841,
+                        "video": "58e7cf2946e13dfd851a1e6c",
+                        "end_time": 17.15,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 35.04,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44223979f74cbc7c082c18",
+                                "sentence": " The scene fades out and a new scene fades in.",
+                                "start_time": 1.57,
+                                "end_time": 5.19
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c17",
+                                "sentence": " The same child is lying on the carpet floor",
+                                "start_time": 5.93,
+                                "end_time": 8.81
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c16",
+                                "sentence": " and stretched out with his hands above his head.",
+                                "start_time": 8.82,
+                                "end_time": 12.17
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c15",
+                                "sentence": " A dad",
+                                "start_time": 13.1,
+                                "end_time": 14.15
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c14",
+                                "sentence": " taps his head",
+                                "start_time": 14.15,
+                                "end_time": 15.56
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c13",
+                                "sentence": " with his fingers.",
+                                "start_time": 15.56,
+                                "end_time": 17.01
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c12",
+                                "sentence": " And Oh Ryan reaches up",
+                                "start_time": 17.01,
+                                "end_time": 18.62
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c11",
+                                "sentence": " feeling his father's hand,",
+                                "start_time": 18.62,
+                                "end_time": 20.36
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c10",
+                                "sentence": " white text on the bottom left hand corner of the screen raids",
+                                "start_time": 20.58,
+                                "end_time": 25.38
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c0f",
+                                "sentence": " 1112",
+                                "start_time": 25.52,
+                                "end_time": 26.91
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c0e",
+                                "sentence": " pm,",
+                                "start_time": 27,
+                                "end_time": 28.05
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c0d",
+                                "sentence": " december 11,",
+                                "start_time": 28.56,
+                                "end_time": 30.6
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c0c",
+                                "sentence": " 2013.",
+                                "start_time": 30.82,
+                                "end_time": 32.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5aff",
+                        "audio_description": "58e7cf3546e13dfd851a25ac",
+                        "created_at": 20160818124151,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818124151,
+                        "file_name": "14715493113891.wav",
+                        "start_time": 28.392,
+                        "legacy_video_id": 2649,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23842,
+                        "video": "58e7cf2946e13dfd851a1e6c",
+                        "end_time": 28.392,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44243df8a7edbc7bf679c8",
+                                "sentence": " Orion moves across the floor, closer to his dad's head,",
+                                "start_time": 1.12,
+                                "end_time": 5.16
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679c7",
+                                "sentence": " and taps on his dad's head.",
+                                "start_time": 5.16,
+                                "end_time": 7.19
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679c6",
+                                "sentence": " Then oh ryan stops,",
+                                "start_time": 7.43,
+                                "end_time": 9.53
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679c5",
+                                "sentence": " and his dad tap. So ryan's forehead",
+                                "start_time": 9.93,
+                                "end_time": 12.8
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679c4",
+                                "sentence": " with his fingers.",
+                                "start_time": 12.8,
+                                "end_time": 14.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b00",
+                        "audio_description": "58e7cf3546e13dfd851a25ac",
+                        "created_at": 20160818125943,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818125943,
+                        "file_name": "14715503833501.wav",
+                        "start_time": 50.812,
+                        "legacy_video_id": 2649,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23848,
+                        "video": "58e7cf2946e13dfd851a1e6c",
+                        "end_time": 50.812,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268879f74cbc7c082d51",
+                                "sentence": " A ryan's dad guides a ryan's hand to his head,",
+                                "start_time": 0.33,
+                                "end_time": 4.78
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d50",
+                                "sentence": " and orion taps on his dad's head.",
+                                "start_time": 4.94,
+                                "end_time": 7.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b01",
+                        "audio_description": "58e7cf3546e13dfd851a25ac",
+                        "created_at": 20160818130045,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818130045,
+                        "file_name": "14715504458371.wav",
+                        "start_time": 66.207,
+                        "legacy_video_id": 2649,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23850,
+                        "video": "58e7cf2946e13dfd851a1e6c",
+                        "end_time": 66.207,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44288ec26fa0bc796fd57b",
+                                "sentence": " Orion stops tapping, and his dad",
+                                "start_time": 0.14,
+                                "end_time": 3.04
+                            },
+                            {
+                                "_id": "5e44288ec26fa0bc796fd57a",
+                                "sentence": " taps orion on his forehead again.",
+                                "start_time": 3.04,
+                                "end_time": 5.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b02",
+                        "audio_description": "58e7cf3546e13dfd851a25ac",
+                        "created_at": 20160818130158,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818130158,
+                        "file_name": "14715505184321.wav",
+                        "start_time": 81.355,
+                        "legacy_video_id": 2649,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23851,
+                        "video": "58e7cf2946e13dfd851a1e6c",
+                        "end_time": 81.355,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268879f74cbc7c082d54",
+                                "sentence": " After a ryan's dad finishes tapping a pattern on a ryan's forehead,",
+                                "start_time": 0.06,
+                                "end_time": 4.85
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d53",
+                                "sentence": " white text appears in the middle of the screen that reads orion",
+                                "start_time": 5.01,
+                                "end_time": 9.8
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d52",
+                                "sentence": " game over.",
+                                "start_time": 10,
+                                "end_time": 11.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b03",
+                        "audio_description": "58e7cf3546e13dfd851a25ac",
+                        "created_at": 20160818130313,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818130313,
+                        "file_name": "14715505930121.wav",
+                        "start_time": 84.815,
+                        "legacy_video_id": 2649,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23852,
+                        "video": "58e7cf2946e13dfd851a1e6c",
+                        "end_time": 84.815,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268779f74cbc7c082cea",
+                                "sentence": " The scene fades out and turns black.",
+                                "start_time": 0.07,
+                                "end_time": 2.77
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082ce9",
+                                "sentence": " White text appears on the black background that reads",
+                                "start_time": 3.14,
+                                "end_time": 6.76
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082ce8",
+                                "sentence": " a withrow family production.",
+                                "start_time": 7.12,
+                                "end_time": 9.33
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082ce7",
+                                "sentence": " Mm x",
+                                "start_time": 9.81,
+                                "end_time": 11.52
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082ce6",
+                                "sentence": " I I.",
+                                "start_time": 11.64,
+                                "end_time": 12.83
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25ac",
+                "status": "published",
+                "legacy_video_id": 2649,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e6c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Orion",
+            "Deafblind",
+            "tactile communication",
+            "tactile",
+            "Play"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e6c",
+        "description": "",
+        "youtube_id": "C6a9AQY_srk",
+        "views": 0,
+        "created_at": 20160818111338,
+        "title": "Finger Tap Play (Tactile Turn Taking)",
+        "legacy_video_id": 2649,
+        "updated_at": 20160818130313,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 87
+    }
+}

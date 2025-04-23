@@ -1,0 +1,114 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7d46e13dfd851a5c5e",
+                        "audio_description": "58e7cf3646e13dfd851a2653",
+                        "created_at": 20160927215359,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160927215359,
+                        "file_name": "14750384394551.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2714,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 24321,
+                        "video": "58e7cf2946e13dfd851a1ead",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e45b74898b0c327b1e12759",
+                                "sentence": " A teenage girl and an adult woman are walking along a path outside. The adult woman has one hand, and the students back as holding the cane in her other hand.",
+                                "start_time": 0.23,
+                                "end_time": 9.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7d46e13dfd851a5c5f",
+                        "audio_description": "58e7cf3646e13dfd851a2653",
+                        "created_at": 20160927215457,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160927215457,
+                        "file_name": "14750384978821.wav",
+                        "start_time": 21.3,
+                        "legacy_video_id": 2714,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 24322,
+                        "video": "58e7cf2946e13dfd851a1ead",
+                        "end_time": 21.3,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.76,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e442700c26fa0bc796fd44c",
+                                "sentence": " The student slaps her thigh and leans back, holding her face with her arm.",
+                                "start_time": 0.42,
+                                "end_time": 4.22
+                            },
+                            {
+                                "_id": "5e442700c26fa0bc796fd44b",
+                                "sentence": " The adult and the students stop walking as the student moves her body, and then sits on the ground just as the video ends.",
+                                "start_time": 4.22,
+                                "end_time": 11.23
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a2653",
+                "status": "published",
+                "legacy_video_id": 2714,
+                "legacy_user_id": 3125,
+                "video": "58e7cf2946e13dfd851a1ead",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2637",
+                    "name": "Jhogan13",
+                    "google_user_id_token": "",
+                    "created_at": 20160504150811,
+                    "updated_at": 20160817114117,
+                    "legacy_user_id": 3125,
+                    "last_login": 0,
+                    "email": "Jhogan13@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ead",
+        "description": "",
+        "youtube_id": "pRfZmKKX2c4",
+        "views": 0,
+        "created_at": 20160927215022,
+        "title": "Emma & Carolina: Travel From Bus To Classroom",
+        "legacy_video_id": 2714,
+        "updated_at": 20160927215509,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 32
+    }
+}

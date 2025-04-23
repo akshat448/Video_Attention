@@ -1,0 +1,90 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5f29a1944247471490b1ddb1",
+                        "video": "5f29a0cb4247471490b1ddad",
+                        "audio_description": "5f29a0cb4247471490b1ddac",
+                        "user": "5f299e7a244b0e149217e40c",
+                        "label": "Title",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 17.066666666666666,
+                        "file_name": "LuKGzTKD_DI_5f29a1944247471490b1ddb1.wav",
+                        "file_size_bytes": 3276844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LuKGzTKD_DI",
+                        "created_at": 20200804175740,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5f29a263244b0e149217e40f",
+                        "video": "5f29a0cb4247471490b1ddad",
+                        "audio_description": "5f29a0cb4247471490b1ddac",
+                        "user": "5f299e7a244b0e149217e40c",
+                        "label": "End logo",
+                        "playback_type": "inline",
+                        "start_time": 1208.920375,
+                        "end_time": 1212.3337083333333,
+                        "duration": 3.4133333333333336,
+                        "file_name": "LuKGzTKD_DI_5f29a263244b0e149217e40f.wav",
+                        "file_size_bytes": 655404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LuKGzTKD_DI",
+                        "created_at": 20200804180107,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5f29a0cb4247471490b1ddac",
+                "video": "5f29a0cb4247471490b1ddad",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5f299e7a244b0e149217e40c",
+                    "email": "candlercommunications@gmail.com",
+                    "name": "Candler Communications",
+                    "given_name": "Candler",
+                    "picture": "https://lh5.googleusercontent.com/-047SvwzSF94/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUOZWn7rRseGW2XzZ-TAdX_Ddl8A/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "104610366201778985607",
+                    "last_login": 20200804174426,
+                    "token": "b862582bcb0000aaae266c38cedb375b38936d03af371b287c632027c10daf38",
+                    "__v": 0
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200804175419,
+                "updated_at": 20200804175419,
+                "notes": "The Honorable Keisha Lance Bottoms 60th Mayor of the City of Atlanta, speaks at Emory University's Candler School of Theology's 2018 Fall Convocation in the William R. Cannon Chapel. The video recording begins with an animation of the Emory University logo.",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Candler School of Theology",
+            "Emory University",
+            "Keisha Lance Bottoms"
+        ],
+        "custom_tags": [],
+        "_id": "5f29a0cb4247471490b1ddad",
+        "title": "2018 Fall Convocation- The Honorable Keisha Lance Bottoms 60th Mayor of the City of Atlanta",
+        "description": "The Honorable Keisha Lance Bottoms 60th Mayor of the City of Atlanta, speaks at Emory University's Candler School of Theology's 2018 Fall Convocation in the William R. Cannon Chapel.",
+        "youtube_id": "LuKGzTKD_DI",
+        "created_at": 20200804175419,
+        "updated_at": 20200804180107,
+        "views": 0,
+        "__v": 0,
+        "category_id": "27",
+        "category": "Education",
+        "duration": 1212,
+        "youtube_status": "available"
+    }
+}

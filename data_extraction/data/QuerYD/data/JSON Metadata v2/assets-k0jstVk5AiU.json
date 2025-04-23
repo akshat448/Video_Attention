@@ -1,0 +1,171 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5646e13dfd851a405a",
+                        "audio_description": "58e7cf3046e13dfd851a2309",
+                        "created_at": 20150424113843,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150424113843,
+                        "file_name": "14299007236531.wav",
+                        "start_time": 3.189,
+                        "legacy_video_id": 1908,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13128,
+                        "video": "58e7cf2846e13dfd851a1b87",
+                        "end_time": 5.489,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f788d6c9183c280eba",
+                                "sentence": " Montana university system.",
+                                "start_time": 0,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a405b",
+                        "audio_description": "58e7cf3046e13dfd851a2309",
+                        "created_at": 20150424113855,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150424113855,
+                        "file_name": "14299007355051.wav",
+                        "start_time": 6.872,
+                        "legacy_video_id": 1908,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13129,
+                        "video": "58e7cf2846e13dfd851a1b87",
+                        "end_time": 9.682,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a8e8168423183b465c54",
+                                "sentence": " Planning to repay student loans.",
+                                "start_time": 0.11,
+                                "end_time": 2.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a405c",
+                        "audio_description": "58e7cf3046e13dfd851a2309",
+                        "created_at": 20150424124227,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150424124227,
+                        "file_name": "14299045470911.wav",
+                        "start_time": 160.003,
+                        "legacy_video_id": 1908,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13130,
+                        "video": "58e7cf2846e13dfd851a1b87",
+                        "end_time": 160.003,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a8e7168423183b465c0b",
+                                "sentence": " The great seal of the state of montana.",
+                                "start_time": 0,
+                                "end_time": 2.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a405d",
+                        "audio_description": "58e7cf3046e13dfd851a2309",
+                        "created_at": 20150424124245,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150424124245,
+                        "file_name": "14299045657711.wav",
+                        "start_time": 167.88,
+                        "legacy_video_id": 1908,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13131,
+                        "video": "58e7cf2846e13dfd851a1b87",
+                        "end_time": 167.88,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a8e7168423183b465bf4",
+                                "sentence": " The pure connection network, k BC n u m t dot e d u slash o s s slash k BC n.",
+                                "start_time": 0.12,
+                                "end_time": 6.62
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2309",
+                "status": "published",
+                "legacy_video_id": 1908,
+                "legacy_user_id": 2569,
+                "video": "58e7cf2846e13dfd851a1b87",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a22ff",
+                    "name": "jonathonpropp",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2569,
+                    "last_login": 0,
+                    "email": "jonathon.propp@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Financial Education",
+            "Financial Literacy",
+            "Student Loans",
+            "Paying for College",
+            "College",
+            "Montana"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b87",
+        "description": "",
+        "youtube_id": "k0jstVk5AiU",
+        "views": 0,
+        "created_at": 20150424113832,
+        "title": "Preparing to Pay Student Loans",
+        "legacy_video_id": 1908,
+        "updated_at": 20150424124245,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 172
+    }
+}

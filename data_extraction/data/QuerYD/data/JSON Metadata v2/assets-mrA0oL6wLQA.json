@@ -1,0 +1,84 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5a5e",
+                        "audio_description": "58e7cf3646e13dfd851a263d",
+                        "created_at": 20160713133233,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160713133233,
+                        "file_name": "14684419538331.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2624,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23636,
+                        "video": "58e7cf2946e13dfd851a1e53",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ba888c4bc7acb60f0",
+                                "sentence": " A female adult holds a colorful cross section of a brain. Each section of the brain is a different color.",
+                                "start_time": 0.25,
+                                "end_time": 5.56
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a263d",
+                "status": "published",
+                "legacy_video_id": 2624,
+                "legacy_user_id": 3125,
+                "video": "58e7cf2946e13dfd851a1e53",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2637",
+                    "name": "Jhogan13",
+                    "google_user_id_token": "",
+                    "created_at": 20160504150811,
+                    "updated_at": 20160817114117,
+                    "legacy_user_id": 3125,
+                    "last_login": 0,
+                    "email": "Jhogan13@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "box of deaf-blindness",
+            "stress",
+            "internal and external factors"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e53",
+        "description": "",
+        "youtube_id": "mrA0oL6wLQA",
+        "views": 0,
+        "created_at": 20160713133014,
+        "title": "KIM BRAIN TO BOX TO SCALE FINAL - Module 5",
+        "legacy_video_id": 2624,
+        "updated_at": 20160713133233,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 86
+    }
+}

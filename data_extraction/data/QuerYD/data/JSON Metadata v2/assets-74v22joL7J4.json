@@ -1,0 +1,84 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5e9f1b1984f1bb7886752416",
+                        "video": "5e9f1acb84f1bb7886752414",
+                        "audio_description": "5e9f1acb84f1bb7886752413",
+                        "user": "5e9dbd7dafba3146aec3f5a4",
+                        "label": "Wanda Mayberry",
+                        "playback_type": "inline",
+                        "start_time": 0.8484810133514404,
+                        "end_time": 6.053814346684773,
+                        "duration": 5.205333333333333,
+                        "file_name": "74v22joL7J4_5e9f1b1984f1bb7886752416.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/74v22joL7J4",
+                        "created_at": 20200421161105,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5e9f1acb84f1bb7886752413",
+                "video": "5e9f1acb84f1bb7886752414",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e9dbd7dafba3146aec3f5a4",
+                    "email": "chhsad202@gmail.com",
+                    "name": "CHHS AD202",
+                    "given_name": "CHHS",
+                    "picture": "https://lh5.googleusercontent.com/-jUOzeOCr3DM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPaOhD38yPEbCZQgAd_hq7HVskyZw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "109586635033324792611",
+                    "last_login": 20200812204659,
+                    "token": "85e3a0c8c206fe0fc050f28af5e658bbafdd3d5603ff4648e12f10631daa4d8e",
+                    "__v": 0,
+                    "updated_at": 20200812204659,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200421160947,
+                "updated_at": 20200421160947,
+                "notes": "Wanda Mayberry 1973-2000, Occupational Therapy ",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Wanda",
+            "Mayberry",
+            "Colorado State University",
+            "CSU",
+            "CAHS",
+            "university",
+            "college",
+            "Colorado",
+            "Fort Collins",
+            "Ft. Collins",
+            "Rams",
+            "Aggies"
+        ],
+        "custom_tags": [],
+        "_id": "5e9f1acb84f1bb7886752414",
+        "title": "Wanda Mayberry - CHHS Legacies Honoree",
+        "description": "Wanda Mayberry, Professor from 1973-2000 in the Department of Occupational Therapy, Colorado State University.\n\nWanda was featured in the College of Health and Human Sciences Legacies Project. Learn more about Wanda at her Legacies web page: \nhttp://www.chhs.colostate.edu/emeritus-retired/legacy-project/Honorees/wanda-mayberry.aspx\n\nVisit the College of Health and Human Sciences online at:\n\nHomepage:\nhttp://www.chhs.colostate.edu\n\nYouTube: \nhttps://www.youtube.com/playlist?list=PL61877F97B94A53BD\n\nFacebook:\nhttps://www.facebook.com/CSUHealthHumanSci",
+        "youtube_id": "74v22joL7J4",
+        "created_at": 20200421160947,
+        "updated_at": 20200421161105,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 554
+    }
+}

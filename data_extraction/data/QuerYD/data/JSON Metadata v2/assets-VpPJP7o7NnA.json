@@ -1,0 +1,555 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5846e13dfd851a41f3",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514081602,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514081602,
+                        "file_name": "14316165627591.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13671,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 5.12,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30a8e9168423183b465c7e",
+                                "sentence": " The inclusive learning network presents",
+                                "start_time": 0.89,
+                                "end_time": 3.29
+                            },
+                            {
+                                "_id": "5e30a8e9168423183b465c7d",
+                                "sentence": " mission impossible.",
+                                "start_time": 3.51,
+                                "end_time": 5.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a41f4",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514081637,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514081637,
+                        "file_name": "14316165970091.wav",
+                        "start_time": 5.982,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13672,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 8.792,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280fb7",
+                                "sentence": " Execute retinal scan.",
+                                "start_time": 0.33,
+                                "end_time": 2.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a41ff",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514083151,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514083151,
+                        "file_name": "14316175116091.wav",
+                        "start_time": 23.347,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13706,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 23.347,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.04,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7488d6c9183c281000",
+                                "sentence": " The inclusion team",
+                                "start_time": 0.07,
+                                "end_time": 1.48
+                            },
+                            {
+                                "_id": "5e30aa7488d6c9183c280fff",
+                                "sentence": " welcome",
+                                "start_time": 1.48,
+                                "end_time": 2.28
+                            },
+                            {
+                                "_id": "5e30aa7488d6c9183c280ffe",
+                                "sentence": " your contacts for this year are, christine present",
+                                "start_time": 2.28,
+                                "end_time": 5.88
+                            },
+                            {
+                                "_id": "5e30aa7488d6c9183c280ffd",
+                                "sentence": " betsy past president",
+                                "start_time": 6.05,
+                                "end_time": 8.4
+                            },
+                            {
+                                "_id": "5e30aa7488d6c9183c280ffc",
+                                "sentence": " kendra president elect",
+                                "start_time": 8.4,
+                                "end_time": 10.48
+                            },
+                            {
+                                "_id": "5e30aa7488d6c9183c280ffb",
+                                "sentence": " susie vice president.",
+                                "start_time": 10.65,
+                                "end_time": 13.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a4202",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514083326,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514083326,
+                        "file_name": "14316176063691.wav",
+                        "start_time": 25.832,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13709,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 25.832,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30a8e7168423183b465bf3",
+                                "sentence": " Jennifer edge savage communication,",
+                                "start_time": 0.13,
+                                "end_time": 2.8
+                            },
+                            {
+                                "_id": "5e30a8e7168423183b465bf2",
+                                "sentence": " louis bed. It's professional learning. Tim frye, advocacy, cindy l anderson international.",
+                                "start_time": 2.8,
+                                "end_time": 9.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a4203",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514083356,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514083356,
+                        "file_name": "14316176367461.wav",
+                        "start_time": 9.137,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13711,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 11.947000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280f88",
+                                "sentence": " Mission impossible.",
+                                "start_time": 0.25,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a4205",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514084455,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514084455,
+                        "file_name": "14316182957481.wav",
+                        "start_time": 27.649,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13725,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 29.439,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7488d6c9183c280fd8",
+                                "sentence": " Our goals.",
+                                "start_time": 0.27,
+                                "end_time": 1.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a4206",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514084515,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514084515,
+                        "file_name": "14316183155931.wav",
+                        "start_time": 30.492,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13726,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 32.282000000000004,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280f91",
+                                "sentence": " Inclusion,",
+                                "start_time": 0.23,
+                                "end_time": 1.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a4207",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514084530,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514084530,
+                        "file_name": "14316183302191.wav",
+                        "start_time": 34.054,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13727,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 36.354,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280fca",
+                                "sentence": " Accessibility and usability.",
+                                "start_time": 0,
+                                "end_time": 2.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a4208",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514084549,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514084549,
+                        "file_name": "14316183492491.wav",
+                        "start_time": 37.597,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13728,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 40.157000000000004,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280f97",
+                                "sentence": " Universal design for learning.",
+                                "start_time": 0.27,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a4209",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514084605,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514084605,
+                        "file_name": "14316183655051.wav",
+                        "start_time": 42.399,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13729,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 44.449,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280fb1",
+                                "sentence": " Advocacy,",
+                                "start_time": 0.45,
+                                "end_time": 1.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a420a",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514084854,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514084854,
+                        "file_name": "14316185348651.wav",
+                        "start_time": 46.299,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13731,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 52.439,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280f9d",
+                                "sentence": " Join the inclusive learning network,",
+                                "start_time": 0,
+                                "end_time": 2.6
+                            },
+                            {
+                                "_id": "5e30aa7388d6c9183c280f9c",
+                                "sentence": " find us on Facebook, Twitter, and Google sites.",
+                                "start_time": 2.6,
+                                "end_time": 6.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a420f",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514092835,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514092835,
+                        "file_name": "14316209156901.wav",
+                        "start_time": 55.332,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13741,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 58.912,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280fc8",
+                                "sentence": " Our mission will be possible with your help.",
+                                "start_time": 0.5,
+                                "end_time": 3.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a4210",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514092911,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514092911,
+                        "file_name": "14316209516431.wav",
+                        "start_time": 58.462,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13742,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 58.462,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280fb2",
+                                "sentence": " This message will self destruct in 321.",
+                                "start_time": 0.37,
+                                "end_time": 4.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a4211",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514092940,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514092940,
+                        "file_name": "14316209804951.wav",
+                        "start_time": 59.979,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13743,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 62.539,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7488d6c9183c280fde",
+                                "sentence": " Boom let's begin.",
+                                "start_time": 0.1,
+                                "end_time": 2.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a4212",
+                        "audio_description": "58e7cf2e46e13dfd851a2231",
+                        "created_at": 20150514093043,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150514093043,
+                        "file_name": "14316210439051.wav",
+                        "start_time": 65.601,
+                        "legacy_video_id": 1978,
+                        "legacy_user_id": 2392,
+                        "label": "",
+                        "legacy_audio_clip_id": 13744,
+                        "video": "58e7cf2946e13dfd851a1bcd",
+                        "end_time": 65.601,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 22.25,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a222e",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280fd4",
+                                "sentence": " You can find us on Facebook at Facebook dot com. Slash is the inclusive learning",
+                                "start_time": 0.71,
+                                "end_time": 6.04
+                            },
+                            {
+                                "_id": "5e30aa7388d6c9183c280fd3",
+                                "sentence": " on Twitter where at Twitter dot com slash inclusive ellen",
+                                "start_time": 6.04,
+                                "end_time": 10.27
+                            },
+                            {
+                                "_id": "5e30aa7388d6c9183c280fd2",
+                                "sentence": " in our website, the correct addresses sites that Google are calm",
+                                "start_time": 10.27,
+                                "end_time": 14.59
+                            },
+                            {
+                                "_id": "5e30aa7388d6c9183c280fd1",
+                                "sentence": " slash site",
+                                "start_time": 14.6,
+                                "end_time": 16.17
+                            },
+                            {
+                                "_id": "5e30aa7388d6c9183c280fd0",
+                                "sentence": " slash the number four",
+                                "start_time": 16.22,
+                                "end_time": 18.11
+                            },
+                            {
+                                "_id": "5e30aa7388d6c9183c280fcf",
+                                "sentence": " inclusive learning.",
+                                "start_time": 18.19,
+                                "end_time": 19.82
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2e46e13dfd851a2231",
+                "status": "published",
+                "legacy_video_id": 1978,
+                "legacy_user_id": 2392,
+                "video": "58e7cf2946e13dfd851a1bcd",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2e46e13dfd851a222e",
+                    "name": "lfp1211",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2392,
+                    "last_login": 0,
+                    "email": "lfperez@me.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Inclusion",
+            "UDL",
+            "Technology",
+            "Education"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1bcd",
+        "description": "",
+        "youtube_id": "VpPJP7o7NnA",
+        "views": 0,
+        "created_at": 20150514081246,
+        "title": "Inclusive Learning Network of ISTE",
+        "legacy_video_id": 1978,
+        "updated_at": 20150514093043,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 69
+    }
+}

@@ -1,0 +1,541 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4846e13dfd851a33ca",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009003253,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009003253,
+                        "file_name": "14128399736741.wav",
+                        "start_time": 5.176,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8562,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 9.776,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e233276dcbb7e3b4d5dfd25",
+                                "sentence": " Phyllis d tricks and is sitting in an arm chair.",
+                                "start_time": 0.54,
+                                "end_time": 4.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33cb",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009003316,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009003316,
+                        "file_name": "14128399966531.wav",
+                        "start_time": 5.844,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8563,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 11.724,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e23327bdcbb7e3b4d5dfd73",
+                                "sentence": " Medium shot of walter neff",
+                                "start_time": 0.68,
+                                "end_time": 3.09
+                            },
+                            {
+                                "_id": "5e23327bdcbb7e3b4d5dfd72",
+                                "sentence": " capturing his torso and head.",
+                                "start_time": 3.09,
+                                "end_time": 5.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33cc",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009003457,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009003457,
+                        "file_name": "14128400972371.wav",
+                        "start_time": 24.601,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8565,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 30.741,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e233cc394126469463bcbaa",
+                                "sentence": " Cuts to alter. He walks the window and closes the blinds.",
+                                "start_time": 0.84,
+                                "end_time": 5.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33cd",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009003539,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009003539,
+                        "file_name": "14128401390071.wav",
+                        "start_time": 35.201,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8566,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 38.011,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e233278dcbb7e3b4d5dfd63",
+                                "sentence": " She arises from her chair.",
+                                "start_time": 0.5,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33ce",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009003602,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009003602,
+                        "file_name": "14128401621811.wav",
+                        "start_time": 40.961,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8567,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 44.281,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e233cb694126469463bcb67",
+                                "sentence": " Phyllis shoots walter.",
+                                "start_time": 0.6,
+                                "end_time": 2.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33cf",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009003702,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009003702,
+                        "file_name": "14128402222141.wav",
+                        "start_time": 48.84,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8568,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 53.440000000000005,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e233cb594126469463bcb4a",
+                                "sentence": " Walter places one",
+                                "start_time": 0.01,
+                                "end_time": 2.17
+                            },
+                            {
+                                "_id": "5e233cb594126469463bcb49",
+                                "sentence": " hand over his chest.",
+                                "start_time": 2.43,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33d0",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009003724,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009003724,
+                        "file_name": "14128402449221.wav",
+                        "start_time": 55.602,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8569,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 63.532,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e233278dcbb7e3b4d5dfd65",
+                                "sentence": " Having been shot with a bullet, walter walks toward phyllis,",
+                                "start_time": 1.06,
+                                "end_time": 5.02
+                            },
+                            {
+                                "_id": "5e233278dcbb7e3b4d5dfd64",
+                                "sentence": " who now has the gun in her hand.",
+                                "start_time": 5.22,
+                                "end_time": 7.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33d1",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009003826,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009003826,
+                        "file_name": "14128403062161.wav",
+                        "start_time": 71.985,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8570,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 77.355,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e233dd7f8f89669478f194a",
+                                "sentence": " Walter stops",
+                                "start_time": 0.46,
+                                "end_time": 1.92
+                            },
+                            {
+                                "_id": "5e233dd7f8f89669478f1949",
+                                "sentence": " and then resumes walking towards phyllis.",
+                                "start_time": 2.03,
+                                "end_time": 4.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33d2",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009003851,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009003851,
+                        "file_name": "14128403311591.wav",
+                        "start_time": 78.048,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8571,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 82.138,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e233daef8f89669478f192e",
+                                "sentence": " Walter grabs the gun from phyllis.",
+                                "start_time": 0.25,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33d3",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009003918,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009003918,
+                        "file_name": "14128403582411.wav",
+                        "start_time": 84.963,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8572,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 90.333,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e233da3f8f89669478f18d9",
+                                "sentence": " Phyllis places her hands on the collar of his coat.",
+                                "start_time": 1.3,
+                                "end_time": 4.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33d4",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009004020,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009004020,
+                        "file_name": "14128404205121.wav",
+                        "start_time": 114.159,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8573,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 120.549,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e233278dcbb7e3b4d5dfd61",
+                                "sentence": " She places her arms around his back in in an embrace.",
+                                "start_time": 0.85,
+                                "end_time": 6.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33d5",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009004053,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009004053,
+                        "file_name": "14128404538811.wav",
+                        "start_time": 124.006,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8574,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 130.146,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e23c418fb2f59e954149696",
+                                "sentence": " Walter shoots phyllis.",
+                                "start_time": 0.65,
+                                "end_time": 2.56
+                            },
+                            {
+                                "_id": "5e23c418fb2f59e954149695",
+                                "sentence": " She claps dead into his arms.",
+                                "start_time": 2.93,
+                                "end_time": 5.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33d6",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009004117,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009004117,
+                        "file_name": "14128404777441.wav",
+                        "start_time": 131.22,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8575,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 134.54,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e233da6f8f89669478f1906",
+                                "sentence": " He places her on the sofa.",
+                                "start_time": 0.75,
+                                "end_time": 2.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33d7",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009004138,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009004138,
+                        "file_name": "14128404987191.wav",
+                        "start_time": 138.855,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8576,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 141.92499999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e23314098685f24f1693fc4",
+                                "sentence": " He grabs the gun from the floor.",
+                                "start_time": 0.29,
+                                "end_time": 2.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4846e13dfd851a33d8",
+                        "audio_description": "58e7cf2e46e13dfd851a223b",
+                        "created_at": 20141009004200,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141009004200,
+                        "file_name": "14128405204041.wav",
+                        "start_time": 141.553,
+                        "legacy_video_id": 1642,
+                        "legacy_user_id": 2389,
+                        "label": "",
+                        "legacy_audio_clip_id": 8577,
+                        "video": "58e7cf2846e13dfd851a1a7d",
+                        "end_time": 150.253,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a223a",
+                        "transcript": [
+                            {
+                                "_id": "5e23313798685f24f1693f97",
+                                "sentence": " He then proceeds to grab his hat from the",
+                                "start_time": 0.27,
+                                "end_time": 4.84
+                            },
+                            {
+                                "_id": "5e23313798685f24f1693f96",
+                                "sentence": " table to ape",
+                                "start_time": 4.85,
+                                "end_time": 6.22
+                            },
+                            {
+                                "_id": "5e23313798685f24f1693f95",
+                                "sentence": " and walks into the corridor.",
+                                "start_time": 6.22,
+                                "end_time": 8.3
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2e46e13dfd851a223b",
+                "status": "published",
+                "legacy_video_id": 1642,
+                "legacy_user_id": 2389,
+                "video": "58e7cf2846e13dfd851a1a7d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2e46e13dfd851a223a",
+                    "name": "luispolanco",
+                    "google_user_id_token": "",
+                    "created_at": 20141006110428,
+                    "updated_at": 20141008105613,
+                    "legacy_user_id": 2389,
+                    "last_login": 0,
+                    "email": "luis.a.h.polanco@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "double indemnity",
+            "double indemnity clip",
+            "double indemnity trailer",
+            "double indemnity part 1",
+            "double indemnity ending",
+            "double indemnity soundtrack",
+            "double indemnity scene",
+            "double indemnity 1",
+            "barbara stanwyck",
+            "billy wilder",
+            "gun videos",
+            "classic dramas",
+            "classic thrillers",
+            "classics",
+            "film noir",
+            "buddy g desylva",
+            "joseph sistrom",
+            "betrayal videos",
+            "consequences videos",
+            "manipulation videos",
+            "regret videos",
+            "phyllis dietrichson",
+            "movie clips",
+            "movieclipsdotcom",
+            "#AMG:V++++14457",
+            "/m/0bw6y"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a7d",
+        "description": "",
+        "youtube_id": "1WRLqzGkzNw",
+        "views": 0,
+        "created_at": 20141009002023,
+        "title": "Double Indemnity (8/9) Movie CLIP - Goodbye, Baby (1944) HD",
+        "legacy_video_id": 1642,
+        "updated_at": 20141009004829,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 178
+    }
+}

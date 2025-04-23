@@ -1,0 +1,618 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ad52c1a842bba5a0b6024a3",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52bb4842bba5a0b6024a0",
+                        "user": "5a603d05a626df54938574b4",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 4.693333333333333,
+                        "file_name": "ahj8Vef9L24_5ad52c1a842bba5a0b6024a3.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416230458,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc225da4a9499b12036cd",
+                                "sentence": " This is a scene from the movie sick. R e o.",
+                                "start_time": 0.54,
+                                "end_time": 3.52
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ad52bb4842bba5a0b6024a0",
+                "video": "5ad52bb4842bba5a0b6024a1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a603d05a626df54938574b4",
+                    "email": "javanpour.p@gmail.com",
+                    "name": "Parviz Javanpour",
+                    "given_name": "Parviz",
+                    "picture": "https://lh3.googleusercontent.com/-jJeXuxF2wh0/AAAAAAAAAAI/AAAAAAAAAAA/AA6ZPT4CTtX4HgOYPFlMH3Xb6EnWCc2Cpg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "101765828178886914208",
+                    "last_login": 20180415215859,
+                    "token": "eaecc761886746efbf601ea6cc478856193f195cb43b1a861a0fb1315be231f9",
+                    "__v": 0,
+                    "updated_at": 20180415215859,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20180416230316,
+                "updated_at": 20180416230316,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ad52dc6ec59c85ba3a465b1",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "intro ",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 5.6656689342403626,
+                        "file_name": "ahj8Vef9L24_5ad52dc6ec59c85ba3a465b1.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416231206,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7cffba0a08ab876e42",
+                                "sentence": " This is a scene from the movie sick aria.",
+                                "start_time": 0.33,
+                                "end_time": 2.7
+                            },
+                            {
+                                "_id": "5e131c7cffba0a08ab876e41",
+                                "sentence": " The camera reveals an overview of a mexican city.",
+                                "start_time": 2.84,
+                                "end_time": 5.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad52e29ec59c85ba3a465b2",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "macers face",
+                        "playback_type": "inline",
+                        "start_time": 3.093595,
+                        "end_time": 11.452778673469389,
+                        "duration": 8.359183673469389,
+                        "file_name": "ahj8Vef9L24_5ad52e29ec59c85ba3a465b2.wav",
+                        "file_size_bytes": 1474604,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416231345,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7cffba0a08ab876e52",
+                                "sentence": " The camera shifts the officer mace as face as she looks anxious.",
+                                "start_time": 0.74,
+                                "end_time": 4.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad52e84ec59c85ba3a465b4",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "convoy",
+                        "playback_type": "inline",
+                        "start_time": 12.993102,
+                        "end_time": 22.002444403628118,
+                        "duration": 9.009342403628118,
+                        "file_name": "ahj8Vef9L24_5ad52e84ec59c85ba3a465b4.wav",
+                        "file_size_bytes": 1589292,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416231516,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7cffba0a08ab876e47",
+                                "sentence": " The camera ships to five black chevy SUV es that are being joined by a convoy of heavily armed mexican federal police.",
+                                "start_time": 0.24,
+                                "end_time": 6.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad52ff4ec59c85ba3a465b7",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "overpass",
+                        "playback_type": "inline",
+                        "start_time": 69.296545,
+                        "end_time": 85.55051325396825,
+                        "duration": 16.253968253968253,
+                        "file_name": "ahj8Vef9L24_5ad52ff4ec59c85ba3a465b7.wav",
+                        "file_size_bytes": 2867244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416232124,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3c544080122fa67b0f",
+                                "sentence": " A convoy merges together and travels in a single line entering underneath the overpass.",
+                                "start_time": 0.35,
+                                "end_time": 4.96
+                            },
+                            {
+                                "_id": "5e13eb3c544080122fa67b0e",
+                                "sentence": " The overpass can be seen blocked off by two local police vehicles.",
+                                "start_time": 5.22,
+                                "end_time": 9.33
+                            },
+                            {
+                                "_id": "5e13eb3c544080122fa67b0d",
+                                "sentence": " This area is heavily littered and covered with graffiti.",
+                                "start_time": 9.33,
+                                "end_time": 12.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad530d1ec59c85ba3a465b8",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "dead peeps",
+                        "playback_type": "inline",
+                        "start_time": 92.673367,
+                        "end_time": 110.97069126303855,
+                        "duration": 18.297324263038547,
+                        "file_name": "ahj8Vef9L24_5ad530d1ec59c85ba3a465b8.wav",
+                        "file_size_bytes": 3227692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416232505,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7dffba0a08ab876e67",
+                                "sentence": " For decapitated, mutilated naked bodies can be seen hung by their feet from the overpass.",
+                                "start_time": 0.64,
+                                "end_time": 6.19
+                            },
+                            {
+                                "_id": "5e131c7dffba0a08ab876e66",
+                                "sentence": " The camera shifts back to officer makers face. As she looks at the hanging bodies,",
+                                "start_time": 7.41,
+                                "end_time": 12.21
+                            },
+                            {
+                                "_id": "5e131c7dffba0a08ab876e65",
+                                "sentence": " and she looks nervous and disturbed.",
+                                "start_time": 12.21,
+                                "end_time": 14.41
+                            },
+                            {
+                                "_id": "5e131c7dffba0a08ab876e64",
+                                "sentence": " Allah handle a look son fazed by the mutilated bodies.",
+                                "start_time": 14.6,
+                                "end_time": 18.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad53229ec59c85ba3a465bc",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "turn",
+                        "playback_type": "inline",
+                        "start_time": 109.51329,
+                        "end_time": 116.0148773015873,
+                        "duration": 6.501587301587302,
+                        "file_name": "ahj8Vef9L24_5ad53229ec59c85ba3a465bc.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416233049,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7cffba0a08ab876e43",
+                                "sentence": " After a slight turn, the conway continues down a residential road and comes to an abrupt store.",
+                                "start_time": 0.42,
+                                "end_time": 5.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad53324ec59c85ba3a465be",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "stop",
+                        "playback_type": "inline",
+                        "start_time": 140.9554009217987,
+                        "end_time": 144.76347348415698,
+                        "duration": 3.8080725623582765,
+                        "file_name": "ahj8Vef9L24_5ad53324ec59c85ba3a465be.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416233500,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b79",
+                                "sentence": " The camera pans the street view of the convoy.",
+                                "start_time": 0.68,
+                                "end_time": 3.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad53414ec59c85ba3a465bf",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "gun shots",
+                        "playback_type": "inline",
+                        "start_time": 167.113827,
+                        "end_time": 170.45750046938775,
+                        "duration": 3.3436734693877552,
+                        "file_name": "ahj8Vef9L24_5ad53414ec59c85ba3a465bf.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416233900,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b78",
+                                "sentence": " The front seat passenger raises a r and rested on the dash.",
+                                "start_time": 0.22,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad5347fec59c85ba3a465c0",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "take off",
+                        "playback_type": "inline",
+                        "start_time": 176.085869,
+                        "end_time": 183.88777376190475,
+                        "duration": 7.801904761904762,
+                        "file_name": "ahj8Vef9L24_5ad5347fec59c85ba3a465c0.wav",
+                        "file_size_bytes": 1376300,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416234047,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131cd65230fb08acc76e63",
+                                "sentence": " The convoy continues, but picks up speed",
+                                "start_time": 0.26,
+                                "end_time": 2.91
+                            },
+                            {
+                                "_id": "5e131cd65230fb08acc76e62",
+                                "sentence": " and with a much more sense of urgency, weaves through city streets to make it to their destination.",
+                                "start_time": 2.91,
+                                "end_time": 7.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad5356aec59c85ba3a465c2",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "turn to prison ",
+                        "playback_type": "inline",
+                        "start_time": 214.073327,
+                        "end_time": 225.77618414285715,
+                        "duration": 11.702857142857143,
+                        "file_name": "ahj8Vef9L24_5ad5356aec59c85ba3a465c2.wav",
+                        "file_size_bytes": 2064428,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416234442,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3c544080122fa67b02",
+                                "sentence": " The convoy makes a slight turn towards a prison to local police. Cruisers can be seen blocking traffic to allow the convoy passage.",
+                                "start_time": 0.56,
+                                "end_time": 7.76
+                            },
+                            {
+                                "_id": "5e13eb3c544080122fa67b01",
+                                "sentence": " A black police tank can be seen in front of the prison.",
+                                "start_time": 7.76,
+                                "end_time": 10.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad5359dec59c85ba3a465c3",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "entering",
+                        "playback_type": "inline",
+                        "start_time": 238.08954,
+                        "end_time": 251.3713540589569,
+                        "duration": 13.281814058956916,
+                        "file_name": "ahj8Vef9L24_5ad5359dec59c85ba3a465c3.wav",
+                        "file_size_bytes": 2342956,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416234533,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7cffba0a08ab876e32",
+                                "sentence": " The police convoy entered the prison and stops in front of the penitentiary doors.",
+                                "start_time": 0.42,
+                                "end_time": 4.77
+                            },
+                            {
+                                "_id": "5e131c7cffba0a08ab876e31",
+                                "sentence": " Five of the armed individuals exit their vehicles and enter the facility.",
+                                "start_time": 4.77,
+                                "end_time": 8.87
+                            },
+                            {
+                                "_id": "5e131c7cffba0a08ab876e30",
+                                "sentence": " 10 heavily armed officers can be seen standing guard outside of the prison.",
+                                "start_time": 8.87,
+                                "end_time": 12.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad536a2ec59c85ba3a465c6",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "lol",
+                        "playback_type": "inline",
+                        "start_time": 266.079651,
+                        "end_time": 302.4885398888889,
+                        "duration": 36.40888888888889,
+                        "file_name": "ahj8Vef9L24_5ad536a2ec59c85ba3a465c6.wav",
+                        "file_size_bytes": 6422572,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416234954,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1328a684acd909a2910f7d",
+                                "sentence": " The camera pans over to master's face. She seems worried.",
+                                "start_time": 4.05,
+                                "end_time": 7.48
+                            },
+                            {
+                                "_id": "5e1328a684acd909a2910f7c",
+                                "sentence": " Hank off! Man has his face covered with a t shirt",
+                                "start_time": 18.85,
+                                "end_time": 21.92
+                            },
+                            {
+                                "_id": "5e1328a684acd909a2910f7b",
+                                "sentence": " and as being escorted out of the prison. And in tobacco, one of the chevy s u vs.",
+                                "start_time": 21.92,
+                                "end_time": 26.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad536e0ec59c85ba3a465c7",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "take off 2 ",
+                        "playback_type": "inline",
+                        "start_time": 306.226071,
+                        "end_time": 322.85155852834464,
+                        "duration": 16.62548752834467,
+                        "file_name": "ahj8Vef9L24_5ad536e0ec59c85ba3a465c7.wav",
+                        "file_size_bytes": 2932780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416235056,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7cffba0a08ab876e3c",
+                                "sentence": " The black chevy is exit the prison and make a slight turn back towards the city.",
+                                "start_time": 0.71,
+                                "end_time": 5.18
+                            },
+                            {
+                                "_id": "5e131c7cffba0a08ab876e3b",
+                                "sentence": " The mexican federal police convoy rejoins them.",
+                                "start_time": 5.18,
+                                "end_time": 8.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad5388cec59c85ba3a465ce",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "boner guy ",
+                        "playback_type": "inline",
+                        "start_time": 321.623046,
+                        "end_time": 327.1029552970521,
+                        "duration": 5.479909297052155,
+                        "file_name": "ahj8Vef9L24_5ad5388cec59c85ba3a465ce.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180416235804,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b77",
+                                "sentence": " The camera pounds to the front passenger. He seems eager and looks around outside to spot potential threats.",
+                                "start_time": 0.21,
+                                "end_time": 5.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad5394aec59c85ba3a465d0",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "macer",
+                        "playback_type": "inline",
+                        "start_time": 330.905034,
+                        "end_time": 359.88353740136057,
+                        "duration": 28.978503401360545,
+                        "file_name": "ahj8Vef9L24_5ad5394aec59c85ba3a465d0.wav",
+                        "file_size_bytes": 5111852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180417000114,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7cffba0a08ab876e3a",
+                                "sentence": " The camera pans to mace his face as she looks out the window to see the police cruiser following them.",
+                                "start_time": 0.31,
+                                "end_time": 5.08
+                            },
+                            {
+                                "_id": "5e131c7cffba0a08ab876e39",
+                                "sentence": " She looks back a second time",
+                                "start_time": 10.06,
+                                "end_time": 12.06
+                            },
+                            {
+                                "_id": "5e131c7cffba0a08ab876e38",
+                                "sentence": " and sees the police cruiser.",
+                                "start_time": 12.69,
+                                "end_time": 14.38
+                            },
+                            {
+                                "_id": "5e131c7cffba0a08ab876e37",
+                                "sentence": " Mesa looks down the 3rd street but can no longer see the police cruiser.",
+                                "start_time": 21.06,
+                                "end_time": 24.55
+                            },
+                            {
+                                "_id": "5e131c7cffba0a08ab876e36",
+                                "sentence": " She looks worried.",
+                                "start_time": 25.41,
+                                "end_time": 26.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad539bcec59c85ba3a465d2",
+                        "video": "5ad52bb4842bba5a0b6024a1",
+                        "audio_description": "5ad52d04842bba5a0b6024a8",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 365.044301,
+                        "end_time": 373.4963644920635,
+                        "duration": 8.452063492063493,
+                        "file_name": "ahj8Vef9L24_5ad539bcec59c85ba3a465d2.wav",
+                        "file_size_bytes": 1490988,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ahj8Vef9L24",
+                        "created_at": 20180417000308,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b1d",
+                                "sentence": " The federal police drift off and the American s u vs continue in their lane",
+                                "start_time": 0.3,
+                                "end_time": 5
+                            },
+                            {
+                                "_id": "5e13eb3d544080122fa67b1c",
+                                "sentence": " towards the border.",
+                                "start_time": 5.48,
+                                "end_time": 6.93
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ad52d04842bba5a0b6024a8",
+                "video": "5ad52bb4842bba5a0b6024a1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a837a7b7b1e5e6279fed5ea",
+                    "email": "sanghatocha@gmail.com",
+                    "name": "Tocha Sangha",
+                    "given_name": "Tocha",
+                    "picture": "https://lh3.googleusercontent.com/-9LSi9U6GWqs/AAAAAAAAAAI/AAAAAAAAAAA/ACSILjV83m-PDPDvOKFCp0InaOrBiHN79g/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115948398004829321358",
+                    "last_login": 20180418021001,
+                    "token": "0cacf1ad6606055cfcfd82b73cfe589bd39916c50c6c0ec5abdd07ced6d4ef01",
+                    "__v": 0,
+                    "updated_at": 20180418021001,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180416230852,
+                "updated_at": 20180419210818,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5ad52bb4842bba5a0b6024a1",
+        "title": "Sicario 2015 convoy scene 4k clip",
+        "description": "",
+        "youtube_id": "ahj8Vef9L24",
+        "created_at": 20180416230316,
+        "updated_at": 20180417000439,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 382
+    }
+}

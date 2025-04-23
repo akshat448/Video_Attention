@@ -1,0 +1,83 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4046e13dfd851a2af2",
+                        "audio_description": "58e7cf2b46e13dfd851a20dd",
+                        "created_at": 20131105162714,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131105162714,
+                        "file_name": "1383697634613.wav",
+                        "start_time": 4.483,
+                        "legacy_video_id": 1293,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 4297,
+                        "video": "58e7cf2846e13dfd851a192e",
+                        "end_time": 4.483,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74680f499aae4b2ce1a9",
+                                "sentence": " Lisa jiminez, regional director, braille institute, rancho mirage.",
+                                "start_time": 0,
+                                "end_time": 4.63
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20dd",
+                "status": "published",
+                "legacy_video_id": 1293,
+                "legacy_user_id": 88,
+                "video": "58e7cf2846e13dfd851a192e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20d1",
+                    "name": "jimhull",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20151217172851,
+                    "legacy_user_id": 88,
+                    "last_login": 0,
+                    "email": "jimhull@jimhull.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "rancho mirage",
+            "braille institute"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a192e",
+        "description": "",
+        "youtube_id": "c_Ex_qS5Djo",
+        "views": 0,
+        "created_at": 20130829162807,
+        "title": "Braille Institute Rancho Mirage",
+        "legacy_video_id": 1293,
+        "updated_at": 20131105162714,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 31
+    }
+}

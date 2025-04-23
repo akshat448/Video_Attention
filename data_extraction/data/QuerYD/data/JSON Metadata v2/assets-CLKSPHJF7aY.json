@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6146e13dfd851a4706",
+                        "audio_description": "58e7cf3046e13dfd851a239c",
+                        "created_at": 20150911144653,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150911144653,
+                        "file_name": "14420080129911.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2152,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15515,
+                        "video": "58e7cf2946e13dfd851a1c7b",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.76,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac151d8af910da52dfd21",
+                                "sentence": " A female teenage student stands in a classroom working with tactile symbols.",
+                                "start_time": 1.03,
+                                "end_time": 6.02
+                            },
+                            {
+                                "_id": "5e3ac151d8af910da52dfd20",
+                                "sentence": " It is difficult to understand her voice, but she seems to say, I type.",
+                                "start_time": 6.02,
+                                "end_time": 11.44
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a239c",
+                "status": "published",
+                "legacy_video_id": 2152,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c7b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "deafblind",
+            "communication",
+            "choice-making",
+            "interveners",
+            "teachers of the deafblind"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c7b",
+        "description": "",
+        "youtube_id": "CLKSPHJF7aY",
+        "views": 0,
+        "created_at": 20150911144624,
+        "title": "CHOICE    I WANT KEYBOARD VERY MOTIVATING INCENTIVE",
+        "legacy_video_id": 2152,
+        "updated_at": 20150911144653,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 24
+    }
+}

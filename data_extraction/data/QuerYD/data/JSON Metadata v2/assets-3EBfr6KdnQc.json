@@ -1,0 +1,93 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7fd7868302113cc4be5048",
+                        "video": "5d7fd7548302113cc4be5047",
+                        "audio_description": "5d7fd7548302113cc4be5046",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "Dental",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 24.917333333333332,
+                        "duration": 24.917333333333332,
+                        "file_name": "3EBfr6KdnQc_5d7fd7868302113cc4be5048.wav",
+                        "file_size_bytes": 4784172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/3EBfr6KdnQc",
+                        "created_at": 20190916184214,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557b2d7604239900952304",
+                                "sentence": " To students practice dental cleaning, schools, tax rates, dental hygiene, designed to prepare this room to be a dental hygienist on a team under the supervision of a dentist",
+                                "start_time": 0.45,
+                                "end_time": 8.19
+                            },
+                            {
+                                "_id": "5e557b2d7604239900952303",
+                                "sentence": " student clean stools before cleaning teeth, tax rates, careers, gentle hygiene as can work in dental offices and labs clinics, research and health departments,",
+                                "start_time": 8.19,
+                                "end_time": 15.23
+                            },
+                            {
+                                "_id": "5e557b2d7604239900952302",
+                                "sentence": " colleges and universities have more students work in other students to tax rates. Length poker under associate degree in 16 months. She didn't watch it. Another clean teeth tax rates. You've got this.",
+                                "start_time": 15.23,
+                                "end_time": 24.51
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7fd7548302113cc4be5046",
+                "video": "5d7fd7548302113cc4be5047",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190916184124,
+                "updated_at": 20190916184124,
+                "notes": "2 students practice dental cleaning skills\r\nText reads:\r\nDental Hygiene\r\nDesigned to prepare the student to be a dental hygienist on a team under the supervision of a dentist.\r\n\r\nA student cleans tools before cleaning teeth\r\nText reads:\r\nCareers \r\nDental hygienist can work in dental offices and labs, clinics, research and health departments, colleges and universities and more!\r\n\r\nStudents work on other students' teeth\r\nText reads:\r\nLength of program\r\nEarn an associate degree in 16 months.\r\n\r\nA student watches another clean teeth.\r\nText reads:\r\nYou've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Dental Hygiene",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5d7fd7548302113cc4be5047",
+        "title": "Dental Hygiene",
+        "description": "Information on the Dental Hygiene program.",
+        "youtube_id": "3EBfr6KdnQc",
+        "created_at": 20190916184124,
+        "updated_at": 20190916184214,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

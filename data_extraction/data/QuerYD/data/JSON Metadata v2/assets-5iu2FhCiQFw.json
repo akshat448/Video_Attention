@@ -1,0 +1,526 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7f46e13dfd851a5d50",
+                        "audio_description": "58e7cf3746e13dfd851a26cd",
+                        "created_at": 20160930111507,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160930111507,
+                        "file_name": "14752593079401.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2777,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24611,
+                        "video": "58e7cf2946e13dfd851a1eec",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e44281da888c4bc7acb61e2",
+                                "sentence": " White text on a background fading from Top",
+                                "start_time": 0.28,
+                                "end_time": 4.85
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61e1",
+                                "sentence": " to bottom,",
+                                "start_time": 4.85,
+                                "end_time": 5.89
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61e0",
+                                "sentence": " from black to blue reads",
+                                "start_time": 5.89,
+                                "end_time": 9.04
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61df",
+                                "sentence": " after teacher assisted shared reading",
+                                "start_time": 9.04,
+                                "end_time": 12.59
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61de",
+                                "sentence": " comprehension questions,",
+                                "start_time": 12.59,
+                                "end_time": 14.75
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61dd",
+                                "sentence": " the text fades out",
+                                "start_time": 14.9,
+                                "end_time": 17.06
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61dc",
+                                "sentence": " and new text fades in. That reads comprehension. Question number one.",
+                                "start_time": 17.06,
+                                "end_time": 23.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7f46e13dfd851a5d51",
+                        "audio_description": "58e7cf3746e13dfd851a26cd",
+                        "created_at": 20160930111856,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160930111856,
+                        "file_name": "14752595367771.wav",
+                        "start_time": 8.157,
+                        "legacy_video_id": 2777,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24612,
+                        "video": "58e7cf2946e13dfd851a1eec",
+                        "end_time": 8.157,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 50.64,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cc77",
+                                "sentence": " The text fades out and a new scene fades in.",
+                                "start_time": 0.29,
+                                "end_time": 3.96
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc76",
+                                "sentence": " A young light skinned female student sits in a supportive wheelchair",
+                                "start_time": 4.02,
+                                "end_time": 9.68
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc75",
+                                "sentence": " with a tray attached. A woman, her instructor",
+                                "start_time": 9.68,
+                                "end_time": 13.82
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc74",
+                                "sentence": " sits next to her at a table.",
+                                "start_time": 13.82,
+                                "end_time": 16.26
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc73",
+                                "sentence": " On the table is a push button with a picture symbol on it,",
+                                "start_time": 16.43,
+                                "end_time": 21.72
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc72",
+                                "sentence": " a Christmas bag, and many black rectangle shaped boards with items velcro don them",
+                                "start_time": 21.73,
+                                "end_time": 29.23
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc71",
+                                "sentence": " stacked on Top of one another.",
+                                "start_time": 29.23,
+                                "end_time": 31.91
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc70",
+                                "sentence": " The teacher holds out two of the boards in front of the child. While she asks",
+                                "start_time": 32.11,
+                                "end_time": 38.93
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc6f",
+                                "sentence": " her a comprehension question. One of the boards has a comb on it,",
+                                "start_time": 38.93,
+                                "end_time": 44.76
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc6e",
+                                "sentence": " while the other has a small crimson present with a golden bow.",
+                                "start_time": 44.76,
+                                "end_time": 50.38
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7f46e13dfd851a5d52",
+                        "audio_description": "58e7cf3746e13dfd851a26cd",
+                        "created_at": 20160930112029,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160930112029,
+                        "file_name": "14752596289731.wav",
+                        "start_time": 25.902,
+                        "legacy_video_id": 2777,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24613,
+                        "video": "58e7cf2946e13dfd851a1eec",
+                        "end_time": 25.902,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 29.92,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cc7c",
+                                "sentence": " The student reaches out towards the present and touches the board. The present is on.",
+                                "start_time": 0.44,
+                                "end_time": 6.31
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc7b",
+                                "sentence": " The teacher puts the board with the comb on it, back on to the table",
+                                "start_time": 6.53,
+                                "end_time": 12.12
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc7a",
+                                "sentence": " and only holds the board with the present forward.",
+                                "start_time": 12.12,
+                                "end_time": 16
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc79",
+                                "sentence": " She guides the child with her hand over the child's toward the present to touch it.",
+                                "start_time": 16,
+                                "end_time": 22.27
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc78",
+                                "sentence": " The student takes the present off of the velcro on the board, and the same fades out.",
+                                "start_time": 22.47,
+                                "end_time": 29.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7f46e13dfd851a5d53",
+                        "audio_description": "58e7cf3746e13dfd851a26cd",
+                        "created_at": 20160930112057,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160930112057,
+                        "file_name": "14752596575301.wav",
+                        "start_time": 34.7,
+                        "legacy_video_id": 2777,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24614,
+                        "video": "58e7cf2946e13dfd851a1eec",
+                        "end_time": 34.7,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb25a3885227afb5cdb7",
+                                "sentence": " White text on a background fading from Top to bottom, from black to blue reads",
+                                "start_time": 0,
+                                "end_time": 7.41
+                            },
+                            {
+                                "_id": "5e45bb25a3885227afb5cdb6",
+                                "sentence": " comprehension. Question number two.",
+                                "start_time": 7.41,
+                                "end_time": 10.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7f46e13dfd851a5d54",
+                        "audio_description": "58e7cf3746e13dfd851a26cd",
+                        "created_at": 20160930112442,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160930112442,
+                        "file_name": "14752598823761.wav",
+                        "start_time": 36.766,
+                        "legacy_video_id": 2777,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24615,
+                        "video": "58e7cf2946e13dfd851a1eec",
+                        "end_time": 36.766,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 45.27,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e4427a279f74cbc7c082e4e",
+                                "sentence": " The original saying continues, and the teacher holds two of the rectangle boards up to her chest.",
+                                "start_time": 0.13,
+                                "end_time": 7.49
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e4d",
+                                "sentence": " She then holds the two boards out",
+                                "start_time": 7.83,
+                                "end_time": 11.08
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e4c",
+                                "sentence": " toward the student. One board has a midden, velcro don to it, and the other board has a letter fastened to it.",
+                                "start_time": 11.08,
+                                "end_time": 19.15
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e4b",
+                                "sentence": " The student rips the mitten off of the board and holds it up to her face.",
+                                "start_time": 19.44,
+                                "end_time": 24.89
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e4a",
+                                "sentence": " The adult promptly removes the mitten and its board and guides the students hand",
+                                "start_time": 25.16,
+                                "end_time": 31.62
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e49",
+                                "sentence": " under her own",
+                                "start_time": 31.62,
+                                "end_time": 33.05
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e48",
+                                "sentence": " to the letter",
+                                "start_time": 33.05,
+                                "end_time": 34.19
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e47",
+                                "sentence": " ripping it off the board.",
+                                "start_time": 34.19,
+                                "end_time": 36.06
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e46",
+                                "sentence": " The teacher removes the letter and its board and places them on the table",
+                                "start_time": 36.46,
+                                "end_time": 42.23
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e45",
+                                "sentence": " as this segment of the video ends.",
+                                "start_time": 42.23,
+                                "end_time": 45.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7f46e13dfd851a5d55",
+                        "audio_description": "58e7cf3746e13dfd851a26cd",
+                        "created_at": 20160930112529,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160930112529,
+                        "file_name": "14752599294431.wav",
+                        "start_time": 74.131,
+                        "legacy_video_id": 2777,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24616,
+                        "video": "58e7cf2946e13dfd851a1eec",
+                        "end_time": 74.131,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.49,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e4427a279f74cbc7c082e71",
+                                "sentence": " White text on a background fading from Top to bottom, from black to blue",
+                                "start_time": 0.08,
+                                "end_time": 6.69
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e70",
+                                "sentence": " rates comprehension. Question number three.",
+                                "start_time": 6.69,
+                                "end_time": 10.38
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7f46e13dfd851a5d56",
+                        "audio_description": "58e7cf3746e13dfd851a26cd",
+                        "created_at": 20160930112612,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160930112612,
+                        "file_name": "14752599725521.wav",
+                        "start_time": 78.313,
+                        "legacy_video_id": 2777,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24617,
+                        "video": "58e7cf2946e13dfd851a1eec",
+                        "end_time": 78.313,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 21.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45b9120269c027b2e189fc",
+                                "sentence": " The original scene continues, and the teacher holds two of the rectangle boards up to her chest.",
+                                "start_time": 0.54,
+                                "end_time": 8.85
+                            },
+                            {
+                                "_id": "5e45b9120269c027b2e189fb",
+                                "sentence": " She then holds the two boards out toward the student.",
+                                "start_time": 9.03,
+                                "end_time": 13.35
+                            },
+                            {
+                                "_id": "5e45b9120269c027b2e189fa",
+                                "sentence": " One board has the felt bag of santa's face, while the other has a plain white sock.",
+                                "start_time": 13.49,
+                                "end_time": 21.41
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7f46e13dfd851a5d57",
+                        "audio_description": "58e7cf3746e13dfd851a26cd",
+                        "created_at": 20160930112702,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160930112702,
+                        "file_name": "14752600227621.wav",
+                        "start_time": 90.683,
+                        "legacy_video_id": 2777,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24618,
+                        "video": "58e7cf2946e13dfd851a1eec",
+                        "end_time": 90.683,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 25.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cc17",
+                                "sentence": " The child reaches out toward the board with the felt santa bag on it, and the teacher quickly removes the board with the white sock on it,",
+                                "start_time": 0.21,
+                                "end_time": 10.76
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc16",
+                                "sentence": " placing it on the table next to her.",
+                                "start_time": 10.79,
+                                "end_time": 14.07
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc15",
+                                "sentence": " The woman places her hand over the students hand, guiding it to the felt santa bag",
+                                "start_time": 14.58,
+                                "end_time": 21.6
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc14",
+                                "sentence": " to rip it off of the velcro on the board.",
+                                "start_time": 21.67,
+                                "end_time": 25.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7f46e13dfd851a5d58",
+                        "audio_description": "58e7cf3746e13dfd851a26cd",
+                        "created_at": 20160930112748,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160930112748,
+                        "file_name": "14752600683371.wav",
+                        "start_time": 105.797,
+                        "legacy_video_id": 2777,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24619,
+                        "video": "58e7cf2946e13dfd851a1eec",
+                        "end_time": 105.797,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45b9100269c027b2e189e1",
+                                "sentence": " The student rips the santa bag off of the board and holds it close to her,",
+                                "start_time": 0.26,
+                                "end_time": 6.83
+                            },
+                            {
+                                "_id": "5e45b9100269c027b2e189e0",
+                                "sentence": " while the teacher places the board back on to the table. Next to her,",
+                                "start_time": 6.83,
+                                "end_time": 12.31
+                            },
+                            {
+                                "_id": "5e45b9100269c027b2e189df",
+                                "sentence": " the video ends.",
+                                "start_time": 12.42,
+                                "end_time": 14.48
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a26cd",
+                "status": "published",
+                "legacy_video_id": 2777,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1eec",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1eec",
+        "description": "",
+        "youtube_id": "5iu2FhCiQFw",
+        "views": 0,
+        "created_at": 20160930111431,
+        "title": "After Reading   Teacher Assisted   Comprehension Questions Curduroy's Christmas)",
+        "legacy_video_id": 2777,
+        "updated_at": 20160930112748,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 108
+    }
+}

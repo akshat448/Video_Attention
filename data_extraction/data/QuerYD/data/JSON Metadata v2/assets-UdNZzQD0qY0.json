@@ -1,0 +1,125 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5a5d",
+                        "audio_description": "58e7cf3646e13dfd851a263c",
+                        "created_at": 20160711172923,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160711172923,
+                        "file_name": "14682833631671.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2623,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23635,
+                        "video": "58e7cf2946e13dfd851a1e52",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 31.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ca888c4bc7acb6159",
+                                "sentence": " White text on a blue background",
+                                "start_time": 0.34,
+                                "end_time": 2.51
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb6158",
+                                "sentence": " sharing of emotions of stress.",
+                                "start_time": 2.7,
+                                "end_time": 4.72
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb6157",
+                                "sentence": " The student was upset when she left the bus. The intervenor acknowledges her feelings of stress comforts,",
+                                "start_time": 5.41,
+                                "end_time": 11.32
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb6156",
+                                "sentence": " offers solutions and respects the student space and leadership.",
+                                "start_time": 11.32,
+                                "end_time": 14.53
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb6155",
+                                "sentence": " The intervenor allows the student",
+                                "start_time": 15.32,
+                                "end_time": 17.25
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb6154",
+                                "sentence": " to share and to learn how to cope with stress.",
+                                "start_time": 17.25,
+                                "end_time": 20.39
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb6153",
+                                "sentence": " The intervenor and the students celebrate their bond and feelings of social connection after they have co regulated the tension",
+                                "start_time": 20.8,
+                                "end_time": 27.63
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb6152",
+                                "sentence": " blind and mild to moderate hearing loss.",
+                                "start_time": 28.13,
+                                "end_time": 31.16
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a263c",
+                "status": "published",
+                "legacy_video_id": 2623,
+                "legacy_user_id": 3125,
+                "video": "58e7cf2946e13dfd851a1e52",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2637",
+                    "name": "Jhogan13",
+                    "google_user_id_token": "",
+                    "created_at": 20160504150811,
+                    "updated_at": 20160817114117,
+                    "legacy_user_id": 3125,
+                    "last_login": 0,
+                    "email": "Jhogan13@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Module 4",
+            "Trusted Relationships"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e52",
+        "description": "",
+        "youtube_id": "UdNZzQD0qY0",
+        "views": 0,
+        "created_at": 20160711172600,
+        "title": "Autumn Feels Upset - Module 4",
+        "legacy_video_id": 2623,
+        "updated_at": 20160711172923,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 124
+    }
+}

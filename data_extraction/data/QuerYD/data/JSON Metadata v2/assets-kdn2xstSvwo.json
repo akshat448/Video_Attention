@@ -1,0 +1,145 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7bdeba8302113cc4be5017",
+                        "video": "5d7bd8198302113cc4be500f",
+                        "audio_description": "5d7bd8198302113cc4be500e",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "First Half",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 13.312,
+                        "duration": 13.312,
+                        "file_name": "kdn2xstSvwo_5d7bdeba8302113cc4be5017.wav",
+                        "file_size_bytes": 2555948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/kdn2xstSvwo",
+                        "created_at": 20190913182354,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5195950a396d3b41d13f7f",
+                                "sentence": " Man stands in front of three cnc machines, text reads, computerized manufacturing machining. If you like to work with your hands and have an eye for detail, machining could be for you.",
+                                "start_time": 0.27,
+                                "end_time": 8.17
+                            },
+                            {
+                                "_id": "5e5195950a396d3b41d13f7e",
+                                "sentence": " A student make small adjustments to your device than scene changes to a student at a computer deciding a product.",
+                                "start_time": 8.17,
+                                "end_time": 13.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d7bded38302113cc4be5018",
+                        "video": "5d7bd8198302113cc4be500f",
+                        "audio_description": "5d7bd8198302113cc4be500e",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "Career Text",
+                        "playback_type": "extended",
+                        "start_time": 13.316983999999998,
+                        "end_time": 13.316983999999998,
+                        "duration": 8.704,
+                        "file_name": "kdn2xstSvwo_5d7bded38302113cc4be5018.wav",
+                        "file_size_bytes": 1671212,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/kdn2xstSvwo",
+                        "created_at": 20190913182419,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5578707604239900952252",
+                                "sentence": " Tech streets careers, graduates of the semen program may workers machine set up first. Now maintenance technicians general machinist and tool and die makers among many.",
+                                "start_time": 0.37,
+                                "end_time": 8.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d7be7b58302113cc4be501b",
+                        "video": "5d7bd8198302113cc4be500f",
+                        "audio_description": "5d7bd8198302113cc4be500e",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "2nd half",
+                        "playback_type": "inline",
+                        "start_time": 14.16895791798401,
+                        "end_time": 28.248957917984008,
+                        "duration": 14.08,
+                        "file_name": "kdn2xstSvwo_5d7be7b58302113cc4be501b.wav",
+                        "file_size_bytes": 2703404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/kdn2xstSvwo",
+                        "created_at": 20190913190213,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51952d9a8b1f3b420811df",
+                                "sentence": " Teacher presents to a classroom of students tech streets like the program in an associate degree in 60 months or certificate or diploma as little as four months.",
+                                "start_time": 1.16,
+                                "end_time": 8.04
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b420811de",
+                                "sentence": " Student makes adjustments to a cnc cutting machine text reads. You've got this.",
+                                "start_time": 8.44,
+                                "end_time": 12.76
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7bd8198302113cc4be500e",
+                "video": "5d7bd8198302113cc4be500f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190913175537,
+                "updated_at": 20190913175537,
+                "notes": "A man stands in front of 3 CNC machines\r\nText reads:\r\nComputerized Manufacturing and Machining\r\nIf you like to work with your hands and have an eye for detail, machining could be for you.\r\n\r\nA student makes small adjustments to a device. Then scene changes to a student at a computer designing a product.\r\nText reads:\r\nCareers \r\nGraduates of the CMM program may work as machine set-up personnel, maintenance technicians, general machinists and tool and die makers among many others!\r\n\r\nA teacher presents to a classroom of students\r\nText reads:\r\nLength of program\r\nEarn an associate degree in 16 months, or certificate or diploma in as little as 4 months\r\n\r\nA student makes adjustments to a CNC cutting machine\r\nText reads:\r\nYou've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Computerized Manufacturing and Machining",
+            "cmm cmn",
+            "cmn",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5d7bd8198302113cc4be500f",
+        "title": "Computerized Manufacturing and Machining",
+        "description": "Information for the Computerized Manufacturing and Machining program.",
+        "youtube_id": "kdn2xstSvwo",
+        "created_at": 20190913175537,
+        "updated_at": 20190913190213,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

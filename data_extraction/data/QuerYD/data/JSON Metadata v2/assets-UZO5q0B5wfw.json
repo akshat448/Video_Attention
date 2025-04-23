@@ -1,0 +1,842 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8946e13dfd851a6410",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110212927,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110212927,
+                        "file_name": "14788421673791.wav",
+                        "start_time": 36.822,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27355,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 36.822,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4ac7fc849dea37cce153b2",
+                                "sentence": " On a screen behind michelle obama.",
+                                "start_time": 0.74,
+                                "end_time": 3.35
+                            },
+                            {
+                                "_id": "5e4ac7fc849dea37cce153b1",
+                                "sentence": " Videos are shown of beyonce, ricky gervais,",
+                                "start_time": 3.75,
+                                "end_time": 7.39
+                            },
+                            {
+                                "_id": "5e4ac7fc849dea37cce153b0",
+                                "sentence": " ryan seacrest,",
+                                "start_time": 7.42,
+                                "end_time": 9.03
+                            },
+                            {
+                                "_id": "5e4ac7fc849dea37cce153af",
+                                "sentence": " dwyane wade,",
+                                "start_time": 9.03,
+                                "end_time": 10.42
+                            },
+                            {
+                                "_id": "5e4ac7fc849dea37cce153ae",
+                                "sentence": " hugh jackman and nick jonas working out.",
+                                "start_time": 10.42,
+                                "end_time": 13.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6413",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110213011,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110213011,
+                        "file_name": "14788422119031.wav",
+                        "start_time": 50.127,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27358,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 50.127,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7b10ed104ed71f7dde",
+                                "sentence": " An audience we do not see applauds.",
+                                "start_time": 0.39,
+                                "end_time": 3.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6415",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110213031,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110213031,
+                        "file_name": "14788422310151.wav",
+                        "start_time": 54.577,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27360,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 54.577,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4ac7fb849dea37cce1535d",
+                                "sentence": " Michelle obama points to ellen.",
+                                "start_time": 0.24,
+                                "end_time": 2.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6417",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110213058,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110213058,
+                        "file_name": "14788422580731.wav",
+                        "start_time": 64.786,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27362,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 64.786,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7a10ed104ed71f7db3",
+                                "sentence": " Michelle leans forward and laughs",
+                                "start_time": 0.69,
+                                "end_time": 3
+                            },
+                            {
+                                "_id": "5e4acc7a10ed104ed71f7db2",
+                                "sentence": " in the audience. Laughs with her.",
+                                "start_time": 3,
+                                "end_time": 4.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a641d",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110213310,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110213310,
+                        "file_name": "14788423904771.wav",
+                        "start_time": 105.575,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27368,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 105.575,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4ac7fa849dea37cce15300",
+                                "sentence": " Michelle laughs and slams her hands against her lap.",
+                                "start_time": 0.54,
+                                "end_time": 4.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6420",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110213408,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110213408,
+                        "file_name": "14788424486551.wav",
+                        "start_time": 117.127,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27372,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 117.127,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acdba8085404ed8f9e369",
+                                "sentence": " A screen behind them shows a still photo of ellen and michelle do pushups together.",
+                                "start_time": 0.25,
+                                "end_time": 5.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6421",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110213441,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110213441,
+                        "file_name": "14788424819851.wav",
+                        "start_time": 132.78,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27373,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 132.78,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7b10ed104ed71f7ded",
+                                "sentence": " Michelle jokingly starts to take her jacket off, but doesn't.",
+                                "start_time": 0.86,
+                                "end_time": 4.61
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6423",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110213513,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110213513,
+                        "file_name": "14788425135911.wav",
+                        "start_time": 148.697,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27375,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 148.697,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7b10ed104ed71f7dce",
+                                "sentence": " Michelle and alan are now standing.",
+                                "start_time": 0.68,
+                                "end_time": 3.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6425",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110213649,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110213649,
+                        "file_name": "14788426091291.wav",
+                        "start_time": 158.674,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27378,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 158.674,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acdb98085404ed8f9e345",
+                                "sentence": " Michelle makes an open mouth face.",
+                                "start_time": 0.34,
+                                "end_time": 2.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6426",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110213729,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110213729,
+                        "file_name": "14788426492791.wav",
+                        "start_time": 183.058,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27379,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 183.058,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acdb98085404ed8f9e343",
+                                "sentence": " Six. So you think you can dance team members come on stage.",
+                                "start_time": 0.37,
+                                "end_time": 4.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6427",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110213814,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110213814,
+                        "file_name": "14788426946381.wav",
+                        "start_time": 202.827,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27380,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 202.827,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7b10ed104ed71f7de6",
+                                "sentence": " As michele starts to dance, her microphone falls off,",
+                                "start_time": 1.01,
+                                "end_time": 4.72
+                            },
+                            {
+                                "_id": "5e4acc7b10ed104ed71f7de5",
+                                "sentence": " michelle picks it up and attaches it to her pants.",
+                                "start_time": 4.72,
+                                "end_time": 8.21
+                            },
+                            {
+                                "_id": "5e4acc7b10ed104ed71f7de4",
+                                "sentence": " Ellen makes a move with her hands to make the music stop.",
+                                "start_time": 8.25,
+                                "end_time": 11.61
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6428",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110213852,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110213852,
+                        "file_name": "14788427320391.wav",
+                        "start_time": 217.347,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27381,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 217.347,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7b10ed104ed71f7de0",
+                                "sentence": " Michelle and alan, and began hip thrusting.",
+                                "start_time": 0.59,
+                                "end_time": 3.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6429",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110214025,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110214025,
+                        "file_name": "14788428254781.wav",
+                        "start_time": 250.739,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27383,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 250.739,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4ac72e67c2e937cd838b66",
+                                "sentence": " Michelle",
+                                "start_time": 0.56,
+                                "end_time": 1.67
+                            },
+                            {
+                                "_id": "5e4ac72e67c2e937cd838b65",
+                                "sentence": " Allen and the dancers begin clapping,",
+                                "start_time": 1.67,
+                                "end_time": 4.57
+                            },
+                            {
+                                "_id": "5e4ac72e67c2e937cd838b64",
+                                "sentence": " fist pumping, shaking their hips and pointing",
+                                "start_time": 4.57,
+                                "end_time": 7.85
+                            },
+                            {
+                                "_id": "5e4ac72e67c2e937cd838b63",
+                                "sentence": " the audience cheers!",
+                                "start_time": 7.85,
+                                "end_time": 9.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a642a",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110214210,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110214210,
+                        "file_name": "14788429301191.wav",
+                        "start_time": 306.136,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27384,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 306.136,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4ccbb9da4a9499b12037c2",
+                                "sentence": " Michelle obama says well when the audience sings along with her,",
+                                "start_time": 0.91,
+                                "end_time": 4.67
+                            },
+                            {
+                                "_id": "5e4ccbb9da4a9499b12037c1",
+                                "sentence": " michel, the dancers and alan continue to dance a choreographed routine.",
+                                "start_time": 4.96,
+                                "end_time": 10.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a642b",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110214352,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110214352,
+                        "file_name": "14788430329271.wav",
+                        "start_time": 333.246,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27386,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 333.246,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7b10ed104ed71f7dda",
+                                "sentence": " The camera pans to the cheering audience, then returns to michelle obama hugging ellen and hi! Five ing the dancers.",
+                                "start_time": 0.07,
+                                "end_time": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a642c",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110214555,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110214555,
+                        "file_name": "14788431557261.wav",
+                        "start_time": 351.271,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27390,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 351.271,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7b10ed104ed71f7de8",
+                                "sentence": " Michelle Allen and the dancers clap and dance as the audience cheers.",
+                                "start_time": 0.39,
+                                "end_time": 6.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a642d",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110214645,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110214645,
+                        "file_name": "14788432054331.wav",
+                        "start_time": 371.918,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27391,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 371.918,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7a10ed104ed71f7dc9",
+                                "sentence": " Ellen comes on screen with a white backdrop and draws a YouTube box promoting her other videos.",
+                                "start_time": 0.51,
+                                "end_time": 6.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a642e",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110215133,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110215133,
+                        "file_name": "14788434932141.wav",
+                        "start_time": 340.945,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27394,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 340.945,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4ac72e67c2e937cd838b69",
+                                "sentence": " Michelle obama mouth do it and points to the audience referring to the Challenge.",
+                                "start_time": 0.64,
+                                "end_time": 5.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a642f",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110215214,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110215214,
+                        "file_name": "14788435341261.wav",
+                        "start_time": 16.499,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27395,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 16.499,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acdba8085404ed8f9e375",
+                                "sentence": " First lady michelle obama is sitting across from l and generous.",
+                                "start_time": 0.62,
+                                "end_time": 4.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6430",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110215847,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110215847,
+                        "file_name": "14788439270731.wav",
+                        "start_time": 170.891,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27396,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 170.891,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7a10ed104ed71f7d86",
+                                "sentence": " Michelle gestures towards the audience.",
+                                "start_time": 0.27,
+                                "end_time": 2.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6431",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110220141,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110220141,
+                        "file_name": "14788441016391.wav",
+                        "start_time": 81.822,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27398,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 81.822,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4ac7fb849dea37cce15322",
+                                "sentence": " Michelle and alan are joking around with each other.",
+                                "start_time": 0.68,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6432",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110220348,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110220348,
+                        "file_name": "14788442288001.wav",
+                        "start_time": 278.844,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27400,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 278.844,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4acdb98085404ed8f9e33e",
+                                "sentence": " Michelle and the other dancers put their hands out in a stop motion. When the music says stop,",
+                                "start_time": 1.03,
+                                "end_time": 6.84
+                            },
+                            {
+                                "_id": "5e4acdb98085404ed8f9e33d",
+                                "sentence": " wait a minute.",
+                                "start_time": 6.84,
+                                "end_time": 7.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6433",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110220436,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110220436,
+                        "file_name": "14788442766351.wav",
+                        "start_time": 291.182,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27401,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 291.182,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4ac7fb849dea37cce15355",
+                                "sentence": " Ellen is watching michelle dance while she's dancing herself.",
+                                "start_time": 0.55,
+                                "end_time": 4.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8946e13dfd851a6434",
+                        "audio_description": "58e7cf3a46e13dfd851a279a",
+                        "created_at": 20161110220619,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110220619,
+                        "file_name": "14788443799421.wav",
+                        "start_time": 317.599,
+                        "legacy_video_id": 2901,
+                        "legacy_user_id": 3414,
+                        "label": "",
+                        "legacy_audio_clip_id": 27402,
+                        "video": "58e7cf2946e13dfd851a1f67",
+                        "end_time": 317.599,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.76,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2799",
+                        "transcript": [
+                            {
+                                "_id": "5e4ccbb9da4a9499b12037f5",
+                                "sentence": " Two dancers dash in the front and lean down,",
+                                "start_time": 1.57,
+                                "end_time": 4.88
+                            },
+                            {
+                                "_id": "5e4ccbb9da4a9499b12037f4",
+                                "sentence": " while michelle obama, ellen and four other dancers all stopped dancing and strike a pose.",
+                                "start_time": 4.88,
+                                "end_time": 10.71
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3a46e13dfd851a279a",
+                "status": "published",
+                "legacy_video_id": 2901,
+                "legacy_user_id": 3414,
+                "video": "58e7cf2946e13dfd851a1f67",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3a46e13dfd851a2799",
+                    "name": "morganpix",
+                    "google_user_id_token": "",
+                    "created_at": 20161110134705,
+                    "updated_at": 20161110140726,
+                    "legacy_user_id": 3414,
+                    "last_login": 0,
+                    "email": "pixomatism1@montclair.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "ellen",
+            "degeneres",
+            "michelle",
+            "obama",
+            "dance",
+            "uptown",
+            "funk",
+            "gimmefive",
+            "give",
+            "me",
+            "gimme",
+            "five",
+            "lets move",
+            "campaign",
+            "first",
+            "lady",
+            "president",
+            "flotus",
+            "usa",
+            "12121",
+            "Ellen DeGeneres (Celebrity)",
+            "United States Of America (Country)",
+            "Michelle Obama (Celebrity)",
+            "dances",
+            "#gimmefive",
+            "So You Think You Can Dance",
+            "theellenshow",
+            "show",
+            "daytime",
+            "comedy",
+            "The Ellen Show (TV Program)",
+            "break",
+            "it",
+            "down",
+            "dancing",
+            "Twitch",
+            "Bruno Mars (Musical Artist)",
+            "funny",
+            "hilarious"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1f67",
+        "description": "",
+        "youtube_id": "UZO5q0B5wfw",
+        "views": 0,
+        "created_at": 20161110150910,
+        "title": "Ellen and Michelle Obama Break It Down",
+        "legacy_video_id": 2901,
+        "updated_at": 20161110220619,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 389
+    }
+}

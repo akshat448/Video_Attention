@@ -1,0 +1,110 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a21b61b741e446ed30323af",
+                        "video": "5a21b54e741e446ed30323ae",
+                        "audio_description": "5a21b54e741e446ed30323ad",
+                        "user": "5a21b277741e446ed30323ac",
+                        "label": "audio description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 42.26031746031746,
+                        "duration": 42.26031746031746,
+                        "file_name": "Alc7AhymB9o_5a21b61b741e446ed30323af.wav",
+                        "file_size_bytes": 7454764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Alc7AhymB9o",
+                        "created_at": 20171201200547,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dd038379c1a31e71b22ca23",
+                                "sentence": " Text on screen and y u dot e d u refreshed after a lot of hard work and much anticipation.",
+                                "start_time": 0.69,
+                                "end_time": 5.75
+                            },
+                            {
+                                "_id": "5dd038379c1a31e71b22ca22",
+                                "sentence": " At seven o two p m on august twentieth twenty sixteen, we launched the refreshed n y u dot e d u",
+                                "start_time": 5.76,
+                                "end_time": 11.14
+                            },
+                            {
+                                "_id": "5dd038379c1a31e71b22ca21",
+                                "sentence": " n y u website appears on a computer screen.",
+                                "start_time": 11.43,
+                                "end_time": 14
+                            },
+                            {
+                                "_id": "5dd038379c1a31e71b22ca20",
+                                "sentence": " Anyway, your website goes down and an error message appears. Text on web site, the n y u website will be back soon.",
+                                "start_time": 14.82,
+                                "end_time": 20.65
+                            },
+                            {
+                                "_id": "5dd038379c1a31e71b22ca1f",
+                                "sentence": " The web site refreshes, and the new n y u dot e d u website is revealed.",
+                                "start_time": 29.42,
+                                "end_time": 33.44
+                            },
+                            {
+                                "_id": "5dd038379c1a31e71b22ca1e",
+                                "sentence": " Text on screen, we have lift off a rocket ship launches and disappears out of the frame.",
+                                "start_time": 36.47,
+                                "end_time": 41.35
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a21b54e741e446ed30323ad",
+                "video": "5a21b54e741e446ed30323ae",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a21b277741e446ed30323ac",
+                    "email": "nyudigicomm@gmail.com",
+                    "name": "NYU DigiComm",
+                    "given_name": "NYU",
+                    "picture": "https://lh3.googleusercontent.com/-FMKSmxjAyVA/AAAAAAAAAAI/AAAAAAAAAIc/koPpvjZRsc4/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "108132738544395495028",
+                    "last_login": 20171201195015,
+                    "token": "10f7140ee84cd3a43b74e8eefbfb14d258748976d6327cb17daa469df8366912",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20171201200222,
+                "updated_at": 20171201205717,
+                "notes": "(text on screen) NYU.edu - Refreshed\r\n\r\nAfter a lot of hard work and much anticipation\r\n\r\nAt 7:02 pm on August 20, 2016\r\n\r\nWe launched the refreshed NYU.edu\r\n\r\nNYU website appears on a computer screen\r\n\r\nNYU website goes down and an error message appears\r\n\r\n(text on website) \"The NYU website will be back soon\"\r\n\r\nThe website refreshes and the new NYU.edu website is revealed\r\n\r\n(text on screen) We have lift off\r\n\r\nA rocketship launches and disappears out of the frame",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5a21b54e741e446ed30323ae",
+        "title": "Launching the Refreshed NYU.edu",
+        "description": "We have lift off! Launching the refreshed NYU.edu.",
+        "youtube_id": "Alc7AhymB9o",
+        "created_at": 20171201200222,
+        "updated_at": 20171201200547,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 46
+    }
+}

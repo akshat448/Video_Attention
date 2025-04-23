@@ -1,0 +1,112 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fda62b0ce0a842f6990b28a",
+                        "video": "5fd2b2a395521063835cec00",
+                        "audio_description": "5fd2b2a395521063835cebff",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 1.9800178571428573,
+                        "end_time": 1.9800178571428573,
+                        "duration": 3.8080725623582765,
+                        "file_name": "Viut3vr6Tic_5fda62b0ce0a842f6990b28a.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Viut3vr6Tic",
+                        "created_at": 20201216194032,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5fda63bfce0a842f6990b28b",
+                        "video": "5fd2b2a395521063835cec00",
+                        "audio_description": "5fd2b2a395521063835cebff",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 3.250793650793651,
+                        "file_name": "Viut3vr6Tic_5fda63bfce0a842f6990b28b.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Viut3vr6Tic",
+                        "created_at": 20201216194503,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fd2b2a395521063835cebff",
+                "video": "5fd2b2a395521063835cec00",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5fc6b5fb95521063835ce383",
+                    "email": "ecastillojenn@gmail.com",
+                    "name": "Jennifer Castillo",
+                    "given_name": "Jennifer",
+                    "picture": "https://lh4.googleusercontent.com/-5bpnry8pqfg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckH9ncyvBYAW2kOTFQ5bs4EeopJOg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115887003623205163006",
+                    "last_login": 20201221205124,
+                    "token": "1114491ec716f0171a30639c483ee718d98ebe8e044084b7b6bf4e03ccbb3772",
+                    "__v": 0,
+                    "updated_at": 20201221205124
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201210234331,
+                "updated_at": 20201210234331,
+                "notes": "",
+                "__v": 0,
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [],
+                "_id": "5fd31b18a1480d63858c6ac8",
+                "video": "5fd2b2a395521063835cec00",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5f03cb86b2fc4f0c560564c8",
+                    "email": "josecastanon4@gmail.com",
+                    "name": "Jose Castanon",
+                    "given_name": "Jose",
+                    "picture": "https://lh5.googleusercontent.com/-w_A4ZID4lJg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclzLkD7--GYw6RyBlOI5ABGjPyopA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102488238094886673550",
+                    "last_login": 20210114005929,
+                    "token": "ce0672cafeb61ef8892fab4aaffe2d72ea758b2e36c8d2080ebfb0f044943874",
+                    "__v": 0,
+                    "policy_review": "reviewed",
+                    "updated_at": 20210114005929,
+                    "admin": 1
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20201211070912,
+                "updated_at": 20201211070912,
+                "notes": "Testing!",
+                "__v": 0,
+                "admin_review": "reviewed",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fd2b2a395521063835cec00",
+        "title": "Creating Habitats",
+        "description": "With immersive environments that take guests from the frigid poles to a hot, dry desert, the California Science Center's Ecosystems exhibition is a feast for the eyes and the brain. But how did it come together? Watch as artisans and technicians come together to develop amazing habitats for our animals\u2014and spectacular experiences for guests! \n\nFor more science videos, blog posts, and virtual tours, visit californiasciencecenter.org/beyond",
+        "youtube_id": "Viut3vr6Tic",
+        "created_at": 20201210234331,
+        "updated_at": 20201216194503,
+        "views": 0,
+        "__v": 0
+    }
+}

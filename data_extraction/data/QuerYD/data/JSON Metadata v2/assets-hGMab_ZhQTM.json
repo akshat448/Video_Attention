@@ -1,0 +1,98 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5d29",
+                        "audio_description": "58e7cf3746e13dfd851a26c6",
+                        "created_at": 20160929154343,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929154343,
+                        "file_name": "14751890232561.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2770,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24568,
+                        "video": "58e7cf2946e13dfd851a1ee5",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 18.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ca888c4bc7acb6160",
+                                "sentence": " George,",
+                                "start_time": 0.75,
+                                "end_time": 1.89
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb615f",
+                                "sentence": " a dark skinned adult male,",
+                                "start_time": 1.89,
+                                "end_time": 4.58
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb615e",
+                                "sentence": " sits at a table with a white tablecloth in what appears to be a conference room.",
+                                "start_time": 4.58,
+                                "end_time": 11.24
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb615d",
+                                "sentence": " His hands comfortably rest on a braille keyboard out in front of him.",
+                                "start_time": 11.24,
+                                "end_time": 17.71
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a26c6",
+                "status": "published",
+                "legacy_video_id": 2770,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1ee5",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ee5",
+        "description": "",
+        "youtube_id": "hGMab_ZhQTM",
+        "views": 0,
+        "created_at": 20160929154230,
+        "title": "George Stern: The Evolution of Braille Technology",
+        "legacy_video_id": 2770,
+        "updated_at": 20160929154343,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 135
+    }
+}

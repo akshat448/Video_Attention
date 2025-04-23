@@ -1,0 +1,74 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5e5342b21258392b584cc5ba",
+                        "video": "5e5336150d7e1b2b646c38b9",
+                        "audio_description": "5e5336150d7e1b2b646c38b8",
+                        "user": "5e53342d0d7e1b2b646c38b6",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 42.154666666666664,
+                        "file_name": "dKXpAC311Lg_5e5342b21258392b584cc5ba.wav",
+                        "file_size_bytes": 8093740,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/dKXpAC311Lg",
+                        "created_at": 20200224032746,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5e5336150d7e1b2b646c38b8",
+                "video": "5e5336150d7e1b2b646c38b9",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e53342d0d7e1b2b646c38b6",
+                    "email": "arsalaan11@gmail.com",
+                    "name": "Arsalaan Ansari",
+                    "given_name": "Arsalaan",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAhhOH3uV6v-VjZ9RUUI12DxCMu5gRLMt8ippckBQ=s96-c",
+                    "locale": "en",
+                    "google_user_id": "112142018312679425394",
+                    "last_login": 20200224032430,
+                    "token": "09b804455aaa3ed638aada7bf4ff88f8443894009bc0c9e2daea3367abcb70b0",
+                    "__v": 0,
+                    "updated_at": 20200224032430,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200224023357,
+                "updated_at": 20200224173658,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5e5336150d7e1b2b646c38b9",
+        "title": "arsalaan employment movie",
+        "description": "",
+        "youtube_id": "dKXpAC311Lg",
+        "created_at": 20200224023357,
+        "updated_at": 20200224032746,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

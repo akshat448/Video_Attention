@@ -1,0 +1,612 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ad3f1ea354e1154d86fc47b",
+                        "video": "5ad3f1b8354e1154d86fc47a",
+                        "audio_description": "5ad3f1b8354e1154d86fc479",
+                        "user": "5a9de3c9d9a97673de053ccb",
+                        "label": "Opening",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 4.458231292517007,
+                        "file_name": "mjgeSxMcojc_5ad3f1ea354e1154d86fc47b.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/mjgeSxMcojc",
+                        "created_at": 20180416004426,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f3572620ea1c5831febb",
+                                "sentence": " Beast castle.",
+                                "start_time": 2.9,
+                                "end_time": 4.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad3f46d354e1154d86fc47e",
+                        "video": "5ad3f1b8354e1154d86fc47a",
+                        "audio_description": "5ad3f1b8354e1154d86fc479",
+                        "user": "5a9de3c9d9a97673de053ccb",
+                        "label": "Clip",
+                        "playback_type": "inline",
+                        "start_time": 3.3193991831054688,
+                        "end_time": 18.365929795350365,
+                        "duration": 15.046530612244897,
+                        "file_name": "mjgeSxMcojc_5ad3f46d354e1154d86fc47e.wav",
+                        "file_size_bytes": 2654252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/mjgeSxMcojc",
+                        "created_at": 20180416005509,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f1f6a501d71c572ca03d",
+                                "sentence": " Lumia cox worth, missus potts run forward",
+                                "start_time": 0.35,
+                                "end_time": 3.16
+                            },
+                            {
+                                "_id": "5e15f1f6a501d71c572ca03c",
+                                "sentence": " bell lays beast on the ground. His head falls to the side.",
+                                "start_time": 3.98,
+                                "end_time": 7.68
+                            },
+                            {
+                                "_id": "5e15f1f6a501d71c572ca03b",
+                                "sentence": " She touches his face",
+                                "start_time": 10.07,
+                                "end_time": 11.76
+                            },
+                            {
+                                "_id": "5e15f1f6a501d71c572ca03a",
+                                "sentence": " and his eyes open.",
+                                "start_time": 12.55,
+                                "end_time": 14.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad3f4dd354e1154d86fc47f",
+                        "video": "5ad3f1b8354e1154d86fc47a",
+                        "audio_description": "5ad3f1b8354e1154d86fc479",
+                        "user": "5a9de3c9d9a97673de053ccb",
+                        "label": "Clip 2",
+                        "playback_type": "inline",
+                        "start_time": 57.46021001525879,
+                        "end_time": 81.79472248691411,
+                        "duration": 24.33451247165533,
+                        "file_name": "mjgeSxMcojc_5ad3f4dd354e1154d86fc47f.wav",
+                        "file_size_bytes": 4292652,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/mjgeSxMcojc",
+                        "created_at": 20180416005701,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1de",
+                                "sentence": " His eyes rolled to the back of his head.",
+                                "start_time": 1.12,
+                                "end_time": 3.36
+                            },
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1dd",
+                                "sentence": " and he dies.",
+                                "start_time": 3.36,
+                                "end_time": 4.54
+                            },
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1dc",
+                                "sentence": " Bell hides her face in a shirt.",
+                                "start_time": 20.52,
+                                "end_time": 22.41
+                            },
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1db",
+                                "sentence": " In the last petal falls.",
+                                "start_time": 22.41,
+                                "end_time": 23.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad3f590354e1154d86fc481",
+                        "video": "5ad3f1b8354e1154d86fc47a",
+                        "audio_description": "5ad3f1b8354e1154d86fc479",
+                        "user": "5a9de3c9d9a97673de053ccb",
+                        "label": "Clip 3 ",
+                        "playback_type": "inline",
+                        "start_time": 83.151752,
+                        "end_time": 124.94767036734694,
+                        "duration": 41.795918367346935,
+                        "file_name": "mjgeSxMcojc_5ad3f590354e1154d86fc481.wav",
+                        "file_size_bytes": 7372844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/mjgeSxMcojc",
+                        "created_at": 20180416010000,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f1f8a501d71c572ca07b",
+                                "sentence": " The mere cox worth missus potts look sad.",
+                                "start_time": 3.64,
+                                "end_time": 6.85
+                            },
+                            {
+                                "_id": "5e15f1f8a501d71c572ca07a",
+                                "sentence": " Pink streaks of light fall from the sky slowly.",
+                                "start_time": 12.41,
+                                "end_time": 16.02
+                            },
+                            {
+                                "_id": "5e15f1f8a501d71c572ca079",
+                                "sentence": " The streaks change color",
+                                "start_time": 18.01,
+                                "end_time": 19.93
+                            },
+                            {
+                                "_id": "5e15f1f8a501d71c572ca078",
+                                "sentence": " and more",
+                                "start_time": 20.1,
+                                "end_time": 21.27
+                            },
+                            {
+                                "_id": "5e15f1f8a501d71c572ca077",
+                                "sentence": " fall. Das to",
+                                "start_time": 21.34,
+                                "end_time": 22.96
+                            },
+                            {
+                                "_id": "5e15f1f8a501d71c572ca076",
+                                "sentence": " bell looks up in astonishment as the beast starts to rise",
+                                "start_time": 23.69,
+                                "end_time": 26.87
+                            },
+                            {
+                                "_id": "5e15f1f8a501d71c572ca075",
+                                "sentence": " close upon lumia cox worth, and missus potts surprised face.",
+                                "start_time": 27.55,
+                                "end_time": 31.44
+                            },
+                            {
+                                "_id": "5e15f1f8a501d71c572ca074",
+                                "sentence": " The beast rises in the air and his cape drapes around him like a cocoon.",
+                                "start_time": 36.78,
+                                "end_time": 41.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad3f5c4354e1154d86fc482",
+                        "video": "5ad3f1b8354e1154d86fc47a",
+                        "audio_description": "5ad3f1b8354e1154d86fc479",
+                        "user": "5a9de3c9d9a97673de053ccb",
+                        "label": "Clip 4",
+                        "playback_type": "inline",
+                        "start_time": 125.009404,
+                        "end_time": 159.3749368798186,
+                        "duration": 34.365532879818595,
+                        "file_name": "mjgeSxMcojc_5ad3f5c4354e1154d86fc482.wav",
+                        "file_size_bytes": 6062124,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/mjgeSxMcojc",
+                        "created_at": 20180416010052,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fc074eb41e8f84c1a1",
+                                "sentence": " His left hand reaches out,",
+                                "start_time": 3.55,
+                                "end_time": 5.53
+                            },
+                            {
+                                "_id": "5e1619fc074eb41e8f84c1a0",
+                                "sentence": " transforms into a human one, and bursts of gold light extend from fingertips,",
+                                "start_time": 5.53,
+                                "end_time": 10.27
+                            },
+                            {
+                                "_id": "5e1619fc074eb41e8f84c19f",
+                                "sentence": " his feet transformed back into human form",
+                                "start_time": 11.4,
+                                "end_time": 14.53
+                            },
+                            {
+                                "_id": "5e1619fc074eb41e8f84c19e",
+                                "sentence": " with bursts of gold, light extending from toes.",
+                                "start_time": 14.53,
+                                "end_time": 17.24
+                            },
+                            {
+                                "_id": "5e1619fc074eb41e8f84c19d",
+                                "sentence": " His face transforms back into a human. With gold light shining from his body,",
+                                "start_time": 23.68,
+                                "end_time": 28.38
+                            },
+                            {
+                                "_id": "5e1619fc074eb41e8f84c19c",
+                                "sentence": " he floats back to the ground",
+                                "start_time": 28.68,
+                                "end_time": 30.69
+                            },
+                            {
+                                "_id": "5e1619fc074eb41e8f84c19b",
+                                "sentence": " with the cape covering him.",
+                                "start_time": 32.05,
+                                "end_time": 34.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad3f67c354e1154d86fc484",
+                        "video": "5ad3f1b8354e1154d86fc47a",
+                        "audio_description": "5ad3f1b8354e1154d86fc479",
+                        "user": "5a9de3c9d9a97673de053ccb",
+                        "label": "Clip 5",
+                        "playback_type": "inline",
+                        "start_time": 159.257144,
+                        "end_time": 189.81460431746032,
+                        "duration": 30.55746031746032,
+                        "file_name": "mjgeSxMcojc_5ad3f67c354e1154d86fc484.wav",
+                        "file_size_bytes": 5390380,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/mjgeSxMcojc",
+                        "created_at": 20180416010356,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1ba",
+                                "sentence": " Bell walks over and extends her left hand.",
+                                "start_time": 0.68,
+                                "end_time": 3.29
+                            },
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1b9",
+                                "sentence": " The beast, now in human form, rolls over and starts to rise up his back to the audience.",
+                                "start_time": 5.99,
+                                "end_time": 10.94
+                            },
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1b8",
+                                "sentence": " He stares at his hands,",
+                                "start_time": 10.94,
+                                "end_time": 12.43
+                            },
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1b7",
+                                "sentence": " then turns around.",
+                                "start_time": 12.56,
+                                "end_time": 13.96
+                            },
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1b6",
+                                "sentence": " Bell looks in disbelief.",
+                                "start_time": 14.99,
+                                "end_time": 16.75
+                            },
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1b5",
+                                "sentence": " She strokes his hair",
+                                "start_time": 25.16,
+                                "end_time": 26.85
+                            },
+                            {
+                                "_id": "5e1619fd074eb41e8f84c1b4",
+                                "sentence": " and stares at his face with wonder.",
+                                "start_time": 27.2,
+                                "end_time": 29.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad3f6a9354e1154d86fc485",
+                        "video": "5ad3f1b8354e1154d86fc47a",
+                        "audio_description": "5ad3f1b8354e1154d86fc479",
+                        "user": "5a9de3c9d9a97673de053ccb",
+                        "label": "Clip 6",
+                        "playback_type": "inline",
+                        "start_time": 189.830364,
+                        "end_time": 218.90174721995464,
+                        "duration": 29.071383219954647,
+                        "file_name": "mjgeSxMcojc_5ad3f6a9354e1154d86fc485.wav",
+                        "file_size_bytes": 5128236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/mjgeSxMcojc",
+                        "created_at": 20180416010441,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f1f8a501d71c572ca073",
+                                "sentence": " Zoom in on his blue eyes.",
+                                "start_time": 0.57,
+                                "end_time": 2.73
+                            },
+                            {
+                                "_id": "5e15f1f8a501d71c572ca072",
+                                "sentence": " They gaze into each other's eyes.",
+                                "start_time": 8.93,
+                                "end_time": 11.08
+                            },
+                            {
+                                "_id": "5e15f1f8a501d71c572ca071",
+                                "sentence": " His hand strokes her hair.",
+                                "start_time": 11.18,
+                                "end_time": 13.03
+                            },
+                            {
+                                "_id": "5e15f1f8a501d71c572ca070",
+                                "sentence": " Bay kiss",
+                                "start_time": 19.68,
+                                "end_time": 20.68
+                            },
+                            {
+                                "_id": "5e15f1f8a501d71c572ca06f",
+                                "sentence": " blue glitter circles around them and shoot straight up into the sky.",
+                                "start_time": 21.34,
+                                "end_time": 25.71
+                            },
+                            {
+                                "_id": "5e15f1f8a501d71c572ca06e",
+                                "sentence": " Fireworks show above the.",
+                                "start_time": 27.65,
+                                "end_time": 29.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad3f826354e1154d86fc488",
+                        "video": "5ad3f1b8354e1154d86fc47a",
+                        "audio_description": "5ad3f1b8354e1154d86fc479",
+                        "user": "5a9de3c9d9a97673de053ccb",
+                        "label": "Castle",
+                        "playback_type": "extended",
+                        "start_time": 222.314849,
+                        "end_time": 222.314849,
+                        "duration": 11.145578231292516,
+                        "file_name": "mjgeSxMcojc_5ad3f826354e1154d86fc488.wav",
+                        "file_size_bytes": 1966124,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/mjgeSxMcojc",
+                        "created_at": 20180416011102,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aec3",
+                                "sentence": " Castle transforms back into original form",
+                                "start_time": 1.31,
+                                "end_time": 4.52
+                            },
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aec2",
+                                "sentence": " with gold glitter cascading over",
+                                "start_time": 4.52,
+                                "end_time": 6.93
+                            },
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aec1",
+                                "sentence": " the gargoyle turns back into a statue.",
+                                "start_time": 7.83,
+                                "end_time": 10.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad3f84b354e1154d86fc489",
+                        "video": "5ad3f1b8354e1154d86fc47a",
+                        "audio_description": "5ad3f1b8354e1154d86fc479",
+                        "user": "5a9de3c9d9a97673de053ccb",
+                        "label": "Clip 7",
+                        "playback_type": "inline",
+                        "start_time": 224.157649,
+                        "end_time": 233.25987122222222,
+                        "duration": 9.102222222222222,
+                        "file_name": "mjgeSxMcojc_5ad3f84b354e1154d86fc489.wav",
+                        "file_size_bytes": 1605676,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/mjgeSxMcojc",
+                        "created_at": 20180416011139,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1619fc074eb41e8f84c1aa",
+                                "sentence": " The mayor transforms into human.",
+                                "start_time": 1.72,
+                                "end_time": 3.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad3f865354e1154d86fc48a",
+                        "video": "5ad3f1b8354e1154d86fc47a",
+                        "audio_description": "5ad3f1b8354e1154d86fc479",
+                        "user": "5a9de3c9d9a97673de053ccb",
+                        "label": "Transform",
+                        "playback_type": "extended",
+                        "start_time": 234.502511,
+                        "end_time": 234.502511,
+                        "duration": 5.38702947845805,
+                        "file_name": "mjgeSxMcojc_5ad3f865354e1154d86fc48a.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/mjgeSxMcojc",
+                        "created_at": 20180416011205,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f51ca501d71c572ca12d",
+                                "sentence": " Cox worth and missus potts",
+                                "start_time": 0.49,
+                                "end_time": 2.98
+                            },
+                            {
+                                "_id": "5e15f51ca501d71c572ca12c",
+                                "sentence": " are now back into human form.",
+                                "start_time": 2.98,
+                                "end_time": 5.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad3f8a0354e1154d86fc48c",
+                        "video": "5ad3f1b8354e1154d86fc47a",
+                        "audio_description": "5ad3f1b8354e1154d86fc479",
+                        "user": "5a9de3c9d9a97673de053ccb",
+                        "label": "Chip",
+                        "playback_type": "extended",
+                        "start_time": 241.876214,
+                        "end_time": 241.876214,
+                        "duration": 6.965986394557823,
+                        "file_name": "mjgeSxMcojc_5ad3f8a0354e1154d86fc48c.wav",
+                        "file_size_bytes": 1228844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/mjgeSxMcojc",
+                        "created_at": 20180416011304,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aec6",
+                                "sentence": " Chip",
+                                "start_time": 0.72,
+                                "end_time": 1.48
+                            },
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aec5",
+                                "sentence": " and the footstool",
+                                "start_time": 1.48,
+                                "end_time": 2.7
+                            },
+                            {
+                                "_id": "5e15f2e1b81b2f1c5a36aec4",
+                                "sentence": " now turned back into a human boy and a dog.",
+                                "start_time": 2.74,
+                                "end_time": 6.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad3f8d9354e1154d86fc48d",
+                        "video": "5ad3f1b8354e1154d86fc47a",
+                        "audio_description": "5ad3f1b8354e1154d86fc479",
+                        "user": "5a9de3c9d9a97673de053ccb",
+                        "label": "Clip 8",
+                        "playback_type": "inline",
+                        "start_time": 246.530393,
+                        "end_time": 263.8989190770975,
+                        "duration": 17.368526077097506,
+                        "file_name": "mjgeSxMcojc_5ad3f8d9354e1154d86fc48d.wav",
+                        "file_size_bytes": 3063852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/mjgeSxMcojc",
+                        "created_at": 20180416011401,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f2e3b81b2f1c5a36af01",
+                                "sentence": " Human beast picks up belle and spins around.",
+                                "start_time": 0.26,
+                                "end_time": 2.92
+                            },
+                            {
+                                "_id": "5e15f2e3b81b2f1c5a36af00",
+                                "sentence": " Scene changed to belle in yellow gown",
+                                "start_time": 3.08,
+                                "end_time": 5.45
+                            },
+                            {
+                                "_id": "5e15f2e3b81b2f1c5a36aeff",
+                                "sentence": " and beast in blue suit.",
+                                "start_time": 5.45,
+                                "end_time": 7.18
+                            },
+                            {
+                                "_id": "5e15f2e3b81b2f1c5a36aefe",
+                                "sentence": " They kiss",
+                                "start_time": 7.18,
+                                "end_time": 8.23
+                            },
+                            {
+                                "_id": "5e15f2e3b81b2f1c5a36aefd",
+                                "sentence": " human fifi approaches the mere and tickled him with a feather duster.",
+                                "start_time": 12.84,
+                                "end_time": 16.37
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ad3f1b8354e1154d86fc479",
+                "video": "5ad3f1b8354e1154d86fc47a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a9de3c9d9a97673de053ccb",
+                    "email": "cgerrard120@gmail.com",
+                    "name": "Clarissa Gerrard",
+                    "given_name": "Clarissa",
+                    "picture": "https://lh5.googleusercontent.com/-UrZxLrdlyFY/AAAAAAAAAAI/AAAAAAAAGHE/mUZX3KEsmzw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "106397417950301376174",
+                    "last_login": 20180519025245,
+                    "token": "6b8bd325b907a61f5feb796b7011f9dfcbe64a76d47a996447e81bed3cb81ec4",
+                    "__v": 0,
+                    "updated_at": 20180519025245,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180416004336,
+                "updated_at": 20180422173001,
+                "notes": "Cogsworth, Lumiere, and Mrs. Potts run forward\r\nBelle lays Beast on the ground, his head falls to the side\r\nShe touches his face and his eyes open\r\nShe hugs him\r\nHis eyes roll to the back of his head and he dies\r\nBelle hides her face in his shirt\r\nLast petal falls \r\nLumiere, Cogsworth, Mrs. Potts look sad\r\nPink streaks of light fall from the sky slowly\r\nThe streaks change color and more fall faster\r\nBelle looks up in astonishment as the beast starts to rise up\r\nClose up on belles suprised face\r\nClose up on Lumiere, cogsworht and potts suprised face\r\nBeast rises in the air and his cape drapes around him like a cocoon\r\nHis left hand reaches out, transforms into a human one and bursts of gold light extend from fingertips\r\nHis feet transforn back to human form with bursts of gold light extending from toes\r\nHis face transforms back to human with gold light shining from his body\r\nHe floats back to the ground with the cape covering him\r\nBelle walks over and extends her left hand\r\nThe beast now in human form, rolls over and starts to rise up back to audience\r\nHe stares at his hands then turns around \r\nBelle looks in disbelief\r\nBelle walks to beast and grabs hands\r\nShe strokes his hair and stares at his face in wonder\r\nZoom in on his blue eyes \r\nThey gaze in each others eyes and kiss\r\nBlue glitter circles around the,m and shoots straight up in the sky \r\nFirework show above castle\r\ncastle transforms back to original with gold glitter cascading over\r\nGargoyle turns to statue\r\nLumiere transforms back to human \r\nCogsworth and Mrs. Potts transform to human\r\nChip and dog transform\r\nHUman beast picks up belle and spins around\r\nScene change to Belle in yellow gown and human beast in blue suit. \r\nThey kiss\r\nHuman Fifi approaches lumiere and tickles him with a feather duster\r\nHe chases after her\r\n",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 8,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Screen Themes",
+            "Soundtrack",
+            "Movie Scene",
+            "Film Score",
+            "Disney",
+            "Beauty and the Beast",
+            "La belle et la b\u00eate",
+            "Alan Menken",
+            "Academy Award",
+            "Oscar",
+            "Transformation",
+            "Lumiere",
+            "Cogsworth",
+            "Mrs Potts",
+            "Paige O'Hara",
+            "Robby Benson",
+            "Angela Lansbury",
+            "Jerry Orbach",
+            "Gary Trousdale",
+            "Kirk Wise",
+            "Howard Ashman"
+        ],
+        "custom_tags": [],
+        "_id": "5ad3f1b8354e1154d86fc47a",
+        "title": "Beauty and the Beast (1991) - 'Transformation' scene [1080]",
+        "description": "To celebrate the release of the new live-action version of Disney's masterpiece, here's the best bit from Alan Menken's score. Menken won an Oscar for the title song, but he also won one for the original score. This wonderful piece of music was thankfully kept intact for the remake version.\r\n\r\nStarring the voices of Paige O'Hara, Robby Benson, Angela Lansbury and Jerry Orbach. Directed by Gary Trousdale and Kirk Wise. Music by the incomparable Alan Menken and his late collaborator Howard Ashman.",
+        "youtube_id": "mjgeSxMcojc",
+        "created_at": 20180416004336,
+        "updated_at": 20180416011401,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 263
+    }
+}

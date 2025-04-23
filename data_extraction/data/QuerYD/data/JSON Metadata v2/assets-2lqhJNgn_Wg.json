@@ -1,0 +1,385 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5998c032c6c4802622d9bebc",
+                        "video": "5998bf95c6c4802622d9beb6",
+                        "audio_description": "5998bf95c6c4802622d9beb5",
+                        "user": "599865b0c6c4802622d9be87",
+                        "label": "intro",
+                        "playback_type": "inline",
+                        "start_time": 0.567142,
+                        "end_time": 4.746733836734695,
+                        "duration": 4.179591836734694,
+                        "file_name": "2lqhJNgn_Wg_5998c032c6c4802622d9bebc.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2lqhJNgn_Wg",
+                        "created_at": 20170819224818,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61f2",
+                                "sentence": " Food chains and webs buy food, school.",
+                                "start_time": 1.54,
+                                "end_time": 4.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5998c0b2c6c4802622d9bec0",
+                        "video": "5998bf95c6c4802622d9beb6",
+                        "audio_description": "5998bf95c6c4802622d9beb5",
+                        "user": "599865b0c6c4802622d9be87",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 5.104285,
+                        "end_time": 9.376756655328798,
+                        "duration": 4.272471655328798,
+                        "file_name": "2lqhJNgn_Wg_5998c0b2c6c4802622d9bec0.wav",
+                        "file_size_bytes": 753708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2lqhJNgn_Wg",
+                        "created_at": 20170819225026,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61c3",
+                                "sentence": " Format of the video is animation.",
+                                "start_time": 1.21,
+                                "end_time": 3.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5998c220c6c4802622d9beca",
+                        "video": "5998bf95c6c4802622d9beb6",
+                        "audio_description": "5998bf95c6c4802622d9beb5",
+                        "user": "599865b0c6c4802622d9be87",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 27.382079062942502,
+                        "end_time": 27.382079062942502,
+                        "duration": 6.222947845804988,
+                        "file_name": "2lqhJNgn_Wg_5998c220c6c4802622d9beca.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2lqhJNgn_Wg",
+                        "created_at": 20170819225632,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61f8",
+                                "sentence": " The sun is shown in the sky. Its rays are shining",
+                                "start_time": 0,
+                                "end_time": 4.18
+                            },
+                            {
+                                "_id": "5dcf0db14fda5410d78c61f7",
+                                "sentence": " on a plant.",
+                                "start_time": 4.19,
+                                "end_time": 5.5
+                            },
+                            {
+                                "_id": "5dcf0db14fda5410d78c61f6",
+                                "sentence": " Um,",
+                                "start_time": 5.76,
+                                "end_time": 6.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5998c34ac6c4802622d9bed0",
+                        "video": "5998bf95c6c4802622d9beb6",
+                        "audio_description": "5998bf95c6c4802622d9beb5",
+                        "user": "599865b0c6c4802622d9be87",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 32.78623611444092,
+                        "end_time": 32.78623611444092,
+                        "duration": 11.702857142857143,
+                        "file_name": "2lqhJNgn_Wg_5998c34ac6c4802622d9bed0.wav",
+                        "file_size_bytes": 2064428,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2lqhJNgn_Wg",
+                        "created_at": 20170819230130,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f95",
+                                "sentence": " A magnifier",
+                                "start_time": 1.21,
+                                "end_time": 2.98
+                            },
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f94",
+                                "sentence": " on the plan shows",
+                                "start_time": 3.12,
+                                "end_time": 5.4
+                            },
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f93",
+                                "sentence": " have itself produces energy from the sun",
+                                "start_time": 5.4,
+                                "end_time": 9.18
+                            },
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f92",
+                                "sentence": " and the soil.",
+                                "start_time": 9.43,
+                                "end_time": 10.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5998c3b7c6c4802622d9bed4",
+                        "video": "5998bf95c6c4802622d9beb6",
+                        "audio_description": "5998bf95c6c4802622d9beb5",
+                        "user": "599865b0c6c4802622d9be87",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 55.72079496948242,
+                        "end_time": 55.72079496948242,
+                        "duration": 6.6873469387755105,
+                        "file_name": "2lqhJNgn_Wg_5998c3b7c6c4802622d9bed4.wav",
+                        "file_size_bytes": 1179692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2lqhJNgn_Wg",
+                        "created_at": 20170819230319,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61e3",
+                                "sentence": " A zebra is shown with the plan in its mouth. And a line is shown with the zippers are minutes mouth.",
+                                "start_time": 0,
+                                "end_time": 5.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5998c3f1c6c4802622d9bed5",
+                        "video": "5998bf95c6c4802622d9beb6",
+                        "audio_description": "5998bf95c6c4802622d9beb5",
+                        "user": "599865b0c6c4802622d9be87",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 64.03276113542175,
+                        "end_time": 64.03276113542175,
+                        "duration": 4.6439909297052155,
+                        "file_name": "2lqhJNgn_Wg_5998c3f1c6c4802622d9bed5.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2lqhJNgn_Wg",
+                        "created_at": 20170819230417,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61f1",
+                                "sentence": " Lion is standing next to its own skeleton.",
+                                "start_time": 0.63,
+                                "end_time": 4.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5998c43ec6c4802622d9bed7",
+                        "video": "5998bf95c6c4802622d9beb6",
+                        "audio_description": "5998bf95c6c4802622d9beb5",
+                        "user": "599865b0c6c4802622d9be87",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 69.05655596948243,
+                        "end_time": 69.05655596948243,
+                        "duration": 9.566621315192744,
+                        "file_name": "2lqhJNgn_Wg_5998c43ec6c4802622d9bed7.wav",
+                        "file_size_bytes": 1687596,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2lqhJNgn_Wg",
+                        "created_at": 20170819230534,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175ab47b5156f523f99ce2",
+                                "sentence": " Four steps are shown as",
+                                "start_time": 1.68,
+                                "end_time": 4.2
+                            },
+                            {
+                                "_id": "5e175ab47b5156f523f99ce1",
+                                "sentence": " sun plants, zebra and lion.",
+                                "start_time": 4.47,
+                                "end_time": 8.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5998c54ec6c4802622d9bee2",
+                        "video": "5998bf95c6c4802622d9beb6",
+                        "audio_description": "5998bf95c6c4802622d9beb5",
+                        "user": "599865b0c6c4802622d9be87",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 93.29816604386902,
+                        "end_time": 93.29816604386902,
+                        "duration": 14.86077097505669,
+                        "file_name": "2lqhJNgn_Wg_5998c54ec6c4802622d9bee2.wav",
+                        "file_size_bytes": 2621484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2lqhJNgn_Wg",
+                        "created_at": 20170819231006,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f85",
+                                "sentence": " The food bed bed is created by glance at the bottom buck that eat the plants above the plants",
+                                "start_time": 0.5,
+                                "end_time": 6.95
+                            },
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f84",
+                                "sentence": " creatures in the bugs above the bugs and",
+                                "start_time": 6.95,
+                                "end_time": 10.86
+                            },
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f83",
+                                "sentence": " on our wall at the Top as a Top predator.",
+                                "start_time": 10.86,
+                                "end_time": 14.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5998c5eec6c4802622d9bee4",
+                        "video": "5998bf95c6c4802622d9beb6",
+                        "audio_description": "5998bf95c6c4802622d9beb5",
+                        "user": "599865b0c6c4802622d9be87",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 104.23094197711181,
+                        "end_time": 104.23094197711181,
+                        "duration": 6.03718820861678,
+                        "file_name": "2lqhJNgn_Wg_5998c5eec6c4802622d9bee4.wav",
+                        "file_size_bytes": 1065004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2lqhJNgn_Wg",
+                        "created_at": 20170819231246,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61eb",
+                                "sentence": " IT's nearly shown wITh his two predators, a mouse and a mall.",
+                                "start_time": 1.39,
+                                "end_time": 5.21
+                            },
+                            {
+                                "_id": "5dcf0db14fda5410d78c61ea",
+                                "sentence": " Um,",
+                                "start_time": 5.66,
+                                "end_time": 6.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5998c666c6c4802622d9bee6",
+                        "video": "5998bf95c6c4802622d9beb6",
+                        "audio_description": "5998bf95c6c4802622d9beb5",
+                        "user": "599865b0c6c4802622d9be87",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 169.329263,
+                        "end_time": 174.99493193424036,
+                        "duration": 5.6656689342403626,
+                        "file_name": "2lqhJNgn_Wg_5998c666c6c4802622d9bee6.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2lqhJNgn_Wg",
+                        "created_at": 20170819231446,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0db14fda5410d78c61f5",
+                                "sentence": " Food school with special thanks to psychological society,",
+                                "start_time": 0,
+                                "end_time": 4.97
+                            },
+                            {
+                                "_id": "5dcf0db14fda5410d78c61f4",
+                                "sentence": " okay.",
+                                "start_time": 5.27,
+                                "end_time": 5.68
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5998bf95c6c4802622d9beb5",
+                "video": "5998bf95c6c4802622d9beb6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "599865b0c6c4802622d9be87",
+                    "email": "burakarcan@gmail.com",
+                    "name": "Burak Arcan",
+                    "given_name": "Burak",
+                    "picture": "https://lh3.googleusercontent.com/-7JSnIhVbFXo/AAAAAAAAAAI/AAAAAAAAAAA/AMp5VUop5p_BosnYh_voKIYPQSuY_TvMQQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115044071117728445352",
+                    "last_login": 20170819162208,
+                    "token": "b51d4c47d14b684a75fcd76c29ff31dfc483f21912dced6c2d2fd576de10415e",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170819224541,
+                "updated_at": 20170823173628,
+                "notes": "\u2022\tFood chains and food webs, by fuse school \r\n\u2022\tFormat of the video is animation\r\n\u2022\tSun is shown middle of the screen\r\n\u2022\tSun\u2019s rays shine on a plant\r\n\u2022\tHand holding a magnifier shows a plant cell producing its own food from sun\u2019s energy and the nutrients in soil\r\n\u2022\tSun, a plant and a zebra eating a plant shown, arrows show flow of the energy, from sun to plant, to the zebra \r\n\u2022\tZebra is shown with a plant in is mouth and a lion is shown with the zebra\u2019s arm in its mouth\r\n\u2022\tA lion is standing next to a skeleton of itself.\r\n\u2022\tFour steps are shown as sun, plant, zebra and the lion\r\n\u2022\tFood the diagram is shown as plants at the bottom; bug\u2019s that eat plants above the plants; creatures eating the bugs above the bugs, and an owl at the top \r\n\u2022\tA snail is shown, with its two predators: a mouse and a mole\r\n\u2022\tMouse and a mole with their predator, an owl is shown\r\n",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Science",
+            "learn",
+            "Revision",
+            "GCSE",
+            "Alevels",
+            "AQA",
+            "students free online courses video science videos",
+            "student",
+            "fuseschool",
+            "global education",
+            "ict4d",
+            "food chain",
+            "food web",
+            "ecology",
+            "trophic levels",
+            "energy levels",
+            "ecosystem",
+            "habitats",
+            "nutrition"
+        ],
+        "custom_tags": [],
+        "_id": "5998bf95c6c4802622d9beb6",
+        "title": "Food Chains and Food Webs | Biology for All | FuseSchool",
+        "description": "A food chain is a single path, which help us to work out who eats whom in a habitat, in order to get the energy and materials required for nutrition.\r\n\r\nTypically food chains involve around four steps. It is unusual for them to be longer because energy is lost between each step and so the energy available for the next organism decreases.\r\n\r\nAltering one link in a food web has big consequences for the whole system. \r\n\r\n\r\nSUBSCRIBE to the FuseSchool YouTube channel for many more educational videos. Our teachers and animators come together to make fun & easy-to-understand videos in Chemistry, Biology, Physics, Maths & ICT.\r\n\r\nJOIN our platform at www.fuseschool.org\r\n\r\nThese videos can be used in a flipped classroom model or as a revision aid. Find our other Biology videos here: \r\n\r\nhttps://www.youtube.com/playlist?list=PLW0gavSzhMlQYSpKryVcEr3ERup5SxHl0\r\n\r\nTwitter: https://twitter.com/fuseSchool\r\nAccess a deeper Learning Experience in the FuseSchool platform and app: www.fuseschool.org\r\nFollow us: http://www.youtube.com/fuseschool\r\nFriend us: http://www.facebook.com/fuseschool\r\n\r\nThis Open Educational Resource is free of charge, under a Creative Commons License: Attribution-NonCommercial CC BY-NC ( View License Deed: http://creativecommons.org/licenses/by-nc/4.0/ ).  You are allowed to download the video for nonprofit, educational use. If you would like to modify the video, please contact us: info@fuseschool.org",
+        "youtube_id": "2lqhJNgn_Wg",
+        "created_at": 20170819224541,
+        "updated_at": 20170819231446,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 175
+    }
+}

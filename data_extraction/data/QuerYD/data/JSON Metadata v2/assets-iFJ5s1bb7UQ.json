@@ -1,0 +1,99 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5e005509b1aaaa44d9128052",
+                        "video": "5e0053c2cbccda44ce25829f",
+                        "audio_description": "5e0053c2cbccda44ce25829e",
+                        "user": "5e00533ab1aaaa44d9128050",
+                        "label": "Text and set scene",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 22.784,
+                        "file_name": "iFJ5s1bb7UQ_5e005509b1aaaa44d9128052.wav",
+                        "file_size_bytes": 4374572,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/iFJ5s1bb7UQ",
+                        "created_at": 20191223054753,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5e005773cbccda44ce2582a1",
+                        "video": "5e0053c2cbccda44ce25829f",
+                        "audio_description": "5e0053c2cbccda44ce25829e",
+                        "user": "5e00533ab1aaaa44d9128050",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 23.751375,
+                        "end_time": 32.967375,
+                        "duration": 9.216,
+                        "file_name": "iFJ5s1bb7UQ_5e005773cbccda44ce2582a1.wav",
+                        "file_size_bytes": 1769516,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/iFJ5s1bb7UQ",
+                        "created_at": 20191223055811,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5e0053c2cbccda44ce25829e",
+                "video": "5e0053c2cbccda44ce25829f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e00533ab1aaaa44d9128050",
+                    "email": "meallen682@gmail.com",
+                    "name": "M Elisabeth Allen",
+                    "given_name": "M Elisabeth",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mB6nhNK5rBUX49tQIh-ttAhTKGdkC2DmS_Jlomd=s96-c",
+                    "locale": "en",
+                    "google_user_id": "113376187239268317560",
+                    "last_login": 20191224074623,
+                    "token": "913e5fd148cd66d1de2ef139b3027b54118de698955353646f81779f853da7dd",
+                    "__v": 0,
+                    "updated_at": 20191224074623,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20191223054226,
+                "updated_at": 20200115070151,
+                "notes": "GLaDOS hoists Wheatley up by the neck and chokes him. A claw grabs Chell. Another claw tosses Wheatley aside",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "portal 2",
+            "wheatley",
+            "chell",
+            "glados",
+            "animation",
+            "valve"
+        ],
+        "custom_tags": [],
+        "_id": "5e0053c2cbccda44ce25829f",
+        "title": "You Monster",
+        "description": "On tumblr: http://not-quite-normal.tumblr.com/post/31689356605\nI've been chipping away at this thing for a while but IT'S DONE NOW, ENJOY 8)",
+        "youtube_id": "iFJ5s1bb7UQ",
+        "created_at": 20191223054226,
+        "updated_at": 20191223055811,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 47
+    }
+}

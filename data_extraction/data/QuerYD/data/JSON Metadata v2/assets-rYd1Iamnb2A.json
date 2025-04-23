@@ -1,0 +1,106 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bcb",
+                        "audio_description": "58e7cf3546e13dfd851a25ce",
+                        "created_at": 20160826110241,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160826110241,
+                        "file_name": "14722345614271.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2686,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24110,
+                        "video": "58e7cf2946e13dfd851a1e91",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb23a3885227afb5cd13",
+                                "sentence": " A tablet in a dark room has a game playing on it.",
+                                "start_time": 0.3,
+                                "end_time": 3.85
+                            },
+                            {
+                                "_id": "5e45bb23a3885227afb5cd12",
+                                "sentence": " The screen has many circles with one of several different designs",
+                                "start_time": 3.91,
+                                "end_time": 7.64
+                            },
+                            {
+                                "_id": "5e45bb23a3885227afb5cd11",
+                                "sentence": " under the screen.",
+                                "start_time": 7.8,
+                                "end_time": 9.37
+                            },
+                            {
+                                "_id": "5e45bb23a3885227afb5cd10",
+                                "sentence": " Lights flash",
+                                "start_time": 9.47,
+                                "end_time": 10.9
+                            },
+                            {
+                                "_id": "5e45bb23a3885227afb5cd0f",
+                                "sentence": " the video repeats halfway through.",
+                                "start_time": 12.79,
+                                "end_time": 14.92
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25ce",
+                "status": "published",
+                "legacy_video_id": 2686,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e91",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "YouTube Editor"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e91",
+        "description": "",
+        "youtube_id": "rYd1Iamnb2A",
+        "views": 0,
+        "created_at": 20160826110151,
+        "title": "Christian Eye Gaze",
+        "legacy_video_id": 2686,
+        "updated_at": 20160826110241,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 28
+    }
+}

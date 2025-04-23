@@ -1,0 +1,360 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7118118302113cc4be4fb0",
+                        "video": "5d71148b15c8ca3ccf56d67e",
+                        "audio_description": "5d71148b15c8ca3ccf56d67d",
+                        "user": "5d6014f88302113cc4be4f33",
+                        "label": "welcome",
+                        "playback_type": "extended",
+                        "start_time": 0.315521,
+                        "end_time": 0.315521,
+                        "duration": 9.045333333333334,
+                        "file_name": "1ox3dOhHNaE_5d7118118302113cc4be4fb0.wav",
+                        "file_size_bytes": 1736748,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1ox3dOhHNaE",
+                        "created_at": 20190905141337,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e2191a963d3c80d19f0d13c",
+                                "sentence": " A zookeeper dressed in a green shirt and brown shorts stands underneath the sign that says santa fe college teaching zoo.",
+                                "start_time": 0.79,
+                                "end_time": 8.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d71188a8302113cc4be4fb1",
+                        "video": "5d71148b15c8ca3ccf56d67e",
+                        "audio_description": "5d71148b15c8ca3ccf56d67d",
+                        "user": "5d6014f88302113cc4be4f33",
+                        "label": "tickets",
+                        "playback_type": "extended",
+                        "start_time": 17.236804,
+                        "end_time": 17.236804,
+                        "duration": 9.301333333333334,
+                        "file_name": "1ox3dOhHNaE_5d71188a8302113cc4be4fb1.wav",
+                        "file_size_bytes": 1785900,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1ox3dOhHNaE",
+                        "created_at": 20190905141538,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e2191a763d3c80d19f0d0c6",
+                                "sentence": " The zoo keeper is standing in front of a window that has a sign on it that reads tickets.",
+                                "start_time": 0.67,
+                                "end_time": 6.08
+                            },
+                            {
+                                "_id": "5e2191a763d3c80d19f0d0c5",
+                                "sentence": " On the other side of the window is a ticket taker.",
+                                "start_time": 6.08,
+                                "end_time": 8.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d711a538302113cc4be4fb2",
+                        "video": "5d71148b15c8ca3ccf56d67e",
+                        "audio_description": "5d71148b15c8ca3ccf56d67d",
+                        "user": "5d6014f88302113cc4be4f33",
+                        "label": "quarters",
+                        "playback_type": "extended",
+                        "start_time": 19.718553,
+                        "end_time": 19.718553,
+                        "duration": 16.896,
+                        "file_name": "1ox3dOhHNaE_5d711a538302113cc4be4fb2.wav",
+                        "file_size_bytes": 3244076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1ox3dOhHNaE",
+                        "created_at": 20190905142315,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e2191a663d3c80d19f0d09d",
+                                "sentence": " A different zoo keeper stands in front of a sign that reads quarters for conservation",
+                                "start_time": 0.8,
+                                "end_time": 5.72
+                            },
+                            {
+                                "_id": "5e2191a663d3c80d19f0d09c",
+                                "sentence": " underneath the sign, or three large boxes with plexiglass fronts. Each box has a design painted in it,",
+                                "start_time": 5.72,
+                                "end_time": 12.88
+                            },
+                            {
+                                "_id": "5e2191a663d3c80d19f0d09b",
+                                "sentence": " a tree,",
+                                "start_time": 12.88,
+                                "end_time": 13.96
+                            },
+                            {
+                                "_id": "5e2191a663d3c80d19f0d09a",
+                                "sentence": " an underground tunnel, and a river.",
+                                "start_time": 13.96,
+                                "end_time": 16.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d711ab38302113cc4be4fb3",
+                        "video": "5d71148b15c8ca3ccf56d67e",
+                        "audio_description": "5d71148b15c8ca3ccf56d67d",
+                        "user": "5d6014f88302113cc4be4f33",
+                        "label": "path",
+                        "playback_type": "extended",
+                        "start_time": 38.568959,
+                        "end_time": 38.568959,
+                        "duration": 4.608,
+                        "file_name": "1ox3dOhHNaE_5d711ab38302113cc4be4fb3.wav",
+                        "file_size_bytes": 884780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1ox3dOhHNaE",
+                        "created_at": 20190905142451,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e23e7c1ac8bf5054a1ed7ae",
+                                "sentence": " The first suit keeper stands on a path surrounded by trees.",
+                                "start_time": 0.29,
+                                "end_time": 4.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d711b1f8302113cc4be4fb4",
+                        "video": "5d71148b15c8ca3ccf56d67e",
+                        "audio_description": "5d71148b15c8ca3ccf56d67d",
+                        "user": "5d6014f88302113cc4be4f33",
+                        "label": "bench",
+                        "playback_type": "extended",
+                        "start_time": 42.59139,
+                        "end_time": 42.59139,
+                        "duration": 5.376,
+                        "file_name": "1ox3dOhHNaE_5d711b1f8302113cc4be4fb4.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1ox3dOhHNaE",
+                        "created_at": 20190905142639,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e2191a763d3c80d19f0d0be",
+                                "sentence": " The zookeeper stands in front of a bench. On the bench is a canvas bag.",
+                                "start_time": 0.5,
+                                "end_time": 5.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d711bac8302113cc4be4fb5",
+                        "video": "5d71148b15c8ca3ccf56d67e",
+                        "audio_description": "5d71148b15c8ca3ccf56d67d",
+                        "user": "5d6014f88302113cc4be4f33",
+                        "label": "bird",
+                        "playback_type": "extended",
+                        "start_time": 67.584026,
+                        "end_time": 67.584026,
+                        "duration": 7.338666666666667,
+                        "file_name": "1ox3dOhHNaE_5d711bac8302113cc4be4fb5.wav",
+                        "file_size_bytes": 1409068,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1ox3dOhHNaE",
+                        "created_at": 20190905142900,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e2191a763d3c80d19f0d0aa",
+                                "sentence": " The zookeeper stands in front of a large enclosure.",
+                                "start_time": 0.48,
+                                "end_time": 3.63
+                            },
+                            {
+                                "_id": "5e2191a763d3c80d19f0d0a9",
+                                "sentence": " Inside, a bird sits on a branch.",
+                                "start_time": 3.63,
+                                "end_time": 6.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d711c2b8302113cc4be4fb6",
+                        "video": "5d71148b15c8ca3ccf56d67e",
+                        "audio_description": "5d71148b15c8ca3ccf56d67d",
+                        "user": "5d6014f88302113cc4be4f33",
+                        "label": "squirt",
+                        "playback_type": "extended",
+                        "start_time": 74.765024,
+                        "end_time": 74.765024,
+                        "duration": 9.386666666666667,
+                        "file_name": "1ox3dOhHNaE_5d711c2b8302113cc4be4fb6.wav",
+                        "file_size_bytes": 1802284,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1ox3dOhHNaE",
+                        "created_at": 20190905143107,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e2191a763d3c80d19f0d0e8",
+                                "sentence": " The zookeeper stands in front of another large fenced enclosure.",
+                                "start_time": 0.67,
+                                "end_time": 4.72
+                            },
+                            {
+                                "_id": "5e2191a763d3c80d19f0d0e7",
+                                "sentence": " Inside, a large brown animal is laying down.",
+                                "start_time": 4.72,
+                                "end_time": 7.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d711c988302113cc4be4fb7",
+                        "video": "5d71148b15c8ca3ccf56d67e",
+                        "audio_description": "5d71148b15c8ca3ccf56d67d",
+                        "user": "5d6014f88302113cc4be4f33",
+                        "label": "snake",
+                        "playback_type": "extended",
+                        "start_time": 82.035425,
+                        "end_time": 82.035425,
+                        "duration": 8.021333333333333,
+                        "file_name": "1ox3dOhHNaE_5d711c988302113cc4be4fb7.wav",
+                        "file_size_bytes": 1540140,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1ox3dOhHNaE",
+                        "created_at": 20190905143256,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e2191a663d3c80d19f0d098",
+                                "sentence": " The suit keeper stands in front of a window. Behind the window is an area with rocks,",
+                                "start_time": 0.62,
+                                "end_time": 5.24
+                            },
+                            {
+                                "_id": "5e2191a663d3c80d19f0d097",
+                                "sentence": " tree branches and a snake.",
+                                "start_time": 5.24,
+                                "end_time": 7.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d711d888302113cc4be4fb8",
+                        "video": "5d71148b15c8ca3ccf56d67e",
+                        "audio_description": "5d71148b15c8ca3ccf56d67d",
+                        "user": "5d6014f88302113cc4be4f33",
+                        "label": "sign",
+                        "playback_type": "extended",
+                        "start_time": 90.513183,
+                        "end_time": 90.513183,
+                        "duration": 14.762666666666666,
+                        "file_name": "1ox3dOhHNaE_5d711d888302113cc4be4fb8.wav",
+                        "file_size_bytes": 2834476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1ox3dOhHNaE",
+                        "created_at": 20190905143656,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e2191a763d3c80d19f0d0a4",
+                                "sentence": " The zookeeper stands in front of a pole with three signs on it.",
+                                "start_time": 0.81,
+                                "end_time": 4.38
+                            },
+                            {
+                                "_id": "5e2191a763d3c80d19f0d0a3",
+                                "sentence": " The Top two are pointing to the left, one reads trails, the other reads pavilion. The bottom sign is pointing to the right and reads exit.",
+                                "start_time": 4.38,
+                                "end_time": 13.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d711e288302113cc4be4fb9",
+                        "video": "5d71148b15c8ca3ccf56d67e",
+                        "audio_description": "5d71148b15c8ca3ccf56d67d",
+                        "user": "5d6014f88302113cc4be4f33",
+                        "label": "exit",
+                        "playback_type": "extended",
+                        "start_time": 95.311264,
+                        "end_time": 95.311264,
+                        "duration": 12.970666666666666,
+                        "file_name": "1ox3dOhHNaE_5d711e288302113cc4be4fb9.wav",
+                        "file_size_bytes": 2490412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1ox3dOhHNaE",
+                        "created_at": 20190905143936,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e2191a963d3c80d19f0d140",
+                                "sentence": " The zookeeper stands between an open gate door on the left and a building with a door that as a sign on it that reads open",
+                                "start_time": 0.58,
+                                "end_time": 8.43
+                            },
+                            {
+                                "_id": "5e2191a963d3c80d19f0d13f",
+                                "sentence": " in the window. Next to the door is a sign that reads gift shop.",
+                                "start_time": 8.43,
+                                "end_time": 12.64
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d71148b15c8ca3ccf56d67d",
+                "video": "5d71148b15c8ca3ccf56d67e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d6014f88302113cc4be4f33",
+                    "email": "carole.polefko@gmail.com",
+                    "name": "Carole Polefko",
+                    "given_name": "Carole",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mCS4wWg7Nw8rjcjut4uQ1ZQZCoHtLTdmCWbZoQX9w=s96-c",
+                    "locale": "en",
+                    "google_user_id": "100061769094489668026",
+                    "last_login": 20191020234037,
+                    "token": "0336f012115d753b8ca42f0d30d43ea5f28857ee4b9cf05349e0d618e1094475",
+                    "__v": 0,
+                    "updated_at": 20191020234037,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en",
+                "created_at": 20190905135835,
+                "updated_at": 20190912210444,
+                "notes": "A zookeeper dressed in a green shirt and brown shorts stands underneath a sign that says, \"Santa Fe College Teaching Zoo.\"\n\nThe zookeeper is standing in front of a window that has a sign on it that reads, \"tickets\". On the other side of the window is a ticket taker. \n\nA different zoo keeper stands in front of a sign that reads, \"Quarters for Conservation\". Underneath the sign are 3 large boxes with plexiglass fronts. Each box has a design painted in it - a tree, an underground tunnel, and a river. \n\nThe first zoo keeper stands on a path surrounded by trees.\n\nThe zookeeper stands in front a bench. On the bench is a canvas bag.\n\nThe zookeeper stands in front of a large enclosure. Inside a bird sits on a branch.\n\nThe zookeeper stands in front of another large fenced enclosure. Inside a large brown animal is laying down. \n\nThe zookeeper stands in front of a window. Behind the window is an area with rocks, tree branches, and a snake.\n\nThe zookeeper stands in front of a pole with 3 signs on it. The top two are pointing to the left. One reads, \"trails\", and the other reads, \"pavilion\". The bottom sign is pointing to the right and reads, \"exit\".\n\nThe zookeeper stands between an open gate door on the left and a building with a door that has a sign on it that reads, \"open\". in the window next to the door is a sign that reads, \"gift shop\".",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5d71148b15c8ca3ccf56d67e",
+        "title": "Quiet Time at the Santa Fe College Teaching Zoo",
+        "description": "For complete details about this event visit:\nhttps://www.sfcollege.edu/zoo/teaching-zoo-events/quiet-time-at-the-zoo",
+        "youtube_id": "1ox3dOhHNaE",
+        "created_at": 20190905135835,
+        "updated_at": 20190905143936,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 101
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59b9d547c6c4802622d9c0ea",
+                        "video": "59b8af42c6c4802622d9c09c",
+                        "audio_description": "59b8af42c6c4802622d9c09b",
+                        "user": "59b5dc7ac6c4802622d9bff7",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 13.85142,
+                        "end_time": 23.510921133786848,
+                        "duration": 9.659501133786849,
+                        "file_name": "c6KD-kOqwpE_59b9d547c6c4802622d9c0ea.wav",
+                        "file_size_bytes": 1703980,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/c6KD-kOqwpE",
+                        "created_at": 20170914010303,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131e4dd66bb308b9c55923",
+                                "sentence": " A bar graph shows that non disabled americans are employed at nearly twice as much as disabled americans.",
+                                "start_time": 1.08,
+                                "end_time": 6.91
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59b8af42c6c4802622d9c09b",
+                "video": "59b8af42c6c4802622d9c09c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59b5dc7ac6c4802622d9bff7",
+                    "email": "samanthahorry@gmail.com",
+                    "name": "Samantha Horry",
+                    "given_name": "Samantha",
+                    "picture": "https://lh4.googleusercontent.com/-QSmfNudsy0M/AAAAAAAAAAI/AAAAAAAAAAA/APJypA3Kuax2ed5bb9JLj1XLJIjMH_bP7Q/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "107619337077204950750",
+                    "last_login": 20170911004442,
+                    "token": "885d00f7182bad7933c4e1756c1218b9a17e26ddafccd6ef6dd782c4fb7ad788",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170913040834,
+                "updated_at": 20170914005544,
+                "notes": "A Bar graph shows that non disabled americans are employed nearly twice as much as disabled americans. ",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [],
+                "_id": "59b9d497c6c4802622d9c0e4",
+                "video": "59b8af42c6c4802622d9c09c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59b9d389c6c4802622d9c0de",
+                    "email": "tobogganlad@gmail.com",
+                    "name": "Nathaniel Levy",
+                    "given_name": "Nathaniel",
+                    "picture": "https://lh5.googleusercontent.com/-2C2MChWi_Kg/AAAAAAAAAAI/AAAAAAAADEU/CLPxZA8L7ck/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "103768743256223754834",
+                    "last_login": 20170914005537,
+                    "token": "a175794472e660589b195b04a1edb24fdd60046612cc08a0d3b61d0e15941032",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20170914010007,
+                "updated_at": 20170914010007,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59b8af42c6c4802622d9c09c",
+        "title": "employment movie",
+        "description": "",
+        "youtube_id": "c6KD-kOqwpE",
+        "created_at": 20170913040834,
+        "updated_at": 20170914010303,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

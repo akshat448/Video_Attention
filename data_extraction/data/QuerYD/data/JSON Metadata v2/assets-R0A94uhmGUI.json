@@ -1,0 +1,222 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c37e30fe74835797434a06f",
+                        "video": null,
+                        "audio_description": null,
+                        "user": "5c368d1be74835797434a057",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 1.5,
+                        "end_time": 1.5,
+                        "duration": 0,
+                        "file_name": null,
+                        "file_size_bytes": 44,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/R0A94uhmGUI",
+                        "created_at": 20190111002759,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5c37e534b6c5060942091f50",
+                        "video": "5c37e068e74835797434a06b",
+                        "audio_description": "5c37e30fe74835797434a070",
+                        "user": "5c368d1be74835797434a057",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 2.763141,
+                        "end_time": 2.763141,
+                        "duration": 0,
+                        "file_name": "R0A94uhmGUI_5c37e534b6c5060942091f50.wav",
+                        "file_size_bytes": 44,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/R0A94uhmGUI",
+                        "created_at": 20190111003708,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5c37e30fe74835797434a070",
+                "video": "5c37e068e74835797434a06b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c368d1be74835797434a057",
+                    "email": "colynsavage@gmail.com",
+                    "name": "Colyn Savage",
+                    "given_name": "Colyn",
+                    "picture": "https://lh4.googleusercontent.com/-Kzqe4JiAAfg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbvnTuJdkzG45ZOrSrH757wL3N-2w/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116958152693688284983",
+                    "last_login": 20190111003611,
+                    "token": "5ac0668e18672877eccb2ca2527ecb8655db63010279960770162bc99f029e8e",
+                    "__v": 0,
+                    "updated_at": 20190111003611,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20190111002759,
+                "updated_at": 20190111002759,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c3ce9ce7f5cb40cc42f0f0b",
+                        "video": "5c37e068e74835797434a06b",
+                        "audio_description": "5c37e59eb6c5060942091f52",
+                        "user": "5c37daf2e74835797434a064",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0.545214,
+                        "end_time": 0.545214,
+                        "duration": 7.151746031746032,
+                        "file_name": "R0A94uhmGUI_5c3ce9ce7f5cb40cc42f0f0b.wav",
+                        "file_size_bytes": 1261612,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/R0A94uhmGUI",
+                        "created_at": 20190114195806,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f7f",
+                                "sentence": " Text on screen",
+                                "start_time": 0.42,
+                                "end_time": 2
+                            },
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f7e",
+                                "sentence": " western Washington university",
+                                "start_time": 2.1,
+                                "end_time": 4.5
+                            },
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f7d",
+                                "sentence": " active minds changing lives.",
+                                "start_time": 4.5,
+                                "end_time": 7.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3cea49792ed604f8cd7131",
+                        "video": "5c37e068e74835797434a06b",
+                        "audio_description": "5c37e59eb6c5060942091f52",
+                        "user": "5c37daf2e74835797434a064",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 2.115743,
+                        "end_time": 67.87465456462584,
+                        "duration": 65.75891156462585,
+                        "file_name": "R0A94uhmGUI_5c3cea49792ed604f8cd7131.wav",
+                        "file_size_bytes": 11599916,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/R0A94uhmGUI",
+                        "created_at": 20190114200009,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f73e",
+                                "sentence": " An aerial shot glides over the university soccer field with the text fall. Quarter highlights 2018 slash 19.",
+                                "start_time": 0.69,
+                                "end_time": 8.21
+                            },
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f73d",
+                                "sentence": " An aerial shot zooms over the campus on a bright afternoon. A time lapse on the beach shows the sun setting and clouds rushing by. And it transitions to a slow zoom on a snowy mountain, which cuts to an aerial view of the bustling red square during info. Fair",
+                                "start_time": 8.21,
+                                "end_time": 22.52
+                            },
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f73c",
+                                "sentence": " and ariel! Look of old main brings us to a golden evening on the water with a man paddle boarding a time lapse of the sun setting on the water on a cloudy day.",
+                                "start_time": 22.63,
+                                "end_time": 31.55
+                            },
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f73b",
+                                "sentence": " Then a time lapse of golden hour from the Outlook by the performing arts center",
+                                "start_time": 31.55,
+                                "end_time": 35.58
+                            },
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f73a",
+                                "sentence": " to moving shots on the ground show the old main lawn before and after the leaves have fallen.",
+                                "start_time": 35.85,
+                                "end_time": 41.19
+                            },
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f739",
+                                "sentence": " Moving day is a hustle and bustle as new students carry their belongings. At info fair, we see two students walking together in a variety of different booths,",
+                                "start_time": 41.19,
+                                "end_time": 49.87
+                            },
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f738",
+                                "sentence": " shots of a band plane, professors and dress robes, and new students gathered inside for an orientation.",
+                                "start_time": 49.91,
+                                "end_time": 55.65
+                            },
+                            {
+                                "_id": "5e1b11109d74eb21e1d1f737",
+                                "sentence": " Outside. A group of students cheer and wave go! Viking signs! While a man in a viking hat waves a flag as hordes of students walk under the sky bridge.",
+                                "start_time": 55.83,
+                                "end_time": 64.46
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c37e59eb6c5060942091f52",
+                "video": "5c37e068e74835797434a06b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c37daf2e74835797434a064",
+                    "email": "aikenmuller24@gmail.com",
+                    "name": "Aiken Muller",
+                    "given_name": "Aiken",
+                    "picture": "https://lh4.googleusercontent.com/-031ylLZ7alI/AAAAAAAAAAI/AAAAAAAAAC4/KRTQJrRPOvs/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "108932202095725150465",
+                    "last_login": 20190114194655,
+                    "token": "b9b5cb1d3a116f3ee72fb08cbdcd99b6d759da2762c735e37843acf3d8f9ad3e",
+                    "__v": 0,
+                    "updated_at": 20190114194655,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190111003854,
+                "updated_at": 20190111003854,
+                "notes": "A title screen says Western Washington University, Active Minds Changing Lives\n\nAn aerial shot glides over the university soccer field with the text Fall Quarter Highlights 2018/19\n\nAn aerial shot zooms over the campus on a bright afternoon\n\nA timelapse on the beach shows the sunsetting and clouds whooshing by \n\nIt Transitions to a slow zoom on snowy mountains\n\nWhich cuts to an aerial view of the bustling red square during info fair\n\nA shot of The sun peaks over the mountains \n\nThen an ariel look of old main brings us to a golden evening on the water with a man paddle boarding \n\nA time lapse of the sun setting on the water on a cloudy day\n\nThen a timelapse of golden hour from the outlook by the Performing Arts Center\n\nTwo moving shots on the ground show the Old Main lawn before and after the leaves have fallen\n\nMove in day is a hustle and bustle as new students carry their belongings\n\nAt info fair we see two students walking together and a variety  going to different booths\n\nShots of a band playing,\n\nProfessors  in dress robes\n\nand the new students gathering inside for an orientation\n\nOutside,A group of students cheer and wave go vikings signs\n\nWhile A man in  a viking hat waves a flag as hordes of students walk under the sky bridge\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5c37e068e74835797434a06b",
+        "title": "fall recap 2018 19",
+        "description": "",
+        "youtube_id": "R0A94uhmGUI",
+        "created_at": 20190111001640,
+        "updated_at": 20190114200055,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 237
+    }
+}

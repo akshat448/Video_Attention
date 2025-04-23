@@ -1,0 +1,99 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7fb0738302113cc4be5037",
+                        "video": "5d7faed98302113cc4be5036",
+                        "audio_description": "5d7faed98302113cc4be5035",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "Advanced Tech Description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 27.733333333333334,
+                        "duration": 27.733333333333334,
+                        "file_name": "osVxO-RA-pE_5d7fb0738302113cc4be5037.wav",
+                        "file_size_bytes": 5324844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/osVxO-RA-pE",
+                        "created_at": 20190916155531,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51952d9a8b1f3b420811a0",
+                                "sentence": " Two male students work in a robotic arm. Tax rates, advanced integrated technology. This program will help you give an employment in the high tech technology, industrial manufacturing fields.",
+                                "start_time": 0,
+                                "end_time": 8.87
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b4208119f",
+                                "sentence": " Male student makes adjustments to a relay board, tax rates careers, graduates obtain employment in manufacturing planes repair shops and a whole lot more",
+                                "start_time": 8.87,
+                                "end_time": 16.07
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b4208119e",
+                                "sentence": " male students make adjustments to a long device with multiple small parts. Tax rates, like the program and associate degree in just 16 months or certificate and even less time",
+                                "start_time": 16.07,
+                                "end_time": 23.83
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b4208119d",
+                                "sentence": " female students stands in a robotic lab text reads. You've got this.",
+                                "start_time": 23.83,
+                                "end_time": 27.52
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7faed98302113cc4be5035",
+                "video": "5d7faed98302113cc4be5036",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190916154841,
+                "updated_at": 20190916154841,
+                "notes": "2 male students work on a robotic arm\r\nText Reads:\r\nAdvanced Integrated Technology\r\nThis program will help you gain employment in the high tech technology, industrial, and manufacturing fields.\r\n\r\nA male student makes adjustments to a relay board\r\nText reads:\r\nCareers \r\nGraduates obtain employment in manufacturing plants, repair shops and a whole lot more!\r\n\r\nMale students make adjustments to a long device with multiple small parts\r\nText reads:\r\nLength of Program\r\nEarn an associate degree in just 16 months or a certificate in even less time. \r\n\r\nA female student stands in a robotic lab. \r\nText reads:\r\nYou've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Advanced Integrated Technology",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5d7faed98302113cc4be5036",
+        "title": "Advanced Integrated Technology",
+        "description": "Information on the Advanced Integrated Technology program.",
+        "youtube_id": "osVxO-RA-pE",
+        "created_at": 20190916154841,
+        "updated_at": 20190916155531,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

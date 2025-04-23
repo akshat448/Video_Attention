@@ -1,0 +1,97 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5746e13dfd851a40b4",
+                        "audio_description": "58e7cf3046e13dfd851a2350",
+                        "created_at": 20150425142153,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425142153,
+                        "file_name": "14299969133021.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1941,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13237,
+                        "video": "58e7cf2846e13dfd851a1ba8",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.62,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bea67c75183e4aae14",
+                                "sentence": " Max, a young boy sits at a desk with a bowl of food, a no spill cup and a banana in front of him.",
+                                "start_time": 0.95,
+                                "end_time": 7.75
+                            },
+                            {
+                                "_id": "5e30a4bea67c75183e4aae13",
+                                "sentence": " His intervene, a bath sets next to him and helps him to sign eat.",
+                                "start_time": 7.75,
+                                "end_time": 11.96
+                            },
+                            {
+                                "_id": "5e30a4bea67c75183e4aae12",
+                                "sentence": " She pushes the bowl to him and supports him while he eats with a spoon.",
+                                "start_time": 11.96,
+                                "end_time": 16.6
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2350",
+                "status": "published",
+                "legacy_video_id": 1941,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1ba8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "gestures",
+            "intervener",
+            "deaf-blind",
+            "OHOA learning modules"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ba8",
+        "description": "",
+        "youtube_id": "fbgMz9omXik",
+        "views": 0,
+        "created_at": 20150425142114,
+        "title": "NCDB 6 LA 22 M+B breakfast finish gesture to mouth 2-13 - Module 7",
+        "legacy_video_id": 1941,
+        "updated_at": 20150425142153,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 21
+    }
+}

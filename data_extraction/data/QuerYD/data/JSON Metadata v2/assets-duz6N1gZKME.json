@@ -1,0 +1,163 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b137db65eb2f317e6b8e33b",
+                        "video": "5b137db65eb2f317e6b8e33d",
+                        "audio_description": "5b137db65eb2f317e6b8e33c",
+                        "user": "5b137bd35eb2f317e6b8e33a",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 30.187874,
+                        "end_time": 30.187874,
+                        "duration": 5.108390022675737,
+                        "file_name": "duz6N1gZKME_5b137db65eb2f317e6b8e33b.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/duz6N1gZKME",
+                        "created_at": 20180603053342,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380772b595d544c54eb2c7",
+                                "sentence": " Jack holds up picture of giant steps logger.",
+                                "start_time": 0.6,
+                                "end_time": 4.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b137e615eb2f317e6b8e340",
+                        "video": "5b137db65eb2f317e6b8e33d",
+                        "audio_description": "5b137db65eb2f317e6b8e33c",
+                        "user": "5b137bd35eb2f317e6b8e33a",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 95.632164,
+                        "end_time": 95.632164,
+                        "duration": 7.801904761904762,
+                        "file_name": "duz6N1gZKME_5b137e615eb2f317e6b8e340.wav",
+                        "file_size_bytes": 1376300,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/duz6N1gZKME",
+                        "created_at": 20180603053633,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380773b595d544c54eb2e5",
+                                "sentence": " Jack holds up a picture of himself in text with ingrid at the charity events",
+                                "start_time": 0.64,
+                                "end_time": 6.21
+                            },
+                            {
+                                "_id": "5e380773b595d544c54eb2e4",
+                                "sentence": " in 2016.",
+                                "start_time": 6.21,
+                                "end_time": 7.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b137eaa5eb2f317e6b8e341",
+                        "video": "5b137db65eb2f317e6b8e33d",
+                        "audio_description": "5b137db65eb2f317e6b8e33c",
+                        "user": "5b137bd35eb2f317e6b8e33a",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 2.786394557823129,
+                        "file_name": "duz6N1gZKME_5b137eaa5eb2f317e6b8e341.wav",
+                        "file_size_bytes": 491564,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/duz6N1gZKME",
+                        "created_at": 20180603053746,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380772b595d544c54eb281",
+                                "sentence": " Beginning of the video.",
+                                "start_time": 0.8,
+                                "end_time": 2.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b137ec35eb2f317e6b8e342",
+                        "video": "5b137db65eb2f317e6b8e33d",
+                        "audio_description": "5b137db65eb2f317e6b8e33c",
+                        "user": "5b137bd35eb2f317e6b8e33a",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 143.001477,
+                        "end_time": 143.001477,
+                        "duration": 2.414875283446712,
+                        "file_name": "duz6N1gZKME_5b137ec35eb2f317e6b8e342.wav",
+                        "file_size_bytes": 426028,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/duz6N1gZKME",
+                        "created_at": 20180603053811,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380772b595d544c54eb266",
+                                "sentence": " End of video.",
+                                "start_time": 0.64,
+                                "end_time": 2.27
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b137db65eb2f317e6b8e33c",
+                "video": "5b137db65eb2f317e6b8e33d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b137bd35eb2f317e6b8e33a",
+                    "email": "jackh3751@gmail.com",
+                    "name": "jack bart",
+                    "given_name": "jack",
+                    "picture": "https://lh4.googleusercontent.com/-L6bylEvwR1E/AAAAAAAAAAI/AAAAAAAAABY/nCTOiqxvCjU/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113013300214342370439",
+                    "last_login": 20180603052539,
+                    "token": "0aab09b620df4e106c9d44fc1d6ac3299b1752b4ad1e02f680d41a371ae0a043",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-au",
+                "created_at": 20180603053342,
+                "updated_at": 20180605224121,
+                "notes": "30.25 holds picture 1 up\r\n\r\n1.37.8 holds picture 2 up",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 8,
+                "admin_review": "",
+                "feedbacks": {
+                    "7": 1
+                }
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5b137db65eb2f317e6b8e33d",
+        "title": "Untitled Sun Jun 03 2018 12 33 26 GMT 1000 AEST 1",
+        "description": "",
+        "youtube_id": "duz6N1gZKME",
+        "created_at": 20180603053342,
+        "updated_at": 20180603053811,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 144
+    }
+}

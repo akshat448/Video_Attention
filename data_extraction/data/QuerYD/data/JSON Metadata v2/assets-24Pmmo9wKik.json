@@ -1,0 +1,142 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4046e13dfd851a2aa9",
+                        "audio_description": "58e7cf2b46e13dfd851a20c8",
+                        "created_at": 20130924131628,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130924131628,
+                        "file_name": "1380053788215.wav",
+                        "start_time": 2.63,
+                        "legacy_video_id": 1323,
+                        "legacy_user_id": 83,
+                        "label": "",
+                        "legacy_audio_clip_id": 3962,
+                        "video": "58e7cf2846e13dfd851a194b",
+                        "end_time": 2.63,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20b7",
+                        "transcript": [
+                            {
+                                "_id": "5e1c71c98fa8029f79acfb9b",
+                                "sentence": " Animation. Mr. Dean is a blue cartoon character with big eyes covered by square glasses.",
+                                "start_time": 0.06,
+                                "end_time": 6.59
+                            },
+                            {
+                                "_id": "5e1c71c98fa8029f79acfb9a",
+                                "sentence": " He's wearing a t shirt with a letter d on it and a pair of shorts.",
+                                "start_time": 6.61,
+                                "end_time": 11.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2aaa",
+                        "audio_description": "58e7cf2b46e13dfd851a20c8",
+                        "created_at": 20130924131706,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130924131706,
+                        "file_name": "1380053826065.wav",
+                        "start_time": 10.084,
+                        "legacy_video_id": 1323,
+                        "legacy_user_id": 83,
+                        "label": "",
+                        "legacy_audio_clip_id": 3963,
+                        "video": "58e7cf2846e13dfd851a194b",
+                        "end_time": 10.084,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20b7",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb997b1",
+                                "sentence": " Mister d is in a bedroom, goes to a desk and types. You describe that org on a computer.",
+                                "start_time": 0.07,
+                                "end_time": 7.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2aab",
+                        "audio_description": "58e7cf2b46e13dfd851a20c8",
+                        "created_at": 20130924131806,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130924131806,
+                        "file_name": "1380053886456.wav",
+                        "start_time": 14.487,
+                        "legacy_video_id": 1323,
+                        "legacy_user_id": 83,
+                        "label": "",
+                        "legacy_audio_clip_id": 3966,
+                        "video": "58e7cf2846e13dfd851a194b",
+                        "end_time": 14.487,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20b7",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74660f499aae4b2ce14c",
+                                "sentence": " At the bottom of the screen appears to phrase describe what you see.",
+                                "start_time": 0.33,
+                                "end_time": 5.34
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20c8",
+                "status": "published",
+                "legacy_video_id": 1323,
+                "legacy_user_id": 83,
+                "video": "58e7cf2846e13dfd851a194b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20b7",
+                    "name": "mvdiaz",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20141205043002,
+                    "legacy_user_id": 83,
+                    "last_login": 0,
+                    "email": "mvdiaz@dicapta.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a194b",
+        "description": "",
+        "youtube_id": "24Pmmo9wKik",
+        "views": 0,
+        "created_at": 20130924131526,
+        "title": "Description Tutorial #1: Describe what you see",
+        "legacy_video_id": 1323,
+        "updated_at": 20130924131806,
+        "youtube_status": "available",
+        "category": "Science & Technology",
+        "category_id": "28",
+        "duration": 71
+    }
+}

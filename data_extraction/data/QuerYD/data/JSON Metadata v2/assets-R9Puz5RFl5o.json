@@ -1,0 +1,432 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7946e13dfd851a59fb",
+                        "audio_description": "58e7cf3646e13dfd851a263b",
+                        "created_at": 20160630160900,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160630160900,
+                        "file_name": "14673281403241.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2616,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23486,
+                        "video": "58e7cf2946e13dfd851a1e4b",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44293179f74cbc7c082e87",
+                                "sentence": " A young student and a plaid shirt and his intervenor work together at a desk.",
+                                "start_time": 0.04,
+                                "end_time": 4
+                            },
+                            {
+                                "_id": "5e44293179f74cbc7c082e86",
+                                "sentence": " On the right. The intervenor",
+                                "start_time": 4.07,
+                                "end_time": 6.01
+                            },
+                            {
+                                "_id": "5e44293179f74cbc7c082e85",
+                                "sentence": " is holding a dark black pen in her right hand and is dragging her index finger up a page in the direction of an arrow drawn on a page in front of them.",
+                                "start_time": 6.01,
+                                "end_time": 15.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59fc",
+                        "audio_description": "58e7cf3646e13dfd851a263b",
+                        "created_at": 20160630161302,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160630161302,
+                        "file_name": "14673283828521.wav",
+                        "start_time": 17.624,
+                        "legacy_video_id": 2616,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23488,
+                        "video": "58e7cf2946e13dfd851a1e4b",
+                        "end_time": 17.624,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.04,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44288dc26fa0bc796fd503",
+                                "sentence": " The student now places his left hand on the page with his index finger pointing up the page. The intervenor now outlines the students hand with a black bin as a student holds his hand up with the index finger extended.",
+                                "start_time": 0,
+                                "end_time": 12.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59fd",
+                        "audio_description": "58e7cf3646e13dfd851a263b",
+                        "created_at": 20160630161411,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160630161411,
+                        "file_name": "14673284516161.wav",
+                        "start_time": 33.143,
+                        "legacy_video_id": 2616,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23489,
+                        "video": "58e7cf2946e13dfd851a1e4b",
+                        "end_time": 33.143,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e4429a9a888c4bc7acb6218",
+                                "sentence": " Using the basic outline, the intervenor now fills in where the thumb and fingers would be in the drawing.",
+                                "start_time": 0.25,
+                                "end_time": 6.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59fe",
+                        "audio_description": "58e7cf3646e13dfd851a263b",
+                        "created_at": 20160630161440,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160630161440,
+                        "file_name": "14673284809171.wav",
+                        "start_time": 37.72,
+                        "legacy_video_id": 2616,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23490,
+                        "video": "58e7cf2946e13dfd851a1e4b",
+                        "end_time": 37.72,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e442af3c26fa0bc796fd5f4",
+                                "sentence": " The student taps his left hand with his index finger extended on the drawing several times.",
+                                "start_time": 0,
+                                "end_time": 5.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a59ff",
+                        "audio_description": "58e7cf3646e13dfd851a263b",
+                        "created_at": 20160630161455,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160630161455,
+                        "file_name": "14673284951451.wav",
+                        "start_time": 39.697,
+                        "legacy_video_id": 2616,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23491,
+                        "video": "58e7cf2946e13dfd851a1e4b",
+                        "end_time": 39.697,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e442af3c26fa0bc796fd5c1",
+                                "sentence": " The intervenor uses her left hand with the index finger extended to point up the page.",
+                                "start_time": 0.33,
+                                "end_time": 6.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a5a00",
+                        "audio_description": "58e7cf3646e13dfd851a263b",
+                        "created_at": 20160630161539,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160630161539,
+                        "file_name": "14673285396091.wav",
+                        "start_time": 45.809,
+                        "legacy_video_id": 2616,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23492,
+                        "video": "58e7cf2946e13dfd851a1e4b",
+                        "end_time": 45.809,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44293279f74cbc7c082ebd",
+                                "sentence": " The intervenor now draws a large black arrow in the same direction as the students hand outline.",
+                                "start_time": 0.03,
+                                "end_time": 6.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a5a01",
+                        "audio_description": "58e7cf3646e13dfd851a263b",
+                        "created_at": 20160630161609,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160630161609,
+                        "file_name": "14673285698691.wav",
+                        "start_time": 51.084,
+                        "legacy_video_id": 2616,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23493,
+                        "video": "58e7cf2946e13dfd851a1e4b",
+                        "end_time": 51.084,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.49,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e442f3d79f74cbc7c082f63",
+                                "sentence": " The intervenor extends her left hand, and the student places his right hand on the intervenors hand.",
+                                "start_time": 0.07,
+                                "end_time": 6.07
+                            },
+                            {
+                                "_id": "5e442f3d79f74cbc7c082f62",
+                                "sentence": " She points it in the same direction as the arrow and the outline of the students hand.",
+                                "start_time": 6.32,
+                                "end_time": 10.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a5a02",
+                        "audio_description": "58e7cf3646e13dfd851a263b",
+                        "created_at": 20160630161644,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160630161644,
+                        "file_name": "14673286044421.wav",
+                        "start_time": 56.207,
+                        "legacy_video_id": 2616,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23494,
+                        "video": "58e7cf2946e13dfd851a1e4b",
+                        "end_time": 56.207,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44288dc26fa0bc796fd55a",
+                                "sentence": " The intervenor moves her hand straight up with the index finger extended. As the student continues to follow her hand.",
+                                "start_time": 0.16,
+                                "end_time": 6.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a5a03",
+                        "audio_description": "58e7cf3646e13dfd851a263b",
+                        "created_at": 20160630161728,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160630161728,
+                        "file_name": "14673286481381.wav",
+                        "start_time": 65.18,
+                        "legacy_video_id": 2616,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23495,
+                        "video": "58e7cf2946e13dfd851a1e4b",
+                        "end_time": 65.18,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ba888c4bc7acb60f7",
+                                "sentence": " In the intervenors right hand, she grabs this",
+                                "start_time": 0.55,
+                                "end_time": 3.22
+                            },
+                            {
+                                "_id": "5e44281ba888c4bc7acb60f6",
+                                "sentence": " piece of paper and brings the paper up with their hands as they move them up words together.",
+                                "start_time": 3.22,
+                                "end_time": 7.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a5a04",
+                        "audio_description": "58e7cf3646e13dfd851a263b",
+                        "created_at": 20160630161939,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160630161939,
+                        "file_name": "14673287791031.wav",
+                        "start_time": 67.928,
+                        "legacy_video_id": 2616,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23496,
+                        "video": "58e7cf2946e13dfd851a1e4b",
+                        "end_time": 67.928,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44288ec26fa0bc796fd585",
+                                "sentence": " The intervenor, holding the paper in her right hand, moves the vapor up first, then moves her left hand with her index finger extended.",
+                                "start_time": 0.1,
+                                "end_time": 7.97
+                            },
+                            {
+                                "_id": "5e44288ec26fa0bc796fd584",
+                                "sentence": " The student keeps his right hand tracking the intervenors left hand.",
+                                "start_time": 7.97,
+                                "end_time": 11.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a5a05",
+                        "audio_description": "58e7cf3646e13dfd851a263b",
+                        "created_at": 20160630162049,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160630162049,
+                        "file_name": "14673288491091.wav",
+                        "start_time": 68.595,
+                        "legacy_video_id": 2616,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23497,
+                        "video": "58e7cf2946e13dfd851a1e4b",
+                        "end_time": 68.595,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ca888c4bc7acb617a",
+                                "sentence": " As the intervenor and the student move their hands upwards together, the student tracks their movement with his head.",
+                                "start_time": 0.24,
+                                "end_time": 6.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7946e13dfd851a5a06",
+                        "audio_description": "58e7cf3646e13dfd851a263b",
+                        "created_at": 20160630162414,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160630162414,
+                        "file_name": "14673290547841.wav",
+                        "start_time": 81.351,
+                        "legacy_video_id": 2616,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23499,
+                        "video": "58e7cf2946e13dfd851a1e4b",
+                        "end_time": 81.351,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ca888c4bc7acb6167",
+                                "sentence": " The student and the intervenor are finished with this activity. Intervenor places the piece of paper back on the desk.",
+                                "start_time": 0.18,
+                                "end_time": 6.02
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb6166",
+                                "sentence": " She braces his right hand as she high fives it.",
+                                "start_time": 6.02,
+                                "end_time": 9.18
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a263b",
+                "status": "published",
+                "legacy_video_id": 2616,
+                "legacy_user_id": 3125,
+                "video": "58e7cf2946e13dfd851a1e4b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2637",
+                    "name": "Jhogan13",
+                    "google_user_id_token": "",
+                    "created_at": 20160504150811,
+                    "updated_at": 20160817114117,
+                    "legacy_user_id": 3125,
+                    "last_login": 0,
+                    "email": "Jhogan13@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "deaf-blind",
+            "concept development",
+            "interveners",
+            "communication",
+            "teaching",
+            "module 2",
+            "Sensory System"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e4b",
+        "description": "",
+        "youtube_id": "R9Puz5RFl5o",
+        "views": 0,
+        "created_at": 20160630160532,
+        "title": "Teaching the concept of \"up\" - sensory systems module - Module 2",
+        "legacy_video_id": 2616,
+        "updated_at": 20160630162414,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 83
+    }
+}

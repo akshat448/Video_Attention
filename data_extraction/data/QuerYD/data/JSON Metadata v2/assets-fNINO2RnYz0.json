@@ -1,0 +1,91 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59935689c6c4802622d9be51",
+                        "video": "59935689c6c4802622d9be53",
+                        "audio_description": "59935689c6c4802622d9be52",
+                        "user": "598ab32eaacee334625b5706",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0.349815,
+                        "end_time": 7.687320668934241,
+                        "duration": 7.337505668934241,
+                        "file_name": "fNINO2RnYz0_59935689c6c4802622d9be51.wav",
+                        "file_size_bytes": 1294380,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/fNINO2RnYz0",
+                        "created_at": 20170815201609,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec7e",
+                                "sentence": " A logo appears were being lined with a rainbow mane turning around and stopping Tokyo 1 x per NOKIA.",
+                                "start_time": 0.4,
+                                "end_time": 6.72
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59935689c6c4802622d9be52",
+                "video": "59935689c6c4802622d9be53",
+                "user": {
+                    "opt_in": [],
+                    "_id": "598ab32eaacee334625b5706",
+                    "email": "simonwrightisback@gmail.com",
+                    "name": "Yume Lion VHS Openings",
+                    "given_name": "Yume Lion",
+                    "picture": "https://lh5.googleusercontent.com/-odXlGPlIBH0/AAAAAAAAAAI/AAAAAAAAAHk/H2-o_U7fTa4/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116816886665962031288",
+                    "last_login": 20171221215035,
+                    "token": "3dd30653f785ae41f3974783163fc45781aab6b0315943a30d2c92fc3fed78b3",
+                    "__v": 0,
+                    "updated_at": 20171221215035,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170815201609,
+                "updated_at": 20170830165809,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 3,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 7,
+                "admin_review": "",
+                "feedbacks": {
+                    "0": 1
+                }
+            }
+        ],
+        "tags": [
+            "N900",
+            "Boot",
+            "video",
+            "phone",
+            "mobile",
+            "cell",
+            "nokia"
+        ],
+        "custom_tags": [],
+        "_id": "59935689c6c4802622d9be53",
+        "title": "N900 Boot Video - Yume Lion OS 4.2",
+        "description": "N900 Boot video. Theme : Yume Lion OS 4.2, TOKYO MX for Nokia\r\n\r\nTo download, use http://keephd.com/",
+        "youtube_id": "fNINO2RnYz0",
+        "created_at": 20170815201609,
+        "updated_at": 20170815201609,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 15
+    }
+}

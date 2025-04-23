@@ -1,0 +1,86 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5dbcf02964fca73f9a812509",
+                        "video": "5dbcf02964fca73f9a81250b",
+                        "audio_description": "5dbcf02964fca73f9a81250a",
+                        "user": "5dbce35655e4e43fb00ff2c9",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 63.06133333333333,
+                        "duration": 63.06133333333333,
+                        "file_name": "-WcHPFUwd6U_5dbcf02964fca73f9a812509.wav",
+                        "file_size_bytes": 12107820,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/-WcHPFUwd6U",
+                        "created_at": 20191102025537,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5dbcf02964fca73f9a81250a",
+                "video": "5dbcf02964fca73f9a81250b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5dbce35655e4e43fb00ff2c9",
+                    "email": "miguel.angel.lopez.valle@gmail.com",
+                    "name": "Miguel \u00c1ngel L\u00f3pez Valle",
+                    "given_name": "Miguel \u00c1ngel",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mDUK1Sg3qoiXPt5-aWhsxzJfL7KvU7j1_e1uaet=s96-c",
+                    "locale": "es",
+                    "google_user_id": "114441449571822836571",
+                    "last_login": 20191102082439,
+                    "token": "e3f65365364040760e24c3b046018fba55f0242e3ceb739d7a82682c8d37f469",
+                    "__v": 0,
+                    "updated_at": 20191102082439,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "es-es",
+                "created_at": 20191102025537,
+                "updated_at": 20191102025537,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Tarzan",
+            "Son",
+            "Of",
+            "Man",
+            "Phil",
+            "Collins",
+            "Walt",
+            "Disney",
+            "Company",
+            "Monkeys",
+            "original",
+            "song",
+            "movie",
+            "animation"
+        ],
+        "custom_tags": [],
+        "_id": "5dbcf02964fca73f9a81250b",
+        "title": "Tarzan -Son Of Man (Phil Collins)",
+        "description": "A beautiful song from the movie \"Tarzan\" of Walt Disney company. \r\nI did not make this video, I just added bunch of video parts so the song (Original version) would match the video.\r\nOn this video we can see cute little tarzan grow up into a strong man.\r\n\r\nCopyright to Phil Collins and Disney Company.",
+        "youtube_id": "-WcHPFUwd6U",
+        "created_at": 20191102025537,
+        "updated_at": 20191102025537,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 166
+    }
+}

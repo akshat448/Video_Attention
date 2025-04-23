@@ -1,0 +1,116 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5646e13dfd851a4078",
+                        "audio_description": "58e7cf3046e13dfd851a2339",
+                        "created_at": 20150424194025,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150424194025,
+                        "file_name": "14299296257081.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1918,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13166,
+                        "video": "58e7cf2846e13dfd851a1b91",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 44.76,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f788d6c9183c280f3b",
+                                "sentence": " A student takes an egg out of a carton and hands it to her teacher.",
+                                "start_time": 1,
+                                "end_time": 5.12
+                            },
+                            {
+                                "_id": "5e30a5f788d6c9183c280f3a",
+                                "sentence": " He allows her hands to be on Top of his hands while he breaks the egg and cracks the yoke into a large red bull.",
+                                "start_time": 5.14,
+                                "end_time": 12.09
+                            },
+                            {
+                                "_id": "5e30a5f788d6c9183c280f39",
+                                "sentence": " She then takes another egg out of the carton and hands it to a student sitting to her. Right?",
+                                "start_time": 12.11,
+                                "end_time": 17.48
+                            },
+                            {
+                                "_id": "5e30a5f788d6c9183c280f38",
+                                "sentence": " He smells the egg, shakes his head no, and places it into the hand of a teacher sitting next to him.",
+                                "start_time": 17.48,
+                                "end_time": 23.09
+                            },
+                            {
+                                "_id": "5e30a5f788d6c9183c280f37",
+                                "sentence": " The large red bowl is placed in front of the second student. We briefly see his teacher helping him to break the egg.",
+                                "start_time": 23.48,
+                                "end_time": 30.27
+                            },
+                            {
+                                "_id": "5e30a5f788d6c9183c280f36",
+                                "sentence": " The camera moves back to the first student to show that she is retrieving a 3rd egg and handing it to another student sitting off camera to the left.",
+                                "start_time": 30.27,
+                                "end_time": 37.95
+                            },
+                            {
+                                "_id": "5e30a5f788d6c9183c280f35",
+                                "sentence": " As she pulls out yet another egg. Her intervenor communicates to her that they only needed three eggs.",
+                                "start_time": 37.95,
+                                "end_time": 44.73
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2339",
+                "status": "published",
+                "legacy_video_id": 1918,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1b91",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b91",
+        "description": "",
+        "youtube_id": "5OBvbyAQ68g",
+        "views": 0,
+        "created_at": 20150424193836,
+        "title": "Joint Attention 3 with Chris and Robbie",
+        "legacy_video_id": 1918,
+        "updated_at": 20150424194035,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 59
+    }
+}

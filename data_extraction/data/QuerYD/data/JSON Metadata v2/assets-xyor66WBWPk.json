@@ -1,0 +1,718 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6246e13dfd851a4806",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919210758,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919210758,
+                        "file_name": "14427220788201.wav",
+                        "start_time": 3.479,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15801,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 3.479,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc9b",
+                                "sentence": " Scene opens up from a black screen to a bar at mclaren swear ted most be sitting to the left with his wife tracy mcconnell.",
+                                "start_time": 0.31,
+                                "end_time": 8.41
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc9a",
+                                "sentence": " And to his right is marshall eriksen and Lily aldrin.",
+                                "start_time": 8.41,
+                                "end_time": 12.19
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc99",
+                                "sentence": " And on his left next to tracy mcconnell is robin, she barsky and barney stinson.",
+                                "start_time": 12.19,
+                                "end_time": 16.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4807",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919210859,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919210859,
+                        "file_name": "14427221396371.wav",
+                        "start_time": 18.643,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15803,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 18.643,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3d6ade3300fb247b35fe17",
+                                "sentence": " He congratulates ted for finally getting all the way to marriage. And the whole group cheers.",
+                                "start_time": 0.23,
+                                "end_time": 6.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4808",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919210923,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919210923,
+                        "file_name": "14427221637821.wav",
+                        "start_time": 26.07,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15804,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 26.07,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac151d8af910da52dfd1b",
+                                "sentence": " Being transitions to the wedding altar where tracy mcconnell and ted most be are actually getting married by the priest.",
+                                "start_time": 0.28,
+                                "end_time": 6.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4809",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919210958,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919210958,
+                        "file_name": "14427221981031.wav",
+                        "start_time": 26.913,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15805,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 36.373000000000005,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac151d8af910da52dfd25",
+                                "sentence": " As ted narrates, each face is shown of all the main characters,",
+                                "start_time": 0.22,
+                                "end_time": 4.57
+                            },
+                            {
+                                "_id": "5e3ac151d8af910da52dfd24",
+                                "sentence": " tracy, ted,",
+                                "start_time": 4.57,
+                                "end_time": 6.28
+                            },
+                            {
+                                "_id": "5e3ac151d8af910da52dfd23",
+                                "sentence": " Lily, marshall, barney than robin.",
+                                "start_time": 6.28,
+                                "end_time": 9.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a480a",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919211037,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919211037,
+                        "file_name": "14427222375421.wav",
+                        "start_time": 40.933,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15806,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 45.793,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba64a2079a0da87fe44f",
+                                "sentence": " The two finally kissed and everyone around them clap, celebrates and hugs.",
+                                "start_time": 0.22,
+                                "end_time": 4.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a480b",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919211136,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919211136,
+                        "file_name": "14427222965191.wav",
+                        "start_time": 46.14,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15807,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 64.03999999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.9,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3abbad108b490da613b2f5",
+                                "sentence": " Inches from ted, walking from his absurd apartment to the bar, then him getting splash in the face by wine by robin,",
+                                "start_time": 0.29,
+                                "end_time": 7.53
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b2f4",
+                                "sentence": " then him breaking up with robin.",
+                                "start_time": 7.53,
+                                "end_time": 9.72
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b2f3",
+                                "sentence": " Then next",
+                                "start_time": 9.72,
+                                "end_time": 10.88
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b2f2",
+                                "sentence": " a ted going on",
+                                "start_time": 10.88,
+                                "end_time": 12.3
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b2f1",
+                                "sentence": " a date with another rebound girl at a spall than getting a butterfly ribbon tattoo as a tramp stamp.",
+                                "start_time": 12.3,
+                                "end_time": 17.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a480c",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919211236,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919211236,
+                        "file_name": "14427223561901.wav",
+                        "start_time": 69.044,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15808,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 69.044,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe52a",
+                                "sentence": " Being ben shifts to pet, meeting his butterfly, remove a stellar him falling in love with her with her, fall in love with him, engaging with her,",
+                                "start_time": 0.24,
+                                "end_time": 8.41
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe529",
+                                "sentence": " getting left at the altar by stella than losing his job.",
+                                "start_time": 8.41,
+                                "end_time": 11.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a480d",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919211406,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919211406,
+                        "file_name": "14427224464091.wav",
+                        "start_time": 70.201,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15809,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 84.27099999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab952108b490da613b2a5",
+                                "sentence": " Inches where ted is attacked by a goat. Then he's teaching a college class. Then he's running frantically away from the college class as he realized it was the wrong class.",
+                                "start_time": 0.22,
+                                "end_time": 7.98
+                            },
+                            {
+                                "_id": "5e3ab952108b490da613b2a4",
+                                "sentence": " Then he goes on a date with three different girls, and he breaks up with all of them, knowing that they are not the one that he will marry.",
+                                "start_time": 7.98,
+                                "end_time": 14.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a480e",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919211549,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919211549,
+                        "file_name": "14427225496151.wav",
+                        "start_time": 85.549,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15810,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 99.099,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.55,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3abe41108b490da613b333",
+                                "sentence": " Ancient sir barney confesses to love to rob it at a restaurant. Then robin confesses her love to body at the Top of a skyscraper.",
+                                "start_time": 0.22,
+                                "end_time": 6.57
+                            },
+                            {
+                                "_id": "5e3abe41108b490da613b332",
+                                "sentence": " Then the two get married, and ted leaves a little early and is at the train station of far hampton in a with a little rain pouring outside.",
+                                "start_time": 6.57,
+                                "end_time": 13.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a480f",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919211657,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919211657,
+                        "file_name": "14427226177651.wav",
+                        "start_time": 105.96,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15811,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 115.16999999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac153d8af910da52dfd51",
+                                "sentence": " Stands up and walks over to tracy mcconnell, who hasn't met ted yet, and is holding a bass guitar and a yellow umbrella at the end of",
+                                "start_time": 0.37,
+                                "end_time": 8.5
+                            },
+                            {
+                                "_id": "5e3ac153d8af910da52dfd50",
+                                "sentence": " train station.",
+                                "start_time": 8.5,
+                                "end_time": 9.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4810",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919211745,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919211745,
+                        "file_name": "14427226650021.wav",
+                        "start_time": 115.9,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15812,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 122.55000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3abc32c648ec0da79cd6e2",
+                                "sentence": " To begin to talk after ted pokes tracy mcconnell on the shoulder. And tracy allows ted to go under her yellow umbrella.",
+                                "start_time": 0.24,
+                                "end_time": 6.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4811",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919211834,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919211834,
+                        "file_name": "14427227144581.wav",
+                        "start_time": 143.639,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15813,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 151.56900000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3abbad108b490da613b2fd",
+                                "sentence": " To speak with absolute joy. And as they start to talk about who's and relatives, they point at",
+                                "start_time": 0.26,
+                                "end_time": 5.82
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b2fc",
+                                "sentence": " the umbrella and the initials carved on to.",
+                                "start_time": 5.82,
+                                "end_time": 7.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4812",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919212036,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919212036,
+                        "file_name": "14427228367351.wav",
+                        "start_time": 206.863,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15814,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 215.813,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3abc33c648ec0da79cd707",
+                                "sentence": " The camera zooms out in a couple, ted and traci, and then a train zooms by. And the title of the show how I met your mother comes up.",
+                                "start_time": 0.22,
+                                "end_time": 8.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4813",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919212156,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919212156,
+                        "file_name": "14427229167621.wav",
+                        "start_time": 218.978,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15815,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 218.978,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba66a2079a0da87fe46a",
+                                "sentence": " Credits now appear, and marshall played. I jason segel is shown on the screen.",
+                                "start_time": 0.41,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4814",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919212223,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919212223,
+                        "file_name": "14427229435361.wav",
+                        "start_time": 223.595,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15816,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 223.595,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba06c648ec0da79cd63e",
+                                "sentence": " Lily played as alyson hannigan, shows up on the screen.",
+                                "start_time": 0.51,
+                                "end_time": 4.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4815",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919212242,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919212242,
+                        "file_name": "14427229621501.wav",
+                        "start_time": 227.171,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15817,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 227.171,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3abc31c648ec0da79cd68c",
+                                "sentence": " Funny is played by neil patrick harris.",
+                                "start_time": 0.22,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4816",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919212304,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919212304,
+                        "file_name": "14427229842621.wav",
+                        "start_time": 230.395,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15818,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 230.395,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba64a2079a0da87fe44c",
+                                "sentence": " Harbin is played as kobe smolders.",
+                                "start_time": 0.28,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4817",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919212316,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919212316,
+                        "file_name": "14427229961671.wav",
+                        "start_time": 234.768,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15819,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 234.768,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab953108b490da613b2b8",
+                                "sentence": " Ted is played by josh radner.",
+                                "start_time": 0.62,
+                                "end_time": 3.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4818",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919212336,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919212336,
+                        "file_name": "14427230163091.wav",
+                        "start_time": 239.277,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15820,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 239.277,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab953108b490da613b2ad",
+                                "sentence": " And Last but not least, tracy mcconnell is played by christian meal, low d.",
+                                "start_time": 0.23,
+                                "end_time": 4.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a4819",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919212350,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919212350,
+                        "file_name": "14427230309601.wav",
+                        "start_time": 245.302,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15821,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 245.302,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab953108b490da613b2b0",
+                                "sentence": " The steam pans out to an empty street. Wear a yellow umbrella, is carried by the window way to the distance.",
+                                "start_time": 0.22,
+                                "end_time": 5.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a481a",
+                        "audio_description": "58e7cf3146e13dfd851a2412",
+                        "created_at": 20150919212405,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150919212405,
+                        "file_name": "14427230453351.wav",
+                        "start_time": 253.36,
+                        "legacy_video_id": 2196,
+                        "legacy_user_id": 2308,
+                        "label": "",
+                        "legacy_audio_clip_id": 15822,
+                        "video": "58e7cf2946e13dfd851a1ca7",
+                        "end_time": 253.36,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a2408",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba64a2079a0da87fe449",
+                                "sentence": " Be end.",
+                                "start_time": 0.31,
+                                "end_time": 1.49
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3146e13dfd851a2412",
+                "status": "published",
+                "legacy_video_id": 2196,
+                "legacy_user_id": 2308,
+                "video": "58e7cf2946e13dfd851a1ca7",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3146e13dfd851a2408",
+                    "name": "ilmi",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2308,
+                    "last_login": 0,
+                    "email": "ilmi@sfsu.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ca7",
+        "description": "",
+        "youtube_id": "xyor66WBWPk",
+        "views": 0,
+        "created_at": 20150919210633,
+        "title": "HIMYM ALTERNATE ENDING",
+        "legacy_video_id": 2196,
+        "updated_at": 20150919212405,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 257
+    }
+}

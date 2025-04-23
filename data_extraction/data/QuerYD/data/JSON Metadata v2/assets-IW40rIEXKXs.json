@@ -1,0 +1,80 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4e46e13dfd851a39bd",
+                        "audio_description": "58e7cf2e46e13dfd851a2268",
+                        "created_at": 20150210071050,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150210071050,
+                        "file_name": "14235810505371.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1806,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11139,
+                        "video": "58e7cf2846e13dfd851a1b21",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e219ad3ba17af2e75ca32cf",
+                                "sentence": " Video is three minutes, 42 seconds, and contains no graphics.",
+                                "start_time": 0.42,
+                                "end_time": 5.04
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2e46e13dfd851a2268",
+                "status": "published",
+                "legacy_video_id": 1806,
+                "legacy_user_id": 2415,
+                "video": "58e7cf2846e13dfd851a1b21",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2e46e13dfd851a2256",
+                    "name": "@DescribeVT",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2415,
+                    "last_login": 0,
+                    "email": "braille@vt.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b21",
+        "description": "",
+        "youtube_id": "IW40rIEXKXs",
+        "views": 0,
+        "created_at": 20150210070948,
+        "title": "World Economics - 6 Sold! Wrap it up!",
+        "legacy_video_id": 1806,
+        "updated_at": 20150210071050,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 223
+    }
+}

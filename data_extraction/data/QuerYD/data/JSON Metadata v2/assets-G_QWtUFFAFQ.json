@@ -1,0 +1,153 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf3e46e13dfd851a290c",
+                        "audio_description": "58e7cf2a46e13dfd851a2079",
+                        "created_at": 20130424141436,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130424141436,
+                        "file_name": "G_QWtUFFAFQ-3-1-0-124-0.wav",
+                        "start_time": 124,
+                        "legacy_video_id": 1059,
+                        "legacy_user_id": 3,
+                        "label": "",
+                        "legacy_audio_clip_id": 2398,
+                        "video": "58e7cf2846e13dfd851a189a",
+                        "end_time": 124,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2a46e13dfd851a2078",
+                        "transcript": [
+                            {
+                                "_id": "5e1fc5b03056888db080c550",
+                                "sentence": " Josh taps both thumbs on the table. And the iPhone screen changes to the next bus.",
+                                "start_time": 0.48,
+                                "end_time": 5.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3e46e13dfd851a2932",
+                        "audio_description": "58e7cf2a46e13dfd851a2079",
+                        "created_at": 20130510150436,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130510150436,
+                        "file_name": "G_QWtUFFAFQ-3-1-0-105-0.wav",
+                        "start_time": 105,
+                        "legacy_video_id": 1059,
+                        "legacy_user_id": 3,
+                        "label": "",
+                        "legacy_audio_clip_id": 2578,
+                        "video": "58e7cf2846e13dfd851a189a",
+                        "end_time": 105,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2a46e13dfd851a2078",
+                        "transcript": [
+                            {
+                                "_id": "5e1fc2c5d13e238dae9148b9",
+                                "sentence": " Josh taps different combinations of fingers on the table in front of him to control the iPhone.",
+                                "start_time": 0.02,
+                                "end_time": 5.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3e46e13dfd851a2933",
+                        "audio_description": "58e7cf2a46e13dfd851a2079",
+                        "created_at": 20130510150827,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130510150827,
+                        "file_name": "G_QWtUFFAFQ-3-1-0-10-0.wav",
+                        "start_time": 10,
+                        "legacy_video_id": 1059,
+                        "legacy_user_id": 3,
+                        "label": "",
+                        "legacy_audio_clip_id": 2580,
+                        "video": "58e7cf2846e13dfd851a189a",
+                        "end_time": 10,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2a46e13dfd851a2078",
+                        "transcript": [
+                            {
+                                "_id": "5e1d7084bb71fc20ae603dea",
+                                "sentence": " Josh sits at a table in a conference room. There's an iPhone on the table connected to a speaker.",
+                                "start_time": 0.12,
+                                "end_time": 5.9
+                            },
+                            {
+                                "_id": "5e1d7084bb71fc20ae603de9",
+                                "sentence": " And josh has a pair of prototype electronic devices on the back of his hands.",
+                                "start_time": 5.9,
+                                "end_time": 10.44
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2a46e13dfd851a2079",
+                "status": "published",
+                "legacy_video_id": 1059,
+                "legacy_user_id": 3,
+                "video": "58e7cf2846e13dfd851a189a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2a46e13dfd851a2078",
+                    "name": "Owen",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20150629151743,
+                    "legacy_user_id": 3,
+                    "last_login": 0,
+                    "email": "owen@ski.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Braille",
+            "virtual keyboard",
+            "assistive technology",
+            "iPhone",
+            "VoiceOver",
+            "CSUN",
+            "Dr Joshua Miele",
+            "Smith-Kettlewell",
+            "RERC",
+            "NIDRR"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a189a",
+        "description": "",
+        "youtube_id": "G_QWtUFFAFQ",
+        "views": 0,
+        "created_at": 20121116133635,
+        "title": "",
+        "legacy_video_id": 1059,
+        "updated_at": 20130510150827,
+        "youtube_status": "available",
+        "category": "Science & Technology",
+        "category_id": "28",
+        "duration": 284
+    }
+}

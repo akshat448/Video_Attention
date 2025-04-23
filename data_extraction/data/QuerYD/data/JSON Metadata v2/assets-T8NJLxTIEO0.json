@@ -1,0 +1,88 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4046e13dfd851a2adb",
+                        "audio_description": "58e7cf2b46e13dfd851a20d6",
+                        "created_at": 20131001182729,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131001182729,
+                        "file_name": "1380677249270.wav",
+                        "start_time": 91.672,
+                        "legacy_video_id": 1275,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 4090,
+                        "video": "58e7cf2846e13dfd851a191c",
+                        "end_time": 91.672,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74670f499aae4b2ce162",
+                                "sentence": " Call area eight hundred 2724558, or visit us online at braille institute dot org.",
+                                "start_time": 0,
+                                "end_time": 9.71
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20d6",
+                "status": "published",
+                "legacy_video_id": 1275,
+                "legacy_user_id": 88,
+                "video": "58e7cf2846e13dfd851a191c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20d1",
+                    "name": "jimhull",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20151217172851,
+                    "legacy_user_id": 88,
+                    "last_login": 0,
+                    "email": "jimhull@jimhull.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Braille Institue",
+            "Accessible Technology",
+            "Blind Tech",
+            "Connection Pointe",
+            "Blind Services",
+            "Blindness",
+            "Eye"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a191c",
+        "description": "",
+        "youtube_id": "T8NJLxTIEO0",
+        "views": 0,
+        "created_at": 20130808145205,
+        "title": "Connection Pointe - Braille Institute's new Technology Center",
+        "legacy_video_id": 1275,
+        "updated_at": 20131226170742,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 93
+    }
+}

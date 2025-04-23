@@ -1,0 +1,95 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ea999524c8fed2f0ed85882",
+                        "video": "5ea998064c8fed2f0ed85881",
+                        "audio_description": "5ea998064c8fed2f0ed85880",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "explanation",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 15.616,
+                        "file_name": "LCxXajR866k_5ea999524c8fed2f0ed85882.wav",
+                        "file_size_bytes": 2998316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LCxXajR866k",
+                        "created_at": 20200429151218,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5ea99998e1b8b12f0893d851",
+                        "video": "5ea998064c8fed2f0ed85881",
+                        "audio_description": "5ea998064c8fed2f0ed85880",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "CSU logo",
+                        "playback_type": "extended",
+                        "start_time": 118.229936,
+                        "end_time": 118.229936,
+                        "duration": 4.352,
+                        "file_name": "LCxXajR866k_5ea99998e1b8b12f0893d851.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LCxXajR866k",
+                        "created_at": 20200429151328,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5ea998064c8fed2f0ed85880",
+                "video": "5ea998064c8fed2f0ed85881",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e9f7a4d84f1bb7886752425",
+                    "email": "chhsad201@gmail.com",
+                    "name": "CHHS AD201",
+                    "given_name": "CHHS",
+                    "picture": "https://lh5.googleusercontent.com/-JpwQdP332ew/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOjaGw_XfdNe6Y3TML0kj8gdNHJZA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111438173098375409345",
+                    "last_login": 20201014163508,
+                    "token": "8b25ee0df1dcdee4a1c94ede45a3e8475678aa3b10c76fbf6ea8097a75608fa7",
+                    "__v": 0,
+                    "updated_at": 20201014163508,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200429150646,
+                "updated_at": 20200429150646,
+                "notes": "Scenes switch between DJ Mullaney speaking to the camera, and footage of classes and labs he mentions (including chemistry labs, treadmill walking and people taking blood pressure) DJ has brown hair and is wearing a green CSU polo shirt.\n\nHealth and exercise science\ncolorado state university",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "health and exercise science",
+            "career in physical therapy",
+            "College of Health and Human Sciences",
+            "Colorado State University",
+            "career in sports medicine"
+        ],
+        "custom_tags": [],
+        "_id": "5ea998064c8fed2f0ed85881",
+        "title": "Student Feature: DJ Mullaney, Sports Medicine",
+        "description": "The Sports Medicine concentration is primarily for those students who are interested in pursuing careers in physical therapy, the medical profession, or who plan on continuing their education through graduate study in exercise physiology.\n\nLearn more: http://www.hes.chhs.colostate.edu/students/undergraduate/index.aspx",
+        "youtube_id": "LCxXajR866k",
+        "created_at": 20200429150646,
+        "updated_at": 20200429151328,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 121
+    }
+}

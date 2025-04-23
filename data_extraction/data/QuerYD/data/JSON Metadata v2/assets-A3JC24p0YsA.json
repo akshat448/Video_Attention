@@ -1,0 +1,177 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c0c7e6bd306017427723259",
+                        "video": "5c0c7cfcaf05527dd32a027f",
+                        "audio_description": "5c0c7cfcaf05527dd32a027e",
+                        "user": "5bce4e28dc10fe3887575700",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 1.8784688550415038,
+                        "end_time": 5.035802188374837,
+                        "duration": 3.1573333333333333,
+                        "file_name": "A3JC24p0YsA_5c0c7e6bd306017427723259.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/A3JC24p0YsA",
+                        "created_at": 20181209023107,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a786842d1001b6e11138d",
+                                "sentence": " Simon's cat in catnip.",
+                                "start_time": 0.29,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c0c7ee0af05527dd32a0288",
+                        "video": "5c0c7cfcaf05527dd32a027f",
+                        "audio_description": "5c0c7cfcaf05527dd32a027e",
+                        "user": "5bce4e28dc10fe3887575700",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 5.537644141143799,
+                        "end_time": 79.0096441411438,
+                        "duration": 73.472,
+                        "file_name": "A3JC24p0YsA_5c0c7ee0af05527dd32a0288.wav",
+                        "file_size_bytes": 14106668,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/A3JC24p0YsA",
+                        "created_at": 20181209023304,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1a786742d1001b6e111329",
+                                "sentence": " There are two cats and two beds, one small cat in a small bed, and one big cat in a bigger bed.",
+                                "start_time": 0.24,
+                                "end_time": 6.48
+                            },
+                            {
+                                "_id": "5e1a786742d1001b6e111328",
+                                "sentence": " The small cat is trying to get the attention of the bigger cat.",
+                                "start_time": 6.57,
+                                "end_time": 10.04
+                            },
+                            {
+                                "_id": "5e1a786742d1001b6e111327",
+                                "sentence": " Finally, when the bigger cat doesn't budge, the small cap moves over and tries to cuddle with the big cat. In the bigger bed.",
+                                "start_time": 11.11,
+                                "end_time": 18.71
+                            },
+                            {
+                                "_id": "5e1a786742d1001b6e111326",
+                                "sentence": " The big cat seems very annoyed by this, and once the small catch go back to his own bed,",
+                                "start_time": 22.2,
+                                "end_time": 27.97
+                            },
+                            {
+                                "_id": "5e1a786742d1001b6e111325",
+                                "sentence": " finally the big cat decides to just move to the smaller bed himself,",
+                                "start_time": 38.36,
+                                "end_time": 43.27
+                            },
+                            {
+                                "_id": "5e1a786742d1001b6e111324",
+                                "sentence": " where he barely fits.",
+                                "start_time": 43.27,
+                                "end_time": 45.8
+                            },
+                            {
+                                "_id": "5e1a786742d1001b6e111323",
+                                "sentence": " The big cat, finds a squeaky toy.",
+                                "start_time": 51.16,
+                                "end_time": 53.43
+                            },
+                            {
+                                "_id": "5e1a786742d1001b6e111322",
+                                "sentence": " And the small gap begins to play with that squeaky toy.",
+                                "start_time": 53.43,
+                                "end_time": 57.27
+                            },
+                            {
+                                "_id": "5e1a786742d1001b6e111321",
+                                "sentence": " The big cat seems very irritated by this.",
+                                "start_time": 57.57,
+                                "end_time": 61
+                            },
+                            {
+                                "_id": "5e1a786742d1001b6e111320",
+                                "sentence": " Finally, the small cat just decides to climb on Top of the bigger cat in the smaller bed and go to sleep.",
+                                "start_time": 66.16,
+                                "end_time": 72.52
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c0c7cfcaf05527dd32a027e",
+                "video": "5c0c7cfcaf05527dd32a027f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bce4e28dc10fe3887575700",
+                    "email": "lalexand@udel.edu",
+                    "name": "Lisa Alexander",
+                    "given_name": "Lisa",
+                    "picture": "https://lh3.googleusercontent.com/-le3e23KWssM/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbBuuz7ouoWnVeNwYhZ54rT74G-NYg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "108825293924218378980",
+                    "last_login": 20181209020050,
+                    "token": "021eb53393c3f358f4bacef6e4a4341e2261d1a1f7b23558b82ca48fcdd8483e",
+                    "__v": 0,
+                    "updated_at": 20181209020050,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181209022500,
+                "updated_at": 20181213223911,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Simon's",
+            "Cat",
+            "Kitten",
+            "Chaos",
+            "cute",
+            "fluffy",
+            "beds",
+            "funny",
+            "animation",
+            "cartoon",
+            "kitty",
+            "simon's cat",
+            "simon'scat",
+            "simonscat",
+            "pet cat",
+            "simon tofield"
+        ],
+        "custom_tags": [],
+        "_id": "5c0c7cfcaf05527dd32a027f",
+        "title": "Catnap - Simon's Cat | SHORTS #18",
+        "description": "\"A sleepy kitten wants a cuddle\"\n\n\nDon't forget to SUBSCRIBE!\nhttp://www.youtube.com/subscription_center?add_user=simonscat\n\n\nThe official Simon's Cat website and shop:\n\nOfficial Website: http://www.simonscat.com\nOfficial webshop: https://shop.simonscat.com/\n\n\nStay connected with Simon's Cat on your favourite websites:\n\nFacebook: http://facebook.com/simonscat\nInstagram: https://www.instagram.com/simonscatofficial/\nGoogle+: http://plus.google.com/+SimonsCat\nTwitter: http://twitter.com/SimonsCat\nTumblr: http://simonscat.tumblr.com/\nPinterest: http://pinterest.com/simonscat\n\nThe Simon's Cat Extra Youtube channel for behind the scenes and tutorials: \nhttp://www.youtube.com/simonscatextra\n\nWhat software do you use?\nSimon's Cat is made using Adobe Flash.\n\nIf you want to email us:\ncontact@simonscat.com\n\nThank you for watching :)",
+        "youtube_id": "A3JC24p0YsA",
+        "created_at": 20181209022500,
+        "updated_at": 20181209023304,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 85
+    }
+}

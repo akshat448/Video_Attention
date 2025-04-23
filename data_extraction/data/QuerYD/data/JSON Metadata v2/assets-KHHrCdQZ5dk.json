@@ -1,0 +1,101 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ab27dfdbf2b7e665fdf0b46",
+                        "video": "5ab27dfdbf2b7e665fdf0b48",
+                        "audio_description": "5ab27dfdbf2b7e665fdf0b47",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 14.396371882086168,
+                        "duration": 14.396371882086168,
+                        "file_name": "KHHrCdQZ5dk_5ab27dfdbf2b7e665fdf0b46.wav",
+                        "file_size_bytes": 2539564,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KHHrCdQZ5dk",
+                        "created_at": 20180321154501,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189844e6b8aa6db98ab3a2",
+                                "sentence": " In a gymnastics facility, a group of children at a birthday party slide down the red slide",
+                                "start_time": 0.29,
+                                "end_time": 6.3
+                            },
+                            {
+                                "_id": "5e189844e6b8aa6db98ab3a1",
+                                "sentence": " on to a blue mat on a foam pit.",
+                                "start_time": 6.3,
+                                "end_time": 8.53
+                            },
+                            {
+                                "_id": "5e189844e6b8aa6db98ab3a0",
+                                "sentence": " Then a girl in a pink dress slides down as well, landing on the blue mat.",
+                                "start_time": 8.85,
+                                "end_time": 13.92
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ab27dfdbf2b7e665fdf0b47",
+                "video": "5ab27dfdbf2b7e665fdf0b48",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "59c25b2ec6c4802622d9c1bf",
+                    "email": "rgman1995@gmail.com",
+                    "name": "Ryan G",
+                    "given_name": "Ryan",
+                    "picture": "https://lh3.googleusercontent.com/-NxEEiJBaock/AAAAAAAAAAI/AAAAAAAAAc0/5fcpjk_lXKY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113561788356507984833",
+                    "last_login": 20201230202355,
+                    "token": "27b561de1a2557461b6807ff8a71622302ac468380f084bd313e4b4fc0a8dc39",
+                    "__v": 0,
+                    "updated_at": 20201230202355,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180321154501,
+                "updated_at": 20180322192258,
+                "notes": "In a gymnastics facility, a group of children at a birthday party slide down a red slide to a blue mat on a foam pit. A girl in a pink dress slides down as well, landing on the mat.",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {
+                    "1": 1
+                }
+            }
+        ],
+        "tags": [
+            "MVI",
+            "0873"
+        ],
+        "custom_tags": [],
+        "_id": "5ab27dfdbf2b7e665fdf0b48",
+        "title": "Charlie's 2nd Birthday Party - NYC Elite Gymnastics \"Big Slide\" (MVI_0873.MOV)",
+        "description": "",
+        "youtube_id": "KHHrCdQZ5dk",
+        "created_at": 20180321154501,
+        "updated_at": 20180321154501,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 31
+    }
+}

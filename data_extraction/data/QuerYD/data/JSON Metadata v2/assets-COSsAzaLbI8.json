@@ -1,0 +1,91 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5df094f901edeb4b644273cf",
+                        "video": "5df094a840e8cc4b6f32ed34",
+                        "audio_description": "5df094a840e8cc4b6f32ed33",
+                        "user": "59ea29bf2a385d33db80b937",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 10.794666666666666,
+                        "duration": 10.794666666666666,
+                        "file_name": "COSsAzaLbI8_5df094f901edeb4b644273cf.wav",
+                        "file_size_bytes": 8290348,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/COSsAzaLbI8",
+                        "created_at": 20191211070425,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5df094a840e8cc4b6f32ed33",
+                "video": "5df094a840e8cc4b6f32ed34",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59ea29bf2a385d33db80b937",
+                    "email": "lpalme65669@student.usd373.org",
+                    "name": "Larry Palmer",
+                    "given_name": "Larry",
+                    "picture": "https://lh6.googleusercontent.com/-bd2OZZBWYVE/AAAAAAAAAAI/AAAAAAAAAAA/ACnBePbNA8ByZeuQrqfah1D8MeY2t6AZhA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "107558393595913301097",
+                    "last_login": 20191211070113,
+                    "token": "e9ac5820f66500311706bf26cc0ea4d0db5eaa11c3f2c2f63b73ce80a02dfe86",
+                    "__v": 0,
+                    "updated_at": 20191211070113,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20191211070304,
+                "updated_at": 20191216233450,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 1,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 1,
+                "admin_review": "",
+                "feedbacks": {
+                    "7": 1
+                }
+            }
+        ],
+        "tags": [
+            "Dopey",
+            "Wild",
+            "Mine",
+            "Ride",
+            "Snow White",
+            "Seven",
+            "Dwarfs",
+            "Bashful",
+            "Happy",
+            "Queen",
+            "Grumpy",
+            "Sneezy",
+            "Doc",
+            "Sleepy"
+        ],
+        "custom_tags": [],
+        "_id": "5df094a840e8cc4b6f32ed34",
+        "title": "Dopey's Wild Mine Ride",
+        "description": "I'd like to use this bonus feature for my future movie.",
+        "youtube_id": "COSsAzaLbI8",
+        "created_at": 20191211070304,
+        "updated_at": 20191211070425,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 705
+    }
+}

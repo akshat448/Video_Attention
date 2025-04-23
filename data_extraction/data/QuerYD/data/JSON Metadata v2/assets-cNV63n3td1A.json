@@ -1,0 +1,162 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5ba0",
+                        "audio_description": "58e7cf3546e13dfd851a25c6",
+                        "created_at": 20160824123511,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824123511,
+                        "file_name": "14720673115931.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2678,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24062,
+                        "video": "58e7cf2946e13dfd851a1e89",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 29.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cc20",
+                                "sentence": " A young light skinned male, student and adult are walking down a hallway together.",
+                                "start_time": 0.56,
+                                "end_time": 5.97
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc1f",
+                                "sentence": " The adult is holding the very end of a cane, and the student is holding further down the handle of the cane.",
+                                "start_time": 6.01,
+                                "end_time": 12.14
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc1e",
+                                "sentence": " The student moves the cane from side to side. After a few steps, the student moves that came directly towards the wall",
+                                "start_time": 12.44,
+                                "end_time": 19.59
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc1d",
+                                "sentence": " with a window and walks straight for the window.",
+                                "start_time": 19.64,
+                                "end_time": 23.46
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc1c",
+                                "sentence": " When they reached the window, the student taps on the glass with an open hand.",
+                                "start_time": 24.44,
+                                "end_time": 28.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5ba1",
+                        "audio_description": "58e7cf3546e13dfd851a25c6",
+                        "created_at": 20160824123618,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824123618,
+                        "file_name": "14720673784641.wav",
+                        "start_time": 12,
+                        "legacy_video_id": 2678,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24063,
+                        "video": "58e7cf2946e13dfd851a1e89",
+                        "end_time": 12,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 19.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268979f74cbc7c082da0",
+                                "sentence": " The student stops tapping on the glass window.",
+                                "start_time": 0.09,
+                                "end_time": 3.44
+                            },
+                            {
+                                "_id": "5e44268979f74cbc7c082d9f",
+                                "sentence": " He feels the brick wall and knocks on the bricks.",
+                                "start_time": 3.44,
+                                "end_time": 6.75
+                            },
+                            {
+                                "_id": "5e44268979f74cbc7c082d9e",
+                                "sentence": " They then walked down the hallway further, feeling the brick wall",
+                                "start_time": 7.01,
+                                "end_time": 11.53
+                            },
+                            {
+                                "_id": "5e44268979f74cbc7c082d9d",
+                                "sentence": " as they walk for a few steps,",
+                                "start_time": 12.79,
+                                "end_time": 15.16
+                            },
+                            {
+                                "_id": "5e44268979f74cbc7c082d9c",
+                                "sentence": " And Then They walk further down the hall",
+                                "start_time": 15.16,
+                                "end_time": 17.94
+                            },
+                            {
+                                "_id": "5e44268979f74cbc7c082d9b",
+                                "sentence": " as the video ends.",
+                                "start_time": 17.94,
+                                "end_time": 19.54
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25c6",
+                "status": "published",
+                "legacy_video_id": 2678,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e89",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e89",
+        "description": "",
+        "youtube_id": "cNV63n3td1A",
+        "views": 0,
+        "created_at": 20160824123403,
+        "title": "J beelines for window; coactive cane tech",
+        "legacy_video_id": 2678,
+        "updated_at": 20160824123618,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 23
+    }
+}

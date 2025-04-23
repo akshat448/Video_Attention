@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7d46e13dfd851a5c96",
+                        "audio_description": "58e7cf2d46e13dfd851a21f6",
+                        "created_at": 20160928174219,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160928174219,
+                        "file_name": "14751097390411.wav",
+                        "start_time": 4.443,
+                        "legacy_video_id": 2721,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 24413,
+                        "video": "58e7cf2946e13dfd851a1eb4",
+                        "end_time": 4.443,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 18.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e45b702a3885227afb5caf5",
+                                "sentence": " An adult sitting on the floor to preschool classroom uses the hand under hand technique to interact with a toddler, a young boy sitting on her lap.",
+                                "start_time": 0.15,
+                                "end_time": 9.62
+                            },
+                            {
+                                "_id": "5e45b702a3885227afb5caf4",
+                                "sentence": " The adult guides the toddlers hands to make the sign for music",
+                                "start_time": 9.76,
+                                "end_time": 14.39
+                            },
+                            {
+                                "_id": "5e45b702a3885227afb5caf3",
+                                "sentence": " and engages in hand motions as she sings the song with the dod le.",
+                                "start_time": 14.39,
+                                "end_time": 18.58
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21f6",
+                "status": "published",
+                "legacy_video_id": 2721,
+                "legacy_user_id": 2298,
+                "video": "58e7cf2946e13dfd851a1eb4",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21f0",
+                    "name": "parkera",
+                    "google_user_id_token": "",
+                    "created_at": 20140626172125,
+                    "updated_at": 20160929202638,
+                    "legacy_user_id": 2298,
+                    "last_login": 0,
+                    "email": "parkera@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1eb4",
+        "description": "",
+        "youtube_id": "ALXYLq5STlM",
+        "views": 0,
+        "created_at": 20160928173905,
+        "title": "Establishing Trust - Joel, Touch 2",
+        "legacy_video_id": 2721,
+        "updated_at": 20160928174219,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 44
+    }
+}

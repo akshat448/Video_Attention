@@ -1,0 +1,122 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b56",
+                        "audio_description": "58e7cf3546e13dfd851a25b8",
+                        "created_at": 20160823112807,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160823112807,
+                        "file_name": "14719768873971.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2664,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23979,
+                        "video": "58e7cf2946e13dfd851a1e7b",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 39.9,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44243df8a7edbc7bf679a0",
+                                "sentence": " A young light skinned male students. It's in a supportive wheelchair, holding a modified cane made from plastic piping.",
+                                "start_time": 0.89,
+                                "end_time": 8.96
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf6799f",
+                                "sentence": " The cane is in the shape of a capital I",
+                                "start_time": 9.07,
+                                "end_time": 12.05
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf6799e",
+                                "sentence": " the student holds onto the short flat bar on one side, while the other short flat bar on the other end",
+                                "start_time": 12.28,
+                                "end_time": 19.68
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf6799d",
+                                "sentence": " rolls on the ground.",
+                                "start_time": 19.68,
+                                "end_time": 21.28
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf6799c",
+                                "sentence": " The side that is on the ground has a larger pipe around",
+                                "start_time": 22.92,
+                                "end_time": 27.72
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf6799b",
+                                "sentence": " that rolls around the thinner bar.",
+                                "start_time": 27.72,
+                                "end_time": 30.3
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf6799a",
+                                "sentence": " An adult woman guides the students hands",
+                                "start_time": 31.2,
+                                "end_time": 34.56
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf67999",
+                                "sentence": " to the handle bar, and they move slowly down the hallway together.",
+                                "start_time": 34.74,
+                                "end_time": 38.86
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25b8",
+                "status": "published",
+                "legacy_video_id": 2664,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e7b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e7b",
+        "description": "",
+        "youtube_id": "81kd2SbB0qM",
+        "views": 0,
+        "created_at": 20160823111646,
+        "title": "Mary Tellefson Request: Andrew (6 of 8)",
+        "legacy_video_id": 2664,
+        "updated_at": 20160823112807,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 32
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59c2863fc6c4802622d9c1cc",
+                        "video": "59c2860cc6c4802622d9c1cb",
+                        "audio_description": "59c2860cc6c4802622d9c1ca",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 9.47374149659864,
+                        "duration": 9.47374149659864,
+                        "file_name": "2_Z1KdMtDD4_59c2863fc6c4802622d9c1cc.wav",
+                        "file_size_bytes": 1671212,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2_Z1KdMtDD4",
+                        "created_at": 20170920151615,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593fc0",
+                                "sentence": " A blue train carrying red passenger cars with people pulls out of the station while passing through a railroad crossing.",
+                                "start_time": 0.59,
+                                "end_time": 8.06
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59c2860cc6c4802622d9c1ca",
+                "video": "59c2860cc6c4802622d9c1cb",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "59c25b2ec6c4802622d9c1bf",
+                    "email": "rgman1995@gmail.com",
+                    "name": "Ryan G",
+                    "given_name": "Ryan",
+                    "picture": "https://lh3.googleusercontent.com/-NxEEiJBaock/AAAAAAAAAAI/AAAAAAAAAc0/5fcpjk_lXKY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113561788356507984833",
+                    "last_login": 20201230202355,
+                    "token": "27b561de1a2557461b6807ff8a71622302ac468380f084bd313e4b4fc0a8dc39",
+                    "__v": 0,
+                    "updated_at": 20201230202355,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170920151524,
+                "updated_at": 20170926134808,
+                "notes": "A blue train carrying red passenger cars with people, pulls out of the train station while passing through a railroad crossing. ",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59c2860cc6c4802622d9c1cb",
+        "title": "Train Ride at the Bergen County Zoo",
+        "description": "",
+        "youtube_id": "2_Z1KdMtDD4",
+        "created_at": 20170920151524,
+        "updated_at": 20170920151615,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 30
+    }
+}

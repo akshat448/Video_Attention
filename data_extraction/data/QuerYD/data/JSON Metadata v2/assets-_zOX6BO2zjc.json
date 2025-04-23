@@ -1,0 +1,90 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ae23e0ba7f43906fecc7184",
+                        "video": "5ae23deea7f43906fecc7183",
+                        "audio_description": "5ae23deea7f43906fecc7182",
+                        "user": "5adff684a7f43906fecc7139",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0.160333,
+                        "end_time": 0.160333,
+                        "duration": 6.780226757369615,
+                        "file_name": "_zOX6BO2zjc_5ae23e0ba7f43906fecc7184.wav",
+                        "file_size_bytes": 1196076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_zOX6BO2zjc",
+                        "created_at": 20180426210059,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f1f7a501d71c572ca05e",
+                                "sentence": " A woman dressed as Cinderella sits in a real making raspberry noises with her mouth.",
+                                "start_time": 1.21,
+                                "end_time": 6.24
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ae23deea7f43906fecc7182",
+                "video": "5ae23deea7f43906fecc7183",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5adff684a7f43906fecc7139",
+                    "email": "thatten@pdx.edu",
+                    "name": "Trina Hatten",
+                    "given_name": "Trina",
+                    "picture": "https://lh4.googleusercontent.com/-5Ru9nLnMsyw/AAAAAAAAAAI/AAAAAAAAAAA/ACLGyWClYqm-_u8iOl6hSpdp6xDRZISp0w/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "109181287105252135216",
+                    "last_login": 20180426205718,
+                    "token": "9015c65b54e6a0da6e1a757b62438dfb9886ef40008b71963b8263a351215686",
+                    "__v": 0,
+                    "updated_at": 20180426205718,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180426210030,
+                "updated_at": 20180427213020,
+                "notes": "A woman dressed as Cinderella sits in a room making raspberry noises with her mouth.",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "fart",
+            "fartnoises",
+            "princess",
+            "grumpy princess",
+            "disney princess",
+            "cinderella",
+            "can't even",
+            "literally cannot even"
+        ],
+        "custom_tags": [],
+        "_id": "5ae23deea7f43906fecc7183",
+        "title": "Fart noises are not appropriate for Tea Parties",
+        "description": "For days when you literally cannot even.",
+        "youtube_id": "_zOX6BO2zjc",
+        "created_at": 20180426210030,
+        "updated_at": 20180426210059,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 25
+    }
+}

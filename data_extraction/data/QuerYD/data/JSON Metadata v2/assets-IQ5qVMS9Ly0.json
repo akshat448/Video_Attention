@@ -1,0 +1,78 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4346e13dfd851a2e43",
+                        "audio_description": "58e7cf2c46e13dfd851a2171",
+                        "created_at": 20140311111619,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140311111619,
+                        "file_name": "1394561779502.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1450,
+                        "legacy_user_id": 2126,
+                        "label": "",
+                        "legacy_audio_clip_id": 5970,
+                        "video": "58e7cf2846e13dfd851a19be",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 26.85,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2c46e13dfd851a2170",
+                        "transcript": []
+                    }
+                ],
+                "_id": "58e7cf2c46e13dfd851a2171",
+                "status": "published",
+                "legacy_video_id": 1450,
+                "legacy_user_id": 2126,
+                "video": "58e7cf2846e13dfd851a19be",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2c46e13dfd851a2170",
+                    "name": "mndot",
+                    "google_user_id_token": "",
+                    "created_at": 20140226061609,
+                    "updated_at": 20150714115650,
+                    "legacy_user_id": 2126,
+                    "last_login": 0,
+                    "email": "robert.filipczak@state.mn.us",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Hastings",
+            "Bridge",
+            "Documentry",
+            "HD"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a19be",
+        "description": "",
+        "youtube_id": "IQ5qVMS9Ly0",
+        "views": 0,
+        "created_at": 20140311092955,
+        "title": "Hastings Bridge Documentary",
+        "legacy_video_id": 1450,
+        "updated_at": 20140311111619,
+        "youtube_status": "available",
+        "category": "News & Politics",
+        "category_id": "25",
+        "duration": 118
+    }
+}

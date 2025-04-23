@@ -1,0 +1,94 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bd0",
+                        "audio_description": "58e7cf3546e13dfd851a25d2",
+                        "created_at": 20160826111739,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160826111739,
+                        "file_name": "14722354594401.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2690,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24115,
+                        "video": "58e7cf2946e13dfd851a1e95",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45bbbf98b0c327b1e12905",
+                                "sentence": " A light skinned teenage girl sits in a supportive wheelchair.",
+                                "start_time": 0.26,
+                                "end_time": 3.9
+                            },
+                            {
+                                "_id": "5e45bbbf98b0c327b1e12904",
+                                "sentence": " An adult female starts the recording and stands next to the student",
+                                "start_time": 4.27,
+                                "end_time": 8.8
+                            },
+                            {
+                                "_id": "5e45bbbf98b0c327b1e12903",
+                                "sentence": " reading from a packet.",
+                                "start_time": 8.81,
+                                "end_time": 10.64
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25d2",
+                "status": "published",
+                "legacy_video_id": 2690,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e95",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "YouTube Editor"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e95",
+        "description": "",
+        "youtube_id": "4ClKFnnzSRA",
+        "views": 0,
+        "created_at": 20160826111711,
+        "title": "Brianna Communicating in Mythology",
+        "legacy_video_id": 2690,
+        "updated_at": 20160826111739,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 135
+    }
+}

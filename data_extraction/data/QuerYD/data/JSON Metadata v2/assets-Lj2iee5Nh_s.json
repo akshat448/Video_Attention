@@ -1,0 +1,70 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5f7641c36832dc5fe4ac4c80",
+                        "video": "5f763a4a206e0d5fdec3cf9c",
+                        "audio_description": "5f763a4a206e0d5fdec3cf9b",
+                        "user": "5f763086206e0d5fdec3cf8f",
+                        "label": "capa",
+                        "playback_type": "extended",
+                        "start_time": 25.34125,
+                        "end_time": 25.34125,
+                        "duration": 11.795736961451247,
+                        "file_name": "Lj2iee5Nh_s_5f7641c36832dc5fe4ac4c80.wav",
+                        "file_size_bytes": 2080812,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Lj2iee5Nh_s",
+                        "created_at": 20201001205323,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5f763a4a206e0d5fdec3cf9b",
+                "video": "5f763a4a206e0d5fdec3cf9c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5f763086206e0d5fdec3cf8f",
+                    "email": "ibcrevistas@gmail.com",
+                    "name": "Revistas Pontinhos e RBC",
+                    "given_name": "Revistas Pontinhos e RBC",
+                    "picture": "https://lh3.googleusercontent.com/a-/AOh14Gj-OQXy75UteuxNZGvlNxWt61-bcwikfVQLdZlu6g=s96-c",
+                    "locale": "pt-BR",
+                    "google_user_id": "100147222084421037270",
+                    "last_login": 20201001193950,
+                    "token": "584ebe4098af2bd808af71ec9123dd4b8a8f1ea5c049dc551e3f9fd0c5109d05",
+                    "__v": 0
+                },
+                "status": "published",
+                "language": "pt-br",
+                "created_at": 20201001202130,
+                "updated_at": 20201001204222,
+                "notes": "Ao fundo, imagem da capa da revista RBC  e, \u00e0 frente, \u00e0 esquerda, um microfone dourado;   \u00e0 direita:\"PODfalar, RBC!\" ",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [
+            "defici\u00eancia visual",
+            "instituto benjamin constant"
+        ],
+        "_id": "5f763a4a206e0d5fdec3cf9c",
+        "title": "EP#14 - Do Imperial Instituto dos Meninos Cegos ao IBC de hoje: 166 anos de hist\u00f3ria",
+        "description": "Por Jo\u00e3o Ricardo Melo Figueiredo\n\nEm comemora\u00e7\u00e3o aos 166 anos do IBC, Jo\u00e3o Ricardo, nosso diretor-geral, fala sobre a hist\u00f3ria do Instituto, como as a\u00e7\u00f5es foram se modificando ao longo do tempo; fala, ainda, sobre os impactos da pandemia e muito mais.",
+        "youtube_id": "Lj2iee5Nh_s",
+        "created_at": 20201001202130,
+        "updated_at": 20201001205323,
+        "views": 0,
+        "__v": 0
+    }
+}

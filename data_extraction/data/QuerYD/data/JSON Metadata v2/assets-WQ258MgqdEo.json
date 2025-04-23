@@ -1,0 +1,126 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6146e13dfd851a4793",
+                        "audio_description": "58e7cf3046e13dfd851a23b6",
+                        "created_at": 20150916182112,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150916182112,
+                        "file_name": "14424528727521.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2181,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15660,
+                        "video": "58e7cf2946e13dfd851a1c98",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba07c648ec0da79cd66e",
+                                "sentence": " A female teenage student and an adult female sit across from each other with their knees touching, communicating in tactile sign language.",
+                                "start_time": 0.16,
+                                "end_time": 8.78
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd66d",
+                                "sentence": " Next to them. And on a table is a large tactile calendar. The student is trying to put her cochlear implant on.",
+                                "start_time": 9.24,
+                                "end_time": 16.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a4794",
+                        "audio_description": "58e7cf3046e13dfd851a23b6",
+                        "created_at": 20150916182150,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150916182150,
+                        "file_name": "14424529103361.wav",
+                        "start_time": 13.979,
+                        "legacy_video_id": 2181,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15661,
+                        "video": "58e7cf2946e13dfd851a1c98",
+                        "end_time": 13.979,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba07c648ec0da79cd668",
+                                "sentence": " The adult reaches up and lightly touches the students, right hand, which she is using to put on her cochlear implant.",
+                                "start_time": 0.55,
+                                "end_time": 7.47
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd667",
+                                "sentence": " In response, the student pulls her hand away,",
+                                "start_time": 7.47,
+                                "end_time": 10.68
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd666",
+                                "sentence": " the adult lowers her hand, and the student continues trying to put on her cochlear implant.",
+                                "start_time": 10.68,
+                                "end_time": 16.04
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a23b6",
+                "status": "published",
+                "legacy_video_id": 2181,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c98",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c98",
+        "description": "",
+        "youtube_id": "WQ258MgqdEo",
+        "views": 0,
+        "created_at": 20150916182031,
+        "title": "Max H #3 PT Aural Verbal Therapy Recognize Voice Tactual Sign Paired Speech",
+        "legacy_video_id": 2181,
+        "updated_at": 20150916182150,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 46
+    }
+}

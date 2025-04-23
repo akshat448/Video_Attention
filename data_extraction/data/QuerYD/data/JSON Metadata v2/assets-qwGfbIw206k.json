@@ -1,0 +1,169 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7346e13dfd851a5590",
+                        "audio_description": "58e7cf3346e13dfd851a2509",
+                        "created_at": 20160211155810,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160211155810,
+                        "file_name": "14552350905321.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2472,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 21583,
+                        "video": "58e7cf2946e13dfd851a1dbb",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e4066a1b120f3c06c12ab83",
+                                "sentence": " Taylor, a young boy, sits cross legged on the floor with his mother.",
+                                "start_time": 0.65,
+                                "end_time": 4.98
+                            },
+                            {
+                                "_id": "5e4066a1b120f3c06c12ab82",
+                                "sentence": " They are facing a dark brown couch.",
+                                "start_time": 5.13,
+                                "end_time": 8.08
+                            },
+                            {
+                                "_id": "5e4066a1b120f3c06c12ab81",
+                                "sentence": " As the narrator speaks, tailors. Mom stretches out his clothing options on the couch.",
+                                "start_time": 8.08,
+                                "end_time": 13.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7346e13dfd851a5591",
+                        "audio_description": "58e7cf3346e13dfd851a2509",
+                        "created_at": 20160211155947,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160211155947,
+                        "file_name": "14552351875091.wav",
+                        "start_time": 21.878,
+                        "legacy_video_id": 2472,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 21584,
+                        "video": "58e7cf2946e13dfd851a1dbb",
+                        "end_time": 21.878,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 18.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e4066a0b120f3c06c12ab5a",
+                                "sentence": " Three steps composed of white letters transposed over the video read",
+                                "start_time": 0.81,
+                                "end_time": 5.16
+                            },
+                            {
+                                "_id": "5e4066a0b120f3c06c12ab59",
+                                "sentence": " using favorite and familiar bright colored pants,",
+                                "start_time": 5.17,
+                                "end_time": 9.23
+                            },
+                            {
+                                "_id": "5e4066a0b120f3c06c12ab58",
+                                "sentence": " creating contrast with a solid dark background,",
+                                "start_time": 9.68,
+                                "end_time": 13.64
+                            },
+                            {
+                                "_id": "5e4066a0b120f3c06c12ab57",
+                                "sentence": " adjusting light levels to increase visibility.",
+                                "start_time": 14.68,
+                                "end_time": 18.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7346e13dfd851a5592",
+                        "audio_description": "58e7cf3346e13dfd851a2509",
+                        "created_at": 20160211160032,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160211160032,
+                        "file_name": "14552352326721.wav",
+                        "start_time": 38.198,
+                        "legacy_video_id": 2472,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 21585,
+                        "video": "58e7cf2946e13dfd851a1dbb",
+                        "end_time": 38.198,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e4065476b1368ac5088fc2b",
+                                "sentence": " The video resume showing Taylor reaching out, removing an article of clothing from the couch and hugging his mother.",
+                                "start_time": 0.8,
+                                "end_time": 7.96
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a2509",
+                "status": "published",
+                "legacy_video_id": 2472,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1dbb",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Module 2",
+            "Sensory System"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1dbb",
+        "description": "",
+        "youtube_id": "qwGfbIw206k",
+        "views": 0,
+        "created_at": 20160211155715,
+        "title": "VCM2 06 - Module 2",
+        "legacy_video_id": 2472,
+        "updated_at": 20160211160032,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 48
+    }
+}

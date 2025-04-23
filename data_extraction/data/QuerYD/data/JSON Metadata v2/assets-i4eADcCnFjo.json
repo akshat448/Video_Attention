@@ -1,0 +1,134 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6146e13dfd851a4795",
+                        "audio_description": "58e7cf3046e13dfd851a23b7",
+                        "created_at": 20150916182442,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150916182442,
+                        "file_name": "14424530820741.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2182,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15662,
+                        "video": "58e7cf2946e13dfd851a1c99",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 59.85,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab9b9d8af910da52dfcdf",
+                                "sentence": " Ethan, a young child with at least one cochlear implant, sits next to an adult female.",
+                                "start_time": 0,
+                                "end_time": 6.07
+                            },
+                            {
+                                "_id": "5e3ab9b9d8af910da52dfcde",
+                                "sentence": " In front of them is a small white board with a blue border that has photos posted to it.",
+                                "start_time": 6.08,
+                                "end_time": 12.25
+                            },
+                            {
+                                "_id": "5e3ab9b9d8af910da52dfcdd",
+                                "sentence": " The first photo is a hallway. There is a cut out of a young girl posted to the left of it.",
+                                "start_time": 12.25,
+                                "end_time": 18.42
+                            },
+                            {
+                                "_id": "5e3ab9b9d8af910da52dfcdc",
+                                "sentence": " To the right of the first picture is a photo of the school building. The name of the building is displayed above glass doors",
+                                "start_time": 18.42,
+                                "end_time": 26.39
+                            },
+                            {
+                                "_id": "5e3ab9b9d8af910da52dfcdb",
+                                "sentence": " and reads powers center.",
+                                "start_time": 26.39,
+                                "end_time": 29.24
+                            },
+                            {
+                                "_id": "5e3ab9b9d8af910da52dfcda",
+                                "sentence": " There is a cut out of a young girl posted to its right. Below these two photos are two additional pictures.",
+                                "start_time": 29.24,
+                                "end_time": 35.99
+                            },
+                            {
+                                "_id": "5e3ab9b9d8af910da52dfcd9",
+                                "sentence": " The picture on the bottom left is of a cafeteria.",
+                                "start_time": 35.99,
+                                "end_time": 39.15
+                            },
+                            {
+                                "_id": "5e3ab9b9d8af910da52dfcd8",
+                                "sentence": " It is not possible to see a cutout of a child due to ethan. Head to its right is a photo of a playground.",
+                                "start_time": 39.15,
+                                "end_time": 46.9
+                            },
+                            {
+                                "_id": "5e3ab9b9d8af910da52dfcd7",
+                                "sentence": " There is a cut out of a young boy next to it. The adult female holds a tablet",
+                                "start_time": 46.93,
+                                "end_time": 52.46
+                            },
+                            {
+                                "_id": "5e3ab9b9d8af910da52dfcd6",
+                                "sentence": " as she asked questions. Ethan touches icons on the tablet, which then voices his answer for him.",
+                                "start_time": 52.93,
+                                "end_time": 59.8
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a23b7",
+                "status": "published",
+                "legacy_video_id": 2182,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c99",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c99",
+        "description": "",
+        "youtube_id": "i4eADcCnFjo",
+        "views": 0,
+        "created_at": 20150916182236,
+        "title": "Max H #3 JW Speech Where ??",
+        "legacy_video_id": 2182,
+        "updated_at": 20150916182442,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 61
+    }
+}

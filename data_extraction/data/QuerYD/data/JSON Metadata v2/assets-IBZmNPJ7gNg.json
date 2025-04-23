@@ -1,0 +1,71 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5eb468a1c0004d517a050a0d",
+                        "video": "5eb4686ac5520751804911cc",
+                        "audio_description": "5eb4686ac5520751804911cb",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "description",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 4.949333333333334,
+                        "file_name": "IBZmNPJ7gNg_5eb468a1c0004d517a050a0d.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/IBZmNPJ7gNg",
+                        "created_at": 20200507195929,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5eb4686ac5520751804911cb",
+                "video": "5eb4686ac5520751804911cc",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e9f7a4d84f1bb7886752425",
+                    "email": "chhsad201@gmail.com",
+                    "name": "CHHS AD201",
+                    "given_name": "CHHS",
+                    "picture": "https://lh5.googleusercontent.com/-JpwQdP332ew/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOjaGw_XfdNe6Y3TML0kj8gdNHJZA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111438173098375409345",
+                    "last_login": 20201014163508,
+                    "token": "8b25ee0df1dcdee4a1c94ede45a3e8475678aa3b10c76fbf6ea8097a75608fa7",
+                    "__v": 0,
+                    "updated_at": 20201014163508,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200507195834,
+                "updated_at": 20200507195834,
+                "notes": "A woman is shown in her bathroom. She is wearing glasses and a yellow shirt.",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5eb4686ac5520751804911cc",
+        "title": "CCP - Time Saving Stress Relief Tip for TBI",
+        "description": "CSU Center for Community Partnerships Hope Speaks Project",
+        "youtube_id": "IBZmNPJ7gNg",
+        "created_at": 20200507195834,
+        "updated_at": 20200507195929,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 107
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5646e13dfd851a405e",
+                        "audio_description": "58e7cf3046e13dfd851a230a",
+                        "created_at": 20150424124735,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150424124735,
+                        "file_name": "14299048558741.wav",
+                        "start_time": 4.272,
+                        "legacy_video_id": 1910,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13132,
+                        "video": "58e7cf2846e13dfd851a1b89",
+                        "end_time": 6.572,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f888d6c9183c280f42",
+                                "sentence": " Montana university system.",
+                                "start_time": 0.08,
+                                "end_time": 2.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a405f",
+                        "audio_description": "58e7cf3046e13dfd851a230a",
+                        "created_at": 20150424124750,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150424124750,
+                        "file_name": "14299048702451.wav",
+                        "start_time": 8.929,
+                        "legacy_video_id": 1910,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13133,
+                        "video": "58e7cf2846e13dfd851a1b89",
+                        "end_time": 11.229,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a8e7168423183b465beb",
+                                "sentence": " Repayment options.",
+                                "start_time": 0.26,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a4060",
+                        "audio_description": "58e7cf3046e13dfd851a230a",
+                        "created_at": 20150424125030,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150424125030,
+                        "file_name": "14299050308771.wav",
+                        "start_time": 159.773,
+                        "legacy_video_id": 1910,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13134,
+                        "video": "58e7cf2846e13dfd851a1b89",
+                        "end_time": 159.773,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a8e9168423183b465c7f",
+                                "sentence": " The great seal of the state of montana.",
+                                "start_time": 0,
+                                "end_time": 2.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a4061",
+                        "audio_description": "58e7cf3046e13dfd851a230a",
+                        "created_at": 20150424125047,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150424125047,
+                        "file_name": "14299050474731.wav",
+                        "start_time": 165.952,
+                        "legacy_video_id": 1910,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13135,
+                        "video": "58e7cf2846e13dfd851a1b89",
+                        "end_time": 165.952,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f788d6c9183c280f09",
+                                "sentence": " The pure connection network, k BC n u m t dot e d u slash o s s slash k BC n.",
+                                "start_time": 0,
+                                "end_time": 6.76
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a230a",
+                "status": "published",
+                "legacy_video_id": 1910,
+                "legacy_user_id": 2569,
+                "video": "58e7cf2846e13dfd851a1b89",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a22ff",
+                    "name": "jonathonpropp",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2569,
+                    "last_login": 0,
+                    "email": "jonathon.propp@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Financial Education",
+            "Financial Literacy",
+            "Student Loans",
+            "Paying for College",
+            "College",
+            "Montana",
+            "Montana University System",
+            "KPCN",
+            "KPCN: The Peer Connection Network",
+            "Repayment Options",
+            "Loan Forgivness",
+            "Income Based Repayment",
+            "Loan Deferment",
+            "Loan Repayment",
+            "MUS"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b89",
+        "description": "",
+        "youtube_id": "GclXXERH3gE",
+        "views": 0,
+        "created_at": 20150424124722,
+        "title": "Repayment Options",
+        "legacy_video_id": 1910,
+        "updated_at": 20150424125047,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 174
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8246e13dfd851a5fa2",
+                        "audio_description": "58e7cf3846e13dfd851a26eb",
+                        "created_at": 20161030211509,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161030211509,
+                        "file_name": "14778873097961.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2832,
+                        "legacy_user_id": 3295,
+                        "label": "",
+                        "legacy_audio_clip_id": 25595,
+                        "video": "58e7cf2946e13dfd851a1f22",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a26e7",
+                        "transcript": []
+                    }
+                ],
+                "_id": "58e7cf3846e13dfd851a26eb",
+                "status": "published",
+                "legacy_video_id": 2832,
+                "legacy_user_id": 3295,
+                "video": "58e7cf2946e13dfd851a1f22",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3846e13dfd851a26e7",
+                    "name": "dladerman",
+                    "google_user_id_token": "",
+                    "created_at": 20161012191106,
+                    "updated_at": 20161012201423,
+                    "legacy_user_id": 3295,
+                    "last_login": 0,
+                    "email": "dladerman@clevelandsightcenter.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Nature's Weirdest Events (TV Program)",
+            "okunoshima",
+            "rabbits",
+            "bunnies",
+            "island",
+            "rabbit island",
+            "japan",
+            "Rabbit (Domesticated Animal)",
+            "Bunny",
+            "cute",
+            "mob",
+            "experiments",
+            "theory",
+            "bbc2",
+            "bbc 2",
+            "bbc two",
+            "chris packham",
+            "super cute animals"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1f22",
+        "description": "",
+        "youtube_id": "2ixspJ-SnMk",
+        "views": 0,
+        "created_at": 20161030210201,
+        "title": "Rabbit Island - Nature's Weirdest Events: Series 4 Episode 2 Preview - BBC Two",
+        "legacy_video_id": 2832,
+        "updated_at": 20161030211509,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 275
+    }
+}

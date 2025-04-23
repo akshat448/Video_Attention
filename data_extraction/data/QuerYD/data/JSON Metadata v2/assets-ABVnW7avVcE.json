@@ -1,0 +1,454 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d264ab6fe01075b78e92d8c",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0.8392451298701298,
+                        "end_time": 9.54324512987013,
+                        "duration": 8.704,
+                        "file_name": "ABVnW7avVcE_5d264ab6fe01075b78e92d8c.wav",
+                        "file_size_bytes": 1671212,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710202942,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142bf1b9e13d148b65360f",
+                                "sentence": " Family theatre company.",
+                                "start_time": 0.68,
+                                "end_time": 2.93
+                            },
+                            {
+                                "_id": "5e142bf1b9e13d148b65360e",
+                                "sentence": " How to be a good lover",
+                                "start_time": 3.92,
+                                "end_time": 6.3
+                            },
+                            {
+                                "_id": "5e142bf1b9e13d148b65360d",
+                                "sentence": " to a person with a disability.",
+                                "start_time": 6.3,
+                                "end_time": 8.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d264b076e1ff55b95381a53",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 10.301804,
+                        "end_time": 10.301804,
+                        "duration": 4.352,
+                        "file_name": "ABVnW7avVcE_5d264b076e1ff55b95381a53.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710203103,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2d57262f148c23c361",
+                                "sentence": " Our host, connor, is standing in an apartment.",
+                                "start_time": 0.4,
+                                "end_time": 4.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d264b4b6e1ff55b95381a54",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 21.61987,
+                        "end_time": 21.61987,
+                        "duration": 10.325333333333333,
+                        "file_name": "ABVnW7avVcE_5d264b4b6e1ff55b95381a54.wav",
+                        "file_size_bytes": 1982508,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710203211,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2c57262f148c23c305",
+                                "sentence": " A man and a woman are sitting on a sofa. The woman's wheelchair is placed to the side as she shares drinks with her male companion.",
+                                "start_time": 0.54,
+                                "end_time": 9.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d264b91fe01075b78e92d8d",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 32.505513,
+                        "end_time": 32.505513,
+                        "duration": 6.485333333333333,
+                        "file_name": "ABVnW7avVcE_5d264b91fe01075b78e92d8d.wav",
+                        "file_size_bytes": 1245228,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710203321,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142bf1b9e13d148b653638",
+                                "sentence": " The woman happily smiles. And the couple kiss.",
+                                "start_time": 0.68,
+                                "end_time": 4.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d264bc7fe01075b78e92d8e",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 40.898554,
+                        "end_time": 40.898554,
+                        "duration": 5.461333333333333,
+                        "file_name": "ABVnW7avVcE_5d264bc7fe01075b78e92d8e.wav",
+                        "file_size_bytes": 1048620,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710203415,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142bf1b9e13d148b653620",
+                                "sentence": " The same man and woman are on the sofa enjoying drinks.",
+                                "start_time": 0.44,
+                                "end_time": 5.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d264c116e1ff55b95381a55",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 50.70168,
+                        "end_time": 50.70168,
+                        "duration": 6.229333333333333,
+                        "file_name": "ABVnW7avVcE_5d264c116e1ff55b95381a55.wav",
+                        "file_size_bytes": 1196076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710203529,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2d57262f148c23c357",
+                                "sentence": " The man sets down his drink, stands and moves the woman's leg.",
+                                "start_time": 0.48,
+                                "end_time": 6.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d264c3c6e1ff55b95381a56",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 60.341022,
+                        "end_time": 60.341022,
+                        "duration": 5.034666666666666,
+                        "file_name": "ABVnW7avVcE_5d264c3c6e1ff55b95381a56.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710203612,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a989300",
+                                "sentence": " The man shush is the woman and leans in toward her.",
+                                "start_time": 0.33,
+                                "end_time": 4.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d264cbc6e1ff55b95381a57",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 65.172339,
+                        "end_time": 65.172339,
+                        "duration": 7.765333333333333,
+                        "file_name": "ABVnW7avVcE_5d264cbc6e1ff55b95381a57.wav",
+                        "file_size_bytes": 1490988,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710203820,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4cedd4c5147cbb9a40",
+                                "sentence": " Back to our host who is reading a copy of the ultimate guide to sex and disability.",
+                                "start_time": 0.77,
+                                "end_time": 7.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d264d12fe01075b78e92d90",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 72.34293019480519,
+                        "end_time": 86.42293019480519,
+                        "duration": 14.08,
+                        "file_name": "ABVnW7avVcE_5d264d12fe01075b78e92d90.wav",
+                        "file_size_bytes": 2703404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710203946,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a989327",
+                                "sentence": " A friendly reminder from family",
+                                "start_time": 0.81,
+                                "end_time": 3.72
+                            },
+                            {
+                                "_id": "5e142acc4a3b32147a989326",
+                                "sentence": " romance requires mutual consent and communication period, including with partners who have disabilities.",
+                                "start_time": 4.88,
+                                "end_time": 13.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d264d3bfe01075b78e92d91",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 87.077062,
+                        "end_time": 87.077062,
+                        "duration": 5.802666666666667,
+                        "file_name": "ABVnW7avVcE_5d264d3bfe01075b78e92d91.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710204027,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2d57262f148c23c35e",
+                                "sentence": " The woman pushes the man away and prepares to leave the sofa.",
+                                "start_time": 0.44,
+                                "end_time": 5.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d264da2fe01075b78e92d93",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 89.96707792207792,
+                        "end_time": 96.36707792207793,
+                        "duration": 6.4,
+                        "file_name": "ABVnW7avVcE_5d264da2fe01075b78e92d93.wav",
+                        "file_size_bytes": 1228844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710204210,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142bf1b9e13d148b65365a",
+                                "sentence": " Family theatre, company, listen productions.",
+                                "start_time": 2.01,
+                                "end_time": 5.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d264dde6e1ff55b95381a5b",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 97.18458603896104,
+                        "end_time": 97.18458603896104,
+                        "duration": 12.202666666666667,
+                        "file_name": "ABVnW7avVcE_5d264dde6e1ff55b95381a5b.wav",
+                        "file_size_bytes": 2342956,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710204310,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d76d8",
+                                "sentence": " This video is cast entirely with actors who have disabilities. No animals were harmed in the making of this video.",
+                                "start_time": 0.61,
+                                "end_time": 9.15
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76d7",
+                                "sentence": " Neither were the actors with disabilities.",
+                                "start_time": 9.19,
+                                "end_time": 12.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2655316e1ff55b95381a5c",
+                        "video": "5d264a0c6e1ff55b95381a52",
+                        "audio_description": "5d264a0c6e1ff55b95381a51",
+                        "user": "5d261b9dfe01075b78e92d84",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 103.322071,
+                        "end_time": 103.322071,
+                        "duration": 32.768,
+                        "file_name": "ABVnW7avVcE_5d2655316e1ff55b95381a5c.wav",
+                        "file_size_bytes": 6291500,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ABVnW7avVcE",
+                        "created_at": 20190710211425,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d76c6",
+                                "sentence": " Cast, connor long, marcus canelo, reagan, linton,",
+                                "start_time": 0.41,
+                                "end_time": 5.9
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76c5",
+                                "sentence": " directors mitch dickman, reagan, linton,",
+                                "start_time": 5.9,
+                                "end_time": 10.44
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76c4",
+                                "sentence": " producer, paul bear, horst,",
+                                "start_time": 10.44,
+                                "end_time": 13.46
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76c3",
+                                "sentence": " editor",
+                                "start_time": 13.46,
+                                "end_time": 14.4
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76c2",
+                                "sentence": " laurie plus key sound.",
+                                "start_time": 14.4,
+                                "end_time": 17.33
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76c1",
+                                "sentence": " Jon gries injure writers. Laura awesome, jeremy palmer,",
+                                "start_time": 17.33,
+                                "end_time": 23.02
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76c0",
+                                "sentence": " special thanks to the ultimate guide of sex and disability by cory silverberg for no debt.",
+                                "start_time": 23.02,
+                                "end_time": 30.15
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76bf",
+                                "sentence": " And miriam kaufman.",
+                                "start_time": 30.15,
+                                "end_time": 31.75
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76be",
+                                "sentence": " uh.",
+                                "start_time": 32.19,
+                                "end_time": 32.73
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d264a0c6e1ff55b95381a51",
+                "video": "5d264a0c6e1ff55b95381a52",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d261b9dfe01075b78e92d84",
+                    "email": "phamalyaa@gmail.com",
+                    "name": "Erin Banta",
+                    "given_name": "Erin",
+                    "picture": "https://lh5.googleusercontent.com/-O5TRuSKTdKM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfKg0gy4OsVLKfeq4n0rduH1Sk7Ig/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116239628765248204671",
+                    "last_login": 20190710170845,
+                    "token": "487f1373dd49fa4be878a5b6c8ec282c3ea9f0646ce2a111d5686eea348716b3",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190710202652,
+                "updated_at": 20190903153156,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "#disasbility #etiquette #nonprofit #activism #theatre"
+        ],
+        "custom_tags": [],
+        "_id": "5d264a0c6e1ff55b95381a52",
+        "title": "Phamaly's \"How to be a good ____ to a person with a disability\" -Episode 3, LOVER",
+        "description": "Phamaly Theatre Company's 2019 web series explores how to engage respectfully with people who have disabilities in simple life scenarios. \n\nEpisode 3: \u201cHow to be a Good LOVER to a Person with a Disability,\u201d highlights the importance of consent and communication in relationships with people with disabilities (and people without disabilities, for that matter!). \n\nProduced by Listen Productions",
+        "youtube_id": "ABVnW7avVcE",
+        "created_at": 20190710202652,
+        "updated_at": 20190710211425,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 104
+    }
+}

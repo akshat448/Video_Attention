@@ -1,0 +1,99 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7bf46415c8ca3ccf56d6e6",
+                        "video": "5d7bef628302113cc4be5025",
+                        "audio_description": "5d7bef628302113cc4be5024",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "Health Info Description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 25.344,
+                        "duration": 25.344,
+                        "file_name": "ndhwbt9OQ0Q_5d7bf46415c8ca3ccf56d6e6.wav",
+                        "file_size_bytes": 4866092,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ndhwbt9OQ0Q",
+                        "created_at": 20190913195620,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51952d9a8b1f3b4208117c",
+                                "sentence": " Students in a classroom, computers, tax rates, health Information technology, graduates for their medical records and reports. Maintain files work with insurance encoding and much more.",
+                                "start_time": 0.32,
+                                "end_time": 8.25
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b4208117b",
+                                "sentence": " The student starts with a laptop in a library, tax rates careers, graduates are important. Hospitals, medical offices and insurance companies",
+                                "start_time": 8.25,
+                                "end_time": 14.33
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b4208117a",
+                                "sentence": " teacher presents to a classroom full of students. Tax rates length program and associate degree in 16 months or certificate in as little as four months.",
+                                "start_time": 14.33,
+                                "end_time": 20.31
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b42081179",
+                                "sentence": " Smiling students dance with a textbook on hallway tax rates. You've got this.",
+                                "start_time": 20.31,
+                                "end_time": 23.88
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7bef628302113cc4be5024",
+                "video": "5d7bef628302113cc4be5025",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190913193458,
+                "updated_at": 20190913193458,
+                "notes": "Students sit in a classroom at computers.\r\nText reads:\r\nHealth Information Technology\r\nGraduates prepare medical records and reports, maintain files, work with insurance and coding and much more. \r\n\r\nA student studies with a laptop in a library\r\nText reads:\r\nCareers \r\nGraduates are employed in hospitals, medical offices and insurance companies.\r\n\r\nA teacher presents to a classroom full of students\r\nText reads:\r\nLength of program\r\nEarn an associate degree in 16 months, or certificate in as little as 4 months.\r\n\r\nA smiling student stands with a textbook in a hallway. \r\nText reads:\r\nYou've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Health Information Technology",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5d7bef628302113cc4be5025",
+        "title": "Health Information Technology",
+        "description": "Information on the Health Information Technology program.",
+        "youtube_id": "ndhwbt9OQ0Q",
+        "created_at": 20190913193458,
+        "updated_at": 20190913195620,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

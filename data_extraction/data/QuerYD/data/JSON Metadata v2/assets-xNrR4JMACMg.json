@@ -1,0 +1,128 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bc1604aa66f5a4b1625cd36",
+                        "video": "5bc15edda66f5a4b1625cd35",
+                        "audio_description": "5bc15edda66f5a4b1625cd34",
+                        "user": "5bc00f6663bda31a06de6fb8",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 50.10626093515015,
+                        "end_time": 50.10626093515015,
+                        "duration": 4.922630385487528,
+                        "file_name": "xNrR4JMACMg_5bc1604aa66f5a4b1625cd36.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xNrR4JMACMg",
+                        "created_at": 20181013030234,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf744142332f10dce369",
+                                "sentence": " There is an image of a girl with a disability, as well as the values that are mentioned.",
+                                "start_time": 0.27,
+                                "end_time": 4.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc160828b6b161563b70ec7",
+                        "video": "5bc15edda66f5a4b1625cd35",
+                        "audio_description": "5bc15edda66f5a4b1625cd34",
+                        "user": "5bc00f6663bda31a06de6fb8",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 69.08006102288819,
+                        "end_time": 69.08006102288819,
+                        "duration": 4.829750566893424,
+                        "file_name": "xNrR4JMACMg_5bc160828b6b161563b70ec7.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xNrR4JMACMg",
+                        "created_at": 20181013030330,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd89f7eb22e2f0e75750a",
+                                "sentence": " List of the movies mentioned in a flash show with an image of strange.",
+                                "start_time": 0.11,
+                                "end_time": 4.41
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bc160e2a66f5a4b1625cd37",
+                        "video": "5bc15edda66f5a4b1625cd35",
+                        "audio_description": "5bc15edda66f5a4b1625cd34",
+                        "user": "5bc00f6663bda31a06de6fb8",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 113.03280195040894,
+                        "end_time": 113.03280195040894,
+                        "duration": 4.179591836734694,
+                        "file_name": "xNrR4JMACMg_5bc160e2a66f5a4b1625cd37.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xNrR4JMACMg",
+                        "created_at": 20181013030506,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cdf",
+                                "sentence": " There is an image of the uh the movies stronger.",
+                                "start_time": 0.39,
+                                "end_time": 3.97
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bc15edda66f5a4b1625cd34",
+                "video": "5bc15edda66f5a4b1625cd35",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bc00f6663bda31a06de6fb8",
+                    "email": "beyzayav99@gmail.com",
+                    "name": "Beyza Yavuz",
+                    "given_name": "Beyza",
+                    "picture": "https://lh3.googleusercontent.com/-EeMNa_xA0Pc/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DV-rcMSqWYsdvAvhc9nYR-RYh-0OQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "105353398760516154487",
+                    "last_login": 20181013025259,
+                    "token": "0e0cbfa4477d245d257038736b53acf8d6d23306759cc360f819e84ae1c38252",
+                    "__v": 0,
+                    "updated_at": 20181013025259,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181013025629,
+                "updated_at": 20181013025629,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5bc15edda66f5a4b1625cd35",
+        "title": "disability project",
+        "description": "how can we be aware of disability",
+        "youtube_id": "xNrR4JMACMg",
+        "created_at": 20181013025629,
+        "updated_at": 20181013030506,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 150
+    }
+}

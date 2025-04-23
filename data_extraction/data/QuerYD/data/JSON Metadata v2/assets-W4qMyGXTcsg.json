@@ -1,0 +1,142 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5646e13dfd851a407a",
+                        "audio_description": "58e7cf3046e13dfd851a233b",
+                        "created_at": 20150425064315,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425064315,
+                        "file_name": "14299693958731.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1920,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13169,
+                        "video": "58e7cf2846e13dfd851a1b93",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 32.22,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a2ce95a30d183d6a02f5",
+                                "sentence": " This clip is of a young male student and his teacher.",
+                                "start_time": 0,
+                                "end_time": 3.27
+                            },
+                            {
+                                "_id": "5e30a2ce95a30d183d6a02f4",
+                                "sentence": " The student is wearing a red sweater and a blue baseball cap. They sit side by side, and there is a podium like desk in front of them.",
+                                "start_time": 3.27,
+                                "end_time": 11.27
+                            },
+                            {
+                                "_id": "5e30a2ce95a30d183d6a02f3",
+                                "sentence": " The teacher indicates through signing that they are done with their activity. She then signs hold with both hands to indicate taking a break.",
+                                "start_time": 11.27,
+                                "end_time": 19.54
+                            },
+                            {
+                                "_id": "5e30a2ce95a30d183d6a02f2",
+                                "sentence": " The student is tightly gripping one of her wrist and leans away from the desk. His other hand is on his forehead under the bill of his cap.",
+                                "start_time": 19.58,
+                                "end_time": 27.38
+                            },
+                            {
+                                "_id": "5e30a2ce95a30d183d6a02f1",
+                                "sentence": " As the teacher begins to open her hands, he grunts and links backwards.",
+                                "start_time": 27.38,
+                                "end_time": 32.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a407b",
+                        "audio_description": "58e7cf3046e13dfd851a233b",
+                        "created_at": 20150425064828,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425064828,
+                        "file_name": "14299697080541.wav",
+                        "start_time": 19.312,
+                        "legacy_video_id": 1920,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13171,
+                        "video": "58e7cf2846e13dfd851a1b93",
+                        "end_time": 19.312,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f788d6c9183c280f26",
+                                "sentence": " The teacher brings his left hand to her mouth as she breathes, then she clinches her fist to indicate hold on.",
+                                "start_time": 0,
+                                "end_time": 6.67
+                            },
+                            {
+                                "_id": "5e30a5f788d6c9183c280f25",
+                                "sentence": " Then she sighs directly into his hand while simultaneously opening her own hand to indicate the break is over.",
+                                "start_time": 6.67,
+                                "end_time": 14.07
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a233b",
+                "status": "published",
+                "legacy_video_id": 1920,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1b93",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "interveners",
+            "pacing instruction",
+            "sensory systems"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b93",
+        "description": "",
+        "youtube_id": "W4qMyGXTcsg",
+        "views": 0,
+        "created_at": 20150425064119,
+        "title": "D moves through a break - Module 5",
+        "legacy_video_id": 1920,
+        "updated_at": 20150425064828,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 32
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7f46e13dfd851a5dc6",
+                        "audio_description": "58e7cf3746e13dfd851a26d6",
+                        "created_at": 20160930145259,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160930145259,
+                        "file_name": "14752723799561.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2787,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24737,
+                        "video": "58e7cf2946e13dfd851a1ef6",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 37.34,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cbee",
+                                "sentence": " A 2 year old boy named orion with white hair and light skin",
+                                "start_time": 0.37,
+                                "end_time": 6.04
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cbed",
+                                "sentence": " sits in a high chair",
+                                "start_time": 6.04,
+                                "end_time": 7.93
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cbec",
+                                "sentence": " with the tray attached.",
+                                "start_time": 7.93,
+                                "end_time": 9.73
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cbeb",
+                                "sentence": " Around him sits three women, one to his left,",
+                                "start_time": 9.77,
+                                "end_time": 14.57
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cbea",
+                                "sentence": " one to his right and one in front of him.",
+                                "start_time": 14.57,
+                                "end_time": 17.9
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cbe9",
+                                "sentence": " The woman in front of him shakes a race and container in front of the boy. While the woman to his left places her hand under a ryans,",
+                                "start_time": 18.05,
+                                "end_time": 29.29
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cbe8",
+                                "sentence": " dining it into the container. Orion successfully takes a raise and and eats it.",
+                                "start_time": 29.29,
+                                "end_time": 36.89
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a26d6",
+                "status": "published",
+                "legacy_video_id": 2787,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1ef6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "hand-under-hand"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ef6",
+        "description": "",
+        "youtube_id": "uasqlGvQhaM",
+        "views": 0,
+        "created_at": 20160930144936,
+        "title": "Orion and Service Providers- Hand Under Hand (Intervener Technqiues/Strategies)",
+        "legacy_video_id": 2787,
+        "updated_at": 20160930145259,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 30
+    }
+}

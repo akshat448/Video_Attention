@@ -1,0 +1,74 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5dbdde6164fca73f9a81258a",
+                        "video": "5dbdd14f0d7bad4721025ac3",
+                        "audio_description": "5dbdd14f0d7bad4721025ac2",
+                        "user": "5dbdbe840d7bad4721025aa8",
+                        "label": "1",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 86.10133333333333,
+                        "duration": 86.10133333333333,
+                        "file_name": "jwLKPDJqldw_5dbdde6164fca73f9a81258a.wav",
+                        "file_size_bytes": 16531500,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/jwLKPDJqldw",
+                        "created_at": 20191102195201,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5dbdd14f0d7bad4721025ac2",
+                "video": "5dbdd14f0d7bad4721025ac3",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5dbdbe840d7bad4721025aa8",
+                    "email": "ntellezclara@gmail.com",
+                    "name": "Clara Nu\u00f1o T\u00e9llez",
+                    "given_name": "Clara",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mBhy8tGN7IE3JCl983O0ojoZPfj2FmoehzA8OrHhA=s96-c",
+                    "locale": "es",
+                    "google_user_id": "112636931367132441614",
+                    "last_login": 20191102173604,
+                    "token": "2856bcafe54bb3ab6694fb962456b20e4576944e88ad7c88a473cc6633cd680c",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "es",
+                "created_at": 20191102185615,
+                "updated_at": 20191102185615,
+                "notes": "Remy huele la sopa\nBusca por la cocina ingredientes\nA\u00f1ade especias\nMira dudoso la sopa y aparece el fantasma de Gusteau\nRemy asiente y decide arreglar la sopa\nBaja la fuerza del fuego\nSe lava las manos con una gota de agua\nVierte caldo y nata en la olla\nOlisquea los ingredientes\nLlena sus manos de ajo, trepa por el cuchar\u00f3n y lo a\u00f1ade\nVuelve a por jud\u00edas y romero\nRemy baila alrededor de la olla mientras a\u00f1ade m\u00e1s ingredientes\nRemueve todo y lo huele\nSe encienden las luces y aparece Linguini\nque observa at\u00f3nito la escena\nIrrumpe Skinner \nLinguini esconde a Remy\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Ratatouille2007DvDripEng",
+            "aXXo",
+            "clip0"
+        ],
+        "custom_tags": [],
+        "_id": "5dbdd14f0d7bad4721025ac3",
+        "title": "Ratatouille Cooking Scene",
+        "description": "rat cooking scene in the movie 'Ratatouille",
+        "youtube_id": "jwLKPDJqldw",
+        "created_at": 20191102185615,
+        "updated_at": 20191102195202,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 85
+    }
+}

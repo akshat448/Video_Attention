@@ -1,0 +1,89 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a61f8cfa626df54938574bc",
+                        "video": "5a61f8b0a626df54938574bb",
+                        "audio_description": "5a61f8b0a626df54938574ba",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0.304736,
+                        "end_time": 0.304736,
+                        "duration": 17.554285714285715,
+                        "file_name": "5nmhHL3sVIk_5a61f8cfa626df54938574bc.wav",
+                        "file_size_bytes": 3096620,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/5nmhHL3sVIk",
+                        "created_at": 20180119135527,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dd052846e54b85a386893aa",
+                                "sentence": " At a shopping mall, two young children, a boy and a girl, right on a kitty ride that resembles a hot dog truck that moves back and forth.",
+                                "start_time": 0.37,
+                                "end_time": 9.1
+                            },
+                            {
+                                "_id": "5dd052846e54b85a386893a9",
+                                "sentence": " The girl is in the driver's seat, spinning the steering wheel while the boy sits in the passenger seat, where the flashing buttons are.",
+                                "start_time": 9.11,
+                                "end_time": 16.49
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a61f8b0a626df54938574ba",
+                "video": "5a61f8b0a626df54938574bb",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "59c25b2ec6c4802622d9c1bf",
+                    "email": "rgman1995@gmail.com",
+                    "name": "Ryan G",
+                    "given_name": "Ryan",
+                    "picture": "https://lh3.googleusercontent.com/-NxEEiJBaock/AAAAAAAAAAI/AAAAAAAAAc0/5fcpjk_lXKY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113561788356507984833",
+                    "last_login": 20201230202355,
+                    "token": "27b561de1a2557461b6807ff8a71622302ac468380f084bd313e4b4fc0a8dc39",
+                    "__v": 0,
+                    "updated_at": 20201230202355,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180119135456,
+                "updated_at": 20180119135456,
+                "notes": "At a shopping mall, two young children, a boy and girl, ride on a kiddie ride that resembles a hot dog truck that moves back and forth. The girl is in the drivers seat spinning the steering wheel while the boy sits in the passenger seat where the flashing buttons are.",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Twins"
+        ],
+        "custom_tags": [],
+        "_id": "5a61f8b0a626df54938574bb",
+        "title": "Paramus park",
+        "description": "Maddie and Brayden want Sophie and Charlotte to ride along",
+        "youtube_id": "5nmhHL3sVIk",
+        "created_at": 20180119135456,
+        "updated_at": 20180119135527,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 35
+    }
+}

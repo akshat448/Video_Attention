@@ -1,0 +1,698 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5cb4d138e9b2de249a6f2689",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0.933598,
+                        "end_time": 0.933598,
+                        "duration": 9.009342403628118,
+                        "file_name": "1Jnpn__I5Hs_5cb4d138e9b2de249a6f2689.wav",
+                        "file_size_bytes": 1589292,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415184512,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51ae9d61c97bad8aaa4f6d",
+                                "sentence": " A middle aged woman, allison and her autistic teenage daughter jody,",
+                                "start_time": 0,
+                                "end_time": 5.79
+                            },
+                            {
+                                "_id": "5e51ae9d61c97bad8aaa4f6c",
+                                "sentence": " walk on a path through a park, hand in hand.",
+                                "start_time": 5.79,
+                                "end_time": 8.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d161ca59c91fd2816a4f",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 19.205808,
+                        "end_time": 19.205808,
+                        "duration": 14.767891156462586,
+                        "file_name": "1Jnpn__I5Hs_5cb4d161ca59c91fd2816a4f.wav",
+                        "file_size_bytes": 2605100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415184553,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbdde",
+                                "sentence": " Jodie and her mother, allison, sit on a bench.",
+                                "start_time": 0.03,
+                                "end_time": 3.52
+                            },
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbddd",
+                                "sentence": " Jody is autistic and looks around aimlessly and mutters to herself.",
+                                "start_time": 3.52,
+                                "end_time": 8.14
+                            },
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbddc",
+                                "sentence": " She looks at the cover of a book and then leans her face towards her mother her mother, kisses her on the nose,",
+                                "start_time": 8.35,
+                                "end_time": 14.73
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d1acca59c91fd2816a51",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 29.498503,
+                        "end_time": 29.498503,
+                        "duration": 7.244625850340136,
+                        "file_name": "1Jnpn__I5Hs_5cb4d1acca59c91fd2816a51.wav",
+                        "file_size_bytes": 1277996,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415184708,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51ac0ce00e753b4338c179",
+                                "sentence": " Jodie holds a spoon in her hand, shakes it several times, then dips it into a bowl of potato salad and takes a bite.",
+                                "start_time": 0,
+                                "end_time": 7.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d1cde9b2de249a6f268a",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 42.973849,
+                        "end_time": 42.973849,
+                        "duration": 10.95981859410431,
+                        "file_name": "1Jnpn__I5Hs_5cb4d1cde9b2de249a6f268a.wav",
+                        "file_size_bytes": 1933356,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415184741,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51ae9d61c97bad8aaa4f79",
+                                "sentence": " A busy city streets filled with fast moving taxi cabs.",
+                                "start_time": 0,
+                                "end_time": 4.28
+                            },
+                            {
+                                "_id": "5e51ae9d61c97bad8aaa4f78",
+                                "sentence": " Now, allison, standing in her city apartment,",
+                                "start_time": 4.28,
+                                "end_time": 7.76
+                            },
+                            {
+                                "_id": "5e51ae9d61c97bad8aaa4f77",
+                                "sentence": " she looks out a window down at the traffic below.",
+                                "start_time": 7.76,
+                                "end_time": 10.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d1f2e9b2de249a6f268b",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 53.256267,
+                        "end_time": 53.256267,
+                        "duration": 9.195102040816327,
+                        "file_name": "1Jnpn__I5Hs_5cb4d1f2e9b2de249a6f268b.wav",
+                        "file_size_bytes": 1622060,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415184818,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51ae9c61c97bad8aaa4f2a",
+                                "sentence": " In her apartment, allison is smiling and typing on her laptop",
+                                "start_time": 0,
+                                "end_time": 4.64
+                            },
+                            {
+                                "_id": "5e51ae9c61c97bad8aaa4f29",
+                                "sentence": " text onscreen. Alison singer, autism science foundation.",
+                                "start_time": 4.64,
+                                "end_time": 9.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d214e9b2de249a6f268c",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 70.041265,
+                        "end_time": 70.041265,
+                        "duration": 7.430385487528345,
+                        "file_name": "1Jnpn__I5Hs_5cb4d214e9b2de249a6f268c.wav",
+                        "file_size_bytes": 1310764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415184852,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51ae9d61c97bad8aaa4f81",
+                                "sentence": " Two young women carrying binders enter the apartment and sit with alison at her desk.",
+                                "start_time": 0.04,
+                                "end_time": 5.48
+                            },
+                            {
+                                "_id": "5e51ae9d61c97bad8aaa4f80",
+                                "sentence": " They talk and look over studies.",
+                                "start_time": 5.48,
+                                "end_time": 7.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d246ca59c91fd2816a52",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 81.56968,
+                        "end_time": 81.56968,
+                        "duration": 16.718367346938777,
+                        "file_name": "1Jnpn__I5Hs_5cb4d246ca59c91fd2816a52.wav",
+                        "file_size_bytes": 2949164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415184942,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbde1",
+                                "sentence": " Photos of newspaper headlines that read the wakefield chronicles. M m r vaccine link to autism. New study says yes,",
+                                "start_time": 0,
+                                "end_time": 9.17
+                            },
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbde0",
+                                "sentence": " mm are",
+                                "start_time": 9.3,
+                                "end_time": 10.69
+                            },
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbddf",
+                                "sentence": " study finds. M m r is linked to autism. M m mar autism scare grows.",
+                                "start_time": 10.69,
+                                "end_time": 16.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d274e9b2de249a6f268d",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 95.839918,
+                        "end_time": 95.839918,
+                        "duration": 2.786394557823129,
+                        "file_name": "1Jnpn__I5Hs_5cb4d274e9b2de249a6f268d.wav",
+                        "file_size_bytes": 491564,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415185028,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbdb7",
+                                "sentence": " Families with young children in a park.",
+                                "start_time": 0,
+                                "end_time": 2.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d2d0ca59c91fd2816a53",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 110.25656,
+                        "end_time": 110.25656,
+                        "duration": 17.647165532879818,
+                        "file_name": "1Jnpn__I5Hs_5cb4d2d0ca59c91fd2816a53.wav",
+                        "file_size_bytes": 3113004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415185200,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51ac0ce00e753b4338c1c0",
+                                "sentence": " Text rolls up from bottom of the screen. Mm are studies finland. 2000",
+                                "start_time": 0,
+                                "end_time": 6.15
+                            },
+                            {
+                                "_id": "5e51ac0ce00e753b4338c1bf",
+                                "sentence": " 1.8 million children,",
+                                "start_time": 6.15,
+                                "end_time": 8.62
+                            },
+                            {
+                                "_id": "5e51ac0ce00e753b4338c1be",
+                                "sentence": " USA 2001",
+                                "start_time": 8.62,
+                                "end_time": 10.77
+                            },
+                            {
+                                "_id": "5e51ac0ce00e753b4338c1bd",
+                                "sentence": " over 10000 children,",
+                                "start_time": 10.77,
+                                "end_time": 12.68
+                            },
+                            {
+                                "_id": "5e51ac0ce00e753b4338c1bc",
+                                "sentence": " denmark, 2000 to 537000 children.",
+                                "start_time": 12.68,
+                                "end_time": 17.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d318e9b2de249a6f268e",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 133.206551,
+                        "end_time": 133.206551,
+                        "duration": 15.32517006802721,
+                        "file_name": "1Jnpn__I5Hs_5cb4d318e9b2de249a6f268e.wav",
+                        "file_size_bytes": 2703404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415185312,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbdda",
+                                "sentence": " More text on screen. Thimerosal studies",
+                                "start_time": 0,
+                                "end_time": 3.44
+                            },
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbdd9",
+                                "sentence": " USA 2000 three 140000 children,",
+                                "start_time": 3.44,
+                                "end_time": 7.71
+                            },
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbdd8",
+                                "sentence": " England, 2004,",
+                                "start_time": 7.71,
+                                "end_time": 9.71
+                            },
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbdd7",
+                                "sentence": " 12000 children,",
+                                "start_time": 9.71,
+                                "end_time": 11.45
+                            },
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbdd6",
+                                "sentence": " Canada, 2005, 27000 children.",
+                                "start_time": 11.45,
+                                "end_time": 15.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d33dca59c91fd2816a54",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 141.375599,
+                        "end_time": 141.375599,
+                        "duration": 3.1579138321995464,
+                        "file_name": "1Jnpn__I5Hs_5cb4d33dca59c91fd2816a54.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415185349,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51aeee62f7e6ad8d9bbe28",
+                                "sentence": " We zoom in close to a dead end street sign.",
+                                "start_time": 0,
+                                "end_time": 3.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d354e9b2de249a6f268f",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 151.54133,
+                        "end_time": 151.54133,
+                        "duration": 3.8080725623582765,
+                        "file_name": "1Jnpn__I5Hs_5cb4d354e9b2de249a6f268f.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415185412,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51af0d61c97bad8aaa4f90",
+                                "sentence": " A thick pile of studies piles upon Alice and desk.",
+                                "start_time": 0,
+                                "end_time": 3.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d36ae9b2de249a6f2690",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 170.269971,
+                        "end_time": 170.269971,
+                        "duration": 3.5294331065759637,
+                        "file_name": "1Jnpn__I5Hs_5cb4d36ae9b2de249a6f2690.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415185434,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51ac0de00e753b4338c1e3",
+                                "sentence": " A city skyline. We see a medical building.",
+                                "start_time": 0,
+                                "end_time": 3.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d39aca59c91fd2816a55",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 182.668015,
+                        "end_time": 182.668015,
+                        "duration": 13.003174603174603,
+                        "file_name": "1Jnpn__I5Hs_5cb4d39aca59c91fd2816a55.wav",
+                        "file_size_bytes": 2293804,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415185522,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51ac0de00e753b4338c1e8",
+                                "sentence": " A doctor in a white lab coat, dan gash wind stands inside a white room,",
+                                "start_time": 0,
+                                "end_time": 5.38
+                            },
+                            {
+                                "_id": "5e51ac0de00e753b4338c1e7",
+                                "sentence": " a double helix. Dna strand animation rotates in front of him.",
+                                "start_time": 5.48,
+                                "end_time": 10.41
+                            },
+                            {
+                                "_id": "5e51ac0de00e753b4338c1e6",
+                                "sentence": " Text reads gene network.",
+                                "start_time": 10.41,
+                                "end_time": 12.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d3bbe9b2de249a6f2691",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 189.034806,
+                        "end_time": 189.034806,
+                        "duration": 5.015510204081632,
+                        "file_name": "1Jnpn__I5Hs_5cb4d3bbe9b2de249a6f2691.wav",
+                        "file_size_bytes": 884780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415185555,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbdf4",
+                                "sentence": " Text on screen. Dan guess wind school of medicine, UC l a.",
+                                "start_time": 0,
+                                "end_time": 4.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d3daca59c91fd2816a56",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 196.108254,
+                        "end_time": 196.108254,
+                        "duration": 3.436553287981859,
+                        "file_name": "1Jnpn__I5Hs_5cb4d3daca59c91fd2816a56.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415185626,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51aeec62f7e6ad8d9bbda1",
+                                "sentence": " Fast paced equipment between DNA sequencing.",
+                                "start_time": 0,
+                                "end_time": 3.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d423ca59c91fd2816a58",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 213.06803999999997,
+                        "end_time": 213.06803999999997,
+                        "duration": 8.730702947845804,
+                        "file_name": "1Jnpn__I5Hs_5cb4d423ca59c91fd2816a58.wav",
+                        "file_size_bytes": 1540140,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415185739,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbde3",
+                                "sentence": " On a computer screen, we see a visual map of how certain genes interact with others represented with colorful dots connected by lines.",
+                                "start_time": 0,
+                                "end_time": 8.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d4a0e9b2de249a6f2692",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 219.825122,
+                        "end_time": 219.825122,
+                        "duration": 8.080544217687075,
+                        "file_name": "1Jnpn__I5Hs_5cb4d4a0e9b2de249a6f2692.wav",
+                        "file_size_bytes": 1425452,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415185944,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51ae9c61c97bad8aaa4f44",
+                                "sentence": " Dan gash, wind and two young women, all three wearing white lab coats, stand in front of a blacktop discussing something.",
+                                "start_time": 0,
+                                "end_time": 8.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d4bbe9b2de249a6f2693",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 226.567725,
+                        "end_time": 226.567725,
+                        "duration": 2.043356009070295,
+                        "file_name": "1Jnpn__I5Hs_5cb4d4bbe9b2de249a6f2693.wav",
+                        "file_size_bytes": 360492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415190011,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51ae9c61c97bad8aaa4f10",
+                                "sentence": " Images of brain scans.",
+                                "start_time": 0,
+                                "end_time": 2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d4e3e9b2de249a6f2694",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 249.44395,
+                        "end_time": 249.44395,
+                        "duration": 12.817414965986394,
+                        "file_name": "1Jnpn__I5Hs_5cb4d4e3e9b2de249a6f2694.wav",
+                        "file_size_bytes": 2261036,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415190051,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbdb0",
+                                "sentence": " Dan guess wind stands in the white room again, surrounded by thousands of hovering dots that represent genes.",
+                                "start_time": 0.12,
+                                "end_time": 7.75
+                            },
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbdaf",
+                                "sentence": " He studies them closely. A 3D illustration of a fetus appears.",
+                                "start_time": 7.93,
+                                "end_time": 12.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb4d504e9b2de249a6f2695",
+                        "video": "5cb09153ca59c91fd2816a03",
+                        "audio_description": "5cb09153ca59c91fd2816a02",
+                        "user": "5c8c0987ab5fd817ce54d080",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 257.030132,
+                        "end_time": 257.030132,
+                        "duration": 5.6656689342403626,
+                        "file_name": "1Jnpn__I5Hs_5cb4d504e9b2de249a6f2695.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Jnpn__I5Hs",
+                        "created_at": 20190415190124,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51aeed62f7e6ad8d9bbdaa",
+                                "sentence": " Next to the fetal illustration, text appears 10 to 24 weeks.",
+                                "start_time": 0.12,
+                                "end_time": 5.62
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5cb09153ca59c91fd2816a02",
+                "video": "5cb09153ca59c91fd2816a03",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c8c0987ab5fd817ce54d080",
+                    "email": "grcctv@gmail.com",
+                    "name": "GRCCtv",
+                    "given_name": "GRCCtv",
+                    "picture": "https://lh6.googleusercontent.com/-8ICiSn2zd8M/AAAAAAAAAAI/AAAAAAAAAG8/aTe4tXpThyc/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "101072625102532558355",
+                    "last_login": 20190415191938,
+                    "token": "6c5fc5c07c158d16e342519d6c483087eb6bbb1539708c7ab4a8f23009cd35ba",
+                    "__v": 0,
+                    "updated_at": 20190415191938,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190412132331,
+                "updated_at": 20190412132331,
+                "notes": "1s- A middle-aged woman Alison with her autistic teenage daughter Jody walk on a path through a park, hand-in-hand.\n\n18s- Jody and her mother Alison sit on a bench. Jody is autistic and looks around aimlessly and mutters to herself. She looks at the cover of a book, then leans her face towards her mother. Her mother kisses her on the nose.\n\n29s- Jody holds a spoon in her hand, shakes it several times, then dips it into a bowl of potato salad, takes a bite.\n\n42s- A busy city, streets filled with fast-moving taxi cabs. Now, Alison standing in her city apartment. She looks out a window, down at the traffic below.\n\n52s- In her apartment, Alison smiling and typing on her laptop. Text on screen: \"Alison Singer. Autism Science Foundation.\"\n\n1.09- Two young women carrying binders enter the apartment and sit with Alison at her desk. They talk and look over studies.\n\n1:21- photos of newspaper headlines that read: \"The Wakefield Chronicles.\" \"MMR vaccine link to autism? New study says yes.\" \"MMR.\" \"Study finds MMR is linked to autism.\" \"MMR-autism scare grows.\"\n\n1:35- Families with young children in a park.\n\n1:50- Text rolls up from bottom of the screen: \"MMR Studies. Finland 2000, 1.8 million children. USA 2001, over 10,000 children. Denmark 2002, 537,000 children.\"\n\n2:13- More text: \"Thimerosal Studies. USA 2003, 140,000 children. England 2004, 12,000 children. Canada 2005, 27,000 children.\"\n\n2.22- We zoom in close to a \"Dead End\" street sign.\n\n2:31- A thick pile of a studies piles up on Alison's desk.\n\n2.50- A city skyline. We see a medical building.\n\n3.02-A doctor in a white lab coat Dan Geschwind stands inside a white room. A double-helix DNA strand animation rotates in front of him. Text reads \"Gene Network.\"\n\n3:09- Text on screen: \"Dan Geschwind, School of Medicine, UCLA.\"\n\n3:16- Fast-paced equipment doing DNA sequencing.\n\n3:32- On a computer screen, we see a visual map of how certain genes interact with others, represented with colorful dots connected by lines.\n\n3:40- Dan Geschwind and two young women, all wearing white lab coats, stand in front of a laptop, discussing something.\n\n3:46- Images of brain scans.\n\n4:09 Dan Geschwind stands in the white room surrounded by thousands of hovering dots that represent genes. He studies them closely. A 3D illustration of a fetus appears.\n\n4:17- Next to the fetal illustration, text appears: 10-24 weeks.\n\n4.33- Jody in the park, looking down and smiling.\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5cb09153ca59c91fd2816a03",
+        "title": "NOVA: Vaccines\u2014Calling the Shots | Autism & Vaccines",
+        "description": "Autism & Vaccines downloaded from PBS LearningMedia, https://www.pbslearningmedia.org/resource/nvvs-sci-autism/autism-vaccines/. Rights to use this asset do not expire.\n\nAsset Copyright: \u00a92014 WGBH Educational Foundation. All Rights Reserved.\nMedia Credits\nProduced by NOVA.\n\nSource:\nNOVA: \"Vaccines\u2014Calling the Shots\"\n\nProject funded by:\nThe Corporation for Public Broadcasting (CPB)\nDavid H. Koch Fund for Science",
+        "youtube_id": "1Jnpn__I5Hs",
+        "created_at": 20190412132331,
+        "updated_at": 20190415190156,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 275
+    }
+}

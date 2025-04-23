@@ -1,0 +1,790 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5cd4f80fabc2b679a39dda10",
+                        "video": "5cd4f3f57e12a779a02c6fd7",
+                        "audio_description": "5cd4f3f57e12a779a02c6fd6",
+                        "user": "5cd4f3c67e12a779a02c6fd5",
+                        "label": "Audio track",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 19.882666666666665,
+                        "duration": 19.882666666666665,
+                        "file_name": "vmPQYYlje4c_5cd4f80fabc2b679a39dda10.wav",
+                        "file_size_bytes": 3817516,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vmPQYYlje4c",
+                        "created_at": 20190510040327,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e19aefae1231e0996d",
+                                "sentence": " Greetings",
+                                "start_time": 1.08,
+                                "end_time": 2.2
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e0996c",
+                                "sentence": " this fall.",
+                                "start_time": 2.39,
+                                "end_time": 3.59
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e0996b",
+                                "sentence": " Yosemite is celebrating 40 years of deaf services.",
+                                "start_time": 3.59,
+                                "end_time": 7.9
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e0996a",
+                                "sentence": " On October 11 through the 14th",
+                                "start_time": 8,
+                                "end_time": 10.44
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09969",
+                                "sentence": " 2019,",
+                                "start_time": 10.44,
+                                "end_time": 12.18
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09968",
+                                "sentence": " we will have a deaf weekend of activities.",
+                                "start_time": 12.32,
+                                "end_time": 15.14
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09967",
+                                "sentence": " Today. We will discuss making camping reservations for the weekend.",
+                                "start_time": 15.48,
+                                "end_time": 19.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cd4f83e7e12a779a02c6fda",
+                        "video": "5cd4f3f57e12a779a02c6fd7",
+                        "audio_description": "5cd4f3f57e12a779a02c6fd6",
+                        "user": "5cd4f3c67e12a779a02c6fd5",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 19.688961,
+                        "end_time": 40.168960999999996,
+                        "duration": 20.48,
+                        "file_name": "vmPQYYlje4c_5cd4f83e7e12a779a02c6fda.wav",
+                        "file_size_bytes": 3932204,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vmPQYYlje4c",
+                        "created_at": 20190510040414,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e29aefae1231e099e2",
+                                "sentence": " Yosemite is large,",
+                                "start_time": 1.2,
+                                "end_time": 3.11
+                            },
+                            {
+                                "_id": "5e13e7e29aefae1231e099e1",
+                                "sentence": " but the activities will only occur in yosemite valley.",
+                                "start_time": 3.34,
+                                "end_time": 7.1
+                            },
+                            {
+                                "_id": "5e13e7e29aefae1231e099e0",
+                                "sentence": " The valley has both hotels and campgrounds.",
+                                "start_time": 8.67,
+                                "end_time": 12.14
+                            },
+                            {
+                                "_id": "5e13e7e29aefae1231e099df",
+                                "sentence": " You can reserve a hotel right now,",
+                                "start_time": 12.38,
+                                "end_time": 14.89
+                            },
+                            {
+                                "_id": "5e13e7e29aefae1231e099de",
+                                "sentence": " w w w dot travel, yosemite dot com.",
+                                "start_time": 16.22,
+                                "end_time": 19.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cd4f8d97e12a779a02c6fdb",
+                        "video": "5cd4f3f57e12a779a02c6fd7",
+                        "audio_description": "5cd4f3f57e12a779a02c6fd6",
+                        "user": "5cd4f3c67e12a779a02c6fd5",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 39.915651,
+                        "end_time": 75.32898433333332,
+                        "duration": 35.413333333333334,
+                        "file_name": "vmPQYYlje4c_5cd4f8d97e12a779a02c6fdb.wav",
+                        "file_size_bytes": 6799404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vmPQYYlje4c",
+                        "created_at": 20190510040649,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e19aefae1231e0999e",
+                                "sentence": " You have to wait for camping reservations.",
+                                "start_time": 1.03,
+                                "end_time": 3.56
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e0999d",
+                                "sentence": " Yosemite has many campgrounds,",
+                                "start_time": 5.11,
+                                "end_time": 7.54
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e0999c",
+                                "sentence": " all of which cost about 30 to 40 dollars.",
+                                "start_time": 8.59,
+                                "end_time": 11.71
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e0999b",
+                                "sentence": " First, you want to familiarize yourself with the map of yosemite,",
+                                "start_time": 13.7,
+                                "end_time": 18.53
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e0999a",
+                                "sentence": " study it",
+                                "start_time": 18.87,
+                                "end_time": 20.01
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09999",
+                                "sentence": " and learn the locations of the campgrounds.",
+                                "start_time": 20.09,
+                                "end_time": 22.51
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09998",
+                                "sentence": " The campground map is at w w w dot n p s dot g o b forward slash y o s e forward slash plan. Your visit",
+                                "start_time": 23.94,
+                                "end_time": 32.26
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09997",
+                                "sentence": " forward slash campgrounds",
+                                "start_time": 32.26,
+                                "end_time": 33.84
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09996",
+                                "sentence": " dot h t m.",
+                                "start_time": 33.84,
+                                "end_time": 35.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cd4f92dabc2b679a39dda12",
+                        "video": "5cd4f3f57e12a779a02c6fd7",
+                        "audio_description": "5cd4f3f57e12a779a02c6fd6",
+                        "user": "5cd4f3c67e12a779a02c6fd5",
+                        "label": "campgrounds",
+                        "playback_type": "inline",
+                        "start_time": 75.392151,
+                        "end_time": 131.712151,
+                        "duration": 56.32,
+                        "file_name": "vmPQYYlje4c_5cd4f92dabc2b679a39dda12.wav",
+                        "file_size_bytes": 10813484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vmPQYYlje4c",
+                        "created_at": 20190510040813,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e843f9dc541230061b9e",
+                                "sentence": " Yosemite valley has three reserve a bill camp grounds,",
+                                "start_time": 0.53,
+                                "end_time": 3.96
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b9d",
+                                "sentence": " upper pines,",
+                                "start_time": 3.96,
+                                "end_time": 5.27
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b9c",
+                                "sentence": " lower pines,",
+                                "start_time": 5.27,
+                                "end_time": 6.64
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b9b",
+                                "sentence": " and North pines.",
+                                "start_time": 6.64,
+                                "end_time": 8.35
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b9a",
+                                "sentence": " If all of these are full,",
+                                "start_time": 14.07,
+                                "end_time": 15.93
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b99",
+                                "sentence": " you can try to reserve others,",
+                                "start_time": 15.93,
+                                "end_time": 18.13
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b98",
+                                "sentence": " such as",
+                                "start_time": 19,
+                                "end_time": 20.17
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b97",
+                                "sentence": " the will own a campground,",
+                                "start_time": 20.17,
+                                "end_time": 21.7
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b96",
+                                "sentence": " which is about 45 minutes south of the valley,",
+                                "start_time": 21.91,
+                                "end_time": 24.87
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b95",
+                                "sentence": " or 30 minutes northwest of the valley",
+                                "start_time": 25.59,
+                                "end_time": 29.09
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b94",
+                                "sentence": " is crane flat campground",
+                                "start_time": 29.84,
+                                "end_time": 31.91
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b93",
+                                "sentence": " or just a bit further is hodgdon meadow campground.",
+                                "start_time": 34.56,
+                                "end_time": 38.26
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b92",
+                                "sentence": " The park has many campgrounds along the road.",
+                                "start_time": 40.57,
+                                "end_time": 43.03
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b91",
+                                "sentence": " Look at the full map",
+                                "start_time": 43.4,
+                                "end_time": 44.83
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b90",
+                                "sentence": " and figure out",
+                                "start_time": 44.84,
+                                "end_time": 46.09
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b8f",
+                                "sentence": " which campground you'd prefer.",
+                                "start_time": 47.07,
+                                "end_time": 48.9
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b8e",
+                                "sentence": " Ask yourself, how far am I willing to drive",
+                                "start_time": 48.9,
+                                "end_time": 51.41
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b8d",
+                                "sentence": " and make a list of what you would choose",
+                                "start_time": 51.41,
+                                "end_time": 53.54
+                            },
+                            {
+                                "_id": "5e13e843f9dc541230061b8c",
+                                "sentence": " in what order down the list until you're ready.",
+                                "start_time": 53.54,
+                                "end_time": 56.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cd4f97eabc2b679a39dda13",
+                        "video": "5cd4f3f57e12a779a02c6fd7",
+                        "audio_description": "5cd4f3f57e12a779a02c6fd6",
+                        "user": "5cd4f3c67e12a779a02c6fd5",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 131.541188,
+                        "end_time": 198.357188,
+                        "duration": 66.816,
+                        "file_name": "vmPQYYlje4c_5cd4f97eabc2b679a39dda13.wav",
+                        "file_size_bytes": 12828716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vmPQYYlje4c",
+                        "created_at": 20190510040934,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e841f9dc541230061ad5",
+                                "sentence": " Next, we'll discuss how to reserve the site.",
+                                "start_time": 1.7,
+                                "end_time": 4.42
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ad4",
+                                "sentence": " You must wait until may 15 at 7 am California time.",
+                                "start_time": 4.67,
+                                "end_time": 8.7
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ad3",
+                                "sentence": " Even if you're eager to reserve, now, you can't do it yet.",
+                                "start_time": 11.24,
+                                "end_time": 14.81
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ad2",
+                                "sentence": " You have to wait.",
+                                "start_time": 14.81,
+                                "end_time": 15.86
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ad1",
+                                "sentence": " There is a specific website for reservations,",
+                                "start_time": 19.1,
+                                "end_time": 22.14
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ad0",
+                                "sentence": " w w w dot recreation dot g o v",
+                                "start_time": 22.3,
+                                "end_time": 26.01
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061acf",
+                                "sentence": " it is a little complicated.",
+                                "start_time": 31.21,
+                                "end_time": 33.15
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ace",
+                                "sentence": " So i'll explain the system",
+                                "start_time": 33.15,
+                                "end_time": 34.86
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061acd",
+                                "sentence": " before may 15.",
+                                "start_time": 37.66,
+                                "end_time": 39.52
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061acc",
+                                "sentence": " I recommend going to the website,",
+                                "start_time": 39.6,
+                                "end_time": 41.91
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061acb",
+                                "sentence": " which is www dot recreation dot g o v",
+                                "start_time": 42.76,
+                                "end_time": 46.53
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061aca",
+                                "sentence": " first",
+                                "start_time": 47.06,
+                                "end_time": 48.09
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ac9",
+                                "sentence": " sign up,",
+                                "start_time": 48.09,
+                                "end_time": 48.88
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ac8",
+                                "sentence": " which is required",
+                                "start_time": 48.88,
+                                "end_time": 50.29
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ac7",
+                                "sentence": " next,",
+                                "start_time": 51.89,
+                                "end_time": 52.77
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ac6",
+                                "sentence": " study how the website works, and figure out the system",
+                                "start_time": 52.84,
+                                "end_time": 56.27
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ac5",
+                                "sentence": " experiment.",
+                                "start_time": 56.64,
+                                "end_time": 57.89
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ac4",
+                                "sentence": " Pick a campground,",
+                                "start_time": 58.35,
+                                "end_time": 59.98
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ac3",
+                                "sentence": " enter arrival,",
+                                "start_time": 60.11,
+                                "end_time": 61.82
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ac2",
+                                "sentence": " and leaving dates",
+                                "start_time": 61.82,
+                                "end_time": 63.14
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ac1",
+                                "sentence": " and pick a sight,",
+                                "start_time": 63.65,
+                                "end_time": 64.9
+                            },
+                            {
+                                "_id": "5e13e841f9dc541230061ac0",
+                                "sentence": " figure it all out.",
+                                "start_time": 65.32,
+                                "end_time": 66.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cd4f9c17e12a779a02c6fdc",
+                        "video": "5cd4f3f57e12a779a02c6fd7",
+                        "audio_description": "5cd4f3f57e12a779a02c6fd6",
+                        "user": "5cd4f3c67e12a779a02c6fd5",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 198.452502,
+                        "end_time": 225.16183533333333,
+                        "duration": 26.709333333333333,
+                        "file_name": "vmPQYYlje4c_5cd4f9c17e12a779a02c6fdc.wav",
+                        "file_size_bytes": 5128236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vmPQYYlje4c",
+                        "created_at": 20190510041041,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e19aefae1231e09966",
+                                "sentence": " Practice until you're comfortable.",
+                                "start_time": 1.85,
+                                "end_time": 4.17
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09965",
+                                "sentence": " The reason it is crucial to prepare ahead",
+                                "start_time": 7.04,
+                                "end_time": 10.35
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09964",
+                                "sentence": " is because on may 15",
+                                "start_time": 10.37,
+                                "end_time": 12.52
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09963",
+                                "sentence": " at seven am,",
+                                "start_time": 12.52,
+                                "end_time": 13.83
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09962",
+                                "sentence": " you only have",
+                                "start_time": 13.83,
+                                "end_time": 15.16
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09961",
+                                "sentence": " about 15 minutes to reserve your campsite",
+                                "start_time": 15.16,
+                                "end_time": 18.07
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e09960",
+                                "sentence": " after that,",
+                                "start_time": 19.2,
+                                "end_time": 20.4
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e0995f",
+                                "sentence": " they'll probably all be taken.",
+                                "start_time": 20.4,
+                                "end_time": 22.38
+                            },
+                            {
+                                "_id": "5e13e7e19aefae1231e0995e",
+                                "sentence": " That's the reason to prepare and be ready.",
+                                "start_time": 23.64,
+                                "end_time": 26.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cd4fb69abc2b679a39dda16",
+                        "video": "5cd4f3f57e12a779a02c6fd7",
+                        "audio_description": "5cd4f3f57e12a779a02c6fd6",
+                        "user": "5cd4f3c67e12a779a02c6fd5",
+                        "label": "final",
+                        "playback_type": "inline",
+                        "start_time": 225.381327,
+                        "end_time": 269.925327,
+                        "duration": 44.544,
+                        "file_name": "vmPQYYlje4c_5cd4fb69abc2b679a39dda16.wav",
+                        "file_size_bytes": 8552492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vmPQYYlje4c",
+                        "created_at": 20190510041745,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e39aefae1231e09a3a",
+                                "sentence": " Now imagine it is may 15.",
+                                "start_time": 1.78,
+                                "end_time": 4.42
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a39",
+                                "sentence": " You're ready to try for a reservation.",
+                                "start_time": 4.42,
+                                "end_time": 6.73
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a38",
+                                "sentence": " I suggest you are ready early,",
+                                "start_time": 6.73,
+                                "end_time": 9.08
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a37",
+                                "sentence": " maybe about an hour before at 6 am",
+                                "start_time": 9.18,
+                                "end_time": 11.84
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a36",
+                                "sentence": " sit down, go to the website, login and calmly prepare.",
+                                "start_time": 12.08,
+                                "end_time": 15.96
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a35",
+                                "sentence": " Then you can watch the clock count down to seven am.",
+                                "start_time": 19.64,
+                                "end_time": 23.09
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a34",
+                                "sentence": " And that's the point that you could try to reserve quickly.",
+                                "start_time": 23.36,
+                                "end_time": 26.37
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a33",
+                                "sentence": " If you don't get any site,",
+                                "start_time": 28.64,
+                                "end_time": 30.43
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a32",
+                                "sentence": " don't worry.",
+                                "start_time": 30.43,
+                                "end_time": 31.58
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a31",
+                                "sentence": " Later, I will make a second video of what options you have next.",
+                                "start_time": 32.56,
+                                "end_time": 36.28
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a30",
+                                "sentence": " So learn",
+                                "start_time": 38.52,
+                                "end_time": 39.92
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a2f",
+                                "sentence": " practice.",
+                                "start_time": 39.92,
+                                "end_time": 41.01
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a2e",
+                                "sentence": " Get ready.",
+                                "start_time": 41.01,
+                                "end_time": 42.11
+                            },
+                            {
+                                "_id": "5e13e7e39aefae1231e09a2d",
+                                "sentence": " And Good luck.",
+                                "start_time": 42.98,
+                                "end_time": 44.29
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5cd4f3f57e12a779a02c6fd6",
+                "video": "5cd4f3f57e12a779a02c6fd7",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5cd4f3c67e12a779a02c6fd5",
+                    "email": "kara.m.stella@gmail.com",
+                    "name": "Kara Stella",
+                    "given_name": "Kara",
+                    "picture": "https://lh3.googleusercontent.com/-5xa6OZsa2ZQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdNTThr6VR8v0jAmd8oHApyukdvzA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "108420323478656061139",
+                    "last_login": 20200708201600,
+                    "token": "5b09b159a4a581ac4254e210ddbb5dc02770a3e1234ba9dee96cce38c82da96c",
+                    "__v": 0,
+                    "updated_at": 20200708201600,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190510034557,
+                "updated_at": 20190517163033,
+                "notes": "A white, female ranger in a ranger hat and black shirt with NPS logo on the front stands in a forest.",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5cd612f77e12a779a02c6ff0",
+                        "video": "5cd4f3f57e12a779a02c6fd7",
+                        "audio_description": "5cd612deabc2b679a39dda2a",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "anchor",
+                        "playback_type": "extended",
+                        "start_time": 0.22224096185302733,
+                        "end_time": 0.22224096185302733,
+                        "duration": 3.3436734693877552,
+                        "file_name": "vmPQYYlje4c_5cd612f77e12a779a02c6ff0.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vmPQYYlje4c",
+                        "created_at": 20190511001031,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a4aee00e753b4338c163",
+                                "sentence": " Yosemite deaf services, 40th anniversary.",
+                                "start_time": 0.17,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cd6131dabc2b679a39dda2b",
+                        "video": "5cd4f3f57e12a779a02c6fd7",
+                        "audio_description": "5cd612deabc2b679a39dda2a",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "Greetings",
+                        "playback_type": "inline",
+                        "start_time": 1.2639079923706054,
+                        "end_time": 7.115336563799177,
+                        "duration": 5.851428571428571,
+                        "file_name": "vmPQYYlje4c_5cd6131dabc2b679a39dda2b.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vmPQYYlje4c",
+                        "created_at": 20190511001109,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5195950a396d3b41d13fd0",
+                                "sentence": " Greetings! This fall. Yosemite is celebrating 40 years of death services.",
+                                "start_time": 0.31,
+                                "end_time": 5.81
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5cd612deabc2b679a39dda2a",
+                "video": "5cd4f3f57e12a779a02c6fd7",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "591ccdc32805421bd3af5910",
+                    "email": "charitypc@gmail.com",
+                    "name": "Charity Pitcher-Cooper",
+                    "given_name": "Charity",
+                    "picture": "https://lh5.googleusercontent.com/-QWgHIV6dqG4/AAAAAAAAAAI/AAAAAAAAA8k/zbElaAqZIsY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102960542363040396571",
+                    "last_login": 20210122172832,
+                    "token": "3d49b4ee09a7b279fbc2705b8e6dd7c75ec919e82a13d07eb1c9925ff7849cf2",
+                    "__v": 0,
+                    "updated_at": 20210122172832,
+                    "policy_review": "reviewed",
+                    "admin": 1
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20190511001006,
+                "updated_at": 20190511001006,
+                "notes": "Yosemite Deaf services 40th anniversary\n\nGreetings",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Deaf",
+            "Yosemite",
+            "camping",
+            "Deaf Services",
+            "40th Anniversary",
+            "October 11- 14",
+            "2019"
+        ],
+        "custom_tags": [],
+        "_id": "5cd4f3f57e12a779a02c6fd7",
+        "title": "Yosemite Deaf Services 40th Anniversary Camping Tips",
+        "description": "This video gives tips on how to arrange for camping for Yosemite National Park's Deaf Services 40th Anniversary, October 11-14, 2019.\n\nScript: Greetings!  This fall, Yosemite is celebrating forty years of Deaf Services!  On October 11-14, 2019, we will have a Deaf weekend of activities.  Today\u2019s video is discussing how to make camping reservations for the weekend.\n\nYosemite is large, but the activities will occur in Yosemite Valley only.  The Valley has hotels and campgrounds.  You can reserve camping now at www.travelyosemite.com. \n\nYosemite has many campgrounds, all of which cost about $30-40.\n\nFirst, you want to really learn the map of Yosemite and the location of the campgrounds.  Study the map.  In Yosemite Valley, there are 3 reservable campgrounds: Upper Pines, Lower Pines, and North Pines.  If these are full, you can try to reserve Wawona campground, which is about 45 minutes south, Crane Flat, which is about 30 minutes northwest of the Valley, or Hodgdon Campground, which is about 15 minutes beyond Crane Flat.  There are other campgrounds, too.  Look at the full map and figure out which you prefer and make a list of which you want to choose first, second, third and so on.\n\nNext, we\u2019ll talk about how to reserve the site.  You must wait until May 15 at 7am, California time.\n\nImagine you are ready to reserve now.  You can\u2019t reserve now \u2013 its not open.  You can\u2019t reserve later than May 15 because it will probably be full.\n\nThere is a special website for reservations.  It is a little complicated, so I will explain.  I recommend before May 15, go to the website and first, signup, which is required.  Then, practice with the system.  Pick a campground, put in your arrival and leaving dates and pick a site.  Practice until you are comfortable.  This is key because on May 15 you will have about 15 minutes until the sites are all taken.\n\nNow, imagine it is May 15.  I suggest you don\u2019t wait till after 7am.  In fact, I suggest you sit down maybe an hour before.  Login and prepare.  Watch the clock till 7am, then try to be quick to reserve.\n\nIf you don\u2019t get a site at any campground, don\u2019t worry.  Later, I will make a video of what options you have next.\n\nSo learn, practice, get ready and good luck!\n\nFor more information, contact Yosemite Deaf Services 209-379-5250 v/txt; yose_Deaf_Services@nps.gov; 209-222-3944 VP",
+        "youtube_id": "vmPQYYlje4c",
+        "created_at": 20190510034557,
+        "updated_at": 20190511001109,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 271
+    }
+}

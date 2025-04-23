@@ -1,0 +1,83 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "60177870aad36831fd7e585f",
+                        "video": "60177870aad36831fd7e5861",
+                        "audio_description": "60177870aad36831fd7e5860",
+                        "user": "600855fcce0a842f6990c125",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0.433692,
+                        "end_time": 0.433692,
+                        "duration": 2.048,
+                        "file_name": "wWcxL16P5iE_60177870aad36831fd7e585f.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/wWcxL16P5iE",
+                        "created_at": 20210201034136,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "601779dfaad36831fd7e5862",
+                        "video": "60177870aad36831fd7e5861",
+                        "audio_description": "60177870aad36831fd7e5860",
+                        "user": "600855fcce0a842f6990c125",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 162.361297,
+                        "end_time": 162.361297,
+                        "duration": 6.4,
+                        "file_name": "wWcxL16P5iE_601779dfaad36831fd7e5862.wav",
+                        "file_size_bytes": 1228844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/wWcxL16P5iE",
+                        "created_at": 20210201034743,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "60177870aad36831fd7e5860",
+                "video": "60177870aad36831fd7e5861",
+                "user": {
+                    "opt_in": [],
+                    "_id": "600855fcce0a842f6990c125",
+                    "email": "meghann.swenson@iesdb.org",
+                    "name": "Meghann Swenson",
+                    "given_name": "Meghann",
+                    "picture": "https://lh4.googleusercontent.com/-4EHIJEjncHc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmvdfh-4oayL4Aq746Nyua792T0XA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "110723634696724406244",
+                    "last_login": 20210131184957,
+                    "token": "37646b238be062e675b8383e03691d5a78060ad6b5997dd40f87ecff24858927",
+                    "__v": 0,
+                    "updated_at": 20210131184957
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20210201034136,
+                "updated_at": 20210201034136,
+                "notes": "An electronic drawing board is shown. It will be used to show the simplification of expressions containing exponents. ",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "60177870aad36831fd7e5861",
+        "title": "Negative Exponents",
+        "description": "A tutorial on simplifying expressions with negative exponents",
+        "youtube_id": "wWcxL16P5iE",
+        "created_at": 20210201034136,
+        "updated_at": 20210201034743,
+        "views": 0,
+        "__v": 0
+    }
+}

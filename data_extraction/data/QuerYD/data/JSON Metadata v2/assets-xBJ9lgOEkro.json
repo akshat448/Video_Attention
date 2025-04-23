@@ -1,0 +1,895 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a863f6c3c55fb6e05de8a35",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "Reckless Weave",
+                        "playback_type": "inline",
+                        "start_time": 97.313329,
+                        "end_time": 100.56412265079365,
+                        "duration": 3.250793650793651,
+                        "file_name": "xBJ9lgOEkro_5a863f6c3c55fb6e05de8a35.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180216021820,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec90",
+                                "sentence": " The suspects vehicle recklessly weaves in an hour traffic.",
+                                "start_time": 0.01,
+                                "end_time": 3.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8641933c55fb6e05de8a40",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "Motionless",
+                        "playback_type": "inline",
+                        "start_time": 131.882941,
+                        "end_time": 134.85509519501133,
+                        "duration": 2.972154195011338,
+                        "file_name": "xBJ9lgOEkro_5a8641933c55fb6e05de8a40.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180216022731,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b933189a9a9eaeeca4",
+                                "sentence": " Both suspects lay motionless on the ground.",
+                                "start_time": 0.31,
+                                "end_time": 2.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a86616f3c55fb6e05de8a77",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "Alley way turn",
+                        "playback_type": "inline",
+                        "start_time": 71.118336,
+                        "end_time": 76.22672602267573,
+                        "duration": 5.108390022675737,
+                        "file_name": "xBJ9lgOEkro_5a86616f3c55fb6e05de8a77.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180216044327,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec19",
+                                "sentence": " The police car follows as a suspect, sharply turns out a valerie onto the street.",
+                                "start_time": 0.3,
+                                "end_time": 4.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a87a6e93c55fb6e05de8abc",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 107.121207,
+                        "end_time": 107.121207,
+                        "duration": 3.436553287981859,
+                        "file_name": "xBJ9lgOEkro_5a87a6e93c55fb6e05de8abc.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180217035209,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec2f",
+                                "sentence": " The suspect takes a wide right turn, almost losing control.",
+                                "start_time": 0.15,
+                                "end_time": 3.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8a19e59770d006cef51a0b",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "Flipped truck",
+                        "playback_type": "extended",
+                        "start_time": 50.163189,
+                        "end_time": 50.163189,
+                        "duration": 24.61315192743764,
+                        "file_name": "xBJ9lgOEkro_5a8a19e59770d006cef51a0b.wav",
+                        "file_size_bytes": 4341804,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180219002717,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec14",
+                                "sentence": " Off camera, the suspects turn left into a street and cause a yellow truck to flip over.",
+                                "start_time": 0.52,
+                                "end_time": 5.81
+                            },
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec13",
+                                "sentence": " The driver of the truck is seen trying to get out of their vehicle. The suspects create a gap in between them, and the officers, as officers have to ground the flipped truck.",
+                                "start_time": 5.83,
+                                "end_time": 14.88
+                            },
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec12",
+                                "sentence": " Once the truck is rounded, the suspects are seen up the road, turning into an alley. The police vehicle follows into the alley and speeds through in order to get closer.",
+                                "start_time": 15.03,
+                                "end_time": 24.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8a1c679770d006cef51a0c",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "Couch Truck; Bike Rider",
+                        "playback_type": "extended",
+                        "start_time": 63.365083,
+                        "end_time": 63.365083,
+                        "duration": 32.69369614512472,
+                        "file_name": "xBJ9lgOEkro_5a8a1c679770d006cef51a0c.wav",
+                        "file_size_bytes": 5767212,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180219003759,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec78",
+                                "sentence": " The suspect vehicle sharply turns and soars back onto the street right after they go into the opposite lane and round a slow moving truck filled with couches and appliances.",
+                                "start_time": 0.67,
+                                "end_time": 10.19
+                            },
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec77",
+                                "sentence": " The police car remains very close in behind. The scene cuts out and showcases two more turns, a right turn on a road, and then a reckless left turn into an alleyway. Before the reckless left turn, a pedestrian riding a bicycle is seen crossing the street in front of the pursuit.",
+                                "start_time": 10.19,
+                                "end_time": 26.85
+                            },
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec76",
+                                "sentence": " This is what seems to have caused a reckless turn into the alleyway as a pedestrian gets lucky from being hit.",
+                                "start_time": 26.85,
+                                "end_time": 32.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8a1f449770d006cef51a12",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "Food truck",
+                        "playback_type": "extended",
+                        "start_time": 93.86282,
+                        "end_time": 93.86282,
+                        "duration": 15.789569160997733,
+                        "file_name": "xBJ9lgOEkro_5a8a1f449770d006cef51a12.wav",
+                        "file_size_bytes": 2785324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180219005012,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec3e",
+                                "sentence": " The suspect nearly cuts off a pedestrian sedan in order to squeeze through and by pass a slow food truck.",
+                                "start_time": 0.78,
+                                "end_time": 7.11
+                            },
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec3d",
+                                "sentence": " The police officers slowed down by the smart move and has to dictate its way in front of the sedan and prevent itself from being dropped behind a slow moving truck.",
+                                "start_time": 7.11,
+                                "end_time": 15.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8a1fcf9770d006cef51a13",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "PIT",
+                        "playback_type": "inline",
+                        "start_time": 115.940263,
+                        "end_time": 121.23441265986395,
+                        "duration": 5.294149659863946,
+                        "file_name": "xBJ9lgOEkro_5a8a1fcf9770d006cef51a13.wav",
+                        "file_size_bytes": 933932,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180219005231,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec6f",
+                                "sentence": " A pet maneuver, cause the vehicle to lose control and roll backwards into a gauged yard.",
+                                "start_time": 0.65,
+                                "end_time": 5.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8a616bda7ca40847b32c71",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "Intro",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 24.427392290249433,
+                        "file_name": "xBJ9lgOEkro_5a8a616bda7ca40847b32c71.wav",
+                        "file_size_bytes": 4309036,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180219053227,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec97",
+                                "sentence": " I am describing the opening scene of the movie end of watch.",
+                                "start_time": 0.31,
+                                "end_time": 3.93
+                            },
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec96",
+                                "sentence": " The movie records actions of two police officers who are longtime friends, brian Taylor and mike's of allah",
+                                "start_time": 3.93,
+                                "end_time": 10.74
+                            },
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec95",
+                                "sentence": " patrol a very dangerous part of south central los angeles.",
+                                "start_time": 10.74,
+                                "end_time": 14.23
+                            },
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec94",
+                                "sentence": " The opening scene to picks a car chase as the car chase progresses. Brian Taylor voices is unquestionable desire,",
+                                "start_time": 14.23,
+                                "end_time": 21.75
+                            },
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec93",
+                                "sentence": " loyalty and honor for the line of duty.",
+                                "start_time": 21.75,
+                                "end_time": 24.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8a626dda7ca40847b32c76",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "Scene intro",
+                        "playback_type": "extended",
+                        "start_time": 3.579879,
+                        "end_time": 3.579879,
+                        "duration": 50.991020408163266,
+                        "file_name": "xBJ9lgOEkro_5a8a626dda7ca40847b32c76.wav",
+                        "file_size_bytes": 8994860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180219053645,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec1e",
+                                "sentence": " A black screen showcases white writing that reads once upon a time in south central.",
+                                "start_time": 0.27,
+                                "end_time": 5.55
+                            },
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec1d",
+                                "sentence": " The scene then turns to dash cam footage from the police vehicle. It reveals a police car racing past a man lying on the street with a trash can scattered beside him. The unknown man tries getting the attention of the officers by aggressively raising his hand, but they remain on pursuit towards the suspects vehicle. Officers of allah ignores the man and uses the opposite lane to take a slight left,",
+                                "start_time": 5.55,
+                                "end_time": 27.72
+                            },
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec1c",
+                                "sentence": " then right turn through a red light. The scene cuts and showcases the police car, taking a sharp left turn, putting them behind a slow pedestrian vehicle. Officers of allah drives into the opposite lane. Once again",
+                                "start_time": 27.72,
+                                "end_time": 40.03
+                            },
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec1b",
+                                "sentence": " in order to round the slow vehicle, the police vehicle races. In order to catch up to the suspects.",
+                                "start_time": 40.03,
+                                "end_time": 45.6
+                            },
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec1a",
+                                "sentence": " The suspects are seen in the distance of about a hundred meters further down an alleyway.",
+                                "start_time": 45.6,
+                                "end_time": 50.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8a64e6da7ca40847b32c82",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "Stop Sign",
+                        "playback_type": "extended",
+                        "start_time": 28.578945,
+                        "end_time": 28.578945,
+                        "duration": 27.028027210884353,
+                        "file_name": "xBJ9lgOEkro_5a8a64e6da7ca40847b32c82.wav",
+                        "file_size_bytes": 4767788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180219054718,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec0f",
+                                "sentence": " At the end of the alley, the dash camp showcase their close encounter with the suspect vehicle as they're driving a black monte carlo. From the late 1980s, the suspects take a right turn onto a road, running a stop sign. They then take a sharp left turn into a dirt alley road.",
+                                "start_time": 0.4,
+                                "end_time": 15.25
+                            },
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec0e",
+                                "sentence": " Upon entering the alley, the suspect swerve into a wall, but remained control and tried to speed off. The police officers remain in close distance.",
+                                "start_time": 15.25,
+                                "end_time": 23.3
+                            },
+                            {
+                                "_id": "5e16c2b733189a9a9eaeec0d",
+                                "sentence": " The alley is filled with trash, graffiti and debris.",
+                                "start_time": 23.3,
+                                "end_time": 26.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8a65c0da7ca40847b32c89",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "Cat Jump",
+                        "playback_type": "extended",
+                        "start_time": 45.818988,
+                        "end_time": 45.818988,
+                        "duration": 7.7090249433106575,
+                        "file_name": "xBJ9lgOEkro_5a8a65c0da7ca40847b32c89.wav",
+                        "file_size_bytes": 1359916,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180219055056,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec64",
+                                "sentence": " Both vehicles are slowed down by a speed bump with in the alley, a cat merges from the rubble.",
+                                "start_time": 0.18,
+                                "end_time": 5.89
+                            },
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec63",
+                                "sentence": " and it runs past a cop car.",
+                                "start_time": 5.89,
+                                "end_time": 7.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8a66dbda7ca40847b32c8e",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "Random right",
+                        "playback_type": "extended",
+                        "start_time": 84.325667,
+                        "end_time": 84.325667,
+                        "duration": 7.616145124716553,
+                        "file_name": "xBJ9lgOEkro_5a8a66dbda7ca40847b32c8e.wav",
+                        "file_size_bytes": 1343532,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180219055539,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b933189a9a9eaeeca8",
+                                "sentence": " Both vehicles speed pass another car that is trying to pull over. The suspects vehicle takes a sharp right turn into an alleyway.",
+                                "start_time": 0.42,
+                                "end_time": 7.45
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8a67c6da7ca40847b32c91",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "Face to Face",
+                        "playback_type": "extended",
+                        "start_time": 121.231755,
+                        "end_time": 121.231755,
+                        "duration": 8.730702947845804,
+                        "file_name": "xBJ9lgOEkro_5a8a67c6da7ca40847b32c91.wav",
+                        "file_size_bytes": 1540140,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180219055934,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c323d02ed79aa16c1c1b",
+                                "sentence": " The monte carlo directly faces the police officers vehicle. The suspects are the first ones to get out.",
+                                "start_time": 0.24,
+                                "end_time": 6.43
+                            },
+                            {
+                                "_id": "5e16c323d02ed79aa16c1c1a",
+                                "sentence": " and they are the first ones to shoot their weapons.",
+                                "start_time": 6.43,
+                                "end_time": 8.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8a6ba597038908bae01601",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a83b8ed5005c16325ca8aa2",
+                        "user": "5a837a7b7b1e5e6279fed5ea",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 140.321046,
+                        "end_time": 140.321046,
+                        "duration": 20.619319727891156,
+                        "file_name": "xBJ9lgOEkro_5a8a6ba597038908bae01601.wav",
+                        "file_size_bytes": 3637292,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180219061605,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec54",
+                                "sentence": " Officers of all a kicks away the weapon of one of the suspects in handcuffs. In by turning over the motionless body. Officer Taylor keeps him at the other suspect,",
+                                "start_time": 0.2,
+                                "end_time": 9.07
+                            },
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec53",
+                                "sentence": " the va. Le then handcuffs the remaining suspect.",
+                                "start_time": 9.07,
+                                "end_time": 11.67
+                            },
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec52",
+                                "sentence": " Taylor puts his gun back into his holster and radios called for, which means no further assistance is needed.",
+                                "start_time": 11.67,
+                                "end_time": 18.28
+                            },
+                            {
+                                "_id": "5e16c2b833189a9a9eaeec51",
+                                "sentence": " Taylor then paced back and forth.",
+                                "start_time": 18.33,
+                                "end_time": 20.45
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a83b8ed5005c16325ca8aa2",
+                "video": "5a83b8ed5005c16325ca8aa3",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a837a7b7b1e5e6279fed5ea",
+                    "email": "sanghatocha@gmail.com",
+                    "name": "Tocha Sangha",
+                    "given_name": "Tocha",
+                    "picture": "https://lh3.googleusercontent.com/-9LSi9U6GWqs/AAAAAAAAAAI/AAAAAAAAAAA/ACSILjV83m-PDPDvOKFCp0InaOrBiHN79g/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115948398004829321358",
+                    "last_login": 20180418021001,
+                    "token": "0cacf1ad6606055cfcfd82b73cfe589bd39916c50c6c0ec5abdd07ced6d4ef01",
+                    "__v": 0,
+                    "updated_at": 20180418021001,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180214041957,
+                "updated_at": 20180222234859,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 3,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 3,
+                "admin_review": "",
+                "feedbacks": {
+                    "6": 1,
+                    "10": 1
+                }
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a89273459d5d30207ebba19",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a89107c3c55fb6e05de8bef",
+                        "user": "5a603d05a626df54938574b4",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0.451202,
+                        "end_time": 0.451202,
+                        "duration": 39.938321995464854,
+                        "file_name": "xBJ9lgOEkro_5a89273459d5d30207ebba19.wav",
+                        "file_size_bytes": 7045164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180218071148,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3db6",
+                                "sentence": " This is a scene from the movie end of watch.",
+                                "start_time": 1.04,
+                                "end_time": 3.64
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3db5",
+                                "sentence": " The scene opens with a black background of white letters in the middle of the screen.",
+                                "start_time": 3.74,
+                                "end_time": 7.77
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3db4",
+                                "sentence": " They read once upon a time with south central. The scene then cuts to dash cam footage of a police vehicle occupied by officer brian Taylor in mike's of allah row in pursuit of two suspects. In another vehicle,",
+                                "start_time": 7.77,
+                                "end_time": 18.81
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3db3",
+                                "sentence": " a man can be seen laying down on the sidewalk next to a knocked over garbage can angrily pointing at the suspects car.",
+                                "start_time": 18.81,
+                                "end_time": 24.79
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3db2",
+                                "sentence": " Officer Taylor makes a slight right turn and then a left turn to catch up to the suspects vehicle,",
+                                "start_time": 24.84,
+                                "end_time": 29.77
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3db1",
+                                "sentence": " a slow moving civilian vehicles blocking the way.",
+                                "start_time": 29.77,
+                                "end_time": 32.77
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3db0",
+                                "sentence": " Officer trailer cuts around them and then speeds down the long alley way to catch up with the suspects vehicle, which can be seen in the far distance.",
+                                "start_time": 32.77,
+                                "end_time": 39.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8927d659d5d30207ebba1a",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a89107c3c55fb6e05de8bef",
+                        "user": "5a603d05a626df54938574b4",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 29.205121,
+                        "end_time": 29.205121,
+                        "duration": 29.257142857142856,
+                        "file_name": "xBJ9lgOEkro_5a8927d659d5d30207ebba1a.wav",
+                        "file_size_bytes": 5161004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180218071430,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3dce",
+                                "sentence": " At the end of the alleyway, the suspects vehicle runs a stop sign. It makes a sharp right turn. Officer Taylor does the same to keep up.",
+                                "start_time": 1.22,
+                                "end_time": 8.2
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3dcd",
+                                "sentence": " The cess was quickly make a left turn into another alleyway. Officer Taylor also makes that left turn to the alleyway.",
+                                "start_time": 8.22,
+                                "end_time": 14.18
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3dcc",
+                                "sentence": " The alleyway is littered with garbage and old furniture, which causes the suspects vehicle lose control and hit a concrete wall. But they keep going.",
+                                "start_time": 14.18,
+                                "end_time": 21.11
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3dcb",
+                                "sentence": " A white cat runs across the alley. The suspects vehicle exits to ali and makes a left turn onto a main road.",
+                                "start_time": 21.24,
+                                "end_time": 27.53
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3dca",
+                                "sentence": " Officer Taylor does the same.",
+                                "start_time": 27.53,
+                                "end_time": 29.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a89290059d5d30207ebba1b",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a89107c3c55fb6e05de8bef",
+                        "user": "5a603d05a626df54938574b4",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 51.059223,
+                        "end_time": 51.059223,
+                        "duration": 38.91664399092971,
+                        "file_name": "xBJ9lgOEkro_5a89290059d5d30207ebba1b.wav",
+                        "file_size_bytes": 6864940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180218071928,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3dc2",
+                                "sentence": " A yellow pickup truck can be seen laying on its side in the middle of the road with a driver crawling out of the windshield.",
+                                "start_time": 1.01,
+                                "end_time": 6.97
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3dc1",
+                                "sentence": " Office trailer swerved around and speeds up to catch up to the suspects vehicle.",
+                                "start_time": 6.97,
+                                "end_time": 11.17
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3dc0",
+                                "sentence": " The suspects make a quick left turn into another alley weight officers. Taylor catches up and turns into the alleyway.",
+                                "start_time": 11.17,
+                                "end_time": 16.96
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3dbf",
+                                "sentence": " The suspects vehicle, an officer tailors vehicle, both exit the either way and make a right turn onto a main street.",
+                                "start_time": 16.96,
+                                "end_time": 22.51
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3dbe",
+                                "sentence": " A pickup truck filled with furniture is driving slowly, so the suspects vehicle cuts around them. It makes a right turn onto another street.",
+                                "start_time": 22.51,
+                                "end_time": 29.5
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3dbd",
+                                "sentence": " Officer Taylor follows closely behind",
+                                "start_time": 29.5,
+                                "end_time": 31.72
+                            },
+                            {
+                                "_id": "5e4cc36aa9ec2e99b2fb3dbc",
+                                "sentence": " the suspects, then make a left turn into an alleyway and a right onto a main street. Officer Taylor falls closely behind.",
+                                "start_time": 31.72,
+                                "end_time": 38.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a89384a59d5d30207ebba24",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a89107c3c55fb6e05de8bef",
+                        "user": "5a603d05a626df54938574b4",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 67.55109900000001,
+                        "end_time": 90.49241419274378,
+                        "duration": 22.941315192743765,
+                        "file_name": "xBJ9lgOEkro_5a89384a59d5d30207ebba24.wav",
+                        "file_size_bytes": 4046892,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180218082442,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e19",
+                                "sentence": " The suspect makes a slight right and a sharp left turn to lose the pursuing officers. They manage to keep up.",
+                                "start_time": 0.99,
+                                "end_time": 6.3
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e18",
+                                "sentence": " Yeah,",
+                                "start_time": 6.38,
+                                "end_time": 7.44
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e17",
+                                "sentence": " the suspect vehicle cuts around a slow moving civilian vehicle. Officer Taylor falls closely behind.",
+                                "start_time": 7.44,
+                                "end_time": 13.05
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e16",
+                                "sentence": " the suspect makes a hard break in the sun, right? Turn into an alley office. Taylor manages to turn as well. The pursuit continues. Down the alley, a pedestrian jumps out of the way.",
+                                "start_time": 14.2,
+                                "end_time": 22.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a89389659d5d30207ebba26",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a89107c3c55fb6e05de8bef",
+                        "user": "5a603d05a626df54938574b4",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 90.20202400000001,
+                        "end_time": 110.35694463492064,
+                        "duration": 20.154920634920636,
+                        "file_name": "xBJ9lgOEkro_5a89389659d5d30207ebba26.wav",
+                        "file_size_bytes": 3555372,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180218082558,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e3e",
+                                "sentence": " On a mainer of the suspect vehicle gains distance and weaves through traffic officer like a stuck behind a slow moving truck and has to wait to cut around.",
+                                "start_time": 1.23,
+                                "end_time": 7.83
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e3d",
+                                "sentence": " The suspect weaves in and out of lanes to avoid being stuck behind civilian vehicles. Officer Taylor does the same.",
+                                "start_time": 7.83,
+                                "end_time": 13.75
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e3c",
+                                "sentence": " The suspect makes a right turn at the first intersection and almost loses control. Officer Taylor falls closely.",
+                                "start_time": 13.79,
+                                "end_time": 19.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a8939a759d5d30207ebba2b",
+                        "video": "5a83b8ed5005c16325ca8aa3",
+                        "audio_description": "5a89107c3c55fb6e05de8bef",
+                        "user": "5a603d05a626df54938574b4",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 110.15744399999998,
+                        "end_time": 156.1329542040816,
+                        "duration": 45.97551020408163,
+                        "file_name": "xBJ9lgOEkro_5a8939a759d5d30207ebba2b.wav",
+                        "file_size_bytes": 8110124,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/xBJ9lgOEkro",
+                        "created_at": 20180218083031,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e15",
+                                "sentence": " Officer Taylor hits the back, the suspect vehicle using a squad car.",
+                                "start_time": 0.77,
+                                "end_time": 4.21
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e14",
+                                "sentence": " The suspect vehicle loses control. The suspect was the vehicle reversing backs into a fence. After crashing. Two men get on start shooting at officer Taylor is of a holler",
+                                "start_time": 4.49,
+                                "end_time": 13.15
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e13",
+                                "sentence": " Taylor and so legs it the patrol con returned fire",
+                                "start_time": 13.15,
+                                "end_time": 16.22
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e12",
+                                "sentence": " Taylor as well shoot the two men down and walk towards them.",
+                                "start_time": 16.62,
+                                "end_time": 19.58
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e11",
+                                "sentence": " So wallet kicks the suspects guns away from their bodies and handcuffs the two men on the ground",
+                                "start_time": 20.59,
+                                "end_time": 25.26
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e10",
+                                "sentence": " officer Taylor radios in for backup",
+                                "start_time": 29.66,
+                                "end_time": 32.12
+                            },
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e0f",
+                                "sentence": " officer Taylor and vala paced back and forth, looking at what they just did as backup officers arrived off camera.",
+                                "start_time": 38.3,
+                                "end_time": 44.03
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a89107c3c55fb6e05de8bef",
+                "video": "5a83b8ed5005c16325ca8aa3",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a603d05a626df54938574b4",
+                    "email": "javanpour.p@gmail.com",
+                    "name": "Parviz Javanpour",
+                    "given_name": "Parviz",
+                    "picture": "https://lh3.googleusercontent.com/-jJeXuxF2wh0/AAAAAAAAAAI/AAAAAAAAAAA/AA6ZPT4CTtX4HgOYPFlMH3Xb6EnWCc2Cpg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "101765828178886914208",
+                    "last_login": 20180415215859,
+                    "token": "eaecc761886746efbf601ea6cc478856193f195cb43b1a861a0fb1315be231f9",
+                    "__v": 0,
+                    "updated_at": 20180415215859,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-ca",
+                "created_at": 20180218053452,
+                "updated_at": 20180218053452,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5a83b8ed5005c16325ca8aa3",
+        "title": "End Of Watch (Opening Chase Scene)",
+        "description": "",
+        "youtube_id": "xBJ9lgOEkro",
+        "created_at": 20180214041957,
+        "updated_at": 20180219061605,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 156
+    }
+}

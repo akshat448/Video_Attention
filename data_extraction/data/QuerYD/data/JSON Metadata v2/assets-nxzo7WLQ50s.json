@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5d46e13dfd851a4531",
+                        "audio_description": "58e7cf3046e13dfd851a2367",
+                        "created_at": 20150822072834,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822072834,
+                        "file_name": "14402537140611.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2069,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14820,
+                        "video": "58e7cf2946e13dfd851a1c28",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7c5",
+                                "sentence": " A young child opens a drawer.",
+                                "start_time": 1.28,
+                                "end_time": 3.45
+                            },
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7c4",
+                                "sentence": " There are two articles of clothing inside.",
+                                "start_time": 3.45,
+                                "end_time": 6.04
+                            },
+                            {
+                                "_id": "5e3ac3e8c648ec0da79cd7c3",
+                                "sentence": " One is 10 and one is pink. She pulls out the pink pants and begins to put them on.",
+                                "start_time": 6.04,
+                                "end_time": 12.25
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2367",
+                "status": "published",
+                "legacy_video_id": 2069,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c28",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c28",
+        "description": "",
+        "youtube_id": "nxzo7WLQ50s",
+        "views": 0,
+        "created_at": 20150822072742,
+        "title": "Lorri Peterson: Concept Development - Object Difference",
+        "legacy_video_id": 2069,
+        "updated_at": 20150822072834,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 14
+    }
+}

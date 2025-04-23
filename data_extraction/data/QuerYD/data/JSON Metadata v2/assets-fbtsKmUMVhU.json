@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5746e13dfd851a40bb",
+                        "audio_description": "58e7cf3046e13dfd851a2354",
+                        "created_at": 20150425160425,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425160425,
+                        "file_name": "14300030653871.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1945,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13246,
+                        "video": "58e7cf2846e13dfd851a1bac",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bea67c75183e4aae34",
+                                "sentence": " A student sits on the floor next to an adult.",
+                                "start_time": 0.53,
+                                "end_time": 3.39
+                            },
+                            {
+                                "_id": "5e30a4bea67c75183e4aae33",
+                                "sentence": " The student is not wearing socks or shoes. She plays with a rubber spatula, feeling it with both her hands and her feet.",
+                                "start_time": 3.39,
+                                "end_time": 9.85
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2354",
+                "status": "published",
+                "legacy_video_id": 1945,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1bac",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "intervener",
+            "communication",
+            "games",
+            "deaf-blind",
+            "OHOA learning modules"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1bac",
+        "description": "",
+        "youtube_id": "fbtsKmUMVhU",
+        "views": 0,
+        "created_at": 20150425160339,
+        "title": "Z+P spatula experience - Module 7",
+        "legacy_video_id": 1945,
+        "updated_at": 20150425160425,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 20
+    }
+}

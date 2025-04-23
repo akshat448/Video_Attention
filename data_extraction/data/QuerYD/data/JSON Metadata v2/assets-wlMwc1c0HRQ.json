@@ -1,0 +1,86 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4a46e13dfd851a3552",
+                        "audio_description": "58e7cf2d46e13dfd851a21c7",
+                        "created_at": 20141111180054,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141111180054,
+                        "file_name": "14157576549731.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1704,
+                        "legacy_user_id": 2255,
+                        "label": "",
+                        "legacy_audio_clip_id": 9213,
+                        "video": "58e7cf2846e13dfd851a1abb",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21c1",
+                        "transcript": [
+                            {
+                                "_id": "5e25474ac8cbae071cfb9c5f",
+                                "sentence": " Homer and bart are sitting at a table. Homer strokes his chin thoughtfully and then begin speaking while gesturing.",
+                                "start_time": 0,
+                                "end_time": 6.22
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21c7",
+                "status": "published",
+                "legacy_video_id": 1704,
+                "legacy_user_id": 2255,
+                "video": "58e7cf2846e13dfd851a1abb",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21c1",
+                    "name": "mduigou",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2255,
+                    "last_login": 0,
+                    "email": "youdescribe@duigou.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Simpsons",
+            "Meme",
+            "funny",
+            "show",
+            "Television Program"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1abb",
+        "description": "",
+        "youtube_id": "wlMwc1c0HRQ",
+        "views": 0,
+        "created_at": 20141111175706,
+        "title": "Your ideas are intriguing to me and I wish to subscribe to your newsletter.",
+        "legacy_video_id": 1704,
+        "updated_at": 20141111180054,
+        "youtube_status": "available",
+        "category": "Music",
+        "category_id": "10",
+        "duration": 5
+    }
+}

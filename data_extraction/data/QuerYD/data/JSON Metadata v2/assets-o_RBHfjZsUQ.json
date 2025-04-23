@@ -1,0 +1,612 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a07df738422d717c4aeaa91",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5a07ddbfb6206313c967988d",
+                        "user": "5a027b3808f3084d7d2a659a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 3.01698,
+                        "end_time": 53.35784167800453,
+                        "duration": 50.340861678004536,
+                        "file_name": "o_RBHfjZsUQ_5a07df738422d717c4aeaa91.wav",
+                        "file_size_bytes": 8880172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20171112054315,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5a56a79523a24ddc579f5b",
+                                "sentence": " Text appears",
+                                "start_time": 3.97,
+                                "end_time": 5.47
+                            },
+                            {
+                                "_id": "5e5a56a79523a24ddc579f5a",
+                                "sentence": " reading how your systems work, energy flows and nutrition cycles,",
+                                "start_time": 5.47,
+                                "end_time": 10.95
+                            },
+                            {
+                                "_id": "5e5a56a79523a24ddc579f59",
+                                "sentence": " their animals being displayed",
+                                "start_time": 18.22,
+                                "end_time": 20.44
+                            },
+                            {
+                                "_id": "5e5a56a79523a24ddc579f58",
+                                "sentence": " in an open point in the earth, the brows,",
+                                "start_time": 21.83,
+                                "end_time": 25
+                            },
+                            {
+                                "_id": "5e5a56a79523a24ddc579f57",
+                                "sentence": " elephants,",
+                                "start_time": 25.55,
+                                "end_time": 26.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a07dfc68422d717c4aeaa92",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5a07ddbfb6206313c967988d",
+                        "user": "5a027b3808f3084d7d2a659a",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0.247104,
+                        "end_time": 0.247104,
+                        "duration": 2.2291156462585033,
+                        "file_name": "o_RBHfjZsUQ_5a07dfc68422d717c4aeaa92.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20171112054438,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5a07ddbfb6206313c967988d",
+                "video": "5a02dca508f3084d7d2a65b4",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a027b3808f3084d7d2a659a",
+                    "email": "khuldh1@montclair.edu",
+                    "name": "Hamna Khuld",
+                    "given_name": "Hamna",
+                    "picture": "https://lh5.googleusercontent.com/-lDYo_OVt8v4/AAAAAAAAAAI/AAAAAAAAAAA/ANQ0kf4lI5zQacsiiXdttMcEbPHN_mR7Mw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "108723420148386708385",
+                    "last_login": 20171113062618,
+                    "token": "31e4c73e3862cbf8fba176d5a3bcfac21509dae0a2adf8eac75c3bb121e186e8",
+                    "__v": 0,
+                    "updated_at": 20171113062618,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": null,
+                "created_at": 20171112053559,
+                "updated_at": 20171112053559,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a9c8c51d9a97673de053cb8",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5a9c8976d50e4355f9884996",
+                        "user": "5a9c511bd50e4355f988496a",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 1.9903399523162844,
+                        "end_time": 6.769006618982951,
+                        "duration": 4.778666666666667,
+                        "file_name": "o_RBHfjZsUQ_5a9c8c51d9a97673de053cb8.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180305001617,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc309cae6a999b3850b33",
+                                "sentence": " How ecosystems work, energy flow and nutrient cycles.",
+                                "start_time": 0.68,
+                                "end_time": 4.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a9c8dfcd9a97673de053cba",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5a9c8976d50e4355f9884996",
+                        "user": "5a9c511bd50e4355f988496a",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 8.781941000000002,
+                        "end_time": 8.781941000000002,
+                        "duration": 5.290666666666667,
+                        "file_name": "o_RBHfjZsUQ_5a9c8dfcd9a97673de053cba.wav",
+                        "file_size_bytes": 1015852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180305002324,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc36ba9ec2e99b2fb3e4f",
+                                "sentence": " Elephants, zebras, antelope, and giraffes grazing.",
+                                "start_time": 0.68,
+                                "end_time": 5.25
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a9c8976d50e4355f9884996",
+                "video": "5a02dca508f3084d7d2a65b4",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a9c511bd50e4355f988496a",
+                    "email": "megan.beth.edgcomb@gmail.com",
+                    "name": "Megan Edgcomb",
+                    "given_name": "Megan",
+                    "picture": "https://lh5.googleusercontent.com/-0XmwDSJf95s/AAAAAAAAAAI/AAAAAAAAAAA/AGi4gfzhGBX5hq95MwSn0YOnmaLcFcMjcw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116435672084652615679",
+                    "last_login": 20180306002645,
+                    "token": "f8965f43405e9cebd77cfffd010669a2f241e55867bcd5fa9b0f94dcd00b7a3b",
+                    "__v": 0,
+                    "updated_at": 20180306002645,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20180305000406,
+                "updated_at": 20180305000406,
+                "notes": "Elephants, zebras, and antelope grazing",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5adbef17ebdafd0645c3a77e",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 1.119289,
+                        "end_time": 6.041919385487528,
+                        "duration": 4.922630385487528,
+                        "file_name": "o_RBHfjZsUQ_5adbef17ebdafd0645c3a77e.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422021031,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131afce37ecd084fc302cf",
+                                "sentence": " How ecosystems work,",
+                                "start_time": 0.38,
+                                "end_time": 2.41
+                            },
+                            {
+                                "_id": "5e131afce37ecd084fc302ce",
+                                "sentence": " energy flow and nutrient cycles.",
+                                "start_time": 2.41,
+                                "end_time": 4.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbef8aebdafd0645c3a780",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 7.69503,
+                        "end_time": 7.69503,
+                        "duration": 5.38702947845805,
+                        "file_name": "o_RBHfjZsUQ_5adbef8aebdafd0645c3a780.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422021226,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eace9aefae1231e09b91",
+                                "sentence": " The screen shows a savannah with grazing zebra, elephants and antelope.",
+                                "start_time": 0.46,
+                                "end_time": 5.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbeff1ebdafd0645c3a782",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 27.137078000000002,
+                        "end_time": 27.137078000000002,
+                        "duration": 5.944308390022676,
+                        "file_name": "o_RBHfjZsUQ_5adbeff1ebdafd0645c3a782.wav",
+                        "file_size_bytes": 1048620,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422021409,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b19",
+                                "sentence": " An antelope is galloping across the sunny savanna, and a giraffe is chewing leaves.",
+                                "start_time": 0.5,
+                                "end_time": 5.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbf088ebdafd0645c3a783",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 37.004977,
+                        "end_time": 37.004977,
+                        "duration": 3.622312925170068,
+                        "file_name": "o_RBHfjZsUQ_5adbf088ebdafd0645c3a783.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422021640,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131cd65230fb08acc76e87",
+                                "sentence": " And oryx is drinking water from a river.",
+                                "start_time": 0.46,
+                                "end_time": 3.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbf0e8ebdafd0645c3a785",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 41.082656,
+                        "end_time": 41.082656,
+                        "duration": 3.9938321995464854,
+                        "file_name": "o_RBHfjZsUQ_5adbf0e8ebdafd0645c3a785.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422021816,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e2122d3ccb66271b021c960",
+                                "sentence": " The scene changes to an ocean at sunset with rolling waves.",
+                                "start_time": 0.49,
+                                "end_time": 3.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbf134ebdafd0645c3a786",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 67.424045,
+                        "end_time": 67.424045,
+                        "duration": 3.1579138321995464,
+                        "file_name": "o_RBHfjZsUQ_5adbf134ebdafd0645c3a786.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422021932,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e132af23d9b9409cd84e2cb",
+                                "sentence": " A herd of wildebeest are grazing the land.",
+                                "start_time": 0.4,
+                                "end_time": 3.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbf179ebdafd0645c3a787",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 73.404718,
+                        "end_time": 73.404718,
+                        "duration": 4.6439909297052155,
+                        "file_name": "o_RBHfjZsUQ_5adbf179ebdafd0645c3a787.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422022041,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e132b676dacc009cbf053e9",
+                                "sentence": " There's a hyena jogging and a lion, and lioness rising up.",
+                                "start_time": 0.61,
+                                "end_time": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbf19bebdafd0645c3a788",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 82.209355,
+                        "end_time": 82.209355,
+                        "duration": 2.693514739229025,
+                        "file_name": "o_RBHfjZsUQ_5adbf19bebdafd0645c3a788.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422022115,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b6d",
+                                "sentence": " Vultures are eating a dead carcass.",
+                                "start_time": 0.29,
+                                "end_time": 2.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbf1fdebdafd0645c3a789",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 93.04650199999999,
+                        "end_time": 93.04650199999999,
+                        "duration": 3.622312925170068,
+                        "file_name": "o_RBHfjZsUQ_5adbf1fdebdafd0645c3a789.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422022253,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131cd65230fb08acc76e65",
+                                "sentence": " The camera zooms into the ribs of a dead animal.",
+                                "start_time": 0.34,
+                                "end_time": 3.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbf25cebdafd0645c3a78a",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 107.273216,
+                        "end_time": 107.273216,
+                        "duration": 3.436553287981859,
+                        "file_name": "o_RBHfjZsUQ_5adbf25cebdafd0645c3a78a.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422022428,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b54",
+                                "sentence": " A group of gazelles walk across the snow.",
+                                "start_time": 0.38,
+                                "end_time": 3.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbf2afebdafd0645c3a78b",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 155.140446,
+                        "end_time": 155.140446,
+                        "duration": 3.900952380952381,
+                        "file_name": "o_RBHfjZsUQ_5adbf2afebdafd0645c3a78b.wav",
+                        "file_size_bytes": 688172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422022551,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131afee37ecd084fc302da",
+                                "sentence": " The camera shows a barren, lifeless stretch of land.",
+                                "start_time": 0.62,
+                                "end_time": 3.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbf303ebdafd0645c3a78d",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 191.832132,
+                        "end_time": 191.832132,
+                        "duration": 3.622312925170068,
+                        "file_name": "o_RBHfjZsUQ_5adbf303ebdafd0645c3a78d.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422022715,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b2e",
+                                "sentence": " Two elephants are knocking their tasks against each other.",
+                                "start_time": 0.27,
+                                "end_time": 3.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbf3e8ebdafd0645c3a78e",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 127.543256,
+                        "end_time": 127.543256,
+                        "duration": 4.6439909297052155,
+                        "file_name": "o_RBHfjZsUQ_5adbf3e8ebdafd0645c3a78e.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422023104,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7cffba0a08ab876e4b",
+                                "sentence": " The scene changes from a savannah to a treeless rocky mountain range.",
+                                "start_time": 0.49,
+                                "end_time": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbf425ebdafd0645c3a78f",
+                        "video": "5a02dca508f3084d7d2a65b4",
+                        "audio_description": "5adbeed71696c70587c689b5",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 133.449505,
+                        "end_time": 133.449505,
+                        "duration": 4.551111111111111,
+                        "file_name": "o_RBHfjZsUQ_5adbf425ebdafd0645c3a78f.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o_RBHfjZsUQ",
+                        "created_at": 20180422023205,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131cd65230fb08acc76e70",
+                                "sentence": " There's a lush green forest and zooms into pointed green leaves.",
+                                "start_time": 0.45,
+                                "end_time": 4.51
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5adbeed71696c70587c689b5",
+                "video": "5a02dca508f3084d7d2a65b4",
+                "user": {
+                    "opt_in": [],
+                    "_id": "593dc5ef5de2104355026c61",
+                    "email": "kbkim45@gmail.com",
+                    "name": "Kyubin Kim",
+                    "given_name": "Kyubin",
+                    "picture": "https://lh6.googleusercontent.com/-Yk3cn1Jpitg/AAAAAAAAAAI/AAAAAAAAAAA/AAyYBF7QtIOqS09nugPtnQ5ZPk4f8Jiu-w/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113596789359434892267",
+                    "last_login": 20190713220840,
+                    "token": "9928b462b655676291071ed1457f70561136bada5ead66f7f5a048576f7795c2",
+                    "__v": 0,
+                    "updated_at": 20190713220840,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180422020927,
+                "updated_at": 20180422184017,
+                "notes": "how ecosystems work: energy flow and nutrient cycles\r\nthe screen shows a savanna with grazing zebra, elephants, and antelope\r\nan antelope is galloping across the sunny savanna and a zebra is cheiwng leavves\r\nan oryx is drinking water from a river\r\nthe scene changes to an ocean at sunset with rolling waves\r\na herd of wildebeest are grazing the land\r\nthere is a hyena jogging and a lion and lioness rising up\r\na group of gazelles walk across the snow\r\nthe camera shows a barren, lifeless land\r\nthe scene changes from a savanna to a treeless, rocky mountain rang\r\nthere is a lush green forest and it zooms into pointed green leaves",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "biology",
+            "ecology",
+            "Ecosystems",
+            "Work",
+            "energy",
+            "nutrients",
+            "growth",
+            "respiration",
+            "reproduction",
+            "sunlight",
+            "life",
+            "carbon",
+            "nitrogen",
+            "phosphorous",
+            "plants",
+            "photosynthesis",
+            "herbivores",
+            "predators",
+            "scavengers",
+            "decomposers",
+            "biological",
+            "limited",
+            "resources",
+            "cellular"
+        ],
+        "custom_tags": [],
+        "_id": "5a02dca508f3084d7d2a65b4",
+        "title": "How Ecosystems Work | Biology | Ecology",
+        "description": "Purchase DVD here http://www.greatpacificmedia.com/\r\n\r\nSegment from the program How Ecosystems Work: Energy Flow and Nutrient Cycles.\r\n\r\nDVD Description\r\nLooks at the processes that are fundamental to all ecosystems. First the concepts of primary productivity, trophic levels, food chains, energy pyramids and the flow of energy through ecosystems are introduced. The program then explains how carbon, nitrogen, phosphorous and water cycle through ecosystems and how human activities can disrupt these cycles and throw them out of balance leading to accelerated eutrophication in lakes in the case of phosphorous imbalances and global warming in the case of carbon imbalances.",
+        "youtube_id": "o_RBHfjZsUQ",
+        "created_at": 20171108102957,
+        "updated_at": 20180422023205,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 204
+    }
+}

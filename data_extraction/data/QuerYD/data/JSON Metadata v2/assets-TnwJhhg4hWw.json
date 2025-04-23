@@ -1,0 +1,65 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fd165c395521063835cea88",
+                        "video": "5fd165c395521063835cea8a",
+                        "audio_description": "5fd165c395521063835cea89",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "0:00",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 8.359183673469389,
+                        "duration": 8.359183673469389,
+                        "file_name": "TnwJhhg4hWw_5fd165c395521063835cea88.wav",
+                        "file_size_bytes": 1474604,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/TnwJhhg4hWw",
+                        "created_at": 20201210000315,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fd165c395521063835cea89",
+                "video": "5fd165c395521063835cea8a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5fc6b5fb95521063835ce383",
+                    "email": "ecastillojenn@gmail.com",
+                    "name": "Jennifer Castillo",
+                    "given_name": "Jennifer",
+                    "picture": "https://lh4.googleusercontent.com/-5bpnry8pqfg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckH9ncyvBYAW2kOTFQ5bs4EeopJOg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115887003623205163006",
+                    "last_login": 20201221205124,
+                    "token": "1114491ec716f0171a30639c483ee718d98ebe8e044084b7b6bf4e03ccbb3772",
+                    "__v": 0,
+                    "updated_at": 20201221205124
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201210000315,
+                "updated_at": 20201210000315,
+                "notes": "",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fd165c395521063835cea8a",
+        "title": "Artist Nathan Sawaya's Tree time-lapse, built with LEGO\u00ae bricks",
+        "description": "Watch this tree grow right before your eyes! LEGO artist Nathan Sawaya makes it look easy. Do try this at home! #TheArtoftheBrick\n\nFor science videos, VR tours, blogs and more, check out californiasciencecenter.org/beyond",
+        "youtube_id": "TnwJhhg4hWw",
+        "created_at": 20201210000315,
+        "updated_at": 20201210000315,
+        "views": 0,
+        "__v": 0
+    }
+}

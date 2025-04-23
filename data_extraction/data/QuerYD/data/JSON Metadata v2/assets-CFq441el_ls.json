@@ -1,0 +1,603 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4b46e13dfd851a3644",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128110437,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128110437,
+                        "file_name": "14172014773881.wav",
+                        "start_time": 6.604,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9678,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 6.604,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e211519c4c00c5f6705e3aa",
+                                "sentence": " The title pages showing there is a drawing of a blue whale with air bubbles floating up from his blowhole.",
+                                "start_time": 0.67,
+                                "end_time": 7.16
+                            },
+                            {
+                                "_id": "5e211519c4c00c5f6705e3a9",
+                                "sentence": " Uh.",
+                                "start_time": 7.16,
+                                "end_time": 7.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a3645",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128110606,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128110606,
+                        "file_name": "14172015666141.wav",
+                        "start_time": 31.816,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9679,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 31.816,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e211518c4c00c5f6705e360",
+                                "sentence": " On the right page, the blue whale is swimming under water and smiling at a starfish on the bottom of the ocean.",
+                                "start_time": 0.67,
+                                "end_time": 7.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a3646",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128110730,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128110730,
+                        "file_name": "14172016503411.wav",
+                        "start_time": 43.225,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9680,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 43.225,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e211518c4c00c5f6705e362",
+                                "sentence": " The blue whale is swimming next to a grey pale in a jellyfish.",
+                                "start_time": 0.87,
+                                "end_time": 5.52
+                            },
+                            {
+                                "_id": "5e211518c4c00c5f6705e361",
+                                "sentence": " There are other jellyfish on both the left and right page.",
+                                "start_time": 5.85,
+                                "end_time": 10.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a3647",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128110954,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128110954,
+                        "file_name": "14172017945411.wav",
+                        "start_time": 55.133,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9682,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 55.133,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e211519c4c00c5f6705e3a5",
+                                "sentence": " On the right side of the page, the blue whale is looking at the letters a b and c in braille,",
+                                "start_time": 0.72,
+                                "end_time": 7.24
+                            },
+                            {
+                                "_id": "5e211519c4c00c5f6705e3a4",
+                                "sentence": " each on a white tile.",
+                                "start_time": 7.24,
+                                "end_time": 9.01
+                            },
+                            {
+                                "_id": "5e211519c4c00c5f6705e3a3",
+                                "sentence": " There is a fishing hook above the whale.",
+                                "start_time": 9.09,
+                                "end_time": 12.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a3648",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128111151,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128111151,
+                        "file_name": "14172019119161.wav",
+                        "start_time": 66.34,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9683,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 66.34,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e219ad3ba17af2e75ca32bd",
+                                "sentence": " A green snail is on the left page.",
+                                "start_time": 0.68,
+                                "end_time": 3.52
+                            },
+                            {
+                                "_id": "5e219ad3ba17af2e75ca32bc",
+                                "sentence": " The snail is talking to the blue whale.",
+                                "start_time": 3.52,
+                                "end_time": 6.48
+                            },
+                            {
+                                "_id": "5e219ad3ba17af2e75ca32bb",
+                                "sentence": " There is a piece of mail next to the whale on the right page.",
+                                "start_time": 6.54,
+                                "end_time": 11.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a3649",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128111312,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128111312,
+                        "file_name": "14172019923421.wav",
+                        "start_time": 96.484,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9684,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 96.484,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e219d8eb113c22e776f2a12",
+                                "sentence": " A blue whale is wagging his tail under the water.",
+                                "start_time": 0.68,
+                                "end_time": 4.28
+                            },
+                            {
+                                "_id": "5e219d8eb113c22e776f2a11",
+                                "sentence": " There is a thought bubble over his head.",
+                                "start_time": 4.28,
+                                "end_time": 6.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a364a",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128111437,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128111437,
+                        "file_name": "14172020773881.wav",
+                        "start_time": 108.545,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9685,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 108.545,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.25,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e211526c4c00c5f6705e3ec",
+                                "sentence": " A red car, a candy bar and a guitar are floating next to the blue whale.",
+                                "start_time": 0.67,
+                                "end_time": 7.13
+                            },
+                            {
+                                "_id": "5e211526c4c00c5f6705e3eb",
+                                "sentence": " Music notes span across the pages.",
+                                "start_time": 7.17,
+                                "end_time": 10.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a364b",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128111636,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128111636,
+                        "file_name": "14172021961161.wav",
+                        "start_time": 125.571,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9686,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 125.571,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e211518c4c00c5f6705e36e",
+                                "sentence": " The big blue whale is as big as both pages.",
+                                "start_time": 0.9,
+                                "end_time": 4.76
+                            },
+                            {
+                                "_id": "5e211518c4c00c5f6705e36d",
+                                "sentence": " His cheeks are blushing,",
+                                "start_time": 4.76,
+                                "end_time": 6.57
+                            },
+                            {
+                                "_id": "5e211518c4c00c5f6705e36c",
+                                "sentence": " and there is a frown on his face.",
+                                "start_time": 6.57,
+                                "end_time": 8.83
+                            },
+                            {
+                                "_id": "5e211518c4c00c5f6705e36b",
+                                "sentence": " He is parting.",
+                                "start_time": 8.83,
+                                "end_time": 10.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a364c",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128111747,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128111747,
+                        "file_name": "14172022677531.wav",
+                        "start_time": 143.619,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9687,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 143.619,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e211519c4c00c5f6705e3be",
+                                "sentence": " On the right side,",
+                                "start_time": 0.89,
+                                "end_time": 2.65
+                            },
+                            {
+                                "_id": "5e211519c4c00c5f6705e3bd",
+                                "sentence": " the bottom of a red boat is floating at the Top of the water",
+                                "start_time": 2.96,
+                                "end_time": 7.3
+                            },
+                            {
+                                "_id": "5e211519c4c00c5f6705e3bc",
+                                "sentence": " over the big blue whale.",
+                                "start_time": 7.3,
+                                "end_time": 9.59
+                            },
+                            {
+                                "_id": "5e211519c4c00c5f6705e3bb",
+                                "sentence": " The boat's anchor is dropped to the bottom of the ocean.",
+                                "start_time": 9.78,
+                                "end_time": 13.73
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a364d",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128111845,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128111845,
+                        "file_name": "14172023252301.wav",
+                        "start_time": 158.129,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9688,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 158.129,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e219ad3ba17af2e75ca32d1",
+                                "sentence": " The whale has swallowed the boat's anchor, and the chain is coming out of his mouth.",
+                                "start_time": 0.98,
+                                "end_time": 6.14
+                            },
+                            {
+                                "_id": "5e219ad3ba17af2e75ca32d0",
+                                "sentence": " There are two small crabs under the whale.",
+                                "start_time": 6.46,
+                                "end_time": 9.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a364e",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128112051,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128112051,
+                        "file_name": "14172024515791.wav",
+                        "start_time": 175.233,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9689,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 175.233,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 26.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e219ad4ba17af2e75ca3323",
+                                "sentence": " The red boat is at the Top of the left page.",
+                                "start_time": 0.98,
+                                "end_time": 4.69
+                            },
+                            {
+                                "_id": "5e219ad4ba17af2e75ca3322",
+                                "sentence": " It's anger hangs down across the right page.",
+                                "start_time": 4.69,
+                                "end_time": 8.43
+                            },
+                            {
+                                "_id": "5e219ad4ba17af2e75ca3321",
+                                "sentence": " There is a grey pale,",
+                                "start_time": 8.61,
+                                "end_time": 10.55
+                            },
+                            {
+                                "_id": "5e219ad4ba17af2e75ca3320",
+                                "sentence": " the braille letters a b and c on white tiles,",
+                                "start_time": 10.55,
+                                "end_time": 14.76
+                            },
+                            {
+                                "_id": "5e219ad4ba17af2e75ca331f",
+                                "sentence": " a red car,",
+                                "start_time": 14.84,
+                                "end_time": 16.32
+                            },
+                            {
+                                "_id": "5e219ad4ba17af2e75ca331e",
+                                "sentence": " a candy bar,",
+                                "start_time": 16.44,
+                                "end_time": 17.94
+                            },
+                            {
+                                "_id": "5e219ad4ba17af2e75ca331d",
+                                "sentence": " a guitar,",
+                                "start_time": 17.94,
+                                "end_time": 19.36
+                            },
+                            {
+                                "_id": "5e219ad4ba17af2e75ca331c",
+                                "sentence": " a piece of mail,",
+                                "start_time": 19.46,
+                                "end_time": 21.16
+                            },
+                            {
+                                "_id": "5e219ad4ba17af2e75ca331b",
+                                "sentence": " and a pumpkin floating around a smaller blue whale.",
+                                "start_time": 21.16,
+                                "end_time": 25.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a364f",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128112211,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128112211,
+                        "file_name": "14172025315471.wav",
+                        "start_time": 193.591,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9690,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 193.591,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e211519c4c00c5f6705e3c1",
+                                "sentence": " A happy blue whale is swimming next to a starfish and green algae growing from the bottom of the ocean.",
+                                "start_time": 0.73,
+                                "end_time": 7.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a3650",
+                        "audio_description": "58e7cf2f46e13dfd851a22cd",
+                        "created_at": 20141128112505,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141128112505,
+                        "file_name": "14172027052241.wav",
+                        "start_time": 245.622,
+                        "legacy_video_id": 1723,
+                        "legacy_user_id": 2471,
+                        "label": "",
+                        "legacy_audio_clip_id": 9691,
+                        "video": "58e7cf2846e13dfd851a1ace",
+                        "end_time": 245.622,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22cc",
+                        "transcript": [
+                            {
+                                "_id": "5e211519c4c00c5f6705e3d9",
+                                "sentence": " Back pages showing",
+                                "start_time": 0.69,
+                                "end_time": 2.65
+                            },
+                            {
+                                "_id": "5e211519c4c00c5f6705e3d8",
+                                "sentence": " there is a picture in the left Top corner of dando",
+                                "start_time": 2.65,
+                                "end_time": 6.94
+                            },
+                            {
+                                "_id": "5e211519c4c00c5f6705e3d7",
+                                "sentence": " and a lobster costume.",
+                                "start_time": 6.94,
+                                "end_time": 9.15
+                            },
+                            {
+                                "_id": "5e211519c4c00c5f6705e3d6",
+                                "sentence": " There is also an anchor and a chain",
+                                "start_time": 9.26,
+                                "end_time": 11.93
+                            },
+                            {
+                                "_id": "5e211519c4c00c5f6705e3d5",
+                                "sentence": " across the page.",
+                                "start_time": 12.11,
+                                "end_time": 13.86
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2f46e13dfd851a22cd",
+                "status": "published",
+                "legacy_video_id": 1723,
+                "legacy_user_id": 2471,
+                "video": "58e7cf2846e13dfd851a1ace",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2f46e13dfd851a22cc",
+                    "name": "brianna_h15",
+                    "google_user_id_token": "",
+                    "created_at": 20141125105425,
+                    "updated_at": 20141125105630,
+                    "legacy_user_id": 2471,
+                    "last_login": 0,
+                    "email": "nash.brianna@ymail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Dan Devoe",
+            "The Whale Who Ate Everything",
+            "Canadian Author",
+            "Children's Author",
+            "Kids Book",
+            "Children's Audio Books",
+            "children's literature",
+            "free online ebook",
+            "free childrens ebooks",
+            "free childrens audio books",
+            "free picture books",
+            "audio book",
+            "kids books",
+            "children's audio books",
+            "kids videos",
+            "children's books",
+            "children's ebooks",
+            "kids ebooks",
+            "kids read aloud book",
+            "read aloud",
+            "kids read along books",
+            "children's read aloud book",
+            "ebooks for kids",
+            "ebooks for children"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ace",
+        "description": "",
+        "youtube_id": "CFq441el_ls",
+        "views": 0,
+        "created_at": 20141127195848,
+        "title": "The Whale Who Ate Everything: Children's Audio Books",
+        "legacy_video_id": 1723,
+        "updated_at": 20141128112505,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 251
+    }
+}

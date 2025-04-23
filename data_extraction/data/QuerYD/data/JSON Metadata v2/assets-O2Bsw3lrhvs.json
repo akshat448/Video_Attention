@@ -1,0 +1,200 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8746e13dfd851a62c9",
+                        "audio_description": "58e7cf3a46e13dfd851a2786",
+                        "created_at": 20161109174502,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161109174502,
+                        "file_name": "14787423026331.wav",
+                        "start_time": 8,
+                        "legacy_video_id": 2886,
+                        "legacy_user_id": 3401,
+                        "label": "",
+                        "legacy_audio_clip_id": 26901,
+                        "video": "58e7cf2946e13dfd851a1f58",
+                        "end_time": 14.39,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2785",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae4ceae24dc721d953200",
+                                "sentence": " Every child's nightmare,",
+                                "start_time": 1.22,
+                                "end_time": 3.35
+                            },
+                            {
+                                "_id": "5e4ae4ceae24dc721d9531ff",
+                                "sentence": " a sibling coming home,",
+                                "start_time": 3.36,
+                                "end_time": 5.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8746e13dfd851a62ce",
+                        "audio_description": "58e7cf3a46e13dfd851a2786",
+                        "created_at": 20161109175028,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161109175028,
+                        "file_name": "14787426283861.wav",
+                        "start_time": 101.002,
+                        "legacy_video_id": 2886,
+                        "legacy_user_id": 3401,
+                        "label": "",
+                        "legacy_audio_clip_id": 26906,
+                        "video": "58e7cf2946e13dfd851a1f58",
+                        "end_time": 101.002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a2785",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae4cdae24dc721d9531b2",
+                                "sentence": " This is not any ordinary sibling. Know.",
+                                "start_time": 0.71,
+                                "end_time": 4
+                            },
+                            {
+                                "_id": "5e4ae4cdae24dc721d9531b1",
+                                "sentence": " Mhm.",
+                                "start_time": 9.94,
+                                "end_time": 10.75
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3a46e13dfd851a2786",
+                "status": "published",
+                "legacy_video_id": 2886,
+                "legacy_user_id": 3401,
+                "video": "58e7cf2946e13dfd851a1f58",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3a46e13dfd851a2785",
+                    "name": "brandi",
+                    "google_user_id_token": "",
+                    "created_at": 20161109173047,
+                    "updated_at": 20161109173626,
+                    "legacy_user_id": 3401,
+                    "last_login": 0,
+                    "email": "brandiharmon3@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf9146e13dfd851a68dd",
+                        "audio_description": "58e7cf3a46e13dfd851a2786",
+                        "created_at": 20161202142750,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161202142750,
+                        "file_name": "14807176700991.wav",
+                        "start_time": 9.069,
+                        "legacy_video_id": 2886,
+                        "legacy_user_id": 3495,
+                        "label": "",
+                        "legacy_audio_clip_id": 29667,
+                        "video": "58e7cf2946e13dfd851a1f58",
+                        "end_time": 9.069,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a2816",
+                        "transcript": [
+                            {
+                                "_id": "5e4acfc9bb48a54eda1a85fd",
+                                "sentence": " Well And Like You like.",
+                                "start_time": 0.16,
+                                "end_time": 6.06
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3b46e13dfd851a2817",
+                "status": "published",
+                "legacy_video_id": 2886,
+                "legacy_user_id": 3495,
+                "video": "58e7cf2946e13dfd851a1f58",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3b46e13dfd851a2816",
+                    "name": "kayleecaserta",
+                    "google_user_id_token": "",
+                    "created_at": 20161202141459,
+                    "updated_at": 20161202142528,
+                    "legacy_user_id": 3495,
+                    "last_login": 0,
+                    "email": "casertakaylee@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "the boss baby",
+            "the boss baby movie",
+            "the boss baby trailer",
+            "trailer 1",
+            "2017",
+            "Alec Baldwin",
+            "Lisa Kudrow",
+            "Steve Buscemi",
+            "animation",
+            "comedy",
+            "family",
+            "baby",
+            "brother",
+            "ceo",
+            "puppy",
+            "fandango",
+            "movieclips",
+            "HD",
+            "family friendly",
+            "family movie",
+            "kids movie",
+            "youtube kids",
+            "childrens film"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1f58",
+        "description": "",
+        "youtube_id": "O2Bsw3lrhvs",
+        "views": 0,
+        "created_at": 20161109173640,
+        "title": "The Boss Baby Official Trailer - Teaser (2017) - Alec Baldwin Movie",
+        "legacy_video_id": 2886,
+        "updated_at": 20161202142750,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 119
+    }
+}

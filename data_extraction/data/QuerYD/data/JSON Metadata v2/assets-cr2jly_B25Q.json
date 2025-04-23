@@ -1,0 +1,122 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4046e13dfd851a2aea",
+                        "audio_description": "58e7cf2b46e13dfd851a210e",
+                        "created_at": 20131017052647,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131017052647,
+                        "file_name": "1382012806835.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1341,
+                        "legacy_user_id": 1929,
+                        "label": "",
+                        "legacy_audio_clip_id": 4187,
+                        "video": "58e7cf2846e13dfd851a195d",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a210d",
+                        "transcript": [
+                            {
+                                "_id": "5e1c71c98fa8029f79acfb70",
+                                "sentence": " Sequence a man, hannah still a spider minions week as in xl ballard",
+                                "start_time": 1.32,
+                                "end_time": 5.97
+                            },
+                            {
+                                "_id": "5e1c71c98fa8029f79acfb6f",
+                                "sentence": " le principal l to smile",
+                                "start_time": 6.13,
+                                "end_time": 8.62
+                            },
+                            {
+                                "_id": "5e1c71c98fa8029f79acfb6e",
+                                "sentence": " in my highness little spacer, he said by our anus is so handy.",
+                                "start_time": 9.02,
+                                "end_time": 13.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2aeb",
+                        "audio_description": "58e7cf2b46e13dfd851a210e",
+                        "created_at": 20131017053820,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131017053820,
+                        "file_name": "1382013500839.wav",
+                        "start_time": 34.683,
+                        "legacy_video_id": 1341,
+                        "legacy_user_id": 1929,
+                        "label": "",
+                        "legacy_audio_clip_id": 4188,
+                        "video": "58e7cf2846e13dfd851a195d",
+                        "end_time": 34.683,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 0.82,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a210d",
+                        "transcript": []
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a210e",
+                "status": "published",
+                "legacy_video_id": 1341,
+                "legacy_user_id": 1929,
+                "video": "58e7cf2846e13dfd851a195d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a210d",
+                    "name": "alter.nativa.cale",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 1929,
+                    "last_login": 0,
+                    "email": "alter.nativa.cale@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Representaci\u00f3n narrativa",
+            "narraci\u00f3n",
+            "expresi\u00f3n literaria",
+            "Proyecto ALTER-NATIVA",
+            "Shasca",
+            "Cipitio",
+            "Princesa Shasca",
+            "CALE"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a195d",
+        "description": "",
+        "youtube_id": "cr2jly_B25Q",
+        "views": 0,
+        "created_at": 20131017051348,
+        "title": "La princesa shasca",
+        "legacy_video_id": 1341,
+        "updated_at": 20131017053820,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 261
+    }
+}

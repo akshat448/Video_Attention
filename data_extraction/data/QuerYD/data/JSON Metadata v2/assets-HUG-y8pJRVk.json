@@ -1,0 +1,68 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5f29619c4247471490b1dd7f",
+                        "video": "5f295fd64247471490b1dd7b",
+                        "audio_description": "5f295fd64247471490b1dd7a",
+                        "user": "5f295dd9244b0e149217e3cd",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 62.54933333333334,
+                        "file_name": "HUG-y8pJRVk_5f29619c4247471490b1dd7f.wav",
+                        "file_size_bytes": 12009516,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/HUG-y8pJRVk",
+                        "created_at": 20200804132444,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5f295fd64247471490b1dd7a",
+                "video": "5f295fd64247471490b1dd7b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5f295dd9244b0e149217e3cd",
+                    "email": "sylviasineiro@gmail.com",
+                    "name": "Sylvia Coelho",
+                    "given_name": "Sylvia",
+                    "picture": "https://lh3.googleusercontent.com/a-/AOh14Gin4G0fgdRiY04fsVKbafE6QCSDKH68LCYRohbc6w0=s96-c",
+                    "locale": "pt-BR",
+                    "google_user_id": "110162535349352624547",
+                    "last_login": 20200804130841,
+                    "token": "38d6f6e73015d67515468218fe60e2fbc4a1cbcae96d72f8e5edfef08b61bd3c",
+                    "__v": 0
+                },
+                "status": "published",
+                "language": "pt-br",
+                "created_at": 20200804131710,
+                "updated_at": 20200804131710,
+                "notes": "",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5f295fd64247471490b1dd7b",
+        "title": "QR CODE 1 - MASTODONTE (16)",
+        "description": "Material Usado:\n- How to tell mastodons apart from mammoths - https://www.youtube.com/watch?v=1hKQP0LKePA\n- Footage Of An Elephant - Pixabay - https://www.pexels.com/video/footage-of-an-elephant-855538/\n- Imagem Mamute e Mastodonte - http://www.sporum.com.br/2018/10/mamutes-e-mastodontes-gigantes-peludos.html\n- Imagem   licen\u00e7a Creative Commons Attribution-Share Alike 3.0 Unported Atribui\u00e7\u00e3o: Dantheman9758 -  https://pt.m.wikipedia.org/wiki/Ficheiro:BlankMastodon.jpg\n- Mapa: Dominato, Victor & Mothe, Dimila & dos Santos Avilla, Leonardo & Bertoni-Machado, Cristina. (2009). Insect action in vertebrae of Stegomastodon waringi (Mammalia, Gomphotheriidae) from the Pleistocene of \u00c1guas de Arax\u00e1, Minas Gerais, Brazil. Revista Brasileira De Paleontologia - REV BRAS PALEONTOLOGIA. 12. 77-82. 10.4072/rbp.2009.1.07.",
+        "youtube_id": "HUG-y8pJRVk",
+        "created_at": 20200804131710,
+        "updated_at": 20200804132444,
+        "views": 0,
+        "__v": 0,
+        "category_id": "22",
+        "category": "People & Blogs",
+        "duration": 60,
+        "youtube_status": "available"
+    }
+}

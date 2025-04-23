@@ -1,0 +1,371 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b14",
+                        "audio_description": "58e7cf3746e13dfd851a268a",
+                        "created_at": 20160819202105,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160819202105,
+                        "file_name": "14716632654911.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2656,
+                        "legacy_user_id": 3239,
+                        "label": "",
+                        "legacy_audio_clip_id": 23896,
+                        "video": "58e7cf2946e13dfd851a1e73",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2689",
+                        "transcript": [
+                            {
+                                "_id": "5e44243df8a7edbc7bf67998",
+                                "sentence": " Shawn thornton opens the door of an old cottage.",
+                                "start_time": 0.25,
+                                "end_time": 4.35
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf67997",
+                                "sentence": " He enters wearing trench coat and cap",
+                                "start_time": 4.35,
+                                "end_time": 7.33
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf67996",
+                                "sentence": " carrying a sleeping bag and luggage.",
+                                "start_time": 7.33,
+                                "end_time": 10.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b15",
+                        "audio_description": "58e7cf3746e13dfd851a268a",
+                        "created_at": 20160819202154,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160819202154,
+                        "file_name": "14716633148131.wav",
+                        "start_time": 5.973,
+                        "legacy_video_id": 2656,
+                        "legacy_user_id": 3239,
+                        "label": "",
+                        "legacy_audio_clip_id": 23897,
+                        "video": "58e7cf2946e13dfd851a1e73",
+                        "end_time": 16.713,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2689",
+                        "transcript": [
+                            {
+                                "_id": "5e44288dc26fa0bc796fd559",
+                                "sentence": " Sean looks around.",
+                                "start_time": 0.03,
+                                "end_time": 1.8
+                            },
+                            {
+                                "_id": "5e44288dc26fa0bc796fd558",
+                                "sentence": " He sees a fire burning in the fireplace,",
+                                "start_time": 1.88,
+                                "end_time": 5.01
+                            },
+                            {
+                                "_id": "5e44288dc26fa0bc796fd557",
+                                "sentence": " a broom lying in a pile of swept together leaves that are being blown by the wind.",
+                                "start_time": 5.01,
+                                "end_time": 10.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b16",
+                        "audio_description": "58e7cf3746e13dfd851a268a",
+                        "created_at": 20160819202722,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160819202722,
+                        "file_name": "14716636425671.wav",
+                        "start_time": 21.452,
+                        "legacy_video_id": 2656,
+                        "legacy_user_id": 3239,
+                        "label": "",
+                        "legacy_audio_clip_id": 23901,
+                        "video": "58e7cf2946e13dfd851a1e73",
+                        "end_time": 30.152,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2689",
+                        "transcript": [
+                            {
+                                "_id": "5e44243ef8a7edbc7bf679e5",
+                                "sentence": " In another room, mary kate, dan, her pops up from behind a piece of furniture. She clutches a blue scarf to her chin.",
+                                "start_time": 0.25,
+                                "end_time": 8.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b17",
+                        "audio_description": "58e7cf3746e13dfd851a268a",
+                        "created_at": 20160819202809,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160819202809,
+                        "file_name": "14716636891261.wav",
+                        "start_time": 34.992,
+                        "legacy_video_id": 2656,
+                        "legacy_user_id": 3239,
+                        "label": "",
+                        "legacy_audio_clip_id": 23902,
+                        "video": "58e7cf2946e13dfd851a1e73",
+                        "end_time": 48.542,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.55,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2689",
+                        "transcript": [
+                            {
+                                "_id": "5e44268879f74cbc7c082d13",
+                                "sentence": " Sean, here's the movement.",
+                                "start_time": 0.29,
+                                "end_time": 2.38
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d12",
+                                "sentence": " He looks around,",
+                                "start_time": 2.56,
+                                "end_time": 4.24
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d11",
+                                "sentence": " a curtain blows wildly in the broken window.",
+                                "start_time": 4.24,
+                                "end_time": 7.2
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d10",
+                                "sentence": " The back door is banging in the wind.",
+                                "start_time": 7.2,
+                                "end_time": 9.38
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d0f",
+                                "sentence": " Mary kate is slowly moving along the wall.",
+                                "start_time": 9.42,
+                                "end_time": 12.45
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d0e",
+                                "sentence": " Ah,",
+                                "start_time": 12.76,
+                                "end_time": 13.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b18",
+                        "audio_description": "58e7cf3746e13dfd851a268a",
+                        "created_at": 20160819202905,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160819202905,
+                        "file_name": "14716637452981.wav",
+                        "start_time": 56.207,
+                        "legacy_video_id": 2656,
+                        "legacy_user_id": 3239,
+                        "label": "",
+                        "legacy_audio_clip_id": 23903,
+                        "video": "58e7cf2946e13dfd851a1e73",
+                        "end_time": 58.767,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2689",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ca888c4bc7acb611c",
+                                "sentence": " Sean picks up an object.",
+                                "start_time": 0,
+                                "end_time": 2.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b19",
+                        "audio_description": "58e7cf3746e13dfd851a268a",
+                        "created_at": 20160819203852,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160819203852,
+                        "file_name": "14716643322491.wav",
+                        "start_time": 65.506,
+                        "legacy_video_id": 2656,
+                        "legacy_user_id": 3239,
+                        "label": "",
+                        "legacy_audio_clip_id": 23909,
+                        "video": "58e7cf2946e13dfd851a1e73",
+                        "end_time": 78.29599999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2689",
+                        "transcript": [
+                            {
+                                "_id": "5e4421bec26fa0bc796fd3f0",
+                                "sentence": " Mary kate runs out toward the front door. She opens it and tries to leave. But sean grabs her, impose a back in,",
+                                "start_time": 0,
+                                "end_time": 7.27
+                            },
+                            {
+                                "_id": "5e4421bec26fa0bc796fd3ef",
+                                "sentence": " he kisses her.",
+                                "start_time": 7.76,
+                                "end_time": 9.24
+                            },
+                            {
+                                "_id": "5e4421bec26fa0bc796fd3ee",
+                                "sentence": " She stopped struggling and puts her head on his chest.",
+                                "start_time": 9.4,
+                                "end_time": 12.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b1a",
+                        "audio_description": "58e7cf3746e13dfd851a268a",
+                        "created_at": 20160819204446,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160819204446,
+                        "file_name": "14716646864061.wav",
+                        "start_time": 81.592,
+                        "legacy_video_id": 2656,
+                        "legacy_user_id": 3239,
+                        "label": "",
+                        "legacy_audio_clip_id": 23912,
+                        "video": "58e7cf2946e13dfd851a1e73",
+                        "end_time": 91.822,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2689",
+                        "transcript": [
+                            {
+                                "_id": "5e4421c0c26fa0bc796fd3f7",
+                                "sentence": " He turns to shut the door.",
+                                "start_time": 0.61,
+                                "end_time": 2.62
+                            },
+                            {
+                                "_id": "5e4421c0c26fa0bc796fd3f6",
+                                "sentence": " He turns back around. Mary kate swings to arm.",
+                                "start_time": 2.8,
+                                "end_time": 6.34
+                            },
+                            {
+                                "_id": "5e4421c0c26fa0bc796fd3f5",
+                                "sentence": " He blocks the punch.",
+                                "start_time": 6.36,
+                                "end_time": 8.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b1b",
+                        "audio_description": "58e7cf3746e13dfd851a268a",
+                        "created_at": 20160819204658,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160819204658,
+                        "file_name": "14716648183991.wav",
+                        "start_time": 142.853,
+                        "legacy_video_id": 2656,
+                        "legacy_user_id": 3239,
+                        "label": "",
+                        "legacy_audio_clip_id": 23913,
+                        "video": "58e7cf2946e13dfd851a1e73",
+                        "end_time": 152.06300000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2689",
+                        "transcript": [
+                            {
+                                "_id": "5e44288dc26fa0bc796fd55d",
+                                "sentence": " Mary kate is in the doorway.",
+                                "start_time": 0,
+                                "end_time": 1.92
+                            },
+                            {
+                                "_id": "5e44288dc26fa0bc796fd55c",
+                                "sentence": " She turns and opens the door.",
+                                "start_time": 1.92,
+                                "end_time": 4.18
+                            },
+                            {
+                                "_id": "5e44288dc26fa0bc796fd55b",
+                                "sentence": " She turns back to sean, kisses him quickly, then runs out.",
+                                "start_time": 5.04,
+                                "end_time": 8.88
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a268a",
+                "status": "published",
+                "legacy_video_id": 2656,
+                "legacy_user_id": 3239,
+                "video": "58e7cf2946e13dfd851a1e73",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2689",
+                    "name": "CStull",
+                    "google_user_id_token": "",
+                    "created_at": 20160819104209,
+                    "updated_at": 20160819114335,
+                    "legacy_user_id": 3239,
+                    "last_login": 0,
+                    "email": "cstull@pdx.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "The Quiet Man",
+            "John Ford",
+            "John Wayne",
+            "Maureen O'Hara"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e73",
+        "description": "",
+        "youtube_id": "MkQyRE0byBI",
+        "views": 0,
+        "created_at": 20160819181228,
+        "title": "The Quiet Man (Kiss Scene)",
+        "legacy_video_id": 2656,
+        "updated_at": 20160819204700,
+        "youtube_status": "available",
+        "category": "Music",
+        "category_id": "10",
+        "duration": 156
+    }
+}

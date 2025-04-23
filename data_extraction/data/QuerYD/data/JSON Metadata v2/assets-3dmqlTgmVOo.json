@@ -1,0 +1,270 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5e46e13dfd851a4592",
+                        "audio_description": "58e7cf3046e13dfd851a2384",
+                        "created_at": 20150826171151,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826171151,
+                        "file_name": "14406343114771.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2099,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14925,
+                        "video": "58e7cf2946e13dfd851a1c46",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac392d8af910da52dfdef",
+                                "sentence": " A teenage girl wearing a t SB bi shirt sits knee to knee with an adult female.",
+                                "start_time": 2.26,
+                                "end_time": 9.8
+                            },
+                            {
+                                "_id": "5e3ac392d8af910da52dfdee",
+                                "sentence": " Next to them is a tactile calendar. They communicate using tactile sign language.",
+                                "start_time": 9.87,
+                                "end_time": 15.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a4593",
+                        "audio_description": "58e7cf3046e13dfd851a2384",
+                        "created_at": 20150826171310,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826171310,
+                        "file_name": "14406343901591.wav",
+                        "start_time": 19.03,
+                        "legacy_video_id": 2099,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14926,
+                        "video": "58e7cf2946e13dfd851a1c46",
+                        "end_time": 19.03,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd74a",
+                                "sentence": " A child sits reclining in a wheelchair in front of a desk.",
+                                "start_time": 0.48,
+                                "end_time": 4.56
+                            },
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd749",
+                                "sentence": " There are two adults with him, both female. One adult with blonde hair is sitting on the opposite side of the desk observing.",
+                                "start_time": 4.56,
+                                "end_time": 12.95
+                            },
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd748",
+                                "sentence": " The other adult stands to his right and leans down holding an iPad out to him.",
+                                "start_time": 12.95,
+                                "end_time": 17.86
+                            },
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd747",
+                                "sentence": " The student is reaching out for the iPad.",
+                                "start_time": 17.86,
+                                "end_time": 20.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a4594",
+                        "audio_description": "58e7cf3046e13dfd851a2384",
+                        "created_at": 20150826171408,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826171408,
+                        "file_name": "14406344488241.wav",
+                        "start_time": 29.662,
+                        "legacy_video_id": 2099,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14927,
+                        "video": "58e7cf2946e13dfd851a1c46",
+                        "end_time": 29.662,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 26.85,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3acae269855f5850086b90",
+                                "sentence": " Two females, an adult and a toddler, both wearing dresses, approach a fountain.",
+                                "start_time": 0.91,
+                                "end_time": 6.44
+                            },
+                            {
+                                "_id": "5e3acae269855f5850086b8f",
+                                "sentence": " The fountain consists of large rocks,",
+                                "start_time": 6.46,
+                                "end_time": 8.96
+                            },
+                            {
+                                "_id": "5e3acae269855f5850086b8e",
+                                "sentence": " one of which is shaped like a tree trunk and has water spouting out of it.",
+                                "start_time": 8.96,
+                                "end_time": 13.32
+                            },
+                            {
+                                "_id": "5e3acae269855f5850086b8d",
+                                "sentence": " The base of the fountain is covered in what appears to be small black pebbles, or possibly wood chips.",
+                                "start_time": 13.32,
+                                "end_time": 19.75
+                            },
+                            {
+                                "_id": "5e3acae269855f5850086b8c",
+                                "sentence": " They are bordered by a concrete ring.",
+                                "start_time": 19.92,
+                                "end_time": 22.33
+                            },
+                            {
+                                "_id": "5e3acae269855f5850086b8b",
+                                "sentence": " The adult steps away and allows the toddler to explore with her cane.",
+                                "start_time": 22.33,
+                                "end_time": 26.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a4595",
+                        "audio_description": "58e7cf3046e13dfd851a2384",
+                        "created_at": 20150826171514,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826171514,
+                        "file_name": "14406345144011.wav",
+                        "start_time": 45.125,
+                        "legacy_video_id": 2099,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14928,
+                        "video": "58e7cf2946e13dfd851a1c46",
+                        "end_time": 45.125,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd744",
+                                "sentence": " A person using a white cane is surrounded by chickens. We are unable to see this person's face and can only see glimpses of his or her body.",
+                                "start_time": 0.81,
+                                "end_time": 10.03
+                            },
+                            {
+                                "_id": "5e3ac3e7c648ec0da79cd743",
+                                "sentence": " We do see a gloved hand reaching into a chicken coop to retrieve eggs. The eggs are placed into a wire basket.",
+                                "start_time": 10.03,
+                                "end_time": 16.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a4596",
+                        "audio_description": "58e7cf3046e13dfd851a2384",
+                        "created_at": 20150826171612,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150826171612,
+                        "file_name": "14406345729571.wav",
+                        "start_time": 57.983,
+                        "legacy_video_id": 2099,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14929,
+                        "video": "58e7cf2946e13dfd851a1c46",
+                        "end_time": 57.983,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 25.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac827a64ad347e453c61a",
+                                "sentence": " A young male child walks down the hall of the school using a white cane.",
+                                "start_time": 0.92,
+                                "end_time": 5.64
+                            },
+                            {
+                                "_id": "5e3ac827a64ad347e453c619",
+                                "sentence": " He is accompanied by female adult as well as amella dulled, who is also using a cane.",
+                                "start_time": 5.79,
+                                "end_time": 11.58
+                            },
+                            {
+                                "_id": "5e3ac827a64ad347e453c618",
+                                "sentence": " The child keeps his right hand on the wall as he walks. When he moves to cross the hall, he puts the cane in his right hand and reaches out with his left hand.",
+                                "start_time": 11.58,
+                                "end_time": 21.25
+                            },
+                            {
+                                "_id": "5e3ac827a64ad347e453c617",
+                                "sentence": " He fills a water fountain and turns in science water.",
+                                "start_time": 21.25,
+                                "end_time": 25.08
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2384",
+                "status": "published",
+                "legacy_video_id": 2099,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c46",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c46",
+        "description": "",
+        "youtube_id": "3dmqlTgmVOo",
+        "views": 0,
+        "created_at": 20150826170925,
+        "title": "OHOA: Routines (with voiceover)",
+        "legacy_video_id": 2099,
+        "updated_at": 20150826171612,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 76
+    }
+}

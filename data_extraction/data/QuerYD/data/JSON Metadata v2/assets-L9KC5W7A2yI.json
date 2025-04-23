@@ -1,0 +1,103 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7bcff915c8ca3ccf56d6c6",
+                        "video": "5d7bb9698302113cc4be4fff",
+                        "audio_description": "5d7bb9698302113cc4be4ffe",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "HVAC Audio Description",
+                        "playback_type": "inline",
+                        "start_time": 0.29705,
+                        "end_time": 26.835716666666666,
+                        "duration": 26.538666666666668,
+                        "file_name": "L9KC5W7A2yI_5d7bcff915c8ca3ccf56d6c6.wav",
+                        "file_size_bytes": 5095468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/L9KC5W7A2yI",
+                        "created_at": 20190913172057,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51952d9a8b1f3b42081191",
+                                "sentence": " Three men look at simple h vac systems. Tax rates, h peck h fact will prepare you for employment in the heating, cooling, and refrigeration industry. This program is designed to provide training and repair, installation and maintenance.",
+                                "start_time": 0.54,
+                                "end_time": 10.11
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b42081190",
+                                "sentence": " Two men make adjustments to an h back control panel. Tax rates careers become an h back service or install technician to run your own business.",
+                                "start_time": 10.11,
+                                "end_time": 15.95
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b4208118f",
+                                "sentence": " Pair of hands. Adjust pressure valve tax rates. Plank the program are no associate degree in 16 months or certificate or diploma as little as four months",
+                                "start_time": 15.95,
+                                "end_time": 22.31
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b4208118e",
+                                "sentence": " warning. Same as the pressure valve of the unit tax rates. You've got this.",
+                                "start_time": 22.31,
+                                "end_time": 25.48
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7bb9698302113cc4be4ffe",
+                "video": "5d7bb9698302113cc4be4fff",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190913154441,
+                "updated_at": 20190913154441,
+                "notes": "3 men look at sample HVAC systems\r\nText reads:\r\nHVAC\r\nHVAC will prepare you for employment in the heating, cooling and refrigeration industry. \r\nThis program is designed to provide training in repair, installation and maintenance.\r\n\r\n2 men make adjustments to an HVAC control panel\r\nText reads\r\nCareers \r\nBecome a HVAC service or install technician, or run your own business!\r\n\r\nA pair of hands adjusts a pressure valve. \r\nText reads:\r\nLength of program\r\nEarn an associate degree in 16 months, or certificate or diploma in as little as 4 months\r\n\r\nA woman examines the pressure valve of a unit. \r\nText reads You've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "hvac",
+            "heating",
+            "ventilation",
+            "cooling",
+            "program video",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5d7bb9698302113cc4be4fff",
+        "title": "HVAC Program Video",
+        "description": "Information on the HVAC program.",
+        "youtube_id": "L9KC5W7A2yI",
+        "created_at": 20190913154441,
+        "updated_at": 20190913172057,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

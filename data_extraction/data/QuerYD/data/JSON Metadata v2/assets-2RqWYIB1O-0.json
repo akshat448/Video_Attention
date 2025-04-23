@@ -1,0 +1,132 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bce",
+                        "audio_description": "58e7cf3546e13dfd851a25d1",
+                        "created_at": 20160826111529,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160826111529,
+                        "file_name": "14722353290341.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2689,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24113,
+                        "video": "58e7cf2946e13dfd851a1e94",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 19.69,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44243df8a7edbc7bf679a4",
+                                "sentence": " A light skinned female student stands at a reception desk.",
+                                "start_time": 0.63,
+                                "end_time": 4.55
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679a3",
+                                "sentence": " An adult woman sits behind the counter and greats the student.",
+                                "start_time": 4.92,
+                                "end_time": 8.81
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679a2",
+                                "sentence": " The student reaches her hand over the counter, and the woman takes it.",
+                                "start_time": 9.26,
+                                "end_time": 13.06
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679a1",
+                                "sentence": " As someone walks by in the doorway, she asks them what the student needs.",
+                                "start_time": 14.12,
+                                "end_time": 18.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bcf",
+                        "audio_description": "58e7cf3546e13dfd851a25d1",
+                        "created_at": 20160826111613,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160826111613,
+                        "file_name": "14722353734531.wav",
+                        "start_time": 23.363,
+                        "legacy_video_id": 2689,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24114,
+                        "video": "58e7cf2946e13dfd851a1e94",
+                        "end_time": 23.363,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb23a3885227afb5ccf9",
+                                "sentence": " The woman turns around at her desk, grabs an envelope, and hands it to the student.",
+                                "start_time": 0.2,
+                                "end_time": 5.04
+                            },
+                            {
+                                "_id": "5e45bb23a3885227afb5ccf8",
+                                "sentence": " The student takes it and walks out of the office.",
+                                "start_time": 5.61,
+                                "end_time": 8.48
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25d1",
+                "status": "published",
+                "legacy_video_id": 2689,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e94",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e94",
+        "description": "",
+        "youtube_id": "2RqWYIB1O-0",
+        "views": 0,
+        "created_at": 20160826111419,
+        "title": "Natalie and Ana: Interaction Using Assistive Technology",
+        "legacy_video_id": 2689,
+        "updated_at": 20160826111613,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 28
+    }
+}

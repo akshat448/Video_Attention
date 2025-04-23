@@ -1,0 +1,449 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7146e13dfd851a542e",
+                        "audio_description": "58e7cf3546e13dfd851a25e8",
+                        "created_at": 20160118121545,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160118121545,
+                        "file_name": "14531481451541.wav",
+                        "start_time": 15.929,
+                        "legacy_video_id": 2436,
+                        "legacy_user_id": 3030,
+                        "label": "",
+                        "legacy_audio_clip_id": 20825,
+                        "video": "58e7cf2946e13dfd851a1d97",
+                        "end_time": 32.809,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e7",
+                        "transcript": [
+                            {
+                                "_id": "5e42bd6616b75ab425f71619",
+                                "sentence": " Mario is now in a wheelchair, riding on the red brick wall, where it bumps onto the green tube",
+                                "start_time": 0.33,
+                                "end_time": 5.57
+                            },
+                            {
+                                "_id": "5e42bd6616b75ab425f71618",
+                                "sentence": " in temps to jump the tube with the wheelchair,",
+                                "start_time": 5.8,
+                                "end_time": 8.42
+                            },
+                            {
+                                "_id": "5e42bd6616b75ab425f71617",
+                                "sentence": " mario begins to cry,",
+                                "start_time": 8.42,
+                                "end_time": 10.01
+                            },
+                            {
+                                "_id": "5e42bd6616b75ab425f71616",
+                                "sentence": " wager walks behind mario and lifts his right hand up,",
+                                "start_time": 10.01,
+                                "end_time": 13.49
+                            },
+                            {
+                                "_id": "5e42bd6616b75ab425f71615",
+                                "sentence": " and a light bulb appears over his head.",
+                                "start_time": 13.54,
+                                "end_time": 16.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7146e13dfd851a542f",
+                        "audio_description": "58e7cf3546e13dfd851a25e8",
+                        "created_at": 20160118122846,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160118122846,
+                        "file_name": "14531489262721.wav",
+                        "start_time": 33.468,
+                        "legacy_video_id": 2436,
+                        "legacy_user_id": 3030,
+                        "label": "",
+                        "legacy_audio_clip_id": 20829,
+                        "video": "58e7cf2946e13dfd851a1d97",
+                        "end_time": 40.118,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e7",
+                        "transcript": [
+                            {
+                                "_id": "5e42bc340499b0b427648060",
+                                "sentence": " Mary is on a wheelchair riding on the red brick wall. He goes up a ramp over the green tube and down the ramp twice.",
+                                "start_time": 0,
+                                "end_time": 6.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a546a",
+                        "audio_description": "58e7cf3546e13dfd851a25e8",
+                        "created_at": 20160119083418,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160119083418,
+                        "file_name": "14532212586171.wav",
+                        "start_time": 41.039,
+                        "legacy_video_id": 2436,
+                        "legacy_user_id": 3030,
+                        "label": "",
+                        "legacy_audio_clip_id": 20987,
+                        "video": "58e7cf2946e13dfd851a1d97",
+                        "end_time": 45.899,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e7",
+                        "transcript": [
+                            {
+                                "_id": "5e42b68116b75ab425f714b6",
+                                "sentence": " On a border. Listen, mark mushroom falls. He eats the mushroom, he and the wheelchair grow.",
+                                "start_time": 0,
+                                "end_time": 4.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a546b",
+                        "audio_description": "58e7cf3546e13dfd851a25e8",
+                        "created_at": 20160119083554,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160119083554,
+                        "file_name": "14532213542031.wav",
+                        "start_time": 46.562,
+                        "legacy_video_id": 2436,
+                        "legacy_user_id": 3030,
+                        "label": "",
+                        "legacy_audio_clip_id": 20988,
+                        "video": "58e7cf2946e13dfd851a1d97",
+                        "end_time": 52.442,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e7",
+                        "transcript": [
+                            {
+                                "_id": "5e42b68216b75ab425f714e0",
+                                "sentence": " Up over the tube down a ramp hits the green shell, goes up a ramp, eats the flower.",
+                                "start_time": 0,
+                                "end_time": 5.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a546c",
+                        "audio_description": "58e7cf3546e13dfd851a25e8",
+                        "created_at": 20160119083852,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160119083852,
+                        "file_name": "14532215326301.wav",
+                        "start_time": 55.261,
+                        "legacy_video_id": 2436,
+                        "legacy_user_id": 3030,
+                        "label": "",
+                        "legacy_audio_clip_id": 20990,
+                        "video": "58e7cf2946e13dfd851a1d97",
+                        "end_time": 60.891000000000005,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e7",
+                        "transcript": [
+                            {
+                                "_id": "5e42b68216b75ab425f714dc",
+                                "sentence": " Mario goes down, the ramping crutches raises his right crutch, hits the block above three times.",
+                                "start_time": 0,
+                                "end_time": 5.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a546d",
+                        "audio_description": "58e7cf3546e13dfd851a25e8",
+                        "created_at": 20160119084415,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160119084415,
+                        "file_name": "14532218553051.wav",
+                        "start_time": 61.671,
+                        "legacy_video_id": 2436,
+                        "legacy_user_id": 3030,
+                        "label": "",
+                        "legacy_audio_clip_id": 20994,
+                        "video": "58e7cf2946e13dfd851a1d97",
+                        "end_time": 69.341,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e7",
+                        "transcript": [
+                            {
+                                "_id": "5e42bb8d479c9db426463ae8",
+                                "sentence": " He hits the turtle with his right crush. The turtle turns into a shell, runs into mario,",
+                                "start_time": 0,
+                                "end_time": 5.54
+                            },
+                            {
+                                "_id": "5e42bb8d479c9db426463ae7",
+                                "sentence": " who's now back in a wheelchair.",
+                                "start_time": 5.54,
+                                "end_time": 7.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a546e",
+                        "audio_description": "58e7cf3546e13dfd851a25e8",
+                        "created_at": 20160119085840,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160119085840,
+                        "file_name": "14532227203521.wav",
+                        "start_time": 75.404,
+                        "legacy_video_id": 2436,
+                        "legacy_user_id": 3030,
+                        "label": "",
+                        "legacy_audio_clip_id": 21005,
+                        "video": "58e7cf2946e13dfd851a1d97",
+                        "end_time": 80.264,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e7",
+                        "transcript": [
+                            {
+                                "_id": "5e42b68216b75ab425f714f7",
+                                "sentence": " He disappears into a red brick castle, gaining 25300 points.",
+                                "start_time": 0,
+                                "end_time": 4.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a546f",
+                        "audio_description": "58e7cf3546e13dfd851a25e8",
+                        "created_at": 20160119090445,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160119090445,
+                        "file_name": "14532230858741.wav",
+                        "start_time": 81.224,
+                        "legacy_video_id": 2436,
+                        "legacy_user_id": 3030,
+                        "label": "",
+                        "legacy_audio_clip_id": 21010,
+                        "video": "58e7cf2946e13dfd851a1d97",
+                        "end_time": 85.824,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e7",
+                        "transcript": [
+                            {
+                                "_id": "5e42b68216b75ab425f714da",
+                                "sentence": " Green reeds. It's not the eighties anymore. Enable access for everyone.",
+                                "start_time": 0,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a5470",
+                        "audio_description": "58e7cf3546e13dfd851a25e8",
+                        "created_at": 20160119090747,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160119090747,
+                        "file_name": "14532232673961.wav",
+                        "start_time": 87.423,
+                        "legacy_video_id": 2436,
+                        "legacy_user_id": 3030,
+                        "label": "",
+                        "legacy_audio_clip_id": 21013,
+                        "video": "58e7cf2946e13dfd851a1d97",
+                        "end_time": 98.423,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e7",
+                        "transcript": [
+                            {
+                                "_id": "5e42b5d16b735cb4247ac3ad",
+                                "sentence": " Oreo exits, the red brick castle, enters the green tube and falls. Wheelchair falls on Top of them, and a wheel rolls off the screen.",
+                                "start_time": 0,
+                                "end_time": 8.49
+                            },
+                            {
+                                "_id": "5e42b5d16b735cb4247ac3ac",
+                                "sentence": " The word now period.",
+                                "start_time": 8.49,
+                                "end_time": 10.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a5471",
+                        "audio_description": "58e7cf3546e13dfd851a25e8",
+                        "created_at": 20160119091547,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160119091547,
+                        "file_name": "14532237471871.wav",
+                        "start_time": 0.538,
+                        "legacy_video_id": 2436,
+                        "legacy_user_id": 3030,
+                        "label": "",
+                        "legacy_audio_clip_id": 21018,
+                        "video": "58e7cf2946e13dfd851a1d97",
+                        "end_time": 9.488,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e7",
+                        "transcript": [
+                            {
+                                "_id": "5e42b68216b75ab425f714de",
+                                "sentence": " Super mario brothers marriage, running on a red brick wall, hits a green tube, jumps up, eats a mushroom, falls!",
+                                "start_time": 0,
+                                "end_time": 6.55
+                            },
+                            {
+                                "_id": "5e42b68216b75ab425f714dd",
+                                "sentence": " Twitches! Ambulance comes.",
+                                "start_time": 6.6,
+                                "end_time": 8.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a549f",
+                        "audio_description": "58e7cf3546e13dfd851a25e8",
+                        "created_at": 20160120082959,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160120082959,
+                        "file_name": "14533073997871.wav",
+                        "start_time": 69.51,
+                        "legacy_video_id": 2436,
+                        "legacy_user_id": 3030,
+                        "label": "",
+                        "legacy_audio_clip_id": 21189,
+                        "video": "58e7cf2946e13dfd851a1d97",
+                        "end_time": 74.88000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e7",
+                        "transcript": [
+                            {
+                                "_id": "5e42b5d26b735cb4247ac40a",
+                                "sentence": " Mario goes up and over amp into an elevator with a handicap sign, goes down a pole.",
+                                "start_time": 0,
+                                "end_time": 5.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7246e13dfd851a54a0",
+                        "audio_description": "58e7cf3546e13dfd851a25e8",
+                        "created_at": 20160120083200,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160120083200,
+                        "file_name": "14533075203741.wav",
+                        "start_time": 102.45,
+                        "legacy_video_id": 2436,
+                        "legacy_user_id": 3030,
+                        "label": "",
+                        "legacy_audio_clip_id": 21190,
+                        "video": "58e7cf2946e13dfd851a1d97",
+                        "end_time": 106.8,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25e7",
+                        "transcript": [
+                            {
+                                "_id": "5e42b4c20499b0b427647f8c",
+                                "sentence": " Sketch of a hebrew symbol. That can mean that's the bottom line.",
+                                "start_time": 0,
+                                "end_time": 4.32
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25e8",
+                "status": "published",
+                "legacy_video_id": 2436,
+                "legacy_user_id": 3030,
+                "video": "58e7cf2946e13dfd851a1d97",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25e7",
+                    "name": "TeamFleet",
+                    "google_user_id_token": "",
+                    "created_at": 20160115114107,
+                    "updated_at": 20160118140323,
+                    "legacy_user_id": 3030,
+                    "last_login": 0,
+                    "email": "Chancey.Fleet@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Super mario",
+            "\u05ea\u05db\u05dc'\u05e1",
+            "\u05ea\u05db\u05dc\u05e1",
+            "\u05ea'\u05db\u05dc\u05e1",
+            "tachles",
+            "super mario wheelchair",
+            "super mario accessibility",
+            "not so super",
+            "not so super mario",
+            "super mario bros",
+            "roi meyshar",
+            "liron atia",
+            "gadi wilcherski",
+            "access",
+            "disabled",
+            "super mario disabled",
+            "Enable access for everyone now",
+            "mario wheelchair"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d97",
+        "description": "",
+        "youtube_id": "DvaPRlZtfyc",
+        "views": 0,
+        "created_at": 20160115150819,
+        "title": "Not So Super Mario",
+        "legacy_video_id": 2436,
+        "updated_at": 20160120083204,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 107
+    }
+}

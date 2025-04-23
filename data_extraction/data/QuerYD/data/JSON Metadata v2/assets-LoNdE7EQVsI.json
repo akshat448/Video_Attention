@@ -1,0 +1,158 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cb7",
+                        "audio_description": "58e7cf3746e13dfd851a26a1",
+                        "created_at": 20160929075651,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929075651,
+                        "file_name": "14751610115821.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2732,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24449,
+                        "video": "58e7cf2946e13dfd851a1ebf",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 46.8,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45b74798b0c327b1e12726",
+                                "sentence": " A young adult male wearing a red football jersey",
+                                "start_time": 0.39,
+                                "end_time": 5.02
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e12725",
+                                "sentence": " sits next to an adult woman at a large light green table.",
+                                "start_time": 5.02,
+                                "end_time": 10.87
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e12724",
+                                "sentence": " On the table, there are items of food,",
+                                "start_time": 11.33,
+                                "end_time": 14.35
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e12723",
+                                "sentence": " a water bottle salad and a sandwich.",
+                                "start_time": 14.35,
+                                "end_time": 17.72
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e12722",
+                                "sentence": " The mail and woman",
+                                "start_time": 18,
+                                "end_time": 19.91
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e12721",
+                                "sentence": " use hand on hand contact along with simultaneous sign language and spoken English",
+                                "start_time": 19.91,
+                                "end_time": 27.59
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e12720",
+                                "sentence": " in order to communicate",
+                                "start_time": 27.59,
+                                "end_time": 29.48
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e1271f",
+                                "sentence": " in front of them. On the table are many food items,",
+                                "start_time": 29.94,
+                                "end_time": 34.37
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e1271e",
+                                "sentence": " a water bottle,",
+                                "start_time": 34.37,
+                                "end_time": 35.74
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e1271d",
+                                "sentence": " chocolate milk,",
+                                "start_time": 35.74,
+                                "end_time": 37.12
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e1271c",
+                                "sentence": " a chicken sandwich,",
+                                "start_time": 37.32,
+                                "end_time": 39.05
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e1271b",
+                                "sentence": " and salad.",
+                                "start_time": 39.05,
+                                "end_time": 40.27
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e1271a",
+                                "sentence": " They eat their meal together while mostly keeping hand on hand contact.",
+                                "start_time": 40.34,
+                                "end_time": 46.54
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a26a1",
+                "status": "published",
+                "legacy_video_id": 2732,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1ebf",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Barbara",
+            "Miles",
+            "Touch",
+            "Module",
+            "22"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ebf",
+        "description": "",
+        "youtube_id": "LoNdE7EQVsI",
+        "views": 0,
+        "created_at": 20160929075410,
+        "title": "Touch for Fun and Learning - Lunch, Touch 2",
+        "legacy_video_id": 2732,
+        "updated_at": 20160929075651,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 288
+    }
+}

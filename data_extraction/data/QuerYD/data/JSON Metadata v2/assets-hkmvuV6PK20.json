@@ -1,0 +1,783 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4a46e13dfd851a359f",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141123164714,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123164714,
+                        "file_name": "14167900342171.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9346,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dd3c73235f669fc85d",
+                                "sentence": " This is a clip from the movie ray that follows the life and success of blues musician ray charles. The clip begins with rey and his wife, who just had their first baby.",
+                                "start_time": 0.33,
+                                "end_time": 9.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35a0",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141123165149,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123165149,
+                        "file_name": "14167903091081.wav",
+                        "start_time": 0.1,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9349,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 4.699999999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e21172ba0a26c5f69de477c",
+                                "sentence": " Be kisses their new bird on the forehead. The scene flashes back to the inside of his childhood home.",
+                                "start_time": 0.01,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35a1",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141123165851,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123165851,
+                        "file_name": "14167907311481.wav",
+                        "start_time": 9.909,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9352,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 13.229000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dd3c73235f669fc869",
+                                "sentence": " His mother approaches with concern, but slowly backs away.",
+                                "start_time": 0.13,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35a2",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141123170106,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123170106,
+                        "file_name": "14167908660971.wav",
+                        "start_time": 14.788,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9354,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 17.348,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e21172da0a26c5f69de47a3",
+                                "sentence": " She looks out the window and remained silent.",
+                                "start_time": 0,
+                                "end_time": 2.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35a3",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141123170344,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123170344,
+                        "file_name": "14167910240171.wav",
+                        "start_time": 24.791,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9356,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 27.601,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e21165cad6c4c5f68d9ecd4",
+                                "sentence": " She resumes her cooking at the kitchen counter.",
+                                "start_time": 0.07,
+                                "end_time": 2.45
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35a4",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141123170358,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123170358,
+                        "file_name": "14167910387501.wav",
+                        "start_time": 29.87,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9357,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 33.71,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec91",
+                                "sentence": " Returns his head back and forth to locate her.",
+                                "start_time": 0.36,
+                                "end_time": 3.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35a5",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141123170428,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123170428,
+                        "file_name": "14167910683061.wav",
+                        "start_time": 34.67,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9358,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 38.25,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec7f",
+                                "sentence": " Race slowly pushes himself up off the floor.",
+                                "start_time": 0.28,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35a6",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141123170528,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123170528,
+                        "file_name": "14167911281631.wav",
+                        "start_time": 41.289,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9362,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 44.359,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e21172ca0a26c5f69de4796",
+                                "sentence": " He wipes his eyes whilst crunching up his face.",
+                                "start_time": 0.25,
+                                "end_time": 3.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35a7",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141123170547,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141123170547,
+                        "file_name": "14167911478391.wav",
+                        "start_time": 45.207,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9364,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 49.557,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ecb3",
+                                "sentence": " He turns around responding to a farmer and his cow outside.",
+                                "start_time": 0.31,
+                                "end_time": 4.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35f6",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141124133543,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141124133543,
+                        "file_name": "14168649436301.wav",
+                        "start_time": 55.918,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9457,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 59.238,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e211519c4c00c5f6705e3d0",
+                                "sentence": " Returns his head to face a steaming kettle.",
+                                "start_time": 0,
+                                "end_time": 2.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35f7",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141124133641,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141124133641,
+                        "file_name": "14168650012241.wav",
+                        "start_time": 61.104,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9459,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 63.914,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e211519c4c00c5f6705e3a8",
+                                "sentence": " His mother watches him turn towards the kettle.",
+                                "start_time": 0.16,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35f8",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141124133731,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141124133731,
+                        "file_name": "14168650512791.wav",
+                        "start_time": 64.487,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9460,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 68.577,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dc3c73235f669fc816",
+                                "sentence": " Ray turns his head towards the crackle of a wood burning fire.",
+                                "start_time": 0.35,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35f9",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141124133802,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141124133802,
+                        "file_name": "14168650825671.wav",
+                        "start_time": 71.246,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9461,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 78.40599999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e2115db3c73235f669fc806",
+                                "sentence": " He gets up onto his feet and slowly walks, arms outstretched towards the fire, and places his hand over it.",
+                                "start_time": 0.16,
+                                "end_time": 6.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35fa",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141124133819,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141124133819,
+                        "file_name": "14168650990211.wav",
+                        "start_time": 79.202,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9462,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 81.502,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dd3c73235f669fc86a",
+                                "sentence": " He retracts it quickly from the heat.",
+                                "start_time": 0.03,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35fb",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141124133846,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141124133846,
+                        "file_name": "14168651260101.wav",
+                        "start_time": 82.441,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9463,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 87.811,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e211519c4c00c5f6705e3b1",
+                                "sentence": " He places his hand on the wall and walks, trailing his fingers across the brick.",
+                                "start_time": 0.24,
+                                "end_time": 5.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35fc",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141124134136,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141124134136,
+                        "file_name": "14168652965301.wav",
+                        "start_time": 88.826,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9464,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 91.386,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e2115dd3c73235f669fc862",
+                                "sentence": " His mother continues to observe him.",
+                                "start_time": 0.09,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35fd",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141124134912,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141124134912,
+                        "file_name": "14168657524771.wav",
+                        "start_time": 94.014,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9466,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 98.61399999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e211653ad6c4c5f68d9ecc5",
+                                "sentence": " Ray stops and turns towards the window as a horse and carriage pass.",
+                                "start_time": 0.28,
+                                "end_time": 4.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35fe",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141124135003,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141124135003,
+                        "file_name": "14168658031891.wav",
+                        "start_time": 103.756,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9467,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 108.616,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec8a",
+                                "sentence": " His mother glances down at a cricket crawling beneath the table and looks back at ray.",
+                                "start_time": 0.34,
+                                "end_time": 4.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a35ff",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141124135033,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141124135033,
+                        "file_name": "14168658336381.wav",
+                        "start_time": 109.31,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9468,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 114.94,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e219e68d68db54873c32d65",
+                                "sentence": " Ray walks, arms outstretched from the window to the table. As his mother stairs.",
+                                "start_time": 0.52,
+                                "end_time": 5.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a3600",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141124135237,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141124135237,
+                        "file_name": "14168659577581.wav",
+                        "start_time": 135.714,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 9473,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 139.034,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e211518c4c00c5f6705e367",
+                                "sentence": " A tear falls down his mother's cheek as she watches.",
+                                "start_time": 0.28,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3730",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141202203149,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202203149,
+                        "file_name": "14175811092511.wav",
+                        "start_time": 4,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 10295,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 4,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e21930ca294340d18b4c4e2",
+                                "sentence": " Seven year old raid trips on a rocking chair and tumbles to the floor.",
+                                "start_time": 0.27,
+                                "end_time": 4.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3731",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141202203403,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202203403,
+                        "file_name": "14175812436881.wav",
+                        "start_time": 24.236,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 10296,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 24.236,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e2195856873bc0d1a2607ac",
+                                "sentence": " Ray remains sprawled on the floor.",
+                                "start_time": 0.03,
+                                "end_time": 2.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3733",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141202203811,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202203811,
+                        "file_name": "14175814912231.wav",
+                        "start_time": 115.931,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 10300,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 132.041,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e2191a863d3c80d19f0d107",
+                                "sentence": " Ray feels his way from the Top of the table down to its feet. Now kneeling, he reaches under the table and feels around for the cricket. Patting his hands across the floor. He touches it and brings it into his cupped palms. He lifts his hand to his ears and smiles.",
+                                "start_time": 0.31,
+                                "end_time": 16.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3735",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141202204149,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202204149,
+                        "file_name": "14175817094521.wav",
+                        "start_time": 145.282,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 10302,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 148.602,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e2195866873bc0d1a2607b7",
+                                "sentence": " His mother slowly approaches him and meals.",
+                                "start_time": 0.13,
+                                "end_time": 3.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3736",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141202204330,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202204330,
+                        "file_name": "14175818101551.wav",
+                        "start_time": 159.151,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 10304,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 161.961,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e21930ca294340d18b4c4d1",
+                                "sentence": " She hugs him. They rock back and forth.",
+                                "start_time": 0.04,
+                                "end_time": 2.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3737",
+                        "audio_description": "58e7cf2f46e13dfd851a22c4",
+                        "created_at": 20141202204405,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202204405,
+                        "file_name": "14175818450111.wav",
+                        "start_time": 162.53,
+                        "legacy_video_id": 1715,
+                        "legacy_user_id": 2468,
+                        "label": "",
+                        "legacy_audio_clip_id": 10306,
+                        "video": "58e7cf2846e13dfd851a1ac6",
+                        "end_time": 162.53,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22c3",
+                        "transcript": [
+                            {
+                                "_id": "5e2191ab63d3c80d19f0d144",
+                                "sentence": " The scene flashes back to adult ray.",
+                                "start_time": 0,
+                                "end_time": 2.48
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2f46e13dfd851a22c4",
+                "status": "published",
+                "legacy_video_id": 1715,
+                "legacy_user_id": 2468,
+                "video": "58e7cf2846e13dfd851a1ac6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2f46e13dfd851a22c3",
+                    "name": "berkeleymz",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2468,
+                    "last_login": 0,
+                    "email": "zoey.zobell@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Meu",
+            "Filme"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ac6",
+        "description": "",
+        "youtube_id": "hkmvuV6PK20",
+        "views": 0,
+        "created_at": 20141123154117,
+        "title": "Ray 2004 best movie scene",
+        "legacy_video_id": 1715,
+        "updated_at": 20141202204429,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 163
+    }
+}

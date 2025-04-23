@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5646e13dfd851a4074",
+                        "audio_description": "58e7cf3046e13dfd851a2337",
+                        "created_at": 20150424191816,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150424191816,
+                        "file_name": "14299282963241.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1916,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13161,
+                        "video": "58e7cf2846e13dfd851a1b8f",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 18.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f888d6c9183c280f65",
+                                "sentence": " In this video, Michael sits in a wheelchair wearing a red shirt, and watches as his teacher sings his name to him.",
+                                "start_time": 0.57,
+                                "end_time": 7.11
+                            },
+                            {
+                                "_id": "5e30a5f888d6c9183c280f64",
+                                "sentence": " When she walks away for a moment, he clinches his fist, raises his arms, and looks directly at the camera.",
+                                "start_time": 7.28,
+                                "end_time": 14.01
+                            },
+                            {
+                                "_id": "5e30a5f888d6c9183c280f63",
+                                "sentence": " Once she returns, he relaxes and his focus shifts back to his teacher.",
+                                "start_time": 14.04,
+                                "end_time": 18.88
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2337",
+                "status": "published",
+                "legacy_video_id": 1916,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1b8f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b8f",
+        "description": "",
+        "youtube_id": "QI4VhOlC0-I",
+        "views": 0,
+        "created_at": 20150424191712,
+        "title": "Copy of Ending the Interaction",
+        "legacy_video_id": 1916,
+        "updated_at": 20150424191816,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 56
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38cf",
+                        "audio_description": "58e7cf2e46e13dfd851a225d",
+                        "created_at": 20150205090456,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150205090456,
+                        "file_name": "14231558967731.wav",
+                        "start_time": 1.662,
+                        "legacy_video_id": 1789,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 10888,
+                        "video": "58e7cf2846e13dfd851a1b10",
+                        "end_time": 1.662,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e23279bb012e302b8a22971",
+                                "sentence": " Video is 26 minutes, 51 seconds.",
+                                "start_time": 0.24,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4d46e13dfd851a38d0",
+                        "audio_description": "58e7cf2e46e13dfd851a225d",
+                        "created_at": 20150205091132,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150205091132,
+                        "file_name": "14231562923371.wav",
+                        "start_time": 94.357,
+                        "legacy_video_id": 1789,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 10889,
+                        "video": "58e7cf2846e13dfd851a1b10",
+                        "end_time": 94.357,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e23279cb012e302b8a22988",
+                                "sentence": " Photo of three men hunting with spears.",
+                                "start_time": 0.24,
+                                "end_time": 3.3
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2e46e13dfd851a225d",
+                "status": "published",
+                "legacy_video_id": 1789,
+                "legacy_user_id": 2415,
+                "video": "58e7cf2846e13dfd851a1b10",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2e46e13dfd851a2256",
+                    "name": "@DescribeVT",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2415,
+                    "last_login": 0,
+                    "email": "braille@vt.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "world regions",
+            "education",
+            "John Boyer",
+            "introduction",
+            "talk",
+            "university",
+            "class",
+            "college",
+            "student",
+            "news",
+            "geography",
+            "population",
+            "people",
+            "global"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b10",
+        "description": "",
+        "youtube_id": "IFgh9WU0lPs",
+        "views": 0,
+        "created_at": 20150205090430,
+        "title": "2.2 Population: How Many People & Where",
+        "legacy_video_id": 1789,
+        "updated_at": 20150205091132,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 1611
+    }
+}

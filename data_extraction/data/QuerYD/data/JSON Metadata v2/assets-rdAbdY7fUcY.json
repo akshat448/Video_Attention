@@ -1,0 +1,66 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5f96f0fb6832dc5fe4ac559e",
+                        "video": "5f96f0656832dc5fe4ac559c",
+                        "audio_description": "5f96f0656832dc5fe4ac559b",
+                        "user": "5d5d79718302113cc4be4ee6",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 6.959186708561785,
+                        "end_time": 14.553853375228453,
+                        "duration": 7.594666666666667,
+                        "file_name": "rdAbdY7fUcY_5f96f0fb6832dc5fe4ac559e.wav",
+                        "file_size_bytes": 1458220,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/rdAbdY7fUcY",
+                        "created_at": 20201026155331,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5f96f0656832dc5fe4ac559b",
+                "video": "5f96f0656832dc5fe4ac559c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d5d79718302113cc4be4ee6",
+                    "email": "margot.whitfield@ryerson.ca",
+                    "name": "Margot Whitfield",
+                    "given_name": "Margot",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mDHGfBabTwtONJyjRyPxfbd91wCr74Iaq40Yrv_fw=s96-c",
+                    "locale": "en",
+                    "google_user_id": "109744133333661352450",
+                    "last_login": 20201026154905,
+                    "token": "99d9ba8f54e53b28e9be1b6fdf2894c3070d1332decff00c929adb414f8d2df2",
+                    "__v": 0,
+                    "updated_at": 20201026154905,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201026155101,
+                "updated_at": 20201026155101,
+                "notes": "Cooks chopping garlic, eggs, lobsters, oil, pepper, chicken zoom past\n\n",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5f96f0656832dc5fe4ac559c",
+        "title": "How to Peel and Chop Garlic | Kitchen Daily",
+        "description": "Watch this video to learn how to remove the cloves from a bulb of garlic, and then dehusk and chop the individual cloves.\n\u00bb Watch More 'Kitchen How-Tos' Here: http://goo.gl/Nk3Ahk\n\u00bb Subscribe For The Latest Videos: http://goo.gl/40GaXy\n\nAbout: Kitchen Daily has great recipes for every meal, easy ideas for dinner tonight, cooking tips and expert food advice.\u00a0\n\nGet More Kitchen Daily:\nRead: http://goo.gl/rgSNrl\nLike: http://goo.gl/9DUQuw\nFollow: http://goo.gl/5Vm4hX\nPin: http://goo.gl/KMP2b7",
+        "youtube_id": "rdAbdY7fUcY",
+        "created_at": 20201026155101,
+        "updated_at": 20201026155331,
+        "views": 0,
+        "__v": 0
+    }
+}

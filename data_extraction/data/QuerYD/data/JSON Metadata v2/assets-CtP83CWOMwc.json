@@ -1,0 +1,407 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59472f84920a8811b8a191f8",
+                        "video": "59472aa2920a8811b8a191f3",
+                        "audio_description": "59472f42920a8811b8a191f7",
+                        "user": "59472ef7920a8811b8a191f5",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 15.40833302861023,
+                        "end_time": 17.797666361943563,
+                        "duration": 2.3893333333333335,
+                        "file_name": "CtP83CWOMwc_59472f84920a8811b8a191f8.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CtP83CWOMwc",
+                        "created_at": 20170619015724,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "59472f42920a8811b8a191f7",
+                "video": "59472aa2920a8811b8a191f3",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59472ef7920a8811b8a191f5",
+                    "email": "spenn3@eagles.nccu.edu",
+                    "name": "Shawnna Penn",
+                    "given_name": "Shawnna",
+                    "picture": "https://lh3.googleusercontent.com/-S9WSlbT6IvU/AAAAAAAAAAI/AAAAAAAAAAA/AAyYBF6Afvr_1pJEimvvO6q_vPqn7PrEFg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "108879467594101933763",
+                    "last_login": 20170619015503,
+                    "token": "1ec8d5f267dcf8cf43bc5d65d688a80902d6ef0d8925c45de2925634a7ed464d",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20170619015618,
+                "updated_at": 20170619015618,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59481087c1c2571a57bd239d",
+                        "video": "59472aa2920a8811b8a191f3",
+                        "audio_description": "594731193e9d0d1922c494b4",
+                        "user": "5945e06adf41067db9850fe5",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 9.372331,
+                        "end_time": 9.372331,
+                        "duration": 11.052698412698414,
+                        "file_name": "CtP83CWOMwc_59481087c1c2571a57bd239d.wav",
+                        "file_size_bytes": 1949740,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CtP83CWOMwc",
+                        "created_at": 20170619175727,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a290279d3cb177f4cd",
+                                "sentence": " The first pink pig has on yellow overalls.",
+                                "start_time": 0.99,
+                                "end_time": 4.03
+                            },
+                            {
+                                "_id": "5dce16a290279d3cb177f4cc",
+                                "sentence": " The second pink pig has on blue overalls,",
+                                "start_time": 4.26,
+                                "end_time": 7.01
+                            },
+                            {
+                                "_id": "5dce16a290279d3cb177f4cb",
+                                "sentence": " and the third pink pig has on red overalls.",
+                                "start_time": 7.03,
+                                "end_time": 10.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "594813cbc1c2571a57bd23a4",
+                        "video": "59472aa2920a8811b8a191f3",
+                        "audio_description": "594731193e9d0d1922c494b4",
+                        "user": "5945e06adf41067db9850fe5",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 119.0028559256134,
+                        "end_time": 121.88213030203063,
+                        "duration": 2.8792743764172335,
+                        "file_name": "CtP83CWOMwc_594813cbc1c2571a57bd23a4.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CtP83CWOMwc",
+                        "created_at": 20170619181123,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a290279d3cb177f4c5",
+                                "sentence": " And the wolf took a deep breath.",
+                                "start_time": 0.34,
+                                "end_time": 2.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59481559c1c2571a57bd23a7",
+                        "video": "59472aa2920a8811b8a191f3",
+                        "audio_description": "594731193e9d0d1922c494b4",
+                        "user": "5945e06adf41067db9850fe5",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 58.998659,
+                        "end_time": 58.998659,
+                        "duration": 12.631655328798185,
+                        "file_name": "CtP83CWOMwc_59481559c1c2571a57bd23a7.wav",
+                        "file_size_bytes": 2228268,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CtP83CWOMwc",
+                        "created_at": 20170619181801,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a390279d3cb177f540",
+                                "sentence": " Furious,",
+                                "start_time": 0.35,
+                                "end_time": 1.48
+                            },
+                            {
+                                "_id": "5dce16a390279d3cb177f53f",
+                                "sentence": " the big bad wolf!",
+                                "start_time": 1.5,
+                                "end_time": 3.07
+                            },
+                            {
+                                "_id": "5dce16a390279d3cb177f53e",
+                                "sentence": " IT's brown",
+                                "start_time": 3.28,
+                                "end_time": 4.3
+                            },
+                            {
+                                "_id": "5dce16a390279d3cb177f53d",
+                                "sentence": " has sharp teeth.",
+                                "start_time": 4.52,
+                                "end_time": 5.99
+                            },
+                            {
+                                "_id": "5dce16a390279d3cb177f53c",
+                                "sentence": " Shop clouds.",
+                                "start_time": 6.02,
+                                "end_time": 7.47
+                            },
+                            {
+                                "_id": "5dce16a390279d3cb177f53b",
+                                "sentence": " IT's wearing green suspenders",
+                                "start_time": 7.48,
+                                "end_time": 10.02
+                            },
+                            {
+                                "_id": "5dce16a390279d3cb177f53a",
+                                "sentence": " and orange overalls.",
+                                "start_time": 10.84,
+                                "end_time": 12.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "594815d4c1c2571a57bd23a8",
+                        "video": "59472aa2920a8811b8a191f3",
+                        "audio_description": "594731193e9d0d1922c494b4",
+                        "user": "5945e06adf41067db9850fe5",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 151.27072499046326,
+                        "end_time": 153.49984063672176,
+                        "duration": 2.2291156462585033,
+                        "file_name": "CtP83CWOMwc_594815d4c1c2571a57bd23a8.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CtP83CWOMwc",
+                        "created_at": 20170619182004,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a290279d3cb177f505",
+                                "sentence": " He took a deep breath.",
+                                "start_time": 0.29,
+                                "end_time": 2.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "594815f6c1c2571a57bd23a9",
+                        "video": "59472aa2920a8811b8a191f3",
+                        "audio_description": "594731193e9d0d1922c494b4",
+                        "user": "5945e06adf41067db9850fe5",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 159.485963,
+                        "end_time": 159.485963,
+                        "duration": 6.873106575963718,
+                        "file_name": "CtP83CWOMwc_594815f6c1c2571a57bd23a9.wav",
+                        "file_size_bytes": 1212460,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CtP83CWOMwc",
+                        "created_at": 20170619182038,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a290279d3cb177f504",
+                                "sentence": " Furious wolf climbed",
+                                "start_time": 0.33,
+                                "end_time": 2.46
+                            },
+                            {
+                                "_id": "5dce16a290279d3cb177f503",
+                                "sentence": " on top of the roof",
+                                "start_time": 2.48,
+                                "end_time": 3.99
+                            },
+                            {
+                                "_id": "5dce16a290279d3cb177f502",
+                                "sentence": " in order to get to the chimney.",
+                                "start_time": 4.86,
+                                "end_time": 6.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59481750c1c2571a57bd23ac",
+                        "video": "59472aa2920a8811b8a191f3",
+                        "audio_description": "594731193e9d0d1922c494b4",
+                        "user": "5945e06adf41067db9850fe5",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 13.30745090272522,
+                        "end_time": 27.51806314762318,
+                        "duration": 14.210612244897959,
+                        "file_name": "CtP83CWOMwc_59481750c1c2571a57bd23ac.wav",
+                        "file_size_bytes": 2506796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CtP83CWOMwc",
+                        "created_at": 20170619182624,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf010427a509d76fe83170",
+                                "sentence": " His house is yellow with a brown door.",
+                                "start_time": 0,
+                                "end_time": 3.18
+                            },
+                            {
+                                "_id": "5dcf010427a509d76fe8316f",
+                                "sentence": " The second picks house is brown with a beige dolls, or",
+                                "start_time": 4.78,
+                                "end_time": 7.98
+                            },
+                            {
+                                "_id": "5dcf010427a509d76fe8316e",
+                                "sentence": " in the third pink peace house is orange with a grade or.",
+                                "start_time": 9.05,
+                                "end_time": 13.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "594818b5c1c2571a57bd23b1",
+                        "video": "59472aa2920a8811b8a191f3",
+                        "audio_description": "594731193e9d0d1922c494b4",
+                        "user": "5945e06adf41067db9850fe5",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 41.217542,
+                        "end_time": 41.217542,
+                        "duration": 14.582131519274377,
+                        "file_name": "CtP83CWOMwc_594818b5c1c2571a57bd23b1.wav",
+                        "file_size_bytes": 2572332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CtP83CWOMwc",
+                        "created_at": 20170619183221,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175e2126a278fc5f0903c4",
+                                "sentence": " Each pig is in front of the house. They built",
+                                "start_time": 0.21,
+                                "end_time": 3.06
+                            },
+                            {
+                                "_id": "5e175e2126a278fc5f0903c3",
+                                "sentence": " the first little pig",
+                                "start_time": 3.06,
+                                "end_time": 4.57
+                            },
+                            {
+                                "_id": "5e175e2126a278fc5f0903c2",
+                                "sentence": " in front of the yellow",
+                                "start_time": 4.57,
+                                "end_time": 6.05
+                            },
+                            {
+                                "_id": "5e175e2126a278fc5f0903c1",
+                                "sentence": " straw house, the second little pig in front of the brown stick house, and the orange little pig in front of the orange brick house.",
+                                "start_time": 6.05,
+                                "end_time": 14.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59481937c1c2571a57bd23b2",
+                        "video": "59472aa2920a8811b8a191f3",
+                        "audio_description": "594731193e9d0d1922c494b4",
+                        "user": "5945e06adf41067db9850fe5",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 81.41549100190736,
+                        "end_time": 83.18020755519534,
+                        "duration": 1.7647165532879818,
+                        "file_name": "CtP83CWOMwc_59481937c1c2571a57bd23b2.wav",
+                        "file_size_bytes": 311340,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CtP83CWOMwc",
+                        "created_at": 20170619183431,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a290279d3cb177f4b3",
+                                "sentence": " And he took a deep breath.",
+                                "start_time": 0,
+                                "end_time": 1.78
+                            }
+                        ]
+                    }
+                ],
+                "_id": "594731193e9d0d1922c494b4",
+                "video": "59472aa2920a8811b8a191f3",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5945e06adf41067db9850fe5",
+                    "email": "nceagles16@gmail.com",
+                    "name": "Shawnna Penn",
+                    "given_name": "Shawnna",
+                    "picture": "https://lh6.googleusercontent.com/-688fIbDw37c/AAAAAAAAAAI/AAAAAAAAAAA/AAyYBF6dAdcbbEIscSfgVDureyxGPSN_AA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113957947766215314178",
+                    "last_login": 20170619175559,
+                    "token": "6545d08e49795cdcbe666ae1ac0a92396b7622f063edca7efea5c5a9abb93651",
+                    "__v": 0,
+                    "updated_at": 20170619175559,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170619020409,
+                "updated_at": 20170619193053,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 3,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 3,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "kiddostories",
+            "children stories",
+            "bedtime stories",
+            "bedtime story",
+            "children",
+            "cartoon",
+            "children bedtime short stories",
+            "bedtime stories for children",
+            "kid stories",
+            "the 3 little pigs",
+            "the three little pigs",
+            "big bad wolf",
+            "3 little pigs story",
+            "fairy tales"
+        ],
+        "custom_tags": [],
+        "_id": "59472aa2920a8811b8a191f3",
+        "title": "Fairy Tales - The 3 Little Pigs Story",
+        "description": "Fairy Tales - The three little pigs story\r\n\r\nOnce upon a time there were three little pigs and the time came for them to seek their fortunes and built their houses.\r\nThe first little pig built himself a house of straw, the middle brother decided to buid a house of sticks, it wasn\u00b4t either a very strong house, but the third pig, the oldest, decided to build a house of bricks, he did not mind hard work because he wanted a strong house, because he knew that in the woods nearby there was a wolf who liked catch little pigs and eat them up.\r\nWhen the three houses where finished, the three little pigs were happy dancing and singing -- \"Who is scared of furious wolf, furious wolf, furious wolf?, \"who is scared of furious wolf...?\"\r\n \r\nJust as the first little pig reached his door, out of the woods popped a big bad wolf. The little pig squealed with fright and slammed the door. -- \"Little pig, little pig, let me come in!\" cryed the wolf -- \"Not by the hair of my chinny -- chin- chin!\" -- said the little pig -- \"then I\u00b4ll huff and I\u00b4ll puff and I\u00b4ll blow your house in!\" -- roared the wolf.\r\nAnd he blew the little straw house. Away raced the little pig to his brother\u00b4s house of sticks.\r\nThe wolf was really angry, so went behind the youngest pig until the house of sticks, where the pigs where singing -  \"Who is scared of furious wolf, furious wolf, furious wolf?, who is scared of furious wolf...?\" - Suddenly the wolf roared -- \"Open the door, Let me come in!\" -- \" \"No, we won\u00b4t!\" -- said the pigs. \"then I\u00b4ll huff and I\u00b4ll puff and I\u00b4ll blow down your house!\" -- roared the wolf. And he blew down the little house of sticks. The two little pigs raced away to his big brother\u00b4s house of bricks and started to sign -\" \"Who is scared of furious wolf, furious wolf, furious wolf?, \"who is scared of furious wolf...?\"\r\n \r\nThis made the big wolf perfectly furious -- \"open the door little pigs!, let me come in! \" -- \"no we wont\u00b4t\" -- \"then I\u00b4ll huff and I\u00b4ll puff and I\u00b4ll blow down  your house!\" -- But he couldn\u00b4t blow down that little house of bricks.\r\nHe decided to climb and get in through the chimney. So he climbed, jumped down and fell right into a kettle of boiling water! He sprang straight up the chimney again and raced away into the woods. The three little pigs never saw him again, and spent their time in the strong brick house dancing and singing -- \"Who is scared of furious wolf, furious wolf, furious wolf?, \"Who is scared of furious wolf? furious wolf !\".\r\n \r\nTHE END\r\n\r\nhttp://en.wikipedia.org/wiki/The_Three_Little_Pigs Other videos by Kiddo Stories:\r\n\r\nFairy Tales - The 3 Little Pigs Story\r\nhttps://www.youtube.com/watch?v=CtP83CWOMwc\r\n\r\nFairy Tales as Short Bedtime Stories: The Story of Goldilocks and The 3 Bears\r\nhttps://www.youtube.com/watch?v=KndSVsY5HWM\r\n\r\nThe Little Red Riding Hood - Fairy Tale - Story for Children\r\nhttps://www.youtube.com/watch?v=ba2hJM3DxG4\r\n\r\nBedtime Stories for Children - Kelly the Electric Kettle\r\nhttps://www.youtube.com/watch?v=lzDEKHYSAZI\r\n\r\nBedtime Stories for Kids - Mr Cool Refrigerator\r\nhttps://www.youtube.com/watch?v=XP7Jb818RxE\r\n\r\nKids Bedtime Short Stories: Lino the Lamp is afraid of the dark\r\nhttps://www.youtube.com/watch?v=SgOpoiMFwp4\r\n\r\nBedtime Stories for Kids: Irma Inflatable Bed\r\nhttps://www.youtube.com/watch?v=4XvYYXlZ1yg\r\n\r\nLearning Colors for Toddlers, Primary Colors for Kids\r\nhttps://www.youtube.com/watch?v=Qj8JkrD4lTs\r\n\r\nFour Preschool Learning Videos\r\nhttps://www.youtube.com/watch?v=yqm-Gu3h5-4\r\n\r\nMr Bear tells the story of Goldilocks and the Three Bears - Fairy Tales\r\nhttps://www.youtube.com/watch?v=Msayjf3N4YU",
+        "youtube_id": "CtP83CWOMwc",
+        "created_at": 20170619013634,
+        "updated_at": 20170619183431,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 199
+    }
+}

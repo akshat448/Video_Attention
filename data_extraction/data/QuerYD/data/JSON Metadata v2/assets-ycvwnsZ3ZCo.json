@@ -1,0 +1,105 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d80e0af8302113cc4be505f",
+                        "video": "5d80e08d15c8ca3ccf56d71e",
+                        "audio_description": "5d80e08d15c8ca3ccf56d71d",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "Description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 23.125333333333334,
+                        "duration": 23.125333333333334,
+                        "file_name": "ycvwnsZ3ZCo_5d80e0af8302113cc4be505f.wav",
+                        "file_size_bytes": 4440108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ycvwnsZ3ZCo",
+                        "created_at": 20190917133335,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557870760423990095224a",
+                                "sentence": " Uh",
+                                "start_time": 0,
+                                "end_time": 0.96
+                            },
+                            {
+                                "_id": "5e5578707604239900952249",
+                                "sentence": " two students weigh a chemical stocks rates. Medical laboratory technician. This program prepares students to work in clinical lab setting",
+                                "start_time": 0.96,
+                                "end_time": 7.59
+                            },
+                            {
+                                "_id": "5e5578707604239900952248",
+                                "sentence": " students by public what? Chemicals, tax rates, careers, graduates work at hospitals, clinics, doctor's offices, vet clinics and much more.",
+                                "start_time": 7.59,
+                                "end_time": 13.87
+                            },
+                            {
+                                "_id": "5e5578707604239900952247",
+                                "sentence": " The student looks at microscope tax rates length a program on associate degree in 16 months or certificate as little as four months",
+                                "start_time": 13.87,
+                                "end_time": 19.73
+                            },
+                            {
+                                "_id": "5e5578707604239900952246",
+                                "sentence": " students chance in a lap tax rates. You've got this.",
+                                "start_time": 19.73,
+                                "end_time": 22.76
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d80e08d15c8ca3ccf56d71d",
+                "video": "5d80e08d15c8ca3ccf56d71e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190917133301,
+                "updated_at": 20190917133301,
+                "notes": "2 students weigh out chemicals\r\nText reads:\r\nMedical Laboratory Technician\r\nThis program prepares students to work in a clinical lab setting.\r\n\r\nStuents pipette liquid chemcials\r\nText reads:\r\nCareers \r\nGraduates work at hospitals, clinics, doctors offices, vet clinics and much more. \r\n\r\nA student looks through a microscope\r\nText reads:\r\nLength of program\r\nEarn an associate degree in 16 months or certificate in as little as 4 months. \r\n\r\nA student stands in a lab.\r\nText reads:\r\nYou've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Medical Laboratory Technician",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5d80e08d15c8ca3ccf56d71e",
+        "title": "Medical Laboratory Technician program video",
+        "description": "Information on the Medical Laboratory Technician program.",
+        "youtube_id": "ycvwnsZ3ZCo",
+        "created_at": 20190917133301,
+        "updated_at": 20190917133335,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

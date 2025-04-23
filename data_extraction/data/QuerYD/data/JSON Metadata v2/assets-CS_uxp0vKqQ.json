@@ -1,0 +1,393 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b92d7237cdff3540980e767",
+                        "video": "5b92d3245233bd4b6f049197",
+                        "audio_description": "5b92d3245233bd4b6f049196",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "Introducing the thesis statement",
+                        "playback_type": "inline",
+                        "start_time": 3.7492910038146965,
+                        "end_time": 39.3332910038147,
+                        "duration": 35.584,
+                        "file_name": "CS_uxp0vKqQ_5b92d7237cdff3540980e767.wav",
+                        "file_size_bytes": 6832172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CS_uxp0vKqQ",
+                        "created_at": 20180907195307,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194d86a75af2abccd7ab9f",
+                                "sentence": " The thread through your essay.",
+                                "start_time": 1.89,
+                                "end_time": 3.63
+                            },
+                            {
+                                "_id": "5e194d86a75af2abccd7ab9e",
+                                "sentence": " There is a link right through the essay.",
+                                "start_time": 3.86,
+                                "end_time": 6.3
+                            },
+                            {
+                                "_id": "5e194d86a75af2abccd7ab9d",
+                                "sentence": " It starts with a thesis statement,",
+                                "start_time": 6.4,
+                                "end_time": 8.26
+                            },
+                            {
+                                "_id": "5e194d86a75af2abccd7ab9c",
+                                "sentence": " is picked up in the topic sentence of each body paragraph,",
+                                "start_time": 21.18,
+                                "end_time": 24.62
+                            },
+                            {
+                                "_id": "5e194d86a75af2abccd7ab9b",
+                                "sentence": " and finally appears in the first sentence of the conclusion.",
+                                "start_time": 30.99,
+                                "end_time": 34.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b92d7527cdff3540980e768",
+                        "video": "5b92d3245233bd4b6f049197",
+                        "audio_description": "5b92d3245233bd4b6f049196",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "Example thesis statement",
+                        "playback_type": "inline",
+                        "start_time": 41.540040912261965,
+                        "end_time": 58.5213742455953,
+                        "duration": 16.981333333333332,
+                        "file_name": "CS_uxp0vKqQ_5b92d7527cdff3540980e768.wav",
+                        "file_size_bytes": 3260460,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CS_uxp0vKqQ",
+                        "created_at": 20180907195354,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194e48e12a52abcafd2a09",
+                                "sentence": " Let's try an example.",
+                                "start_time": 0.81,
+                                "end_time": 2.21
+                            },
+                            {
+                                "_id": "5e194e48e12a52abcafd2a08",
+                                "sentence": " The types of teachers baby boomers became was influenced both by their own particular characteristics,",
+                                "start_time": 4.84,
+                                "end_time": 10.67
+                            },
+                            {
+                                "_id": "5e194e48e12a52abcafd2a07",
+                                "sentence": " and those of the postwar society in which they grew up.",
+                                "start_time": 10.78,
+                                "end_time": 14.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b92d7b77cdff3540980e769",
+                        "video": "5b92d3245233bd4b6f049197",
+                        "audio_description": "5b92d3245233bd4b6f049196",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "First topic sentence",
+                        "playback_type": "inline",
+                        "start_time": 82.00730193705749,
+                        "end_time": 94.55130193705749,
+                        "duration": 12.544,
+                        "file_name": "CS_uxp0vKqQ_5b92d7b77cdff3540980e769.wav",
+                        "file_size_bytes": 2408492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CS_uxp0vKqQ",
+                        "created_at": 20180907195535,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194d86a75af2abccd7ab92",
+                                "sentence": " A very simple first topic sentence might go something like this.",
+                                "start_time": 1.33,
+                                "end_time": 5.02
+                            },
+                            {
+                                "_id": "5e194d86a75af2abccd7ab91",
+                                "sentence": " The first baby boomer characteristic which contributed to what sort of teachers they became was x.",
+                                "start_time": 5.51,
+                                "end_time": 11.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b92d7eb5233bd4b6f04919a",
+                        "video": "5b92d3245233bd4b6f049197",
+                        "audio_description": "5b92d3245233bd4b6f049196",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "Body paragraph 2",
+                        "playback_type": "inline",
+                        "start_time": 119.08469790081787,
+                        "end_time": 126.5940312341512,
+                        "duration": 7.509333333333333,
+                        "file_name": "CS_uxp0vKqQ_5b92d7eb5233bd4b6f04919a.wav",
+                        "file_size_bytes": 1441836,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CS_uxp0vKqQ",
+                        "created_at": 20180907195627,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194e49e12a52abcafd2a61",
+                                "sentence": " Body paragraph two might then begin in this way.",
+                                "start_time": 0.97,
+                                "end_time": 3.81
+                            },
+                            {
+                                "_id": "5e194e49e12a52abcafd2a60",
+                                "sentence": " Another influencing characteristic was why?",
+                                "start_time": 4.44,
+                                "end_time": 7.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b92d8075233bd4b6f04919b",
+                        "video": "5b92d3245233bd4b6f049197",
+                        "audio_description": "5b92d3245233bd4b6f049196",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "Body paragraph 3",
+                        "playback_type": "inline",
+                        "start_time": 132.74128198855593,
+                        "end_time": 139.22661532188926,
+                        "duration": 6.485333333333333,
+                        "file_name": "CS_uxp0vKqQ_5b92d8075233bd4b6f04919b.wav",
+                        "file_size_bytes": 1245228,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CS_uxp0vKqQ",
+                        "created_at": 20180907195655,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194e8ce12a52abcafd2a8f",
+                                "sentence": " Body paragraph three,",
+                                "start_time": 0.59,
+                                "end_time": 2.36
+                            },
+                            {
+                                "_id": "5e194e8ce12a52abcafd2a8e",
+                                "sentence": " a characteristic of the society in which they grew up was a.",
+                                "start_time": 2.59,
+                                "end_time": 6.41
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b92d82f5233bd4b6f04919c",
+                        "video": "5b92d3245233bd4b6f049197",
+                        "audio_description": "5b92d3245233bd4b6f049196",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "Body paragraph 4",
+                        "playback_type": "inline",
+                        "start_time": 141.1655729923706,
+                        "end_time": 148.33357299237062,
+                        "duration": 7.168,
+                        "file_name": "CS_uxp0vKqQ_5b92d82f5233bd4b6f04919c.wav",
+                        "file_size_bytes": 1376300,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CS_uxp0vKqQ",
+                        "created_at": 20180907195735,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194e5be12a52abcafd2a7f",
+                                "sentence": " And body paragraph four.",
+                                "start_time": 0.51,
+                                "end_time": 2.42
+                            },
+                            {
+                                "_id": "5e194e5be12a52abcafd2a7e",
+                                "sentence": " Yet another influencing characteristic of the society in which they grew up was be.",
+                                "start_time": 2.44,
+                                "end_time": 7.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b92d8657cdff3540980e76a",
+                        "video": "5b92d3245233bd4b6f049197",
+                        "audio_description": "5b92d3245233bd4b6f049196",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "Conclusion",
+                        "playback_type": "inline",
+                        "start_time": 155.94909383215332,
+                        "end_time": 170.79709383215334,
+                        "duration": 14.848,
+                        "file_name": "CS_uxp0vKqQ_5b92d8657cdff3540980e76a.wav",
+                        "file_size_bytes": 2850860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CS_uxp0vKqQ",
+                        "created_at": 20180907195829,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194e48e12a52abcafd29f1",
+                                "sentence": " And the opening sentence of the conclusion.",
+                                "start_time": 1,
+                                "end_time": 3.22
+                            },
+                            {
+                                "_id": "5e194e48e12a52abcafd29f0",
+                                "sentence": " In conclusion, the baby boomers characteristics of x and y together with a and b of the society in which they were raised, contributed greatly to the types of teachers they became.",
+                                "start_time": 3.62,
+                                "end_time": 14.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b92d9e75233bd4b6f04919d",
+                        "video": "5b92d3245233bd4b6f049197",
+                        "audio_description": "5b92d3245233bd4b6f049196",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "Summary",
+                        "playback_type": "inline",
+                        "start_time": 171.06457304577637,
+                        "end_time": 191.1179063791097,
+                        "duration": 20.053333333333335,
+                        "file_name": "CS_uxp0vKqQ_5b92d9e75233bd4b6f04919d.wav",
+                        "file_size_bytes": 3850284,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CS_uxp0vKqQ",
+                        "created_at": 20180907200455,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194d83a75af2abccd7ab47",
+                                "sentence": " On screen and arrow",
+                                "start_time": 0.38,
+                                "end_time": 2.14
+                            },
+                            {
+                                "_id": "5e194d83a75af2abccd7ab46",
+                                "sentence": " points to the first topic sentence and has labeled introduction.",
+                                "start_time": 2.14,
+                                "end_time": 6.78
+                            },
+                            {
+                                "_id": "5e194d83a75af2abccd7ab45",
+                                "sentence": " Another arrow points to each body paragraph",
+                                "start_time": 7.38,
+                                "end_time": 10.22
+                            },
+                            {
+                                "_id": "5e194d83a75af2abccd7ab44",
+                                "sentence": " and is labeled",
+                                "start_time": 10.3,
+                                "end_time": 11.47
+                            },
+                            {
+                                "_id": "5e194d83a75af2abccd7ab43",
+                                "sentence": " body.",
+                                "start_time": 11.78,
+                                "end_time": 13.16
+                            },
+                            {
+                                "_id": "5e194d83a75af2abccd7ab42",
+                                "sentence": " And a final arrow is pointed to the opening sentence of the conclusion",
+                                "start_time": 13.25,
+                                "end_time": 16.99
+                            },
+                            {
+                                "_id": "5e194d83a75af2abccd7ab41",
+                                "sentence": " and is labeled",
+                                "start_time": 17.07,
+                                "end_time": 18.17
+                            },
+                            {
+                                "_id": "5e194d83a75af2abccd7ab40",
+                                "sentence": " conclusion.",
+                                "start_time": 18.25,
+                                "end_time": 19.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b96c0bb7cdff3540980e79e",
+                        "video": "5b92d3245233bd4b6f049197",
+                        "audio_description": "5b92d3245233bd4b6f049196",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "Whiteboard",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 7.987664399092971,
+                        "file_name": "CS_uxp0vKqQ_5b96c0bb7cdff3540980e79e.wav",
+                        "file_size_bytes": 1409068,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/CS_uxp0vKqQ",
+                        "created_at": 20180910190635,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194e49e12a52abcafd2a68",
+                                "sentence": " This is a whiteboard style video in which a hand appears to write words and images on the screen. The words are as follows.",
+                                "start_time": 1.1,
+                                "end_time": 7.87
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b92d3245233bd4b6f049196",
+                "video": "5b92d3245233bd4b6f049197",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b89aa7d5233bd4b6f049178",
+                    "email": "cidhumanities@gmail.com",
+                    "name": "CID Humanities",
+                    "given_name": "CID",
+                    "picture": "https://lh5.googleusercontent.com/-sNfRBftPVDI/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaNcYcZvzXJm_x8jLAobjb58kdzggw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "101427538101750550731",
+                    "last_login": 20190729151228,
+                    "token": "7c96bad087095285806ec9ed7084ae61de99f45adbaac62d1aa5befe2ce01f72",
+                    "__v": 0,
+                    "updated_at": 20190729151228,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180907193604,
+                "updated_at": 20180907202619,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "thesis",
+            "topic",
+            "conclusion"
+        ],
+        "custom_tags": [],
+        "_id": "5b92d3245233bd4b6f049197",
+        "title": "Thesis Statements, Topic Sentences, and Conclusion",
+        "description": "To help EDC101 students look at the structure of an academic essay",
+        "youtube_id": "CS_uxp0vKqQ",
+        "created_at": 20180907193604,
+        "updated_at": 20180910190635,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 198
+    }
+}

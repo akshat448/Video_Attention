@@ -1,0 +1,512 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6c46e13dfd851a4ffc",
+                        "audio_description": "58e7cf2f46e13dfd851a22ec",
+                        "created_at": 20151117072837,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151117072837,
+                        "file_name": "14477741172971.wav",
+                        "start_time": 1.072,
+                        "legacy_video_id": 2352,
+                        "legacy_user_id": 2548,
+                        "label": "",
+                        "legacy_audio_clip_id": 18838,
+                        "video": "58e7cf2946e13dfd851a1d43",
+                        "end_time": 9.512,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ea",
+                        "transcript": [
+                            {
+                                "_id": "5e3ed2a229f9bdab9cd96ea1",
+                                "sentence": " and uh please please me.",
+                                "start_time": 3.75,
+                                "end_time": 7.94
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2f46e13dfd851a22ec",
+                "status": "published",
+                "legacy_video_id": 2352,
+                "legacy_user_id": 2548,
+                "video": "58e7cf2946e13dfd851a1d43",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2f46e13dfd851a22ea",
+                    "name": "axelp",
+                    "google_user_id_token": "",
+                    "created_at": 20150121054443,
+                    "updated_at": 20151003015531,
+                    "legacy_user_id": 2548,
+                    "last_login": 0,
+                    "email": "axelplaza@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6b46e13dfd851a4fd5",
+                        "audio_description": "58e7cf2f46e13dfd851a22ec",
+                        "created_at": 20151116111058,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151116111058,
+                        "file_name": "14477010586831.wav",
+                        "start_time": 1.577,
+                        "legacy_video_id": 2352,
+                        "legacy_user_id": 2915,
+                        "label": "",
+                        "legacy_audio_clip_id": 18776,
+                        "video": "58e7cf2946e13dfd851a1d43",
+                        "end_time": 1.577,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a252b",
+                        "transcript": [
+                            {
+                                "_id": "5e3ead4cf7856a092d5a2b96",
+                                "sentence": " So the title appears from small to large, from the right Top corner to the center, reading American heart association guidelines, c p r e c c 2011.",
+                                "start_time": 0.38,
+                                "end_time": 10.95
+                            },
+                            {
+                                "_id": "5e3ead4cf7856a092d5a2b95",
+                                "sentence": " In the background, a male presenting individual giving chest compression is to a mannequin is shown.",
+                                "start_time": 10.95,
+                                "end_time": 16.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6b46e13dfd851a4fd6",
+                        "audio_description": "58e7cf2f46e13dfd851a22ec",
+                        "created_at": 20151116111222,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151116111222,
+                        "file_name": "14477011426491.wav",
+                        "start_time": 23.363,
+                        "legacy_video_id": 2352,
+                        "legacy_user_id": 2915,
+                        "label": "",
+                        "legacy_audio_clip_id": 18777,
+                        "video": "58e7cf2946e13dfd851a1d43",
+                        "end_time": 23.363,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.27,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a252b",
+                        "transcript": [
+                            {
+                                "_id": "5e3ead4cf7856a092d5a2baa",
+                                "sentence": " The scene changes to a middle aged man with a button down grey, short sleeve shirt,",
+                                "start_time": 0.5,
+                                "end_time": 5.3
+                            },
+                            {
+                                "_id": "5e3ead4cf7856a092d5a2ba9",
+                                "sentence": " unloading two pieces of luggage from a silver car, then closes the trunk and walks towards the hotel.",
+                                "start_time": 5.3,
+                                "end_time": 11.1
+                            },
+                            {
+                                "_id": "5e3ead4cf7856a092d5a2ba8",
+                                "sentence": " He walks forward and then has a sudden look of pain and shock on his face.",
+                                "start_time": 11.55,
+                                "end_time": 15.89
+                            },
+                            {
+                                "_id": "5e3ead4cf7856a092d5a2ba7",
+                                "sentence": " He lowers his luggage to the floor, grasped his chest, and collapses to his knees, and then lies on the floor.",
+                                "start_time": 15.89,
+                                "end_time": 22.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6b46e13dfd851a4fd7",
+                        "audio_description": "58e7cf2f46e13dfd851a22ec",
+                        "created_at": 20151116111411,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151116111411,
+                        "file_name": "14477012518081.wav",
+                        "start_time": 39.332,
+                        "legacy_video_id": 2352,
+                        "legacy_user_id": 2915,
+                        "label": "",
+                        "legacy_audio_clip_id": 18778,
+                        "video": "58e7cf2946e13dfd851a1d43",
+                        "end_time": 39.332,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a252b",
+                        "transcript": [
+                            {
+                                "_id": "5e3ead4df7856a092d5a2bfb",
+                                "sentence": " Once the man falls to the floor for individuals come to his aid,",
+                                "start_time": 0.6,
+                                "end_time": 4.72
+                            },
+                            {
+                                "_id": "5e3ead4df7856a092d5a2bfa",
+                                "sentence": " a male presenting individual wearing a brown shirt shakes the man's shoulders to seek a response,",
+                                "start_time": 4.72,
+                                "end_time": 10.62
+                            },
+                            {
+                                "_id": "5e3ead4df7856a092d5a2bf9",
+                                "sentence": " but to no avail,",
+                                "start_time": 10.62,
+                                "end_time": 12.18
+                            },
+                            {
+                                "_id": "5e3ead4df7856a092d5a2bf8",
+                                "sentence": " and then tells the chauffeur to call 911.",
+                                "start_time": 12.18,
+                                "end_time": 15.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6b46e13dfd851a4fd8",
+                        "audio_description": "58e7cf2f46e13dfd851a22ec",
+                        "created_at": 20151116111455,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151116111455,
+                        "file_name": "14477012952961.wav",
+                        "start_time": 51.333,
+                        "legacy_video_id": 2352,
+                        "legacy_user_id": 2915,
+                        "label": "",
+                        "legacy_audio_clip_id": 18779,
+                        "video": "58e7cf2946e13dfd851a1d43",
+                        "end_time": 51.333,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a252b",
+                        "transcript": [
+                            {
+                                "_id": "5e3ead4df7856a092d5a2c01",
+                                "sentence": " The screen goes purple, and then to an image of a blue, a e d device.",
+                                "start_time": 0.5,
+                                "end_time": 5.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6b46e13dfd851a4fd9",
+                        "audio_description": "58e7cf2f46e13dfd851a22ec",
+                        "created_at": 20151116111610,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151116111610,
+                        "file_name": "14477013703591.wav",
+                        "start_time": 56.968,
+                        "legacy_video_id": 2352,
+                        "legacy_user_id": 2915,
+                        "label": "",
+                        "legacy_audio_clip_id": 18780,
+                        "video": "58e7cf2946e13dfd851a1d43",
+                        "end_time": 56.968,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a252b",
+                        "transcript": [
+                            {
+                                "_id": "5e3ed13d20f286ab9b1b755d",
+                                "sentence": " The scene changes again to a workout facility where a male presenting individual in a red shirt",
+                                "start_time": 0.44,
+                                "end_time": 6.23
+                            },
+                            {
+                                "_id": "5e3ed13d20f286ab9b1b755c",
+                                "sentence": " calls 911.",
+                                "start_time": 6.23,
+                                "end_time": 7.52
+                            },
+                            {
+                                "_id": "5e3ed13d20f286ab9b1b755b",
+                                "sentence": " And as female presenting coworker does chest compression zhan the individual having a heart attack in the background",
+                                "start_time": 7.52,
+                                "end_time": 13.44
+                            },
+                            {
+                                "_id": "5e3ed13d20f286ab9b1b755a",
+                                "sentence": " on the other half of the screen. On the right hand side",
+                                "start_time": 13.49,
+                                "end_time": 16.75
+                            },
+                            {
+                                "_id": "5e3ed13d20f286ab9b1b7559",
+                                "sentence": " appears a female presenting medical responder.",
+                                "start_time": 16.75,
+                                "end_time": 20.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6b46e13dfd851a4fda",
+                        "audio_description": "58e7cf2f46e13dfd851a22ec",
+                        "created_at": 20151116111921,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151116111921,
+                        "file_name": "14477015611871.wav",
+                        "start_time": 64.383,
+                        "legacy_video_id": 2352,
+                        "legacy_user_id": 2915,
+                        "label": "",
+                        "legacy_audio_clip_id": 18782,
+                        "video": "58e7cf2946e13dfd851a1d43",
+                        "end_time": 64.383,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.55,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a252b",
+                        "transcript": [
+                            {
+                                "_id": "5e3ead4df7856a092d5a2c0f",
+                                "sentence": " The scene goes back to the man in the grey short sleeve button up shirt on the floor,",
+                                "start_time": 0.45,
+                                "end_time": 6.15
+                            },
+                            {
+                                "_id": "5e3ead4df7856a092d5a2c0e",
+                                "sentence": " and the male presenting individual in the brown shirt doing chest compression. Za after opening the incapacitated man shirt,",
+                                "start_time": 6.15,
+                                "end_time": 13.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6b46e13dfd851a4fdb",
+                        "audio_description": "58e7cf2f46e13dfd851a22ec",
+                        "created_at": 20151116112037,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151116112037,
+                        "file_name": "14477016375111.wav",
+                        "start_time": 81.452,
+                        "legacy_video_id": 2352,
+                        "legacy_user_id": 2915,
+                        "label": "",
+                        "legacy_audio_clip_id": 18783,
+                        "video": "58e7cf2946e13dfd851a1d43",
+                        "end_time": 81.452,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a252b",
+                        "transcript": [
+                            {
+                                "_id": "5e3ead4cf7856a092d5a2b85",
+                                "sentence": " The words airway breathing and compression appear simultaneously on the screen",
+                                "start_time": 0.66,
+                                "end_time": 6.19
+                            },
+                            {
+                                "_id": "5e3ead4cf7856a092d5a2b84",
+                                "sentence": " with the male presenting individual in the brown shirt, continuing chest compression yps on the incapacitated man in the background.",
+                                "start_time": 6.19,
+                                "end_time": 14.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6b46e13dfd851a4fdc",
+                        "audio_description": "58e7cf2f46e13dfd851a22ec",
+                        "created_at": 20151116112211,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151116112211,
+                        "file_name": "14477017310181.wav",
+                        "start_time": 93.567,
+                        "legacy_video_id": 2352,
+                        "legacy_user_id": 2915,
+                        "label": "",
+                        "legacy_audio_clip_id": 18784,
+                        "video": "58e7cf2946e13dfd851a1d43",
+                        "end_time": 93.567,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a252b",
+                        "transcript": [
+                            {
+                                "_id": "5e3eab734a2c03092bf26119",
+                                "sentence": " The scene changes to a male presenting individual in a red shirt doing chest compression, zhan a mannequin.",
+                                "start_time": 0.6,
+                                "end_time": 7.25
+                            },
+                            {
+                                "_id": "5e3eab734a2c03092bf26118",
+                                "sentence": " And compression is written on the bottom of the screen.",
+                                "start_time": 7.42,
+                                "end_time": 10.83
+                            },
+                            {
+                                "_id": "5e3eab734a2c03092bf26117",
+                                "sentence": " The man,",
+                                "start_time": 11.01,
+                                "end_time": 12.17
+                            },
+                            {
+                                "_id": "5e3eab734a2c03092bf26116",
+                                "sentence": " the man's fingers are interlaced",
+                                "start_time": 12.17,
+                                "end_time": 14.69
+                            },
+                            {
+                                "_id": "5e3eab734a2c03092bf26115",
+                                "sentence": " so that the palm of his left hand is on the mannequin sternum.",
+                                "start_time": 14.72,
+                                "end_time": 19.24
+                            },
+                            {
+                                "_id": "5e3eab734a2c03092bf26114",
+                                "sentence": " And the palm of his right hand is on the Top of his left hand.",
+                                "start_time": 19.24,
+                                "end_time": 23.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6b46e13dfd851a4fdd",
+                        "audio_description": "58e7cf2f46e13dfd851a22ec",
+                        "created_at": 20151116112406,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151116112406,
+                        "file_name": "14477018468251.wav",
+                        "start_time": 130.948,
+                        "legacy_video_id": 2352,
+                        "legacy_user_id": 2915,
+                        "label": "",
+                        "legacy_audio_clip_id": 18786,
+                        "video": "58e7cf2946e13dfd851a1d43",
+                        "end_time": 130.948,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.78,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a252b",
+                        "transcript": [
+                            {
+                                "_id": "5e3ed13c20f286ab9b1b7536",
+                                "sentence": " The scene finally changes to the mannequin on the floor and the man in the red shirt",
+                                "start_time": 0.45,
+                                "end_time": 6.31
+                            },
+                            {
+                                "_id": "5e3ed13c20f286ab9b1b7535",
+                                "sentence": " on his knees next to the mannequin.",
+                                "start_time": 6.59,
+                                "end_time": 8.99
+                            },
+                            {
+                                "_id": "5e3ed13c20f286ab9b1b7534",
+                                "sentence": " The man in the red shirt tilts the mannequins, head back!",
+                                "start_time": 9.12,
+                                "end_time": 12.12
+                            },
+                            {
+                                "_id": "5e3ed13c20f286ab9b1b7533",
+                                "sentence": " Pinch is his nostrils, and wraps his lips around the mannequins, lips",
+                                "start_time": 12.13,
+                                "end_time": 16.84
+                            },
+                            {
+                                "_id": "5e3ed13c20f286ab9b1b7532",
+                                "sentence": " and provides too forceful breaths into the mannequins mouth,",
+                                "start_time": 16.84,
+                                "end_time": 20.86
+                            },
+                            {
+                                "_id": "5e3ed13c20f286ab9b1b7531",
+                                "sentence": " and then continues to do compression yps.",
+                                "start_time": 20.86,
+                                "end_time": 23.38
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3446e13dfd851a252c",
+                "status": "published",
+                "legacy_video_id": 2352,
+                "legacy_user_id": 2915,
+                "video": "58e7cf2946e13dfd851a1d43",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3446e13dfd851a252b",
+                    "name": "avadnais",
+                    "google_user_id_token": "",
+                    "created_at": 20151110090734,
+                    "updated_at": 20151110091033,
+                    "legacy_user_id": 2915,
+                    "last_login": 0,
+                    "email": "avadnais@wisc.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "CPR",
+            "cardiopulmonary resuscitation",
+            "compressions",
+            "airway",
+            "breathing",
+            "hands only CPR",
+            "hands only",
+            "heart",
+            "first aid",
+            "American Heart Association",
+            "CPR Guidelines",
+            "new guidelines",
+            "new CPR guidelines"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d43",
+        "description": "",
+        "youtube_id": "O9T25SMyz3A",
+        "views": 0,
+        "created_at": 20151116105615,
+        "title": "2010 Guidelines for CPR",
+        "legacy_video_id": 2352,
+        "updated_at": 20151117072902,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 172
+    }
+}

@@ -1,0 +1,332 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7546e13dfd851a572f",
+                        "audio_description": "58e7cf3646e13dfd851a2628",
+                        "created_at": 20160401123820,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160401123820,
+                        "file_name": "14595395000641.wav",
+                        "start_time": 1.312,
+                        "legacy_video_id": 2530,
+                        "legacy_user_id": 3100,
+                        "label": "",
+                        "legacy_audio_clip_id": 22332,
+                        "video": "58e7cf2946e13dfd851a1df5",
+                        "end_time": 1.312,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2627",
+                        "transcript": [
+                            {
+                                "_id": "5e42bd6516b75ab425f71529",
+                                "sentence": " Student waiting for a teacher in classroom.",
+                                "start_time": 0,
+                                "end_time": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a5730",
+                        "audio_description": "58e7cf3646e13dfd851a2628",
+                        "created_at": 20160401123918,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160401123918,
+                        "file_name": "14595395585621.wav",
+                        "start_time": 3.725,
+                        "legacy_video_id": 2530,
+                        "legacy_user_id": 3100,
+                        "label": "",
+                        "legacy_audio_clip_id": 22334,
+                        "video": "58e7cf2946e13dfd851a1df5",
+                        "end_time": 3.725,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2627",
+                        "transcript": [
+                            {
+                                "_id": "5e42bd6516b75ab425f7152e",
+                                "sentence": " Teacher arrives, shakes hands with student and sits down with the student.",
+                                "start_time": 0,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a5731",
+                        "audio_description": "58e7cf3646e13dfd851a2628",
+                        "created_at": 20160401123929,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160401123929,
+                        "file_name": "14595395695511.wav",
+                        "start_time": 16.417,
+                        "legacy_video_id": 2530,
+                        "legacy_user_id": 3100,
+                        "label": "",
+                        "legacy_audio_clip_id": 22335,
+                        "video": "58e7cf2946e13dfd851a1df5",
+                        "end_time": 16.417,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2627",
+                        "transcript": [
+                            {
+                                "_id": "5e42bc330499b0b427648044",
+                                "sentence": " Student takes deep breath.",
+                                "start_time": 0,
+                                "end_time": 1.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a5732",
+                        "audio_description": "58e7cf3646e13dfd851a2628",
+                        "created_at": 20160401124039,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160401124039,
+                        "file_name": "14595396390571.wav",
+                        "start_time": 41.915,
+                        "legacy_video_id": 2530,
+                        "legacy_user_id": 3100,
+                        "label": "",
+                        "legacy_audio_clip_id": 22337,
+                        "video": "58e7cf2946e13dfd851a1df5",
+                        "end_time": 41.915,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2627",
+                        "transcript": [
+                            {
+                                "_id": "5e42bd6616b75ab425f7161c",
+                                "sentence": " Student stops and looks at the chart with teacher.",
+                                "start_time": 0,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a5733",
+                        "audio_description": "58e7cf3646e13dfd851a2628",
+                        "created_at": 20160401124230,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160401124230,
+                        "file_name": "14595397507221.wav",
+                        "start_time": 106.585,
+                        "legacy_video_id": 2530,
+                        "legacy_user_id": 3100,
+                        "label": "",
+                        "legacy_audio_clip_id": 22339,
+                        "video": "58e7cf2946e13dfd851a1df5",
+                        "end_time": 106.585,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2627",
+                        "transcript": [
+                            {
+                                "_id": "5e42bc330499b0b427648043",
+                                "sentence": " Student agrees and nods her head.",
+                                "start_time": 0,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a5734",
+                        "audio_description": "58e7cf3646e13dfd851a2628",
+                        "created_at": 20160401124409,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160401124409,
+                        "file_name": "14595398496451.wav",
+                        "start_time": 133.763,
+                        "legacy_video_id": 2530,
+                        "legacy_user_id": 3100,
+                        "label": "",
+                        "legacy_audio_clip_id": 22340,
+                        "video": "58e7cf2946e13dfd851a1df5",
+                        "end_time": 133.763,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2627",
+                        "transcript": [
+                            {
+                                "_id": "5e42bd6516b75ab425f7152d",
+                                "sentence": " Student looks concerned.",
+                                "start_time": 0,
+                                "end_time": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a5735",
+                        "audio_description": "58e7cf3646e13dfd851a2628",
+                        "created_at": 20160401124707,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160401124707,
+                        "file_name": "14595400278611.wav",
+                        "start_time": 230.651,
+                        "legacy_video_id": 2530,
+                        "legacy_user_id": 3100,
+                        "label": "",
+                        "legacy_audio_clip_id": 22341,
+                        "video": "58e7cf2946e13dfd851a1df5",
+                        "end_time": 230.651,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2627",
+                        "transcript": [
+                            {
+                                "_id": "5e42bd6616b75ab425f71627",
+                                "sentence": " Student nods and agreements.",
+                                "start_time": 0,
+                                "end_time": 1.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a5736",
+                        "audio_description": "58e7cf3646e13dfd851a2628",
+                        "created_at": 20160401124755,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160401124755,
+                        "file_name": "14595400755801.wav",
+                        "start_time": 243.435,
+                        "legacy_video_id": 2530,
+                        "legacy_user_id": 3100,
+                        "label": "",
+                        "legacy_audio_clip_id": 22342,
+                        "video": "58e7cf2946e13dfd851a1df5",
+                        "end_time": 243.435,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2627",
+                        "transcript": [
+                            {
+                                "_id": "5e42be880499b0b42764810f",
+                                "sentence": " Student and teacher look at sheet.",
+                                "start_time": 0,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a5737",
+                        "audio_description": "58e7cf3646e13dfd851a2628",
+                        "created_at": 20160401124830,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160401124830,
+                        "file_name": "14595401102791.wav",
+                        "start_time": 267.974,
+                        "legacy_video_id": 2530,
+                        "legacy_user_id": 3100,
+                        "label": "",
+                        "legacy_audio_clip_id": 22343,
+                        "video": "58e7cf2946e13dfd851a1df5",
+                        "end_time": 267.974,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2627",
+                        "transcript": [
+                            {
+                                "_id": "5e42bd6616b75ab425f715e2",
+                                "sentence": " Student nods in agreement with professor.",
+                                "start_time": 0,
+                                "end_time": 2.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a5738",
+                        "audio_description": "58e7cf3646e13dfd851a2628",
+                        "created_at": 20160401124912,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160401124912,
+                        "file_name": "14595401521971.wav",
+                        "start_time": 287.455,
+                        "legacy_video_id": 2530,
+                        "legacy_user_id": 3100,
+                        "label": "",
+                        "legacy_audio_clip_id": 22344,
+                        "video": "58e7cf2946e13dfd851a1df5",
+                        "end_time": 287.455,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2627",
+                        "transcript": [
+                            {
+                                "_id": "5e42be860499b0b42764808b",
+                                "sentence": " Student professor shake hands. Professor gets up to leave.",
+                                "start_time": 0,
+                                "end_time": 3.3
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a2628",
+                "status": "published",
+                "legacy_video_id": 2530,
+                "legacy_user_id": 3100,
+                "video": "58e7cf2946e13dfd851a1df5",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2627",
+                    "name": "CAAS",
+                    "google_user_id_token": "",
+                    "created_at": 20160401120130,
+                    "updated_at": 20160404062456,
+                    "legacy_user_id": 3100,
+                    "last_login": 0,
+                    "email": "Jharris@sl.on.ca",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1df5",
+        "description": "",
+        "youtube_id": "0nB9BcZTBag",
+        "views": 0,
+        "created_at": 20160401120352,
+        "title": "Video Counselling Scenario FAHP 2600 final",
+        "legacy_video_id": 2530,
+        "updated_at": 20160404061833,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 291
+    }
+}

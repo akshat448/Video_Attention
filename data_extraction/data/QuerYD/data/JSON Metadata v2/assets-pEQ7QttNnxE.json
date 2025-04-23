@@ -1,0 +1,98 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6146e13dfd851a4785",
+                        "audio_description": "58e7cf3046e13dfd851a23b2",
+                        "created_at": 20150916175324,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150916175324,
+                        "file_name": "14424512049131.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2177,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15645,
+                        "video": "58e7cf2946e13dfd851a1c94",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba07c648ec0da79cd64e",
+                                "sentence": " A teenage student wearing a black t shirt",
+                                "start_time": 0.83,
+                                "end_time": 3.44
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd64d",
+                                "sentence": " sits in front of a desk that holds a large white light box.",
+                                "start_time": 3.44,
+                                "end_time": 7.44
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd64c",
+                                "sentence": " He places somewhat transparent shapes onto the screen of the light box.",
+                                "start_time": 7.44,
+                                "end_time": 11.88
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd64b",
+                                "sentence": " The first shape is a blue rectangle that has a large circle cut out of it. The second shape is a red half circle, which he places in the bottom of the empty circle in the blue rectangle.",
+                                "start_time": 11.88,
+                                "end_time": 23.33
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a23b2",
+                "status": "published",
+                "legacy_video_id": 2177,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c94",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c94",
+        "description": "",
+        "youtube_id": "pEQ7QttNnxE",
+        "views": 0,
+        "created_at": 20150916175238,
+        "title": "Light Box",
+        "legacy_video_id": 2177,
+        "updated_at": 20150916175324,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 26
+    }
+}

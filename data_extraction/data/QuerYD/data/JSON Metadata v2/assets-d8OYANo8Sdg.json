@@ -1,0 +1,429 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ad918acbd0796769a93818c",
+                        "video": "5ad918acbd0796769a93818e",
+                        "audio_description": "5ad918acbd0796769a93818d",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "intro text on screen",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 15.696689342403628,
+                        "duration": 15.696689342403628,
+                        "file_name": "d8OYANo8Sdg_5ad918acbd0796769a93818c.wav",
+                        "file_size_bytes": 2768940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/d8OYANo8Sdg",
+                        "created_at": 20180419223108,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b42",
+                                "sentence": " Ava has this material, s f moma, san francisco museum of modern art.",
+                                "start_time": 0.55,
+                                "end_time": 4.52
+                            },
+                            {
+                                "_id": "5e13eb3d544080122fa67b41",
+                                "sentence": " February 2000 to s f moma eve has his materials,",
+                                "start_time": 5.23,
+                                "end_time": 9.19
+                            },
+                            {
+                                "_id": "5e13eb3d544080122fa67b40",
+                                "sentence": " s f moma conservative michelle burgher, r naught, 1968.",
+                                "start_time": 9.85,
+                                "end_time": 14.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad91959bd0796769a938190",
+                        "video": "5ad918acbd0796769a93818e",
+                        "audio_description": "5ad918acbd0796769a93818d",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "kasey",
+                        "playback_type": "extended",
+                        "start_time": 30.457231998092652,
+                        "end_time": 30.457231998092652,
+                        "duration": 16.62548752834467,
+                        "file_name": "d8OYANo8Sdg_5ad91959bd0796769a938190.wav",
+                        "file_size_bytes": 2932780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/d8OYANo8Sdg",
+                        "created_at": 20180419223401,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b59",
+                                "sentence": " A series of four yellow panels. They are warm and even toned yellow in the center, getting darker, more brittle, and more, and even towards the edges. The textures, thick rubber slick feeling with lots of thin grooves from the rough brush strokes.",
+                                "start_time": 0.16,
+                                "end_time": 12.64
+                            },
+                            {
+                                "_id": "5e13eb3d544080122fa67b58",
+                                "sentence": " The texture, like the color, also becomes more brittle and uneven at the edges.",
+                                "start_time": 12.64,
+                                "end_time": 16.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad91a78bd0796769a938192",
+                        "video": "5ad918acbd0796769a93818e",
+                        "audio_description": "5ad918acbd0796769a93818d",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "luster",
+                        "playback_type": "extended",
+                        "start_time": 92.44955197329712,
+                        "end_time": 92.44955197329712,
+                        "duration": 5.015510204081632,
+                        "file_name": "d8OYANo8Sdg_5ad91a78bd0796769a938192.wav",
+                        "file_size_bytes": 884780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/d8OYANo8Sdg",
+                        "created_at": 20180419223848,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7cffba0a08ab876e2e",
+                                "sentence": " Old color photos showing the luster and fullness of the piece, as it originally appeared.",
+                                "start_time": 0,
+                                "end_time": 4.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad91af9bd0796769a938193",
+                        "video": "5ad918acbd0796769a93818e",
+                        "audio_description": "5ad918acbd0796769a93818d",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "eva hesse",
+                        "playback_type": "extended",
+                        "start_time": 119.19432195803833,
+                        "end_time": 119.19432195803833,
+                        "duration": 7.523265306122449,
+                        "file_name": "d8OYANo8Sdg_5ad91af9bd0796769a938193.wav",
+                        "file_size_bytes": 1327148,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/d8OYANo8Sdg",
+                        "created_at": 20180419224057,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7dffba0a08ab876e57",
+                                "sentence": " Black and white photo of the artist. She holds up a fine clear plastic sheeting and stares through it directly at the camera.",
+                                "start_time": 0.15,
+                                "end_time": 7.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad91b40bd0796769a938194",
+                        "video": "5ad918acbd0796769a93818e",
+                        "audio_description": "5ad918acbd0796769a93818d",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "text on screen",
+                        "playback_type": "inline",
+                        "start_time": 128.39932099427796,
+                        "end_time": 130.99995591491287,
+                        "duration": 2.6006349206349206,
+                        "file_name": "d8OYANo8Sdg_5ad91b40bd0796769a938194.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/d8OYANo8Sdg",
+                        "created_at": 20180419224208,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b50",
+                                "sentence": " On hess is use of latex.",
+                                "start_time": 0.32,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad91b6abd0796769a938195",
+                        "video": "5ad918acbd0796769a93818e",
+                        "audio_description": "5ad918acbd0796769a93818d",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "rubber tree",
+                        "playback_type": "extended",
+                        "start_time": 144.20312596185303,
+                        "end_time": 144.20312596185303,
+                        "duration": 8.6378231292517,
+                        "file_name": "d8OYANo8Sdg_5ad91b6abd0796769a938195.wav",
+                        "file_size_bytes": 1523756,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/d8OYANo8Sdg",
+                        "created_at": 20180419224250,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7dffba0a08ab876e63",
+                                "sentence": " Picture of a rubber tree in a forest",
+                                "start_time": 0.42,
+                                "end_time": 3.24
+                            },
+                            {
+                                "_id": "5e131c7dffba0a08ab876e62",
+                                "sentence": " crosshatch of a rubber tree",
+                                "start_time": 3.47,
+                                "end_time": 5.66
+                            },
+                            {
+                                "_id": "5e131c7dffba0a08ab876e61",
+                                "sentence": " and two hands extracting the sap.",
+                                "start_time": 5.88,
+                                "end_time": 8.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad91d55bd0796769a938198",
+                        "video": "5ad918acbd0796769a93818e",
+                        "audio_description": "5ad918acbd0796769a93818d",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "horse.",
+                        "playback_type": "extended",
+                        "start_time": 165.23886305912782,
+                        "end_time": 165.23886305912782,
+                        "duration": 2.972154195011338,
+                        "file_name": "d8OYANo8Sdg_5ad91d55bd0796769a938198.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/d8OYANo8Sdg",
+                        "created_at": 20180419225101,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131c7cffba0a08ab876e4c",
+                                "sentence": " Sculpture of a rider on a horse done in bronze.",
+                                "start_time": 0,
+                                "end_time": 2.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad91db0bd0796769a938199",
+                        "video": "5ad918acbd0796769a93818e",
+                        "audio_description": "5ad918acbd0796769a93818d",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "corner",
+                        "playback_type": "extended",
+                        "start_time": 203.40945804577638,
+                        "end_time": 203.40945804577638,
+                        "duration": 5.6656689342403626,
+                        "file_name": "d8OYANo8Sdg_5ad91db0bd0796769a938199.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/d8OYANo8Sdg",
+                        "created_at": 20180419225232,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b2d",
+                                "sentence": " Close up of a single panel corner showing the sheen and liquid finish of the browning edges.",
+                                "start_time": 0.09,
+                                "end_time": 5.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad91dffbd0796769a93819a",
+                        "video": "5ad918acbd0796769a93818e",
+                        "audio_description": "5ad918acbd0796769a93818d",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "past black and white",
+                        "playback_type": "extended",
+                        "start_time": 228.58860193515014,
+                        "end_time": 228.58860193515014,
+                        "duration": 3.250793650793651,
+                        "file_name": "d8OYANo8Sdg_5ad91dffbd0796769a93819a.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/d8OYANo8Sdg",
+                        "created_at": 20180419225351,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb88f9dc541230061c36",
+                                "sentence": " Black and white photo of the exhibit in the past.",
+                                "start_time": 0.3,
+                                "end_time": 2.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ad91e45bd0796769a93819b",
+                        "video": "5ad918acbd0796769a93818e",
+                        "audio_description": "5ad918acbd0796769a93818d",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "text impermanence",
+                        "playback_type": "inline",
+                        "start_time": 254.13881194659425,
+                        "end_time": 257.01808632301146,
+                        "duration": 2.8792743764172335,
+                        "file_name": "d8OYANo8Sdg_5ad91e45bd0796769a93819b.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/d8OYANo8Sdg",
+                        "created_at": 20180419225501,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131cd65230fb08acc76e72",
+                                "sentence": " Ava hess, a on impermanence.",
+                                "start_time": 0.26,
+                                "end_time": 2.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ada6d6aba6ad77b6b7b0098",
+                        "video": "5ad918acbd0796769a93818e",
+                        "audio_description": "5ad918acbd0796769a93818d",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 341.049065,
+                        "end_time": 344.4856182879818,
+                        "duration": 3.436553287981859,
+                        "file_name": "d8OYANo8Sdg_5ada6d6aba6ad77b6b7b0098.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/d8OYANo8Sdg",
+                        "created_at": 20180420224458,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13eb3d544080122fa67b7c",
+                                "sentence": " S f moma,",
+                                "start_time": 0.12,
+                                "end_time": 1.52
+                            },
+                            {
+                                "_id": "5e13eb3d544080122fa67b7b",
+                                "sentence": " s f moma dot org.",
+                                "start_time": 1.52,
+                                "end_time": 3.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adb8c2d97118f02e77aedaf",
+                        "video": "5ad918acbd0796769a93818e",
+                        "audio_description": "5ad918acbd0796769a93818d",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 338.46736299809265,
+                        "end_time": 338.46736299809265,
+                        "duration": 32.879455782312924,
+                        "file_name": "d8OYANo8Sdg_5adb8c2d97118f02e77aedaf.wav",
+                        "file_size_bytes": 5799980,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/d8OYANo8Sdg",
+                        "created_at": 20180421190829,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131aab2f61ff08507d2abd",
+                                "sentence": " Montage showing his his work artist and a poke a dot dress standing in front of a large pale yellow drape latex sheets",
+                                "start_time": 0.04,
+                                "end_time": 8.31
+                            },
+                            {
+                                "_id": "5e131aab2f61ff08507d2abc",
+                                "sentence": " followed by a black and white closeup of the work. Later very dark brown",
+                                "start_time": 8.31,
+                                "end_time": 12.8
+                            },
+                            {
+                                "_id": "5e131aab2f61ff08507d2abb",
+                                "sentence": " picture of the artist with a pillowy fish net home, it shaped item held around her head and shoulders.",
+                                "start_time": 12.8,
+                                "end_time": 18.05
+                            },
+                            {
+                                "_id": "5e131aab2f61ff08507d2aba",
+                                "sentence": " Black and white photo of latex cells, like tiny handmade open boxes fuse together, creating a tall, towering line up the wall.",
+                                "start_time": 18.05,
+                                "end_time": 26.87
+                            },
+                            {
+                                "_id": "5e131aab2f61ff08507d2ab9",
+                                "sentence": " Same piece shown years later with the latex boxes sagging and crumbling.",
+                                "start_time": 26.92,
+                                "end_time": 32.69
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ad918acbd0796769a93818d",
+                "video": "5ad918acbd0796769a93818e",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "591ccdc32805421bd3af5910",
+                    "email": "charitypc@gmail.com",
+                    "name": "Charity Pitcher-Cooper",
+                    "given_name": "Charity",
+                    "picture": "https://lh5.googleusercontent.com/-QWgHIV6dqG4/AAAAAAAAAAI/AAAAAAAAA8k/zbElaAqZIsY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102960542363040396571",
+                    "last_login": 20210122172832,
+                    "token": "3d49b4ee09a7b279fbc2705b8e6dd7c75ec919e82a13d07eb1c9925ff7849cf2",
+                    "__v": 0,
+                    "updated_at": 20210122172832,
+                    "policy_review": "reviewed",
+                    "admin": 1
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180419223108,
+                "updated_at": 20180604224230,
+                "notes": "a series of yellow panels. They are a warm and even-toned yellow in the center, getting darker, more brittle, and more uneven towards the edges. The texture is think rubber, slick feeling but with lots of thin grooves from the rough brushstrokes. The texture, like the color, also becomes more brittle and uneven at the edges.\r\n\r\nOld color photos showing the luster and fullness of the piece as it originally appeared. \r\n\r\nBlack and white photo of the artist- she holds up fine clear plastic sheeting, and stares through it, directly at the camera\r\n\r\ntext on screen\r\n\r\nrubber tree\r\n\r\nblack and white picture of the artist, her dark hair parted in the middle is caught back with a bandanna \r\n\r\nsculpture of rider on a horse done in bronze \r\n\r\nclose up of a single panel corner showing the sheen and liquid finish of the browning edges. \r\n\r\n\r\nBlack and white photo of the exhibit in the past.\r\n\r\nMontage showing Hesse's work. Artist in a polka dot dress, standing in front of large pale yellow draped latexed sheets. Followed by a black and white close-up of the work later- dark brown.  \r\nPicture of the artist with a pillowy fishnet wrapped helmet shaped item held around her head and shoulders.\r\nBlack and white photo of Latex cells, like tiny handmade open boxes fused together, creating a tall towering line up the wall. \r\nSame piece shown years later, with the latex boxes sagging and crumbling. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "SFMOMA",
+            "modern",
+            "art",
+            "Eva Hesse",
+            "Aught",
+            "latex",
+            "Michelle",
+            "Barger"
+        ],
+        "custom_tags": [],
+        "_id": "5ad918acbd0796769a93818e",
+        "title": "Eva Hesse's Materials",
+        "description": "SFMOMA conservator Michelle Barger discusses Hesse's work, \"Aught,\" and considers the artist's use of latex. And in an archival interview, Hesse offers her perspective on impermanence in art. See more videos at http://www.sfmoma.org/video",
+        "youtube_id": "d8OYANo8Sdg",
+        "created_at": 20180419223108,
+        "updated_at": 20180421190829,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 332
+    }
+}

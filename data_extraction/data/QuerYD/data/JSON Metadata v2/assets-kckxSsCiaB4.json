@@ -1,0 +1,114 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4046e13dfd851a2ab6",
+                        "audio_description": "58e7cf2b46e13dfd851a20cc",
+                        "created_at": 20130924134139,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130924134139,
+                        "file_name": "1380055298947.wav",
+                        "start_time": 3.848,
+                        "legacy_video_id": 1327,
+                        "legacy_user_id": 83,
+                        "label": "",
+                        "legacy_audio_clip_id": 3989,
+                        "video": "58e7cf2846e13dfd851a194f",
+                        "end_time": 3.848,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20b7",
+                        "transcript": [
+                            {
+                                "_id": "5e1c71c98fa8029f79acfbaf",
+                                "sentence": " Animation.",
+                                "start_time": 0.12,
+                                "end_time": 1.4
+                            },
+                            {
+                                "_id": "5e1c71c98fa8029f79acfbae",
+                                "sentence": " Mister d is dancing out of sync with the music. That's plain.",
+                                "start_time": 1.4,
+                                "end_time": 5.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2ab7",
+                        "audio_description": "58e7cf2b46e13dfd851a20cc",
+                        "created_at": 20130924134221,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130924134221,
+                        "file_name": "1380055341908.wav",
+                        "start_time": 12.15,
+                        "legacy_video_id": 1327,
+                        "legacy_user_id": 83,
+                        "label": "",
+                        "legacy_audio_clip_id": 3990,
+                        "video": "58e7cf2846e13dfd851a194f",
+                        "end_time": 12.15,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20b7",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74670f499aae4b2ce17f",
+                                "sentence": " Now he dances in synchrony with the music.",
+                                "start_time": 0.28,
+                                "end_time": 3.08
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20cc",
+                "status": "published",
+                "legacy_video_id": 1327,
+                "legacy_user_id": 83,
+                "video": "58e7cf2846e13dfd851a194f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20b7",
+                    "name": "mvdiaz",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20141205043002,
+                    "legacy_user_id": 83,
+                    "last_login": 0,
+                    "email": "mvdiaz@dicapta.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a194f",
+        "description": "",
+        "youtube_id": "kckxSsCiaB4",
+        "views": 0,
+        "created_at": 20130924134119,
+        "title": "Description Tutorial #4: Just in time",
+        "legacy_video_id": 1327,
+        "updated_at": 20130924134221,
+        "youtube_status": "available",
+        "category": "Science & Technology",
+        "category_id": "28",
+        "duration": 53
+    }
+}

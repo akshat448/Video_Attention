@@ -1,0 +1,474 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5baa",
+                        "audio_description": "58e7cf3546e13dfd851a25ca",
+                        "created_at": 20160824130331,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824130331,
+                        "file_name": "14720690119211.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2682,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24072,
+                        "video": "58e7cf2946e13dfd851a1e8d",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 29.41,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cc2a",
+                                "sentence": " An adolescent light skinned male student sits at a table with a large wooden board.",
+                                "start_time": 0.2,
+                                "end_time": 6.71
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc29",
+                                "sentence": " The board has four smaller dark brown squares raised in each corner,",
+                                "start_time": 7.27,
+                                "end_time": 12.88
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc28",
+                                "sentence": " making a cross in the center of the board.",
+                                "start_time": 13.04,
+                                "end_time": 15.69
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc27",
+                                "sentence": " The race squares represent buildings or blocks of a road, and then cross in the center represents a road intersection.",
+                                "start_time": 16.31,
+                                "end_time": 24.81
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc26",
+                                "sentence": " The student has a blue car and a red car.",
+                                "start_time": 24.96,
+                                "end_time": 28.45
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bab",
+                        "audio_description": "58e7cf3546e13dfd851a25ca",
+                        "created_at": 20160824130530,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824130530,
+                        "file_name": "14720691305461.wav",
+                        "start_time": 15.044,
+                        "legacy_video_id": 2682,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24073,
+                        "video": "58e7cf2946e13dfd851a1e8d",
+                        "end_time": 15.044,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.78,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268779f74cbc7c082cca",
+                                "sentence": " The student places the blue car pointing away from him and the right lane of the road, moving away from his body and the red car and the left lane pointing towards him.",
+                                "start_time": 0.12,
+                                "end_time": 10.01
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082cc9",
+                                "sentence": " Then he repositioned the cars on the road",
+                                "start_time": 10.07,
+                                "end_time": 13.18
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082cc8",
+                                "sentence": " on the left.",
+                                "start_time": 13.4,
+                                "end_time": 14.72
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082cc7",
+                                "sentence": " Now the red car pointing to his right",
+                                "start_time": 15.36,
+                                "end_time": 17.99
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082cc6",
+                                "sentence": " in the right lane, and the blue car is pointing to his left in the left lane.",
+                                "start_time": 17.99,
+                                "end_time": 22.56
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082cc5",
+                                "sentence": " Yeah.",
+                                "start_time": 22.86,
+                                "end_time": 23.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bac",
+                        "audio_description": "58e7cf3546e13dfd851a25ca",
+                        "created_at": 20160824130847,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824130847,
+                        "file_name": "14720693277471.wav",
+                        "start_time": 28.85,
+                        "legacy_video_id": 2682,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24074,
+                        "video": "58e7cf2946e13dfd851a1e8d",
+                        "end_time": 28.85,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 24.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e4427a179f74cbc7c082dec",
+                                "sentence": " The student moves the red card through the intersection and onto the road, moving away from his body, placing it at the edge of the board.",
+                                "start_time": 0.34,
+                                "end_time": 7.96
+                            },
+                            {
+                                "_id": "5e4427a179f74cbc7c082deb",
+                                "sentence": " Then he moves the blue car back the road directly in front of him,",
+                                "start_time": 8.03,
+                                "end_time": 12.62
+                            },
+                            {
+                                "_id": "5e4427a179f74cbc7c082dea",
+                                "sentence": " pointing the cart towards him in the right lane.",
+                                "start_time": 13.36,
+                                "end_time": 16.7
+                            },
+                            {
+                                "_id": "5e4427a179f74cbc7c082de9",
+                                "sentence": " After a moment, he picks the blue car back up and moves the red guards slightly.",
+                                "start_time": 17.27,
+                                "end_time": 22.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bad",
+                        "audio_description": "58e7cf3546e13dfd851a25ca",
+                        "created_at": 20160824130947,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824130947,
+                        "file_name": "14720693871351.wav",
+                        "start_time": 55.301,
+                        "legacy_video_id": 2682,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24075,
+                        "video": "58e7cf2946e13dfd851a1e8d",
+                        "end_time": 55.301,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45b9120269c027b2e18a0c",
+                                "sentence": " The student moves the red car into the left lane, pointing away from his body on the road directly in front of him",
+                                "start_time": 0.31,
+                                "end_time": 6.97
+                            },
+                            {
+                                "_id": "5e45b9120269c027b2e18a0b",
+                                "sentence": " and the blue car across the intersection, pointing towards his body in the right lane.",
+                                "start_time": 6.97,
+                                "end_time": 12.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bae",
+                        "audio_description": "58e7cf3546e13dfd851a25ca",
+                        "created_at": 20160824131008,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824131008,
+                        "file_name": "14720694082561.wav",
+                        "start_time": 70.195,
+                        "legacy_video_id": 2682,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24076,
+                        "video": "58e7cf2946e13dfd851a1e8d",
+                        "end_time": 70.195,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb24a3885227afb5cd3c",
+                                "sentence": " The student fidget with the car several times and looks closely at the road as he works through the problem.",
+                                "start_time": 0.43,
+                                "end_time": 6.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5baf",
+                        "audio_description": "58e7cf3546e13dfd851a25ca",
+                        "created_at": 20160824131053,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824131053,
+                        "file_name": "14720694536261.wav",
+                        "start_time": 129.424,
+                        "legacy_video_id": 2682,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24077,
+                        "video": "58e7cf2946e13dfd851a1e8d",
+                        "end_time": 129.424,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268779f74cbc7c082cfb",
+                                "sentence": " The student moves the red car to the right lane, pointing it away from his body, and the blue car",
+                                "start_time": 0.19,
+                                "end_time": 6.63
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082cfa",
+                                "sentence": " and the right lane, pointing it towards his body.",
+                                "start_time": 6.63,
+                                "end_time": 9.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bb0",
+                        "audio_description": "58e7cf3546e13dfd851a25ca",
+                        "created_at": 20160824131143,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824131143,
+                        "file_name": "14720695030391.wav",
+                        "start_time": 158.287,
+                        "legacy_video_id": 2682,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24078,
+                        "video": "58e7cf2946e13dfd851a1e8d",
+                        "end_time": 158.287,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 21.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cc6d",
+                                "sentence": " The student moves the blue car through the intersection. So it takes a right hand turn. Now in the right lane of the road",
+                                "start_time": 0.3,
+                                "end_time": 6.95
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc6c",
+                                "sentence": " that moves from left to right.",
+                                "start_time": 7.05,
+                                "end_time": 9.42
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc6b",
+                                "sentence": " He then moves the red car through the intersection. So it takes a right hand turn. Now in the right lane of the road that moves from left to right on the opposite side of the intersection as the blue car.",
+                                "start_time": 9.42,
+                                "end_time": 21.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bb1",
+                        "audio_description": "58e7cf3546e13dfd851a25ca",
+                        "created_at": 20160824131234,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824131234,
+                        "file_name": "14720695549611.wav",
+                        "start_time": 184.348,
+                        "legacy_video_id": 2682,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24079,
+                        "video": "58e7cf2946e13dfd851a1e8d",
+                        "end_time": 184.348,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45ba8198b0c327b1e128cf",
+                                "sentence": " The student picks up the blue car and places it to the left hand lane directly in front of him, pointing away from his body",
+                                "start_time": 0.28,
+                                "end_time": 7.67
+                            },
+                            {
+                                "_id": "5e45ba8198b0c327b1e128ce",
+                                "sentence": " and the red car next to it, and the right handling.",
+                                "start_time": 7.92,
+                                "end_time": 10.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bb2",
+                        "audio_description": "58e7cf3546e13dfd851a25ca",
+                        "created_at": 20160824131322,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824131322,
+                        "file_name": "14720696023931.wav",
+                        "start_time": 200.358,
+                        "legacy_video_id": 2682,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24080,
+                        "video": "58e7cf2946e13dfd851a1e8d",
+                        "end_time": 200.358,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.04,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e4427a179f74cbc7c082e00",
+                                "sentence": " The student picks up both of the cars and moves them over to the intersection to the road on his left,",
+                                "start_time": 0.64,
+                                "end_time": 6.84
+                            },
+                            {
+                                "_id": "5e4427a179f74cbc7c082dff",
+                                "sentence": " then quickly moves the cars to the road on the opposite side, pointing them to the right.",
+                                "start_time": 6.84,
+                                "end_time": 12.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bb3",
+                        "audio_description": "58e7cf3546e13dfd851a25ca",
+                        "created_at": 20160824131341,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824131341,
+                        "file_name": "14720696213681.wav",
+                        "start_time": 216.761,
+                        "legacy_video_id": 2682,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24081,
+                        "video": "58e7cf2946e13dfd851a1e8d",
+                        "end_time": 216.761,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e4427a179f74cbc7c082dfd",
+                                "sentence": " The student moves the cars onto the road directly in front of him, both cars pointing toward him.",
+                                "start_time": 0.48,
+                                "end_time": 6.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bb4",
+                        "audio_description": "58e7cf3546e13dfd851a25ca",
+                        "created_at": 20160824131403,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824131403,
+                        "file_name": "14720696433811.wav",
+                        "start_time": 240.159,
+                        "legacy_video_id": 2682,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24082,
+                        "video": "58e7cf2946e13dfd851a1e8d",
+                        "end_time": 240.159,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb23a3885227afb5ccf3",
+                                "sentence": " The woman rotates the red car, which is in the right lane. So it is facing the opposite direction as the blue car.",
+                                "start_time": 0.4,
+                                "end_time": 7.76
+                            },
+                            {
+                                "_id": "5e45bb23a3885227afb5ccf2",
+                                "sentence": " and the other lane.",
+                                "start_time": 7.76,
+                                "end_time": 9.36
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25ca",
+                "status": "published",
+                "legacy_video_id": 2682,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e8d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e8d",
+        "description": "",
+        "youtube_id": "JfZRsbZ3L74",
+        "views": 0,
+        "created_at": 20160824130244,
+        "title": "MTtravelConceptModel1b",
+        "legacy_video_id": 2682,
+        "updated_at": 20160824131403,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 257
+    }
+}

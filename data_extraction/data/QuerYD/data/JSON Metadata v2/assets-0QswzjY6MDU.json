@@ -1,0 +1,82 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5f6bbbcf152f97652a3be5e2",
+                        "video": "5f6bbae8aa38d665301f34df",
+                        "audio_description": "5f6bbae8aa38d665301f34de",
+                        "user": "5f6bb9bd152f97652a3be5e1",
+                        "label": "description",
+                        "playback_type": "inline",
+                        "start_time": 0.28437499999999993,
+                        "end_time": 7.6230416666666665,
+                        "duration": 7.338666666666667,
+                        "file_name": "0QswzjY6MDU_5f6bbbcf152f97652a3be5e2.wav",
+                        "file_size_bytes": 1409068,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0QswzjY6MDU",
+                        "created_at": 20200923211911,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5f6bbbf8152f97652a3be5e3",
+                        "video": "5f6bbae8aa38d665301f34df",
+                        "audio_description": "5f6bbae8aa38d665301f34de",
+                        "user": "5f6bb9bd152f97652a3be5e1",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 17.915928,
+                        "end_time": 23.889261333333334,
+                        "duration": 5.973333333333334,
+                        "file_name": "0QswzjY6MDU_5f6bbbf8152f97652a3be5e3.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0QswzjY6MDU",
+                        "created_at": 20200923211952,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5f6bbae8aa38d665301f34de",
+                "video": "5f6bbae8aa38d665301f34df",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5f6bb9bd152f97652a3be5e1",
+                    "email": "gsicker@gmail.com",
+                    "name": "graciesicker",
+                    "given_name": "graciesicker",
+                    "picture": "https://lh3.googleusercontent.com/a-/AOh14Gi7D7WS8xzHVF50id02x46rxbyJ9aV7KltwuPGLLw=s96-c",
+                    "locale": "en",
+                    "google_user_id": "103617980618210438280",
+                    "last_login": 20200923211021,
+                    "token": "c1b6427dab5de330e8730089e6c516a6f3aabc7ba52c6499104e3996194fc882",
+                    "__v": 0
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200923211520,
+                "updated_at": 20200923211520,
+                "notes": "camera pans into a kitchen with white cabinets\nturns to the counter with several things laid out\n\nholds up each ingredient as she says it",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5f6bbae8aa38d665301f34df",
+        "title": "Captioning/Audio Description Exersise",
+        "description": "For English 2277",
+        "youtube_id": "0QswzjY6MDU",
+        "created_at": 20200923211520,
+        "updated_at": 20200923211952,
+        "views": 0,
+        "__v": 0
+    }
+}

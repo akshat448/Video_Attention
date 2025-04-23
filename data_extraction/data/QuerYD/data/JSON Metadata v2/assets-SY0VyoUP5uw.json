@@ -1,0 +1,123 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59ba0665c6c4802622d9c14b",
+                        "video": "59ba0545c6c4802622d9c145",
+                        "audio_description": "59ba0545c6c4802622d9c144",
+                        "user": "59ba04fec6c4802622d9c13f",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 7.987664399092971,
+                        "file_name": "SY0VyoUP5uw_59ba0665c6c4802622d9c14b.wav",
+                        "file_size_bytes": 1409068,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/SY0VyoUP5uw",
+                        "created_at": 20170914043237,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f53",
+                                "sentence": " There is a bar chart with title",
+                                "start_time": 1.12,
+                                "end_time": 3.66
+                            },
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f52",
+                                "sentence": " employment for disabled and non disabled americans.",
+                                "start_time": 3.66,
+                                "end_time": 7.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59ba08ccc6c4802622d9c153",
+                        "video": "59ba0545c6c4802622d9c145",
+                        "audio_description": "59ba0545c6c4802622d9c144",
+                        "user": "59ba04fec6c4802622d9c13f",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 6.34552,
+                        "end_time": 6.34552,
+                        "duration": 14.489251700680272,
+                        "file_name": "SY0VyoUP5uw_59ba08ccc6c4802622d9c153.wav",
+                        "file_size_bytes": 2555948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/SY0VyoUP5uw",
+                        "created_at": 20170914044252,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175ab57b5156f523f99d17",
+                                "sentence": " In 1991, the employment rate is 50.2 for disabled",
+                                "start_time": 0.84,
+                                "end_time": 5.17
+                            },
+                            {
+                                "_id": "5e175ab57b5156f523f99d16",
+                                "sentence": " and 84.4 from non disabled.",
+                                "start_time": 5.17,
+                                "end_time": 7.75
+                            },
+                            {
+                                "_id": "5e175ab57b5156f523f99d15",
+                                "sentence": " In 2010. The employment rate is 41.1 for disabled and 79.1 for non disabled.",
+                                "start_time": 7.75,
+                                "end_time": 14.44
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59ba0545c6c4802622d9c144",
+                "video": "59ba0545c6c4802622d9c145",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59ba04fec6c4802622d9c13f",
+                    "email": "jinnyatw34@gmail.com",
+                    "name": "\u738b\u6676\u7389",
+                    "given_name": "\u6676\u7389",
+                    "picture": "https://lh4.googleusercontent.com/-KOHZ1tPcvlE/AAAAAAAAAAI/AAAAAAAABVo/XeObTVL0h4s/s96-c/photo.jpg",
+                    "locale": "zh-CN",
+                    "google_user_id": "107436356262426131202",
+                    "last_login": 20170914042638,
+                    "token": "597c0c079c5d8e6994598167b923a55af0d41f455e29c5a1e6b765c548a5b3e6",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170914042749,
+                "updated_at": 20170920063240,
+                "notes": "There is a bar chart with title \u201cemployment for disabled and non-disable americans\u201d\r\n\r\n\r\n\r\nIn 1991, the employment rate is 50.2 for disabled and 84.4 for non-diabled.\r\nIn 2010, the employment rate  is 41.1% for disabled and 79.1% for non-disabled.",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59ba0545c6c4802622d9c145",
+        "title": "Employment movie for 05-899 accessibility course",
+        "description": "",
+        "youtube_id": "SY0VyoUP5uw",
+        "created_at": 20170914042749,
+        "updated_at": 20170914044252,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

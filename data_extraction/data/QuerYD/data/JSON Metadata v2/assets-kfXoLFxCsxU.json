@@ -1,0 +1,110 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7d46e13dfd851a5c92",
+                        "audio_description": "58e7cf2d46e13dfd851a21f3",
+                        "created_at": 20160928171118,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160928171118,
+                        "file_name": "14751078781031.wav",
+                        "start_time": 4.037,
+                        "legacy_video_id": 2718,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 24409,
+                        "video": "58e7cf2946e13dfd851a1eb1",
+                        "end_time": 4.037,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e4421c0c26fa0bc796fd3f8",
+                                "sentence": " An adult woman with glasses and brown hair in a pixie cut style sits wearing a black necklace and blue thick suit jacket in front of a black background.",
+                                "start_time": 0.36,
+                                "end_time": 10.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7d46e13dfd851a5c93",
+                        "audio_description": "58e7cf2d46e13dfd851a21f3",
+                        "created_at": 20160928171546,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160928171546,
+                        "file_name": "14751081465161.wav",
+                        "start_time": 4.037,
+                        "legacy_video_id": 2718,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 24410,
+                        "video": "58e7cf2946e13dfd851a1eb1",
+                        "end_time": 4.037,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.98,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb24a3885227afb5cd6b",
+                                "sentence": " An adult woman with.",
+                                "start_time": 0.36,
+                                "end_time": 1.94
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21f3",
+                "status": "published",
+                "legacy_video_id": 2718,
+                "legacy_user_id": 2298,
+                "video": "58e7cf2946e13dfd851a1eb1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21f0",
+                    "name": "parkera",
+                    "google_user_id_token": "",
+                    "created_at": 20140626172125,
+                    "updated_at": 20160929202638,
+                    "legacy_user_id": 2298,
+                    "last_login": 0,
+                    "email": "parkera@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "PDX 2013"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1eb1",
+        "description": "",
+        "youtube_id": "kfXoLFxCsxU",
+        "views": 0,
+        "created_at": 20160928165655,
+        "title": "Bernadette vandentillart on building upon what a student already does",
+        "legacy_video_id": 2718,
+        "updated_at": 20160928171546,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 56
+    }
+}

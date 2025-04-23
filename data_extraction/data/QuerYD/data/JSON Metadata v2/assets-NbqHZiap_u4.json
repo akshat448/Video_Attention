@@ -1,0 +1,85 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4946e13dfd851a3490",
+                        "audio_description": "58e7cf2d46e13dfd851a21c6",
+                        "created_at": 20141026151827,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141026151827,
+                        "file_name": "14143619073541.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1661,
+                        "legacy_user_id": 2255,
+                        "label": "",
+                        "legacy_audio_clip_id": 8876,
+                        "video": "58e7cf2846e13dfd851a1a90",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21c1",
+                        "transcript": [
+                            {
+                                "_id": "5e232683c832bd02b748f8ec",
+                                "sentence": " Wearing blue coveralls, wiki followed by lenny, enter the lunch room where laverne and shirley wearing lilac smocks are seated.",
+                                "start_time": 0.16,
+                                "end_time": 6.89
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21c6",
+                "status": "published",
+                "legacy_video_id": 1661,
+                "legacy_user_id": 2255,
+                "video": "58e7cf2846e13dfd851a1a90",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21c1",
+                    "name": "mduigou",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2255,
+                    "last_login": 0,
+                    "email": "youdescribe@duigou.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "laverne",
+            "shirley",
+            "squiggy",
+            "hello"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a90",
+        "description": "",
+        "youtube_id": "NbqHZiap_u4",
+        "views": 0,
+        "created_at": 20141026151623,
+        "title": "Squiggy Says Hello",
+        "legacy_video_id": 1661,
+        "updated_at": 20141026151827,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 3
+    }
+}

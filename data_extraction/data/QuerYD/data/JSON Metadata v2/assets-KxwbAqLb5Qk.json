@@ -1,0 +1,83 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fda582069f2192f639017f5",
+                        "video": "5fc6c505a1480d63858c60de",
+                        "audio_description": "5fc6c505a1480d63858c60dd",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "0:00",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 5.851428571428571,
+                        "file_name": "KxwbAqLb5Qk_5fda582069f2192f639017f5.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KxwbAqLb5Qk",
+                        "created_at": 20201216185528,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5fda58ba69f2192f639017f6",
+                        "video": "5fc6c505a1480d63858c60de",
+                        "audio_description": "5fc6c505a1480d63858c60dd",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "0:17",
+                        "playback_type": "extended",
+                        "start_time": 16.099786,
+                        "end_time": 16.099786,
+                        "duration": 7.523265306122449,
+                        "file_name": "KxwbAqLb5Qk_5fda58ba69f2192f639017f6.wav",
+                        "file_size_bytes": 1327148,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KxwbAqLb5Qk",
+                        "created_at": 20201216185802,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fc6c505a1480d63858c60dd",
+                "video": "5fc6c505a1480d63858c60de",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5fc6b5fb95521063835ce383",
+                    "email": "ecastillojenn@gmail.com",
+                    "name": "Jennifer Castillo",
+                    "given_name": "Jennifer",
+                    "picture": "https://lh4.googleusercontent.com/-5bpnry8pqfg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckH9ncyvBYAW2kOTFQ5bs4EeopJOg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115887003623205163006",
+                    "last_login": 20201221205124,
+                    "token": "1114491ec716f0171a30639c483ee718d98ebe8e044084b7b6bf4e03ccbb3772",
+                    "__v": 0,
+                    "updated_at": 20201221205124
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201201223445,
+                "updated_at": 20201201223445,
+                "notes": "Alexa from the California Science Center is seen holding an African Pancake Tortoise.\n",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fc6c505a1480d63858c60de",
+        "title": "Endangered Species Day",
+        "description": "May 15  is Endangered Species Day. African pancake tortoises have recently been labeled as critically endangered. These beautiful animals, as well as all the other endangered and threatened animals on this earth, deserve our attention. Together we can help save them from the brink of extinction. What can you do to help save the animals? \n\nFor more science, more animals, and more fun, visit https://californiasciencecenter.org/beyond",
+        "youtube_id": "KxwbAqLb5Qk",
+        "created_at": 20201201223445,
+        "updated_at": 20201216185802,
+        "views": 0,
+        "__v": 0
+    }
+}

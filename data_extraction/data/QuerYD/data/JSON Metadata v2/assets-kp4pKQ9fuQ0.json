@@ -1,0 +1,113 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ef8de4b257e4b0c5812790f",
+                        "video": "5ef8dc8ab2fc4f0c56055c03",
+                        "audio_description": "5ef8dc8ab2fc4f0c56055c02",
+                        "user": "5e99290aafba3146aec3f596",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0.712242,
+                        "end_time": 0.712242,
+                        "duration": 17.237333333333332,
+                        "file_name": "kp4pKQ9fuQ0_5ef8de4b257e4b0c5812790f.wav",
+                        "file_size_bytes": 3309612,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/kp4pKQ9fuQ0",
+                        "created_at": 20200628181539,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5ef8e0b7b2fc4f0c56055c04",
+                        "video": "5ef8dc8ab2fc4f0c56055c03",
+                        "audio_description": "5ef8dc8ab2fc4f0c56055c02",
+                        "user": "5e99290aafba3146aec3f596",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 246.607385,
+                        "end_time": 246.607385,
+                        "duration": 3.328,
+                        "file_name": "kp4pKQ9fuQ0_5ef8e0b7b2fc4f0c56055c04.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/kp4pKQ9fuQ0",
+                        "created_at": 20200628182559,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5ef8e24a257e4b0c58127910",
+                        "video": "5ef8dc8ab2fc4f0c56055c03",
+                        "audio_description": "5ef8dc8ab2fc4f0c56055c02",
+                        "user": "5e99290aafba3146aec3f596",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 304.416102,
+                        "end_time": 304.416102,
+                        "duration": 4.693333333333333,
+                        "file_name": "kp4pKQ9fuQ0_5ef8e24a257e4b0c58127910.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/kp4pKQ9fuQ0",
+                        "created_at": 20200628183242,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5ef8dc8ab2fc4f0c56055c02",
+                "video": "5ef8dc8ab2fc4f0c56055c03",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e99290aafba3146aec3f596",
+                    "email": "kadenfaris@gmail.com",
+                    "name": "Kaden Faris",
+                    "given_name": "Kaden",
+                    "picture": "https://lh3.googleusercontent.com/a-/AOh14GjA5lGHB_JIEkVAMQnnLldL5T_lYsJd-SWhR2Zo=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107903002064392852104",
+                    "last_login": 20200706221254,
+                    "token": "41597a9342833610b2ee69704a171b0295b02d6215fd9ac617bd4c76723c9f67",
+                    "__v": 0,
+                    "updated_at": 20200706221254,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200628180810,
+                "updated_at": 20200628180810,
+                "notes": "Wearing blue and red shirts with collars, Kaden and Danny sit outside in the late afternoon. The ocean spreads out behind them, sweeping past a large log boom in the harbor towards the lighted apartment buildings of a city. Snow-capped mountains form the background in the distance, framed by low-hanging clouds.\n\nReflowable\n4:11, Yes we still have pictures. A tablet appears with a padlock on the picture.\n5:06, all the text is there. A person reaches for a tablet that shakes back and forth, just out of reach.\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "EPUB",
+            "accessibility",
+            "NNELS",
+            "a11y",
+            "ebook"
+        ],
+        "custom_tags": [],
+        "_id": "5ef8dc8ab2fc4f0c56055c03",
+        "title": "Ebook Accessibility: Reflowable Content",
+        "description": "Transcript: https://nnels.ca/CrashCourseVideo2-Reflowable\n***\nThis video describes how reflowable content in ebooks is beneficial to everyone, and how fixed-layout content is challenging for people who are using a screen reader or other assistive technology to read.\n***\nLearn more, in NNELS' Accessible Publishing Best Practices: Guidelines for Common EPUB Issues in Plain Language: https://www.accessiblepublishing.ca/accessible-publishing-best-practices/",
+        "youtube_id": "kp4pKQ9fuQ0",
+        "created_at": 20200628180810,
+        "updated_at": 20200628183242,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 430
+    }
+}

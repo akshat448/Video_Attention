@@ -1,0 +1,82 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5faf190e206e0d5fdec3e119",
+                        "video": "5faf18e8206e0d5fdec3e118",
+                        "audio_description": "5faf18e8206e0d5fdec3e117",
+                        "user": "5f90c196206e0d5fdec3d773",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0.223766,
+                        "end_time": 4.319766,
+                        "duration": 4.096,
+                        "file_name": "Xct-dgUvlp8_5faf190e206e0d5fdec3e119.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Xct-dgUvlp8",
+                        "created_at": 20201113233854,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5faf19786832dc5fe4ac5dbe",
+                        "video": "5faf18e8206e0d5fdec3e118",
+                        "audio_description": "5faf18e8206e0d5fdec3e117",
+                        "user": "5f90c196206e0d5fdec3d773",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 17.167986,
+                        "end_time": 21.690652666666665,
+                        "duration": 4.522666666666667,
+                        "file_name": "Xct-dgUvlp8_5faf19786832dc5fe4ac5dbe.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Xct-dgUvlp8",
+                        "created_at": 20201113234040,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5faf18e8206e0d5fdec3e117",
+                "video": "5faf18e8206e0d5fdec3e118",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5f90c196206e0d5fdec3d773",
+                    "email": "philipjia123@gmail.com",
+                    "name": "Philip Jia",
+                    "given_name": "Philip",
+                    "picture": "https://lh3.googleusercontent.com/a-/AOh14GgtdbdyZkxNwryzILuqzBAIs_NYTWjXJNm75YPCXD4=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107006191970178044112",
+                    "last_login": 20201021231742,
+                    "token": "e0404a955785daa2552b94deb0870d28b797aa73728fcf71c049a2f1709a03fb",
+                    "__v": 0
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201113233816,
+                "updated_at": 20201113233816,
+                "notes": "A corgi sleeps on her back wedged inside a banana-shaped bed.\n\n",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5faf18e8206e0d5fdec3e118",
+        "title": "Fruit is the Perfect Fit for Corgi",
+        "description": "Occurred on January 12, 2020 / Taiwan\n\nAn adorable corgi gets comfy in a banana bed.\n\nContact licensing@viralhog.com to license this or any ViralHog video.\n\nMake money from your videos! Submit footage here: https://goo.gl/yejGkm\n\nSubscribe, Like, or Follow ViralHog:\nYouTube: https://goo.gl/A0gBKk\nFacebook: https://goo.gl/XQWqJt\nInstagram: https://goo.gl/NMq8dl\nTwitter: https://goo.gl/pF8Xop",
+        "youtube_id": "Xct-dgUvlp8",
+        "created_at": 20201113233816,
+        "updated_at": 20201113234040,
+        "views": 0,
+        "__v": 0
+    }
+}

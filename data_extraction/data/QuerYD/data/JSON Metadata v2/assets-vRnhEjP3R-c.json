@@ -1,0 +1,646 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51d8",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127075903,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127075903,
+                        "file_name": "14486399430671.wav",
+                        "start_time": 3.336,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19686,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 7.936,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622026a278fc5f090480",
+                                "sentence": " Universal logo spans invades on to amy polar greeting tina fey.",
+                                "start_time": 0,
+                                "end_time": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51d9",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127075935,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127075935,
+                        "file_name": "14486399755471.wav",
+                        "start_time": 10.135,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19687,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 13.715,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622126a278fc5f0904d3",
+                                "sentence": " Amy is introduced as the perfect sister.",
+                                "start_time": 0.26,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51da",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080016,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080016,
+                        "file_name": "14486400161551.wav",
+                        "start_time": 18.959,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19689,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 22.539,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622026a278fc5f09048e",
+                                "sentence": " Tina fey is introduced as the other sister.",
+                                "start_time": 0.1,
+                                "end_time": 3.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51db",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080122,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080122,
+                        "file_name": "14486400829751.wav",
+                        "start_time": 22.401,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19690,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 24.961,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622026a278fc5f0904bd",
+                                "sentence": " They pull up in a car to a cute boy.",
+                                "start_time": 0,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51dc",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080204,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080204,
+                        "file_name": "14486401249691.wav",
+                        "start_time": 31.16,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19691,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 34.48,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622026a278fc5f090483",
+                                "sentence": " They pull up in a car to their childhood home.",
+                                "start_time": 0.25,
+                                "end_time": 3.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51dd",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080226,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080226,
+                        "file_name": "14486401465531.wav",
+                        "start_time": 38.079,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19692,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 43.709,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622226a278fc5f0904d7",
+                                "sentence": " Fe knocks over the sold sign and lays on the ground throwing his hand trump.",
+                                "start_time": 0.02,
+                                "end_time": 5.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51de",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080244,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080244,
+                        "file_name": "14486401647401.wav",
+                        "start_time": 44.01,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19693,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 47.33,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17621f26a278fc5f090473",
+                                "sentence": " They walk into their filthy childhood room.",
+                                "start_time": 0.31,
+                                "end_time": 3.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51df",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080331,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080331,
+                        "file_name": "14486402111161.wav",
+                        "start_time": 52.058,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19694,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 54.358,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622026a278fc5f0904b1",
+                                "sentence": " Faith waters her eyes.",
+                                "start_time": 0,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51e0",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080358,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080358,
+                        "file_name": "14486402380461.wav",
+                        "start_time": 56.266,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19695,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 59.586,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622026a278fc5f090496",
+                                "sentence": " They go to a store and pick up party supplies.",
+                                "start_time": 0.04,
+                                "end_time": 2.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51e1",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080423,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080423,
+                        "file_name": "14486402633391.wav",
+                        "start_time": 64.911,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19696,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 68.491,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622026a278fc5f0904a4",
+                                "sentence": " Fay moves the car. So polar can't come back in.",
+                                "start_time": 0.12,
+                                "end_time": 3.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51e2",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080448,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080448,
+                        "file_name": "14486402881001.wav",
+                        "start_time": 70.208,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19697,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 74.048,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622126a278fc5f0904d2",
+                                "sentence": " Fey and poehler try on dresses in a store.",
+                                "start_time": 0.33,
+                                "end_time": 3.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51e3",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080546,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080546,
+                        "file_name": "14486403468581.wav",
+                        "start_time": 92.824,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19699,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 97.684,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622026a278fc5f09048f",
+                                "sentence": " A huge house party fame, polar in the middle, dancing in sync.",
+                                "start_time": 0.37,
+                                "end_time": 4.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51e4",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080617,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080617,
+                        "file_name": "14486403770881.wav",
+                        "start_time": 98.286,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19700,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 102.636,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17621f26a278fc5f090477",
+                                "sentence": " Back to the story. The girls have a confrontation with a jealous neighbor.",
+                                "start_time": 0.04,
+                                "end_time": 4.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51e5",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080711,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080711,
+                        "file_name": "14486404317491.wav",
+                        "start_time": 109.826,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19701,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 114.17599999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17621f26a278fc5f09047c",
+                                "sentence": " The chaotic party ensues on someone's foot breaks through the floor.",
+                                "start_time": 0.06,
+                                "end_time": 4.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51e6",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080730,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080730,
+                        "file_name": "14486404501721.wav",
+                        "start_time": 114.251,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19702,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 118.09100000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622126a278fc5f0904d0",
+                                "sentence": " Fay makes eye contact with a muscly tattooed man.",
+                                "start_time": 0.21,
+                                "end_time": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51e7",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080752,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080752,
+                        "file_name": "14486404722121.wav",
+                        "start_time": 122.032,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19703,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 125.612,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17640f09dae8fc6194ff70",
+                                "sentence": " Someone punches through the wall and the police show up.",
+                                "start_time": 0.03,
+                                "end_time": 3.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51e8",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080830,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080830,
+                        "file_name": "14486405102541.wav",
+                        "start_time": 129.807,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19705,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 135.43699999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e1764a818b91efc60c48c6b",
+                                "sentence": " Polar drops a lit cupcake on the cute boy, and he falls onto an object.",
+                                "start_time": 0.14,
+                                "end_time": 5.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51e9",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080930,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080930,
+                        "file_name": "14486405700481.wav",
+                        "start_time": 150.456,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19706,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 153.016,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622026a278fc5f0904b0",
+                                "sentence": " Large black letters sisters.",
+                                "start_time": 0,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51ea",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127080944,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127080944,
+                        "file_name": "14486405843511.wav",
+                        "start_time": 154.897,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19707,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 157.96699999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622026a278fc5f090493",
+                                "sentence": " Christmas 2015.",
+                                "start_time": 0.31,
+                                "end_time": 2.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6e46e13dfd851a51eb",
+                        "audio_description": "58e7cf3446e13dfd851a256f",
+                        "created_at": 20151127081928,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151127081928,
+                        "file_name": "14486411683361.wav",
+                        "start_time": 14.589,
+                        "legacy_video_id": 2383,
+                        "legacy_user_id": 2986,
+                        "label": "",
+                        "legacy_audio_clip_id": 19708,
+                        "video": "58e7cf2946e13dfd851a1d62",
+                        "end_time": 16.639,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3446e13dfd851a256e",
+                        "transcript": [
+                            {
+                                "_id": "5e17622026a278fc5f0904ae",
+                                "sentence": " Polar as a nurse.",
+                                "start_time": 0.2,
+                                "end_time": 2.02
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3446e13dfd851a256f",
+                "status": "published",
+                "legacy_video_id": 2383,
+                "legacy_user_id": 2986,
+                "video": "58e7cf2946e13dfd851a1d62",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3446e13dfd851a256e",
+                    "name": "mthomey",
+                    "google_user_id_token": "",
+                    "created_at": 20151126093414,
+                    "updated_at": 20151126093826,
+                    "legacy_user_id": 2986,
+                    "last_login": 0,
+                    "email": "melissathomey33@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "overall_rating_average": 2,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 2,
+                "updated_at": 20180819020142,
+                "admin_review": "",
+                "feedbacks": {
+                    "1": 1,
+                    "5": 1
+                }
+            }
+        ],
+        "tags": [
+            "official trailer",
+            "movie",
+            "Official",
+            "Theatrical",
+            "pitch perfect",
+            "Tina Fey",
+            "Amy Poehler",
+            "Jason Moore",
+            "Sisters Comedy",
+            "Sisters",
+            "Comedy",
+            "John Cena",
+            "30 Rock",
+            "John Leguizamo",
+            "Ike Barinholtz",
+            "Maya Rudolph",
+            "Parks and Recreation",
+            "Parks and Rec",
+            "Saturday Night Live",
+            "Paula Pell",
+            "James Brolin",
+            "Meet the Parents",
+            "Sisters Official Trailer",
+            "Universal",
+            "Universal Pictures",
+            "Sisters Film"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d62",
+        "description": "",
+        "youtube_id": "vRnhEjP3R-c",
+        "views": 0,
+        "created_at": 20151127075342,
+        "title": "Sisters - Official Trailer (HD)",
+        "legacy_video_id": 2383,
+        "updated_at": 20151127082349,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 163
+    }
+}

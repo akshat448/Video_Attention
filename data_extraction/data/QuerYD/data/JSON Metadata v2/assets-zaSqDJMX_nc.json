@@ -1,0 +1,172 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5746e13dfd851a40b1",
+                        "audio_description": "58e7cf3046e13dfd851a234f",
+                        "created_at": 20150425141606,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425141606,
+                        "file_name": "14299965661101.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1940,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13234,
+                        "video": "58e7cf2846e13dfd851a1ba7",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 21.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a561168423183b465bc7",
+                                "sentence": " Max, a young student,",
+                                "start_time": 1.01,
+                                "end_time": 3.02
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bc6",
+                                "sentence": " sits in a busy cafeteria with a large blue tray and a bowl of oatmeal, or hot cereal on the table in front of him.",
+                                "start_time": 3.02,
+                                "end_time": 9.88
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bc5",
+                                "sentence": " Beth, his intervenor sits next to him and supports his hand while he feeds himself out of the bowl.",
+                                "start_time": 10.23,
+                                "end_time": 16.17
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bc4",
+                                "sentence": " When he drops the spoon, she removes her hand and waits for him to reach for the spoon again.",
+                                "start_time": 16.32,
+                                "end_time": 21.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5746e13dfd851a40b2",
+                        "audio_description": "58e7cf3046e13dfd851a234f",
+                        "created_at": 20150425141801,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425141801,
+                        "file_name": "14299966814201.wav",
+                        "start_time": 10.177,
+                        "legacy_video_id": 1940,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13235,
+                        "video": "58e7cf2846e13dfd851a1ba7",
+                        "end_time": 10.177,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 19.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a561168423183b465bb7",
+                                "sentence": " Beth holds her hand over maxis bowl. Palm up.",
+                                "start_time": 1.47,
+                                "end_time": 4.91
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bb6",
+                                "sentence": " His right hand is close to his face. When he reaches out to grab the spoon, she holds his hand, and they go through the motion of eating,",
+                                "start_time": 4.96,
+                                "end_time": 12.33
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bb5",
+                                "sentence": " pretending to grab this moon, scooping his hand near the food, and taking it to his mouth without actually eating.",
+                                "start_time": 12.33,
+                                "end_time": 19.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5746e13dfd851a40b3",
+                        "audio_description": "58e7cf3046e13dfd851a234f",
+                        "created_at": 20150425141905,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425141905,
+                        "file_name": "14299967456661.wav",
+                        "start_time": 24.341,
+                        "legacy_video_id": 1940,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13236,
+                        "video": "58e7cf2846e13dfd851a1ba7",
+                        "end_time": 24.341,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a4bea67c75183e4aadf8",
+                                "sentence": " Then together using his hand, he picks up his spoon and scoop some of the cereal into his mouth with her support.",
+                                "start_time": 1.22,
+                                "end_time": 8.57
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a234f",
+                "status": "published",
+                "legacy_video_id": 1940,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1ba7",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "communication at breakfast",
+            "deaf-blind",
+            "intervener",
+            "OHOA learning modules",
+            "communication development"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ba7",
+        "description": "",
+        "youtube_id": "zaSqDJMX_nc",
+        "views": 0,
+        "created_at": 20150425141507,
+        "title": "M+B breakfast first asif eat 2-13 6) - Module 7",
+        "legacy_video_id": 1940,
+        "updated_at": 20150425141905,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

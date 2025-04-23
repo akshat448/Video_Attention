@@ -1,0 +1,77 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7646e13dfd851a57ec",
+                        "audio_description": "58e7cf3646e13dfd851a2634",
+                        "created_at": 20160425154923,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160425154923,
+                        "file_name": "14616245630111.wav",
+                        "start_time": 36.634,
+                        "legacy_video_id": 2545,
+                        "legacy_user_id": 3114,
+                        "label": "",
+                        "legacy_audio_clip_id": 22641,
+                        "video": "58e7cf2946e13dfd851a1e04",
+                        "end_time": 36.634,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2633",
+                        "transcript": []
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a2634",
+                "status": "published",
+                "legacy_video_id": 2545,
+                "legacy_user_id": 3114,
+                "video": "58e7cf2946e13dfd851a1e04",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2633",
+                    "name": "Carol215",
+                    "google_user_id_token": "",
+                    "created_at": 20160425080824,
+                    "updated_at": 20160425155002,
+                    "legacy_user_id": 3114,
+                    "last_login": 0,
+                    "email": "carol_dendena@hotmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Flashdance (Film)",
+            "Music (TV Genre)",
+            "Dance (Interest)"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e04",
+        "description": "",
+        "youtube_id": "VzALZjoIx0g",
+        "views": 0,
+        "created_at": 20160425154340,
+        "title": "Flashdance - Final Dance / What A Feeling (1983)",
+        "legacy_video_id": 2545,
+        "updated_at": 20160425154923,
+        "youtube_status": "available",
+        "category": "Music",
+        "category_id": "10",
+        "duration": 304
+    }
+}

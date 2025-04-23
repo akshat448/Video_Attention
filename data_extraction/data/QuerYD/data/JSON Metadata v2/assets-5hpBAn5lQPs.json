@@ -1,0 +1,190 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5a93",
+                        "audio_description": "58e7cf3646e13dfd851a2642",
+                        "created_at": 20160727115924,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160727115924,
+                        "file_name": "14696459648811.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2630,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23714,
+                        "video": "58e7cf2946e13dfd851a1e59",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44230ba888c4bc7acb6092",
+                                "sentence": " White text on a black background that reads physical support and need for rest.",
+                                "start_time": 0.18,
+                                "end_time": 5.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5a94",
+                        "audio_description": "58e7cf3646e13dfd851a2642",
+                        "created_at": 20160727120435,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160727120435,
+                        "file_name": "14696462755821.wav",
+                        "start_time": 6.875,
+                        "legacy_video_id": 2630,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23715,
+                        "video": "58e7cf2946e13dfd851a1e59",
+                        "end_time": 6.875,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 28.13,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e4429a9a888c4bc7acb620c",
+                                "sentence": " The screen changes to an image, the images of a young male student sitting in a supportive wheelchair.",
+                                "start_time": 0.18,
+                                "end_time": 6.66
+                            },
+                            {
+                                "_id": "5e4429a9a888c4bc7acb620b",
+                                "sentence": " He is hardest in with strap, starting on each side of his shoulders, coming down into a y that buckles between his legs.",
+                                "start_time": 6.66,
+                                "end_time": 13.76
+                            },
+                            {
+                                "_id": "5e4429a9a888c4bc7acb620a",
+                                "sentence": " The student is leaning slightly to his right in the chair",
+                                "start_time": 13.76,
+                                "end_time": 16.86
+                            },
+                            {
+                                "_id": "5e4429a9a888c4bc7acb6209",
+                                "sentence": " and appears to be in motion.",
+                                "start_time": 16.86,
+                                "end_time": 18.55
+                            },
+                            {
+                                "_id": "5e4429a9a888c4bc7acb6208",
+                                "sentence": " He is holding a piece of paper with artwork on the front.",
+                                "start_time": 19.28,
+                                "end_time": 22.49
+                            },
+                            {
+                                "_id": "5e4429a9a888c4bc7acb6207",
+                                "sentence": " The Top left of the image, white text reads positioning is.",
+                                "start_time": 22.66,
+                                "end_time": 27.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5a95",
+                        "audio_description": "58e7cf3646e13dfd851a2642",
+                        "created_at": 20160727123320,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160727123320,
+                        "file_name": "14696480001291.wav",
+                        "start_time": 41.26,
+                        "legacy_video_id": 2630,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23719,
+                        "video": "58e7cf2946e13dfd851a1e59",
+                        "end_time": 41.26,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 21.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e442700c26fa0bc796fd41f",
+                                "sentence": " The screen changes to a new image,",
+                                "start_time": 0.18,
+                                "end_time": 2.45
+                            },
+                            {
+                                "_id": "5e442700c26fa0bc796fd41e",
+                                "sentence": " the images of two students, christian and another student whose face is blurred.",
+                                "start_time": 2.45,
+                                "end_time": 6.9
+                            },
+                            {
+                                "_id": "5e442700c26fa0bc796fd41d",
+                                "sentence": " The two students are sitting on a blue blanket leaning on large bean bag chairs.",
+                                "start_time": 6.9,
+                                "end_time": 12.12
+                            },
+                            {
+                                "_id": "5e442700c26fa0bc796fd41c",
+                                "sentence": " Christian is looking at what the other student is doing on a mobile device.",
+                                "start_time": 12.27,
+                                "end_time": 16.08
+                            },
+                            {
+                                "_id": "5e442700c26fa0bc796fd41b",
+                                "sentence": " In the Top left of the screen. White text reads time to relax.",
+                                "start_time": 16.6,
+                                "end_time": 20.96
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a2642",
+                "status": "published",
+                "legacy_video_id": 2630,
+                "legacy_user_id": 3125,
+                "video": "58e7cf2946e13dfd851a1e59",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2637",
+                    "name": "Jhogan13",
+                    "google_user_id_token": "",
+                    "created_at": 20160504150811,
+                    "updated_at": 20160817114117,
+                    "legacy_user_id": 3125,
+                    "last_login": 0,
+                    "email": "Jhogan13@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e59",
+        "description": "",
+        "youtube_id": "5hpBAn5lQPs",
+        "views": 0,
+        "created_at": 20160727115604,
+        "title": "Physical Support and Need for Rest",
+        "legacy_video_id": 2630,
+        "updated_at": 20160727123320,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 58
+    }
+}

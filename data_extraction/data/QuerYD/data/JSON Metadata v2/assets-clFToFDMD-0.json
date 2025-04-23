@@ -1,0 +1,98 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6146e13dfd851a4786",
+                        "audio_description": "58e7cf3046e13dfd851a23b3",
+                        "created_at": 20150916180023,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150916180023,
+                        "file_name": "14424516233321.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2178,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15646,
+                        "video": "58e7cf2946e13dfd851a1c95",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 22.76,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba0ac648ec0da79cd685",
+                                "sentence": " White letters on a red background read oh ryan katie and the mark arena.",
+                                "start_time": 0.66,
+                                "end_time": 6.65
+                            },
+                            {
+                                "_id": "5e3aba0ac648ec0da79cd684",
+                                "sentence": " Orion. A young toddler lays on his back next to a radio player listening to music.",
+                                "start_time": 6.65,
+                                "end_time": 12.97
+                            },
+                            {
+                                "_id": "5e3aba0ac648ec0da79cd683",
+                                "sentence": " He giggles and waves his arms.",
+                                "start_time": 13.04,
+                                "end_time": 15.32
+                            },
+                            {
+                                "_id": "5e3aba0ac648ec0da79cd682",
+                                "sentence": " You can only see his face, arms and torso. But his body is moving in a way that suggest he is kicking his feet.",
+                                "start_time": 15.32,
+                                "end_time": 22.67
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a23b3",
+                "status": "published",
+                "legacy_video_id": 2178,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c95",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c95",
+        "description": "",
+        "youtube_id": "clFToFDMD-0",
+        "views": 0,
+        "created_at": 20150916175924,
+        "title": "Max V&H #3 CI Macarena",
+        "legacy_video_id": 2178,
+        "updated_at": 20150916180023,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 17
+    }
+}

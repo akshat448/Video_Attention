@@ -1,0 +1,696 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5cde3071cea0571c3785c585",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "A man steps into a city square full of pokemon and people",
+                        "playback_type": "inline",
+                        "start_time": 0.48522,
+                        "end_time": 4.57193201814059,
+                        "duration": 4.08671201814059,
+                        "file_name": "1roy4o4tqQM_5cde3071cea0571c3785c585.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517035425,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5195950a396d3b41d13fc8",
+                                "sentence": " A man steps into a city square full of people and pokemon.",
+                                "start_time": 0.22,
+                                "end_time": 3.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde30b1cea0571c3785c588",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The man is walking down an alley",
+                        "playback_type": "inline",
+                        "start_time": 11.74753125,
+                        "end_time": 14.255286352040816,
+                        "duration": 2.507755102040816,
+                        "file_name": "1roy4o4tqQM_5cde30b1cea0571c3785c588.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517035529,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a5302972a33b4413f226",
+                                "sentence": " The man is walking down an alley.",
+                                "start_time": 0.14,
+                                "end_time": 2.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde30d0abc2b679a39ddad4",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then he is looking around a house",
+                        "playback_type": "inline",
+                        "start_time": 15.874379,
+                        "end_time": 19.12517265079365,
+                        "duration": 3.250793650793651,
+                        "file_name": "1roy4o4tqQM_5cde30d0abc2b679a39ddad4.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517035600,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a4392972a33b4413f171",
+                                "sentence": " Then he is looking around the house.",
+                                "start_time": 0.26,
+                                "end_time": 2.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde30f8abc2b679a39ddad5",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "He walks up the stairs and walks into a room",
+                        "playback_type": "inline",
+                        "start_time": 23.819731,
+                        "end_time": 27.163404469387757,
+                        "duration": 3.3436734693877552,
+                        "file_name": "1roy4o4tqQM_5cde30f8abc2b679a39ddad5.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517035640,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a43a2972a33b4413f1d7",
+                                "sentence": " He walks up the stairs and walks into a room.",
+                                "start_time": 0.29,
+                                "end_time": 2.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde3128cea0571c3785c589",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "He sits on his bed and looks at a train ticket",
+                        "playback_type": "inline",
+                        "start_time": 30.988854,
+                        "end_time": 34.88980638095238,
+                        "duration": 3.900952380952381,
+                        "file_name": "1roy4o4tqQM_5cde3128cea0571c3785c589.wav",
+                        "file_size_bytes": 688172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517035728,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a4392972a33b4413f16b",
+                                "sentence": " He sits on his bed and looks at a train ticket.",
+                                "start_time": 0.18,
+                                "end_time": 3.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde3148cea0571c3785c58a",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then a noise comes from the living room",
+                        "playback_type": "inline",
+                        "start_time": 35.70328125,
+                        "end_time": 39.418473993764174,
+                        "duration": 3.7151927437641725,
+                        "file_name": "1roy4o4tqQM_5cde3148cea0571c3785c58a.wav",
+                        "file_size_bytes": 655404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517035800,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a43a2972a33b4413f1ef",
+                                "sentence": " Then the noise comes from the living room.",
+                                "start_time": 1.2,
+                                "end_time": 3.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde316aabc2b679a39ddad6",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "He walks into the room with a stapler in his hand",
+                        "playback_type": "inline",
+                        "start_time": 40.77084375,
+                        "end_time": 44.207397037981856,
+                        "duration": 3.436553287981859,
+                        "file_name": "1roy4o4tqQM_5cde316aabc2b679a39ddad6.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517035834,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a43a2972a33b4413f1a2",
+                                "sentence": " He walks into the room with the stapler in his hand.",
+                                "start_time": 0.31,
+                                "end_time": 3.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde3213cea0571c3785c58b",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "A pikachu appears and starts talking to him",
+                        "playback_type": "inline",
+                        "start_time": 44.226,
+                        "end_time": 47.66255328798186,
+                        "duration": 3.436553287981859,
+                        "file_name": "1roy4o4tqQM_5cde3213cea0571c3785c58b.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040123,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a4392972a33b4413f191",
+                                "sentence": " A picture appears and starts talking to him.",
+                                "start_time": 0.3,
+                                "end_time": 3.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde3232cea0571c3785c58c",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Based on the worldwide phenomenon",
+                        "playback_type": "inline",
+                        "start_time": 55.97353125,
+                        "end_time": 58.38840653344671,
+                        "duration": 2.414875283446712,
+                        "file_name": "1roy4o4tqQM_5cde3232cea0571c3785c58c.wav",
+                        "file_size_bytes": 426028,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040154,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a43a2972a33b4413f1d1",
+                                "sentence": " Based on the worldwide phenomenon.",
+                                "start_time": 0.21,
+                                "end_time": 2.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde324eabc2b679a39ddad7",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The two start talking to each other",
+                        "playback_type": "inline",
+                        "start_time": 58.57696875,
+                        "end_time": 61.27048348922902,
+                        "duration": 2.693514739229025,
+                        "file_name": "1roy4o4tqQM_5cde324eabc2b679a39ddad7.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040222,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a4aee00e753b4338c154",
+                                "sentence": " The To start talking to each other.",
+                                "start_time": 0.18,
+                                "end_time": 2.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde327ecea0571c3785c58d",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Pikachu and the man are walking through a street market",
+                        "playback_type": "inline",
+                        "start_time": 65.64796875,
+                        "end_time": 69.27028167517007,
+                        "duration": 3.622312925170068,
+                        "file_name": "1roy4o4tqQM_5cde327ecea0571c3785c58d.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040310,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5195950a396d3b41d13f94",
+                                "sentence": " Pick at you in the manner walking through a street market.",
+                                "start_time": 0.18,
+                                "end_time": 3.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde3295cea0571c3785c58e",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Next summer",
+                        "playback_type": "inline",
+                        "start_time": 77.587678,
+                        "end_time": 80.28119273922903,
+                        "duration": 2.693514739229025,
+                        "file_name": "1roy4o4tqQM_5cde3295cea0571c3785c58e.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040333,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a4392972a33b4413f18c",
+                                "sentence": " Next summer.",
+                                "start_time": 0.09,
+                                "end_time": 1.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde32b8abc2b679a39ddad8",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The two are sitting on the edge of a fountain",
+                        "playback_type": "inline",
+                        "start_time": 79.889654,
+                        "end_time": 82.95468801360543,
+                        "duration": 3.0650340136054424,
+                        "file_name": "1roy4o4tqQM_5cde32b8abc2b679a39ddad8.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040408,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a43a2972a33b4413f1cd",
+                                "sentence": " The two were sitting on the edge of a fountain.",
+                                "start_time": 0.16,
+                                "end_time": 2.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde32d6abc2b679a39ddad9",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "A car explodes in a ditch, and a man crawls out",
+                        "playback_type": "inline",
+                        "start_time": 82.92375,
+                        "end_time": 86.26742346938775,
+                        "duration": 3.3436734693877552,
+                        "file_name": "1roy4o4tqQM_5cde32d6abc2b679a39ddad9.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040438,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a43a2972a33b4413f1ad",
+                                "sentence": " The car explodes in a diginin. A man crawls out.",
+                                "start_time": 0.17,
+                                "end_time": 2.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde32eacea0571c3785c58f",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Partner up",
+                        "playback_type": "inline",
+                        "start_time": 90.467169,
+                        "end_time": 92.23188555328798,
+                        "duration": 1.7647165532879818,
+                        "file_name": "1roy4o4tqQM_5cde32eacea0571c3785c58f.wav",
+                        "file_size_bytes": 311340,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040458,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a4392972a33b4413f194",
+                                "sentence": " Partner up.",
+                                "start_time": 0.24,
+                                "end_time": 1.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde32fcabc2b679a39ddada",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "With a legend",
+                        "playback_type": "inline",
+                        "start_time": 94.961335,
+                        "end_time": 96.72605155328799,
+                        "duration": 1.7647165532879818,
+                        "file_name": "1roy4o4tqQM_5cde32fcabc2b679a39ddada.wav",
+                        "file_size_bytes": 311340,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040516,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a43a2972a33b4413f1b9",
+                                "sentence": " What the Legend.",
+                                "start_time": 0.18,
+                                "end_time": 1.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde331ccea0571c3785c590",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "A dragon like pokemon roars",
+                        "playback_type": "inline",
+                        "start_time": 96.84,
+                        "end_time": 99.34775510204082,
+                        "duration": 2.507755102040816,
+                        "file_name": "1roy4o4tqQM_5cde331ccea0571c3785c590.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040548,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a43a2972a33b4413f1d8",
+                                "sentence": " A dragon like pokemon roars.",
+                                "start_time": 0.14,
+                                "end_time": 2.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde3342abc2b679a39ddadb",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Two people and two pokemon are in a car ",
+                        "playback_type": "inline",
+                        "start_time": 99.232319,
+                        "end_time": 102.76175210657597,
+                        "duration": 3.5294331065759637,
+                        "file_name": "1roy4o4tqQM_5cde3342abc2b679a39ddadb.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040626,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a4392972a33b4413f18d",
+                                "sentence": " Two people and two pokemon are in a car.",
+                                "start_time": 0.26,
+                                "end_time": 3.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde335dcea0571c3785c591",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then a mountain starts rising",
+                        "playback_type": "inline",
+                        "start_time": 103.724977,
+                        "end_time": 106.41849173922903,
+                        "duration": 2.693514739229025,
+                        "file_name": "1roy4o4tqQM_5cde335dcea0571c3785c591.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040653,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a4aee00e753b4338c149",
+                                "sentence": " Then a mountain starts rising.",
+                                "start_time": 0.2,
+                                "end_time": 2.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde3379cea0571c3785c592",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The pikachu and the man question a miming pokemon",
+                        "playback_type": "inline",
+                        "start_time": 108.49190625,
+                        "end_time": 113.04301736111111,
+                        "duration": 4.551111111111111,
+                        "file_name": "1roy4o4tqQM_5cde3379cea0571c3785c592.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040721,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a4392972a33b4413f16d",
+                                "sentence": " The picket you and the man questioner, my ming pokemon.",
+                                "start_time": 0.25,
+                                "end_time": 3.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde33a6abc2b679a39ddadc",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then they try to understand the mime's gestures",
+                        "playback_type": "inline",
+                        "start_time": 112.599401,
+                        "end_time": 116.12883410657597,
+                        "duration": 3.5294331065759637,
+                        "file_name": "1roy4o4tqQM_5cde33a6abc2b679a39ddadc.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040806,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a4392972a33b4413f184",
+                                "sentence": " Then they try to understand the mines gestures.",
+                                "start_time": 0.16,
+                                "end_time": 3.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde33c2cea0571c3785c593",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Ryan Reynolds",
+                        "playback_type": "inline",
+                        "start_time": 129.492209,
+                        "end_time": 131.3498053718821,
+                        "duration": 1.8575963718820863,
+                        "file_name": "1roy4o4tqQM_5cde33c2cea0571c3785c593.wav",
+                        "file_size_bytes": 327724,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040834,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a43a2972a33b4413f1bc",
+                                "sentence": " Ryan reynolds.",
+                                "start_time": 0.19,
+                                "end_time": 1.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde33dfcea0571c3785c594",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Justice Smith",
+                        "playback_type": "inline",
+                        "start_time": 132.749122,
+                        "end_time": 134.6995981904762,
+                        "duration": 1.9504761904761905,
+                        "file_name": "1roy4o4tqQM_5cde33dfcea0571c3785c594.wav",
+                        "file_size_bytes": 344108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040903,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a43a2972a33b4413f1c5",
+                                "sentence": " Justice Smith.",
+                                "start_time": 0.2,
+                                "end_time": 1.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde33f5cea0571c3785c595",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Pokemon Detective Pikachu",
+                        "playback_type": "inline",
+                        "start_time": 135.559735,
+                        "end_time": 137.8817304648526,
+                        "duration": 2.3219954648526078,
+                        "file_name": "1roy4o4tqQM_5cde33f5cea0571c3785c595.wav",
+                        "file_size_bytes": 409644,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040925,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a43a2972a33b4413f1c6",
+                                "sentence": " Pokemon detective peek at you.",
+                                "start_time": 0.13,
+                                "end_time": 2.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cde340dcea0571c3785c596",
+                        "video": "5cde3071cea0571c3785c587",
+                        "audio_description": "5cde3071cea0571c3785c586",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "2019",
+                        "playback_type": "inline",
+                        "start_time": 138.43659375000001,
+                        "end_time": 139.92267084750569,
+                        "duration": 1.486077097505669,
+                        "file_name": "1roy4o4tqQM_5cde340dcea0571c3785c596.wav",
+                        "file_size_bytes": 262188,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1roy4o4tqQM",
+                        "created_at": 20190517040949,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a4392972a33b4413f198",
+                                "sentence": " 2019.",
+                                "start_time": 0.23,
+                                "end_time": 1.44
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5cde3071cea0571c3785c586",
+                "video": "5cde3071cea0571c3785c587",
+                "user": {
+                    "opt_in": [
+                        0
+                    ],
+                    "_id": "5c43eb250071d10d8574936c",
+                    "email": "seanh1676@gmail.com",
+                    "name": "Sean Hwang",
+                    "given_name": "Sean",
+                    "picture": "https://lh5.googleusercontent.com/-3t0rHGVtzlU/AAAAAAAAAAI/AAAAAAAAAWc/QffWEYVSbsg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "103945623025669520348",
+                    "last_login": 20210117002400,
+                    "token": "2b511cff582c3b0319f4bf43c425d55637503fe891ee1dcb3884fb0ce5651906",
+                    "__v": 0,
+                    "updated_at": 20210117002400,
+                    "policy_review": "reviewed"
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190517035425,
+                "updated_at": 20190517035425,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "POK\u00c9MON Detective Pikachu",
+            "Pikachu",
+            "POK\u00c9MON",
+            "Detective Pikachu",
+            "Rob Letterman",
+            "ryan reynolds",
+            "harry goodman",
+            "justice smith",
+            "kathryn newton",
+            "ken watanabe",
+            "TOHO",
+            "Legendary",
+            "Warner Bros.",
+            "Warner Bros. Pictures",
+            "WB"
+        ],
+        "custom_tags": [],
+        "_id": "5cde3071cea0571c3785c587",
+        "title": "POK\u00c9MON Detective Pikachu - Official Trailer #1",
+        "description": "POK\u00c9MON Detective Pikachu - In Theaters May 10, 2019\nhttp://www.detectivepikachumovie.com/\nhttps://www.facebook.com/detectivepikachumovie/\nhttps://twitter.com/DetPikachuMovie \nhttps://www.instagram.com/detectivepikachumovie/\n\nThe world of Pok\u00e9mon comes to life!\n\nThe first-ever live-action Pok\u00e9mon movie, \u201cPOK\u00c9MON Detective Pikachu\u201d stars Ryan Reynolds as the titular character in the first-ever live-action movie based on the iconic face of the global Pok\u00e9mon brand\u2014one of the world\u2019s most popular, multi-generation entertainment properties and most successful media franchises of all time.\n\nFans everywhere can now experience Pikachu on the big screen as never before, as a talking detective Pikachu, a Pok\u00e9mon like no other. The film also showcases a wide array of beloved Pok\u00e9mon characters, each with its own unique abilities and personality.\n\nThe story begins when ace private eye Harry Goodman goes mysteriously missing, prompting his 21-year-old son Tim to find out what happened. Aiding in the investigation is Harry\u2019s former Pok\u00e9mon partner, Detective Pikachu: a hilariously wise-cracking, adorable super-sleuth who is a puzzlement even to himself. Finding that they are uniquely equipped to communicate with one another, Tim and Pikachu join forces on a thrilling adventure to unravel the tangled mystery. Chasing clues together through the neon-lit streets of Ryme City\u2014a sprawling, modern metropolis where humans and Pok\u00e9mon live side by side in a hyper-realistic live-action world\u2014they encounter a diverse cast of Pok\u00e9mon characters and uncover a shocking plot that could destroy this peaceful co-existence and threaten the whole Pok\u00e9mon universe.\n\n\u201cPOK\u00c9MON Detective Pikachu\u201d also stars Justice Smith (\u201cJurassic World: Fallen Kingdom\u201d) as Tim; Kathryn Newton (\u201cLady Bird,\u201d TV\u2019s \u201cBig Little Lies\u201d) as Lucy, a junior reporter following her first big story; and Oscar nominee Ken Watanabe (\u201cGodzilla,\u201d \u201cThe Last Samurai\u201d) as Lt. Yoshida.\n\nDirected by Rob Letterman (\u201cGoosebumps,\u201d \u201cMonsters Vs. Aliens\u201d), the \u201cPOK\u00c9MON Detective Pikachu\u201d creative filmmaking team includes two-time Oscar nominated director of photography John Mathieson (\u201cThe Phantom of the Opera,\u201d \u201cGladiator\u201d), production designer Nigel Phelps (\u201cPirates of the Caribbean: Dead Men Tell No Lies\u201d) and Oscar-winning editor Mark Sanger (\u201cGravity\u201d). Visual effects are by Moving Picture Company (\u201cWonder Woman\u201d) and Framestore (\u201cGuardians of the Galaxy Vol. 2\u201d).\n\nLaunched in 1996 to overwhelming response, the Pok\u00e9mon brand is a global sensation that now encompasses a robust video gaming fandom with over 300 million units sold worldwide; the Pok\u00e9mon Trading Card Game available in 11 languages with more than 23.6 billion cards shipped; an animated television series in its 21st season that is available in more than 160 countries; and over 20 animated films; as well as books, manga comics, music, toys, merchandise, and apps, including the wildly popular Pok\u00e9mon GO, that has been downloaded over 850 million times and is enjoyed across the globe by fans of all ages.\n\n\u201cPOK\u00c9MON Detective Pikachu\u201d is set for release on Friday, May 10, 2019.\n\nThe film will be distributed outside of Japan and China by Warner Bros. Pictures, in Japan by Toho Company, Ltd. and by Legendary East in China.",
+        "youtube_id": "1roy4o4tqQM",
+        "created_at": 20190517035425,
+        "updated_at": 20190517040949,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 142
+    }
+}

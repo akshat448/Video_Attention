@@ -1,0 +1,171 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4446e13dfd851a2f42",
+                        "audio_description": "58e7cf2d46e13dfd851a21a9",
+                        "created_at": 20140515070103,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140515070103,
+                        "file_name": "14001624632271.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1503,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 6532,
+                        "video": "58e7cf2846e13dfd851a19f3",
+                        "end_time": 11.51,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e211d0c65f1f371b11fec0e",
+                                "sentence": " Rowan atkinson live",
+                                "start_time": 0.73,
+                                "end_time": 2.96
+                            },
+                            {
+                                "_id": "5e211d0c65f1f371b11fec0d",
+                                "sentence": " wearing a white cassock, and violet stole a dark haired priest with thick eyebrows, descends a staircase, and steps up to elect and.",
+                                "start_time": 2.96,
+                                "end_time": 10.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4446e13dfd851a2f43",
+                        "audio_description": "58e7cf2d46e13dfd851a21a9",
+                        "created_at": 20140515070251,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140515070251,
+                        "file_name": "14001625713511.wav",
+                        "start_time": 58.031,
+                        "legacy_video_id": 1503,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 6533,
+                        "video": "58e7cf2846e13dfd851a19f3",
+                        "end_time": 62.381,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e211d0c65f1f371b11fec47",
+                                "sentence": " He looks down and checks his open bible.",
+                                "start_time": 0.59,
+                                "end_time": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4446e13dfd851a2f44",
+                        "audio_description": "58e7cf2d46e13dfd851a21a9",
+                        "created_at": 20140515070445,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140515070445,
+                        "file_name": "14001626858721.wav",
+                        "start_time": 259.422,
+                        "legacy_video_id": 1503,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 6535,
+                        "video": "58e7cf2846e13dfd851a19f3",
+                        "end_time": 262.492,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e211f8683aed771afad1f7a",
+                                "sentence": " He steps away from the lectern.",
+                                "start_time": 0.36,
+                                "end_time": 2.62
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21a9",
+                "status": "published",
+                "legacy_video_id": 1503,
+                "legacy_user_id": 114,
+                "video": "58e7cf2846e13dfd851a19f3",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21a7",
+                    "name": "DoubleJ",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20170119065431,
+                    "legacy_user_id": 114,
+                    "last_login": 0,
+                    "email": "heydoublej@yahoo.ca",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "rowan",
+            "atkinson",
+            "stand",
+            "up",
+            "comedy",
+            "funny",
+            "mr",
+            "bean",
+            "mr.",
+            "mr.bean",
+            "silly",
+            "comico",
+            "cartoon",
+            "angus",
+            "deayton",
+            "live",
+            "blackadder",
+            "black",
+            "adder",
+            "fatal",
+            "beatings",
+            "not",
+            "the",
+            "nine",
+            "clock",
+            "news",
+            "johnny",
+            "english"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a19f3",
+        "description": "",
+        "youtube_id": "KN-8G0HCD5U",
+        "views": 0,
+        "created_at": 20140515065917,
+        "title": "Rowan Atkinson Live - Amazing Jesus",
+        "legacy_video_id": 1503,
+        "updated_at": 20140515070504,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 267
+    }
+}

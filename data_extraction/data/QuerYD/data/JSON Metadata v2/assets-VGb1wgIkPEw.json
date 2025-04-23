@@ -1,0 +1,83 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59c2e4bec6c4802622d9c1f3",
+                        "video": "59c2e48ac6c4802622d9c1f0",
+                        "audio_description": "59c2e48ac6c4802622d9c1ef",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 5.758548752834467,
+                        "duration": 5.758548752834467,
+                        "file_name": "VGb1wgIkPEw_59c2e4bec6c4802622d9c1f3.wav",
+                        "file_size_bytes": 1015852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/VGb1wgIkPEw",
+                        "created_at": 20170920215926,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf1f9733cf21629dfafbb7",
+                                "sentence": " A red pump, a fire truck with lights and sirens speeds through a highway.",
+                                "start_time": 0.33,
+                                "end_time": 4.85
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59c2e48ac6c4802622d9c1ef",
+                "video": "59c2e48ac6c4802622d9c1f0",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "59c25b2ec6c4802622d9c1bf",
+                    "email": "rgman1995@gmail.com",
+                    "name": "Ryan G",
+                    "given_name": "Ryan",
+                    "picture": "https://lh3.googleusercontent.com/-NxEEiJBaock/AAAAAAAAAAI/AAAAAAAAAc0/5fcpjk_lXKY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113561788356507984833",
+                    "last_login": 20201230202355,
+                    "token": "27b561de1a2557461b6807ff8a71622302ac468380f084bd313e4b4fc0a8dc39",
+                    "__v": 0,
+                    "updated_at": 20201230202355,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170920215834,
+                "updated_at": 20170920215834,
+                "notes": "A red pumper fire truck with lights and sirens speeds through a highway.",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "seagrave engine pierce"
+        ],
+        "custom_tags": [],
+        "_id": "59c2e48ac6c4802622d9c1f0",
+        "title": "Paramus NJ Engine 3 On Da Way",
+        "description": "on da way to a mva on gsp north",
+        "youtube_id": "VGb1wgIkPEw",
+        "created_at": 20170920215834,
+        "updated_at": 20170920215926,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Autos & Vehicles",
+        "category_id": "2",
+        "duration": 12
+    }
+}

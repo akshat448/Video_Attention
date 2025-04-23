@@ -1,0 +1,215 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59e3b6372a385d33db80b893",
+                        "video": "59e3aaca448667706e51f51a",
+                        "audio_description": "59e3aaca448667706e51f519",
+                        "user": "59dd8bfc7586ec6e91e1a345",
+                        "label": "charlie eats a pickle",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 19.783401360544218,
+                        "duration": 19.783401360544218,
+                        "file_name": "UlgYIQrcYnQ_59e3b6372a385d33db80b893.wav",
+                        "file_size_bytes": 3489836,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UlgYIQrcYnQ",
+                        "created_at": 20171015192543,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf808856b06d1d1c9bb446",
+                                "sentence": " At a table fingers dig many pickle from jar and fetor off screen mouth",
+                                "start_time": 0.21,
+                                "end_time": 3.86
+                            },
+                            {
+                                "_id": "5dcf808856b06d1d1c9bb445",
+                                "sentence": " look up to see charlie a venus flytrap across from e to",
+                                "start_time": 3.87,
+                                "end_time": 6.75
+                            },
+                            {
+                                "_id": "5dcf808856b06d1d1c9bb444",
+                                "sentence": " fingers dig remaining pickle from jah",
+                                "start_time": 7.36,
+                                "end_time": 9.87
+                            },
+                            {
+                                "_id": "5dcf808856b06d1d1c9bb443",
+                                "sentence": " fingers. Place pickle in charlie's mouth,",
+                                "start_time": 12.51,
+                                "end_time": 15.22
+                            },
+                            {
+                                "_id": "5dcf808856b06d1d1c9bb442",
+                                "sentence": " close up charlie's mouth, holding pickle.",
+                                "start_time": 16.63,
+                                "end_time": 19.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59e3b6642a385d33db80b894",
+                        "video": "59e3aaca448667706e51f51a",
+                        "audio_description": "59e3aaca448667706e51f519",
+                        "user": "59dd8bfc7586ec6e91e1a345",
+                        "label": "final screen",
+                        "playback_type": "extended",
+                        "start_time": 21.083054,
+                        "end_time": 21.083054,
+                        "duration": 22.19827664399093,
+                        "file_name": "UlgYIQrcYnQ_59e3b6642a385d33db80b894.wav",
+                        "file_size_bytes": 3915820,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UlgYIQrcYnQ",
+                        "created_at": 20171015192628,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf808856b06d1d1c9bb46c",
+                                "sentence": " Final screen",
+                                "start_time": 0.89,
+                                "end_time": 2.23
+                            },
+                            {
+                                "_id": "5dcf808856b06d1d1c9bb46b",
+                                "sentence": " text reads",
+                                "start_time": 2.25,
+                                "end_time": 3.29
+                            },
+                            {
+                                "_id": "5dcf808856b06d1d1c9bb46a",
+                                "sentence": " want to see more of charlie youtube dot com forward slash clean. IT",
+                                "start_time": 3.3,
+                                "end_time": 8.12
+                            },
+                            {
+                                "_id": "5dcf808856b06d1d1c9bb469",
+                                "sentence": " spelled k l u in a t I k",
+                                "start_time": 8.14,
+                                "end_time": 12.64
+                            },
+                            {
+                                "_id": "5dcf808856b06d1d1c9bb468",
+                                "sentence": " underneath three text buttons read at center left previous film",
+                                "start_time": 12.74,
+                                "end_time": 17.52
+                            },
+                            {
+                                "_id": "5dcf808856b06d1d1c9bb467",
+                                "sentence": " at center. Subscribe.",
+                                "start_time": 17.54,
+                                "end_time": 19.52
+                            },
+                            {
+                                "_id": "5dcf808856b06d1d1c9bb466",
+                                "sentence": " It sent her right next film.",
+                                "start_time": 19.54,
+                                "end_time": 21.77
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59e3aaca448667706e51f519",
+                "video": "59e3aaca448667706e51f51a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59dd8bfc7586ec6e91e1a345",
+                    "email": "bridget@bridgetmelton.com",
+                    "name": "Bridget Melton",
+                    "given_name": "Bridget",
+                    "picture": "https://lh4.googleusercontent.com/-yQlMmiTRQGI/AAAAAAAAAAI/AAAAAAAAAAA/ACnBePYHMHDlabv7-OmkgyhO1ShLnmyMUA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "100305027576007817691",
+                    "last_login": 20200426192646,
+                    "token": "7e5b1e7430f08f14281c17473b35158c770734ffc4b3707483fc58d67a0d2d7a",
+                    "__v": 0,
+                    "updated_at": 20200426192646,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20171015183658,
+                "updated_at": 20190102160422,
+                "notes": "at a table, fingers dig mini pickle from jar and feed off screen mouth\r\n\r\nlook up to see \"charlie\" a venus fly trap across from eater\r\n\r\nfingers dig remaining pickle from jar\r\n\r\nfingers place pickle in Charlie's mouth\r\n\r\nclose up Charlie's mouth holding pickle\r\n\r\nfinal screen - text \"want to see more of Charlie?\r\nyoutube.comFORWARDSLASHklunatik spelled k-l-u-n-a-t-i-k\r\nunderneath 3 text buttons read - \r\nat center left \"previous film\" \r\nat center \"subscribe\" \r\nat center right \"next film\"",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "charlie",
+            "bit",
+            "me",
+            "finger",
+            "plant",
+            "Carnivorous Plant (Informal Biological Grouping)",
+            "carnivore",
+            "insectivorous",
+            "darwin",
+            "nutrients",
+            "insects",
+            "weird",
+            "freak",
+            "funny",
+            "humor",
+            "trap",
+            "caught",
+            "catch",
+            "mouth",
+            "close",
+            "dionaea muscipula",
+            "dionaea",
+            "muscipula",
+            "triggered",
+            "trigger",
+            "venus flytrap",
+            "flytrap",
+            "snap",
+            "pain",
+            "experiment",
+            "healthy",
+            "strange",
+            "eating",
+            "chew",
+            "meat",
+            "hungry",
+            "teeth",
+            "lunch",
+            "dinner",
+            "feeding",
+            "bird",
+            "eats",
+            "Kluna",
+            "Kluna Tik",
+            "Tik",
+            "Klunatik",
+            "pickles",
+            "sour"
+        ],
+        "custom_tags": [],
+        "_id": "59e3aaca448667706e51f51a",
+        "title": "Eating Pickles with Charlie the Venus Flytrap",
+        "description": "Click here to SUBSCRIBE: http://goo.gl/n63S8O\r\nBusiness enquiries: charlietheflytrap@gmail.com\r\nFollow me:\r\nFacebook: https://www.facebook.com/klunatik\r\nTwitter: https://twitter.com/klunatikk\r\n\r\nEating Pickles with Charlie the Venus Fly trap.\r\n\r\n\r\n\r\n\r\n\r\nFleischfressende Pflanze Venus Fliegenfalle\r\n\ub178\ubc14\uc758 muscipula   \uc2dd\ucda9 \uc2dd\ubb3c \uae08\uc131 \ud30c\ub9ac\ud1b5\r\nPlante carnivore Dion\u00e9e\r\nEtobur bitki Ven\u00fcs flytrap \r\nVleesetende plant augurk\r\nC\u00e2y \u0102n Th\u1ecbt C\u00e2y \u0103n th\u1ecbt Venus c\u1eeda m\u00e1y bay\r\nPianta carnivora",
+        "youtube_id": "UlgYIQrcYnQ",
+        "created_at": 20171015183658,
+        "updated_at": 20171015192628,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 26
+    }
+}

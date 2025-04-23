@@ -1,0 +1,182 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4246e13dfd851a2d38",
+                        "audio_description": "58e7cf2b46e13dfd851a20e7",
+                        "created_at": 20131212144630,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131212144630,
+                        "file_name": "1386888389984.wav",
+                        "start_time": 18.696,
+                        "legacy_video_id": 1382,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 5433,
+                        "video": "58e7cf2846e13dfd851a1986",
+                        "end_time": 18.696,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1fbe8baaa5bd7f76220b1c",
+                                "sentence": " Less stalker is president of braille institute of America.",
+                                "start_time": 0,
+                                "end_time": 4.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4246e13dfd851a2d39",
+                        "audio_description": "58e7cf2b46e13dfd851a20e7",
+                        "created_at": 20131212144756,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131212144756,
+                        "file_name": "1386888476432.wav",
+                        "start_time": 33.052,
+                        "legacy_video_id": 1382,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 5434,
+                        "video": "58e7cf2846e13dfd851a1986",
+                        "end_time": 33.052,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1fc1938520e28db1de2320",
+                                "sentence": " A time to reflect and to count our blessings. Members of the braille institute community share some of theirs.",
+                                "start_time": 0,
+                                "end_time": 8.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4246e13dfd851a2d3a",
+                        "audio_description": "58e7cf2b46e13dfd851a20e7",
+                        "created_at": 20131212144945,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131212144945,
+                        "file_name": "1386888585484.wav",
+                        "start_time": 180.817,
+                        "legacy_video_id": 1382,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 5435,
+                        "video": "58e7cf2846e13dfd851a1986",
+                        "end_time": 180.817,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1fc1928520e28db1de2264",
+                                "sentence": " There are many blessings at braille institute. We see a montage of smiling faces, musical programs",
+                                "start_time": 0,
+                                "end_time": 7.83
+                            },
+                            {
+                                "_id": "5e1fc1928520e28db1de2263",
+                                "sentence": " and happy winners celebrated at the braille Challenge awards banquet.",
+                                "start_time": 7.83,
+                                "end_time": 12.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4246e13dfd851a2d3b",
+                        "audio_description": "58e7cf2b46e13dfd851a20e7",
+                        "created_at": 20131212150239,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131212150239,
+                        "file_name": "1386889359735.wav",
+                        "start_time": 227.445,
+                        "legacy_video_id": 1382,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 5441,
+                        "video": "58e7cf2846e13dfd851a1986",
+                        "end_time": 227.445,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1fc1928520e28db1de2258",
+                                "sentence": " We are truly grateful for you. Thank you. And happy holidays from braille institute",
+                                "start_time": 0,
+                                "end_time": 7.59
+                            },
+                            {
+                                "_id": "5e1fc1928520e28db1de2257",
+                                "sentence": " empowering visually impaired people to live fulfilling lives.",
+                                "start_time": 7.59,
+                                "end_time": 12.44
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20e7",
+                "status": "published",
+                "legacy_video_id": 1382,
+                "legacy_user_id": 88,
+                "video": "58e7cf2846e13dfd851a1986",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20d1",
+                    "name": "jimhull",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20151217172851,
+                    "legacy_user_id": 88,
+                    "last_login": 0,
+                    "email": "jimhull@jimhull.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "braille institute",
+            "blind services",
+            "blindness",
+            "blind",
+            "Christmas"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1986",
+        "description": "",
+        "youtube_id": "6xm6Qkk6Rk0",
+        "views": 0,
+        "created_at": 20131212143846,
+        "title": "2013 Season's Greetings from the Braille Institute Family.",
+        "legacy_video_id": 1382,
+        "updated_at": 20140121122305,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 244
+    }
+}

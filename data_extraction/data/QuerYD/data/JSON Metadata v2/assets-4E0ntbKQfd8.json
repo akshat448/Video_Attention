@@ -1,0 +1,84 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59b88a63c6c4802622d9c099",
+                        "video": "59b8888cc6c4802622d9c094",
+                        "audio_description": "59b8888cc6c4802622d9c093",
+                        "user": "59b868bbc6c4802622d9c070",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 18.94748299319728,
+                        "file_name": "4E0ntbKQfd8_59b88a63c6c4802622d9c099.wav",
+                        "file_size_bytes": 3342380,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4E0ntbKQfd8",
+                        "created_at": 20170913013115,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf18e5a984c8455b871b24",
+                                "sentence": " Bar graph showing employment rates of fifty point two percent for disabled americans and eighty four point four percent for non disabled americans in nineteen ninety one",
+                                "start_time": 0.51,
+                                "end_time": 10.14
+                            },
+                            {
+                                "_id": "5dcf18e5a984c8455b871b23",
+                                "sentence": " and forty one point one percent for disabled americans and seventy nine point one percent for non disabled americans in two thousand ten.",
+                                "start_time": 10.44,
+                                "end_time": 18.72
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59b8888cc6c4802622d9c093",
+                "video": "59b8888cc6c4802622d9c094",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59b868bbc6c4802622d9c070",
+                    "email": "zalskv@gmail.com",
+                    "name": "Vicky Ye",
+                    "given_name": "Vicky",
+                    "picture": "https://lh3.googleusercontent.com/-FvXuEYKTMfU/AAAAAAAAAAI/AAAAAAAAAAA/APJypA3x8sBg1KtYGuPTCp3KdJ5Iv-Jsiw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "103812677942622015481",
+                    "last_login": 20170913012613,
+                    "token": "8d5825ee2d616bf418770387b19f7e8f9051442d02f9140ce1e43fb6dd69d69d",
+                    "__v": 0,
+                    "updated_at": 20170913012613,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170913012324,
+                "updated_at": 20170913012324,
+                "notes": "bar graph showing employment rates of 50.2% for disabled americans and 84.4% for non-disabled americans in 1991, and 41.1% for disabled americans and 79.1% for non-disabled americans in 2010.",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59b8888cc6c4802622d9c094",
+        "title": "Employment for Disabled and Non-Disabled Americans",
+        "description": "",
+        "youtube_id": "4E0ntbKQfd8",
+        "created_at": 20170913012324,
+        "updated_at": 20170913013115,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

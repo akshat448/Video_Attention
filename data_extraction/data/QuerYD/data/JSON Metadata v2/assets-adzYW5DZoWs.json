@@ -1,0 +1,590 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5cc7119656b7f3071f306168",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "lightsaber",
+                        "playback_type": "inline",
+                        "start_time": 21.520443,
+                        "end_time": 24.251109666666668,
+                        "duration": 2.7306666666666666,
+                        "file_name": "adzYW5DZoWs_5cc7119656b7f3071f306168.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429150038,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380773b595d544c54eb2fa",
+                                "sentence": " She pulls her light saber handle from her belt.",
+                                "start_time": 0.08,
+                                "end_time": 2.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc711b556b7f3071f306169",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "vehicle",
+                        "playback_type": "inline",
+                        "start_time": 29.214211,
+                        "end_time": 33.310210999999995,
+                        "duration": 4.096,
+                        "file_name": "adzYW5DZoWs_5cc711b556b7f3071f306169.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429150109,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380773b595d544c54eb2fd",
+                                "sentence": " A vehicle appears on the horizon, flashing in the sun as it flies towards her.",
+                                "start_time": 0.2,
+                                "end_time": 4.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc7120b56b7f3071f30616b",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "interceptor",
+                        "playback_type": "inline",
+                        "start_time": 48.076059,
+                        "end_time": 53.36672566666667,
+                        "duration": 5.290666666666667,
+                        "file_name": "adzYW5DZoWs_5cc7120b56b7f3071f30616b.wav",
+                        "file_size_bytes": 1015852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429150235,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e38063c3dc38044c4916e18",
+                                "sentence": " A first order tie interceptor is flying low over the sand, raising clouds of dust in its wake.",
+                                "start_time": 0.08,
+                                "end_time": 5.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc7122a56b7f3071f30616c",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "crouch",
+                        "playback_type": "inline",
+                        "start_time": 54.766035,
+                        "end_time": 58.94736833333334,
+                        "duration": 4.181333333333333,
+                        "file_name": "adzYW5DZoWs_5cc7122a56b7f3071f30616c.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429150306,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e38081254595844c39af654",
+                                "sentence": " Ray activates her light saber and spins down to a crouch facing away from the vehicle.",
+                                "start_time": 0.16,
+                                "end_time": 4.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc712be1dcc0c08bd68b311",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "aerial",
+                        "playback_type": "inline",
+                        "start_time": 67.315531,
+                        "end_time": 72.52086433333332,
+                        "duration": 5.205333333333333,
+                        "file_name": "adzYW5DZoWs_5cc712be1dcc0c08bd68b311.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429150534,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e38081254595844c39af659",
+                                "sentence": " Just before it would hit her, she leaps into the air, kicking her legs over head, and us an aerial cartwheel above it.",
+                                "start_time": 0.21,
+                                "end_time": 5.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc712e91dcc0c08bd68b312",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "text Xmas",
+                        "playback_type": "inline",
+                        "start_time": 72.631065,
+                        "end_time": 74.59373166666667,
+                        "duration": 1.9626666666666666,
+                        "file_name": "adzYW5DZoWs_5cc712e91dcc0c08bd68b312.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429150617,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380771b595d544c54eb25b",
+                                "sentence": " Text this Christmas.",
+                                "start_time": 0.12,
+                                "end_time": 1.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc713381dcc0c08bd68b314",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "kylo",
+                        "playback_type": "inline",
+                        "start_time": 74.73373958333333,
+                        "end_time": 79.00040625,
+                        "duration": 4.266666666666667,
+                        "file_name": "adzYW5DZoWs_5cc713381dcc0c08bd68b314.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429150736,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380771b595d544c54eb25f",
+                                "sentence": " In a forest. Carlo ren uses his red light sapa to take down a rebel fighter.",
+                                "start_time": 0,
+                                "end_time": 4.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc7139056b7f3071f30616e",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "helmet",
+                        "playback_type": "inline",
+                        "start_time": 79.334131,
+                        "end_time": 81.97946433333334,
+                        "duration": 2.6453333333333333,
+                        "file_name": "adzYW5DZoWs_5cc7139056b7f3071f30616e.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429150904,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380772b595d544c54eb2b9",
+                                "sentence": " Sparks fly as a black helmet is repaired.",
+                                "start_time": 0.07,
+                                "end_time": 2.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc7140156b7f3071f30616f",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "tex",
+                        "playback_type": "inline",
+                        "start_time": 87.887692,
+                        "end_time": 90.53302533333334,
+                        "duration": 2.6453333333333333,
+                        "file_name": "adzYW5DZoWs_5cc7140156b7f3071f30616f.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429151057,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e38081154595844c39af63e",
+                                "sentence": " Text, the sega comes to an end.",
+                                "start_time": 0.24,
+                                "end_time": 2.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc714711dcc0c08bd68b317",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "skiff",
+                        "playback_type": "inline",
+                        "start_time": 90.68284,
+                        "end_time": 94.77884,
+                        "duration": 4.096,
+                        "file_name": "adzYW5DZoWs_5cc714711dcc0c08bd68b317.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429151249,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e38081154595844c39af63b",
+                                "sentence": " Flying a sense give at high speeds, 3 c p o finn and poe dodge explosion.",
+                                "start_time": 0.1,
+                                "end_time": 4.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc7154356b7f3071f306172",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "hug",
+                        "playback_type": "inline",
+                        "start_time": 94.88429166666667,
+                        "end_time": 96.84695833333333,
+                        "duration": 1.9626666666666666,
+                        "file_name": "adzYW5DZoWs_5cc7154356b7f3071f306172.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429151619,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380771b595d544c54eb25d",
+                                "sentence": " Senator organa hugs ray.",
+                                "start_time": 0,
+                                "end_time": 1.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc7156c56b7f3071f306173",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "death star",
+                        "playback_type": "inline",
+                        "start_time": 97.984766,
+                        "end_time": 101.73943266666666,
+                        "duration": 3.7546666666666666,
+                        "file_name": "adzYW5DZoWs_5cc7156c56b7f3071f306173.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429151700,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380772b595d544c54eb2c6",
+                                "sentence": " Means ran. Her companions stared over the wreckage of a crash death star.",
+                                "start_time": 0,
+                                "end_time": 3.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc715d31dcc0c08bd68b31b",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "december",
+                        "playback_type": "inline",
+                        "start_time": 120.535435,
+                        "end_time": 122.24210166666667,
+                        "duration": 1.7066666666666668,
+                        "file_name": "adzYW5DZoWs_5cc715d31dcc0c08bd68b31b.wav",
+                        "file_size_bytes": 327724,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429151843,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380772b595d544c54eb26c",
+                                "sentence": " December,",
+                                "start_time": 0.36,
+                                "end_time": 1.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc7172756b7f3071f306176",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "sprint",
+                        "playback_type": "inline",
+                        "start_time": 59.245343,
+                        "end_time": 63.512009666666664,
+                        "duration": 4.266666666666667,
+                        "file_name": "adzYW5DZoWs_5cc7172756b7f3071f306176.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429152423,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e38081254595844c39af66a",
+                                "sentence": " Love hands push forward on controls, rate glances behind her and starts to sprint.",
+                                "start_time": 0.12,
+                                "end_time": 4.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc7182656b7f3071f306177",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "logo",
+                        "playback_type": "inline",
+                        "start_time": 2.483413,
+                        "end_time": 5.982079666666667,
+                        "duration": 3.498666666666667,
+                        "file_name": "adzYW5DZoWs_5cc7182656b7f3071f306177.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429152838,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e3808ee2e8d9f44c62be557",
+                                "sentence": " A silver logo is illuminated. Lucasfilm limited.",
+                                "start_time": 0.08,
+                                "end_time": 3.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc718751dcc0c08bd68b31e",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "text legend",
+                        "playback_type": "inline",
+                        "start_time": 35.626321,
+                        "end_time": 38.86898766666666,
+                        "duration": 3.2426666666666666,
+                        "file_name": "adzYW5DZoWs_5cc718751dcc0c08bd68b31e.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429152957,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380772b595d544c54eb269",
+                                "sentence": " Text on screen. Every generation has a Legend.",
+                                "start_time": 0.16,
+                                "end_time": 3.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc718bd56b7f3071f306178",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "gains",
+                        "playback_type": "inline",
+                        "start_time": 64.73038541666666,
+                        "end_time": 66.52238541666667,
+                        "duration": 1.792,
+                        "file_name": "adzYW5DZoWs_5cc718bd56b7f3071f306178.wav",
+                        "file_size_bytes": 344108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429153109,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e38063c3dc38044c4916dfb",
+                                "sentence": " Retire interceptor gains on her.",
+                                "start_time": 0,
+                                "end_time": 1.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc719041dcc0c08bd68b31f",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "black",
+                        "playback_type": "inline",
+                        "start_time": 105.786175,
+                        "end_time": 107.40750833333334,
+                        "duration": 1.6213333333333333,
+                        "file_name": "adzYW5DZoWs_5cc719041dcc0c08bd68b31f.wav",
+                        "file_size_bytes": 311340,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429153220,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380773b595d544c54eb2fe",
+                                "sentence": " Black screen.",
+                                "start_time": 0.17,
+                                "end_time": 1.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc7194356b7f3071f306179",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "title",
+                        "playback_type": "inline",
+                        "start_time": 112.669068,
+                        "end_time": 118.557068,
+                        "duration": 5.888,
+                        "file_name": "adzYW5DZoWs_5cc7194356b7f3071f306179.wav",
+                        "file_size_bytes": 1130540,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190429153323,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380773b595d544c54eb300",
+                                "sentence": " Over a night sky full of stars in blue outline star wars, the rise of sky walker,",
+                                "start_time": 0.2,
+                                "end_time": 5.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc861b356b7f3071f30619f",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "desert",
+                        "playback_type": "inline",
+                        "start_time": 10.654380208333334,
+                        "end_time": 15.347713541666668,
+                        "duration": 4.693333333333333,
+                        "file_name": "adzYW5DZoWs_5cc861b356b7f3071f30619f.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190430145443,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380772b595d544c54eb2b1",
+                                "sentence": " Ray stands alone in the middle of a sandy desert, staring into the distance.",
+                                "start_time": 0.2,
+                                "end_time": 4.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cc8629256b7f3071f3061a1",
+                        "video": "5cc6615b56b7f3071f306163",
+                        "audio_description": "5cc6615b56b7f3071f306162",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "falcon",
+                        "playback_type": "inline",
+                        "start_time": 82.070701,
+                        "end_time": 86.84936766666667,
+                        "duration": 4.778666666666667,
+                        "file_name": "adzYW5DZoWs_5cc8629256b7f3071f3061a1.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/adzYW5DZoWs",
+                        "created_at": 20190430145826,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e380772b595d544c54eb2af",
+                                "sentence": " Shoe parker and lando hurdles. Her space in the millennium falcon, they enter hyperspace.",
+                                "start_time": 0.11,
+                                "end_time": 4.74
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5cc6615b56b7f3071f306162",
+                "video": "5cc6615b56b7f3071f306163",
+                "user": {
+                    "opt_in": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "_id": "5be84e71adab15594f5695b8",
+                    "email": "melissa@abroomandaspoon.com",
+                    "name": "Melissa Hope",
+                    "given_name": "Melissa",
+                    "picture": "https://lh3.googleusercontent.com/-NH6cVqfO3mo/AAAAAAAAAAI/AAAAAAAAADM/KtvGqtns5s4/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102733358263403136327",
+                    "last_login": 20210110191137,
+                    "token": "662d89f15386822578295ff1017613bfa533e569f8448b7bdb9fed407ec5baee",
+                    "__v": 0,
+                    "updated_at": 20210110191137,
+                    "policy_review": "reviewed"
+                },
+                "status": "published",
+                "language": "en-ca",
+                "created_at": 20190429022843,
+                "updated_at": 20190501180945,
+                "notes": "00:00:02:48 A silver logo is illuminated: Lucasfilm Ltd.\n\n00:00:10:65 Rey stands alone in the middle of a sandy desert, staring into the distance.\n\n[We've passed on all we know.]\n\n00:00:21:52 She pulls her light saber handle from her belt.\n\n[A thousand generations live in you now.]\n\n00:00:29:21 A vehicle appears on the horizon, flashing in the sun as it flies towards her.\n\n[But this is your fight.]\n\n00:00:35:62 Text on screen: Every generation has a legend.\n\n00:00:48:07 A first order tie interceptor is flying low over the sand, raising clouds of dust in its wake.\n\n00:00:54:76 Rey activates her light saber and spins down to a crouch facing away from the vehicle.\n\n00:00:59:24 Gloved hands push forward on controls. Rey glances behind her and then starts to sprint.\n\n00:01:04:73 The tie interceptor gains on her.\n\n00:01:07:31 Just before it would hit her, she leaps into the air, kicking her legs over her head, and does an aerial cartwheel above it.\n\n00:01:12:63 Text: This Christmas.\n\n00:01:14:73 In a forest, Kylo Ren uses his red light saber to take down a rebel fighter.\n\n00:01:19:33 Sparks fly as a black helmet is repaired.\n\n00:01:22:07 Chewbacca and Lando hurtle through space in the Millennium Falcon. They enter hyperspace.\n\n00:01:27:88 Text: The saga comes to an end.\n\n00:01:30:68 Flying a sand skiff at high speeds, 3CPO, Finn, and Poe dodge explosions.\n\n00:01:34:88 Senator Organa hugs Rey.\n\n[We'll always be with you.]\n\n00:01:37:98 Rey and her companions stare out over the wreckage of a crashed Death Star.\n\n[No one's ever really gone.]\n\n00:01:45:78 Black screen.\n\n[Emperor's chuckle.]\n\n00:01:52:66 Over a night sky full of stars in blue outline: Star Wars. The rise of Skywalker. \n\n00:02:00:53 December.\n",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Star Wars",
+            "Lucasfilm",
+            "Star Wars: Episode IX",
+            "JJ Abrams"
+        ],
+        "custom_tags": [],
+        "_id": "5cc6615b56b7f3071f306163",
+        "title": "Star Wars: The Rise of Skywalker \u2013 Teaser",
+        "description": "Every generation has a legend. Watch the brand-new teaser for Star Wars: The Rise of Skywalker.",
+        "youtube_id": "adzYW5DZoWs",
+        "created_at": 20190429022843,
+        "updated_at": 20190430145826,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 124
+    }
+}

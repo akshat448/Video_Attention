@@ -1,0 +1,176 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59232ac82805421bd3af59bf",
+                        "video": "59232ac82805421bd3af59c1",
+                        "audio_description": "59232ac82805421bd3af59c0",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "Bert and ernie in the boat",
+                        "playback_type": "extended",
+                        "start_time": 6.345043043869018,
+                        "end_time": 6.345043043869018,
+                        "duration": 13.374693877551021,
+                        "file_name": "cUusX1Js6R0_59232ac82805421bd3af59bf.wav",
+                        "file_size_bytes": 2359340,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cUusX1Js6R0",
+                        "created_at": 20170522181536,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e21249e97555271ae44f5e1",
+                                "sentence": " Ernie, a light brown puppet in a blue and red striped t shirt and a canvas fishing hat, sits in a small rowboat on a lake with bert,",
+                                "start_time": 0.76,
+                                "end_time": 7.77
+                            },
+                            {
+                                "_id": "5e21249e97555271ae44f5e0",
+                                "sentence": " a light yellow puppet with a brown and yellow striped v neck shirt. Bert holds a fishing rod.",
+                                "start_time": 7.77,
+                                "end_time": 12.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59232b832805421bd3af59c3",
+                        "video": "59232ac82805421bd3af59c1",
+                        "audio_description": "59232ac82805421bd3af59c0",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "silver fish",
+                        "playback_type": "inline",
+                        "start_time": 69.24244590272522,
+                        "end_time": 71.84308082336014,
+                        "duration": 2.6006349206349206,
+                        "file_name": "cUusX1Js6R0_59232b832805421bd3af59c3.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cUusX1Js6R0",
+                        "created_at": 20170522181843,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13211631e8ea08fddf94c4",
+                                "sentence": " A silver fish lands in the boat.",
+                                "start_time": 0.27,
+                                "end_time": 2.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59232d382805421bd3af59c6",
+                        "video": "59232ac82805421bd3af59c1",
+                        "audio_description": "59232ac82805421bd3af59c0",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "shark",
+                        "playback_type": "extended",
+                        "start_time": 152.81947809346008,
+                        "end_time": 152.81947809346008,
+                        "duration": 5.201269841269841,
+                        "file_name": "cUusX1Js6R0_59232d382805421bd3af59c6.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cUusX1Js6R0",
+                        "created_at": 20170522182600,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13211731e8ea08fddf94d7",
+                                "sentence": " A large gray shark with many teeth lands in the boat.",
+                                "start_time": 0.71,
+                                "end_time": 4.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59232d692805421bd3af59c7",
+                        "video": "59232ac82805421bd3af59c1",
+                        "audio_description": "59232ac82805421bd3af59c0",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "bert faints",
+                        "playback_type": "inline",
+                        "start_time": 159.21298497901915,
+                        "end_time": 161.16346116949535,
+                        "duration": 1.9504761904761905,
+                        "file_name": "cUusX1Js6R0_59232d692805421bd3af59c7.wav",
+                        "file_size_bytes": 344108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cUusX1Js6R0",
+                        "created_at": 20170522182649,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13208439953108ba5413bd",
+                                "sentence": " Bert faints.",
+                                "start_time": 0.32,
+                                "end_time": 1.66
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59232ac82805421bd3af59c0",
+                "video": "59232ac82805421bd3af59c1",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "591ccdc32805421bd3af5910",
+                    "email": "charitypc@gmail.com",
+                    "name": "Charity Pitcher-Cooper",
+                    "given_name": "Charity",
+                    "picture": "https://lh5.googleusercontent.com/-QWgHIV6dqG4/AAAAAAAAAAI/AAAAAAAAA8k/zbElaAqZIsY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102960542363040396571",
+                    "last_login": 20210122172832,
+                    "token": "3d49b4ee09a7b279fbc2705b8e6dd7c75ec919e82a13d07eb1c9925ff7849cf2",
+                    "__v": 0,
+                    "updated_at": 20210122172832,
+                    "policy_review": "reviewed",
+                    "admin": 1
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170522181536,
+                "updated_at": 20170527020350,
+                "notes": "Ernie, a light brown puppet in a blue and red striped tshirt and a canvas fishing hat sits in a small rowboat on a lake with Bert, a light yellow puppet with a brown and yellow striped vneck shirt. Bert holds a fishing rod. \r\n\r\nA small silver fish lands in the boat.\r\n\r\na large grey shark with many teeth lands in the boat.\r\n\r\nBert faints.",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 10,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "sesame",
+            "street",
+            "muppets",
+            "fish",
+            "call",
+            "fishing",
+            "bert",
+            "ernie",
+            "counting"
+        ],
+        "custom_tags": [],
+        "_id": "59232ac82805421bd3af59c1",
+        "title": "Sesame Street: Bert and Ernie Fish Call",
+        "description": "If you're watching videos with your preschooler and would like to do so in a safe, child-friendly environment, please join us at http://www.sesamestreet.org\r\n\r\nBert and Ernie call fish into their boat.\r\n\r\nSesame Street is a production of Sesame Workshop, a nonprofit educational organization which also produces Pinky Dinky Doo, The Electric Company, and other programs for children around the world.",
+        "youtube_id": "cUusX1Js6R0",
+        "created_at": 20170522181536,
+        "updated_at": 20190812230231,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 167
+    }
+}

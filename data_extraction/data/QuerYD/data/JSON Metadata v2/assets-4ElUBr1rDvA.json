@@ -1,0 +1,76 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ea1ae66dec72478910124da",
+                        "video": "5ea1ae0fdec72478910124d9",
+                        "audio_description": "5ea1ae0fdec72478910124d8",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "title",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 11.178666666666667,
+                        "file_name": "4ElUBr1rDvA_5ea1ae66dec72478910124da.wav",
+                        "file_size_bytes": 2146348,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4ElUBr1rDvA",
+                        "created_at": 20200423150406,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5ea1ae0fdec72478910124d8",
+                "video": "5ea1ae0fdec72478910124d9",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e9f7a4d84f1bb7886752425",
+                    "email": "chhsad201@gmail.com",
+                    "name": "CHHS AD201",
+                    "given_name": "CHHS",
+                    "picture": "https://lh5.googleusercontent.com/-JpwQdP332ew/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOjaGw_XfdNe6Y3TML0kj8gdNHJZA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111438173098375409345",
+                    "last_login": 20201014163508,
+                    "token": "8b25ee0df1dcdee4a1c94ede45a3e8475678aa3b10c76fbf6ea8097a75608fa7",
+                    "__v": 0,
+                    "updated_at": 20201014163508,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200423150239,
+                "updated_at": 20200423150239,
+                "notes": "Legacies 2015\nGrant Sherwood\nAssistant Vice President in charge of the Wellness Cluster (Health Center, Counseling, and Student Recreation)\n\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Colorado State University",
+            "College of Health and Human Sciences",
+            "Grant Sherwood",
+            "Legacies Project"
+        ],
+        "custom_tags": [],
+        "_id": "5ea1ae0fdec72478910124d9",
+        "title": "Grant Sherwood: CSU College of Health and Human Sciences Legacies Honoree",
+        "description": "The College of Health and Human Sciences Legacies Project at Colorado State University recognizes emeriti and retirees who have substantially contributed to building the College. In 2015, four individuals joined the prior 16 participants in the Legacies Project. Consisting of videotaped interviews and biographical information, the project seeks to honor the commitment of our dedicated faculty and staff and to preserve their legacy and achievements.\n\nVisit the Legacies Project at: www.legacies.chhs.colostate.edu \n\nFor more videos about CSU, check out Colorado State University's YouTube channel at http://www.youtube.com/coloradostateuniv",
+        "youtube_id": "4ElUBr1rDvA",
+        "created_at": 20200423150239,
+        "updated_at": 20200423150406,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 3262
+    }
+}

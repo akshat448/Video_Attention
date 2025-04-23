@@ -1,0 +1,175 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59b9f630c6c4802622d9c123",
+                        "video": "59b9f462c6c4802622d9c122",
+                        "audio_description": "59b9f462c6c4802622d9c121",
+                        "user": "59b77136c6c4802622d9c069",
+                        "label": "track1",
+                        "playback_type": "extended",
+                        "start_time": 5.851428,
+                        "end_time": 5.851428,
+                        "duration": 30.1859410430839,
+                        "file_name": "9aPWrYklb4w_59b9f630c6c4802622d9c123.wav",
+                        "file_size_bytes": 5324844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9aPWrYklb4w",
+                        "created_at": 20170914032328,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175ab17b5156f523f99c6c",
+                                "sentence": " The employment rate for the disability",
+                                "start_time": 0.87,
+                                "end_time": 3.6
+                            },
+                            {
+                                "_id": "5e175ab17b5156f523f99c6b",
+                                "sentence": " in 1991",
+                                "start_time": 3.96,
+                                "end_time": 5.78
+                            },
+                            {
+                                "_id": "5e175ab17b5156f523f99c6a",
+                                "sentence": " was fifteen 50.2%",
+                                "start_time": 5.78,
+                                "end_time": 8.97
+                            },
+                            {
+                                "_id": "5e175ab17b5156f523f99c69",
+                                "sentence": " and had fallen down to 41.1% in 2010,",
+                                "start_time": 9.37,
+                                "end_time": 14.35
+                            },
+                            {
+                                "_id": "5e175ab17b5156f523f99c68",
+                                "sentence": " whereas the employment rate for",
+                                "start_time": 14.53,
+                                "end_time": 17.18
+                            },
+                            {
+                                "_id": "5e175ab17b5156f523f99c67",
+                                "sentence": " and non disabled",
+                                "start_time": 17.18,
+                                "end_time": 18.49
+                            },
+                            {
+                                "_id": "5e175ab17b5156f523f99c66",
+                                "sentence": " well",
+                                "start_time": 18.56,
+                                "end_time": 19.35
+                            },
+                            {
+                                "_id": "5e175ab17b5156f523f99c65",
+                                "sentence": " was at",
+                                "start_time": 19.4,
+                                "end_time": 20.89
+                            },
+                            {
+                                "_id": "5e175ab17b5156f523f99c64",
+                                "sentence": " 84.4% at 1991 and had",
+                                "start_time": 21.11,
+                                "end_time": 25.18
+                            },
+                            {
+                                "_id": "5e175ab17b5156f523f99c63",
+                                "sentence": " felt in",
+                                "start_time": 25.18,
+                                "end_time": 26.31
+                            },
+                            {
+                                "_id": "5e175ab17b5156f523f99c62",
+                                "sentence": " only 79.1%.",
+                                "start_time": 26.31,
+                                "end_time": 28.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59b9f718c6c4802622d9c127",
+                        "video": "59b9f462c6c4802622d9c122",
+                        "audio_description": "59b9f462c6c4802622d9c121",
+                        "user": "59b77136c6c4802622d9c069",
+                        "label": "disability rate",
+                        "playback_type": "extended",
+                        "start_time": 14.05801,
+                        "end_time": 14.05801,
+                        "duration": 14.675011337868481,
+                        "file_name": "9aPWrYklb4w_59b9f718c6c4802622d9c127.wav",
+                        "file_size_bytes": 2588716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9aPWrYklb4w",
+                        "created_at": 20170914032720,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175c3b8dfd97fc62593f24",
+                                "sentence": " The graph seem to indicate that the rate of the disability",
+                                "start_time": 0.35,
+                                "end_time": 4.23
+                            },
+                            {
+                                "_id": "5e175c3b8dfd97fc62593f23",
+                                "sentence": " is almost as half the rate of the non disability",
+                                "start_time": 4.46,
+                                "end_time": 8.86
+                            },
+                            {
+                                "_id": "5e175c3b8dfd97fc62593f22",
+                                "sentence": " up to employment rate.",
+                                "start_time": 8.87,
+                                "end_time": 10.69
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59b9f462c6c4802622d9c121",
+                "video": "59b9f462c6c4802622d9c122",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59b77136c6c4802622d9c069",
+                    "email": "wngh203@gmail.com",
+                    "name": "Ju Ho Yoon",
+                    "given_name": "Ju Ho",
+                    "picture": "https://lh4.googleusercontent.com/-vl0lShnfNFc/AAAAAAAAAAI/AAAAAAAAAI8/FOCKdCROnvw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "105858536634072538811",
+                    "last_login": 20170914031131,
+                    "token": "122ffebafd05c7057167b1bc187103015ad8a8b6154534b3453fd9cb53fc9114",
+                    "__v": 0,
+                    "updated_at": 20170914031131,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170914031546,
+                "updated_at": 20170914031546,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59b9f462c6c4802622d9c122",
+        "title": "employment movie",
+        "description": "As you can see the employment rate for\r\nAmericans without disabilities it's much\r\nhigher than those with disabilities\r\nin general we have seen people with\r\ndisabilities employed at nearly half the\r\nrate of those without disabilities.",
+        "youtube_id": "9aPWrYklb4w",
+        "created_at": 20170914031546,
+        "updated_at": 20170914032720,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

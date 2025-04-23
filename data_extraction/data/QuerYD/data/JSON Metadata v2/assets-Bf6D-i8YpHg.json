@@ -1,0 +1,1118 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [],
+                "_id": "5bd7054713c80974c163c5d9",
+                "video": "5bd7054713c80974c163c5da",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bd7037644b0f3748fe83199",
+                    "email": "mustafaj2@montclair.edu",
+                    "name": "Josh Mustafa",
+                    "given_name": "Josh",
+                    "picture": "https://lh4.googleusercontent.com/-TXmacb8YWpE/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbAKFQqu_u8jyVwR0iNB9kvvAMJfuA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "114714175110805456552",
+                    "last_login": 20181029125622,
+                    "token": "655bf4841d9e16d8953cbcddd3c90ad049da9d7a03a7b8afd0405a2156247798",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20181029130407,
+                "updated_at": 20181029130407,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [],
+                "_id": "5bdf583844b0f3748fe8320c",
+                "video": "5bd7054713c80974c163c5da",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bdf37c044b0f3748fe8320b",
+                    "email": "pp1813@nyu.edu",
+                    "name": "Pamela Pan",
+                    "given_name": "Pamela",
+                    "picture": "https://lh3.googleusercontent.com/-1FjnU0zqT7Q/AAAAAAAAAAI/AAAAAAAAAGA/km_yGPAUL3c/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "100694808728478961002",
+                    "last_login": 20181114174353,
+                    "token": "e3634be5931084c07dae4d20aa4d65bf3687ba2b1d7f9587d7ad1ace42a98d8b",
+                    "__v": 0,
+                    "updated_at": 20181114174353,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "zh-cn",
+                "created_at": 20181104203608,
+                "updated_at": 20181104203608,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d32f59551c17b210eab2e4f",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 23.591473922902495,
+                        "duration": 23.591473922902495,
+                        "file_name": "Bf6D-i8YpHg_5d32f59551c17b210eab2e4f.wav",
+                        "file_size_bytes": 4161580,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720110557,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d76d0",
+                                "sentence": " Universal",
+                                "start_time": 0.46,
+                                "end_time": 1.61
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76cf",
+                                "sentence": " dark background. A minion lights his face with a flashlight,",
+                                "start_time": 1.61,
+                                "end_time": 4.98
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76ce",
+                                "sentence": " who drops a flashlight and runs away as a big sign that reads illumination drops",
+                                "start_time": 5.4,
+                                "end_time": 9.88
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76cd",
+                                "sentence": " the camera wonderstruck tunnel in a cave, which appears to be someone's house.",
+                                "start_time": 10.52,
+                                "end_time": 14.4
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76cc",
+                                "sentence": " The camera leads up to the stairs to a bedroom where grandeur sleeping and zooms at the big green alarm clock",
+                                "start_time": 14.69,
+                                "end_time": 20.98
+                            },
+                            {
+                                "_id": "5e1429e83b8b6114790d76cb",
+                                "sentence": " at 7 am 20 of December.",
+                                "start_time": 21.34,
+                                "end_time": 23.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32f60351c17b210eab2e50",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 23.935,
+                        "end_time": 33.31586167800454,
+                        "duration": 9.380861678004536,
+                        "file_name": "Bf6D-i8YpHg_5d32f60351c17b210eab2e50.wav",
+                        "file_size_bytes": 1654828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720110747,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2d57262f148c23c325",
+                                "sentence": " Grinch finds a book on his nightstand and throws it at the alarm clock.",
+                                "start_time": 0.29,
+                                "end_time": 4.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32f8629d41be1e9b2eb1b0",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 34.37818181818182,
+                        "end_time": 34.37818181818182,
+                        "duration": 5.108390022675737,
+                        "file_name": "Bf6D-i8YpHg_5d32f8629d41be1e9b2eb1b0.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720111754,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1428d8f8de4a147bbf1e08",
+                                "sentence": " He picks up a lamp and throws it at the alarm. Clock The alarm clock and the lamp fall down the crater.",
+                                "start_time": 0.01,
+                                "end_time": 4.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32f88b9d41be1e9b2eb1b1",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 41.517162,
+                        "end_time": 41.517162,
+                        "duration": 5.294149659863946,
+                        "file_name": "Bf6D-i8YpHg_5d32f88b9d41be1e9b2eb1b1.wav",
+                        "file_size_bytes": 933932,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720111835,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a30",
+                                "sentence": " Rapidly opens his eyes, frowns and puts his head on the pillow.",
+                                "start_time": 0.07,
+                                "end_time": 3.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32f8aa9d41be1e9b2eb1b2",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 46.6561038961039,
+                        "end_time": 46.6561038961039,
+                        "duration": 3.9938321995464854,
+                        "file_name": "Bf6D-i8YpHg_5d32f8aa9d41be1e9b2eb1b2.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720111906,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acd4a3b32147a98935f",
+                                "sentence": " From the creators of despicable me, the secret life of PETS and sing.",
+                                "start_time": 0.23,
+                                "end_time": 3.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32f97851c17b210eab2e55",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 50.33948051948052,
+                        "end_time": 50.33948051948052,
+                        "duration": 6.6873469387755105,
+                        "file_name": "Bf6D-i8YpHg_5d32f97851c17b210eab2e55.wav",
+                        "file_size_bytes": 1179692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720112232,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a1e",
+                                "sentence": " A bomb down wiggle says tale and runs to the coffee machine,",
+                                "start_time": 0.22,
+                                "end_time": 3.67
+                            },
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a1d",
+                                "sentence": " jumps in a plunger,",
+                                "start_time": 3.67,
+                                "end_time": 5.05
+                            },
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a1c",
+                                "sentence": " and coffee jetted a white cup.",
+                                "start_time": 5.05,
+                                "end_time": 6.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32fa959d41be1e9b2eb1b5",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 55.26454545454546,
+                        "end_time": 55.26454545454546,
+                        "duration": 4.08671201814059,
+                        "file_name": "Bf6D-i8YpHg_5d32fa959d41be1e9b2eb1b5.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720112717,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d7693",
+                                "sentence": " Grinch, it's upon his bed. And when he exhaled, his belly pops out.",
+                                "start_time": 0.2,
+                                "end_time": 4.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32faeb9d41be1e9b2eb1b6",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 60.161818181818184,
+                        "end_time": 60.161818181818184,
+                        "duration": 3.250793650793651,
+                        "file_name": "Bf6D-i8YpHg_5d32faeb9d41be1e9b2eb1b6.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720112843,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2e57262f148c23c371",
+                                "sentence": " Max person milk and makes a friendly face with the foam.",
+                                "start_time": 0.04,
+                                "end_time": 2.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32fb0151c17b210eab2e58",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 62.151505,
+                        "end_time": 62.151505,
+                        "duration": 2.2291156462585033,
+                        "file_name": "Bf6D-i8YpHg_5d32fb0151c17b210eab2e58.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720112905,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a98932f",
+                                "sentence": " Grand sight since crutches, his left shoulder.",
+                                "start_time": 0,
+                                "end_time": 2.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32fb469d41be1e9b2eb1b7",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 63.53824675324675,
+                        "end_time": 63.53824675324675,
+                        "duration": 8.266303854875284,
+                        "file_name": "Bf6D-i8YpHg_5d32fb469d41be1e9b2eb1b7.wav",
+                        "file_size_bytes": 1458220,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720113014,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a989316",
+                                "sentence": " Max box up to the elevator! Which tray attached to his helmet? He pulls a handle on the elevator, goes up, he exits from the left night stand and",
+                                "start_time": 0,
+                                "end_time": 7.42
+                            },
+                            {
+                                "_id": "5e142acc4a3b32147a989315",
+                                "sentence": " branches bedroom.",
+                                "start_time": 7.42,
+                                "end_time": 8.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32fb6c51c17b210eab2e5a",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 72.778884,
+                        "end_time": 72.778884,
+                        "duration": 2.972154195011338,
+                        "file_name": "Bf6D-i8YpHg_5d32fb6c51c17b210eab2e5a.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720113052,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a2e",
+                                "sentence": " Grant grabs his morning coffee drinks and and smacks his lips.",
+                                "start_time": 0,
+                                "end_time": 2.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32fbaf9d41be1e9b2eb1b8",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 75.50922077922078,
+                        "end_time": 75.50922077922078,
+                        "duration": 2.136235827664399,
+                        "file_name": "Bf6D-i8YpHg_5d32fbaf9d41be1e9b2eb1b8.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720113159,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2d57262f148c23c365",
+                                "sentence": " Max slides up at light, but been gracious class.",
+                                "start_time": 0,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32fc9d51c17b210eab2e5b",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 76.04396103896104,
+                        "end_time": 76.04396103896104,
+                        "duration": 4.458231292517007,
+                        "file_name": "Bf6D-i8YpHg_5d32fc9d51c17b210eab2e5b.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720113557,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1428d8f8de4a147bbf1e07",
+                                "sentence": " The hands grant his pants, which are labelled very miserable.",
+                                "start_time": 0.16,
+                                "end_time": 3.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32fcb89d41be1e9b2eb1bb",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 81.796254,
+                        "end_time": 83.18945127891156,
+                        "duration": 1.3931972789115645,
+                        "file_name": "Bf6D-i8YpHg_5d32fcb89d41be1e9b2eb1bb.wav",
+                        "file_size_bytes": 245804,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720113624,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e93b8b6114790d7703",
+                                "sentence": " This November.",
+                                "start_time": 0.16,
+                                "end_time": 1.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32fe2e9d41be1e9b2eb1bf",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 84.10376623376624,
+                        "end_time": 84.10376623376624,
+                        "duration": 4.922630385487528,
+                        "file_name": "Bf6D-i8YpHg_5d32fe2e9d41be1e9b2eb1bf.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720114238,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a989309",
+                                "sentence": " Grinch and max walk down the snowy path weight, which leads to winter wonder land.",
+                                "start_time": 0.2,
+                                "end_time": 4.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32feba9d41be1e9b2eb1c1",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 92.398614,
+                        "end_time": 92.398614,
+                        "duration": 4.922630385487528,
+                        "file_name": "Bf6D-i8YpHg_5d32feba9d41be1e9b2eb1c1.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720114458,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4bedd4c5147cbb9a3b",
+                                "sentence": " A short lately trace to reach a second to Top shelf for a jot with red chutney.",
+                                "start_time": 0.39,
+                                "end_time": 4.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32fee751c17b210eab2e5e",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 93.00525974025975,
+                        "end_time": 95.23437538651825,
+                        "duration": 2.2291156462585033,
+                        "file_name": "Bf6D-i8YpHg_5d32fee751c17b210eab2e5e.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720114543,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d768c",
+                                "sentence": " Grinch picks it up.",
+                                "start_time": 0.09,
+                                "end_time": 1.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32ff169d41be1e9b2eb1c2",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 97.785232,
+                        "end_time": 97.785232,
+                        "duration": 4.922630385487528,
+                        "file_name": "Bf6D-i8YpHg_5d32ff169d41be1e9b2eb1c2.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720114630,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2d57262f148c23c364",
+                                "sentence": " Grinch puts a job back on the shelf, walks away, and hits the shelf on purpose with his elbow.",
+                                "start_time": 0,
+                                "end_time": 4.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d32ff6851c17b210eab2e60",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 100.98590909090909,
+                        "end_time": 100.98590909090909,
+                        "duration": 4.179591836734694,
+                        "file_name": "Bf6D-i8YpHg_5d32ff6851c17b210eab2e60.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720114752,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acd4a3b32147a989352",
+                                "sentence": " The drop falls off and breaks. The lady looks at it with surprise.",
+                                "start_time": 0,
+                                "end_time": 3.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3300969d41be1e9b2eb1c5",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 103.043937,
+                        "end_time": 111.21736103628118,
+                        "duration": 8.17342403628118,
+                        "file_name": "Bf6D-i8YpHg_5d3300969d41be1e9b2eb1c5.wav",
+                        "file_size_bytes": 1441836,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720115254,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a98931c",
+                                "sentence": " Grinch seeks a dry with pickles from a customer's bad skit and opens the drug. He takes a pickle and puts it in his mouth gags and spits the pickle back into the jar.",
+                                "start_time": 0.04,
+                                "end_time": 8.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3300ac9d41be1e9b2eb1c6",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 111.23607,
+                        "end_time": 115.4156618367347,
+                        "duration": 4.179591836734694,
+                        "file_name": "Bf6D-i8YpHg_5d3300ac9d41be1e9b2eb1c6.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720115316,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a01",
+                                "sentence": " He puts a lid back on and places the jar into another customer's basket.",
+                                "start_time": 0.05,
+                                "end_time": 3.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3301239d41be1e9b2eb1c9",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 116.519875,
+                        "end_time": 116.519875,
+                        "duration": 7.058866213151927,
+                        "file_name": "Bf6D-i8YpHg_5d3301239d41be1e9b2eb1c9.wav",
+                        "file_size_bytes": 1245228,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720115515,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2d57262f148c23c318",
+                                "sentence": " A small man with a beard",
+                                "start_time": 0,
+                                "end_time": 1.69
+                            },
+                            {
+                                "_id": "5e142b2d57262f148c23c317",
+                                "sentence": " pushes a button. Christmas lights on a big house, turn on an inflatable Christmas decorations, rice one by one.",
+                                "start_time": 1.97,
+                                "end_time": 7.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3301399d41be1e9b2eb1ca",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 122.183335,
+                        "end_time": 122.183335,
+                        "duration": 6.03718820861678,
+                        "file_name": "Bf6D-i8YpHg_5d3301399d41be1e9b2eb1ca.wav",
+                        "file_size_bytes": 1065004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720115537,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1428d8f8de4a147bbf1dfd",
+                                "sentence": " The hand of an inflatable snowmen hits grinch in the face. He slides across the snow with his face down.",
+                                "start_time": 0.04,
+                                "end_time": 5.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d33015251c17b210eab2e65",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 124.510444,
+                        "end_time": 127.20395873922904,
+                        "duration": 2.693514739229025,
+                        "file_name": "Bf6D-i8YpHg_5d33015251c17b210eab2e65.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720115602,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d768e",
+                                "sentence": " You shake the snow off his face and makes an angry face.",
+                                "start_time": 0,
+                                "end_time": 2.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d33016851c17b210eab2e66",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 127.204375,
+                        "end_time": 127.204375,
+                        "duration": 6.873106575963718,
+                        "file_name": "Bf6D-i8YpHg_5d33016851c17b210eab2e66.wav",
+                        "file_size_bytes": 1212460,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720115624,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a989310",
+                                "sentence": " Grinch dressed in his rope, and max sit on a red sofa in a living room watching tv. A red bird sits on a branch outside the window.",
+                                "start_time": 0,
+                                "end_time": 6.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d33021b51c17b210eab2e68",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 128.757738,
+                        "end_time": 128.757738,
+                        "duration": 4.179591836734694,
+                        "file_name": "Bf6D-i8YpHg_5d33021b51c17b210eab2e68.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720115923,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a989301",
+                                "sentence": " Grage knocks on the window of his elbow. The blinds fall down.",
+                                "start_time": 0.17,
+                                "end_time": 3.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d33025351c17b210eab2e69",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 130.253548,
+                        "end_time": 130.253548,
+                        "duration": 3.5294331065759637,
+                        "file_name": "Bf6D-i8YpHg_5d33025351c17b210eab2e69.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720120019,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a49edd4c5147cbb99fc",
+                                "sentence": " The tv shows a man figure skating on winter olympics.",
+                                "start_time": 0,
+                                "end_time": 3.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d33027051c17b210eab2e6a",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 134.273009,
+                        "end_time": 134.273009,
+                        "duration": 2.8792743764172335,
+                        "file_name": "Bf6D-i8YpHg_5d33027051c17b210eab2e6a.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720120048,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2d57262f148c23c327",
+                                "sentence": " Grinch imagines he is on a nice ring.",
+                                "start_time": 0.23,
+                                "end_time": 2.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3302a151c17b210eab2e6b",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 135.596493,
+                        "end_time": 139.5903251995465,
+                        "duration": 3.9938321995464854,
+                        "file_name": "Bf6D-i8YpHg_5d3302a151c17b210eab2e6b.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720120137,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a989308",
+                                "sentence": " He takes up his rope and starts to dance in at green suit.",
+                                "start_time": 0.02,
+                                "end_time": 3.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3302d851c17b210eab2e6c",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 140.56136363636364,
+                        "end_time": 140.56136363636364,
+                        "duration": 8.730702947845804,
+                        "file_name": "Bf6D-i8YpHg_5d3302d851c17b210eab2e6c.wav",
+                        "file_size_bytes": 1540140,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720120232,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a0a",
+                                "sentence": " He gracefully skates backwards with one leg up,",
+                                "start_time": 0.13,
+                                "end_time": 2.86
+                            },
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a09",
+                                "sentence": " rotates in the air,",
+                                "start_time": 3.13,
+                                "end_time": 4.62
+                            },
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a08",
+                                "sentence": " makes a few circles, and finishes with s been.",
+                                "start_time": 4.82,
+                                "end_time": 8.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d33030d9d41be1e9b2eb1cd",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 152.089774,
+                        "end_time": 152.089774,
+                        "duration": 4.6439909297052155,
+                        "file_name": "Bf6D-i8YpHg_5d33030d9d41be1e9b2eb1cd.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720120325,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a12",
+                                "sentence": " He's in the spotlight, roses, her being thrown at him, and he smiles with pride. He catches implicate of retro.",
+                                "start_time": 0,
+                                "end_time": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d33033a9d41be1e9b2eb1ce",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 155.31571428571428,
+                        "end_time": 155.31571428571428,
+                        "duration": 6.03718820861678,
+                        "file_name": "Bf6D-i8YpHg_5d33033a9d41be1e9b2eb1ce.wav",
+                        "file_size_bytes": 1065004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720120410,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2d57262f148c23c35a",
+                                "sentence": " Cringe is back in his living room. And instead of roses, he's holding max, who licks his face.",
+                                "start_time": 0.22,
+                                "end_time": 5.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3303809d41be1e9b2eb1d0",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 159.38027400000001,
+                        "end_time": 159.38027400000001,
+                        "duration": 2.8792743764172335,
+                        "file_name": "Bf6D-i8YpHg_5d3303809d41be1e9b2eb1d0.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720120520,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d76a3",
+                                "sentence": " Illumination presents doctor seuss, the grinch.",
+                                "start_time": 0.06,
+                                "end_time": 2.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d33038e9d41be1e9b2eb1d1",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 162.116635,
+                        "end_time": 162.116635,
+                        "duration": 1.9504761904761905,
+                        "file_name": "Bf6D-i8YpHg_5d33038e9d41be1e9b2eb1d1.wav",
+                        "file_size_bytes": 344108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720120534,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429eb3b8b6114790d7719",
+                                "sentence": " Banana cumberbatch.",
+                                "start_time": 0.26,
+                                "end_time": 1.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3303de9d41be1e9b2eb1d2",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 163.185467,
+                        "end_time": 163.185467,
+                        "duration": 3.622312925170068,
+                        "file_name": "Bf6D-i8YpHg_5d3303de9d41be1e9b2eb1d2.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720120654,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a989307",
+                                "sentence": " Green stands in front of the mirror and cross his hair with his finger.",
+                                "start_time": 0.22,
+                                "end_time": 3.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3303f69d41be1e9b2eb1d3",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 165.351014,
+                        "end_time": 167.3943700090703,
+                        "duration": 2.043356009070295,
+                        "file_name": "Bf6D-i8YpHg_5d3303f69d41be1e9b2eb1d3.wav",
+                        "file_size_bytes": 360492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720120718,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142ace4a3b32147a989369",
+                                "sentence": " He does the same to max.",
+                                "start_time": 0.28,
+                                "end_time": 1.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d33041051c17b210eab2e6f",
+                        "video": "5bd7054713c80974c163c5da",
+                        "audio_description": "5d32f13de261b61e394e442f",
+                        "user": "5d2b96d96e1ff55b95381a66",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 167.949514,
+                        "end_time": 167.949514,
+                        "duration": 4.73687074829932,
+                        "file_name": "Bf6D-i8YpHg_5d33041051c17b210eab2e6f.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Bf6D-i8YpHg",
+                        "created_at": 20190720120744,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429ea3b8b6114790d7711",
+                                "sentence": " November 9 in theaters in real",
+                                "start_time": 0.01,
+                                "end_time": 2.43
+                            },
+                            {
+                                "_id": "5e1429ea3b8b6114790d7710",
+                                "sentence": " 3D grinch movie dot com.",
+                                "start_time": 2.43,
+                                "end_time": 4.6
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d32f13de261b61e394e442f",
+                "video": "5bd7054713c80974c163c5da",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d2b96d96e1ff55b95381a66",
+                    "email": "ajerzynska@fordham.edu",
+                    "name": "Alexandra Jerzynska",
+                    "given_name": "Alexandra",
+                    "picture": "https://lh5.googleusercontent.com/-m6XszihXML8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdihsImRp_qew8BuGI5XG1P5b2upQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "107824802754215630453",
+                    "last_login": 20190714205553,
+                    "token": "a79bef22a3915e95ef5c076e5393a97ba39ac13988841f48eb37f13df61c30ec",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190720104725,
+                "updated_at": 20190725044420,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "trailer",
+            "2018",
+            "movie",
+            "filmselect",
+            "THE GRINCH",
+            "the grinch trailer",
+            "animation",
+            "family",
+            "benedict cumberbatch",
+            "animated movies"
+        ],
+        "custom_tags": [],
+        "_id": "5bd7054713c80974c163c5da",
+        "title": "THE GRINCH Official Trailer (2018)",
+        "description": "First official Trailer for The Grinch with Benedict Cumberbatch",
+        "youtube_id": "Bf6D-i8YpHg",
+        "created_at": 20181029130407,
+        "updated_at": 20190720120744,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 190
+    }
+}

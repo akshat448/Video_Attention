@@ -1,0 +1,78 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59a5f1dec6c4802622d9bf31",
+                        "video": "59a5f1dec6c4802622d9bf33",
+                        "audio_description": "59a5f1dec6c4802622d9bf32",
+                        "user": "5988e2b7aacee334625b56da",
+                        "label": "Audio description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 4.181333333333333,
+                        "duration": 4.181333333333333,
+                        "file_name": "-CR65sS1Frw_59a5f1dec6c4802622d9bf31.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/-CR65sS1Frw",
+                        "created_at": 20170829225942,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf0dae4fda5410d78c61ba",
+                                "sentence": " A meteor strikes a truck parked in the driveway.",
+                                "start_time": 0.25,
+                                "end_time": 3.45
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59a5f1dec6c4802622d9bf32",
+                "video": "59a5f1dec6c4802622d9bf33",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5988e2b7aacee334625b56da",
+                    "email": "nwatsonphsc@gmail.com",
+                    "name": "Niki Watson",
+                    "given_name": "Niki",
+                    "picture": "https://lh3.googleusercontent.com/-C31edmvwRQg/AAAAAAAAAAI/AAAAAAAAEgU/ObCompDH7Nw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111560521230160525848",
+                    "last_login": 20170829225511,
+                    "token": "252549c07cb0e6debe8f228c5f7a032cd99b216ca79f3aa134cb416cd7ac6273",
+                    "__v": 0,
+                    "updated_at": 20170829225511,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170829225942,
+                "updated_at": 20170829225942,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59a5f1dec6c4802622d9bf33",
+        "title": "Meteor strike!",
+        "description": "Boom! \r\n\r\nClick on the link below to open the handout that accompanies this video. \r\n\r\nhttps://docs.google.com/document/d/1PaVj-2Eegc2YR604PO4MnF23CpkCCWGUWYOAv_5qyFI/edit?usp=sharing2Eegc2YR604PO4MnF23CpkCCWGUWYOAv_5qyFI/edit?usp=sharing",
+        "youtube_id": "-CR65sS1Frw",
+        "created_at": 20170829225942,
+        "updated_at": 20170829225942,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 4
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7c46e13dfd851a5bcc",
+                        "audio_description": "58e7cf3546e13dfd851a25cf",
+                        "created_at": 20160826110547,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160826110547,
+                        "file_name": "14722347470631.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2687,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24111,
+                        "video": "58e7cf2946e13dfd851a1e92",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.2,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cc38",
+                                "sentence": " A toddler girl lays on a blanket playing with a toy in front of her.",
+                                "start_time": 0.51,
+                                "end_time": 5.03
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc37",
+                                "sentence": " The toy is a white disk on a circular base.",
+                                "start_time": 5.52,
+                                "end_time": 8.82
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc36",
+                                "sentence": " On the Top is a multi colored crinkle paper.",
+                                "start_time": 9.73,
+                                "end_time": 12.88
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc35",
+                                "sentence": " When she presses the Top, the toy makes a noise, and she pulls her hand back and lays on her back.",
+                                "start_time": 13.01,
+                                "end_time": 18.99
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25cf",
+                "status": "published",
+                "legacy_video_id": 2687,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e92",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e92",
+        "description": "",
+        "youtube_id": "W_dGXDRZEkc",
+        "views": 0,
+        "created_at": 20160826110433,
+        "title": "Young Child Explores Augmentative and Alternative Communication (AAC) for the First Time",
+        "legacy_video_id": 2687,
+        "updated_at": 20160826110547,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 26
+    }
+}

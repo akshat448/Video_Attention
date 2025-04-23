@@ -1,0 +1,661 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d26a861fe01075b78e92d96",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d26a861fe01075b78e92d97",
+                        "user": "5d239bca6e1ff55b95381a3e",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 1.1584750000000001,
+                        "end_time": 1.1584750000000001,
+                        "duration": 28.88562358276644,
+                        "file_name": "lfHZ-B374iA_5d26a861fe01075b78e92d96.wav",
+                        "file_size_bytes": 5095468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190711030921,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557f2514a7ae98ff6a9afd",
+                                "sentence": " Hello",
+                                "start_time": 4.78,
+                                "end_time": 5.85
+                            },
+                            {
+                                "_id": "5e557f2514a7ae98ff6a9afc",
+                                "sentence": " the",
+                                "start_time": 6.41,
+                                "end_time": 9.84
+                            },
+                            {
+                                "_id": "5e557f2514a7ae98ff6a9afb",
+                                "sentence": " for staying is cool.",
+                                "start_time": 25.84,
+                                "end_time": 27.58
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d26a861fe01075b78e92d97",
+                "video": "5d26a861fe01075b78e92d98",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d239bca6e1ff55b95381a3e",
+                    "email": "bcasey@fordham.edu",
+                    "name": "Brigida Casey",
+                    "given_name": "Brigida",
+                    "picture": "https://lh3.googleusercontent.com/-YJmT0CyzoVU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdb5pf0tJTJ6NaNjV6ypHdrn4YpaA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116532802303825038048",
+                    "last_login": 20190711013505,
+                    "token": "758c5e9396b2523bb1809691ffbae9cbd941cf982dd0f2ae5d12dfe45b83f902",
+                    "__v": 0,
+                    "updated_at": 20190711013505,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20190711030921,
+                "updated_at": 20190711030921,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d2bdc4c6e1ff55b95381a73",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2bdab56e1ff55b95381a72",
+                        "user": "5d2bd8286e1ff55b95381a6f",
+                        "label": "car driving ",
+                        "playback_type": "extended",
+                        "start_time": 0.9587532467532468,
+                        "end_time": 0.9587532467532468,
+                        "duration": 4.179591836734694,
+                        "file_name": "lfHZ-B374iA_5d2bdc4c6e1ff55b95381a73.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715015212,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e55821a43a659c66dd36d9a",
+                                "sentence": " Car is driving. Two children and mother are in the car.",
+                                "start_time": 0.66,
+                                "end_time": 4.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2bdc7a6e1ff55b95381a74",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2bdab56e1ff55b95381a72",
+                        "user": "5d2bd8286e1ff55b95381a6f",
+                        "label": "back seat",
+                        "playback_type": "inline",
+                        "start_time": 5.472952,
+                        "end_time": 9.652543836734694,
+                        "duration": 4.179591836734694,
+                        "file_name": "lfHZ-B374iA_5d2bdc7a6e1ff55b95381a74.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715015258,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e557c1a7f8232990368e8ec",
+                                "sentence": " Child in back seat rolls eyes and slouches against seat.",
+                                "start_time": 0.29,
+                                "end_time": 3.95
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d2bdab56e1ff55b95381a72",
+                "video": "5d26a861fe01075b78e92d98",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d2bd8286e1ff55b95381a6f",
+                    "email": "mgreenberg11@fordham.edu",
+                    "name": "Melinda Greenberg",
+                    "given_name": "Melinda",
+                    "picture": "https://lh4.googleusercontent.com/--EpBTI3a8WQ/AAAAAAAAAAI/AAAAAAAAAB0/1Cpy7cCuFO8/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "100213559532740261014",
+                    "last_login": 20190720144600,
+                    "token": "55f33d7d77ff2d042e5def12d5a6ae6fd5dc996687904a69552735b0c02a52aa",
+                    "__v": 0,
+                    "updated_at": 20190720144600,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20190715014525,
+                "updated_at": 20190715014525,
+                "notes": "car is driving \n2 children and a mother are in car\nchild in back seat rolls eyes and slouches in seat\n\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d2cffbf340657085310baa7",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 1",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 16.16108843537415,
+                        "duration": 16.16108843537415,
+                        "file_name": "lfHZ-B374iA_5d2cffbf340657085310baa7.wav",
+                        "file_size_bytes": 2850860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715223543,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acd4a3b32147a989358",
+                                "sentence": " A blonde woman in her forties drives her two daughters.",
+                                "start_time": 0.36,
+                                "end_time": 3.32
+                            },
+                            {
+                                "_id": "5e142acd4a3b32147a989357",
+                                "sentence": " The blonde woman sits at a restaurant with two other women.",
+                                "start_time": 12.74,
+                                "end_time": 15.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d00e9aa032b08ae60e0c2",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 2",
+                        "playback_type": "inline",
+                        "start_time": 19.737032,
+                        "end_time": 22.80206601360544,
+                        "duration": 3.0650340136054424,
+                        "file_name": "lfHZ-B374iA_5d2d00e9aa032b08ae60e0c2.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715224041,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a989337",
+                                "sentence": " A young looking man approaches her at the bar.",
+                                "start_time": 0.2,
+                                "end_time": 2.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d023baa032b08ae60e0c4",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 3",
+                        "playback_type": "extended",
+                        "start_time": 32.476934,
+                        "end_time": 32.476934,
+                        "duration": 10.866938775510205,
+                        "file_name": "lfHZ-B374iA_5d2d023baa032b08ae60e0c4.wav",
+                        "file_size_bytes": 1916972,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715224619,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acd4a3b32147a989351",
+                                "sentence": " The young man joins the blonde woman and friends at a table.",
+                                "start_time": 0.76,
+                                "end_time": 4.12
+                            },
+                            {
+                                "_id": "5e142acd4a3b32147a989350",
+                                "sentence": " She blows out a candle in a piece of birthday cake. He smiles at her. She smiles back, they dance and kiss!",
+                                "start_time": 4.16,
+                                "end_time": 10.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d02af340657085310baa8",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 4",
+                        "playback_type": "extended",
+                        "start_time": 45.203377,
+                        "end_time": 45.203377,
+                        "duration": 4.73687074829932,
+                        "file_name": "lfHZ-B374iA_5d2d02af340657085310baa8.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715224815,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a2f",
+                                "sentence": " It is now the next morning he is short list in her bed and smells a shirt.",
+                                "start_time": 0.26,
+                                "end_time": 4.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d032d340657085310baa9",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 5",
+                        "playback_type": "extended",
+                        "start_time": 52.261254,
+                        "end_time": 52.261254,
+                        "duration": 8.452063492063493,
+                        "file_name": "lfHZ-B374iA_5d2d032d340657085310baa9.wav",
+                        "file_size_bytes": 1490988,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715225021,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a989311",
+                                "sentence": " Their friends are still asleep on the couch. The blonde woman's two daughters and their grandmother enter. The daughters run to the blonde woman's bedroom.",
+                                "start_time": 0.54,
+                                "end_time": 8.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d0446aa032b08ae60e0c6",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 6",
+                        "playback_type": "extended",
+                        "start_time": 54.31813,
+                        "end_time": 54.31813,
+                        "duration": 3.9938321995464854,
+                        "file_name": "lfHZ-B374iA_5d2d0446aa032b08ae60e0c6.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715225502,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acb4a3b32147a9892f8",
+                                "sentence": " The blonde woman leaves her bedroom and quickly shuts the door behind her.",
+                                "start_time": 0.16,
+                                "end_time": 3.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d051a340657085310baaa",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 7",
+                        "playback_type": "inline",
+                        "start_time": 58.329844,
+                        "end_time": 61.301998195011336,
+                        "duration": 2.972154195011338,
+                        "file_name": "lfHZ-B374iA_5d2d051a340657085310baaa.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715225834,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d76dd",
+                                "sentence": " The young man exits. Sure, unbind.",
+                                "start_time": 0.14,
+                                "end_time": 2.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d0596aa032b08ae60e0c8",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 8",
+                        "playback_type": "extended",
+                        "start_time": 61.161299,
+                        "end_time": 61.161299,
+                        "duration": 4.73687074829932,
+                        "file_name": "lfHZ-B374iA_5d2d0596aa032b08ae60e0c8.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715230038,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4dedd4c5147cbb9a45",
+                                "sentence": " The young man now dress goes to say goodbye to the blonde woman and the grandmother.",
+                                "start_time": 0,
+                                "end_time": 4.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d06c1340657085310baab",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 9",
+                        "playback_type": "extended",
+                        "start_time": 66.842733,
+                        "end_time": 66.842733,
+                        "duration": 12.167256235827665,
+                        "file_name": "lfHZ-B374iA_5d2d06c1340657085310baab.wav",
+                        "file_size_bytes": 2146348,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715230537,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2e57262f148c23c376",
+                                "sentence": " Brief moments of the grandmother pouring the young man and his friends to drink the group doing yoga.",
+                                "start_time": 0.31,
+                                "end_time": 5.97
+                            },
+                            {
+                                "_id": "5e142b2e57262f148c23c375",
+                                "sentence": " And the grandmother speaking with the blonde woman who sees the young men outside with her two daughters all having fun.",
+                                "start_time": 5.97,
+                                "end_time": 12.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d079e340657085310baac",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 10",
+                        "playback_type": "extended",
+                        "start_time": 79.00988100000001,
+                        "end_time": 79.00988100000001,
+                        "duration": 2.786394557823129,
+                        "file_name": "lfHZ-B374iA_5d2d079e340657085310baac.wav",
+                        "file_size_bytes": 491564,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715230918,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1428d8f8de4a147bbf1de1",
+                                "sentence": " The blonde woman stands with the three young men.",
+                                "start_time": 0.24,
+                                "end_time": 2.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d0823aa032b08ae60e0ca",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 11",
+                        "playback_type": "inline",
+                        "start_time": 82.082465,
+                        "end_time": 85.42613846938775,
+                        "duration": 3.3436734693877552,
+                        "file_name": "lfHZ-B374iA_5d2d0823aa032b08ae60e0ca.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715231131,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2e57262f148c23c374",
+                                "sentence": " One man drops marijuana on the table.",
+                                "start_time": 0,
+                                "end_time": 2.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d094f340657085310baad",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 12",
+                        "playback_type": "extended",
+                        "start_time": 87.877894,
+                        "end_time": 87.877894,
+                        "duration": 7.151746031746032,
+                        "file_name": "lfHZ-B374iA_5d2d094f340657085310baad.wav",
+                        "file_size_bytes": 1261612,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715231631,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a03",
+                                "sentence": " The blonde woman, her daughters, then the young men lay outside at night on a blanket. Later, the blonde woman embraces the young man.",
+                                "start_time": 0.14,
+                                "end_time": 6.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d09d1340657085310baaf",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 13",
+                        "playback_type": "extended",
+                        "start_time": 98.206743,
+                        "end_time": 98.206743,
+                        "duration": 5.572789115646258,
+                        "file_name": "lfHZ-B374iA_5d2d09d1340657085310baaf.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715231841,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a98932d",
+                                "sentence": " Next, the blonde woman and the young man drive up to the house where a man in his forties is standing.",
+                                "start_time": 0.22,
+                                "end_time": 5.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d0a79aa032b08ae60e0cb",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 14",
+                        "playback_type": "extended",
+                        "start_time": 108.959196,
+                        "end_time": 108.959196,
+                        "duration": 7.616145124716553,
+                        "file_name": "lfHZ-B374iA_5d2d0a79aa032b08ae60e0cb.wav",
+                        "file_size_bytes": 1343532,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715232129,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142b2d57262f148c23c333",
+                                "sentence": " The daughters embrace the man, their father, the family, and young men have breakfast. Later, the father and the blonde woman sit together.",
+                                "start_time": 0.22,
+                                "end_time": 7.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d0c09340657085310bab0",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 15",
+                        "playback_type": "extended",
+                        "start_time": 118.22664935064934,
+                        "end_time": 118.22664935064934,
+                        "duration": 11.331337868480725,
+                        "file_name": "lfHZ-B374iA_5d2d0c09340657085310bab0.wav",
+                        "file_size_bytes": 1998892,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715232809,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a98931a",
+                                "sentence": " As the blonde woman talks to one of the young men, there are brief moments of her seeing the father, cause one of his daughters on the head, the blonde woman resting her head on the young man's shoulder, and her crying in the bathroom.",
+                                "start_time": 0.19,
+                                "end_time": 11.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d0d06340657085310bab1",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 16",
+                        "playback_type": "extended",
+                        "start_time": 129.906101,
+                        "end_time": 129.906101,
+                        "duration": 9.845260770975056,
+                        "file_name": "lfHZ-B374iA_5d2d0d06340657085310bab1.wav",
+                        "file_size_bytes": 1736748,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715233222,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a23",
+                                "sentence": " The young man punches the father. The young man also kisses the blonde woman. Then the young man and the father stand in the kitchen",
+                                "start_time": 0.17,
+                                "end_time": 7.28
+                            },
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a22",
+                                "sentence": " tense as the blonde woman holds a plate of food.",
+                                "start_time": 7.28,
+                                "end_time": 9.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d2d0d86340657085310bab2",
+                        "video": "5d26a861fe01075b78e92d98",
+                        "audio_description": "5d2cfd26aa032b08ae60e0be",
+                        "user": "5d2b99966e1ff55b95381a67",
+                        "label": "home again 17",
+                        "playback_type": "extended",
+                        "start_time": 139.269891,
+                        "end_time": 139.269891,
+                        "duration": 8.6378231292517,
+                        "file_name": "lfHZ-B374iA_5d2d0d86340657085310bab2.wav",
+                        "file_size_bytes": 1523756,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/lfHZ-B374iA",
+                        "created_at": 20190715233430,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a20",
+                                "sentence": " The last scene, the father stands at the door of the blonde woman's bedroom. She gives two of the three young men a kiss on the",
+                                "start_time": 0.04,
+                                "end_time": 6.53
+                            },
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a1f",
+                                "sentence": " cheek, as I said at the end of her bed.",
+                                "start_time": 6.53,
+                                "end_time": 8.6
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d2cfd26aa032b08ae60e0be",
+                "video": "5d26a861fe01075b78e92d98",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d2b99966e1ff55b95381a67",
+                    "email": "jcomppen@fordham.edu",
+                    "name": "Jennifer Comppen",
+                    "given_name": "Jennifer",
+                    "picture": "https://lh3.googleusercontent.com/-yqoTWJjDNAk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reG4vBNOeZP30ERdEu8H4y_8D9_5A/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116982179067484326911",
+                    "last_login": 20190723022632,
+                    "token": "481f670bf226e20f2f0dd11011c81294adef24e99c9308c010cbdd3f7be0df12",
+                    "__v": 0,
+                    "updated_at": 20190723022632,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190715222438,
+                "updated_at": 20190722134721,
+                "notes": "00:01: Blonde woman in her 40s drives her two daughters\n\n00:13: The blonde woman sits a restaurant with 2 other women. \n\n00:19: A young-looking man approaches her at the bar. ",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "home again",
+            "home again trailer",
+            "2017",
+            "trailer"
+        ],
+        "custom_tags": [],
+        "_id": "5d26a861fe01075b78e92d98",
+        "title": "Home Again Trailer #2 (2017) | Movieclips Trailers",
+        "description": "Home Again Trailer #2 (2017): Check out the new trailer starring Reese Witherspoon, Lake Bell, and Michael Sheen! Be the first to watch, comment, and share trailers and movie teasers/clips dropping soon @MovieclipsTrailers. \n\n\u25ba Buy Tickets to Home Again: http://www.fandango.com/homeagain_202386/movieoverview?cmp=MCYT_YouTube_Desc\n\nWatch more Trailers: \n\u25ba HOT New Trailers Playlist: http://bit.ly/2hp08G1\n\u25ba What to Watch Playlist: http://bit.ly/2ieyw8G\n\u25ba Even More on COMING SOON: http://bit.ly/H2vZUn\n\nLife for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.\n\nAbout Movieclips Trailers:\n\u25ba Subscribe to TRAILERS:http://bit.ly/sxaw6h\n\u25ba We\u2019re on SNAPCHAT: http://bit.ly/2cOzfcy \n\u25ba Like us on FACEBOOK: http://bit.ly/1QyRMsE \n\u25ba Follow us on TWITTER:http://bit.ly/1ghOWmt \n\nThe Fandango MOVIECLIPS Trailers channel is your destination for hot new trailers the second they drop. The Fandango MOVIECLIPS Trailers team is here day and night to make sure all the hottest new movie trailers are available whenever, wherever you want them.",
+        "youtube_id": "lfHZ-B374iA",
+        "created_at": 20190711030921,
+        "updated_at": 20190715233430,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 148
+    }
+}

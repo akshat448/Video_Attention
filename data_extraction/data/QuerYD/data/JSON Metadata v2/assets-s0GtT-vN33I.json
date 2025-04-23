@@ -1,0 +1,99 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7bd6648302113cc4be5008",
+                        "video": "5d7bd47715c8ca3ccf56d6cc",
+                        "audio_description": "5d7bd47715c8ca3ccf56d6cb",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "Collision Repair Program Audio Description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 26.794666666666668,
+                        "duration": 26.794666666666668,
+                        "file_name": "s0GtT-vN33I_5d7bd6648302113cc4be5008.wav",
+                        "file_size_bytes": 5144620,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/s0GtT-vN33I",
+                        "created_at": 20190913174820,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5578717604239900952271",
+                                "sentence": " A woman sands the side of a van. Tax rates, collision repair technology. Do you love cars and working with your hands? Do you take part in making things with notes and collision repair could be for you?",
+                                "start_time": 1.18,
+                                "end_time": 8.91
+                            },
+                            {
+                                "_id": "5e5578717604239900952270",
+                                "sentence": " Two men repair occurs. We will tax rates careers were for collision repair shops, insurance companies, car dealerships, tito shops frantically companies and a lot more",
+                                "start_time": 8.91,
+                                "end_time": 16.23
+                            },
+                            {
+                                "_id": "5e557871760423990095226f",
+                                "sentence": " a man buff scratches out of cohort tax rates like the program and an associate degree in 16 months or certificate or diploma as little as four months",
+                                "start_time": 16.23,
+                                "end_time": 22.93
+                            },
+                            {
+                                "_id": "5e557871760423990095226e",
+                                "sentence": " student works on a side panel car tax rates. You've got this.",
+                                "start_time": 22.93,
+                                "end_time": 25.89
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7bd47715c8ca3ccf56d6cb",
+                "video": "5d7bd47715c8ca3ccf56d6cc",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190913174007,
+                "updated_at": 20190913174007,
+                "notes": "Woman sands side of van\r\nText reads:\r\nCollision Repair Technology\r\nDo you love cars and working with your hands?\r\nDo you take pride in making things look new?\r\nThen collision repair could be for you.\r\n\r\n2 men repair a car's wheel well\r\nText reads:\r\nCareers \r\nWork for collision repair shops, insurance companies, car dealerships, detail shops, rental fleet companies and a whole lot more. \r\n\r\nA man buff scratches out of a car hood\r\nText reads:\r\nLength of program\r\nearn an associate degree in 16 months or certificate or diploma in as little as 4 months.\r\n\r\nA student works on a side panel of a car\r\nText reads:\r\nYou've got this!\r\n",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Collision Repair",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5d7bd47715c8ca3ccf56d6cc",
+        "title": "Collision Repair",
+        "description": "Information for the Collision Repair program.",
+        "youtube_id": "s0GtT-vN33I",
+        "created_at": 20190913174007,
+        "updated_at": 20190913174820,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

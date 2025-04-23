@@ -1,0 +1,612 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c28",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084220,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084220,
+                        "file_name": "14253145409311.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11790,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e23268cc832bd02b748f927",
+                                "sentence": " Video is three minutes, 36 seconds.",
+                                "start_time": 0.1,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c29",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084315,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084315,
+                        "file_name": "14253145955211.wav",
+                        "start_time": 8.128,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11791,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 8.128,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e25529d8f12c643e1e6f19b",
+                                "sentence": " Map of asia highlighting Japan.",
+                                "start_time": 0.14,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c2a",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084402,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084402,
+                        "file_name": "14253146421991.wav",
+                        "start_time": 14.666,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11792,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 14.666,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e230e0872edc9955c746e92",
+                                "sentence": " Japanese flag and map of Japan.",
+                                "start_time": 0.18,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c2b",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084424,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084424,
+                        "file_name": "14253146643321.wav",
+                        "start_time": 17.448,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11793,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 17.448,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e232683c832bd02b748f8f4",
+                                "sentence": " Paintings of samurai and geisha girls.",
+                                "start_time": 0.26,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c2c",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084445,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084445,
+                        "file_name": "14253146857591.wav",
+                        "start_time": 19.544,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11794,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 19.544,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e230e0a72edc9955c746eb5",
+                                "sentence": " Photograph of kamikaze plane.",
+                                "start_time": 0.15,
+                                "end_time": 2.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c2d",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084510,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084510,
+                        "file_name": "14253147108311.wav",
+                        "start_time": 26.447,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11795,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 26.447,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e254e57538e0b1ebdfeb5fc",
+                                "sentence": " Painting of three Japanese women wearing kimonos.",
+                                "start_time": 0,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c2e",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084551,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084551,
+                        "file_name": "14253147512751.wav",
+                        "start_time": 30.014,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11796,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 30.014,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e25529b8f12c643e1e6f18c",
+                                "sentence": " Photograph of Japanese rock garden.",
+                                "start_time": 0.34,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c2f",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084620,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084620,
+                        "file_name": "14253147802541.wav",
+                        "start_time": 33.923,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11797,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 33.923,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e25529e8f12c643e1e6f19f",
+                                "sentence": " Photograph of bonds I tree.",
+                                "start_time": 0.26,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c30",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084636,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084636,
+                        "file_name": "14253147961061.wav",
+                        "start_time": 36.855,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11798,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 36.855,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e25529d8f12c643e1e6f19c",
+                                "sentence": " Two samples of Japanese calligraphy.",
+                                "start_time": 0.2,
+                                "end_time": 3.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c31",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084654,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084654,
+                        "file_name": "14253148146241.wav",
+                        "start_time": 40.385,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11799,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 40.385,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e230e0972edc9955c746e9e",
+                                "sentence": " Photographs of two Japanese flower arrangements.",
+                                "start_time": 0.18,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c32",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084731,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084731,
+                        "file_name": "14253148518121.wav",
+                        "start_time": 55.167,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11800,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 55.167,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e254d24824e581ebf8e1cf0",
+                                "sentence": " Paintings of samurai Warriors and sumo wrestler.",
+                                "start_time": 0.23,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c33",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084751,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084751,
+                        "file_name": "14253148719231.wav",
+                        "start_time": 58.279,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11801,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 58.279,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e25529b8f12c643e1e6f18a",
+                                "sentence": " Painting and photograph of ninja is.",
+                                "start_time": 0.2,
+                                "end_time": 3.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c34",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084826,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084826,
+                        "file_name": "14253149061741.wav",
+                        "start_time": 61.684,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11802,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 61.684,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e254e56538e0b1ebdfeb5c8",
+                                "sentence": " Photograph of two Warriors sparring.",
+                                "start_time": 0.21,
+                                "end_time": 3.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c35",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084856,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084856,
+                        "file_name": "14253149366651.wav",
+                        "start_time": 64.547,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11803,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 64.547,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e254e56538e0b1ebdfeb5c1",
+                                "sentence": " Photograph of martial arts class.",
+                                "start_time": 0.27,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c36",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084916,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084916,
+                        "file_name": "14253149561511.wav",
+                        "start_time": 67.982,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11804,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 67.982,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e230e0872edc9955c746e91",
+                                "sentence": " Photograph of two fighters doing karate.",
+                                "start_time": 0.29,
+                                "end_time": 3.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c37",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302084946,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302084946,
+                        "file_name": "14253149867221.wav",
+                        "start_time": 76.056,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11805,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 76.056,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e254d1e824e581ebf8e1cb5",
+                                "sentence": " Photo montage of sushi noodles and bento box.",
+                                "start_time": 0.3,
+                                "end_time": 4.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c38",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302085019,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302085019,
+                        "file_name": "14253150190551.wav",
+                        "start_time": 92.629,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11806,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 92.629,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e254d1e824e581ebf8e1ca4",
+                                "sentence": " Photograph of sake and sapporo beer.",
+                                "start_time": 0.31,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c39",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302085048,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302085048,
+                        "file_name": "14253150485811.wav",
+                        "start_time": 103.139,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11807,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 103.139,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e254e56538e0b1ebdfeb5dd",
+                                "sentence": " Photo montage of monger and anime.",
+                                "start_time": 0.26,
+                                "end_time": 3.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c3a",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302085103,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302085103,
+                        "file_name": "14253150635691.wav",
+                        "start_time": 112.081,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11808,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 112.081,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e25529b8f12c643e1e6f189",
+                                "sentence": " Movie poster of godzilla.",
+                                "start_time": 0.2,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5146e13dfd851a3c3b",
+                        "audio_description": "58e7cf2e46e13dfd851a227b",
+                        "created_at": 20150302085154,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150302085154,
+                        "file_name": "14253151146211.wav",
+                        "start_time": 148.967,
+                        "legacy_video_id": 1843,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11809,
+                        "video": "58e7cf2846e13dfd851a1b46",
+                        "end_time": 148.967,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e230e0872edc9955c746e95",
+                                "sentence": " Photo montage of cell phones and robots.",
+                                "start_time": 0.18,
+                                "end_time": 3.56
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2e46e13dfd851a227b",
+                "status": "published",
+                "legacy_video_id": 1843,
+                "legacy_user_id": 2415,
+                "video": "58e7cf2846e13dfd851a1b46",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2e46e13dfd851a2256",
+                    "name": "@DescribeVT",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2415,
+                    "last_login": 0,
+                    "email": "braille@vt.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b46",
+        "description": "",
+        "youtube_id": "puNIoqu5QFg",
+        "views": 0,
+        "created_at": 20150302084209,
+        "title": "Japan - 1. Konnichiwa! Intro to Japan",
+        "legacy_video_id": 1843,
+        "updated_at": 20150302085154,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 226
+    }
+}

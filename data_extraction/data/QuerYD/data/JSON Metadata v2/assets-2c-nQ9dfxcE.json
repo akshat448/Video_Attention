@@ -1,0 +1,65 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fe111b0ce0a842f6990b548",
+                        "video": "5fd2b162a1480d63858c695a",
+                        "audio_description": "5fd2b162a1480d63858c6959",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 21.455238095238094,
+                        "file_name": "2c-nQ9dfxcE_5fe111b0ce0a842f6990b548.wav",
+                        "file_size_bytes": 3784748,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/2c-nQ9dfxcE",
+                        "created_at": 20201221212048,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fd2b162a1480d63858c6959",
+                "video": "5fd2b162a1480d63858c695a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5fc6b5fb95521063835ce383",
+                    "email": "ecastillojenn@gmail.com",
+                    "name": "Jennifer Castillo",
+                    "given_name": "Jennifer",
+                    "picture": "https://lh4.googleusercontent.com/-5bpnry8pqfg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckH9ncyvBYAW2kOTFQ5bs4EeopJOg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115887003623205163006",
+                    "last_login": 20201221205124,
+                    "token": "1114491ec716f0171a30639c483ee718d98ebe8e044084b7b6bf4e03ccbb3772",
+                    "__v": 0,
+                    "updated_at": 20201221205124
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201210233810,
+                "updated_at": 20201210233810,
+                "notes": "",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fd2b162a1480d63858c695a",
+        "title": "Payloads and Spacewalks",
+        "description": "Astronauts talk about moving huge pieces of cargo with the space shuttle orbiter's robot arm, and they relay the wonders and work of doing spacewalks\u2014officially known as extravehicular activities (EVAs). Drawn from interviews filmed inside space shuttle Endeavour, Payloads and Spacewalks features shuttle astronauts Kay Hire, Garrett Reisman, Sandra Magnus, Mike Fincke, Dan Bursch, Danny Olivas, Drew Feustel, and Steve Swanson.\n\nPayloads and Spacewalks is the fourth in a series of five thematic videos developed to be featured in the future Shuttle Gallery of the Samuel Oschin Air and Space Center.\u00a0\n\nAstronaut interviews and this video series were made possible by a generous grant from The Ahmanson Foundation.\n\nFor more science videos, blog posts, and virtual tours, visit californiasciencecenter.org/beyond",
+        "youtube_id": "2c-nQ9dfxcE",
+        "created_at": 20201210233810,
+        "updated_at": 20201221212048,
+        "views": 0,
+        "__v": 0
+    }
+}

@@ -1,0 +1,802 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5adbb98997118f02e77aee5c",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 2.3893333333333335,
+                        "duration": 2.3893333333333335,
+                        "file_name": "6ZKVBUjaxOs_5adbb98997118f02e77aee5c.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222201,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18953e83fdba557ba3f71d",
+                                "sentence": " How to make some low stress family dinners.",
+                                "start_time": 0,
+                                "end_time": 2.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbb99997118f02e77aee5d",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 2.38636,
+                        "end_time": 6.567693333333333,
+                        "duration": 4.181333333333333,
+                        "file_name": "6ZKVBUjaxOs_5adbb99997118f02e77aee5d.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222217,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897a92bf63c6db887ebd0",
+                                "sentence": " The first recipe instructs on how to make sweet potato pizza bites.",
+                                "start_time": 0.03,
+                                "end_time": 4.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbb9ae97118f02e77aee5e",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 6.56431,
+                        "end_time": 11.257643333333334,
+                        "duration": 4.693333333333333,
+                        "file_name": "6ZKVBUjaxOs_5adbb9ae97118f02e77aee5e.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222238,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1893f083fdba557ba3f6b2",
+                                "sentence": " First, take three sweet potatoes and cut them into about a centimeter thick discs.",
+                                "start_time": 0.04,
+                                "end_time": 4.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbb9bb97118f02e77aee5f",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 11.105762,
+                        "end_time": 15.372428666666668,
+                        "duration": 4.266666666666667,
+                        "file_name": "6ZKVBUjaxOs_5adbb9bb97118f02e77aee5f.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222251,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897b22bf63c6db887ebf8",
+                                "sentence": " Put the slices into a bull, not a drizzle, olive oil and some salt and pepper to.",
+                                "start_time": 0,
+                                "end_time": 4.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbb9d197118f02e77aee60",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 15.314515,
+                        "end_time": 21.714515,
+                        "duration": 6.4,
+                        "file_name": "6ZKVBUjaxOs_5adbb9d197118f02e77aee60.wav",
+                        "file_size_bytes": 1228844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222313,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18984ce6b8aa6db98ab3d1",
+                                "sentence": " Cover a few trees in parchment paper and lay all the slices on it, making sure that the slices do not overlap.",
+                                "start_time": 0,
+                                "end_time": 6.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbb9e497118f02e77aee64",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 21.81515,
+                        "end_time": 29.153816666666664,
+                        "duration": 7.338666666666667,
+                        "file_name": "6ZKVBUjaxOs_5adbb9e497118f02e77aee64.wav",
+                        "file_size_bytes": 1409068,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222332,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189335efa6d6557a270e7d",
+                                "sentence": " Then bake it at 375 degrees fahrenheit, or hundred 90 \u2103 for 30 minutes.",
+                                "start_time": 0.06,
+                                "end_time": 5.67
+                            },
+                            {
+                                "_id": "5e189335efa6d6557a270e7c",
+                                "sentence": " Make sure to flip them halfway.",
+                                "start_time": 5.67,
+                                "end_time": 7.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbb9f997118f02e77aee65",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 29.269334,
+                        "end_time": 40.192000666666665,
+                        "duration": 10.922666666666666,
+                        "file_name": "6ZKVBUjaxOs_5adbb9f997118f02e77aee65.wav",
+                        "file_size_bytes": 2097196,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222353,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1894e5efa6d6557a270f5a",
+                                "sentence": " Take some marinara and pesto sauce and drizzle some of the sauce on Top of each slice, alternating.",
+                                "start_time": 0.03,
+                                "end_time": 5.79
+                            },
+                            {
+                                "_id": "5e1894e5efa6d6557a270f59",
+                                "sentence": " Then add shredded mozzarella on Top, and then bake it in the oven until the cheese melts and you are done.",
+                                "start_time": 5.79,
+                                "end_time": 10.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbba5597118f02e77aee69",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 58.804129,
+                        "end_time": 61.27879566666667,
+                        "duration": 2.474666666666667,
+                        "file_name": "6ZKVBUjaxOs_5adbba5597118f02e77aee69.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222525,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189335efa6d6557a270e86",
+                                "sentence": " Next, how to make tuscan white beans.",
+                                "start_time": 0,
+                                "end_time": 2.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbba8597118f02e77aee6c",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 61.128596,
+                        "end_time": 68.97926266666667,
+                        "duration": 7.850666666666666,
+                        "file_name": "6ZKVBUjaxOs_5adbba8597118f02e77aee6c.wav",
+                        "file_size_bytes": 1507372,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222613,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897aa2bf63c6db887ebd7",
+                                "sentence": " In a non stick pan on low heat, drizzle some olive oil, half a dice onion, and a cover sliced mushrooms, then stir it all together.",
+                                "start_time": 0,
+                                "end_time": 7.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbba9f97118f02e77aee6d",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 69.049802,
+                        "end_time": 76.30313533333333,
+                        "duration": 7.253333333333333,
+                        "file_name": "6ZKVBUjaxOs_5adbba9f97118f02e77aee6d.wav",
+                        "file_size_bytes": 1392684,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222639,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1894e9efa6d6557a270f7c",
+                                "sentence": " Then add half a cup of strained sun, dried tomatoes, three min scarlet clothes, and then mix it all together.",
+                                "start_time": 0.07,
+                                "end_time": 7.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbac397118f02e77aee6f",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 75.769929,
+                        "end_time": 93.945929,
+                        "duration": 18.176,
+                        "file_name": "6ZKVBUjaxOs_5adbbac397118f02e77aee6f.wav",
+                        "file_size_bytes": 3489836,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222715,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897b02bf63c6db887ebef",
+                                "sentence": " Then rinse and add 30 ounces of white beans, 15 ounces of pre roasted tomatoes,",
+                                "start_time": 0.15,
+                                "end_time": 5.75
+                            },
+                            {
+                                "_id": "5e1897b02bf63c6db887ebee",
+                                "sentence": " 15 ounces of drain, artichoke hearts, two tablespoons of balsamic vinegar, a tablespoon of honey, a teaspoon of oregano and thyme, and some pepper and salt to taste and stir it all together.",
+                                "start_time": 5.75,
+                                "end_time": 18.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbad197118f02e77aee70",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 93.99754,
+                        "end_time": 97.49620666666667,
+                        "duration": 3.498666666666667,
+                        "file_name": "6ZKVBUjaxOs_5adbbad197118f02e77aee70.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222729,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1893f483fdba557ba3f6fd",
+                                "sentence": " Now cover the lid and let it simmer for 10 minutes.",
+                                "start_time": 0.11,
+                                "end_time": 3.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbade97118f02e77aee72",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 97.596049,
+                        "end_time": 102.54538233333332,
+                        "duration": 4.949333333333334,
+                        "file_name": "6ZKVBUjaxOs_5adbbade97118f02e77aee72.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222742,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897a92bf63c6db887ebc9",
+                                "sentence": " Finally, add some chop basil, and it is ready to serve.",
+                                "start_time": 0.53,
+                                "end_time": 4.38
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbaf697118f02e77aee73",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 110.532555,
+                        "end_time": 113.26322166666667,
+                        "duration": 2.7306666666666666,
+                        "file_name": "6ZKVBUjaxOs_5adbbaf697118f02e77aee73.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222806,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18933aefa6d6557a270ed0",
+                                "sentence": " How to make sheep in jambalaya.",
+                                "start_time": 0.32,
+                                "end_time": 2.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbb1297118f02e77aee75",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 113.300766,
+                        "end_time": 123.19943266666667,
+                        "duration": 9.898666666666667,
+                        "file_name": "6ZKVBUjaxOs_5adbbb1297118f02e77aee75.wav",
+                        "file_size_bytes": 1900588,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222834,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897a92bf63c6db887ebd6",
+                                "sentence": " Chop of an add an onion, three bell peppers and two cups of chicken sausage onto sheep in and add some olive oil and creole a seasoning to taste.",
+                                "start_time": 0.08,
+                                "end_time": 9.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbb2397118f02e77aee77",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 123.151537,
+                        "end_time": 130.831537,
+                        "duration": 7.68,
+                        "file_name": "6ZKVBUjaxOs_5adbbb2397118f02e77aee77.wav",
+                        "file_size_bytes": 1474604,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222851,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18953e83fdba557ba3f743",
+                                "sentence": " Then with your hands, mix it together and bake it at 425 degrees fahrenheit or two hundred 20 \u2103 for eight minutes.",
+                                "start_time": 0.04,
+                                "end_time": 7.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbb3797118f02e77aee79",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 130.967103,
+                        "end_time": 140.86576966666667,
+                        "duration": 9.898666666666667,
+                        "file_name": "6ZKVBUjaxOs_5adbbb3797118f02e77aee79.wav",
+                        "file_size_bytes": 1900588,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222911,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1894e8efa6d6557a270f72",
+                                "sentence": " Then in a large bowl at a pound of peeled and de vein shrimp, one teaspoon of creole seasoning, a half teaspoon of paprika, and then mix it all together.",
+                                "start_time": 0.17,
+                                "end_time": 9.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbb4d97118f02e77aee7a",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 140.988459,
+                        "end_time": 148.49779233333334,
+                        "duration": 7.509333333333333,
+                        "file_name": "6ZKVBUjaxOs_5adbbb4d97118f02e77aee7a.wav",
+                        "file_size_bytes": 1441836,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222933,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189337efa6d6557a270ec3",
+                                "sentence": " Then to the onion, bell pepper mix on the sheet pan, add the shrimp, one and half cups of tomatoes, and then mix it again.",
+                                "start_time": 0.08,
+                                "end_time": 7.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbb5c97118f02e77aee7b",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 148.28646,
+                        "end_time": 154.00379333333333,
+                        "duration": 5.717333333333333,
+                        "file_name": "6ZKVBUjaxOs_5adbbb5c97118f02e77aee7b.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421222948,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18953e83fdba557ba3f722",
+                                "sentence": " Then put it back into the oven for six more minutes, and not four cups of cooked rice to the pan.",
+                                "start_time": 0,
+                                "end_time": 5.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbb6997118f02e77aee7d",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 153.99766,
+                        "end_time": 159.45899333333332,
+                        "duration": 5.461333333333333,
+                        "file_name": "6ZKVBUjaxOs_5adbbb6997118f02e77aee7d.wav",
+                        "file_size_bytes": 1048620,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421223001,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189336efa6d6557a270ebc",
+                                "sentence": " Finally mix it together and your sheep and jambalaya is ready to be served.",
+                                "start_time": 0.31,
+                                "end_time": 4.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbb8197118f02e77aee7e",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 164.657637,
+                        "end_time": 167.729637,
+                        "duration": 3.072,
+                        "file_name": "6ZKVBUjaxOs_5adbbb8197118f02e77aee7e.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421223025,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18953e83fdba557ba3f731",
+                                "sentence": " How to make cheap an stake for heaters.",
+                                "start_time": 0.13,
+                                "end_time": 3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbba397118f02e77aee80",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 167.795235,
+                        "end_time": 178.46190166666665,
+                        "duration": 10.666666666666666,
+                        "file_name": "6ZKVBUjaxOs_5adbbba397118f02e77aee80.wav",
+                        "file_size_bytes": 2048044,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421223059,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897a82bf63c6db887eb9b",
+                                "sentence": " To a sheet pan, place a pound of fling, stick in the middle and around it uh add three chopped bell peppers. One of each color,",
+                                "start_time": 0.09,
+                                "end_time": 8.69
+                            },
+                            {
+                                "_id": "5e1897a82bf63c6db887eb9a",
+                                "sentence": " and add half a chopped red onion.",
+                                "start_time": 8.69,
+                                "end_time": 10.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbc5f97118f02e77aee84",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 178.1676,
+                        "end_time": 183.88493333333332,
+                        "duration": 5.717333333333333,
+                        "file_name": "6ZKVBUjaxOs_5adbbc5f97118f02e77aee84.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421223407,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189842e6b8aa6db98ab383",
+                                "sentence": " Now add olive oil, salt, pepper, chili powder, garlic powder, inhuman to taste.",
+                                "start_time": 0,
+                                "end_time": 5.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbc8e97118f02e77aee88",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 183.632344,
+                        "end_time": 192.848344,
+                        "duration": 9.216,
+                        "file_name": "6ZKVBUjaxOs_5adbbc8e97118f02e77aee88.wav",
+                        "file_size_bytes": 1769516,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421223454,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1894e5efa6d6557a270f37",
+                                "sentence": " Then mixes seasoning into the pepper, onion and sake, remembering to keep this group separate, and also seasoning the back of the stake as well.",
+                                "start_time": 0.24,
+                                "end_time": 9.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbccd97118f02e77aee89",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 192.61313,
+                        "end_time": 203.02379666666667,
+                        "duration": 10.410666666666666,
+                        "file_name": "6ZKVBUjaxOs_5adbbccd97118f02e77aee89.wav",
+                        "file_size_bytes": 1998892,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421223557,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897a82bf63c6db887eb8a",
+                                "sentence": " Then squeeze half of the lime around the steak and vegetables and bigger in the oven of 450 degrees fahrenheit or two hundred 30 \u2103 for 12 minutes.",
+                                "start_time": 0.15,
+                                "end_time": 9.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbcdc97118f02e77aee8a",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 202.936549,
+                        "end_time": 208.82454900000002,
+                        "duration": 5.888,
+                        "file_name": "6ZKVBUjaxOs_5adbbcdc97118f02e77aee8a.wav",
+                        "file_size_bytes": 1130540,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421223612,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189336efa6d6557a270ea3",
+                                "sentence": " Then take the steak off the pan and let it rest for 10 minutes before cutting into it.",
+                                "start_time": 0.21,
+                                "end_time": 5.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbce997118f02e77aee8b",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 208.823703,
+                        "end_time": 214.455703,
+                        "duration": 5.632,
+                        "file_name": "6ZKVBUjaxOs_5adbbce997118f02e77aee8b.wav",
+                        "file_size_bytes": 1081388,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421223625,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18954083fdba557ba3f75d",
+                                "sentence": " The for heater is now ready to serve with some extra lime slices in Turkey as.",
+                                "start_time": 0.35,
+                                "end_time": 5.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5adbbd291696c70587c68912",
+                        "video": "5ac50b29b9b1ed1a198fc150",
+                        "audio_description": "5ac50b29b9b1ed1a198fc14f",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 214.544639,
+                        "end_time": 220.26197233333332,
+                        "duration": 5.717333333333333,
+                        "file_name": "6ZKVBUjaxOs_5adbbd291696c70587c68912.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6ZKVBUjaxOs",
+                        "created_at": 20180421223729,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1897a82bf63c6db887eb8f",
+                                "sentence": " Congratulations. You have now finished for low stress family dinners.",
+                                "start_time": 0,
+                                "end_time": 5.67
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ac50b29b9b1ed1a198fc14f",
+                "video": "5ac50b29b9b1ed1a198fc150",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a9c74ced50e4355f988497b",
+                    "email": "gunnyahhh@gmail.com",
+                    "name": "Joseph Lee",
+                    "given_name": "Joseph",
+                    "picture": "https://lh5.googleusercontent.com/-6EqPf4R6QZQ/AAAAAAAAAAI/AAAAAAAAACI/Pzk8eL-0-HI/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113785133396582188569",
+                    "last_login": 20200615212725,
+                    "token": "58c63a03ad29dab58af38c6bcf8f370a86885d7de0bdbe86753bab254a248e0b",
+                    "__v": 0,
+                    "updated_at": 20200615212725,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180404172809,
+                "updated_at": 20180421225400,
+                "notes": "How to make some low-stress family dinners\r\n1) the first recipe instructs how to make sweet potato pizza bites\r\n- take 3 sweet potatoes and cut them into about a centimeter thick disks\r\n- put the slices into a bowl and add a drizzle of olive oil, and some salt and pepper to taste\r\n- cover a few trays in parchment paper and lay all of the slices on it, making sure that the slices do not overlap\r\n- then bake it at 375 degrees Fahrenheit or 190 degrees Celsius for 30 minutes, and make sure to flip them halfway\r\n- take some marinara and pesto sauce and drizzle some of the sauce on top of each slice alternating, then add shredded mozzarella on top then bake it in the oven until the cheese melts and you are done!\r\n\r\n2) how to make Tuscan white beans \r\n- in a nonstick pan on low heat, drizzle some olive oil, half of a diced onion, and a cup of sliced mushrooms... then stir it all together\r\n- then add a half cup of sun-dried tomatoes (make sure they are drained), 3 minced garlic cloves, and mix it all together\r\n- then rinse and add 30 ounces of white beans, 15 ounces of pre-roasted tomatoes, 15 ounces of drained artichoke hearts, 2 tablespoons of balsamic vinegar, a tablespoon of honey, a teaspoon of oregano and thyme, and some pepper and salt to taste, then stir it all together\r\n- cover the lid and let it simmer for 10 minutes\r\n- after, add some chopped basil and it is ready to serve!\r\n\r\n3) how to make sheet pan jambalaya\r\n- chop up and add an onion, 3 bell peppers, and 2 cups of chicken sausage onto a sheet pan and add some olive oil and creole seasoning to taste\r\n- then mix it together and bake it at 425 degrees Fahrenheit or 220 degrees Celsius for 8 minutes\r\n- then, in a large bowl, add a pound of peeled and DE-veined shrimp, 1 teaspoon of creole seasoning, a half teaspoon of paprika, and then mix it all together\r\n- then to the onion-bell pepper mix on the pan, add the shrimp, 1 and a half cups of tomatoes, and then mix it again\r\n- then put it back into the oven for 6 more minutes and add four cups of cooked rice to the pan\r\n- mix it together and your sheet pan jambalaya is ready to be served\r\n\r\n4) how to make sheet pan steak fajitas\r\n- to a sheet pan, place a pound of flank steak in the middle and around it, and next to it add 3 chopped bell peppers (one of each color), and add half of a chopped red onion\r\n- now add olive oil, salt, pepper, chili powder, garlic powder, and cumin to taste\r\n- then mix the seasoning into the peppers onion, and steak...remembering to keep the groups separate and also seasoning the back of the steak as well\r\n-then squeeze half of a lime around the steak and vegetables, and bake it in the oven at 450 degrees Fahrenheit or 230 degrees Celsius for 12 minutes\r\n-then take the steak off of the pan and let it rest for 10 minutes before cutting it \r\n- the fajita is now ready to serve with some extra lime slices and tortillas",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Low-Stress",
+            "Low-Stress Dinners",
+            "one pan",
+            "one pan dinners",
+            "steak fajitas",
+            "jambalaya",
+            "tuscan white beans",
+            "sweet potato pizza bites",
+            "family dinner",
+            "easy dinner",
+            "quick dinner",
+            "fast easy dinner",
+            "easy healthy dinner",
+            "healthy family dinner",
+            "healthy family recipe",
+            "BuzzFeed",
+            "family dinners",
+            "food",
+            "cooking",
+            "Tasty",
+            "BuzzFeed Tasty"
+        ],
+        "custom_tags": [],
+        "_id": "5ac50b29b9b1ed1a198fc150",
+        "title": "Low-Stress Family Dinners",
+        "description": "Shop the Tasty kitchenware collection here: http://bit.ly/2IooLS4\n\nCheck us out on Facebook! - facebook.com/buzzfeedtasty\n\nCredits: https://www.buzzfeed.com/bfmp/videos/51376\n\n\nMUSIC\nBerry Blowback_MainMix\nLicensed via Warner Chappell Production Music Inc.",
+        "youtube_id": "6ZKVBUjaxOs",
+        "created_at": 20180404172809,
+        "updated_at": 20180421223729,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Howto & Style",
+        "category_id": "26",
+        "duration": 252
+    }
+}

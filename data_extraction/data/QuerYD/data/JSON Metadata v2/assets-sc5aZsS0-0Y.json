@@ -1,0 +1,105 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59b3304bc6c4802622d9bfd3",
+                        "video": "59b32fc2c6c4802622d9bfd1",
+                        "audio_description": "59b32fc2c6c4802622d9bfd0",
+                        "user": "59b32f38c6c4802622d9bfcb",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 5.992141,
+                        "end_time": 8.407016283446712,
+                        "duration": 2.414875283446712,
+                        "file_name": "sc5aZsS0-0Y_59b3304bc6c4802622d9bfd3.wav",
+                        "file_size_bytes": 426028,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/sc5aZsS0-0Y",
+                        "created_at": 20170909000531,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f661b81b2f1c5a36af84",
+                                "sentence": " There's a graph that shows employment rates.",
+                                "start_time": 0.21,
+                                "end_time": 2.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59b3317ac6c4802622d9bfd4",
+                        "video": "59b32fc2c6c4802622d9bfd1",
+                        "audio_description": "59b32fc2c6c4802622d9bfd0",
+                        "user": "59b32f38c6c4802622d9bfcb",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 13.793587,
+                        "end_time": 24.196126682539685,
+                        "duration": 10.402539682539683,
+                        "file_name": "sc5aZsS0-0Y_59b3317ac6c4802622d9bfd4.wav",
+                        "file_size_bytes": 1835052,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/sc5aZsS0-0Y",
+                        "created_at": 20170909001034,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f661b81b2f1c5a36af7d",
+                                "sentence": " In 19 91 50 point 2% of disabled americans were employed. And in 2010, 41.1% of disabled americans were employed.",
+                                "start_time": 0.12,
+                                "end_time": 7.26
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59b32fc2c6c4802622d9bfd0",
+                "video": "59b32fc2c6c4802622d9bfd1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59b32f38c6c4802622d9bfcb",
+                    "email": "mrstephenchung@gmail.com",
+                    "name": "stephen chung",
+                    "given_name": "stephen",
+                    "picture": "https://lh5.googleusercontent.com/-x2WSfVUenX8/AAAAAAAAAAI/AAAAAAAAAAA/APJypA1x9ZR6-S4mWw4XRsSTfpgO9K7ZnQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "114092851338193665521",
+                    "last_login": 20170909000056,
+                    "token": "3a7374174df9eb51e46a6777cd41841e9488f19402331d37c67da5e9d8d21462",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170909000314,
+                "updated_at": 20170911162027,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59b32fc2c6c4802622d9bfd1",
+        "title": "employment movie",
+        "description": "",
+        "youtube_id": "sc5aZsS0-0Y",
+        "created_at": 20170909000314,
+        "updated_at": 20170909001034,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

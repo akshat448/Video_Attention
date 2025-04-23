@@ -1,0 +1,148 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45e7",
+                        "audio_description": "58e7cf3046e13dfd851a2396",
+                        "created_at": 20150828193158,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150828193158,
+                        "file_name": "14408155186481.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2118,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15023,
+                        "video": "58e7cf2946e13dfd851a1c59",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac328108b490da613b375",
+                                "sentence": " Christopher, a teenager dressed in blue jean shorts and a blue shirt, sits near a table with an adult female.",
+                                "start_time": 1.25,
+                                "end_time": 8.75
+                            },
+                            {
+                                "_id": "5e3ac328108b490da613b374",
+                                "sentence": " On the table are many tactile symbols.",
+                                "start_time": 8.75,
+                                "end_time": 11.96
+                            },
+                            {
+                                "_id": "5e3ac328108b490da613b373",
+                                "sentence": " The adult communicates with christopher using tactile sign language and her voice.",
+                                "start_time": 11.96,
+                                "end_time": 16.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45e8",
+                        "audio_description": "58e7cf3046e13dfd851a2396",
+                        "created_at": 20150828193217,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150828193217,
+                        "file_name": "14408155375561.wav",
+                        "start_time": 8.697,
+                        "legacy_video_id": 2118,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15024,
+                        "video": "58e7cf2946e13dfd851a1c59",
+                        "end_time": 8.697,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac391d8af910da52dfda0",
+                                "sentence": " She places christopher's hand on a gripping of tactile symbols.",
+                                "start_time": 0.92,
+                                "end_time": 4.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5e46e13dfd851a45e9",
+                        "audio_description": "58e7cf3046e13dfd851a2396",
+                        "created_at": 20150828193241,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150828193241,
+                        "file_name": "14408155610871.wav",
+                        "start_time": 18.52,
+                        "legacy_video_id": 2118,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15025,
+                        "video": "58e7cf2946e13dfd851a1c59",
+                        "end_time": 18.52,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac328108b490da613b37b",
+                                "sentence": " She moves both of his hands to the grouping of tactile symbols and guides him to fill the symbols twice.",
+                                "start_time": 0.67,
+                                "end_time": 7.55
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2396",
+                "status": "published",
+                "legacy_video_id": 2118,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c59",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c59",
+        "description": "",
+        "youtube_id": "bDird_PgnVs",
+        "views": 0,
+        "created_at": 20150828193114,
+        "title": "Johanna and Christopher scan to first activity",
+        "legacy_video_id": 2118,
+        "updated_at": 20150828193241,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 44
+    }
+}

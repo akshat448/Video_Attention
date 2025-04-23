@@ -1,0 +1,89 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ed6ab63d8088e3397699e64",
+                        "video": "5ed6aac61eb74233959e0d45",
+                        "audio_description": "5ed6aac61eb74233959e0d44",
+                        "user": "5e9714f30f1dbb0a2d3b631c",
+                        "label": "Welcome Marie! ",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 2.507755102040816,
+                        "duration": 2.507755102040816,
+                        "file_name": "6wFr-o_M_Uo_5ed6ab63d8088e3397699e64.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6wFr-o_M_Uo",
+                        "created_at": 20200602194123,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5ed6ac41d8088e3397699e6a",
+                        "video": "5ed6aac61eb74233959e0d45",
+                        "audio_description": "5ed6aac61eb74233959e0d44",
+                        "user": "5e9714f30f1dbb0a2d3b631c",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 117.20093999999999,
+                        "end_time": 123.7025273015873,
+                        "duration": 6.501587301587302,
+                        "file_name": "6wFr-o_M_Uo_5ed6ac41d8088e3397699e6a.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6wFr-o_M_Uo",
+                        "created_at": 20200602194505,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5ed6aac61eb74233959e0d44",
+                "video": "5ed6aac61eb74233959e0d45",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e9714f30f1dbb0a2d3b631c",
+                    "email": "barberella76@gmail.com",
+                    "name": "Barbara Shipman",
+                    "given_name": "Barbara",
+                    "picture": "https://lh3.googleusercontent.com/a-/AOh14GhCdNG7B_NvSEDVyLg2rmGntxeJ2L7h--YRcSlC=s96-c",
+                    "locale": "en",
+                    "google_user_id": "100550852771708296079",
+                    "last_login": 20200602193806,
+                    "token": "f0ca7bd8421124516eab7ac1f83fdb2b86d7a9feeeace97203d20c70878403e0",
+                    "__v": 0,
+                    "updated_at": 20200602193806,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200602193846,
+                "updated_at": 20200602193846,
+                "notes": "Welcome Marie to MLBPH! ",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5ed6aac61eb74233959e0d45",
+        "title": "MLBPH Tech Advisor Welcome Message.",
+        "description": "",
+        "youtube_id": "6wFr-o_M_Uo",
+        "created_at": 20200602193846,
+        "updated_at": 20200602194505,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 123
+    }
+}

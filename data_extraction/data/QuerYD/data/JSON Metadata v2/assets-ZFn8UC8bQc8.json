@@ -1,0 +1,65 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fda64d269f2192f6390180a",
+                        "video": "5fd2b507a1480d63858c6965",
+                        "audio_description": "5fd2b507a1480d63858c6964",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 25.633291666666643,
+                        "end_time": 28.326806405895667,
+                        "duration": 2.693514739229025,
+                        "file_name": "ZFn8UC8bQc8_5fda64d269f2192f6390180a.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ZFn8UC8bQc8",
+                        "created_at": 20201216194938,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fd2b507a1480d63858c6964",
+                "video": "5fd2b507a1480d63858c6965",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5fc6b5fb95521063835ce383",
+                    "email": "ecastillojenn@gmail.com",
+                    "name": "Jennifer Castillo",
+                    "given_name": "Jennifer",
+                    "picture": "https://lh4.googleusercontent.com/-5bpnry8pqfg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckH9ncyvBYAW2kOTFQ5bs4EeopJOg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115887003623205163006",
+                    "last_login": 20201221205124,
+                    "token": "1114491ec716f0171a30639c483ee718d98ebe8e044084b7b6bf4e03ccbb3772",
+                    "__v": 0,
+                    "updated_at": 20201221205124
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201210235343,
+                "updated_at": 20201210235343,
+                "notes": "",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fd2b507a1480d63858c6965",
+        "title": "Day in the Life of an Octopus",
+        "description": "Aquarist Marla introduces an East Pacific red octopus. Find out about the octopus's powerful suckers, amazing eyesight, spectacular camouflage and interesting habits!\n\nFor more science videos, blog posts, and virtual tours, visit californiasciencecenter.org/beyond",
+        "youtube_id": "ZFn8UC8bQc8",
+        "created_at": 20201210235343,
+        "updated_at": 20201216194938,
+        "views": 0,
+        "__v": 0
+    }
+}

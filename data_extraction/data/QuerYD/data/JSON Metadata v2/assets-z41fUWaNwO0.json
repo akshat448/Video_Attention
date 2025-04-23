@@ -1,0 +1,121 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bf331ab285a4902088134d6",
+                        "video": "5bf331ab285a4902088134d8",
+                        "audio_description": "5bf331ab285a4902088134d7",
+                        "user": "5bf32e80af05527dd329feca",
+                        "label": "Intro description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 9.102222222222222,
+                        "duration": 9.102222222222222,
+                        "file_name": "z41fUWaNwO0_5bf331ab285a4902088134d6.wav",
+                        "file_size_bytes": 1605676,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/z41fUWaNwO0",
+                        "created_at": 20181119215659,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c909137a8cb729a4b332",
+                                "sentence": " Let us see some reasons why anyone should work at into it.",
+                                "start_time": 0.93,
+                                "end_time": 4.1
+                            },
+                            {
+                                "_id": "5e16c909137a8cb729a4b331",
+                                "sentence": " Forced some words from the leaders and engineers who have worked her.",
+                                "start_time": 4.1,
+                                "end_time": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bf331ebaf05527dd329fed3",
+                        "video": "5bf331ab285a4902088134d8",
+                        "audio_description": "5bf331ab285a4902088134d7",
+                        "user": "5bf32e80af05527dd329feca",
+                        "label": "Concluding description",
+                        "playback_type": "inline",
+                        "start_time": 187.615685,
+                        "end_time": 202.4764559750567,
+                        "duration": 14.86077097505669,
+                        "file_name": "z41fUWaNwO0_5bf331ebaf05527dd329fed3.wav",
+                        "file_size_bytes": 2621484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/z41fUWaNwO0",
+                        "created_at": 20181119215803,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c909137a8cb729a4b325",
+                                "sentence": " Find more Information at w w w dot entered careers dot com.",
+                                "start_time": 0.94,
+                                "end_time": 5.09
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bf331ab285a4902088134d7",
+                "video": "5bf331ab285a4902088134d8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bf32e80af05527dd329feca",
+                    "email": "poonam_tathavadkar@intuit.com",
+                    "name": "Poonam Tathavadkar",
+                    "given_name": "Poonam",
+                    "picture": "https://lh4.googleusercontent.com/-VX8aWN3R2i4/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gzxqQCzhtJpfqmbg6MR4zixmhUYA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "107899104876799495412",
+                    "last_login": 20181119214328,
+                    "token": "1f114f6ebdff1d847a4c4722fca514d0382cb04721125a9adb20b30f6f173c2c",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181119215659,
+                "updated_at": 20181120063159,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 8,
+                "admin_review": "",
+                "feedbacks": {
+                    "1": 1,
+                    "7": 1,
+                    "11": 1
+                }
+            }
+        ],
+        "tags": [
+            "technology",
+            "intuit",
+            "careers",
+            "california",
+            "jobs"
+        ],
+        "custom_tags": [],
+        "_id": "5bf331ab285a4902088134d8",
+        "title": "Intuit Career- why work at Intuit",
+        "description": "want to apply for jobs at intuit visit us at www.casanfranciscojobs.com",
+        "youtube_id": "z41fUWaNwO0",
+        "created_at": 20181119215659,
+        "updated_at": 20181119215803,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Science & Technology",
+        "category_id": "28",
+        "duration": 193
+    }
+}

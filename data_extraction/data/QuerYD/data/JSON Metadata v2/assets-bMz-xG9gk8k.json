@@ -1,0 +1,176 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5846e13dfd851a4164",
+                        "audio_description": "58e7cf3046e13dfd851a2360",
+                        "created_at": 20150427132454,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150427132454,
+                        "file_name": "14301662946911.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1963,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13440,
+                        "video": "58e7cf2846e13dfd851a1bbe",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a169168423183b465ac6",
+                                "sentence": " Jarvis sits directly in front of his intervenor, who communicates with him, be attacked outside. Language.",
+                                "start_time": 0.16,
+                                "end_time": 6.44
+                            },
+                            {
+                                "_id": "5e30a169168423183b465ac5",
+                                "sentence": " Beside them is a large tactile calendar that jarvis is exploring.",
+                                "start_time": 6.44,
+                                "end_time": 10.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a4165",
+                        "audio_description": "58e7cf3046e13dfd851a2360",
+                        "created_at": 20150427132551,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150427132551,
+                        "file_name": "14301663513011.wav",
+                        "start_time": 33.681,
+                        "legacy_video_id": 1963,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13441,
+                        "video": "58e7cf2846e13dfd851a1bbe",
+                        "end_time": 33.681,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.76,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a00588d6c9183c280ea9",
+                                "sentence": " The video changes to show jervis still sitting in front of his intervenor. There's a small table between them.",
+                                "start_time": 0.21,
+                                "end_time": 6.69
+                            },
+                            {
+                                "_id": "5e30a00588d6c9183c280ea8",
+                                "sentence": " They place tactile symbols off to strips of paper on the table.",
+                                "start_time": 6.69,
+                                "end_time": 10.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a4166",
+                        "audio_description": "58e7cf3046e13dfd851a2360",
+                        "created_at": 20150427132635,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150427132635,
+                        "file_name": "14301663957611.wav",
+                        "start_time": 57.663,
+                        "legacy_video_id": 1963,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13442,
+                        "video": "58e7cf2846e13dfd851a1bbe",
+                        "end_time": 57.663,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e310aacb9f2b0e2d2f9e076",
+                                "sentence": " They placed the strips of paper containing the tactile symbols onto the base of the calendar.",
+                                "start_time": 0.48,
+                                "end_time": 5.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5846e13dfd851a4167",
+                        "audio_description": "58e7cf3046e13dfd851a2360",
+                        "created_at": 20150427132803,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150427132803,
+                        "file_name": "14301664838221.wav",
+                        "start_time": 108.405,
+                        "legacy_video_id": 1963,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13443,
+                        "video": "58e7cf2846e13dfd851a1bbe",
+                        "end_time": 108.405,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e309f4a95a30d183d6a0240",
+                                "sentence": " Once all of the symbols have been moved to the appropriate spot on the base of the calendar, she encourages him to fill the empty table.",
+                                "start_time": 0.49,
+                                "end_time": 8.16
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2360",
+                "status": "published",
+                "legacy_video_id": 1963,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1bbe",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1bbe",
+        "description": "",
+        "youtube_id": "bMz-xG9gk8k",
+        "views": 0,
+        "created_at": 20150427131547,
+        "title": "Jarvis Drum zero to two",
+        "legacy_video_id": 1963,
+        "updated_at": 20150427132803,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 121
+    }
+}

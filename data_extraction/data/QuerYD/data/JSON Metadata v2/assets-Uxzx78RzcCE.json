@@ -1,0 +1,98 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5746e13dfd851a40b5",
+                        "audio_description": "58e7cf3046e13dfd851a2351",
+                        "created_at": 20150425154519,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425154519,
+                        "file_name": "14300019198031.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1942,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13238,
+                        "video": "58e7cf2846e13dfd851a1ba9",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 22.25,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a561168423183b465b69",
+                                "sentence": " Megan sits across from her teacher, chris. She lives her arm and pulls chris his hand towards her so that chris can tickle her.",
+                                "start_time": 0.79,
+                                "end_time": 7.64
+                            },
+                            {
+                                "_id": "5e30a561168423183b465b68",
+                                "sentence": " Then chris brings make his hand to her mouth so that megan can fill chris, say her name several times, making pools, chris his hand toward her body to be tickled under her arm.",
+                                "start_time": 7.67,
+                                "end_time": 18.17
+                            },
+                            {
+                                "_id": "5e30a561168423183b465b67",
+                                "sentence": " Chris responds by tickling her and telling her that she's silly.",
+                                "start_time": 18.17,
+                                "end_time": 22.16
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2351",
+                "status": "published",
+                "legacy_video_id": 1942,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1ba9",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "intervener",
+            "communication",
+            "communication without language",
+            "deaf-blind",
+            "OHOA learning modules"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ba9",
+        "description": "",
+        "youtube_id": "Uxzx78RzcCE",
+        "views": 0,
+        "created_at": 20150425154414,
+        "title": "OSSB Chr+ML armpit fun - Module 7 - Module 7",
+        "legacy_video_id": 1942,
+        "updated_at": 20150425154519,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 78
+    }
+}

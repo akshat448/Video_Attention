@@ -1,0 +1,396 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5646e13dfd851a4033",
+                        "audio_description": "58e7cf3046e13dfd851a2306",
+                        "created_at": 20150423104432,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150423104432,
+                        "file_name": "14298110721561.wav",
+                        "start_time": 3.224,
+                        "legacy_video_id": 1904,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13081,
+                        "video": "58e7cf2846e13dfd851a1b83",
+                        "end_time": 6.2940000000000005,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a8e9168423183b465c80",
+                                "sentence": " Montana university system.",
+                                "start_time": 0,
+                                "end_time": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a4034",
+                        "audio_description": "58e7cf3046e13dfd851a2306",
+                        "created_at": 20150423104454,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150423104454,
+                        "file_name": "14298110946611.wav",
+                        "start_time": 7.139,
+                        "legacy_video_id": 1904,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13082,
+                        "video": "58e7cf2846e13dfd851a1b83",
+                        "end_time": 10.209,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f788d6c9183c280ef6",
+                                "sentence": " What I wish I had known, financial aid.",
+                                "start_time": 0.16,
+                                "end_time": 2.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a4035",
+                        "audio_description": "58e7cf3046e13dfd851a2306",
+                        "created_at": 20150423104930,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150423104930,
+                        "file_name": "14298113701301.wav",
+                        "start_time": 21.977,
+                        "legacy_video_id": 1904,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13083,
+                        "video": "58e7cf2846e13dfd851a1b83",
+                        "end_time": 21.977,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a8e8168423183b465c1c",
+                                "sentence": " Rob radio and television.",
+                                "start_time": 0,
+                                "end_time": 2.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a4036",
+                        "audio_description": "58e7cf3046e13dfd851a2306",
+                        "created_at": 20150423104955,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150423104955,
+                        "file_name": "14298113959591.wav",
+                        "start_time": 39.856,
+                        "legacy_video_id": 1904,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13084,
+                        "video": "58e7cf2846e13dfd851a1b83",
+                        "end_time": 39.856,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f888d6c9183c280f57",
+                                "sentence": " Jessica history.",
+                                "start_time": 0.18,
+                                "end_time": 2.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a4037",
+                        "audio_description": "58e7cf3046e13dfd851a2306",
+                        "created_at": 20150423105029,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150423105029,
+                        "file_name": "14298114292161.wav",
+                        "start_time": 65.439,
+                        "legacy_video_id": 1904,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13085,
+                        "video": "58e7cf2846e13dfd851a1b83",
+                        "end_time": 65.439,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a561168423183b465b93",
+                                "sentence": " Page nursing program.",
+                                "start_time": 0.24,
+                                "end_time": 2.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a4038",
+                        "audio_description": "58e7cf3046e13dfd851a2306",
+                        "created_at": 20150423105106,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150423105106,
+                        "file_name": "14298114668841.wav",
+                        "start_time": 83.788,
+                        "legacy_video_id": 1904,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13086,
+                        "video": "58e7cf2846e13dfd851a1b83",
+                        "end_time": 83.788,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7488d6c9183c280fe7",
+                                "sentence": " Alexis English and art for education.",
+                                "start_time": 0.3,
+                                "end_time": 3.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a4039",
+                        "audio_description": "58e7cf3046e13dfd851a2306",
+                        "created_at": 20150423105138,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150423105138,
+                        "file_name": "14298114988111.wav",
+                        "start_time": 99.096,
+                        "legacy_video_id": 1904,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13087,
+                        "video": "58e7cf2846e13dfd851a1b83",
+                        "end_time": 99.096,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a8e8168423183b465c51",
+                                "sentence": " Sarah medical administration.",
+                                "start_time": 0.16,
+                                "end_time": 2.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a403a",
+                        "audio_description": "58e7cf3046e13dfd851a2306",
+                        "created_at": 20150423105245,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150423105245,
+                        "file_name": "14298115654751.wav",
+                        "start_time": 127.114,
+                        "legacy_video_id": 1904,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13090,
+                        "video": "58e7cf2846e13dfd851a1b83",
+                        "end_time": 127.114,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a562168423183b465be1",
+                                "sentence": " Just in math and statistics.",
+                                "start_time": 0.11,
+                                "end_time": 2.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a403b",
+                        "audio_description": "58e7cf3046e13dfd851a2306",
+                        "created_at": 20150423105311,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150423105311,
+                        "file_name": "14298115917041.wav",
+                        "start_time": 143.09,
+                        "legacy_video_id": 1904,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13091,
+                        "video": "58e7cf2846e13dfd851a1b83",
+                        "end_time": 143.09,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f788d6c9183c280f13",
+                                "sentence": " Jeff undeclared.",
+                                "start_time": 0.07,
+                                "end_time": 1.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a403c",
+                        "audio_description": "58e7cf3046e13dfd851a2306",
+                        "created_at": 20150423105401,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150423105401,
+                        "file_name": "14298116413031.wav",
+                        "start_time": 182.898,
+                        "legacy_video_id": 1904,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13092,
+                        "video": "58e7cf2846e13dfd851a1b83",
+                        "end_time": 186.478,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a562168423183b465bd5",
+                                "sentence": " M US dot e d u slash prepare.",
+                                "start_time": 0,
+                                "end_time": 3.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a403d",
+                        "audio_description": "58e7cf3046e13dfd851a2306",
+                        "created_at": 20150423105413,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150423105413,
+                        "file_name": "14298116537341.wav",
+                        "start_time": 187.672,
+                        "legacy_video_id": 1904,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13093,
+                        "video": "58e7cf2846e13dfd851a1b83",
+                        "end_time": 190.482,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30a8e9168423183b465c7a",
+                                "sentence": " The great seal of the state of montana.",
+                                "start_time": 0,
+                                "end_time": 2.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5646e13dfd851a403e",
+                        "audio_description": "58e7cf3046e13dfd851a2306",
+                        "created_at": 20150423105435,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150423105435,
+                        "file_name": "14298116751111.wav",
+                        "start_time": 192.702,
+                        "legacy_video_id": 1904,
+                        "legacy_user_id": 2569,
+                        "label": "",
+                        "legacy_audio_clip_id": 13094,
+                        "video": "58e7cf2846e13dfd851a1b83",
+                        "end_time": 200.12199999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a22ff",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280f96",
+                                "sentence": " The peer connection network, k PC n u m t dot e d u slash o s s slash k BC n.",
+                                "start_time": 0.33,
+                                "end_time": 7.03
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2306",
+                "status": "published",
+                "legacy_video_id": 1904,
+                "legacy_user_id": 2569,
+                "video": "58e7cf2846e13dfd851a1b83",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a22ff",
+                    "name": "jonathonpropp",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2569,
+                    "last_login": 0,
+                    "email": "jonathon.propp@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "MUSFinLit; KPCN; Montana University System",
+            "Financial Education",
+            "Financial Literacy",
+            "Student Loans",
+            "Paying for College",
+            "College",
+            "Montana"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b83",
+        "description": "",
+        "youtube_id": "KwOdedfBqHE",
+        "views": 0,
+        "created_at": 20150423104351,
+        "title": "What I Wish I Had Known: Financial Aid",
+        "legacy_video_id": 1904,
+        "updated_at": 20150423105437,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 197
+    }
+}

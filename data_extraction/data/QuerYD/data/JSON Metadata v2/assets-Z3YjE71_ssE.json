@@ -1,0 +1,124 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a252695741e446ed30323b7",
+                        "video": "5a252570741e446ed30323b6",
+                        "audio_description": "5a252570741e446ed30323b5",
+                        "user": "5a214a22741e446ed30323a3",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 1.08934,
+                        "end_time": 1.08934,
+                        "duration": 16.298666666666666,
+                        "file_name": "Z3YjE71_ssE_5a252695741e446ed30323b7.wav",
+                        "file_size_bytes": 3129388,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Z3YjE71_ssE",
+                        "created_at": 20171204104229,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e59f9cb9ce7eec77372b639",
+                                "sentence": "Al iniciar el v\u00eddeo aparece el logo de la campa\u00f1a creando conciencia all\u00ed es arco,",
+                                "start_time": 0,
+                                "end_time": 8.53
+                            },
+                            {
+                                "_id": "5e59f9cb9ce7eec77372b638",
+                                "sentence": "posteriormente una persona sostiene carteles con inscripciones que se van reproduciendo en forma oral.",
+                                "start_time": 8.53,
+                                "end_time": 18.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a252754741e446ed30323b8",
+                        "video": "5a252570741e446ed30323b6",
+                        "audio_description": "5a252570741e446ed30323b5",
+                        "user": "5a214a22741e446ed30323a3",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 48.058914,
+                        "end_time": 48.058914,
+                        "duration": 17.408,
+                        "file_name": "Z3YjE71_ssE_5a252754741e446ed30323b8.wav",
+                        "file_size_bytes": 3342380,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Z3YjE71_ssE",
+                        "created_at": 20171204104540,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e59f9ca9ce7eec77372b606",
+                                "sentence": "Al final. Aparece el nombre de la campa\u00f1a con los autores del v\u00eddeo,",
+                                "start_time": 0,
+                                "end_time": 8.15
+                            },
+                            {
+                                "_id": "5e59f9ca9ce7eec77372b605",
+                                "sentence": "Gisel Anabel y cesaro campos,",
+                                "start_time": 8.15,
+                                "end_time": 10.52
+                            },
+                            {
+                                "_id": "5e59f9ca9ce7eec77372b604",
+                                "sentence": "tambi\u00e9n con la aclaraci\u00f3n de que el audio utilizado es de Coldplay trouble.",
+                                "start_time": 10.52,
+                                "end_time": 21.08
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a252570741e446ed30323b5",
+                "video": "5a252570741e446ed30323b6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a214a22741e446ed30323a3",
+                    "email": "cocampos19@gmail.com",
+                    "name": "C\u00e9sar Jos\u00e9 Ocampos Acu\u00f1a",
+                    "given_name": "C\u00e9sar Jos\u00e9",
+                    "picture": "https://lh3.googleusercontent.com/-KBXVUNZ9CS8/AAAAAAAAAAI/AAAAAAAABFw/ZlXOAZYxmOw/s96-c/photo.jpg",
+                    "locale": "es-PY",
+                    "google_user_id": "100155829497483572564",
+                    "last_login": 20171204095333,
+                    "token": "088a6bf4d7a6cd0d31ed8bc2b97b7ae1bc1a4dffb1336dc5d7648d2b9e49ac18",
+                    "__v": 0,
+                    "updated_at": 20171204095333,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "es-py",
+                "created_at": 20171204103736,
+                "updated_at": 20171220232824,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5a252570741e446ed30323b6",
+        "title": "Ajesareko",
+        "description": "Campa\u00f1a: Creando Conciencia",
+        "youtube_id": "Z3YjE71_ssE",
+        "created_at": 20171204103736,
+        "updated_at": 20171204104540,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 52
+    }
+}

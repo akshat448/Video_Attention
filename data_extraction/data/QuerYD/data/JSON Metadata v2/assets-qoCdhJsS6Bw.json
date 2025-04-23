@@ -1,0 +1,783 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b9956c17f814c36fbadd374",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "Star Wars passage in full",
+                        "playback_type": "extended",
+                        "start_time": 19.93335611444092,
+                        "end_time": 19.93335611444092,
+                        "duration": 35.57297052154195,
+                        "file_name": "qoCdhJsS6Bw_5b9956c17f814c36fbadd374.wav",
+                        "file_size_bytes": 6275116,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912181113,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94988",
+                                "sentence": " A passage of text appears, emulating the opening scene of the star wars movie.",
+                                "start_time": 1.07,
+                                "end_time": 5.36
+                            },
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94987",
+                                "sentence": " The text reads. It is a period of civil war. Rebel spaceships striking from a hidden base have won their first victory against the evil galactic empire.",
+                                "start_time": 5.36,
+                                "end_time": 14.41
+                            },
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94986",
+                                "sentence": " During the battle, rebel spies managed to steal secret plans to the empires ultimate weapon, the death star,",
+                                "start_time": 14.41,
+                                "end_time": 20.87
+                            },
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94985",
+                                "sentence": " an armored space station with enough power to destroy an entire planet",
+                                "start_time": 20.87,
+                                "end_time": 24.96
+                            },
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94984",
+                                "sentence": " pursued by the empires sinister agents. Princess layer races home aboard her starship custodian of the stolen plans that can save her people and restore freedom to the Galaxy.",
+                                "start_time": 25.08,
+                                "end_time": 35.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b99583c7cdff3540980e7e2",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "A long time ago...",
+                        "playback_type": "extended",
+                        "start_time": 40.29816089700317,
+                        "end_time": 40.29816089700317,
+                        "duration": 8.823582766439909,
+                        "file_name": "qoCdhJsS6Bw_5b99583c7cdff3540980e7e2.wav",
+                        "file_size_bytes": 1556524,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912181732,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7afafed6d97588d2caf",
+                                "sentence": " The words a long time ago in a Galaxy far far away are highlighted and annotated with",
+                                "start_time": 0.77,
+                                "end_time": 7.25
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cae",
+                                "sentence": " this is a great quote.",
+                                "start_time": 7.25,
+                                "end_time": 8.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b995d167cdff3540980e7e9",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "unacceptable summary",
+                        "playback_type": "extended",
+                        "start_time": 142.811762,
+                        "end_time": 142.811762,
+                        "duration": 39.84544217687075,
+                        "file_name": "qoCdhJsS6Bw_5b995d167cdff3540980e7e9.wav",
+                        "file_size_bytes": 7028780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912183814,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf744142332f10dce368",
+                                "sentence": " The screen text reads",
+                                "start_time": 0.81,
+                                "end_time": 2.45
+                            },
+                            {
+                                "_id": "5e4dcf744142332f10dce367",
+                                "sentence": " the movie star wars opens with a brief history of the events that happened before the action begins.",
+                                "start_time": 2.45,
+                                "end_time": 7.31
+                            },
+                            {
+                                "_id": "5e4dcf744142332f10dce366",
+                                "sentence": " We are told that a long time ago in a Galaxy far far away,",
+                                "start_time": 7.31,
+                                "end_time": 11.59
+                            },
+                            {
+                                "_id": "5e4dcf744142332f10dce365",
+                                "sentence": " there is a civil war between the rebels and the evil galactic empire.",
+                                "start_time": 11.59,
+                                "end_time": 15.26
+                            },
+                            {
+                                "_id": "5e4dcf744142332f10dce364",
+                                "sentence": " Rebel spies were able to steal the secret plans to the empires new super weapon, the death star",
+                                "start_time": 15.27,
+                                "end_time": 20.84
+                            },
+                            {
+                                "_id": "5e4dcf744142332f10dce363",
+                                "sentence": " princess layer speeding home on her starship.",
+                                "start_time": 20.87,
+                                "end_time": 23.55
+                            },
+                            {
+                                "_id": "5e4dcf744142332f10dce362",
+                                "sentence": " The empire is pursuing her and trying to get them back.",
+                                "start_time": 24.03,
+                                "end_time": 27.33
+                            },
+                            {
+                                "_id": "5e4dcf744142332f10dce361",
+                                "sentence": " In. What follows? The narrator will refer to the text, the movie star wars as the citation",
+                                "start_time": 27.52,
+                                "end_time": 33.52
+                            },
+                            {
+                                "_id": "5e4dcf744142332f10dce360",
+                                "sentence": " and a long time ago in a Galaxy far, far away",
+                                "start_time": 33.52,
+                                "end_time": 37.23
+                            },
+                            {
+                                "_id": "5e4dcf744142332f10dce35f",
+                                "sentence": " as the great quote.",
+                                "start_time": 37.23,
+                                "end_time": 38.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b995f4f7f814c36fbadd37a",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "first summary",
+                        "playback_type": "extended",
+                        "start_time": 94.72089607247925,
+                        "end_time": 94.72089607247925,
+                        "duration": 46.439909297052154,
+                        "file_name": "qoCdhJsS6Bw_5b995f4f7f814c36fbadd37a.wav",
+                        "file_size_bytes": 8192044,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912184743,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc309cae6a999b3850b18",
+                                "sentence": " The screen text reads",
+                                "start_time": 0.71,
+                                "end_time": 2.36
+                            },
+                            {
+                                "_id": "5e4cc309cae6a999b3850b17",
+                                "sentence": " the movie star wars opens with a brief history of the events that happened before the action begins.",
+                                "start_time": 2.44,
+                                "end_time": 7.73
+                            },
+                            {
+                                "_id": "5e4cc309cae6a999b3850b16",
+                                "sentence": " We are told that quote a long time ago in a Galaxy far far away and quote,",
+                                "start_time": 7.73,
+                                "end_time": 13.68
+                            },
+                            {
+                                "_id": "5e4cc309cae6a999b3850b15",
+                                "sentence": " there are two factions engaged in a civil war,",
+                                "start_time": 13.68,
+                                "end_time": 16.6
+                            },
+                            {
+                                "_id": "5e4cc309cae6a999b3850b14",
+                                "sentence": " the rebels, the good guys, and the galactic empire, the bad guys.",
+                                "start_time": 16.6,
+                                "end_time": 21.14
+                            },
+                            {
+                                "_id": "5e4cc309cae6a999b3850b13",
+                                "sentence": " The empire is building a new weapon, the death star, which will likely destroy the rebels.",
+                                "start_time": 21.14,
+                                "end_time": 26.65
+                            },
+                            {
+                                "_id": "5e4cc309cae6a999b3850b12",
+                                "sentence": " The rebels have stolen plans to the death star, and the empire is trying to get them back.",
+                                "start_time": 26.65,
+                                "end_time": 31.54
+                            },
+                            {
+                                "_id": "5e4cc309cae6a999b3850b11",
+                                "sentence": " In. What follows, the narrator will refer to the phrase the movie star wars as citation Information.",
+                                "start_time": 32.21,
+                                "end_time": 38.59
+                            },
+                            {
+                                "_id": "5e4cc309cae6a999b3850b10",
+                                "sentence": " And she refers to a long time ago in a Galaxy far far away as her great quote.",
+                                "start_time": 38.92,
+                                "end_time": 45.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b9960827cdff3540980e7eb",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "first paraphrase original",
+                        "playback_type": "extended",
+                        "start_time": 242.57068800953675,
+                        "end_time": 242.57068800953675,
+                        "duration": 9.47374149659864,
+                        "file_name": "qoCdhJsS6Bw_5b9960827cdff3540980e7eb.wav",
+                        "file_size_bytes": 1671212,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912185250,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cd3",
+                                "sentence": " Text appears on the screen.",
+                                "start_time": 0.87,
+                                "end_time": 2.34
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cd2",
+                                "sentence": " The authors studied the effects of sub zero temperatures on the mortality of radice norwegian kiss.",
+                                "start_time": 2.59,
+                                "end_time": 8.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b9960b37f814c36fbadd37b",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "first paraphrase sample",
+                        "playback_type": "extended",
+                        "start_time": 256.3595009408722,
+                        "end_time": 256.3595009408722,
+                        "duration": 7.894784580498866,
+                        "file_name": "qoCdhJsS6Bw_5b9960b37f814c36fbadd37b.wav",
+                        "file_size_bytes": 1392684,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912185339,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fcb5327e2f0f9c8db7",
+                                "sentence": " Text appears on the screen.",
+                                "start_time": 0.71,
+                                "end_time": 2.41
+                            },
+                            {
+                                "_id": "5e4dd0fcb5327e2f0f9c8db6",
+                                "sentence": " This study looked at how rats were able to survive or not in very cold temperatures.",
+                                "start_time": 2.63,
+                                "end_time": 7.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b9961147f814c36fbadd37c",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "second paraphrase original",
+                        "playback_type": "extended",
+                        "start_time": 301.4060619332428,
+                        "end_time": 301.4060619332428,
+                        "duration": 14.489251700680272,
+                        "file_name": "qoCdhJsS6Bw_5b9961147f814c36fbadd37c.wav",
+                        "file_size_bytes": 2555948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912185516,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94997",
+                                "sentence": " Text appears on the screen.",
+                                "start_time": 0.77,
+                                "end_time": 2.42
+                            },
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94996",
+                                "sentence": " Researchers found rats formed an equally strong association between the pleasurable effects of over eating oreo",
+                                "start_time": 2.67,
+                                "end_time": 9.19
+                            },
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94995",
+                                "sentence": " and a specific environment, as they did between cocaine or morphine, and a specific environment.",
+                                "start_time": 9.19,
+                                "end_time": 14.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b99614c7f814c36fbadd37d",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "second paraphrase sample",
+                        "playback_type": "extended",
+                        "start_time": 314.1620200457764,
+                        "end_time": 314.1620200457764,
+                        "duration": 12.72453514739229,
+                        "file_name": "qoCdhJsS6Bw_5b99614c7f814c36fbadd37d.wav",
+                        "file_size_bytes": 2244652,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912185612,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc225da4a9499b120372e",
+                                "sentence": " Text appears on the screen.",
+                                "start_time": 0.78,
+                                "end_time": 2.65
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b120372d",
+                                "sentence": " The study looked at the similarity between the highs produced by sugary junk food and specific drugs",
+                                "start_time": 2.67,
+                                "end_time": 8.31
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b120372c",
+                                "sentence": " in the way that rats responded by wanting to be where those substances were available.",
+                                "start_time": 8.31,
+                                "end_time": 12.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b9961f67cdff3540980e7ed",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "My name is Inigo Montoya",
+                        "playback_type": "extended",
+                        "start_time": 393.25944704005434,
+                        "end_time": 393.25944704005434,
+                        "duration": 7.523265306122449,
+                        "file_name": "qoCdhJsS6Bw_5b9961f67cdff3540980e7ed.wav",
+                        "file_size_bytes": 1327148,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912185902,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dbd8f3a3b5681e2b94950",
+                                "sentence": " A sign appears that reads, hello, my name is an eagle. Montoya! You killed my father? Prepare to die!",
+                                "start_time": 0.73,
+                                "end_time": 7.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b99621e7f814c36fbadd37e",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "Inigo Montoya paraphrase",
+                        "playback_type": "extended",
+                        "start_time": 402.57293793896486,
+                        "end_time": 402.57293793896486,
+                        "duration": 9.287981859410431,
+                        "file_name": "qoCdhJsS6Bw_5b99621e7f814c36fbadd37e.wav",
+                        "file_size_bytes": 1638444,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912185942,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc224da4a9499b12036a9",
+                                "sentence": " Text appears on the screen.",
+                                "start_time": 0.97,
+                                "end_time": 2.67
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b12036a8",
+                                "sentence": " Montoya introduces himself,",
+                                "start_time": 2.81,
+                                "end_time": 4.84
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b12036a7",
+                                "sentence": " informs his foe of the reason for his anger and immediately issues a threat.",
+                                "start_time": 4.84,
+                                "end_time": 9.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b9962687cdff3540980e7ee",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "Star Wars first original",
+                        "playback_type": "extended",
+                        "start_time": 425.2935201068115,
+                        "end_time": 425.2935201068115,
+                        "duration": 11.052698412698414,
+                        "file_name": "qoCdhJsS6Bw_5b9962687cdff3540980e7ee.wav",
+                        "file_size_bytes": 1949740,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912190056,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cab",
+                                "sentence": " Text appears on screen.",
+                                "start_time": 1.02,
+                                "end_time": 2.55
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2caa",
+                                "sentence": " It is a period of civil war. Rebel spaceships striking from a hidden base have won their first victory against the evil galactic empire.",
+                                "start_time": 2.72,
+                                "end_time": 10.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b99629d7cdff3540980e7ef",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "Star Wars first paraphrase",
+                        "playback_type": "extended",
+                        "start_time": 433.5413838989105,
+                        "end_time": 433.5413838989105,
+                        "duration": 19.040362811791383,
+                        "file_name": "qoCdhJsS6Bw_5b99629d7cdff3540980e7ef.wav",
+                        "file_size_bytes": 3358764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912190149,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc224da4a9499b12036a6",
+                                "sentence": " Text appears on screen.",
+                                "start_time": 0.92,
+                                "end_time": 2.57
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b12036a5",
+                                "sentence": " At the beginning of the movie star wars. The viewers informed that the rebels and the galactic empire are engaged in a civil war.",
+                                "start_time": 2.78,
+                                "end_time": 9.3
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b12036a4",
+                                "sentence": " The rebels are using guerrilla tactics, resulting in a recent success.",
+                                "start_time": 9.34,
+                                "end_time": 13.3
+                            },
+                            {
+                                "_id": "5e4cc224da4a9499b12036a3",
+                                "sentence": " And they are the heroic underdogs fighting, quote, the evil galactic empire and quote.",
+                                "start_time": 13.3,
+                                "end_time": 18.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b9963047f814c36fbadd37f",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "second paragraph paraphrase",
+                        "playback_type": "extended",
+                        "start_time": 470.05014297901914,
+                        "end_time": 470.05014297901914,
+                        "duration": 24.055873015873015,
+                        "file_name": "qoCdhJsS6Bw_5b9963047f814c36fbadd37f.wav",
+                        "file_size_bytes": 4243500,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912190332,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7afafed6d97588d2ca5",
+                                "sentence": " Text appears on screen and two columns.",
+                                "start_time": 0.99,
+                                "end_time": 3.36
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2ca4",
+                                "sentence": " On the left is the original text.",
+                                "start_time": 3.36,
+                                "end_time": 5.56
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2ca3",
+                                "sentence": " During the battle, rebel spies managed to steal secret plans to the empires ultimate weapon, the death star,",
+                                "start_time": 5.58,
+                                "end_time": 11.67
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2ca2",
+                                "sentence": " an armored space station with enough power to destroy an entire planet.",
+                                "start_time": 11.67,
+                                "end_time": 15.68
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2ca1",
+                                "sentence": " On the right is the paraphrase text.",
+                                "start_time": 15.92,
+                                "end_time": 18.18
+                            },
+                            {
+                                "_id": "5e4cb7afafed6d97588d2ca0",
+                                "sentence": " The rebels have just sold the plans to a cataclysmic weapon that is likely to win the war for the empire.",
+                                "start_time": 18.2,
+                                "end_time": 24.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b9963557cdff3540980e7f0",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "third paragraph paraphrased",
+                        "playback_type": "extended",
+                        "start_time": 495.4200501354217,
+                        "end_time": 495.4200501354217,
+                        "duration": 25.913469387755104,
+                        "file_name": "qoCdhJsS6Bw_5b9963557cdff3540980e7f0.wav",
+                        "file_size_bytes": 4571180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912190453,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7adafed6d97588d2c64",
+                                "sentence": " Text appears on screen in two columns. On the left is the original text",
+                                "start_time": 1.5,
+                                "end_time": 5.78
+                            },
+                            {
+                                "_id": "5e4cb7adafed6d97588d2c63",
+                                "sentence": " pursued by the empire sinister agents. Princess layer races home aboard her starship custodian of the stolen plans that can save her people",
+                                "start_time": 5.95,
+                                "end_time": 13.96
+                            },
+                            {
+                                "_id": "5e4cb7adafed6d97588d2c62",
+                                "sentence": " and restore freedom to the Galaxy.",
+                                "start_time": 13.96,
+                                "end_time": 15.92
+                            },
+                            {
+                                "_id": "5e4cb7adafed6d97588d2c61",
+                                "sentence": " On the right is the paraphrase text. The empire is giving chase to one of the main rebel characters, princess layer,",
+                                "start_time": 15.98,
+                                "end_time": 22.63
+                            },
+                            {
+                                "_id": "5e4cb7adafed6d97588d2c60",
+                                "sentence": " who hopes to use the plans to win the fight against the empire.",
+                                "start_time": 22.63,
+                                "end_time": 25.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b9964dd7cdff3540980e7f1",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 531.2866260000001,
+                        "end_time": 531.2866260000001,
+                        "duration": 27.678185941043083,
+                        "file_name": "qoCdhJsS6Bw_5b9964dd7cdff3540980e7f1.wav",
+                        "file_size_bytes": 4882476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912191125,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94994",
+                                "sentence": " Text appears on screen and two columns. On the left is the original text.",
+                                "start_time": 0.64,
+                                "end_time": 5.18
+                            },
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94993",
+                                "sentence": " It is a period of civil war. Rebel spaceships striking from a hidden base have won their first victory against the evil galactic empire.",
+                                "start_time": 5.2,
+                                "end_time": 13.02
+                            },
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94992",
+                                "sentence": " On the right is the paraphrase text.",
+                                "start_time": 13.2,
+                                "end_time": 15.56
+                            },
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94991",
+                                "sentence": " At the beginning of the movie star wars, the viewer is informed at the rebels and the galactic empire are engaged in civil war.",
+                                "start_time": 15.65,
+                                "end_time": 21.93
+                            },
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94990",
+                                "sentence": " The rebels striking from hidden base had a recent victory against the evil galactic empire.",
+                                "start_time": 21.96,
+                                "end_time": 27.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b99663c7cdff3540980e7f2",
+                        "video": "5b9956c17f814c36fbadd376",
+                        "audio_description": "5b9956c17f814c36fbadd375",
+                        "user": "5b89aa7d5233bd4b6f049178",
+                        "label": "second paraphrase unacceptable",
+                        "playback_type": "extended",
+                        "start_time": 553.446565,
+                        "end_time": 553.446565,
+                        "duration": 47.368707482993194,
+                        "file_name": "qoCdhJsS6Bw_5b99663c7cdff3540980e7f2.wav",
+                        "file_size_bytes": 8355884,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/qoCdhJsS6Bw",
+                        "created_at": 20180912191716,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc225da4a9499b1203707",
+                                "sentence": " On the left is the original text.",
+                                "start_time": 0.74,
+                                "end_time": 2.78
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203706",
+                                "sentence": " During the battle, rebel spies managed to steal secret plans to the empires ultimate weapon, the death star,",
+                                "start_time": 2.87,
+                                "end_time": 9.15
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203705",
+                                "sentence": " an armored space station with enough power to destroy an entire planet",
+                                "start_time": 9.15,
+                                "end_time": 13.46
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203704",
+                                "sentence": " pursued by the empire sinister agents. Princess layer races home aboard her starship custodian of the stolen plans that can save her people",
+                                "start_time": 13.63,
+                                "end_time": 22.3
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203703",
+                                "sentence": " and restore freedom to the Galaxy.",
+                                "start_time": 22.3,
+                                "end_time": 24.42
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203702",
+                                "sentence": " On the right is the paraphrase.",
+                                "start_time": 24.69,
+                                "end_time": 27
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203701",
+                                "sentence": " During the recent fight, rebel spies were able to steal the plans to the empire supreme weapon.",
+                                "start_time": 27,
+                                "end_time": 32.48
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b1203700",
+                                "sentence": " The death star is a space station strong enough to vaporize a whole planet.",
+                                "start_time": 32.48,
+                                "end_time": 36.88
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b12036ff",
+                                "sentence": " Princess layer is being chased by the evil members of the empire as she heads to her homeworld, because she has the stolen plans that can save the rebels and bring peace to the universe.",
+                                "start_time": 37.08,
+                                "end_time": 47.33
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b9956c17f814c36fbadd375",
+                "video": "5b9956c17f814c36fbadd376",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b89aa7d5233bd4b6f049178",
+                    "email": "cidhumanities@gmail.com",
+                    "name": "CID Humanities",
+                    "given_name": "CID",
+                    "picture": "https://lh5.googleusercontent.com/-sNfRBftPVDI/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaNcYcZvzXJm_x8jLAobjb58kdzggw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "101427538101750550731",
+                    "last_login": 20190729151228,
+                    "token": "7c96bad087095285806ec9ed7084ae61de99f45adbaac62d1aa5befe2ce01f72",
+                    "__v": 0,
+                    "updated_at": 20190729151228,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180912181113,
+                "updated_at": 20180912181113,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5b9956c17f814c36fbadd376",
+        "title": "Summarizing, Paraphrasing, and Quoting: A Guide to Doing it Right!",
+        "description": "",
+        "youtube_id": "qoCdhJsS6Bw",
+        "created_at": 20180912181113,
+        "updated_at": 20180912191716,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 853
+    }
+}

@@ -1,0 +1,291 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [],
+                "_id": "5c3809fbb6c5060942091f53",
+                "video": "5c3809fbb6c5060942091f54",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c3806f8e74835797434a075",
+                    "email": "fsmit005@plattsburgh.edu",
+                    "name": "Felicia Smith",
+                    "given_name": "Felicia",
+                    "picture": "https://lh3.googleusercontent.com/-AgcWJ9ZD3Eo/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcY1Cwz3lXr5c8boM9TnEgpPXI_Riw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "101444002574003080921",
+                    "last_login": 20190111034745,
+                    "token": "a51ff3e0b9af6e2c0551c112206079d7b60ac786b9f742063a8d9a74ff747330",
+                    "__v": 0,
+                    "updated_at": 20190111034745,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190111031403,
+                "updated_at": 20190111031403,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c3bef10792ed604f8cd7115",
+                        "video": "5c3809fbb6c5060942091f54",
+                        "audio_description": "5c3beaa45d6e4004fe2d03e0",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 15.51092970521542,
+                        "duration": 15.51092970521542,
+                        "file_name": "p6qbJMBKato_5c3bef10792ed604f8cd7115.wav",
+                        "file_size_bytes": 2736172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/p6qbJMBKato",
+                        "created_at": 20190114020816,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c909137a8cb729a4b353",
+                                "sentence": " An animation of a teacher appears in a classroom waves and says, hello, awesome students,",
+                                "start_time": 0.75,
+                                "end_time": 6.33
+                            },
+                            {
+                                "_id": "5e16c909137a8cb729a4b352",
+                                "sentence": " many excited students join her on the screen. And she tells them that it's going to be an exciting semester",
+                                "start_time": 6.33,
+                                "end_time": 11.95
+                            },
+                            {
+                                "_id": "5e16c909137a8cb729a4b351",
+                                "sentence": " as long as ever, and follows these few simple rules.",
+                                "start_time": 11.95,
+                                "end_time": 15.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bef475d6e4004fe2d03e1",
+                        "video": "5c3809fbb6c5060942091f54",
+                        "audio_description": "5c3beaa45d6e4004fe2d03e0",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 17.734532,
+                        "end_time": 33.52410116099773,
+                        "duration": 15.789569160997733,
+                        "file_name": "p6qbJMBKato_5c3bef475d6e4004fe2d03e1.wav",
+                        "file_size_bytes": 2785324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/p6qbJMBKato",
+                        "created_at": 20190114020911,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c909137a8cb729a4b2ec",
+                                "sentence": " The projector screen seems to be pulled down, and the first rule appears be on time. And the same teachers motions two o'clock.",
+                                "start_time": 0.42,
+                                "end_time": 7.9
+                            },
+                            {
+                                "_id": "5e16c909137a8cb729a4b2eb",
+                                "sentence": " The screen changes issuing the next rule, no cell phones in the class, unless the teacher says it's ok. And the sign shows the prohibition of a phone.",
+                                "start_time": 7.9,
+                                "end_time": 15.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bef71792ed604f8cd7116",
+                        "video": "5c3809fbb6c5060942091f54",
+                        "audio_description": "5c3beaa45d6e4004fe2d03e0",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 33.516785,
+                        "end_time": 52.09274871882086,
+                        "duration": 18.575963718820862,
+                        "file_name": "p6qbJMBKato_5c3bef71792ed604f8cd7116.wav",
+                        "file_size_bytes": 3276844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/p6qbJMBKato",
+                        "created_at": 20190114020953,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c7728d1b6b9aa0fea53a",
+                                "sentence": " A megaphone pops onto the screen along with the 3rd. We'll raise your hand if you want to speak",
+                                "start_time": 0.15,
+                                "end_time": 5.19
+                            },
+                            {
+                                "_id": "5e16c7728d1b6b9aa0fea539",
+                                "sentence": " as a heart reading been ice shows up on the screen. The fourth rule also reads respect your classmates, your teacher, the school and its staff, and ultimately yourself.",
+                                "start_time": 5.6,
+                                "end_time": 15.81
+                            },
+                            {
+                                "_id": "5e16c7728d1b6b9aa0fea538",
+                                "sentence": " Bullying will not be tolerated.",
+                                "start_time": 15.81,
+                                "end_time": 17.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3bef8b792ed604f8cd7117",
+                        "video": "5c3809fbb6c5060942091f54",
+                        "audio_description": "5c3beaa45d6e4004fe2d03e0",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 51.85654,
+                        "end_time": 64.7668347845805,
+                        "duration": 12.910294784580499,
+                        "file_name": "p6qbJMBKato_5c3bef8b792ed604f8cd7117.wav",
+                        "file_size_bytes": 2277420,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/p6qbJMBKato",
+                        "created_at": 20190114021019,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c7738d1b6b9aa0fea5a8",
+                                "sentence": " The next rule appears, telling a child to always listen to the teacher.",
+                                "start_time": 0.22,
+                                "end_time": 4.72
+                            },
+                            {
+                                "_id": "5e16c7738d1b6b9aa0fea5a7",
+                                "sentence": " Now, many materials show up on the screen and along with it, the 6th rule, which says bring only the essentials for this class.",
+                                "start_time": 5.13,
+                                "end_time": 12.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3befaa5d6e4004fe2d03e2",
+                        "video": "5c3809fbb6c5060942091f54",
+                        "audio_description": "5c3beaa45d6e4004fe2d03e0",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 68.012681,
+                        "end_time": 78.04370140816326,
+                        "duration": 10.031020408163265,
+                        "file_name": "p6qbJMBKato_5c3befaa5d6e4004fe2d03e2.wav",
+                        "file_size_bytes": 1769516,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/p6qbJMBKato",
+                        "created_at": 20190114021050,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c909137a8cb729a4b306",
+                                "sentence": " The screen is pull down once more, and two boys annoy your teacher with gibberish, while the 7th rule states to speak in English at all times.",
+                                "start_time": 0.47,
+                                "end_time": 8.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3befc85d6e4004fe2d03e3",
+                        "video": "5c3809fbb6c5060942091f54",
+                        "audio_description": "5c3beaa45d6e4004fe2d03e0",
+                        "user": "5a9c74ced50e4355f988497b",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 78.053681,
+                        "end_time": 95.97948598866213,
+                        "duration": 17.925804988662133,
+                        "file_name": "p6qbJMBKato_5c3befc85d6e4004fe2d03e3.wav",
+                        "file_size_bytes": 3162156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/p6qbJMBKato",
+                        "created_at": 20190114021120,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e16c7738d1b6b9aa0fea5c3",
+                                "sentence": " The final rule, along with many happy faces appear on to the screen reading have fun!",
+                                "start_time": 0.25,
+                                "end_time": 6.71
+                            },
+                            {
+                                "_id": "5e16c7738d1b6b9aa0fea5c2",
+                                "sentence": " Now, the last shot of a back to school bus has an overarching message which continues on saying that it is going to be an awesome semester.",
+                                "start_time": 7.04,
+                                "end_time": 15.69
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c3beaa45d6e4004fe2d03e0",
+                "video": "5c3809fbb6c5060942091f54",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a9c74ced50e4355f988497b",
+                    "email": "gunnyahhh@gmail.com",
+                    "name": "Joseph Lee",
+                    "given_name": "Joseph",
+                    "picture": "https://lh5.googleusercontent.com/-6EqPf4R6QZQ/AAAAAAAAAAI/AAAAAAAAACI/Pzk8eL-0-HI/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113785133396582188569",
+                    "last_login": 20200615212725,
+                    "token": "58c63a03ad29dab58af38c6bcf8f370a86885d7de0bdbe86753bab254a248e0b",
+                    "__v": 0,
+                    "updated_at": 20200615212725,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190114014924,
+                "updated_at": 20190116201548,
+                "notes": "1) an animation of a teacher appears in a classroom, waves, and says hello my awesome students!\n\n2) many excited students join her on the screen and she tells them that it is going to be an exciting semester as long as everyone follows these few, simple rules\"\n\n3) the projector screen seems to be pulled down and the first rule appears: be on time and the same teacher motions to a clock\n\n4) the screen changes issuing the next rule: no cell phones in the class unless the teacher says it's ok, and a sign shows the prohibition of a phone\n\n5) a megaphone pops onto the screen along with the third rule: raise your hands if you want to speak\n\n6) as a heart reading - be nice - shows up on the screen, the fourth rule also reads: respect your classmates, your teacher, the school and its staff, and ultimately yourself, bullying will NOT be tolerated\n\n7) the next rule appears telling a child to always listen to the teacher\n\n8) many materials show up on the screen and along with it the sixth rule, which says: bring only the essential for this class\n\n9) the screen is pulled down once more and two boys annoy a teacher with gibberish while the seventh rule states to speak English\n\n10) the final rule along with many happy faces appear onto the screen reading: Have fun!\n\n11)  the last shot of a back to school bus has an overarching message which continues on saying that it is going to be an awesome semester",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "classroom",
+            "Animated Clip",
+            "rules",
+            "Free animation software",
+            "Animated Videos",
+            "Free Presentation software",
+            "Animated Presentation",
+            "Make your own animation",
+            "Presentation software",
+            "EFL",
+            "kids",
+            "teens",
+            "Explainer video",
+            "PowToon"
+        ],
+        "custom_tags": [],
+        "_id": "5c3809fbb6c5060942091f54",
+        "title": "Classroom Rules for EFL/ESL classes",
+        "description": "Classrooms rules for EFL classes. Kids and Teens-- Created using PowToon -- Free sign up at http://www.powtoon.com/youtube/ -- Create animated videos and animated presentations for free.  PowToon is a free tool that allows you to develop cool animated clips and animated presentations for your website, office meeting, sales pitch, nonprofit fundraiser, product launch, video resume, or anything else you could use an animated explainer video. PowToon's animation templates help you create animated presentations and animated explainer videos from scratch.  Anyone can produce awesome animations quickly with PowToon, without the cost or hassle other professional animation services require.",
+        "youtube_id": "p6qbJMBKato",
+        "created_at": 20190111031403,
+        "updated_at": 20190114021120,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 107
+    }
+}

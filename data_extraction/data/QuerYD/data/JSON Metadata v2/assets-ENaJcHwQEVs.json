@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cc8",
+                        "audio_description": "58e7cf3746e13dfd851a26ac",
+                        "created_at": 20160929094518,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929094518,
+                        "file_name": "14751675183171.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2743,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24469,
+                        "video": "58e7cf2946e13dfd851a1eca",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45b74798b0c327b1e1269b",
+                                "sentence": " A young boy lays on a resonance board",
+                                "start_time": 0.36,
+                                "end_time": 3.92
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e1269a",
+                                "sentence": " in the corner of a room,",
+                                "start_time": 3.92,
+                                "end_time": 5.79
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e12699",
+                                "sentence": " spinning around, using his feet on the wall, while playing with various toys placed around him.",
+                                "start_time": 5.85,
+                                "end_time": 14.05
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a26ac",
+                "status": "published",
+                "legacy_video_id": 2743,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1eca",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1eca",
+        "description": "",
+        "youtube_id": "ENaJcHwQEVs",
+        "views": 0,
+        "created_at": 20160929094348,
+        "title": "Use of Touch - Chris Resonance Board",
+        "legacy_video_id": 2743,
+        "updated_at": 20160929094518,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 57
+    }
+}

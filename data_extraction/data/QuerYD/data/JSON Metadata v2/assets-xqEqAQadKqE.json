@@ -1,0 +1,119 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4246e13dfd851a2db2",
+                        "audio_description": "58e7cf2b46e13dfd851a20eb",
+                        "created_at": 20140121122955,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140121122955,
+                        "file_name": "1390336195210.wav",
+                        "start_time": 45.149,
+                        "legacy_video_id": 1412,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 5648,
+                        "video": "58e7cf2846e13dfd851a1998",
+                        "end_time": 45.149,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e211ad7ccb66271b021c8dc",
+                                "sentence": " Here is mary lee emard.",
+                                "start_time": 0,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4246e13dfd851a2db3",
+                        "audio_description": "58e7cf2b46e13dfd851a20eb",
+                        "created_at": 20140121123046,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140121123046,
+                        "file_name": "1390336246525.wav",
+                        "start_time": 152.035,
+                        "legacy_video_id": 1412,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 5649,
+                        "video": "58e7cf2846e13dfd851a1998",
+                        "end_time": 152.035,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e211ad5ccb66271b021c869",
+                                "sentence": " Braille institute empowering visually impaired people to live fulfilling lives.",
+                                "start_time": 0,
+                                "end_time": 6.62
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20eb",
+                "status": "published",
+                "legacy_video_id": 1412,
+                "legacy_user_id": 88,
+                "video": "58e7cf2846e13dfd851a1998",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20d1",
+                    "name": "jimhull",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20151217172851,
+                    "legacy_user_id": 88,
+                    "last_login": 0,
+                    "email": "jimhull@jimhull.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "braille institute",
+            "fashion",
+            "makeup",
+            "make up",
+            "how to",
+            "classes",
+            "learn",
+            "label",
+            "visually impaired",
+            "blind"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1998",
+        "description": "",
+        "youtube_id": "xqEqAQadKqE",
+        "views": 0,
+        "created_at": 20140121122151,
+        "title": "Solutions in Sight: Looking Good",
+        "legacy_video_id": 1412,
+        "updated_at": 20140204160215,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 153
+    }
+}

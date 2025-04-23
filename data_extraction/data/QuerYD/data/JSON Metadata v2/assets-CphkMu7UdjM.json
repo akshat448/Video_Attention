@@ -1,0 +1,106 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5646e13dfd851a4071",
+                        "audio_description": "58e7cf3046e13dfd851a2334",
+                        "created_at": 20150424190135,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150424190135,
+                        "file_name": "14299272953811.wav",
+                        "start_time": 0.1,
+                        "legacy_video_id": 1913,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13158,
+                        "video": "58e7cf2846e13dfd851a1b8c",
+                        "end_time": 0.1,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 35.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f788d6c9183c280ed7",
+                                "sentence": " And this clip, a young blonde headed girl who appears to be around the age of four, sits in a green chair at a dining room table.",
+                                "start_time": 0.6,
+                                "end_time": 8.35
+                            },
+                            {
+                                "_id": "5e30a5f788d6c9183c280ed6",
+                                "sentence": " In front of her is a large rectangular orange plate that holds what looks like oatmeal.",
+                                "start_time": 8.35,
+                                "end_time": 13.84
+                            },
+                            {
+                                "_id": "5e30a5f788d6c9183c280ed5",
+                                "sentence": " A female adult sets to her left, and using tactile sign language, ask her if she needs to go to the potty. The adult then places the girl's hand on a tactile symbol.",
+                                "start_time": 13.84,
+                                "end_time": 23.63
+                            },
+                            {
+                                "_id": "5e30a5f788d6c9183c280ed4",
+                                "sentence": " The child focalize is and picks up her spoon to eat more. She stops eating and places one finger on her chin, as if to think",
+                                "start_time": 23.63,
+                                "end_time": 31.24
+                            },
+                            {
+                                "_id": "5e30a5f788d6c9183c280ed3",
+                                "sentence": " she rests her chin in her hand, indicating that she is thinking about the question.",
+                                "start_time": 31.24,
+                                "end_time": 35.52
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2334",
+                "status": "published",
+                "legacy_video_id": 1913,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1b8c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "YouTube Editor"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b8c",
+        "description": "",
+        "youtube_id": "CphkMu7UdjM",
+        "views": 0,
+        "created_at": 20150424185720,
+        "title": "Lauren.ProcessingTime",
+        "legacy_video_id": 1913,
+        "updated_at": 20150424190157,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

@@ -1,0 +1,823 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bfca073af05527dd329ff82",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "intro",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 4.693333333333333,
+                        "duration": 4.693333333333333,
+                        "file_name": "FatA6Pyw_D8_5bfca073af05527dd329ff82.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127014003,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4df3317f8d5e96ba85",
+                                "sentence": " A black and white animated cat, simon's cat in fetch.",
+                                "start_time": 0.73,
+                                "end_time": 4.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfca0b5285a490208813589",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "garden",
+                        "playback_type": "inline",
+                        "start_time": 5.259740259740259,
+                        "end_time": 8.673073593073592,
+                        "duration": 3.4133333333333336,
+                        "file_name": "FatA6Pyw_D8_5bfca0b5285a490208813589.wav",
+                        "file_size_bytes": 655404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127014109,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96ba8f",
+                                "sentence": " The cat grooms itself in a garden.",
+                                "start_time": 0.81,
+                                "end_time": 3.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfca0e8af05527dd329ff83",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "dog",
+                        "playback_type": "inline",
+                        "start_time": 9.333015,
+                        "end_time": 12.319681666666666,
+                        "duration": 2.986666666666667,
+                        "file_name": "FatA6Pyw_D8_5bfca0e8af05527dd329ff83.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127014200,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4df3317f8d5e96ba77",
+                                "sentence": " A dog waves its tail and drops a ball near the cat.",
+                                "start_time": 0.25,
+                                "end_time": 2.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfca12f285a49020881358a",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "nudge",
+                        "playback_type": "inline",
+                        "start_time": 15.866146,
+                        "end_time": 18.426146,
+                        "duration": 2.56,
+                        "file_name": "FatA6Pyw_D8_5bfca12f285a49020881358a.wav",
+                        "file_size_bytes": 491564,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127014311,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769ad3",
+                                "sentence": " The dog nudges the ball and runs in circles.",
+                                "start_time": 0.05,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfca16daf05527dd329ff85",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "throw",
+                        "playback_type": "inline",
+                        "start_time": 19.222593,
+                        "end_time": 20.673259666666667,
+                        "duration": 1.4506666666666668,
+                        "file_name": "FatA6Pyw_D8_5bfca16daf05527dd329ff85.wav",
+                        "file_size_bytes": 278572,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127014413,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769aac",
+                                "sentence": " The cat throws the ball.",
+                                "start_time": 0,
+                                "end_time": 1.41
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfca18baf05527dd329ff86",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "hedgehog",
+                        "playback_type": "inline",
+                        "start_time": 21.276908000000002,
+                        "end_time": 28.700908000000002,
+                        "duration": 7.424,
+                        "file_name": "FatA6Pyw_D8_5bfca18baf05527dd329ff86.wav",
+                        "file_size_bytes": 1425452,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127014443,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4df3317f8d5e96ba45",
+                                "sentence": " The cat starts to resume grooming, but pauses as a hedgehog with the ball stuck to its back, runs past pursued by the dog.",
+                                "start_time": 0.61,
+                                "end_time": 7.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfca1deaf05527dd329ff87",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "prickles",
+                        "playback_type": "inline",
+                        "start_time": 29.966751,
+                        "end_time": 34.23341766666667,
+                        "duration": 4.266666666666667,
+                        "file_name": "FatA6Pyw_D8_5bfca1deaf05527dd329ff87.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127014606,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36eb2f7fbe258d5dd34e0b",
+                                "sentence": " The dog returns without the ball, and with pickles in its stout, shakes them out.",
+                                "start_time": 0,
+                                "end_time": 4.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfca1f9285a49020881358b",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "frisbee",
+                        "playback_type": "inline",
+                        "start_time": 35.974831,
+                        "end_time": 37.596164333333334,
+                        "duration": 1.6213333333333333,
+                        "file_name": "FatA6Pyw_D8_5bfca1f9285a49020881358b.wav",
+                        "file_size_bytes": 311340,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127014633,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769ab3",
+                                "sentence": " The cat throws a frisbee.",
+                                "start_time": 0.01,
+                                "end_time": 1.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfca215af05527dd329ff88",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "return",
+                        "playback_type": "inline",
+                        "start_time": 40.619544,
+                        "end_time": 42.58221066666666,
+                        "duration": 1.9626666666666666,
+                        "file_name": "FatA6Pyw_D8_5bfca215af05527dd329ff88.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127014701,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769acf",
+                                "sentence": " The frisbee flies back and hits the cat.",
+                                "start_time": 0,
+                                "end_time": 1.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfca279285a49020881358d",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "stick",
+                        "playback_type": "inline",
+                        "start_time": 46.507608,
+                        "end_time": 51.542274666666664,
+                        "duration": 5.034666666666666,
+                        "file_name": "FatA6Pyw_D8_5bfca279285a49020881358d.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127014841,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4df3317f8d5e96ba40",
+                                "sentence": " The cat pretends to throw a stick one way, then throws it the other way, and the dog races after it.",
+                                "start_time": 0.12,
+                                "end_time": 4.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfca2a5285a49020881358e",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "cringe",
+                        "playback_type": "inline",
+                        "start_time": 53.58809,
+                        "end_time": 55.721423333333334,
+                        "duration": 2.1333333333333333,
+                        "file_name": "FatA6Pyw_D8_5bfca2a5285a49020881358e.wav",
+                        "file_size_bytes": 409644,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127014925,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769aae",
+                                "sentence": " They kept cringes and slink away.",
+                                "start_time": 0,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfca2c3285a49020881358f",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "dog",
+                        "playback_type": "inline",
+                        "start_time": 57.860866,
+                        "end_time": 62.55419933333334,
+                        "duration": 4.693333333333333,
+                        "file_name": "FatA6Pyw_D8_5bfca2c3285a49020881358f.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127014955,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769abf",
+                                "sentence": " The dog reappears with the stick, the remains of a table and the remains of a potted plant on its head.",
+                                "start_time": 0.04,
+                                "end_time": 4.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bfca33d285a490208813590",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5bfc9fb7af05527dd329ff80",
+                        "user": "5be84e71adab15594f5695b8",
+                        "label": "credits",
+                        "playback_type": "inline",
+                        "start_time": 63.118421,
+                        "end_time": 71.05442099999999,
+                        "duration": 7.936,
+                        "file_name": "FatA6Pyw_D8_5bfca33d285a490208813590.wav",
+                        "file_size_bytes": 1523756,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20181127015157,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4cf3317f8d5e96ba34",
+                                "sentence": " The record by Simon toe field animation. Laura naylor sound by shruti copyright simon's cat 2012.",
+                                "start_time": 0.08,
+                                "end_time": 7.89
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bfc9fb7af05527dd329ff80",
+                "video": "5bfc9fb7af05527dd329ff81",
+                "user": {
+                    "opt_in": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "_id": "5be84e71adab15594f5695b8",
+                    "email": "melissa@abroomandaspoon.com",
+                    "name": "Melissa Hope",
+                    "given_name": "Melissa",
+                    "picture": "https://lh3.googleusercontent.com/-NH6cVqfO3mo/AAAAAAAAAAI/AAAAAAAAADM/KtvGqtns5s4/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102733358263403136327",
+                    "last_login": 20210110191137,
+                    "token": "662d89f15386822578295ff1017613bfa533e569f8448b7bdb9fed407ec5baee",
+                    "__v": 0,
+                    "updated_at": 20210110191137,
+                    "policy_review": "reviewed"
+                },
+                "status": "published",
+                "language": "en-ca",
+                "created_at": 20181127013655,
+                "updated_at": 20191231010759,
+                "notes": "A black and white animated cat.\n\nSimon\u2019s Cat in Fetch.\n\nThe cat grooms itself in a garden.\n\nA dog waves its tail and drops a ball near the cat.\n\n<bark>\n\nThe dog nudges the ball and runs in circles.\n\nThe cat throws the ball.\n\nThe cat starts to resume grooming but pauses as a hedgehog with the ball stuck to it runs past, pursued by the dog.\n\n<bark>\n\nThe dog returns without the ball and with prickles in its snout. It shakes them out.\n\nThe cat throws a frisbee.\n\nThe frisbee flies back and hits the cat.\n\nThe cat pretends to throw a stick one way, then throws it the other way and the dog races after it.\n\n<crashing>\n\nThe cat cringes and slinks away.\n\nThe dog re-appears with the stick, the remains of a table and the remains of a potted plant on its head.\n\nDirected by Simon Tofield\nAnimation: Laura Nailor\nSound by Shrooty\nCopyright Simon's Cat 2012\n",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 3,
+                "overall_rating_votes_sum": 15,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c3a8c7885dde017d0c70c0f",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5c32d9ab222cc671999f41f1",
+                        "user": "5c32b24edb5fb418cbb9dc08",
+                        "label": "anchor",
+                        "playback_type": "inline",
+                        "start_time": 1.0515879046325685,
+                        "end_time": 7.536921237965902,
+                        "duration": 6.485333333333333,
+                        "file_name": "FatA6Pyw_D8_5c3a8c7885dde017d0c70c0f.wav",
+                        "file_size_bytes": 1245228,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20190113005520,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b5408",
+                                "sentence": " Simon's cat in fetch.",
+                                "start_time": 2.81,
+                                "end_time": 4.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3a8ca685dde017d0c70c10",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5c32d9ab222cc671999f41f1",
+                        "user": "5c32b24edb5fb418cbb9dc08",
+                        "label": "cat licking its paw",
+                        "playback_type": "inline",
+                        "start_time": 7.128314017166137,
+                        "end_time": 17.026980683832804,
+                        "duration": 9.898666666666667,
+                        "file_name": "FatA6Pyw_D8_5c3a8ca685dde017d0c70c10.wav",
+                        "file_size_bytes": 1900588,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20190113005606,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3f84",
+                                "sentence": " There is a cat licking its paw. All of a sudden, a dog comes over dropping the ball and wags his tail,",
+                                "start_time": 0,
+                                "end_time": 5.94
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3f83",
+                                "sentence": " wanting to play with the cat and excitement.",
+                                "start_time": 5.94,
+                                "end_time": 8.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3a928685dde017d0c70c1a",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5c32d9ab222cc671999f41f1",
+                        "user": "5c32b24edb5fb418cbb9dc08",
+                        "label": "cat throws the ball",
+                        "playback_type": "inline",
+                        "start_time": 17.480228095367433,
+                        "end_time": 39.922894762034105,
+                        "duration": 22.442666666666668,
+                        "file_name": "FatA6Pyw_D8_5c3a928685dde017d0c70c1a.wav",
+                        "file_size_bytes": 4309036,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20190113012110,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fbe",
+                                "sentence": " The cat startled, throws the ball and the dogs goes chasing right after the ball.",
+                                "start_time": 0.94,
+                                "end_time": 5.74
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fbd",
+                                "sentence": " Or listen, we see a park in line with the ball stuck on his back, being chased by the dog.",
+                                "start_time": 5.76,
+                                "end_time": 10.32
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fbc",
+                                "sentence": " The dog comes back to the cat, wags its tail, scratches his fur, and excited to play with the cat.",
+                                "start_time": 10.82,
+                                "end_time": 17.11
+                            },
+                            {
+                                "_id": "5e1b11e7706b0d21de5d3fbb",
+                                "sentence": " The cat, thin, throws a frisbee, the doors goes chasing right after it.",
+                                "start_time": 17.44,
+                                "end_time": 22.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3a965785dde017d0c70c22",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5c32d9ab222cc671999f41f1",
+                        "user": "5c32b24edb5fb418cbb9dc08",
+                        "label": "frisbee attack",
+                        "playback_type": "inline",
+                        "start_time": 38.97331893515015,
+                        "end_time": 64.31731893515015,
+                        "duration": 25.344,
+                        "file_name": "FatA6Pyw_D8_5c3a965785dde017d0c70c22.wav",
+                        "file_size_bytes": 4866092,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20190113013727,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f6e",
+                                "sentence": " Surprisingly, the frisbee reappears, hearing the cat on the head. And the dog is also back, wanting to play again, wagging its tail,",
+                                "start_time": 1.16,
+                                "end_time": 8.26
+                            },
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f6d",
+                                "sentence": " the cat, annoying lip ixon branch from the bush,",
+                                "start_time": 8.26,
+                                "end_time": 11.24
+                            },
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f6c",
+                                "sentence": " teases the dog and throws a branch in the opposite direction. All the sons a loud noise, and the cat immediately leaves. Dog is back in a mess.",
+                                "start_time": 11.24,
+                                "end_time": 18.97
+                            },
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f6b",
+                                "sentence": " He has a plant over his head.",
+                                "start_time": 18.97,
+                                "end_time": 20.86
+                            },
+                            {
+                                "_id": "5e1b11e6706b0d21de5d3f6a",
+                                "sentence": " He's wagging his tail, looking anxiously for the cat to play with.",
+                                "start_time": 20.86,
+                                "end_time": 24.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c55eaff0071d10d85749684",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5c32d9ab222cc671999f41f1",
+                        "user": "5c32b24edb5fb418cbb9dc08",
+                        "label": "critic",
+                        "playback_type": "inline",
+                        "start_time": 62.89136406294251,
+                        "end_time": 72.87536406294251,
+                        "duration": 9.984,
+                        "file_name": "FatA6Pyw_D8_5c55eaff0071d10d85749684.wav",
+                        "file_size_bytes": 1916972,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20190202190951,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfce",
+                                "sentence": " Directed by Simon toal, phil animation by laura naylor, sound by chou, d w w w dot Simon scat dot com.",
+                                "start_time": 1.34,
+                                "end_time": 8.91
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c32d9ab222cc671999f41f1",
+                "video": "5bfc9fb7af05527dd329ff81",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c32b24edb5fb418cbb9dc08",
+                    "email": "lanjela662@gmail.com",
+                    "name": "Anjela L",
+                    "given_name": "Anjela",
+                    "picture": "https://lh3.googleusercontent.com/-82vFIkFNJM4/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYbRGcKT-bMP6ijYlSZqUlgpofUEQ/s96-c/photo.jpg",
+                    "locale": "en-GB",
+                    "google_user_id": "116671168644764880416",
+                    "last_login": 20190322025205,
+                    "token": "eb4cce66018c72a5a6fca7dcbdec2df0665cc24c682bae1065737276a79f5965",
+                    "__v": 0,
+                    "updated_at": 20190322025205,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20190107044635,
+                "updated_at": 20190107044635,
+                "notes": "intro cat sitting with a white background\ncat continues licking its paw and suprisingly the frisbee reappears, hitting the cat's head",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c3fafdf0071d10d85749300",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5c3faf61bea4b51e5c711017",
+                        "user": "5c3fae9b0071d10d857492ff",
+                        "label": "Test 1",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 62.6009977324263,
+                        "duration": 62.6009977324263,
+                        "file_name": "FatA6Pyw_D8_5c3fafdf0071d10d85749300.wav",
+                        "file_size_bytes": 11042860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20190116222743,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f729",
+                                "sentence": " Simon's cat, a black and white animation",
+                                "start_time": 0.61,
+                                "end_time": 3.3
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f728",
+                                "sentence": " in fetch.",
+                                "start_time": 3.3,
+                                "end_time": 4.55
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f727",
+                                "sentence": " Simon's cat is licking its paw. While sitting on the grass,",
+                                "start_time": 6.27,
+                                "end_time": 9.24
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f726",
+                                "sentence": " a dog runs up with a ball.",
+                                "start_time": 9.24,
+                                "end_time": 11.21
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f725",
+                                "sentence": " Simon's cat looks at the dog. The dog nudges the ball to simon's cat",
+                                "start_time": 11.58,
+                                "end_time": 15.57
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f724",
+                                "sentence": " and asks to play.",
+                                "start_time": 17.37,
+                                "end_time": 18.96
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f723",
+                                "sentence": " Simon's cat throws the ball, the dog runs off screen",
+                                "start_time": 18.96,
+                                "end_time": 22.5
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f722",
+                                "sentence": " of hedgehog, runs in with a dog with a ball on its back. The dog runs after the hedgehog, and off the other side,",
+                                "start_time": 22.89,
+                                "end_time": 28.89
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f721",
+                                "sentence": " dog comes back with trickles in his head",
+                                "start_time": 28.94,
+                                "end_time": 31.31
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f720",
+                                "sentence": " and wants to play again.",
+                                "start_time": 32.61,
+                                "end_time": 34.16
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f71f",
+                                "sentence": " Simon's cat brandishes frisbee and throws it.",
+                                "start_time": 35.04,
+                                "end_time": 38.7
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f71e",
+                                "sentence": " The dog runs off. After the frisbee, the frisbee comes back and hits Simon cat in the head.",
+                                "start_time": 38.7,
+                                "end_time": 43.35
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f71d",
+                                "sentence": " The dog comes back excited to play.",
+                                "start_time": 43.4,
+                                "end_time": 45.77
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f71c",
+                                "sentence": " Simon's cat holds up a branch and throws it.",
+                                "start_time": 45.81,
+                                "end_time": 50.14
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f71b",
+                                "sentence": " It doesn't really",
+                                "start_time": 50.14,
+                                "end_time": 51.66
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f71a",
+                                "sentence": " the dog runs off after the branch.",
+                                "start_time": 51.66,
+                                "end_time": 54.12
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f719",
+                                "sentence": " Simon's cat",
+                                "start_time": 54.55,
+                                "end_time": 55.77
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f718",
+                                "sentence": " sneaks away",
+                                "start_time": 55.77,
+                                "end_time": 57.1
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f717",
+                                "sentence": " as the dog comes back.",
+                                "start_time": 57.8,
+                                "end_time": 59.45
+                            },
+                            {
+                                "_id": "5e1b110f9d74eb21e1d1f716",
+                                "sentence": " There's lots of stuff on it.",
+                                "start_time": 59.79,
+                                "end_time": 61.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c3fb23cbea4b51e5c711018",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5c3faf61bea4b51e5c711017",
+                        "user": "5c3fae9b0071d10d857492ff",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 7.008032,
+                        "end_time": 7.008032,
+                        "duration": 6.222947845804988,
+                        "file_name": "FatA6Pyw_D8_5c3fb23cbea4b51e5c711018.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20190116223748,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5c3fb2b20071d10d85749304",
+                        "video": "5bfc9fb7af05527dd329ff81",
+                        "audio_description": "5c3faf61bea4b51e5c711017",
+                        "user": "5c3fae9b0071d10d857492ff",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 38.963945,
+                        "end_time": 38.963945,
+                        "duration": 5.851428571428571,
+                        "file_name": "FatA6Pyw_D8_5c3fb2b20071d10d85749304.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/FatA6Pyw_D8",
+                        "created_at": 20190116223946,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5c3faf61bea4b51e5c711017",
+                "video": "5bfc9fb7af05527dd329ff81",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c3fae9b0071d10d857492ff",
+                    "email": "sasha@mortalspaces.com",
+                    "name": "Sasha Harris-Cronin",
+                    "given_name": "Sasha",
+                    "picture": "https://lh5.googleusercontent.com/-lTDl_PVjNjE/AAAAAAAAAAI/AAAAAAAAAAs/Uhu3n4l5NXw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "107980372537590340281",
+                    "last_login": 20190116222219,
+                    "token": "b7d43676712540715b1bdb0cd551bd75f47baec291360a4398f15f57c650ecba",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20190116222537,
+                "updated_at": 20190116222537,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Simon's Cat",
+            "Fetch",
+            "stick",
+            "dog",
+            "dogs",
+            "doggy",
+            "puppy",
+            "frisbee",
+            "jack russell terrier",
+            "jack",
+            "russell",
+            "terrier",
+            "cartoon",
+            "kitty",
+            "cute",
+            "funny",
+            "animation",
+            "kitten",
+            "cats",
+            "film",
+            "simons",
+            "simon's",
+            "cat",
+            "simon'scat",
+            "simonscat",
+            "pet",
+            "simon",
+            "tofield",
+            "garden",
+            "Kittens",
+            "Meow",
+            "Playing"
+        ],
+        "custom_tags": [],
+        "_id": "5bfc9fb7af05527dd329ff81",
+        "title": "Fetch - Simon's Cat | SHORTS #25",
+        "description": "\"A playful dog interrupts a cat's down-time.\"\n\n\nDon't forget to SUBSCRIBE!\nhttp://www.youtube.com/subscription_center?add_user=simonscat\n\n\nThe official Simon's Cat website and shop:\n\nOfficial Website: http://www.simonscat.com\nOfficial webshop: https://shop.simonscat.com/\n\n\nStay connected with Simon's Cat on your favourite websites:\n\nFacebook: http://facebook.com/simonscat\nInstagram: https://www.instagram.com/simonscatofficial/\nGoogle+: http://plus.google.com/+SimonsCat\nTwitter: http://twitter.com/SimonsCat\nTumblr: http://simonscat.tumblr.com/\nPinterest: http://pinterest.com/simonscat\n\nThe Simon's Cat Extra Youtube channel for behind the scenes and tutorials: \nhttp://www.youtube.com/simonscatextra\n\nWhat software do you use?\nSimon's Cat is made using Adobe Flash.\n\nIf you want to email us:\ncontact@simonscat.com\n\nThank you for watching :)",
+        "youtube_id": "FatA6Pyw_D8",
+        "created_at": 20181127013655,
+        "updated_at": 20191211091043,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 73
+    }
+}

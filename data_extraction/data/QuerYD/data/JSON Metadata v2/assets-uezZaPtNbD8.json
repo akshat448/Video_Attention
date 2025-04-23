@@ -1,0 +1,713 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf9246e13dfd851a6957",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205104109,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205104109,
+                        "file_name": "14809632690931.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29847,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae4cdae24dc721d953190",
+                                "sentence": " The following video is from the department of homeland security and emergency preparedness for people with disabilities.",
+                                "start_time": 0.18,
+                                "end_time": 6.11
+                            },
+                            {
+                                "_id": "5e4ae4cdae24dc721d95318f",
+                                "sentence": " In the beginning, a narrator begins to speak as letters are shown on the screen.",
+                                "start_time": 6.11,
+                                "end_time": 10.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a6958",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205104704,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205104704,
+                        "file_name": "14809636245811.wav",
+                        "start_time": 20.923,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29849,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 20.923,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae4cdae24dc721d9531aa",
+                                "sentence": " In a small apartment, a woman is shown sitting next to and talking to a man in a wheelchair as he uses a computer.",
+                                "start_time": 1.23,
+                                "end_time": 7.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a6959",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205105048,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205105048,
+                        "file_name": "14809638485281.wav",
+                        "start_time": 25.455,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29851,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 25.455,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad8b8ae24dc721d953137",
+                                "sentence": " The printer is shown at several pages, are printed.",
+                                "start_time": 0.44,
+                                "end_time": 3.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a695a",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205130305,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205130305,
+                        "file_name": "14809717852311.wav",
+                        "start_time": 39.869,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29853,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 39.869,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 25.06,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f27",
+                                "sentence": " At this point, the following is listed as part of a basic emergency supply kit,",
+                                "start_time": 0.88,
+                                "end_time": 6.55
+                            },
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f26",
+                                "sentence": " one gallon of water per person per day for three days. Food for your family for three days, battery powered radio,",
+                                "start_time": 6.55,
+                                "end_time": 14.29
+                            },
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f25",
+                                "sentence": " n o a a weather radio with tone alert,",
+                                "start_time": 14.65,
+                                "end_time": 18.88
+                            },
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f24",
+                                "sentence": " flashlight batteries, first aid kit,",
+                                "start_time": 18.88,
+                                "end_time": 22.7
+                            },
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f23",
+                                "sentence": " pet food and water.",
+                                "start_time": 22.7,
+                                "end_time": 24.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a695b",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205130943,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205130943,
+                        "file_name": "14809721836081.wav",
+                        "start_time": 73.747,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29855,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 73.747,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f5b",
+                                "sentence": " The woman gathers food and medicine and places him",
+                                "start_time": 0.31,
+                                "end_time": 4.4
+                            },
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f5a",
+                                "sentence": " in a bin full of disaster supplies.",
+                                "start_time": 4.4,
+                                "end_time": 7.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a695c",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205131135,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205131135,
+                        "file_name": "14809722955441.wav",
+                        "start_time": 98.633,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29856,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 98.633,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7a10ed104ed71f7d91",
+                                "sentence": " The woman grabs a bottle of medicine from a bag and examines it with the man.",
+                                "start_time": 0.16,
+                                "end_time": 4.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a695d",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205131637,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205131637,
+                        "file_name": "14809725975761.wav",
+                        "start_time": 106.414,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29857,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 106.414,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ac7fc849dea37cce15382",
+                                "sentence": " The man sits across the woman as she feels out, as she titled family emergency plan.",
+                                "start_time": 0.55,
+                                "end_time": 6.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a695e",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205131730,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205131730,
+                        "file_name": "14809726500151.wav",
+                        "start_time": 120.021,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29858,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 120.021,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae1516af2cf721c1d3f20",
+                                "sentence": " The women goes through a phone book and write something down as the man makes a phone call.",
+                                "start_time": 0.73,
+                                "end_time": 6.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a695f",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205132000,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205132000,
+                        "file_name": "14809728004141.wav",
+                        "start_time": 147.837,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29859,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 147.837,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae109207aba721b5c67c6",
+                                "sentence": " Hillary star in director of the emergency preparedness initiative",
+                                "start_time": 0.29,
+                                "end_time": 4.44
+                            },
+                            {
+                                "_id": "5e4ae109207aba721b5c67c5",
+                                "sentence": " from the national organization on disability states.",
+                                "start_time": 4.44,
+                                "end_time": 8.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a6960",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205132249,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205132249,
+                        "file_name": "14809729696691.wav",
+                        "start_time": 175.678,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29860,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 175.678,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f72",
+                                "sentence": " The following is listed as part of a basic family emergency plan. Contact numbers and meeting locations",
+                                "start_time": 0.47,
+                                "end_time": 7.04
+                            },
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f71",
+                                "sentence": " local and out of area, date of birth, social security and medical Information",
+                                "start_time": 7.04,
+                                "end_time": 12.38
+                            },
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f70",
+                                "sentence": " school and workplace emergency plans.",
+                                "start_time": 12.38,
+                                "end_time": 15.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a6961",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205132446,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205132446,
+                        "file_name": "14809730861271.wav",
+                        "start_time": 184.483,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29861,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 184.483,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 25.06,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae4ceae24dc721d953211",
+                                "sentence": " The following is listed as part of a specialized emergency plan.",
+                                "start_time": 0.19,
+                                "end_time": 3.9
+                            },
+                            {
+                                "_id": "5e4ae4ceae24dc721d953210",
+                                "sentence": " Identify back up medical treatment service providers, create a personal support network,",
+                                "start_time": 3.9,
+                                "end_time": 9.26
+                            },
+                            {
+                                "_id": "5e4ae4ceae24dc721d95320f",
+                                "sentence": " make arrangements for alternative modes of transportation, and assistance if needed,",
+                                "start_time": 9.26,
+                                "end_time": 14.74
+                            },
+                            {
+                                "_id": "5e4ae4ceae24dc721d95320e",
+                                "sentence": " identify alternative locations and availability of medical equipment or treatment.",
+                                "start_time": 14.85,
+                                "end_time": 19.85
+                            },
+                            {
+                                "_id": "5e4ae4ceae24dc721d95320d",
+                                "sentence": " Identify shelter alternatives for PETS and service animals.",
+                                "start_time": 19.86,
+                                "end_time": 24.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a6962",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205132722,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205132722,
+                        "file_name": "14809732423781.wav",
+                        "start_time": 197.662,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29862,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 197.662,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.49,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae4ceae24dc721d95320a",
+                                "sentence": " The woman flips through and continues to fill out a sheet titled family emergency plan.",
+                                "start_time": 0.31,
+                                "end_time": 6.25
+                            },
+                            {
+                                "_id": "5e4ae4ceae24dc721d953209",
+                                "sentence": " As the man sits across the table from her.",
+                                "start_time": 6.25,
+                                "end_time": 8.9
+                            },
+                            {
+                                "_id": "5e4ae4ceae24dc721d953208",
+                                "sentence": " Yeah.",
+                                "start_time": 9.35,
+                                "end_time": 10.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a6963",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205133011,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205133011,
+                        "file_name": "14809734113791.wav",
+                        "start_time": 231.799,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29863,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 231.799,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.72,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f2b",
+                                "sentence": " I'll take the apartment. The man in a wheelchair is raised into a van via motorized lift",
+                                "start_time": 0.37,
+                                "end_time": 6.63
+                            },
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f2a",
+                                "sentence": " as the woman stands nearby.",
+                                "start_time": 6.63,
+                                "end_time": 8.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a6964",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205133221,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205133221,
+                        "file_name": "14809735413911.wav",
+                        "start_time": 246.96,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29864,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 246.96,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f39",
+                                "sentence": " Inside the apartment,",
+                                "start_time": 0,
+                                "end_time": 1.7
+                            },
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f38",
+                                "sentence": " the man scrolls through the ready dark of website.",
+                                "start_time": 1.7,
+                                "end_time": 5.06
+                            },
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f37",
+                                "sentence": " As the woman sits nearby",
+                                "start_time": 5.06,
+                                "end_time": 7.37
+                            },
+                            {
+                                "_id": "5e4ae1526af2cf721c1d3f36",
+                                "sentence": " and points at the screen,",
+                                "start_time": 7.37,
+                                "end_time": 9.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a6965",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205133351,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205133351,
+                        "file_name": "14809736313141.wav",
+                        "start_time": 260.544,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29865,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 260.544,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae1516af2cf721c1d3f02",
+                                "sentence": " The following different types of emergencies are listed floods and fires, hurricanes, tornadoes and earthquakes, storms, extreme heat or cold",
+                                "start_time": 0.29,
+                                "end_time": 10.02
+                            },
+                            {
+                                "_id": "5e4ae1516af2cf721c1d3f01",
+                                "sentence": " terrorist threats.",
+                                "start_time": 10.02,
+                                "end_time": 11.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a6966",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205133641,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205133641,
+                        "file_name": "14809738018421.wav",
+                        "start_time": 286.913,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29866,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 286.913,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4acdb98085404ed8f9e341",
+                                "sentence": " The following steps are one get a kip",
+                                "start_time": 0.5,
+                                "end_time": 3.83
+                            },
+                            {
+                                "_id": "5e4acdb98085404ed8f9e340",
+                                "sentence": " to make a plan three be informed.",
+                                "start_time": 3.83,
+                                "end_time": 7.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a6967",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205133747,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205133747,
+                        "file_name": "14809738674511.wav",
+                        "start_time": 291.509,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29867,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 306.339,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7a10ed104ed71f7d83",
+                                "sentence": " The following statement concludes this video.",
+                                "start_time": 0.12,
+                                "end_time": 2.95
+                            },
+                            {
+                                "_id": "5e4acc7a10ed104ed71f7d82",
+                                "sentence": " This instructional video was developed by the department of homeland security in consultation with the national organization",
+                                "start_time": 2.95,
+                                "end_time": 10.84
+                            },
+                            {
+                                "_id": "5e4acc7a10ed104ed71f7d81",
+                                "sentence": " on disabilities emergency preparedness initiative.",
+                                "start_time": 10.84,
+                                "end_time": 14.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9246e13dfd851a6968",
+                        "audio_description": "58e7cf3c46e13dfd851a2824",
+                        "created_at": 20161205134250,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161205134250,
+                        "file_name": "14809741701571.wav",
+                        "start_time": 33.947,
+                        "legacy_video_id": 3002,
+                        "legacy_user_id": 3483,
+                        "label": "",
+                        "legacy_audio_clip_id": 29868,
+                        "video": "58e7cf2946e13dfd851a1fcc",
+                        "end_time": 33.947,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3c46e13dfd851a2823",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae1536af2cf721c1d3ff6",
+                                "sentence": " The woman places jugs of water in a bin full of disaster supplies, including a helmet, blanket,",
+                                "start_time": 0,
+                                "end_time": 6.34
+                            },
+                            {
+                                "_id": "5e4ae1536af2cf721c1d3ff5",
+                                "sentence": " food and medicine. She then reviews these various items with the man.",
+                                "start_time": 6.34,
+                                "end_time": 10.66
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3c46e13dfd851a2824",
+                "status": "published",
+                "legacy_video_id": 3002,
+                "legacy_user_id": 3483,
+                "video": "58e7cf2946e13dfd851a1fcc",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3c46e13dfd851a2823",
+                    "name": "ainiguez",
+                    "google_user_id_token": "",
+                    "created_at": 20161130201545,
+                    "updated_at": 20161130201956,
+                    "legacy_user_id": 3483,
+                    "last_login": 0,
+                    "email": "andresiniguez11@aol.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "americans",
+            "with",
+            "disabilities",
+            "special",
+            "needs",
+            "disaster",
+            "emergency",
+            "preparedness",
+            "preparations",
+            "ready",
+            "gov",
+            "Emergency Management (Taxonomy Subject)"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1fcc",
+        "description": "",
+        "youtube_id": "uezZaPtNbD8",
+        "views": 0,
+        "created_at": 20161130202034,
+        "title": "Americans with Disabilities/Special Needs Disaster/Emergency Preparedness - Ready.gov",
+        "legacy_video_id": 3002,
+        "updated_at": 20161205134250,
+        "youtube_status": "available",
+        "category": "Howto & Style",
+        "category_id": "26",
+        "duration": 296
+    }
+}

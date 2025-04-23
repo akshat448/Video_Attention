@@ -1,0 +1,151 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7346e13dfd851a558a",
+                        "audio_description": "58e7cf3346e13dfd851a2507",
+                        "created_at": 20160211154639,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160211154639,
+                        "file_name": "14552343991301.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2470,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 21577,
+                        "video": "58e7cf2946e13dfd851a1db9",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e4068ef82cbd0c06b1708bc",
+                                "sentence": " A female adult hold a colourful cross section of the brain. As she speaks.",
+                                "start_time": 1.32,
+                                "end_time": 5.8
+                            },
+                            {
+                                "_id": "5e4068ef82cbd0c06b1708bb",
+                                "sentence": " Each area of the brain is a different color.",
+                                "start_time": 5.94,
+                                "end_time": 8.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7346e13dfd851a558b",
+                        "audio_description": "58e7cf3346e13dfd851a2507",
+                        "created_at": 20160211154912,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160211154912,
+                        "file_name": "14552345522191.wav",
+                        "start_time": 54.361,
+                        "legacy_video_id": 2470,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 21578,
+                        "video": "58e7cf2946e13dfd851a1db9",
+                        "end_time": 54.361,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e40671ca2babac06dc16318",
+                                "sentence": " She points to the center of the cross section, which is a pale yellow color before indicating the two areas at the Top of the model,",
+                                "start_time": 0.59,
+                                "end_time": 8.33
+                            },
+                            {
+                                "_id": "5e40671ca2babac06dc16317",
+                                "sentence": " which are colored mustard yellow and bright green.",
+                                "start_time": 8.33,
+                                "end_time": 11.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7346e13dfd851a558c",
+                        "audio_description": "58e7cf3346e13dfd851a2507",
+                        "created_at": 20160211155230,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160211155230,
+                        "file_name": "14552347503551.wav",
+                        "start_time": 82.868,
+                        "legacy_video_id": 2470,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 21579,
+                        "video": "58e7cf2946e13dfd851a1db9",
+                        "end_time": 82.868,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e40669fb120f3c06c12ab32",
+                                "sentence": " She again points to the center of the model before using her index finger to point down and away from the cross section.",
+                                "start_time": 1,
+                                "end_time": 8
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a2507",
+                "status": "published",
+                "legacy_video_id": 2470,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1db9",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Module 2",
+            "Sensory system"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1db9",
+        "description": "",
+        "youtube_id": "7a4yAbsPCQg",
+        "views": 0,
+        "created_at": 20160211154608,
+        "title": "4 LimbicSystem - Module 2",
+        "legacy_video_id": 2470,
+        "updated_at": 20160211155230,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 85
+    }
+}

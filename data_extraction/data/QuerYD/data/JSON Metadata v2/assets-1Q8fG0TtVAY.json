@@ -1,0 +1,640 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [],
+                "_id": "5939a43553f02d7a0fdd3a72",
+                "video": "5939a43553f02d7a0fdd3a73",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "591ccdc32805421bd3af5910",
+                    "email": "charitypc@gmail.com",
+                    "name": "Charity Pitcher-Cooper",
+                    "given_name": "Charity",
+                    "picture": "https://lh5.googleusercontent.com/-QWgHIV6dqG4/AAAAAAAAAAI/AAAAAAAAA8k/zbElaAqZIsY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102960542363040396571",
+                    "last_login": 20210122172832,
+                    "token": "3d49b4ee09a7b279fbc2705b8e6dd7c75ec919e82a13d07eb1c9925ff7849cf2",
+                    "__v": 0,
+                    "updated_at": 20210122172832,
+                    "policy_review": "reviewed",
+                    "admin": 1
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20170608192333,
+                "updated_at": 20170608192333,
+                "notes": "Woman in red cloak.\r\n\r\nInterior, office, she looks at a sepia toned photo, a woman with shield wearing armor, and diadem center, flanked by four men in long coats with guns. they all look directly at camera, dirty from battle",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5940b14aa01de163a4ae007e",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0.25117803623962404,
+                        "end_time": 3.4090918684391704,
+                        "duration": 3.1579138321995464,
+                        "file_name": "1Q8fG0TtVAY_5940b14aa01de163a4ae007e.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170614034514,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce01878f52d67b46d71af8",
+                                "sentence": " A woman is walking across the narrow road.",
+                                "start_time": 0.5,
+                                "end_time": 3.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5940b168a01de163a4ae007f",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 8.456810074386597,
+                        "end_time": 8.456810074386597,
+                        "duration": 9.47374149659864,
+                        "file_name": "1Q8fG0TtVAY_5940b168a01de163a4ae007f.wav",
+                        "file_size_bytes": 1671212,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170614034544,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce01878f52d67b46d71aef",
+                                "sentence": " She picks up a black and white photograph from the brief case.",
+                                "start_time": 0.53,
+                                "end_time": 3.79
+                            },
+                            {
+                                "_id": "5dce01878f52d67b46d71aee",
+                                "sentence": " The picture has four men with one woman standing in the middle wearing armor and carrying a shield.",
+                                "start_time": 3.8,
+                                "end_time": 9.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5943145bec334b6b7572636b",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 14.752076015258789,
+                        "end_time": 14.752076015258789,
+                        "duration": 6.501587301587302,
+                        "file_name": "1Q8fG0TtVAY_5943145bec334b6b7572636b.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615231227,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce01878f52d67b46d71af7",
+                                "sentence": " The scene changes and the woman is on an island staring into the water.",
+                                "start_time": 0.49,
+                                "end_time": 5.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5943148cec334b6b7572636c",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 20.182102919891356,
+                        "end_time": 20.182102919891356,
+                        "duration": 5.572789115646258,
+                        "file_name": "1Q8fG0TtVAY_5943148cec334b6b7572636c.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615231316,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce01878f52d67b46d71ae9",
+                                "sentence": " She jumps off a cliff and dives into the water, saving a drowning person.",
+                                "start_time": 0.42,
+                                "end_time": 5.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59431559ec334b6b7572636d",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 24.471131019073486,
+                        "end_time": 31.43711741363131,
+                        "duration": 6.965986394557823,
+                        "file_name": "1Q8fG0TtVAY_59431559ec334b6b7572636d.wav",
+                        "file_size_bytes": 1228844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615231641,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a290279d3cb177f4bd",
+                                "sentence": " The woman is dressed in armour, leading an army of warriors on horses against soldiers with guns.",
+                                "start_time": 0.4,
+                                "end_time": 6.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59431583ec334b6b7572636e",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 36.14219101525879,
+                        "end_time": 36.14219101525879,
+                        "duration": 5.572789115646258,
+                        "file_name": "1Q8fG0TtVAY_59431583ec334b6b7572636e.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615231723,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce01878f52d67b46d71aea",
+                                "sentence": " One of the men shoots his gun and his bullet flies in slow motion toward her.",
+                                "start_time": 0.32,
+                                "end_time": 5.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59431675ec334b6b75726370",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 45.511405969482425,
+                        "end_time": 45.511405969482425,
+                        "duration": 4.6439909297052155,
+                        "file_name": "1Q8fG0TtVAY_59431675ec334b6b75726370.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615232125,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce01878f52d67b46d71af6",
+                                "sentence": " A man dressed in modern day clothing approaches the woman dressed in battle gear.",
+                                "start_time": 0.25,
+                                "end_time": 4.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "594316e8ec334b6b75726371",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 54.06331092752075,
+                        "end_time": 54.06331092752075,
+                        "duration": 5.851428571428571,
+                        "file_name": "1Q8fG0TtVAY_594316e8ec334b6b75726371.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615232320,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce01878f52d67b46d71ae2",
+                                "sentence": " In a factory plant. American scientists are experimenting with chemical weapons.",
+                                "start_time": 0.45,
+                                "end_time": 5.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5943177eec334b6b75726373",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 61.4001260667572,
+                        "end_time": 61.4001260667572,
+                        "duration": 3.5294331065759637,
+                        "file_name": "1Q8fG0TtVAY_5943177eec334b6b75726373.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615232550,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a390279d3cb177f537",
+                                "sentence": " A huge bomb explodes, surrounded by soldiers.",
+                                "start_time": 0.27,
+                                "end_time": 3.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "594317c5ec334b6b75726374",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 68.15971118310547,
+                        "end_time": 68.15971118310547,
+                        "duration": 3.3436734693877552,
+                        "file_name": "1Q8fG0TtVAY_594317c5ec334b6b75726374.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615232701,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a190279d3cb177f49a",
+                                "sentence": " The woman grabs a round shield and a long sword.",
+                                "start_time": 0.27,
+                                "end_time": 3.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59431830ec334b6b75726379",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 73.86338618692017,
+                        "end_time": 73.86338618692017,
+                        "duration": 5.38702947845805,
+                        "file_name": "1Q8fG0TtVAY_59431830ec334b6b75726379.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615232848,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce01878f52d67b46d71af9",
+                                "sentence": " The woman named diana appears in a room full of men dressed in modern day clothing.",
+                                "start_time": 0.35,
+                                "end_time": 5.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5943189aec334b6b7572637b",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 78.2287607768402,
+                        "end_time": 78.2287607768402,
+                        "duration": 4.551111111111111,
+                        "file_name": "1Q8fG0TtVAY_5943189aec334b6b7572637b.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615233034,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce01878f52d67b46d71aeb",
+                                "sentence": " A shot fires that captain steve trevor and diana shields him.",
+                                "start_time": 0.5,
+                                "end_time": 4.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "594318d7ec334b6b7572637c",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 81.6337309485016,
+                        "end_time": 81.6337309485016,
+                        "duration": 3.250793650793651,
+                        "file_name": "1Q8fG0TtVAY_594318d7ec334b6b7572637c.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615233135,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce01878f52d67b46d71aed",
+                                "sentence": " Diana shoots at five men who are surrounding her.",
+                                "start_time": 0.25,
+                                "end_time": 3.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "594318edec334b6b7572637d",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 83.59694613351441,
+                        "end_time": 85.26878286820829,
+                        "duration": 1.6718367346938776,
+                        "file_name": "1Q8fG0TtVAY_594318edec334b6b7572637d.wav",
+                        "file_size_bytes": 294956,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615233157,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a190279d3cb177f499",
+                                "sentence": " This june.",
+                                "start_time": 0.19,
+                                "end_time": 1.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5943197fec334b6b75726382",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 92.84414397520447,
+                        "end_time": 92.84414397520447,
+                        "duration": 7.430385487528345,
+                        "file_name": "1Q8fG0TtVAY_5943197fec334b6b75726382.wav",
+                        "file_size_bytes": 1310764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615233423,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a390279d3cb177f550",
+                                "sentence": " Diana is now wearing the wonder woman tiara and carrying the shield on her back as she walks in the middle of a battlefield.",
+                                "start_time": 0.41,
+                                "end_time": 7.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "594319d4ec334b6b75726384",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 96.48517802288818,
+                        "end_time": 96.48517802288818,
+                        "duration": 4.922630385487528,
+                        "file_name": "1Q8fG0TtVAY_594319d4ec334b6b75726384.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615233548,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a390279d3cb177f510",
+                                "sentence": " A man shoots at diana, but she deflects the bullet using her arm shield.",
+                                "start_time": 0.42,
+                                "end_time": 4.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59431bd2ec334b6b75726389",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 101.5054919961853,
+                        "end_time": 122.58921081704698,
+                        "duration": 21.083718820861677,
+                        "file_name": "1Q8fG0TtVAY_59431bd2ec334b6b75726389.wav",
+                        "file_size_bytes": 3719212,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615234418,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce01878f52d67b46d71ae5",
+                                "sentence": " In a series of action shots, diana jumps through a glass window, slashes her sword while riding a horse, flips in the air,",
+                                "start_time": 0.4,
+                                "end_time": 8.73
+                            },
+                            {
+                                "_id": "5dce01878f52d67b46d71ae4",
+                                "sentence": " lashes around with a glowing lasso, which causes a fiery explosion.",
+                                "start_time": 8.74,
+                                "end_time": 13.6
+                            },
+                            {
+                                "_id": "5dce01878f52d67b46d71ae3",
+                                "sentence": " Rad has kicked a man in the, in the end, flies up in the air, crossing her arms in an x shape.",
+                                "start_time": 13.75,
+                                "end_time": 20.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59431c15ec334b6b7572638b",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 126.58491906866455,
+                        "end_time": 128.0709961661702,
+                        "duration": 1.486077097505669,
+                        "file_name": "1Q8fG0TtVAY_59431c15ec334b6b7572638b.wav",
+                        "file_size_bytes": 262188,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615234525,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce01878f52d67b46d71ae8",
+                                "sentence": " Wonder woman.",
+                                "start_time": 0.13,
+                                "end_time": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59431c61ec334b6b7572638c",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 131.121483043869,
+                        "end_time": 131.121483043869,
+                        "duration": 9.195102040816327,
+                        "file_name": "1Q8fG0TtVAY_59431c61ec334b6b7572638c.wav",
+                        "file_size_bytes": 1622060,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615234641,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a390279d3cb177f539",
+                                "sentence": " The scene shifts to an elderly woman helping diana, where a large puffy gown",
+                                "start_time": 0.49,
+                                "end_time": 5.86
+                            },
+                            {
+                                "_id": "5dce16a390279d3cb177f538",
+                                "sentence": " diana kicks around in the air in frustration.",
+                                "start_time": 5.87,
+                                "end_time": 9.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59431c85ec334b6b7572638d",
+                        "video": "5939a43553f02d7a0fdd3a73",
+                        "audio_description": "594093585de2104355026cb7",
+                        "user": "593dc5ef5de2104355026c61",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 144.16438296948243,
+                        "end_time": 146.30061879714683,
+                        "duration": 2.136235827664399,
+                        "file_name": "1Q8fG0TtVAY_59431c85ec334b6b7572638d.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1Q8fG0TtVAY",
+                        "created_at": 20170615234717,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dce16a290279d3cb177f4d3",
+                                "sentence": " June twenty seventeen.",
+                                "start_time": 0.47,
+                                "end_time": 2.15
+                            }
+                        ]
+                    }
+                ],
+                "_id": "594093585de2104355026cb7",
+                "video": "5939a43553f02d7a0fdd3a73",
+                "user": {
+                    "opt_in": [],
+                    "_id": "593dc5ef5de2104355026c61",
+                    "email": "kbkim45@gmail.com",
+                    "name": "Kyubin Kim",
+                    "given_name": "Kyubin",
+                    "picture": "https://lh6.googleusercontent.com/-Yk3cn1Jpitg/AAAAAAAAAAI/AAAAAAAAAAA/AAyYBF7QtIOqS09nugPtnQ5ZPk4f8Jiu-w/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113596789359434892267",
+                    "last_login": 20190713220840,
+                    "token": "9928b462b655676291071ed1457f70561136bada5ead66f7f5a048576f7795c2",
+                    "__v": 0,
+                    "updated_at": 20190713220840,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170614013728,
+                "updated_at": 20170702043311,
+                "notes": "a woman is walking across a narrow road\r\nshe picks up a black and white photograph from a briefcase. the picture has four men with one woman standing in the middle wearing armor and carrying a shield. \r\nthe scene changes and the woman is on an island staring into the water\r\nshe jumps off a cliff and dives into the water, and saves a drowning person\r\nthe woman is dressed in armor, leading an army of warriors on horses against soldiers with guns.\r\none of the men shoots his gun and his bullet flies in slow motion toward her.\r\na man dressed in modern day clothes approaches the woman dressed in battle gear\r\nin a factory plant, u.s. scientists are experimenting with chemical weapons\r\na huge bomb explodes surrounded my soldiers\r\nthe woman grabs a round shield and a long sword\r\nthe woman named Diana appears in a room full of men, dressed in modern day clothing\r\na shot fires at captain steve trevor and diana shields him\r\ndiana shoots at 5 men who are surrounding her\r\ndiana is now wearing the wonder woman tiara and carrying the shield on her back, as she walks in the middle of a battlefield\r\na man shoots at diana but she deflects the bullet using her arm shield\r\nin a series of action shots, diana jumps through a glass window, slashes her sword while riding a horse, flips in the air, lashes with a glowing lasso, causing a fiery explosion, roundhouse kicks a man, and in the end, flies up in the air, crossing her arms in an \"x\" shape\r\nthe scene shifts to an elderly woman helping diana wear large, poofy gown. Diana kicks around in the air in frustration",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 10,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "wonder woman",
+            "gal gadot",
+            "bvs",
+            "dce",
+            "dccomics",
+            "wonder",
+            "woman",
+            "trailer",
+            "wb",
+            "warnerbros",
+            "wonder woman trailer",
+            "wonder woman official trailer",
+            "wonder woman teaser trailer",
+            "wonder woman comic con",
+            "wonder woman comic con trailer",
+            "wb trailer",
+            "warner bros",
+            "robin wright",
+            "amazons",
+            "batman v superman",
+            "Gal Gadot",
+            "wb trailers",
+            "Chris Pine",
+            "Connie Nielson",
+            "Ben Affleck",
+            "DC Comics",
+            "Wonder Woman"
+        ],
+        "custom_tags": [],
+        "_id": "5939a43553f02d7a0fdd3a73",
+        "title": "WONDER WOMAN - Official Trailer [HD]",
+        "description": "It begins with her.\r\n\r\nGal Gadot is #WonderWoman. Watch the official trailer now!\r\n--\r\nWonder Woman is in theaters June 2, 2017.\r\n\r\nFollow #WonderWoman on social media:\r\nFacebook: https://www.facebook.com/wonderwomanfilm  \r\nTwitter: https://twitter.com/WonderWomanFilm   \r\nInstagram: https://www.instagram.com/wonderwomanfilm  \r\n--\r\nWONDER WOMAN\r\nFrom Warner Bros. Pictures and DC Entertainment comes the epic action adventure starring Gal Gadot, Chris Pine, Connie Nielsen and Robin Wright, directed by Patty Jenkins.",
+        "youtube_id": "1Q8fG0TtVAY",
+        "created_at": 20170608192333,
+        "updated_at": 20170615234717,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 151
+    }
+}

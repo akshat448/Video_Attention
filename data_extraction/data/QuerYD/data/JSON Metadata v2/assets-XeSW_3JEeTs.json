@@ -1,0 +1,108 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5446e13dfd851a3e4c",
+                        "audio_description": "58e7cf2e46e13dfd851a2284",
+                        "created_at": 20150309123439,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150309123439,
+                        "file_name": "14259296795641.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1865,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 12441,
+                        "video": "58e7cf2846e13dfd851a1b5c",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e253b8d718bf9db1e390a39",
+                                "sentence": " Video is one minute, 35 seconds.",
+                                "start_time": 0.03,
+                                "end_time": 3.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5446e13dfd851a3e4d",
+                        "audio_description": "58e7cf2e46e13dfd851a2284",
+                        "created_at": 20150309123546,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150309123546,
+                        "file_name": "14259297461101.wav",
+                        "start_time": 90.599,
+                        "legacy_video_id": 1865,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 12442,
+                        "video": "58e7cf2846e13dfd851a1b5c",
+                        "end_time": 90.599,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e25331e7482b6a6dfabc5b3",
+                                "sentence": " Painting of seppuku or stomach cutting is a form of Japanese samurai ritual suicide by disembowel montag.",
+                                "start_time": 0.32,
+                                "end_time": 8.02
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2e46e13dfd851a2284",
+                "status": "published",
+                "legacy_video_id": 1865,
+                "legacy_user_id": 2415,
+                "video": "58e7cf2846e13dfd851a1b5c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2e46e13dfd851a2256",
+                    "name": "@DescribeVT",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2415,
+                    "last_login": 0,
+                    "email": "braille@vt.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b5c",
+        "description": "",
+        "youtube_id": "XeSW_3JEeTs",
+        "views": 0,
+        "created_at": 20150309123413,
+        "title": "Japan - 10. Sayanora! Conclusion",
+        "legacy_video_id": 1865,
+        "updated_at": 20150309123546,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 95
+    }
+}

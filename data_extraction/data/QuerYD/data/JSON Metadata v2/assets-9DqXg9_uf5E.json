@@ -1,0 +1,970 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bbaee268b6b161563b70dac",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "Intro",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 3.6693333333333333,
+                        "duration": 3.6693333333333333,
+                        "file_name": "9DqXg9_uf5E_5bbaee268b6b161563b70dac.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008054158,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aad6",
+                                "sentence": " 10 times stupid people got punished in the best way.",
+                                "start_time": 0.43,
+                                "end_time": 3.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaeed6fe2983191d203208",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoOneIntro",
+                        "playback_type": "extended",
+                        "start_time": 4.087806,
+                        "end_time": 4.087806,
+                        "duration": 6.570666666666667,
+                        "file_name": "9DqXg9_uf5E_5bbaeed6fe2983191d203208.wav",
+                        "file_size_bytes": 1261612,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008054454,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa4b",
+                                "sentence": " Video one, two cars street race through an intersection, turning left side by side.",
+                                "start_time": 0.67,
+                                "end_time": 6.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaef31fe2983191d203209",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "2ndHalfVideoOne",
+                        "playback_type": "extended",
+                        "start_time": 9.197573,
+                        "end_time": 9.197573,
+                        "duration": 19.968,
+                        "file_name": "9DqXg9_uf5E_5bbaef31fe2983191d203209.wav",
+                        "file_size_bytes": 3833900,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008054625,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aad1",
+                                "sentence": " The car in the left lane with the dash cam is overtaken and passed on the right by the red classic muscle car.",
+                                "start_time": 0.45,
+                                "end_time": 8.03
+                            },
+                            {
+                                "_id": "5e194a1fa75af2abccd7aad0",
+                                "sentence": " It starts to joel and then bounce up and down. And then the rear axle completely disconnects from the car, and it comes to a stop with two wheels up front and no wheels in the back.",
+                                "start_time": 8.03,
+                                "end_time": 19.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf175fe2983191d20320e",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoTwoIntro",
+                        "playback_type": "extended",
+                        "start_time": 14.745355,
+                        "end_time": 14.745355,
+                        "duration": 6.912,
+                        "file_name": "9DqXg9_uf5E_5bbaf175fe2983191d20320e.wav",
+                        "file_size_bytes": 1327148,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008055605,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aabe",
+                                "sentence": " Video to",
+                                "start_time": 0.63,
+                                "end_time": 2.29
+                            },
+                            {
+                                "_id": "5e194a1fa75af2abccd7aabd",
+                                "sentence": " on a 4 lane freeway. The leftmost lane is an express only lane.",
+                                "start_time": 2.29,
+                                "end_time": 6.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf1a78b6b161563b70db6",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoTwoMid",
+                        "playback_type": "extended",
+                        "start_time": 19.001181,
+                        "end_time": 19.001181,
+                        "duration": 9.130666666666666,
+                        "file_name": "9DqXg9_uf5E_5bbaf1a78b6b161563b70db6.wav",
+                        "file_size_bytes": 1753132,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008055655,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aada",
+                                "sentence": " A white city n merges out of the express lane and a traffic in a no merge sown.",
+                                "start_time": 0.57,
+                                "end_time": 6.31
+                            },
+                            {
+                                "_id": "5e194a1fa75af2abccd7aad9",
+                                "sentence": " It is immediately spotted by a police car.",
+                                "start_time": 6.31,
+                                "end_time": 9.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf1cc8b6b161563b70db7",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoTwoFinal",
+                        "playback_type": "extended",
+                        "start_time": 25.117055,
+                        "end_time": 25.117055,
+                        "duration": 5.205333333333333,
+                        "file_name": "9DqXg9_uf5E_5bbaf1cc8b6b161563b70db7.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008055732,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa59",
+                                "sentence": " The police car pulls over the sedan,",
+                                "start_time": 0.72,
+                                "end_time": 3.82
+                            },
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa58",
+                                "sentence": " busted!",
+                                "start_time": 3.82,
+                                "end_time": 4.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf201fe2983191d203210",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoThreeIntro",
+                        "playback_type": "extended",
+                        "start_time": 27.426587,
+                        "end_time": 27.426587,
+                        "duration": 6.144,
+                        "file_name": "9DqXg9_uf5E_5bbaf201fe2983191d203210.wav",
+                        "file_size_bytes": 1179692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008055825,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa6f",
+                                "sentence": " Video three,",
+                                "start_time": 0.63,
+                                "end_time": 2.31
+                            },
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa6e",
+                                "sentence": " a red corvette revs its engine and then burns out.",
+                                "start_time": 2.31,
+                                "end_time": 5.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf2398b6b161563b70db9",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoThreeFinal",
+                        "playback_type": "extended",
+                        "start_time": 34.785775,
+                        "end_time": 34.785775,
+                        "duration": 5.12,
+                        "file_name": "9DqXg9_uf5E_5bbaf2398b6b161563b70db9.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008055921,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aaf6",
+                                "sentence": " The driver loses control and fears off road into some trees.",
+                                "start_time": 0.55,
+                                "end_time": 5.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf2c08b6b161563b70dbc",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoFour",
+                        "playback_type": "extended",
+                        "start_time": 37.430251,
+                        "end_time": 37.430251,
+                        "duration": 13.226666666666667,
+                        "file_name": "9DqXg9_uf5E_5bbaf2c08b6b161563b70dbc.wav",
+                        "file_size_bytes": 2539564,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008060136,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aaaf",
+                                "sentence": " Video for",
+                                "start_time": 0.46,
+                                "end_time": 1.97
+                            },
+                            {
+                                "_id": "5e194a1fa75af2abccd7aaae",
+                                "sentence": " a surveillance camera spots a man in a hoodie approach a parked white sedan.",
+                                "start_time": 1.97,
+                                "end_time": 7.36
+                            },
+                            {
+                                "_id": "5e194a1fa75af2abccd7aaad",
+                                "sentence": " There is sport commentary playing, ironically as though explaining the actions of the man.",
+                                "start_time": 7.36,
+                                "end_time": 13.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf327fe2983191d203213",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoFourFinal",
+                        "playback_type": "extended",
+                        "start_time": 44.328578,
+                        "end_time": 44.328578,
+                        "duration": 15.274666666666667,
+                        "file_name": "9DqXg9_uf5E_5bbaf327fe2983191d203213.wav",
+                        "file_size_bytes": 2932780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008060319,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa9d",
+                                "sentence": " The man throws a brick at the passenger side window. The brick bounces off the window and hits the man in the face.",
+                                "start_time": 0.36,
+                                "end_time": 8.21
+                            },
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa9c",
+                                "sentence": " He collapses just like he was knocked out by a big right hook.",
+                                "start_time": 8.21,
+                                "end_time": 12.44
+                            },
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa9b",
+                                "sentence": " This clip is then replayed in slow motion.",
+                                "start_time": 12.44,
+                                "end_time": 15.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf3638b6b161563b70dbe",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoFiveIntro",
+                        "playback_type": "extended",
+                        "start_time": 49.235602,
+                        "end_time": 49.235602,
+                        "duration": 7.168,
+                        "file_name": "9DqXg9_uf5E_5bbaf3638b6b161563b70dbe.wav",
+                        "file_size_bytes": 1376300,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008060419,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aaa7",
+                                "sentence": " Video five on a 3 lane highway. After the rain, a cart speeds down the middle lane.",
+                                "start_time": 0.41,
+                                "end_time": 7.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf3d5fe2983191d203214",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoFiveFinal",
+                        "playback_type": "extended",
+                        "start_time": 59.169881,
+                        "end_time": 59.169881,
+                        "duration": 8.618666666666666,
+                        "file_name": "9DqXg9_uf5E_5bbaf3d5fe2983191d203214.wav",
+                        "file_size_bytes": 1654828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008060613,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa9e",
+                                "sentence": " Her car loses control and swerved in and out of the left lane until finally it hits and knocks over a light posts.",
+                                "start_time": 0.51,
+                                "end_time": 8.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf5348b6b161563b70dc2",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoSix",
+                        "playback_type": "extended",
+                        "start_time": 63.578201,
+                        "end_time": 63.578201,
+                        "duration": 25.514666666666667,
+                        "file_name": "9DqXg9_uf5E_5bbaf5348b6b161563b70dc2.wav",
+                        "file_size_bytes": 4898860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008061204,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa4f",
+                                "sentence": " Video six,",
+                                "start_time": 0.5,
+                                "end_time": 2.01
+                            },
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa4e",
+                                "sentence": " a man who parked illegally in a handicap spot comes back to find his car covered in hundreds of blue posted notes with white posted notes in the shape of a handicap symbol,",
+                                "start_time": 2.01,
+                                "end_time": 14.56
+                            },
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa4d",
+                                "sentence": " much like a handicap parking sign.",
+                                "start_time": 14.56,
+                                "end_time": 16.91
+                            },
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa4c",
+                                "sentence": " He angrily tries to clear them off so that he can drive away. While a large crowd laughs at him while filming on cell phones.",
+                                "start_time": 16.91,
+                                "end_time": 25.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf5e4fe2983191d20321b",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoSixFinal",
+                        "playback_type": "extended",
+                        "start_time": 77.004742,
+                        "end_time": 77.004742,
+                        "duration": 5.973333333333334,
+                        "file_name": "9DqXg9_uf5E_5bbaf5e4fe2983191d20321b.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008061500,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aaa8",
+                                "sentence": " The man rolls down his window and gets into the car and drives off angrily.",
+                                "start_time": 0.59,
+                                "end_time": 5.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf6308b6b161563b70dc6",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoSevenIntro",
+                        "playback_type": "extended",
+                        "start_time": 82.05259600000001,
+                        "end_time": 82.05259600000001,
+                        "duration": 7.424,
+                        "file_name": "9DqXg9_uf5E_5bbaf6308b6b161563b70dc6.wav",
+                        "file_size_bytes": 1425452,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008061616,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aaac",
+                                "sentence": " Video seven, a blue convertible turns into the left lane from an intersection at a high speed.",
+                                "start_time": 0.47,
+                                "end_time": 7.38
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbaf69c8b6b161563b70dc8",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoSevenMid",
+                        "playback_type": "extended",
+                        "start_time": 85.339364,
+                        "end_time": 85.339364,
+                        "duration": 5.376,
+                        "file_name": "9DqXg9_uf5E_5bbaf69c8b6b161563b70dc8.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008061804,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa50",
+                                "sentence": " The car loses control, spins 180 degrees, and hits the curb.",
+                                "start_time": 0.4,
+                                "end_time": 5.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafa668b6b161563b70dd0",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "asd",
+                        "playback_type": "inline",
+                        "start_time": 86.067801,
+                        "end_time": 90.07846766666667,
+                        "duration": 4.010666666666666,
+                        "file_name": "9DqXg9_uf5E_5bbafa668b6b161563b70dd0.wav",
+                        "file_size_bytes": 770092,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008063414,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa9a",
+                                "sentence": " When it hits the curb, the back wheels are damaged in the trunk, pops open.",
+                                "start_time": 0.13,
+                                "end_time": 3.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafabc8b6b161563b70dd1",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoEight",
+                        "playback_type": "extended",
+                        "start_time": 90.776302,
+                        "end_time": 90.776302,
+                        "duration": 8.874666666666666,
+                        "file_name": "9DqXg9_uf5E_5bbafabc8b6b161563b70dd1.wav",
+                        "file_size_bytes": 1703980,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008063540,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa76",
+                                "sentence": " Video eight",
+                                "start_time": 0.27,
+                                "end_time": 1.51
+                            },
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa75",
+                                "sentence": " on a residential one way street. A car passes a bike very closely there. Then both stopped in an intersection.",
+                                "start_time": 1.51,
+                                "end_time": 8.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafafa63bda31a06de6ec0",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "chase",
+                        "playback_type": "extended",
+                        "start_time": 101.607507,
+                        "end_time": 101.607507,
+                        "duration": 8.533333333333333,
+                        "file_name": "9DqXg9_uf5E_5bbafafa63bda31a06de6ec0.wav",
+                        "file_size_bytes": 1638444,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008063642,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aaab",
+                                "sentence": " The driver then chases the biker down the sidewalk. He tries to kick the bike and then stumbles and falls down, rolling completely over on one shoulder.",
+                                "start_time": 0.17,
+                                "end_time": 8.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafba48b6b161563b70dd4",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "chaseFinal",
+                        "playback_type": "extended",
+                        "start_time": 109.380174,
+                        "end_time": 109.380174,
+                        "duration": 7.253333333333333,
+                        "file_name": "9DqXg9_uf5E_5bbafba48b6b161563b70dd4.wav",
+                        "file_size_bytes": 1392684,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008063932,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aaaa",
+                                "sentence": " The clip of the man falling is replayed in slow motion with an animated cape superimposed on the man's back.",
+                                "start_time": 0.26,
+                                "end_time": 7.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafbea63bda31a06de6ec2",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoNine",
+                        "playback_type": "extended",
+                        "start_time": 120.124176,
+                        "end_time": 120.124176,
+                        "duration": 8.021333333333333,
+                        "file_name": "9DqXg9_uf5E_5bbafbea63bda31a06de6ec2.wav",
+                        "file_size_bytes": 1540140,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008064042,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa8f",
+                                "sentence": " Video nine,",
+                                "start_time": 0.24,
+                                "end_time": 1.72
+                            },
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa8e",
+                                "sentence": " a red fast back muscle car burns out. It then loses control and hit the street lamp.",
+                                "start_time": 1.72,
+                                "end_time": 7.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafc298b6b161563b70dd5",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoTenIntro",
+                        "playback_type": "extended",
+                        "start_time": 133.450989,
+                        "end_time": 133.450989,
+                        "duration": 10.325333333333333,
+                        "file_name": "9DqXg9_uf5E_5bbafc298b6b161563b70dd5.wav",
+                        "file_size_bytes": 1982508,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008064145,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7ab0a",
+                                "sentence": " Video 10,",
+                                "start_time": 0.32,
+                                "end_time": 1.67
+                            },
+                            {
+                                "_id": "5e194a1fa75af2abccd7ab09",
+                                "sentence": " a motorcyclist stopped at an intersection.",
+                                "start_time": 1.67,
+                                "end_time": 4.51
+                            },
+                            {
+                                "_id": "5e194a1fa75af2abccd7ab08",
+                                "sentence": " The driver of the car behind him, a bald man in shorts and flip flops, approaches the biker.",
+                                "start_time": 4.51,
+                                "end_time": 10.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafc9a63bda31a06de6ec4",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoTenPunch",
+                        "playback_type": "extended",
+                        "start_time": 137.129846,
+                        "end_time": 137.129846,
+                        "duration": 9.642666666666667,
+                        "file_name": "9DqXg9_uf5E_5bbafc9a63bda31a06de6ec4.wav",
+                        "file_size_bytes": 1851436,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008064338,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aacd",
+                                "sentence": " The man punches the biker in the helmet and is then pushed away.",
+                                "start_time": 0.27,
+                                "end_time": 4.09
+                            },
+                            {
+                                "_id": "5e194a1fa75af2abccd7aacc",
+                                "sentence": " The girl riding on the back of the motorcycle then hops off and the man shoves her back.",
+                                "start_time": 4.09,
+                                "end_time": 9.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafcc78b6b161563b70dd7",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoTenOffBike",
+                        "playback_type": "extended",
+                        "start_time": 143.768447,
+                        "end_time": 143.768447,
+                        "duration": 4.949333333333334,
+                        "file_name": "9DqXg9_uf5E_5bbafcc78b6b161563b70dd7.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008064423,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1ea75af2abccd7aa9f",
+                                "sentence": " The biker has gotten off his bike. The man continues to try and punch him.",
+                                "start_time": 0.46,
+                                "end_time": 4.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafcee8b6b161563b70dd8",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoTenChoke",
+                        "playback_type": "extended",
+                        "start_time": 151.250053,
+                        "end_time": 151.250053,
+                        "duration": 4.181333333333333,
+                        "file_name": "9DqXg9_uf5E_5bbafcee8b6b161563b70dd8.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008064502,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aac1",
+                                "sentence": " Her breaker pushes the man to the ground and hold them down by his neck.",
+                                "start_time": 0.47,
+                                "end_time": 4.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafd298b6b161563b70dd9",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "VideoTenGollum",
+                        "playback_type": "extended",
+                        "start_time": 154.235038,
+                        "end_time": 154.235038,
+                        "duration": 10.666666666666666,
+                        "file_name": "9DqXg9_uf5E_5bbafd298b6b161563b70dd9.wav",
+                        "file_size_bytes": 2048044,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008064601,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aaef",
+                                "sentence": " The man's face looks very funny with wide eyes and bad teeth. The face of golomb from lord of the rings is comically superimposed on his face due to the resemblance.",
+                                "start_time": 0.27,
+                                "end_time": 10.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafd4d8b6b161563b70dda",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "BonusClip",
+                        "playback_type": "inline",
+                        "start_time": 157.044126,
+                        "end_time": 159.00679266666668,
+                        "duration": 1.9626666666666666,
+                        "file_name": "9DqXg9_uf5E_5bbafd4d8b6b161563b70dda.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008064637,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aac7",
+                                "sentence": " Bonus clip.",
+                                "start_time": 0.6,
+                                "end_time": 1.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafd968b6b161563b70ddb",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "Cut1",
+                        "playback_type": "extended",
+                        "start_time": 162.581998,
+                        "end_time": 162.581998,
+                        "duration": 11.605333333333334,
+                        "file_name": "9DqXg9_uf5E_5bbafd968b6b161563b70ddb.wav",
+                        "file_size_bytes": 2228268,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008064750,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e194a1fa75af2abccd7aad2",
+                                "sentence": " A small hatchback is in the left lane of a 1 way tunnel. A shot of the internet video of keyboard cat is intersected with a cat raising its paws above the keyboard.",
+                                "start_time": 0.26,
+                                "end_time": 11.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafddc8b6b161563b70ddc",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "Cut2",
+                        "playback_type": "extended",
+                        "start_time": 166.201952,
+                        "end_time": 166.201952,
+                        "duration": 12.117333333333333,
+                        "file_name": "9DqXg9_uf5E_5bbafddc8b6b161563b70ddc.wav",
+                        "file_size_bytes": 2326572,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008064900,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1949aa80617fabcb7008b2",
+                                "sentence": " In the tunnel, a motorcycle pulls up to the right of the hatchback.",
+                                "start_time": 0.17,
+                                "end_time": 4.08
+                            },
+                            {
+                                "_id": "5e1949aa80617fabcb7008b1",
+                                "sentence": " Another shot is intersected of keyboard. Cat with its paws still held above the keyboard, closing its eyes in anticipation.",
+                                "start_time": 4.08,
+                                "end_time": 11.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bbafe2c8b6b161563b70ddd",
+                        "video": "5bbaeba08b6b161563b70da6",
+                        "audio_description": "5bbaeba08b6b161563b70da5",
+                        "user": "5bb9ad58092902085e32a237",
+                        "label": "Cut3",
+                        "playback_type": "extended",
+                        "start_time": 169.179394,
+                        "end_time": 169.179394,
+                        "duration": 12.458666666666666,
+                        "file_name": "9DqXg9_uf5E_5bbafe2c8b6b161563b70ddd.wav",
+                        "file_size_bytes": 2392108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/9DqXg9_uf5E",
+                        "created_at": 20181008065020,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1949aa80617fabcb7008e3",
+                                "sentence": " The motorcyclist kicks the hatchback and then loses his balance. He falls over with his bike, hitting and bouncing off the median.",
+                                "start_time": 0.22,
+                                "end_time": 8.54
+                            },
+                            {
+                                "_id": "5e1949aa80617fabcb7008e2",
+                                "sentence": " The screen then goes back to keyboard cat",
+                                "start_time": 8.54,
+                                "end_time": 11.19
+                            },
+                            {
+                                "_id": "5e1949aa80617fabcb7008e1",
+                                "sentence": " playing the keyboard.",
+                                "start_time": 11.19,
+                                "end_time": 12.42
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bbaeba08b6b161563b70da5",
+                "video": "5bbaeba08b6b161563b70da6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bb9ad58092902085e32a237",
+                    "email": "rn.marisa@gmail.com",
+                    "name": "Marisa Rea",
+                    "given_name": "Marisa",
+                    "picture": "https://lh3.googleusercontent.com/-3-3zsQU8i90/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUJylOVY-OCTAXjrg0Ls8zdL3i5PA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "101203637878894026736",
+                    "last_login": 20181008052921,
+                    "token": "fd45f7dc73afe5296c9f0175b46ca280e31cbfa22f8dea2a9dc089b5bb46c65e",
+                    "__v": 0,
+                    "updated_at": 20181008052921,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181008053112,
+                "updated_at": 20181008114937,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [],
+                "_id": "5bbaf7218b6b161563b70dca",
+                "video": "5bbaeba08b6b161563b70da6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bb9ad58092902085e32a237",
+                    "email": "rn.marisa@gmail.com",
+                    "name": "Marisa Rea",
+                    "given_name": "Marisa",
+                    "picture": "https://lh3.googleusercontent.com/-3-3zsQU8i90/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUJylOVY-OCTAXjrg0Ls8zdL3i5PA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "101203637878894026736",
+                    "last_login": 20181008052921,
+                    "token": "fd45f7dc73afe5296c9f0175b46ca280e31cbfa22f8dea2a9dc089b5bb46c65e",
+                    "__v": 0,
+                    "updated_at": 20181008052921,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20181008062017,
+                "updated_at": 20181008062017,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "instant karma",
+            "karma",
+            "karma wins",
+            "justice",
+            "faith in humanity restored",
+            "car karma",
+            "cars",
+            "jukinvideo",
+            "jukin video",
+            "car throttle",
+            "carthrottle",
+            "car jokes",
+            "funny",
+            "car memes",
+            "humour"
+        ],
+        "custom_tags": [],
+        "_id": "5bbaeba08b6b161563b70da6",
+        "title": "10 Times Stupid People Got Punished In The Best Way",
+        "description": "CLICK HERE TO DOWNLOAD THE CAR THROTTLE MOBILE APP!\nhttp://bit.ly/CTAPPDOWNLOAD\n\nSome people are good. Some people are bad. But some people deserve to be hit with an instant dose of karma!\nThanks to JukinVideo for helping us source these funny clips: http://www.youtube.com/user/JukinVide...\nSubscribe to Car Throttle: http://bit.ly/CTSubscribe\n\n----- Follow Car Throttle -----\n\nSubscribe to Car Throttle: http://bit.ly/CTSubscribe\n\nOn our website: http://www.carthrottle.com\nOn Facebook: http://www.facebook.com/carthrottle\nOn Twitter: http://www.twitter.com/carthrottle\n\n----- Music by -----\n\nTom Kent: http://www.tomkentmusic.co.uk\nYouTube: http://youtube.com/tomkentmusic\n\n---- Credits ----\n\n\"R.KELLY - I BELIEVE I CAN FLY - COVER BY LEXA - 2012\" by b2sfamily\nhttps://www.youtube.com/watch?v=7x5hV...\n\n\"Charlie Schmidt's Keyboard Cat! - THE ORIGINAL!\" by chuckieart\nhttps://www.youtube.com/watch?v=J---a...",
+        "youtube_id": "9DqXg9_uf5E",
+        "created_at": 20181008053112,
+        "updated_at": 20181008065020,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Autos & Vehicles",
+        "category_id": "2",
+        "duration": 194
+    }
+}

@@ -1,0 +1,752 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4946e13dfd851a3468",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022082504,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022082504,
+                        "file_name": "14139915040451.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8804,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 6.39,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232844e12f340b26b27c10",
+                                "sentence": " A guy steps onto an elevator, joining a gentleman in a wheelchair and a woman with a white cane.",
+                                "start_time": 0.24,
+                                "end_time": 6.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3469",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022082605,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022082605,
+                        "file_name": "14139915652231.wav",
+                        "start_time": 11.049,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8805,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 13.349,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232841e12f340b26b27be3",
+                                "sentence": " Bob turns to the woman with a cane.",
+                                "start_time": 0,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a346a",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022082630,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022082630,
+                        "file_name": "14139915901881.wav",
+                        "start_time": 15.249,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8806,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 16.779,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e23279fb012e302b8a229a9",
+                                "sentence": " Awkward,",
+                                "start_time": 0,
+                                "end_time": 1.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a346b",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022082753,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022082753,
+                        "file_name": "14139916730061.wav",
+                        "start_time": 41.473,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8807,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 41.473,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e23279bb012e302b8a2296f",
+                                "sentence": " The gentleman in the wheelchair is saluted.",
+                                "start_time": 0.07,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a346c",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022083157,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022083157,
+                        "file_name": "14139919171221.wav",
+                        "start_time": 51.241,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8811,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 53.541,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232a22dfe56d0b2951ab41",
+                                "sentence": " A man in a wheelchair plays basketball.",
+                                "start_time": 0,
+                                "end_time": 2.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a346d",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022083243,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022083243,
+                        "file_name": "14139919631271.wav",
+                        "start_time": 55.064,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8812,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 57.114,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e23279eb012e302b8a229a3",
+                                "sentence": " A young man signs.",
+                                "start_time": 0,
+                                "end_time": 2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a346e",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022083639,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022083639,
+                        "file_name": "14139921996601.wav",
+                        "start_time": 62.966,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8817,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 62.966,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232683c832bd02b748f8de",
+                                "sentence": " The camera stops drifting toward the interpreter.",
+                                "start_time": 0,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a346f",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022084535,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022084535,
+                        "file_name": "14139927351541.wav",
+                        "start_time": 66.478,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8826,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 66.478,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e23279db012e302b8a22997",
+                                "sentence": " Two women chat above the seated basketball player.",
+                                "start_time": 0,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3470",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022084620,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022084620,
+                        "file_name": "14139927805341.wav",
+                        "start_time": 76.545,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8827,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 76.545,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e23279db012e302b8a22999",
+                                "sentence": " A woman with forearm crutches holds a door handle for support as she steps through a doorway.",
+                                "start_time": 0,
+                                "end_time": 5.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3471",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022084700,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022084700,
+                        "file_name": "14139928204091.wav",
+                        "start_time": 80.869,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8828,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 80.869,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232683c832bd02b748f8e4",
+                                "sentence": " She falls to the floor. When a colleague pulls the door open,",
+                                "start_time": 0,
+                                "end_time": 3.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3472",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022084804,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022084804,
+                        "file_name": "14139928849811.wav",
+                        "start_time": 91.604,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8829,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 94.164,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232686c832bd02b748f920",
+                                "sentence": " Alice dances in an office conga line.",
+                                "start_time": 0,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3473",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022085040,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022085040,
+                        "file_name": "14139930408701.wav",
+                        "start_time": 99.965,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8831,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 105.08500000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e2327a8b012e302b8a229b7",
+                                "sentence": " When a buzzing fly bothers an office worker, he swaps it with a colleagues crutch.",
+                                "start_time": 0,
+                                "end_time": 4.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3474",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022085327,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022085327,
+                        "file_name": "14139932077791.wav",
+                        "start_time": 121.353,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8833,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 121.353,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232684c832bd02b748f911",
+                                "sentence": " A dog guides her owner into a taxi.",
+                                "start_time": 0,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3475",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022085501,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022085501,
+                        "file_name": "14139933015831.wav",
+                        "start_time": 137.517,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8835,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 138.797,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232a21dfe56d0b2951ab40",
+                                "sentence": " A couple cuddles.",
+                                "start_time": 0,
+                                "end_time": 1.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3476",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022085543,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022085543,
+                        "file_name": "14139933437071.wav",
+                        "start_time": 142.375,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8836,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 144.935,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232683c832bd02b748f8f9",
+                                "sentence": " A handsome young graduate beams,",
+                                "start_time": 0,
+                                "end_time": 2.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3477",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022085725,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022085725,
+                        "file_name": "14139934452141.wav",
+                        "start_time": 147.365,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8837,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 147.365,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232686c832bd02b748f922",
+                                "sentence": " A man names a megaphone at Alice.",
+                                "start_time": 0,
+                                "end_time": 2.41
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3478",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022085853,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022085853,
+                        "file_name": "14139935336991.wav",
+                        "start_time": 157.27,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8839,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 159.06,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e254d22824e581ebf8e1cef",
+                                "sentence": " He joins two colleagues,",
+                                "start_time": 0,
+                                "end_time": 1.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3479",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022085939,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022085939,
+                        "file_name": "14139935790521.wav",
+                        "start_time": 151.85,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8840,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 153.9,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232684c832bd02b748f90d",
+                                "sentence": " The young man signs.",
+                                "start_time": 0,
+                                "end_time": 2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a347a",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022090018,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022090018,
+                        "file_name": "14139936182951.wav",
+                        "start_time": 162.026,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8841,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 164.07600000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e2326b8c832bd02b748f92f",
+                                "sentence": " Who point and whisper about him.",
+                                "start_time": 0,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a347b",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022090132,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022090132,
+                        "file_name": "14139936928411.wav",
+                        "start_time": 167.187,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8842,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 167.187,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e23279cb012e302b8a22985",
+                                "sentence": " A man in a tie drapes his arm across the gentleman's shoulder.",
+                                "start_time": 0,
+                                "end_time": 3.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a347c",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022090250,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022090250,
+                        "file_name": "14139937699971.wav",
+                        "start_time": 171.592,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8843,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 171.592,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232684c832bd02b748f901",
+                                "sentence": " The young man signs.",
+                                "start_time": 0,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a347d",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022090639,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022090639,
+                        "file_name": "14139939992281.wav",
+                        "start_time": 178.24,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8846,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 178.24,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232685c832bd02b748f91b",
+                                "sentence": " At a restaurant, a waiter approaches Alice and her friend,",
+                                "start_time": 0,
+                                "end_time": 3.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a347e",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022090828,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022090828,
+                        "file_name": "14139941086511.wav",
+                        "start_time": 194.421,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8848,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 199.021,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232a1fdfe56d0b2951ab2e",
+                                "sentence": " The next day, Bob joines Alice and the gentleman in the elevator.",
+                                "start_time": 0.03,
+                                "end_time": 4.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a347f",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022090936,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022090936,
+                        "file_name": "14139941763641.wav",
+                        "start_time": 203.235,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8849,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 205.28500000000003,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232842e12f340b26b27bec",
+                                "sentence": " He shares a fist bump with Alice.",
+                                "start_time": 0,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a3480",
+                        "audio_description": "58e7cf2d46e13dfd851a21b5",
+                        "created_at": 20141022091043,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141022091043,
+                        "file_name": "14139942438991.wav",
+                        "start_time": 219.328,
+                        "legacy_video_id": 1656,
+                        "legacy_user_id": 114,
+                        "label": "",
+                        "legacy_audio_clip_id": 8850,
+                        "video": "58e7cf2846e13dfd851a1a8b",
+                        "end_time": 219.328,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21a7",
+                        "transcript": [
+                            {
+                                "_id": "5e232682c832bd02b748f8d7",
+                                "sentence": " Sponsored by the district of columbia office of disability rights, o d r dot DC dot g o v.",
+                                "start_time": 0,
+                                "end_time": 8.16
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21b5",
+                "status": "published",
+                "legacy_video_id": 1656,
+                "legacy_user_id": 114,
+                "video": "58e7cf2846e13dfd851a1a8b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21a7",
+                    "name": "DoubleJ",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20170119065431,
+                    "legacy_user_id": 114,
+                    "last_login": 0,
+                    "email": "heydoublej@yahoo.ca",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a8b",
+        "description": "",
+        "youtube_id": "Gv1aDEFlXq8",
+        "views": 0,
+        "created_at": 20141022081431,
+        "title": "Disability Sensitivity Training Video",
+        "legacy_video_id": 1656,
+        "updated_at": 20141102094639,
+        "youtube_status": "available",
+        "category": "News & Politics",
+        "category_id": "25",
+        "duration": 221
+    }
+}

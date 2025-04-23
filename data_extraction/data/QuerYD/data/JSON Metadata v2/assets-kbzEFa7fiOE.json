@@ -1,0 +1,166 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4e9e",
+                        "audio_description": "58e7cf3346e13dfd851a24ea",
+                        "created_at": 20151102103143,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102103143,
+                        "file_name": "14464891030541.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2315,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18310,
+                        "video": "58e7cf2946e13dfd851a1d1e",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec34d94fd7667ac6613d2",
+                                "sentence": " Christopher, a young boy, sits in a wheel chair with an attached desk.",
+                                "start_time": 0.74,
+                                "end_time": 5
+                            },
+                            {
+                                "_id": "5e3ec34d94fd7667ac6613d1",
+                                "sentence": " On the desk are many colorful objects.",
+                                "start_time": 5.06,
+                                "end_time": 8.12
+                            },
+                            {
+                                "_id": "5e3ec34d94fd7667ac6613d0",
+                                "sentence": " An adult female sits across from him and pits on his glasses.",
+                                "start_time": 8.14,
+                                "end_time": 12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4e9f",
+                        "audio_description": "58e7cf3346e13dfd851a24ea",
+                        "created_at": 20151102103551,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102103551,
+                        "file_name": "14464893519051.wav",
+                        "start_time": 15.058,
+                        "legacy_video_id": 2315,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18311,
+                        "video": "58e7cf2946e13dfd851a1d1e",
+                        "end_time": 15.058,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 18.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec10668d74267abd5f9b2",
+                                "sentence": " The adult moves a thick black string back and forth across the tray. The tray holds several items, including a pink snake.",
+                                "start_time": 0.59,
+                                "end_time": 8.49
+                            },
+                            {
+                                "_id": "5e3ec10668d74267abd5f9b1",
+                                "sentence": " The other items are indistinguishable. She reaches out to touch his hands, encouraging him to move the string himself.",
+                                "start_time": 8.49,
+                                "end_time": 15.95
+                            },
+                            {
+                                "_id": "5e3ec10668d74267abd5f9b0",
+                                "sentence": " In response, he withdraws his hands.",
+                                "start_time": 15.97,
+                                "end_time": 18.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4ea0",
+                        "audio_description": "58e7cf3346e13dfd851a24ea",
+                        "created_at": 20151102103619,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102103619,
+                        "file_name": "14464893791021.wav",
+                        "start_time": 29.393,
+                        "legacy_video_id": 2315,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18312,
+                        "video": "58e7cf2946e13dfd851a1d1e",
+                        "end_time": 29.393,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ed2a229f9bdab9cd96ea9",
+                                "sentence": " The adult moves behind. Christopher leans over him and places her arms around him with her hands resting beside his hands.",
+                                "start_time": 0.73,
+                                "end_time": 9.07
+                            },
+                            {
+                                "_id": "5e3ed2a229f9bdab9cd96ea8",
+                                "sentence": " As she slides the string back and forth, he reaches out and begins to move the string with her.",
+                                "start_time": 9.07,
+                                "end_time": 15.05
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a24ea",
+                "status": "published",
+                "legacy_video_id": 2315,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1d1e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d1e",
+        "description": "",
+        "youtube_id": "kbzEFa7fiOE",
+        "views": 0,
+        "created_at": 20151102103117,
+        "title": "aKatheeHUHclip2",
+        "legacy_video_id": 2315,
+        "updated_at": 20151102103619,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 40
+    }
+}

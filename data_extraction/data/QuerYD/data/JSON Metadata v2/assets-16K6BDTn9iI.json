@@ -1,0 +1,114 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4e46e13dfd851a39c3",
+                        "audio_description": "58e7cf2f46e13dfd851a22f5",
+                        "created_at": 20150216124304,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150216124304,
+                        "file_name": "14241193843711.wav",
+                        "start_time": 15.867,
+                        "legacy_video_id": 1811,
+                        "legacy_user_id": 2555,
+                        "label": "",
+                        "legacy_audio_clip_id": 11152,
+                        "video": "58e7cf2846e13dfd851a1b26",
+                        "end_time": 28.147,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22f2",
+                        "transcript": [
+                            {
+                                "_id": "5e219ad3ba17af2e75ca32af",
+                                "sentence": " Fantasy battles and feasts take place. Epic says variety five stars says the telegraph",
+                                "start_time": 0,
+                                "end_time": 6.54
+                            },
+                            {
+                                "_id": "5e219ad3ba17af2e75ca32ae",
+                                "sentence": " game of throne, the Complete fourth season own it now on blu ray and DVD.",
+                                "start_time": 6.61,
+                                "end_time": 12.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4e46e13dfd851a39c4",
+                        "audio_description": "58e7cf2f46e13dfd851a22f5",
+                        "created_at": 20150216124645,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150216124645,
+                        "file_name": "14241196053311.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1811,
+                        "legacy_user_id": 2555,
+                        "label": "",
+                        "legacy_audio_clip_id": 11153,
+                        "video": "58e7cf2846e13dfd851a1b26",
+                        "end_time": 7.93,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22f2",
+                        "transcript": [
+                            {
+                                "_id": "5e219ad3ba17af2e75ca32ec",
+                                "sentence": " A young man draws his sword in front of onlookers. A dragon flies over and men prepare for battle. Snow falls on a young woman, an army approaches a pyramid city.",
+                                "start_time": 0,
+                                "end_time": 7.9
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2f46e13dfd851a22f5",
+                "status": "published",
+                "legacy_video_id": 1811,
+                "legacy_user_id": 2555,
+                "video": "58e7cf2846e13dfd851a1b26",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2f46e13dfd851a22f2",
+                    "name": "lardconcepts",
+                    "google_user_id_token": "",
+                    "created_at": 20150215131453,
+                    "updated_at": 20150215131529,
+                    "legacy_user_id": 2555,
+                    "last_login": 0,
+                    "email": "lardconcepts@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b26",
+        "description": "",
+        "youtube_id": "16K6BDTn9iI",
+        "views": 0,
+        "created_at": 20150216123755,
+        "title": "Game of Thrones Season 4 30 Second Trailer",
+        "legacy_video_id": 1811,
+        "updated_at": 20150216124705,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 29
+    }
+}

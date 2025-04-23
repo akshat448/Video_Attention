@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b0f",
+                        "audio_description": "58e7cf3546e13dfd851a25af",
+                        "created_at": 20160818140504,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160818140504,
+                        "file_name": "14715543040971.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2652,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 23866,
+                        "video": "58e7cf2946e13dfd851a1e6f",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e4421c0c26fa0bc796fd402",
+                                "sentence": " A woman in a brightly colored polka dot blouse and green undershirt",
+                                "start_time": 0.75,
+                                "end_time": 5.81
+                            },
+                            {
+                                "_id": "5e4421c0c26fa0bc796fd401",
+                                "sentence": " knocks on an office door and opens it.",
+                                "start_time": 5.81,
+                                "end_time": 9.01
+                            },
+                            {
+                                "_id": "5e4421c0c26fa0bc796fd400",
+                                "sentence": " She stands at the door while talking to someone out of you.",
+                                "start_time": 9.36,
+                                "end_time": 13.49
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25af",
+                "status": "published",
+                "legacy_video_id": 2652,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e6f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e6f",
+        "description": "",
+        "youtube_id": "ODAfdbHBtGE",
+        "views": 0,
+        "created_at": 20160818140323,
+        "title": "Nancy for Beth 4",
+        "legacy_video_id": 2652,
+        "updated_at": 20160819113934,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 39
+    }
+}

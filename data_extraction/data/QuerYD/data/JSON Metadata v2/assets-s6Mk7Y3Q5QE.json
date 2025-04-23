@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cb3",
+                        "audio_description": "58e7cf3746e13dfd851a269e",
+                        "created_at": 20160929073438,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929073438,
+                        "file_name": "14751596787201.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2729,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24445,
+                        "video": "58e7cf2946e13dfd851a1ebc",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.27,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e4429aaa888c4bc7acb62b2",
+                                "sentence": " A student sits at a desk with a braille writer doing a simple addition problem.",
+                                "start_time": 0.31,
+                                "end_time": 7.44
+                            },
+                            {
+                                "_id": "5e4429aaa888c4bc7acb62b1",
+                                "sentence": " To his right sits his teacher. And to his left, his intervenor moves into use tactile sign with the student",
+                                "start_time": 7.7,
+                                "end_time": 17.36
+                            },
+                            {
+                                "_id": "5e4429aaa888c4bc7acb62b0",
+                                "sentence": " while further building on how to perform the math application correctly.",
+                                "start_time": 17.36,
+                                "end_time": 23.1
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a269e",
+                "status": "published",
+                "legacy_video_id": 2729,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1ebc",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ebc",
+        "description": "",
+        "youtube_id": "s6Mk7Y3Q5QE",
+        "views": 0,
+        "created_at": 20160929073250,
+        "title": "Collin - Touch 2",
+        "legacy_video_id": 2729,
+        "updated_at": 20160929073438,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 39
+    }
+}

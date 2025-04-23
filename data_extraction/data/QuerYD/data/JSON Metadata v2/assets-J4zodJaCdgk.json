@@ -1,0 +1,126 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4ea6",
+                        "audio_description": "58e7cf3346e13dfd851a24ec",
+                        "created_at": 20151102104041,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102104041,
+                        "file_name": "14464896418011.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2317,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18318,
+                        "video": "58e7cf2946e13dfd851a1d20",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec18e2c60ec67aa118eac",
+                                "sentence": " A male student sits at a desk eating pudding with a spoon, a female adults, it's across from him.",
+                                "start_time": 1.01,
+                                "end_time": 7.4
+                            },
+                            {
+                                "_id": "5e3ec18e2c60ec67aa118eab",
+                                "sentence": " They chat about taking a trip.",
+                                "start_time": 7.4,
+                                "end_time": 9.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4ea7",
+                        "audio_description": "58e7cf3346e13dfd851a24ec",
+                        "created_at": 20151102104149,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102104149,
+                        "file_name": "14464897091331.wav",
+                        "start_time": 12.482,
+                        "legacy_video_id": 2317,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18319,
+                        "video": "58e7cf2946e13dfd851a1d20",
+                        "end_time": 12.482,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 21.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ed2a329f9bdab9cd96eed",
+                                "sentence": " She reaches out and holds the spoon under his hand, guiding it further into the cup. She is not directing the spoon, but is adding support so that the student is able to place more pudding onto his spoon.",
+                                "start_time": 0.38,
+                                "end_time": 12.87
+                            },
+                            {
+                                "_id": "5e3ed2a329f9bdab9cd96eec",
+                                "sentence": " Once the pudding is on the spoon, she removes her hand, he takes a bite, and when he reaches for more,",
+                                "start_time": 12.87,
+                                "end_time": 19.37
+                            },
+                            {
+                                "_id": "5e3ed2a329f9bdab9cd96eeb",
+                                "sentence": " she puts her hand back onto the spoon.",
+                                "start_time": 19.37,
+                                "end_time": 21.72
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a24ec",
+                "status": "published",
+                "legacy_video_id": 2317,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1d20",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d20",
+        "description": "",
+        "youtube_id": "J4zodJaCdgk",
+        "views": 0,
+        "created_at": 20151102104020,
+        "title": "Colin HUH Eating unedited",
+        "legacy_video_id": 2317,
+        "updated_at": 20151102104149,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 43
+    }
+}

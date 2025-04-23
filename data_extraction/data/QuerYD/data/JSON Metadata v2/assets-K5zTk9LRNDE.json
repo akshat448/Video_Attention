@@ -1,0 +1,109 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59b9c1e2c6c4802622d9c0cc",
+                        "video": "59b9c010c6c4802622d9c0c1",
+                        "audio_description": "59b9c010c6c4802622d9c0c0",
+                        "user": "59b9b6a3c6c4802622d9c0ba",
+                        "label": "intro",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 9.984,
+                        "file_name": "K5zTk9LRNDE_59b9c1e2c6c4802622d9c0cc.wav",
+                        "file_size_bytes": 3833900,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/K5zTk9LRNDE",
+                        "created_at": 20170913234018,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175c3b8dfd97fc62593f21",
+                                "sentence": " A bar graph is displayed showing side by side employment rates for disabled and non disabled americans in the years 1991 and 2010.",
+                                "start_time": 1.12,
+                                "end_time": 9.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59b9c374c6c4802622d9c0d1",
+                        "video": "59b9c010c6c4802622d9c0c1",
+                        "audio_description": "59b9c010c6c4802622d9c0c0",
+                        "user": "59b9b6a3c6c4802622d9c0ba",
+                        "label": "stats",
+                        "playback_type": "extended",
+                        "start_time": 6.0061052,
+                        "end_time": 6.0061052,
+                        "duration": 19.456,
+                        "file_name": "K5zTk9LRNDE_59b9c374c6c4802622d9c0d1.wav",
+                        "file_size_bytes": 7471148,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/K5zTk9LRNDE",
+                        "created_at": 20170913234700,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf18e5a984c8455b871b22",
+                                "sentence": " In nineteen ninety one, fifty point two percent of disabled americans were employed, while eighty four point four percent of non disabled americans were employed.",
+                                "start_time": 1.04,
+                                "end_time": 9.83
+                            },
+                            {
+                                "_id": "5dcf18e5a984c8455b871b21",
+                                "sentence": " In two thousand ten, forty one point one percent of disabled americans were employed, compared to seventy nine point one percent for non disabled americans.",
+                                "start_time": 9.84,
+                                "end_time": 18.23
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59b9c010c6c4802622d9c0c0",
+                "video": "59b9c010c6c4802622d9c0c1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59b9b6a3c6c4802622d9c0ba",
+                    "email": "jenny.zhu84@gmail.com",
+                    "name": "Jenny Zhu",
+                    "given_name": "Jenny",
+                    "picture": "https://lh5.googleusercontent.com/-Nu0ziu0XZMs/AAAAAAAAAAI/AAAAAAAAAAA/APJypA1IV8wYT_RyIoY-0RVDPDP-Nlgitw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "104045890168508041071",
+                    "last_login": 20170913232459,
+                    "token": "9b510dd61033bd2cce82a07b659d3132254919ce4631df6ebafdf0e01d2fdef3",
+                    "__v": 0,
+                    "updated_at": 20170913232459,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170913233232,
+                "updated_at": 20170913233232,
+                "notes": "A bar graph is displayed, showing side by side employment rates \nfor disabled and non-disabled Americans in the years 1991 and 2010.\n\nIn 1991, 50.2% of disabled Americans were employed while 84.4% of\nnon-disabled Americans were employed.\n\nIn 2010, 41.1% of disabled Americans were employed, compared to \n79.1% for non-disabled Americans. ",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59b9c010c6c4802622d9c0c1",
+        "title": "employment movie",
+        "description": "",
+        "youtube_id": "K5zTk9LRNDE",
+        "created_at": 20170913233232,
+        "updated_at": 20170913234700,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

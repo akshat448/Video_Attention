@@ -1,0 +1,117 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4eaa",
+                        "audio_description": "58e7cf3346e13dfd851a24ee",
+                        "created_at": 20151102104409,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102104409,
+                        "file_name": "14464898494801.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2319,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18322,
+                        "video": "58e7cf2946e13dfd851a1d22",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec18e2c60ec67aa118e9c",
+                                "sentence": " Make it in heather, sit side by side in front of the black background. As megan speaks, heather looks off to the side.",
+                                "start_time": 0.66,
+                                "end_time": 7.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4eab",
+                        "audio_description": "58e7cf3346e13dfd851a24ee",
+                        "created_at": 20151102104442,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102104442,
+                        "file_name": "14464898820081.wav",
+                        "start_time": 11.721,
+                        "legacy_video_id": 2319,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18323,
+                        "video": "58e7cf2946e13dfd851a1d22",
+                        "end_time": 11.721,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.49,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec18e2c60ec67aa118ea2",
+                                "sentence": " While holding a white sheet of paper make and slats her hands under heathers hands.",
+                                "start_time": 0.66,
+                                "end_time": 5.83
+                            },
+                            {
+                                "_id": "5e3ec18e2c60ec67aa118ea1",
+                                "sentence": " Megan tears the paper while heathers hands rest on Top of her own hands.",
+                                "start_time": 5.83,
+                                "end_time": 10.46
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a24ee",
+                "status": "published",
+                "legacy_video_id": 2319,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1d22",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Module 11",
+            "Intervener Strategies"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d22",
+        "description": "",
+        "youtube_id": "qjZtHyPLQCE",
+        "views": 0,
+        "created_at": 20151102104343,
+        "title": "Team Scoggin HUH 2",
+        "legacy_video_id": 2319,
+        "updated_at": 20151102104442,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 34
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5988e488aacee334625b56dd",
+                        "video": "5988e3cdaacee334625b56dc",
+                        "audio_description": "5988e3cdaacee334625b56db",
+                        "user": "5988e2b7aacee334625b56da",
+                        "label": "Audio Descriptions 01",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 13.824,
+                        "duration": 13.824,
+                        "file_name": "YPFGT4ecnIU_5988e488aacee334625b56dd.wav",
+                        "file_size_bytes": 2654252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/YPFGT4ecnIU",
+                        "created_at": 20170807220704,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175fc48dfd97fc62594067",
+                                "sentence": " Marina running around and around in circles.",
+                                "start_time": 1.52,
+                                "end_time": 5.2
+                            },
+                            {
+                                "_id": "5e175fc48dfd97fc62594066",
+                                "sentence": " The mom makes a face for her eyes",
+                                "start_time": 9.05,
+                                "end_time": 12.18
+                            },
+                            {
+                                "_id": "5e175fc48dfd97fc62594065",
+                                "sentence": " in steps.",
+                                "start_time": 12.47,
+                                "end_time": 13.45
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5988e3cdaacee334625b56db",
+                "video": "5988e3cdaacee334625b56dc",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5988e2b7aacee334625b56da",
+                    "email": "nwatsonphsc@gmail.com",
+                    "name": "Niki Watson",
+                    "given_name": "Niki",
+                    "picture": "https://lh3.googleusercontent.com/-C31edmvwRQg/AAAAAAAAAAI/AAAAAAAAEgU/ObCompDH7Nw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111560521230160525848",
+                    "last_login": 20170829225511,
+                    "token": "252549c07cb0e6debe8f228c5f7a032cd99b216ca79f3aa134cb416cd7ac6273",
+                    "__v": 0,
+                    "updated_at": 20170829225511,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170807220357,
+                "updated_at": 20170809084837,
+                "notes": "Rayna running around and around.",
+                "__v": 0,
+                "overall_rating_average": 2,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 2,
+                "admin_review": "",
+                "feedbacks": {
+                    "0": 1,
+                    "6": 1
+                }
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5988e3cdaacee334625b56dc",
+        "title": "My Evening",
+        "description": "5,28.15",
+        "youtube_id": "YPFGT4ecnIU",
+        "created_at": 20170807220357,
+        "updated_at": 20170807220704,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 41
+    }
+}

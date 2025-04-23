@@ -1,0 +1,164 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e1a",
+                        "audio_description": "58e7cf3246e13dfd851a2488",
+                        "created_at": 20161011090255,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161011090255,
+                        "file_name": "14762017753221.wav",
+                        "start_time": 0.133,
+                        "legacy_video_id": 2245,
+                        "legacy_user_id": 2831,
+                        "label": "",
+                        "legacy_audio_clip_id": 24834,
+                        "video": "58e7cf2946e13dfd851a1cd8",
+                        "end_time": 0.133,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a2487",
+                        "transcript": [
+                            {
+                                "_id": "5e175ea209dae8fc6194fddf",
+                                "sentence": " Seven the congress or international with 12 limiting assume in a sense a record vida.",
+                                "start_time": 0.25,
+                                "end_time": 6.21
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3246e13dfd851a2488",
+                "status": "published",
+                "legacy_video_id": 2245,
+                "legacy_user_id": 2831,
+                "video": "58e7cf2946e13dfd851a1cd8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3246e13dfd851a2487",
+                    "name": "pgs",
+                    "google_user_id_token": "",
+                    "created_at": 20151025071922,
+                    "updated_at": 20161009090005,
+                    "legacy_user_id": 2831,
+                    "last_login": 0,
+                    "email": "pgs@ugr.es",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "updated_at": 20181120003914,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ca7405cca59c91fd2816952",
+                        "video": null,
+                        "audio_description": null,
+                        "user": "591d7cc42805421bd3af591a",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 2.302873135421753,
+                        "end_time": 2.302873135421753,
+                        "duration": 9.659501133786849,
+                        "file_name": null,
+                        "file_size_bytes": 1703980,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RxtzQg57O7w",
+                        "created_at": 20190405114740,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5ca7407eca59c91fd2816954",
+                        "video": "58e7cf2946e13dfd851a1cd8",
+                        "audio_description": "5ca7405cca59c91fd2816953",
+                        "user": "591d7cc42805421bd3af591a",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 53.049616,
+                        "end_time": 53.049616,
+                        "duration": 6.6873469387755105,
+                        "file_name": "RxtzQg57O7w_5ca7407eca59c91fd2816954.wav",
+                        "file_size_bytes": 1179692,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/RxtzQg57O7w",
+                        "created_at": 20190405114814,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5b12dc35481e200300113a",
+                                "sentence": "Profesor Agust\u00edn se encuentra en la pantalla,",
+                                "start_time": 0,
+                                "end_time": 4.35
+                            },
+                            {
+                                "_id": "5e5b12dc35481e2003001139",
+                                "sentence": "no hay un digo.",
+                                "start_time": 4.35,
+                                "end_time": 12.87
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ca7405cca59c91fd2816953",
+                "video": "58e7cf2946e13dfd851a1cd8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "591d7cc42805421bd3af591a",
+                    "email": "pgarciasempere@gmail.com",
+                    "name": "Pablo Garcia Sempere",
+                    "given_name": "Pablo",
+                    "picture": "https://lh3.googleusercontent.com/-v-VvJfBv90E/AAAAAAAAAAI/AAAAAAAACSE/GMdPPINw6s8/s96-c/photo.jpg",
+                    "locale": "es",
+                    "google_user_id": "105860951346299076975",
+                    "last_login": 20190405114355,
+                    "token": "aa976f91f81efe7afbccbbd9dec9c837330e26e1fad55df8bef26d8b1bfcddc8",
+                    "__v": 0,
+                    "updated_at": 20190405114355,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "es-es",
+                "created_at": 20190405114740,
+                "updated_at": 20190405114740,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Agust\u00edn de la Herr\u00e1n"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1cd8",
+        "description": "",
+        "youtube_id": "RxtzQg57O7w",
+        "views": 0,
+        "created_at": 20151027123620,
+        "title": "CICREART Virtual 2015. Ponencia 6 Agust\u00edn de la Herr\u00e1n",
+        "legacy_video_id": 2245,
+        "updated_at": 20190405114814,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 2022
+    }
+}

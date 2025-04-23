@@ -1,0 +1,447 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8646e13dfd851a61f5",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108131301,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108131301,
+                        "file_name": "14786395810541.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26515,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e47522f776f3e043421deea",
+                                "sentence": " This is a clip from the ellen show.",
+                                "start_time": 0,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8646e13dfd851a61f6",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108131408,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108131408,
+                        "file_name": "14786396480881.wav",
+                        "start_time": 4.535,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26516,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 4.535,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e45a86ea3885227afb5ca8c",
+                                "sentence": " As ellen is speaking, she shows a clip of marvin playing football on the back screen.",
+                                "start_time": 0,
+                                "end_time": 5.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8646e13dfd851a61f7",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108131519,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108131519,
+                        "file_name": "14786397193041.wav",
+                        "start_time": 20.341,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26517,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 20.341,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e47504ce1559904332046cc",
+                                "sentence": " Marvin says,",
+                                "start_time": 0,
+                                "end_time": 1.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8646e13dfd851a61fa",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108131621,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108131621,
+                        "file_name": "14786397811151.wav",
+                        "start_time": 21.331,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26520,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 21.331,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e475230776f3e043421defd",
+                                "sentence": " The crowd applause is.",
+                                "start_time": 0,
+                                "end_time": 1.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8646e13dfd851a61fe",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108131736,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108131736,
+                        "file_name": "14786398568021.wav",
+                        "start_time": 39.815,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26524,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 39.815,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e474cde776f3e043421de11",
+                                "sentence": " Ellen taps marvin leg in appreciation.",
+                                "start_time": 0,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8646e13dfd851a6202",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108132043,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108132043,
+                        "file_name": "14786400434261.wav",
+                        "start_time": 168.089,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26528,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 168.089,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e47504ce1559904332046c0",
+                                "sentence": " Pictures of marvin and his family are shown on the back screen.",
+                                "start_time": 0,
+                                "end_time": 3.61
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8646e13dfd851a6203",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108132228,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108132228,
+                        "file_name": "14786401487631.wav",
+                        "start_time": 185.717,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26529,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 185.717,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e474cdf776f3e043421dec1",
+                                "sentence": " A picture of marvin and his friends in their football gear appears on the back screen.",
+                                "start_time": 0,
+                                "end_time": 4.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8646e13dfd851a6204",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108132352,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108132352,
+                        "file_name": "14786402326251.wav",
+                        "start_time": 206.924,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26531,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 206.924,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e474cdf776f3e043421deb0",
+                                "sentence": " More pictures of marvin and his football colleagues are shown on the back screen.",
+                                "start_time": 0,
+                                "end_time": 3.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8646e13dfd851a6205",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108132539,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108132539,
+                        "file_name": "14786403390721.wav",
+                        "start_time": 233.604,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26532,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 233.604,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e45b133d2b71527b0ae0a1f",
+                                "sentence": " A video of marvin playing a football game is shown on the back screen.",
+                                "start_time": 0,
+                                "end_time": 3.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8646e13dfd851a6206",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108132644,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108132644,
+                        "file_name": "14786404049411.wav",
+                        "start_time": 245.237,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26533,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 245.237,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de155990433204728",
+                                "sentence": " Marvin raises his arms and yells out,",
+                                "start_time": 0,
+                                "end_time": 2.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8646e13dfd851a6207",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108132742,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108132742,
+                        "file_name": "14786404628341.wav",
+                        "start_time": 252.231,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26534,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 252.231,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e474cde776f3e043421de8b",
+                                "sentence": " A picture of drew brees is shown on the back screen.",
+                                "start_time": 0,
+                                "end_time": 2.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8646e13dfd851a6208",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108132913,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108132913,
+                        "file_name": "14786405532691.wav",
+                        "start_time": 307.166,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26535,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 307.166,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de1559904332046ea",
+                                "sentence": " Marvin opens his mouth in shock.",
+                                "start_time": 0,
+                                "end_time": 2.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8646e13dfd851a6209",
+                        "audio_description": "58e7cf3946e13dfd851a2766",
+                        "created_at": 20161108133146,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161108133146,
+                        "file_name": "14786407064671.wav",
+                        "start_time": 351.318,
+                        "legacy_video_id": 2870,
+                        "legacy_user_id": 3374,
+                        "label": "",
+                        "legacy_audio_clip_id": 26536,
+                        "video": "58e7cf2946e13dfd851a1f48",
+                        "end_time": 351.318,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a2765",
+                        "transcript": [
+                            {
+                                "_id": "5e47522f776f3e043421ded2",
+                                "sentence": " Marvin opens his mouth in shock again, while somebody from the backstage runs in with his check.",
+                                "start_time": 0,
+                                "end_time": 5.01
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3946e13dfd851a2766",
+                "status": "published",
+                "legacy_video_id": 2870,
+                "legacy_user_id": 3374,
+                "video": "58e7cf2946e13dfd851a1f48",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3946e13dfd851a2765",
+                    "name": "batistas",
+                    "google_user_id_token": "",
+                    "created_at": 20161107141034,
+                    "updated_at": 20161108065910,
+                    "legacy_user_id": 3374,
+                    "last_login": 0,
+                    "email": "batistas2@montclair.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "marvin",
+            "marvin pearson",
+            "cochlear implant",
+            "disability",
+            "inspiring",
+            "wow",
+            "incredible",
+            "blind",
+            "amazing",
+            "deaf",
+            "teen",
+            "blind and deaf",
+            "story",
+            "inspiring story",
+            "touchdown",
+            "varsity",
+            "football",
+            "player",
+            "sports",
+            "high school",
+            "shutterfly",
+            "memorable",
+            "moment",
+            "memorable moment",
+            "drew brees",
+            "college",
+            "saints",
+            "vip",
+            "graduation",
+            "university"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1f48",
+        "description": "",
+        "youtube_id": "hSmNg2WGXeQ",
+        "views": 0,
+        "created_at": 20161108123536,
+        "title": "A Blind and Deaf Teen Who's Defying the Odds",
+        "legacy_video_id": 2870,
+        "updated_at": 20161108133146,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 368
+    }
+}

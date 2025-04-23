@@ -1,0 +1,994 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8a46e13dfd851a64e2",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161111122653,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161111122653,
+                        "file_name": "14788960133111.wav",
+                        "start_time": 0.863,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27707,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 10.583,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.72,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba99269db217c5e5306d",
+                                "sentence": " The movie opens to a black screen. Stars begin to appear, and then we zoom in to see the earth with the universal logo in front of it.",
+                                "start_time": 0,
+                                "end_time": 8.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8a46e13dfd851a64e9",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161111123956,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161111123956,
+                        "file_name": "14788967969751.wav",
+                        "start_time": 15.739,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27723,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 30.319000000000003,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba99269db217c5e53052",
+                                "sentence": " Now a series of yellow words will appear on the screen to give credit to the people and companies that helped work on this movie.",
+                                "start_time": 0,
+                                "end_time": 6.11
+                            },
+                            {
+                                "_id": "5e14ba99269db217c5e53051",
+                                "sentence": " First an a on m films channel production,",
+                                "start_time": 6.11,
+                                "end_time": 9
+                            },
+                            {
+                                "_id": "5e14ba99269db217c5e53050",
+                                "sentence": " a John hughes movie.",
+                                "start_time": 9.04,
+                                "end_time": 10.8
+                            },
+                            {
+                                "_id": "5e14ba99269db217c5e5304f",
+                                "sentence": " The breakfast club title now appears in large letters.",
+                                "start_time": 10.8,
+                                "end_time": 14.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a656d",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193348,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193348,
+                        "file_name": "14790944286271.wav",
+                        "start_time": 31.795,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27973,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 36.915,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba382093d217c3bb567a",
+                                "sentence": " Starring in alphabetical order,",
+                                "start_time": 0,
+                                "end_time": 2.43
+                            },
+                            {
+                                "_id": "5e14ba382093d217c3bb5679",
+                                "sentence": " emilio estimate as.",
+                                "start_time": 2.43,
+                                "end_time": 4.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a656e",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193427,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193427,
+                        "file_name": "14790944673841.wav",
+                        "start_time": 37.243,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27974,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 39.803000000000004,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba362093d217c3bb5607",
+                                "sentence": " Paul gleason.",
+                                "start_time": 0,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a656f",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193446,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193446,
+                        "file_name": "14790944869511.wav",
+                        "start_time": 41.145,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27975,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 44.215,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba98269db217c5e5302e",
+                                "sentence": " Anthony Michael hall.",
+                                "start_time": 0,
+                                "end_time": 1.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6570",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193458,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193458,
+                        "file_name": "14790944989171.wav",
+                        "start_time": 45.725,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27976,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 48.795,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba98269db217c5e53032",
+                                "sentence": " John capellas.",
+                                "start_time": 0,
+                                "end_time": 2.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6571",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193514,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193514,
+                        "file_name": "14790945145371.wav",
+                        "start_time": 47.571,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27977,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 50.381,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba98269db217c5e53002",
+                                "sentence": " Judd nelson.",
+                                "start_time": 0.11,
+                                "end_time": 2.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6572",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193553,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193553,
+                        "file_name": "14790945536921.wav",
+                        "start_time": 52.998,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27978,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 55.558,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba98269db217c5e5300d",
+                                "sentence": " Molly ringwald.",
+                                "start_time": 0.02,
+                                "end_time": 1.73
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6573",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193607,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193607,
+                        "file_name": "14790945677901.wav",
+                        "start_time": 56.448,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27979,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 58.748,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba372093d217c3bb5668",
+                                "sentence": " Alley sheedy.",
+                                "start_time": 0.08,
+                                "end_time": 1.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6574",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193625,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193625,
+                        "file_name": "14790945855511.wav",
+                        "start_time": 59.686,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27980,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 62.246,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14baeb4c9d4f17c41093ba",
+                                "sentence": " Casting by Jackie birch.",
+                                "start_time": 0,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6575",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193643,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193643,
+                        "file_name": "14790946034291.wav",
+                        "start_time": 63.981,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27981,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 67.051,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba98269db217c5e5302f",
+                                "sentence": " Costume designer marilyn vance.",
+                                "start_time": 0,
+                                "end_time": 3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6576",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193706,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193706,
+                        "file_name": "14790946268371.wav",
+                        "start_time": 68.15,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27982,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 71.99000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba99269db217c5e53071",
+                                "sentence": " Production supervisor richard hash moto.",
+                                "start_time": 0,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6577",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193734,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193734,
+                        "file_name": "14790946543581.wav",
+                        "start_time": 71.535,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27983,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 76.395,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba99269db217c5e53065",
+                                "sentence": " Executive producers",
+                                "start_time": 0,
+                                "end_time": 1.92
+                            },
+                            {
+                                "_id": "5e14ba99269db217c5e53064",
+                                "sentence": " gil friesen and and your mire.",
+                                "start_time": 1.92,
+                                "end_time": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6578",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193813,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193813,
+                        "file_name": "14790946933921.wav",
+                        "start_time": 75.797,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27984,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 80.39699999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14b9964c9d4f17c410934d",
+                                "sentence": " Music composed and supervised by teeth for c.",
+                                "start_time": 0,
+                                "end_time": 4.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6579",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193852,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193852,
+                        "file_name": "14790947327471.wav",
+                        "start_time": 80.809,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27985,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 84.12899999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba98269db217c5e5300f",
+                                "sentence": " Edited by d d alan ace.",
+                                "start_time": 0,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a657a",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193902,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193902,
+                        "file_name": "14790947429351.wav",
+                        "start_time": 84.002,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27986,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 87.842,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba99269db217c5e53042",
+                                "sentence": " Production designer John w corso.",
+                                "start_time": 0,
+                                "end_time": 3.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a657b",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113193954,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113193954,
+                        "file_name": "14790947940891.wav",
+                        "start_time": 88.899,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27987,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 92.739,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba362093d217c3bb5633",
+                                "sentence": " Director of photography, thomas del ruth.",
+                                "start_time": 0.04,
+                                "end_time": 3.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a657c",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113194014,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113194014,
+                        "file_name": "14790948146181.wav",
+                        "start_time": 93.707,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27988,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 96.77699999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba9a269db217c5e53075",
+                                "sentence": " Co produced by michelle manning.",
+                                "start_time": 0.09,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a657d",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113194028,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113194028,
+                        "file_name": "14790948280051.wav",
+                        "start_time": 97.577,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27989,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 101.417,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba372093d217c3bb5675",
+                                "sentence": " Produced by ned tanen and John hughes.",
+                                "start_time": 0.03,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a657e",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113194044,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113194044,
+                        "file_name": "14790948443571.wav",
+                        "start_time": 101.027,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27990,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 104.097,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba372093d217c3bb5655",
+                                "sentence": " Written and directed by John hughes.",
+                                "start_time": 0,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a657f",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113194114,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113194114,
+                        "file_name": "14790948748241.wav",
+                        "start_time": 104.904,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27991,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 118.714,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba99269db217c5e5305c",
+                                "sentence": " Now a quote appears in white lettering.",
+                                "start_time": 0,
+                                "end_time": 2.66
+                            },
+                            {
+                                "_id": "5e14ba99269db217c5e5305b",
+                                "sentence": " And these children that you spit on as they try to change their worlds are immune to your consultations.",
+                                "start_time": 2.66,
+                                "end_time": 9.03
+                            },
+                            {
+                                "_id": "5e14ba99269db217c5e5305a",
+                                "sentence": " They're quite aware of what they're going through.",
+                                "start_time": 9.03,
+                                "end_time": 11.46
+                            },
+                            {
+                                "_id": "5e14ba99269db217c5e53059",
+                                "sentence": " David bowie.",
+                                "start_time": 11.46,
+                                "end_time": 12.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6580",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113194557,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113194557,
+                        "file_name": "14790951571271.wav",
+                        "start_time": 119.352,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 27994,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 130.092,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba362093d217c3bb5619",
+                                "sentence": " This screen shatters dozens of shards appear to fly towards the audience. Behind this appear shermer high school, a grey concrete building with two floors in multiple staircases.",
+                                "start_time": 0,
+                                "end_time": 10.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6581",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113221019,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113221019,
+                        "file_name": "14791038193511.wav",
+                        "start_time": 139.713,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 28010,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 139.713,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 25.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba9b269db217c5e53079",
+                                "sentence": " Now a montage of images flashed on the screen, including o'clock displaying the time, 656",
+                                "start_time": 0,
+                                "end_time": 6.65
+                            },
+                            {
+                                "_id": "5e14ba9b269db217c5e53078",
+                                "sentence": " hallways, the cafeteria line bulletin boards, graffiti, a burnt locker, the school newspaper, a sports trophy box,",
+                                "start_time": 6.65,
+                                "end_time": 15.27
+                            },
+                            {
+                                "_id": "5e14ba9b269db217c5e53077",
+                                "sentence": " the man of the year plaque, a dirty locker room, the schools council, our desk, a poster board for the prom queen,",
+                                "start_time": 15.27,
+                                "end_time": 21.96
+                            },
+                            {
+                                "_id": "5e14ba9b269db217c5e53076",
+                                "sentence": " and a locker with more graffiti and and use.",
+                                "start_time": 21.96,
+                                "end_time": 24.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6582",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113221318,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113221318,
+                        "file_name": "14791039985321.wav",
+                        "start_time": 193.233,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 28011,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 193.233,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba362093d217c3bb5618",
+                                "sentence": " Next, the hood of a silver bmw appears inside is redhead declare, wearing a brown leather jacket, talking to her father, whose wearing a sweater vest and a plaid scarf.",
+                                "start_time": 0,
+                                "end_time": 9.51
+                            },
+                            {
+                                "_id": "5e14ba362093d217c3bb5617",
+                                "sentence": " He hands her a bag before she gets out of the car.",
+                                "start_time": 9.51,
+                                "end_time": 12.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6583",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113221414,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113221414,
+                        "file_name": "14791040544791.wav",
+                        "start_time": 227.493,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 28012,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 227.493,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14baeb4c9d4f17c41093c0",
+                                "sentence": " Next we see an upset, brian wearing a green and orange hat. He's avoiding his mother and sister, who are both wearing poofy colored coats.",
+                                "start_time": 0,
+                                "end_time": 8.5
+                            },
+                            {
+                                "_id": "5e14baeb4c9d4f17c41093bf",
+                                "sentence": " He steps out of the red chrysler and adjust his backpack.",
+                                "start_time": 8.5,
+                                "end_time": 12.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6584",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113221704,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113221704,
+                        "file_name": "14791042248021.wav",
+                        "start_time": 249.441,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 28013,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 249.441,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14baeb4c9d4f17c41093a3",
+                                "sentence": " Next Andrew, sitting in the car with his father, looking embarrassed, wearing his bar city jacket.",
+                                "start_time": 0.02,
+                                "end_time": 6.19
+                            },
+                            {
+                                "_id": "5e14baeb4c9d4f17c41093a2",
+                                "sentence": " He shapely steps out of the tan and brown station wagon with a brown paper bag in his hands.",
+                                "start_time": 6.19,
+                                "end_time": 11.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6585",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113221813,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113221813,
+                        "file_name": "14791042932601.wav",
+                        "start_time": 275.078,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 28014,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 299.118,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 24.04,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba372093d217c3bb5672",
+                                "sentence": " As andrew's father drives away, we can see John bender walking towards the parking lot. He's wearing",
+                                "start_time": 0,
+                                "end_time": 5.87
+                            },
+                            {
+                                "_id": "5e14ba372093d217c3bb5671",
+                                "sentence": " black sunglasses, a long grey coat, a red sweater, and black boots. He's almost hit by a fast moving blue car",
+                                "start_time": 5.87,
+                                "end_time": 12.51
+                            },
+                            {
+                                "_id": "5e14ba372093d217c3bb5670",
+                                "sentence": " that barely stops to allow allison to get out before hesitantly driving away. She's carrying her large blue bag,",
+                                "start_time": 12.51,
+                                "end_time": 18.95
+                            },
+                            {
+                                "_id": "5e14ba372093d217c3bb566f",
+                                "sentence": " wearing a brown, puffy coat, a skirt with tights and black chutes.",
+                                "start_time": 18.95,
+                                "end_time": 23.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6586",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113222107,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113222107,
+                        "file_name": "14791044670371.wav",
+                        "start_time": 300.679,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 28015,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 321.649,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba98269db217c5e53013",
+                                "sentence": " The students walk into a massive two story library that has six desks with three chairs. Each.",
+                                "start_time": 0,
+                                "end_time": 5.87
+                            },
+                            {
+                                "_id": "5e14ba98269db217c5e53012",
+                                "sentence": " Andrew sits next to claire with brine behind them. As bender walks in, he knocks over everything before making brian move to another desk",
+                                "start_time": 5.87,
+                                "end_time": 13.29
+                            },
+                            {
+                                "_id": "5e14ba98269db217c5e53011",
+                                "sentence": " else and walks in with her arms crossed and sits at the farthest table just in front of a large brown statue.",
+                                "start_time": 13.29,
+                                "end_time": 20.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8b46e13dfd851a6587",
+                        "audio_description": "58e7cf3a46e13dfd851a27bf",
+                        "created_at": 20161113222133,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161113222133,
+                        "file_name": "14791044937981.wav",
+                        "start_time": 341.602,
+                        "legacy_video_id": 2924,
+                        "legacy_user_id": 3433,
+                        "label": "",
+                        "legacy_audio_clip_id": 28016,
+                        "video": "58e7cf2946e13dfd851a1f7e",
+                        "end_time": 356.69199999999995,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a27be",
+                        "transcript": [
+                            {
+                                "_id": "5e14ba372093d217c3bb566e",
+                                "sentence": " She turns her back to the group. Claire and Andrew laugh.",
+                                "start_time": 0.04,
+                                "end_time": 3.88
+                            },
+                            {
+                                "_id": "5e14ba372093d217c3bb566d",
+                                "sentence": " Brian widens his eyes. Mister vernon now walks in wearing a tan suit with a black shirt.",
+                                "start_time": 3.88,
+                                "end_time": 9.63
+                            },
+                            {
+                                "_id": "5e14ba372093d217c3bb566c",
+                                "sentence": " He's carrying a few papers in his hand. He looked smugly at the group before speaking.",
+                                "start_time": 9.63,
+                                "end_time": 14.91
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3a46e13dfd851a27bf",
+                "status": "published",
+                "legacy_video_id": 2924,
+                "legacy_user_id": 3433,
+                "video": "58e7cf2946e13dfd851a1f7e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3a46e13dfd851a27be",
+                    "name": "beverleye14",
+                    "google_user_id_token": "",
+                    "created_at": 20161111115240,
+                    "updated_at": 20161205094723,
+                    "legacy_user_id": 3433,
+                    "last_login": 0,
+                    "email": "beverleye1@mail.montclair.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "updated_at": 20180221070516,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1f7e",
+        "description": "",
+        "youtube_id": "tUN-8TvevGU",
+        "views": 0,
+        "created_at": 20161111115604,
+        "title": "The Breakfast Club Opening Scene",
+        "legacy_video_id": 2924,
+        "updated_at": 20161113223348,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 360
+    }
+}

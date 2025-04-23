@@ -1,0 +1,83 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5f71f7d7152f97652a3be890",
+                        "video": "5f71f760aa38d665301f3783",
+                        "audio_description": "5f71f760aa38d665301f3782",
+                        "user": "5f68c157aa38d665301f3375",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 61.66078084550476,
+                        "end_time": 66.18344751217143,
+                        "duration": 4.522666666666667,
+                        "file_name": "42N0JKA6vvo_5f71f7d7152f97652a3be890.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/42N0JKA6vvo",
+                        "created_at": 20200928144855,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5f71fa5f152f97652a3be896",
+                        "video": "5f71f760aa38d665301f3783",
+                        "audio_description": "5f71f760aa38d665301f3782",
+                        "user": "5f68c157aa38d665301f3375",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 110.36801382261658,
+                        "end_time": 115.8293471559499,
+                        "duration": 5.461333333333333,
+                        "file_name": "42N0JKA6vvo_5f71fa5f152f97652a3be896.wav",
+                        "file_size_bytes": 1048620,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/42N0JKA6vvo",
+                        "created_at": 20200928145943,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5f71f760aa38d665301f3782",
+                "video": "5f71f760aa38d665301f3783",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5f68c157aa38d665301f3375",
+                    "email": "nmead@qsd.wednet.edu",
+                    "name": "NATHAN MEAD",
+                    "given_name": "NATHAN",
+                    "picture": "https://lh5.googleusercontent.com/-nE4MFgYUGCI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_vv0FN_LhLZQX-8gLq3WXOgxlyw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111601830356839993947",
+                    "last_login": 20201103154449,
+                    "token": "981b0efc6830c8a211c7a1698bc54ef882639ad4e1025edb50dafccbd4020665",
+                    "__v": 0,
+                    "updated_at": 20201103154449
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200928144656,
+                "updated_at": 20200928144656,
+                "notes": "a pickup truck drives through a huge tree that lays across a road",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5f71f760aa38d665301f3783",
+        "title": "Unknown Sequoia National Park",
+        "description": "As seen on Travel Channel. Sequoia is such a well-kept secret, that they call it \"The Hidden Park.\" When you come, you might not believe how tall these are. There's a drive-thru tree that you can drive through just because you can. And while you're at the national park, check out the 1500 plant species. Also check out the secret cave system, right below its trees - Crystal Cave. \n\n - Best Parks Ever - 4346\n\nFor more travel tips and travel videos check out our app: https://gotraveler.vhx.tv/\n\nCheck out our other social media accounts!\nFacebook: https://www.facebook.com/TheGoTraveler/\nTwitter: https://twitter.com/TheGoTraveler\nInstagram: https://www.instagram.com/thegotraveler/\n\n#drivethroughatree #sequoianationalpark #crystalcave",
+        "youtube_id": "42N0JKA6vvo",
+        "created_at": 20200928144656,
+        "updated_at": 20200928145943,
+        "views": 0,
+        "__v": 0
+    }
+}

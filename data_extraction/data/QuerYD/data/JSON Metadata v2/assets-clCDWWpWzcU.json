@@ -1,0 +1,117 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf3f46e13dfd851a2a51",
+                        "audio_description": "58e7cf2b46e13dfd851a20e3",
+                        "created_at": 20130910164011,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130910164011,
+                        "file_name": "clCDWWpWzcU-88-1-0-395-0.wav",
+                        "start_time": 395,
+                        "legacy_video_id": 1303,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 3793,
+                        "video": "58e7cf2846e13dfd851a1938",
+                        "end_time": 395,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.55,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1b0d6de2b19a1588f3bfcf",
+                                "sentence": " The braille Challenge, a national program of braille institute. For more Information, call one 800 braille, or visit us online at braille institute dot org.",
+                                "start_time": 0,
+                                "end_time": 13.38
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3f46e13dfd851a2a52",
+                        "audio_description": "58e7cf2b46e13dfd851a20e3",
+                        "created_at": 20130910164146,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130910164146,
+                        "file_name": "clCDWWpWzcU-88-1-0-5-0.wav",
+                        "start_time": 5,
+                        "legacy_video_id": 1303,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 3794,
+                        "video": "58e7cf2846e13dfd851a1938",
+                        "end_time": 5,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1c756371f012ae4dd0130b",
+                                "sentence": " At the 2012 braille Challenge awards banquet, desmond delgaudio shared some reflections.",
+                                "start_time": 0,
+                                "end_time": 6.8
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20e3",
+                "status": "published",
+                "legacy_video_id": 1303,
+                "legacy_user_id": 88,
+                "video": "58e7cf2846e13dfd851a1938",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20d1",
+                    "name": "jimhull",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20151217172851,
+                    "legacy_user_id": 88,
+                    "last_login": 0,
+                    "email": "jimhull@jimhull.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "2012",
+            "braille challenge",
+            "braille institute",
+            "blind",
+            "monologue",
+            "visually impaired",
+            "speech",
+            "npr"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1938",
+        "description": "",
+        "youtube_id": "clCDWWpWzcU",
+        "views": 0,
+        "created_at": 20130910163239,
+        "title": "2012 Braille Challenge Monologue: Desmond Delgadillo",
+        "legacy_video_id": 1303,
+        "updated_at": 20130910164146,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 396
+    }
+}

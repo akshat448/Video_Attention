@@ -1,0 +1,391 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b520bf40534055772ed76c9",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "Intro and website",
+                        "playback_type": "inline",
+                        "start_time": 0.15,
+                        "end_time": 3.6486666666666667,
+                        "duration": 3.498666666666667,
+                        "file_name": "6azdnP1Dz0U_5b520bf40534055772ed76c9.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720162108,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f83a17db8d5f769af5",
+                                "sentence": " Elevators by diesel, DC elevator fan dot com.",
+                                "start_time": 0.24,
+                                "end_time": 3.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b520cf90534055772ed76cb",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "Lego Man",
+                        "playback_type": "extended",
+                        "start_time": 45.084965000000004,
+                        "end_time": 45.084965000000004,
+                        "duration": 3.925333333333333,
+                        "file_name": "6azdnP1Dz0U_5b520cf90534055772ed76cb.wav",
+                        "file_size_bytes": 753708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720162529,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f83a17db8d5f769ae5",
+                                "sentence": " They go, man, standing on Top of elevator.",
+                                "start_time": 0.45,
+                                "end_time": 3.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b520f245b06e663c0860a95",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "Two story elevator",
+                        "playback_type": "extended",
+                        "start_time": 4.003267,
+                        "end_time": 4.003267,
+                        "duration": 3.84,
+                        "file_name": "6azdnP1Dz0U_5b520f245b06e663c0860a95.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720163444,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f83a17db8d5f769ae2",
+                                "sentence": " A 2 story elevator built out of lego.",
+                                "start_time": 0.63,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b520f950534055772ed76cd",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "Car going down",
+                        "playback_type": "inline",
+                        "start_time": 60.852285,
+                        "end_time": 66.39895166666668,
+                        "duration": 5.546666666666667,
+                        "file_name": "6azdnP1Dz0U_5b520f950534055772ed76cd.wav",
+                        "file_size_bytes": 1065004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720163637,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4ef3317f8d5e96bab2",
+                                "sentence": " Jason presses the keypad, and the lego elevator moves downward.",
+                                "start_time": 0.68,
+                                "end_time": 5.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b5210450534055772ed76cf",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "Open door for Dieselducy",
+                        "playback_type": "inline",
+                        "start_time": 83.806976,
+                        "end_time": 87.04964266666667,
+                        "duration": 3.2426666666666666,
+                        "file_name": "6azdnP1Dz0U_5b5210450534055772ed76cf.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720163933,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f83a17db8d5f769add",
+                                "sentence": " Jason opens the elevator door on floor one.",
+                                "start_time": 0,
+                                "end_time": 3.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b52115b5b06e663c0860a99",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "Toy Diesel Train",
+                        "playback_type": "extended",
+                        "start_time": 89.084025,
+                        "end_time": 89.084025,
+                        "duration": 4.266666666666667,
+                        "file_name": "6azdnP1Dz0U_5b52115b5b06e663c0860a99.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720164411,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4df3317f8d5e96ba4f",
+                                "sentence": " Diesel do see holds a toy diesel train.",
+                                "start_time": 0.7,
+                                "end_time": 4.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b5211a35b06e663c0860a9a",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "Take Toy Diesel Out",
+                        "playback_type": "extended",
+                        "start_time": 114.76893,
+                        "end_time": 114.76893,
+                        "duration": 5.034666666666666,
+                        "file_name": "6azdnP1Dz0U_5b5211a35b06e663c0860a9a.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720164523,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769ad4",
+                                "sentence": " Diesel do see, opens the door and takes out the toy diesel train.",
+                                "start_time": 0.45,
+                                "end_time": 4.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b5212735b06e663c0860a9c",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "Open door second floor",
+                        "playback_type": "extended",
+                        "start_time": 154.701483,
+                        "end_time": 154.701483,
+                        "duration": 7.594666666666667,
+                        "file_name": "6azdnP1Dz0U_5b5212735b06e663c0860a9c.wav",
+                        "file_size_bytes": 1458220,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720164851,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36ee4cf3317f8d5e96ba2b",
+                                "sentence": " Diesel do see opens the second floor doors to expose the cables that are moving the elevator.",
+                                "start_time": 0.28,
+                                "end_time": 5.89
+                            },
+                            {
+                                "_id": "5e36ee4cf3317f8d5e96ba2a",
+                                "sentence": " He presses two.",
+                                "start_time": 5.89,
+                                "end_time": 7.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b5212c30534055772ed76d0",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "First floor doors are open",
+                        "playback_type": "inline",
+                        "start_time": 173.021965,
+                        "end_time": 177.117965,
+                        "duration": 4.096,
+                        "file_name": "6azdnP1Dz0U_5b5212c30534055772ed76d0.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720165011,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f83a17db8d5f769ae0",
+                                "sentence": " The first floor doors are open.",
+                                "start_time": 0.28,
+                                "end_time": 2.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b52152e0534055772ed76d1",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "Elevator button  one OTIS",
+                        "playback_type": "extended",
+                        "start_time": 201.340712,
+                        "end_time": 201.340712,
+                        "duration": 1.8773333333333333,
+                        "file_name": "6azdnP1Dz0U_5b52152e0534055772ed76d1.wav",
+                        "file_size_bytes": 360492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720170030,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f63a17db8d5f769a7e",
+                                "sentence": " Oldest button.",
+                                "start_time": 0.39,
+                                "end_time": 1.83
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b5215680534055772ed76d2",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "Nixie tube button",
+                        "playback_type": "extended",
+                        "start_time": 202.823113,
+                        "end_time": 202.823113,
+                        "duration": 1.536,
+                        "file_name": "6azdnP1Dz0U_5b5215680534055772ed76d2.wav",
+                        "file_size_bytes": 294956,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720170128,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769ab2",
+                                "sentence": " Nixy to brighton.",
+                                "start_time": 0.21,
+                                "end_time": 1.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b52157b5b06e663c0860a9d",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "Siemans button",
+                        "playback_type": "extended",
+                        "start_time": 204.111589,
+                        "end_time": 204.111589,
+                        "duration": 1.6213333333333333,
+                        "file_name": "6azdnP1Dz0U_5b52157b5b06e663c0860a9d.wav",
+                        "file_size_bytes": 311340,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720170147,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f63a17db8d5f769a86",
+                                "sentence": " Simon's breton.",
+                                "start_time": 0.15,
+                                "end_time": 1.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b52170f5b06e663c0860a9e",
+                        "video": "5b51ff805b06e663c0860a8f",
+                        "audio_description": "5b51ff805b06e663c0860a8e",
+                        "user": "5b51f1e40534055772ed76c4",
+                        "label": "Car going up",
+                        "playback_type": "inline",
+                        "start_time": 57.176853,
+                        "end_time": 59.566186333333334,
+                        "duration": 2.3893333333333335,
+                        "file_name": "6azdnP1Dz0U_5b52170f5b06e663c0860a9e.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6azdnP1Dz0U",
+                        "created_at": 20180720170831,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f73a17db8d5f769aa7",
+                                "sentence": " The lego elevator is going up.",
+                                "start_time": 0.31,
+                                "end_time": 2.35
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b51ff805b06e663c0860a8e",
+                "video": "5b51ff805b06e663c0860a8f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b51f1e40534055772ed76c4",
+                    "email": "descriptionvideo@gmail.com",
+                    "name": "Video Description",
+                    "given_name": "Video",
+                    "picture": "https://lh6.googleusercontent.com/-igEC8xsvlKQ/AAAAAAAAAAI/AAAAAAAAAAA/AAnnY7r8cYRNIHNUB5QyhR_6ujR15FcOYw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "103700357365347644617",
+                    "last_login": 20180720142956,
+                    "token": "2a478d6cb56363da647971017d979407c2d2174065148f03e52568b9fd4038db",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-ca",
+                "created_at": 20180720152800,
+                "updated_at": 20180720152800,
+                "notes": "Intro: Elevators by Dieselducy, elevatorfan.com \r\nspeech starts at 0.04\r\ndo extended at 0.04 \"a two story elevator built out of lego\"\r\n0:45 a \"lego man standing on top of elevator\"\r\n0:56 \"Jason presses the keypad, the elevator moves upward\"\r\n1:00 \"Jason presses the keypad, the elevator moves downward\".\r\n1:24 \"Jason opens the elevator door on the first level\"\r\n1:28 \"Dieselducy holds a toy diesel train,  and shakes it as he speaks\"\r\n1:53 \"Dieselducy opens the door and takes out the toy diesel train\".\r\n2:02 \"The door of the elevator breaks off\"\r\n2:35 \"Dieselducy opens the second floor doors to show the ropes that are moving the elevator. He presses 2 on the keypad.\"\r\n2:56 \"The first floor doors are open\"",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Elevator",
+            "lift",
+            "ascensor",
+            "Dieselducy",
+            "diesel",
+            "ducy",
+            "Lego elevator"
+        ],
+        "custom_tags": [],
+        "_id": "5b51ff805b06e663c0860a8f",
+        "title": "DieselDucy rides the lego elevator",
+        "description": "(1-2-2018) It has been a while since DieselDucy rode an elevator.  Here he is riding a LEGO elevator!!\r\nCONNECT WITH ME!\r\nFacebook: http://www.facebook.com/dieselducy   \r\nWebsite: http://www.elevatorfan.com\r\nGoogle+: http://www.google.com/+dieselducy\r\nFlickr: http://flickr.com/dieselducy\r\nInstagram: https://www.instagram.com/dieselducy/\r\nTwitter: http://twitter.com/dieselducy \r\nDieselDucy Elevator Shirts and stuff! http://www.cafepress.com/elevator\r\nHelp support elevaTOURS!\r\nhttps://www.patreon.com/dieselducy",
+        "youtube_id": "6azdnP1Dz0U",
+        "created_at": 20180720152800,
+        "updated_at": 20180720170831,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 213
+    }
+}

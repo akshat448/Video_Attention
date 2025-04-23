@@ -1,0 +1,98 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5ad6",
+                        "audio_description": "58e7cf3646e13dfd851a2651",
+                        "created_at": 20160817135807,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817135807,
+                        "file_name": "14714674875901.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2646,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23798,
+                        "video": "58e7cf2946e13dfd851a1e69",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 21.99,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e442889c26fa0bc796fd4cd",
+                                "sentence": " A male student is guided through the halls of a school by his intervenor.",
+                                "start_time": 0.91,
+                                "end_time": 5.67
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4cc",
+                                "sentence": " The student places his left hand near the elbow of the intervenor for guarding purposes.",
+                                "start_time": 5.89,
+                                "end_time": 12.36
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4cb",
+                                "sentence": " The student also uses his right hand along the walls and rails as he walks through the school with his intervenor.",
+                                "start_time": 12.83,
+                                "end_time": 20.89
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4ca",
+                                "sentence": " Yeah.",
+                                "start_time": 20.91,
+                                "end_time": 21.95
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a2651",
+                "status": "published",
+                "legacy_video_id": 2646,
+                "legacy_user_id": 3125,
+                "video": "58e7cf2946e13dfd851a1e69",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2637",
+                    "name": "Jhogan13",
+                    "google_user_id_token": "",
+                    "created_at": 20160504150811,
+                    "updated_at": 20160817114117,
+                    "legacy_user_id": 3125,
+                    "last_login": 0,
+                    "email": "Jhogan13@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e69",
+        "description": "",
+        "youtube_id": "ho2zokHBiDg",
+        "views": 0,
+        "created_at": 20160817135707,
+        "title": "Walk 3 - with Karen to lunch in cafeteria",
+        "legacy_video_id": 2646,
+        "updated_at": 20160817135807,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 28
+    }
+}

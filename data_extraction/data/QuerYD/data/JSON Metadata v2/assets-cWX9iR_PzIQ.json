@@ -1,0 +1,449 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d3bdadd89ac8343b4474b24",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0.6283344155844156,
+                        "end_time": 5.272325345289631,
+                        "duration": 4.6439909297052155,
+                        "file_name": "cWX9iR_PzIQ_5d3bdadd89ac8343b4474b24.wav",
+                        "file_size_bytes": 819244,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727050221,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429ea3b8b6114790d770f",
+                                "sentence": " Mike rides his bike up to the mall and parks next to his friends.",
+                                "start_time": 0.28,
+                                "end_time": 4.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bdb37ce9988439be4a8f7",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "entrance",
+                        "playback_type": "inline",
+                        "start_time": 11.868775,
+                        "end_time": 16.327006292517005,
+                        "duration": 4.458231292517007,
+                        "file_name": "cWX9iR_PzIQ_5d3bdb37ce9988439be4a8f7.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727050351,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e29aefae1231e09a0d",
+                                "sentence": " Mike, Lucas, will and max walk quickly into the mall.",
+                                "start_time": 0.19,
+                                "end_time": 4.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bdb63ce9988439be4a8f8",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "escalator",
+                        "playback_type": "inline",
+                        "start_time": 31.431859,
+                        "end_time": 34.775532469387755,
+                        "duration": 3.3436734693877552,
+                        "file_name": "cWX9iR_PzIQ_5d3bdb63ce9988439be4a8f8.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727050435,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4cedd4c5147cbb9a43",
+                                "sentence": " The group walks quickly down a crowded escalator.",
+                                "start_time": 0.14,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bdbbb89ac8343b4474b26",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "Erika",
+                        "playback_type": "inline",
+                        "start_time": 39.034463,
+                        "end_time": 41.727977739229026,
+                        "duration": 2.693514739229025,
+                        "file_name": "cWX9iR_PzIQ_5d3bdbbb89ac8343b4474b26.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727050603,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d76d9",
+                                "sentence": " The group walks past erica.",
+                                "start_time": 0.26,
+                                "end_time": 2.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bdbe589ac8343b4474b27",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "Scoops",
+                        "playback_type": "inline",
+                        "start_time": 50.836792,
+                        "end_time": 56.22382147845805,
+                        "duration": 5.38702947845805,
+                        "file_name": "cWX9iR_PzIQ_5d3bdbe589ac8343b4474b27.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727050645,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e19aefae1231e09981",
+                                "sentence": " The group walks into scoops ahoy! Ice cream parlor, where steve and robin are working.",
+                                "start_time": 0.21,
+                                "end_time": 5.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bdc0cce9988439be4a8f9",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "sneak",
+                        "playback_type": "extended",
+                        "start_time": 65.29914599999998,
+                        "end_time": 65.29914599999998,
+                        "duration": 6.780226757369615,
+                        "file_name": "cWX9iR_PzIQ_5d3bdc0cce9988439be4a8f9.wav",
+                        "file_size_bytes": 1196076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727050724,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d7695",
+                                "sentence": " Steve, let's the kids into the back of the ice cream parlor, which leads them to the inner hallways of the mall.",
+                                "start_time": 0.39,
+                                "end_time": 6.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bdc49ce9988439be4a8fa",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 78.136127,
+                        "end_time": 82.4085986553288,
+                        "duration": 4.272471655328798,
+                        "file_name": "cWX9iR_PzIQ_5d3bdc49ce9988439be4a8fa.wav",
+                        "file_size_bytes": 753708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727050825,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d7690",
+                                "sentence": " The group sneaks in through the back entrance of the movie theater.",
+                                "start_time": 0.35,
+                                "end_time": 4.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bdc7bce9988439be4a8fb",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "poster",
+                        "playback_type": "inline",
+                        "start_time": 86.64353,
+                        "end_time": 93.05223748299319,
+                        "duration": 6.408707482993197,
+                        "file_name": "cWX9iR_PzIQ_5d3bdc7bce9988439be4a8fb.wav",
+                        "file_size_bytes": 1130540,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727050915,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a4aedd4c5147cbb9a2c",
+                                "sentence": " The group walks past a movie poster on the wall that reads sneak preview of george a romero stay of the dead.",
+                                "start_time": 0.09,
+                                "end_time": 6.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bdca9ce9988439be4a8fc",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 97.298044,
+                        "end_time": 100.64171746938776,
+                        "duration": 3.3436734693877552,
+                        "file_name": "cWX9iR_PzIQ_5d3bdca9ce9988439be4a8fc.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727051001,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acc4a3b32147a989306",
+                                "sentence": " The movie screen reads our feature presentation.",
+                                "start_time": 0.23,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bdd6389ac8343b4474b29",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 125.35271590909089,
+                        "end_time": 130.92550502473713,
+                        "duration": 5.572789115646258,
+                        "file_name": "cWX9iR_PzIQ_5d3bdd6389ac8343b4474b29.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727051307,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1429e83b8b6114790d769d",
+                                "sentence": " The opening scene of day of the dead plays for a few seconds and then abruptly cuts out.",
+                                "start_time": 0.22,
+                                "end_time": 5.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bdd8d89ac8343b4474b2a",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "lights",
+                        "playback_type": "inline",
+                        "start_time": 135.886579,
+                        "end_time": 138.95161301360545,
+                        "duration": 3.0650340136054424,
+                        "file_name": "cWX9iR_PzIQ_5d3bdd8d89ac8343b4474b2a.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727051349,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acb4a3b32147a9892ff",
+                                "sentence": " Power cuts out across the entire mall.",
+                                "start_time": 0.33,
+                                "end_time": 3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bddafce9988439be4a8fd",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 149.382229,
+                        "end_time": 152.72590246938776,
+                        "duration": 3.3436734693877552,
+                        "file_name": "cWX9iR_PzIQ_5d3bddafce9988439be4a8fd.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727051423,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142acb4a3b32147a9892f7",
+                                "sentence": " Steve tries flipping the light switch at scoops ahoy!",
+                                "start_time": 0.19,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bddd8ce9988439be4a8fe",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 158.122101,
+                        "end_time": 162.4874524739229,
+                        "duration": 4.365351473922902,
+                        "file_name": "cWX9iR_PzIQ_5d3bddd8ce9988439be4a8fe.wav",
+                        "file_size_bytes": 770092,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727051504,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142c66db5aec148d44eb14",
+                                "sentence": " The camera pans out to show all of hawkins losing power.",
+                                "start_time": 0.3,
+                                "end_time": 4.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bde33ce9988439be4a900",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 164.107989,
+                        "end_time": 170.33093684580498,
+                        "duration": 6.222947845804988,
+                        "file_name": "cWX9iR_PzIQ_5d3bde33ce9988439be4a900.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727051635,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e142a49edd4c5147cbb99fb",
+                                "sentence": " The scene cuts to a dark room with rats running on the floor and dark smoke swirling above them.",
+                                "start_time": 0.09,
+                                "end_time": 6.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5d3bdebf89ac8343b4474b2b",
+                        "video": "5d3bcfce89ac8343b4474b1b",
+                        "audio_description": "5d3bcfce89ac8343b4474b1a",
+                        "user": "5d3bc2a889ac8343b4474b18",
+                        "label": "final",
+                        "playback_type": "inline",
+                        "start_time": 172.279282,
+                        "end_time": 194.1060393696145,
+                        "duration": 21.826757369614512,
+                        "file_name": "cWX9iR_PzIQ_5d3bdebf89ac8343b4474b2b.wav",
+                        "file_size_bytes": 3850284,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cWX9iR_PzIQ",
+                        "created_at": 20190727051855,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1428d8f8de4a147bbf1dfc",
+                                "sentence": " The final scene cuts briefly to show the star court mall light up again",
+                                "start_time": 0.27,
+                                "end_time": 4.78
+                            },
+                            {
+                                "_id": "5e1428d8f8de4a147bbf1dfb",
+                                "sentence": " before switching to a still picture with the stranger things three logo",
+                                "start_time": 4.81,
+                                "end_time": 9.07
+                            },
+                            {
+                                "_id": "5e1428d8f8de4a147bbf1dfa",
+                                "sentence": " placed over a picture of the stranger things. Kids in the picture 11 and Micro holding hands while will looks back at them.",
+                                "start_time": 9.07,
+                                "end_time": 16.62
+                            },
+                            {
+                                "_id": "5e1428d8f8de4a147bbf1df9",
+                                "sentence": " Dustin, max, and Lucas look up at the night sky, lit up by an orange glow.",
+                                "start_time": 16.62,
+                                "end_time": 21.7
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d3bcfce89ac8343b4474b1a",
+                "video": "5d3bcfce89ac8343b4474b1b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d3bc2a889ac8343b4474b18",
+                    "email": "megan.carr@sd273.com",
+                    "name": "Megan Carr",
+                    "given_name": "Megan",
+                    "picture": "https://lh6.googleusercontent.com/-PZrDkU9p9DY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcGqRMaO-b9hoWPyKovtsc1ZIbepA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "105510014291469665446",
+                    "last_login": 20190727053956,
+                    "token": "f20f0c02527e929c9d172d72d58e6cf472f9bb47230d85caab3a4e94afd8dc01",
+                    "__v": 0,
+                    "updated_at": 20190727053956,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190727041510,
+                "updated_at": 20190812114052,
+                "notes": "Mike rides his bike up to the mall and parks next to his friends. \n\nMike, Lucas, Will and Max walk quickly into the mall.\n\nThe group walks quickly down a crowded escalator. \n\nThe group walks past Erica, Lucas' sister.\n\nThe group walks into Scoops Ahoy Ice Cream Parlor where Steve and Robin are working.\n\nSteve lets the kids into the back of the Ice cream parlor which leads to the inner hallways of the mall. \n\nThe group sneaks in through the back entrance of the movie theatre. \n\nA movie poster on the wall reads \"Sneak Preview of George A. Romero's Day of the Dead\"\n\nThe movie screen reads \"Our Feature Presentation\"\n\nThe opening scene of Day of the Dead plays for a few seconds and then abruptly cuts out.  \n\nPower cuts out across the entire mall.\n\nSteve tries flipping the light switch at Scoops Ahoy. \n\nThe camera pans out to show all of Hawkins loosing power. \n\nThe next scene cuts to a dark room with rats running on the floor and dark smoke swirling above them. \n\nThe final scene cuts to briefly show the sign for The Starcourt lighting up before switching to a still picture with the Stranger Things 3 Logo over a picture of the Stranger Things kids.  In the picture, Eleven and Mike are holding hands while Will looks back at them and Dustin, Max, and Lucas look up at the night sky lit up by an orange glow.  ",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5d3bcfce89ac8343b4474b1b",
+        "title": "Opening Mall Scene Stranger Things 3",
+        "description": "",
+        "youtube_id": "cWX9iR_PzIQ",
+        "created_at": 20190727041510,
+        "updated_at": 20190727051855,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 194
+    }
+}

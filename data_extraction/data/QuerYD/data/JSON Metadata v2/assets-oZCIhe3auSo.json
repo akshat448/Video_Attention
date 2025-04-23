@@ -1,0 +1,104 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cdf",
+                        "audio_description": "58e7cf3746e13dfd851a26b3",
+                        "created_at": 20160929115314,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929115314,
+                        "file_name": "14751751948451.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2750,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24492,
+                        "video": "58e7cf2946e13dfd851a1ed1",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 28.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e4429a9a888c4bc7acb6242",
+                                "sentence": " A child and adult wash silverware in a to drain sink.",
+                                "start_time": 0.2,
+                                "end_time": 5.31
+                            },
+                            {
+                                "_id": "5e4429a9a888c4bc7acb6241",
+                                "sentence": " Only the child's forearms and the adults hands are visible.",
+                                "start_time": 5.39,
+                                "end_time": 10.24
+                            },
+                            {
+                                "_id": "5e4429a9a888c4bc7acb6240",
+                                "sentence": " The adult guides the child's right arm to take the silverware from a container full of water",
+                                "start_time": 10.47,
+                                "end_time": 17.59
+                            },
+                            {
+                                "_id": "5e4429a9a888c4bc7acb623f",
+                                "sentence": " in the left sink and move it under the faucet of the right sink.",
+                                "start_time": 17.59,
+                                "end_time": 22.65
+                            },
+                            {
+                                "_id": "5e4429a9a888c4bc7acb623e",
+                                "sentence": " They then place each utensil on a towel to the right to dry.",
+                                "start_time": 22.79,
+                                "end_time": 28.35
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a26b3",
+                "status": "published",
+                "legacy_video_id": 2750,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1ed1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ed1",
+        "description": "",
+        "youtube_id": "oZCIhe3auSo",
+        "views": 0,
+        "created_at": 20160929104727,
+        "title": "Touch 22 Serena",
+        "legacy_video_id": 2750,
+        "updated_at": 20160929115314,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 22
+    }
+}

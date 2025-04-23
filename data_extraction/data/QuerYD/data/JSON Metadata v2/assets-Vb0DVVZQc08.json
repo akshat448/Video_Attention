@@ -1,0 +1,733 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5cb95920e9b2de249a6f27c0",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 9.044823000000001,
+                        "end_time": 13.224414836734695,
+                        "duration": 4.179591836734694,
+                        "file_name": "Vb0DVVZQc08_5cb95920e9b2de249a6f27c0.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190419051408,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e8e9e525a91232f90a96",
+                                "sentence": " A bird poops on simon's cat",
+                                "start_time": 0.37,
+                                "end_time": 2.41
+                            },
+                            {
+                                "_id": "5e13e8e9e525a91232f90a95",
+                                "sentence": " who wakes up from a sleep.",
+                                "start_time": 2.41,
+                                "end_time": 4.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb95946ca59c91fd2816b6f",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 13.678147999999998,
+                        "end_time": 16.464542557823126,
+                        "duration": 2.786394557823129,
+                        "file_name": "Vb0DVVZQc08_5cb95946ca59c91fd2816b6f.wav",
+                        "file_size_bytes": 491564,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190419051446,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e8e9e525a91232f90acf",
+                                "sentence": " Bath time, missing cat, part one.",
+                                "start_time": 0.09,
+                                "end_time": 2.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb95983e9b2de249a6f27c1",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 19.818935,
+                        "end_time": 25.113084659863944,
+                        "duration": 5.294149659863946,
+                        "file_name": "Vb0DVVZQc08_5cb95983e9b2de249a6f27c1.wav",
+                        "file_size_bytes": 933932,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190419051547,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e8eae525a91232f90b48",
+                                "sentence": " He hops off the fence and goes inside and sees his footballs empty.",
+                                "start_time": 0.17,
+                                "end_time": 4.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5cb959b0ca59c91fd2816b71",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 40.96267297520447,
+                        "end_time": 44.770745537562746,
+                        "duration": 3.8080725623582765,
+                        "file_name": "Vb0DVVZQc08_5cb959b0ca59c91fd2816b71.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190419051632,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e8e9e525a91232f90abb",
+                                "sentence": " He jumps on the couch. Next assignment and motions for food.",
+                                "start_time": 0.03,
+                                "end_time": 3.59
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf87ceb7921a4a2e2bc4da",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 49.103621,
+                        "end_time": 53.00457338095238,
+                        "duration": 3.900952380952381,
+                        "file_name": "Vb0DVVZQc08_5ccf87ceb7921a4a2e2bc4da.wav",
+                        "file_size_bytes": 688172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506010310,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e39aefae1231e09a29",
+                                "sentence": " He goes on to simon's couch, but almost slips off.",
+                                "start_time": 0.6,
+                                "end_time": 3.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf87f2b7921a4a2e2bc4db",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 55.354154,
+                        "end_time": 57.397510009070295,
+                        "duration": 2.043356009070295,
+                        "file_name": "Vb0DVVZQc08_5ccf87f2b7921a4a2e2bc4db.wav",
+                        "file_size_bytes": 360492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506010346,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e842f9dc541230061b1f",
+                                "sentence": " Simon PETS his cat.",
+                                "start_time": 0.18,
+                                "end_time": 1.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8850b7921a4a2e2bc4dc",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 57.91331168831169,
+                        "end_time": 62.000023706452275,
+                        "duration": 4.08671201814059,
+                        "file_name": "Vb0DVVZQc08_5ccf8850b7921a4a2e2bc4dc.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506010520,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e843f9dc541230061b6f",
+                                "sentence": " His hand touches the bird group because he's distracted by the tv.",
+                                "start_time": 0.4,
+                                "end_time": 4.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf886f8d8ab44a02f7c01f",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 62.563968,
+                        "end_time": 64.42156437188208,
+                        "duration": 1.8575963718820863,
+                        "file_name": "Vb0DVVZQc08_5ccf886f8d8ab44a02f7c01f.wav",
+                        "file_size_bytes": 327724,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506010551,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e39aefae1231e09a20",
+                                "sentence": " Simon freaks out.",
+                                "start_time": 0.13,
+                                "end_time": 1.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf888bb7921a4a2e2bc4dd",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 64.59507400000001,
+                        "end_time": 69.14618511111112,
+                        "duration": 4.551111111111111,
+                        "file_name": "Vb0DVVZQc08_5ccf888bb7921a4a2e2bc4dd.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506010619,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e843f9dc541230061b76",
+                                "sentence": " His cat falls asleep on his lap, and he touched his face on accident.",
+                                "start_time": 0.18,
+                                "end_time": 4.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8911b7921a4a2e2bc4e0",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 71.32142857142857,
+                        "end_time": 78.3802947845805,
+                        "duration": 7.058866213151927,
+                        "file_name": "Vb0DVVZQc08_5ccf8911b7921a4a2e2bc4e0.wav",
+                        "file_size_bytes": 1245228,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506010833,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e19aefae1231e09983",
+                                "sentence": " Simon prepares a tub and adds a couple drops of soap in. He stirs it with his finger until it becomes a bubble bath.",
+                                "start_time": 0.1,
+                                "end_time": 7.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8938b7921a4a2e2bc4e1",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 84.147613,
+                        "end_time": 87.67704610657597,
+                        "duration": 3.5294331065759637,
+                        "file_name": "Vb0DVVZQc08_5ccf8938b7921a4a2e2bc4e1.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506010912,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e843f9dc541230061b53",
+                                "sentence": " He brings his purring cat and tries to put him in the tub.",
+                                "start_time": 0.04,
+                                "end_time": 3.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf894cb7921a4a2e2bc4e2",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 89.513178,
+                        "end_time": 92.20669273922903,
+                        "duration": 2.693514739229025,
+                        "file_name": "Vb0DVVZQc08_5ccf894cb7921a4a2e2bc4e2.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506010932,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e842f9dc541230061b04",
+                                "sentence": " His cat refuses to go in without a fight.",
+                                "start_time": 0,
+                                "end_time": 2.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf895db7921a4a2e2bc4e3",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 96.256433,
+                        "end_time": 98.94994773922903,
+                        "duration": 2.693514739229025,
+                        "file_name": "Vb0DVVZQc08_5ccf895db7921a4a2e2bc4e3.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506010949,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e39aefae1231e09a21",
+                                "sentence": " His cats boches him and tries to make an escape.",
+                                "start_time": 0,
+                                "end_time": 2.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf897a8d8ab44a02f7c023",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 99.139586,
+                        "end_time": 101.27582182766439,
+                        "duration": 2.136235827664399,
+                        "file_name": "Vb0DVVZQc08_5ccf897a8d8ab44a02f7c023.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506011018,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e842f9dc541230061b1d",
+                                "sentence": " Simon throws him into the water.",
+                                "start_time": 0,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf89bd8d8ab44a02f7c024",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 101.182959,
+                        "end_time": 103.13343519047619,
+                        "duration": 1.9504761904761905,
+                        "file_name": "Vb0DVVZQc08_5ccf89bd8d8ab44a02f7c024.wav",
+                        "file_size_bytes": 344108,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506011125,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e29aefae1231e09a0c",
+                                "sentence": " He turns on the shower host.",
+                                "start_time": 0.08,
+                                "end_time": 1.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8a27b7921a4a2e2bc4e5",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 103.26573899999998,
+                        "end_time": 106.42365283219952,
+                        "duration": 3.1579138321995464,
+                        "file_name": "Vb0DVVZQc08_5ccf8a27b7921a4a2e2bc4e5.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506011311,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e842f9dc541230061b15",
+                                "sentence": " His cats? What's to shower? Hose and good Simon all wet.",
+                                "start_time": 0.09,
+                                "end_time": 3.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8a51b7921a4a2e2bc4e6",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 110.02189999999999,
+                        "end_time": 111.22933764172335,
+                        "duration": 1.207437641723356,
+                        "file_name": "Vb0DVVZQc08_5ccf8a51b7921a4a2e2bc4e6.wav",
+                        "file_size_bytes": 213036,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506011353,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e842f9dc541230061b16",
+                                "sentence": " Simon says,",
+                                "start_time": 0.01,
+                                "end_time": 1.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8a738d8ab44a02f7c026",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 111.702315,
+                        "end_time": 113.37415173469388,
+                        "duration": 1.6718367346938776,
+                        "file_name": "Vb0DVVZQc08_5ccf8a738d8ab44a02f7c026.wav",
+                        "file_size_bytes": 294956,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506011427,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e29aefae1231e09a15",
+                                "sentence": " He begins brushing his cap.",
+                                "start_time": 0,
+                                "end_time": 1.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8a9bb7921a4a2e2bc4e7",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 113.60868100000002,
+                        "end_time": 116.58083519501136,
+                        "duration": 2.972154195011338,
+                        "file_name": "Vb0DVVZQc08_5ccf8a9bb7921a4a2e2bc4e7.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506011507,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e842f9dc541230061b0c",
+                                "sentence": " His cat hits him with the brush and makes a run for it.",
+                                "start_time": 0.09,
+                                "end_time": 2.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8ab48d8ab44a02f7c028",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 120.318356,
+                        "end_time": 122.82611110204081,
+                        "duration": 2.507755102040816,
+                        "file_name": "Vb0DVVZQc08_5ccf8ab48d8ab44a02f7c028.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506011532,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e39aefae1231e09a27",
+                                "sentence": " Simon's cat begins packing his bags.",
+                                "start_time": 0,
+                                "end_time": 2.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8adf8d8ab44a02f7c02a",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 123.486522,
+                        "end_time": 127.29459456235827,
+                        "duration": 3.8080725623582765,
+                        "file_name": "Vb0DVVZQc08_5ccf8adf8d8ab44a02f7c02a.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506011615,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e842f9dc541230061b48",
+                                "sentence": " Meanwhile, Simon searches for his cat and spills the water.",
+                                "start_time": 0.15,
+                                "end_time": 3.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8af8b7921a4a2e2bc4e8",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 130.588536,
+                        "end_time": 132.7247718276644,
+                        "duration": 2.136235827664399,
+                        "file_name": "Vb0DVVZQc08_5ccf8af8b7921a4a2e2bc4e8.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506011640,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e843f9dc541230061b5f",
+                                "sentence": " Simon's cat heads out the door.",
+                                "start_time": 0.05,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8b1c8d8ab44a02f7c02c",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 132.743468,
+                        "end_time": 135.71562219501135,
+                        "duration": 2.972154195011338,
+                        "file_name": "Vb0DVVZQc08_5ccf8b1c8d8ab44a02f7c02c.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506011716,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e29aefae1231e09a07",
+                                "sentence": " Simon tries to grab his cat through the cat door.",
+                                "start_time": 0,
+                                "end_time": 2.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8b32b7921a4a2e2bc4e9",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 139.829502,
+                        "end_time": 142.98741583219953,
+                        "duration": 3.1579138321995464,
+                        "file_name": "Vb0DVVZQc08_5ccf8b32b7921a4a2e2bc4e9.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506011738,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e843f9dc541230061b5c",
+                                "sentence": " His cat rubs against the garden known before he leaves.",
+                                "start_time": 0,
+                                "end_time": 3.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8bc18d8ab44a02f7c030",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 148.368896,
+                        "end_time": 151.99120892517007,
+                        "duration": 3.622312925170068,
+                        "file_name": "Vb0DVVZQc08_5ccf8bc18d8ab44a02f7c030.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506012000,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e7e39aefae1231e09a28",
+                                "sentence": " Simon looks defeated, and his hand got stuck in the cap tours.",
+                                "start_time": 0.08,
+                                "end_time": 3.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ccf8bd98d8ab44a02f7c031",
+                        "video": "5cb3e2ebe9b2de249a6f2659",
+                        "audio_description": "5cb3e2ebe9b2de249a6f2658",
+                        "user": "5a9b102bd50e4355f98848cd",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 143.25597499999998,
+                        "end_time": 145.7637301020408,
+                        "duration": 2.507755102040816,
+                        "file_name": "Vb0DVVZQc08_5ccf8bd98d8ab44a02f7c031.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Vb0DVVZQc08",
+                        "created_at": 20190506012025,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e13e842f9dc541230061af9",
+                                "sentence": " He glares at his owner one last time.",
+                                "start_time": 0.07,
+                                "end_time": 2.47
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5cb3e2ebe9b2de249a6f2658",
+                "video": "5cb3e2ebe9b2de249a6f2659",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a9b102bd50e4355f98848cd",
+                    "email": "15michelle.lee@gmail.com",
+                    "name": "Michelle Lee",
+                    "given_name": "Michelle",
+                    "picture": "https://lh6.googleusercontent.com/-N9eupK0Vi8U/AAAAAAAAAAI/AAAAAAAAAGU/g3j_IM5Tn4Y/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "106696686131472502872",
+                    "last_login": 20190704200247,
+                    "token": "aa38c8c91246e86e2ba47ccb00419f2cec6f4f26bc8f48bd97726df56e97b01c",
+                    "__v": 0,
+                    "updated_at": 20190704200247,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190415014827,
+                "updated_at": 20190510205304,
+                "notes": "a bird poops on simon's cat, who wakes up from his sleep \n\nhe climbs off the fence\n\nhe goes inside and sees his food bowl is empty\n\nhe jumps on the couch next to simon\n\nhe climbs on to simons couch\n\nsimon pets the bird poop\n\nhis cat purs on his lap\n\nsimon adds soap to a small bath\n\nhe tries to put his cat in\n\nhe turns on the hose\n\nhe brushes his cat who escapes\n\nand starts packing his bas\n\nsimon tries to catch his cat\n\nhis cat leaves \n\n",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "bathtime",
+            "missing cat",
+            "simon's cat",
+            "\u043a\u043e\u0442 \u0441\u0430\u0439\u043c\u043e\u043d\u0430",
+            "\u043a\u043e\u0442 \u0441\u0430\u0439\u043c\u043e\u043d",
+            "kot simona",
+            "simonscat",
+            "funny cat",
+            "cartoon",
+            "cats",
+            "animation",
+            "storytime",
+            "funny",
+            "animals",
+            "cat life",
+            "cute cats",
+            "cat story",
+            "simon's katze",
+            "cat in bathtub",
+            "comedy"
+        ],
+        "custom_tags": [],
+        "_id": "5cb3e2ebe9b2de249a6f2659",
+        "title": "BATHTIME - Missing Cat Pt. 1",
+        "description": "CLICK HERE TO BECOME A CAT CREW MEMBER RIGHT MEOW! https://goo.gl/wy7sh4\n\nA cute messy cat has an unpleasant bathtime experience. 'Missing Cat' is a 4-Part Special. Subscribe to keep up to date with the cat's journey!\n\nCredits:\nDirector: Simon Tofield \nAnimation Director: Rachel Thorn\nAnimators: Plamen Ananiev, Jack Sleeman, Rachel Thorn, Alexandra Tomlin\nDesigner: Trevor Phillips\nArt Director: Liza Nechaeva\nArt Assistants: Georgina Chapman, Julia Young\nAdditional Layouts: Isobel Stenhouse\nEditor: Graham Silcock\nMusic: Shrooty\nFoley: Fonic\nStory Advisor: Mark Aldridge\nProducer: Emma Burch\nAssociate Producer: Edwin Eckford\nProduction Manager: Matthias Sundberg\nExecutive Producer: Mike Bell\n\n\nWant to see more of our Black & White films? \nCheck out our FULL play list here: http://www.goo.gl/FkqgHw\n\nWant to know more about the history of Simon's Cat?\nWatch the Simon's Cat Story here - http://goo.gl/Vfx2JS \n\nVisit 'Simon's Cat' across the Web!\nFacebook \u27a4 https://facebook.com/SimonsCat\nInstagram \u27a4https://www.instagram.com/simonscatofficial/\nTwitter \u27a4 https://twitter.com/SimonsCat\nMerch \u27a4 https://shop.simonscat.com",
+        "youtube_id": "Vb0DVVZQc08",
+        "created_at": 20190415014827,
+        "updated_at": 20190506012025,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 234
+    }
+}

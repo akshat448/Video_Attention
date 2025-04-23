@@ -1,0 +1,178 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4046e13dfd851a2ab8",
+                        "audio_description": "58e7cf2b46e13dfd851a20cd",
+                        "created_at": 20130924134716,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130924134716,
+                        "file_name": "1380055636112.wav",
+                        "start_time": 3.345,
+                        "legacy_video_id": 1328,
+                        "legacy_user_id": 83,
+                        "label": "",
+                        "legacy_audio_clip_id": 3993,
+                        "video": "58e7cf2846e13dfd851a1950",
+                        "end_time": 3.345,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20b7",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74660f499aae4b2ce13f",
+                                "sentence": " Animation in a room, a child is sitting on the floor, a ride on car, a ball, and several building blocks",
+                                "start_time": 0.08,
+                                "end_time": 8.43
+                            },
+                            {
+                                "_id": "5e1c74660f499aae4b2ce13e",
+                                "sentence": " are scattered around.",
+                                "start_time": 8.43,
+                                "end_time": 9.92
+                            },
+                            {
+                                "_id": "5e1c74660f499aae4b2ce13d",
+                                "sentence": " The child winds a toy box up.",
+                                "start_time": 9.92,
+                                "end_time": 12.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2ab9",
+                        "audio_description": "58e7cf2b46e13dfd851a20cd",
+                        "created_at": 20130924134752,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130924134752,
+                        "file_name": "1380055671934.wav",
+                        "start_time": 5.727,
+                        "legacy_video_id": 1328,
+                        "legacy_user_id": 83,
+                        "label": "",
+                        "legacy_audio_clip_id": 3994,
+                        "video": "58e7cf2846e13dfd851a1950",
+                        "end_time": 5.727,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20b7",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99769",
+                                "sentence": " Mr. D arrives.",
+                                "start_time": 0.22,
+                                "end_time": 1.93
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99768",
+                                "sentence": " Mister d approaches the child.",
+                                "start_time": 1.93,
+                                "end_time": 4.12
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99767",
+                                "sentence": " A speech balloon that comes from him shows the toy box open. A flower on the tip of a long spring sticks out of the toy box and bends to the left.",
+                                "start_time": 4.12,
+                                "end_time": 13.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2aba",
+                        "audio_description": "58e7cf2b46e13dfd851a20cd",
+                        "created_at": 20130924135007,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130924135007,
+                        "file_name": "1380055807681.wav",
+                        "start_time": 13.009,
+                        "legacy_video_id": 1328,
+                        "legacy_user_id": 83,
+                        "label": "",
+                        "legacy_audio_clip_id": 3997,
+                        "video": "58e7cf2846e13dfd851a1950",
+                        "end_time": 13.009,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20b7",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74660f499aae4b2ce13b",
+                                "sentence": " The child frown, said mister d",
+                                "start_time": 0.09,
+                                "end_time": 2.64
+                            },
+                            {
+                                "_id": "5e1c74660f499aae4b2ce13a",
+                                "sentence": " he continues winding the toy box up until it opens on the flower springs out,",
+                                "start_time": 2.64,
+                                "end_time": 8.08
+                            },
+                            {
+                                "_id": "5e1c74660f499aae4b2ce139",
+                                "sentence": " the child looked bored",
+                                "start_time": 8.08,
+                                "end_time": 9.9
+                            },
+                            {
+                                "_id": "5e1c74660f499aae4b2ce138",
+                                "sentence": " at the bottom of the screen, appears to phrase spoiler alert.",
+                                "start_time": 9.9,
+                                "end_time": 14.19
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20cd",
+                "status": "published",
+                "legacy_video_id": 1328,
+                "legacy_user_id": 83,
+                "video": "58e7cf2846e13dfd851a1950",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20b7",
+                    "name": "mvdiaz",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20141205043002,
+                    "legacy_user_id": 83,
+                    "last_login": 0,
+                    "email": "mvdiaz@dicapta.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1950",
+        "description": "",
+        "youtube_id": "JEDrAOt0er8",
+        "views": 0,
+        "created_at": 20130924134426,
+        "title": "Description Tutorial #5: Spoiler Alert!",
+        "legacy_video_id": 1328,
+        "updated_at": 20130924135007,
+        "youtube_status": "available",
+        "category": "Science & Technology",
+        "category_id": "28",
+        "duration": 95
+    }
+}

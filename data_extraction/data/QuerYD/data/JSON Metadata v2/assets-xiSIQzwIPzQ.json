@@ -1,0 +1,286 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8146e13dfd851a5ed1",
+                        "audio_description": "58e7cf3846e13dfd851a26fd",
+                        "created_at": 20161015113630,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015113630,
+                        "file_name": "14765565902721.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2811,
+                        "legacy_user_id": 3301,
+                        "label": "",
+                        "legacy_audio_clip_id": 25141,
+                        "video": "58e7cf2946e13dfd851a1f0e",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a26fc",
+                        "transcript": [
+                            {
+                                "_id": "5e21271e103901b4df32a7e1",
+                                "sentence": " A boy sits alone in a pumpkin patch.",
+                                "start_time": 0.14,
+                                "end_time": 3.06
+                            },
+                            {
+                                "_id": "5e21271e103901b4df32a7e0",
+                                "sentence": " A girl runs happily to meet him.",
+                                "start_time": 3.06,
+                                "end_time": 5.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8146e13dfd851a5ed2",
+                        "audio_description": "58e7cf3846e13dfd851a26fd",
+                        "created_at": 20161015114624,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015114624,
+                        "file_name": "14765571845671.wav",
+                        "start_time": 47.159,
+                        "legacy_video_id": 2811,
+                        "legacy_user_id": 3301,
+                        "label": "",
+                        "legacy_audio_clip_id": 25151,
+                        "video": "58e7cf2946e13dfd851a1f0e",
+                        "end_time": 47.159,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a26fc",
+                        "transcript": [
+                            {
+                                "_id": "5e1323166aafb109183ee41d",
+                                "sentence": " The shadow of a dog appears.",
+                                "start_time": 0.02,
+                                "end_time": 2.54
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8146e13dfd851a5ed3",
+                        "audio_description": "58e7cf3846e13dfd851a26fd",
+                        "created_at": 20161015114838,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015114838,
+                        "file_name": "14765573187151.wav",
+                        "start_time": 117.728,
+                        "legacy_video_id": 2811,
+                        "legacy_user_id": 3301,
+                        "label": "",
+                        "legacy_audio_clip_id": 25158,
+                        "video": "58e7cf2946e13dfd851a1f0e",
+                        "end_time": 117.728,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a26fc",
+                        "transcript": [
+                            {
+                                "_id": "5e1321c517363f08feff97e2",
+                                "sentence": " A second boy comes into the pumpkin patch.",
+                                "start_time": 0,
+                                "end_time": 2.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8146e13dfd851a5ed4",
+                        "audio_description": "58e7cf3846e13dfd851a26fd",
+                        "created_at": 20161015114931,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015114931,
+                        "file_name": "14765573714341.wav",
+                        "start_time": 131.933,
+                        "legacy_video_id": 2811,
+                        "legacy_user_id": 3301,
+                        "label": "",
+                        "legacy_audio_clip_id": 25159,
+                        "video": "58e7cf2946e13dfd851a1f0e",
+                        "end_time": 135.003,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a26fc",
+                        "transcript": [
+                            {
+                                "_id": "5e1321c517363f08feff97e0",
+                                "sentence": " The first boys left standing alone.",
+                                "start_time": 0,
+                                "end_time": 2.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8146e13dfd851a5ed5",
+                        "audio_description": "58e7cf3846e13dfd851a26fd",
+                        "created_at": 20161015115451,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015115451,
+                        "file_name": "14765576915911.wav",
+                        "start_time": 162.522,
+                        "legacy_video_id": 2811,
+                        "legacy_user_id": 3301,
+                        "label": "",
+                        "legacy_audio_clip_id": 25165,
+                        "video": "58e7cf2946e13dfd851a1f0e",
+                        "end_time": 171.732,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a26fc",
+                        "transcript": [
+                            {
+                                "_id": "5e1321c517363f08feff97f5",
+                                "sentence": " A girl sleeps in her bed.",
+                                "start_time": 0.3,
+                                "end_time": 2.23
+                            },
+                            {
+                                "_id": "5e1321c517363f08feff97f4",
+                                "sentence": " It is four am.",
+                                "start_time": 2.23,
+                                "end_time": 3.94
+                            },
+                            {
+                                "_id": "5e1321c517363f08feff97f3",
+                                "sentence": " She gets up and walks across the hall to see that a second bedroom is empty.",
+                                "start_time": 3.94,
+                                "end_time": 8.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8146e13dfd851a5ed6",
+                        "audio_description": "58e7cf3846e13dfd851a26fd",
+                        "created_at": 20161015115724,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015115724,
+                        "file_name": "14765578442291.wav",
+                        "start_time": 178.164,
+                        "legacy_video_id": 2811,
+                        "legacy_user_id": 3301,
+                        "label": "",
+                        "legacy_audio_clip_id": 25168,
+                        "video": "58e7cf2946e13dfd851a1f0e",
+                        "end_time": 185.32399999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a26fc",
+                        "transcript": [
+                            {
+                                "_id": "5e21249e97555271ae44f55e",
+                                "sentence": " Outside, the girl walks to the pumpkin patch.",
+                                "start_time": 0.31,
+                                "end_time": 3.53
+                            },
+                            {
+                                "_id": "5e21249e97555271ae44f55d",
+                                "sentence": " She finds the boy and brings him into the house.",
+                                "start_time": 3.53,
+                                "end_time": 6.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8146e13dfd851a5ed7",
+                        "audio_description": "58e7cf3846e13dfd851a26fd",
+                        "created_at": 20161015115904,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161015115904,
+                        "file_name": "14765579449291.wav",
+                        "start_time": 202.491,
+                        "legacy_video_id": 2811,
+                        "legacy_user_id": 3301,
+                        "label": "",
+                        "legacy_audio_clip_id": 25169,
+                        "video": "58e7cf2946e13dfd851a1f0e",
+                        "end_time": 205.05100000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a26fc",
+                        "transcript": [
+                            {
+                                "_id": "5e1328a684acd909a2910f93",
+                                "sentence": " The boy and girl go to sleep.",
+                                "start_time": 0,
+                                "end_time": 1.98
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3846e13dfd851a26fd",
+                "status": "published",
+                "legacy_video_id": 2811,
+                "legacy_user_id": 3301,
+                "video": "58e7cf2946e13dfd851a1f0e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3846e13dfd851a26fc",
+                    "name": "bmartintbvicoms",
+                    "google_user_id_token": "",
+                    "created_at": 20161015102328,
+                    "updated_at": 20161015102411,
+                    "legacy_user_id": 3301,
+                    "last_login": 0,
+                    "email": "bmartin.tbvi.coms@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "updated_at": 20171004205827,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "charlie",
+            "brown",
+            "lucy",
+            "sally",
+            "peanuts",
+            "charles",
+            "schulz",
+            "linus",
+            "snoopy"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1f0e",
+        "description": "",
+        "youtube_id": "xiSIQzwIPzQ",
+        "views": 0,
+        "created_at": 20161015111912,
+        "title": "It's the Great Pumpkin, Charlie Brown -- clip",
+        "legacy_video_id": 2811,
+        "updated_at": 20161015115911,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 211
+    }
+}

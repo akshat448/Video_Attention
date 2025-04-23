@@ -1,0 +1,92 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4046e13dfd851a2aaf",
+                        "audio_description": "58e7cf2b46e13dfd851a20ca",
+                        "created_at": 20130924132736,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130924132736,
+                        "file_name": "1380054456395.wav",
+                        "start_time": 10.489,
+                        "legacy_video_id": 1325,
+                        "legacy_user_id": 83,
+                        "label": "",
+                        "legacy_audio_clip_id": 3977,
+                        "video": "58e7cf2846e13dfd851a194d",
+                        "end_time": 10.489,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20b7",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb997ae",
+                                "sentence": " Animation.",
+                                "start_time": 0.42,
+                                "end_time": 1.7
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb997ad",
+                                "sentence": " Mr. D walks a tightrope. While he juggled several letters.",
+                                "start_time": 1.7,
+                                "end_time": 6.08
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb997ac",
+                                "sentence": " The letters above him formed the word balance.",
+                                "start_time": 6.13,
+                                "end_time": 9.92
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20ca",
+                "status": "published",
+                "legacy_video_id": 1325,
+                "legacy_user_id": 83,
+                "video": "58e7cf2846e13dfd851a194d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20b7",
+                    "name": "mvdiaz",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20141205043002,
+                    "legacy_user_id": 83,
+                    "last_login": 0,
+                    "email": "mvdiaz@dicapta.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a194d",
+        "description": "",
+        "youtube_id": "6n5IGnuadhM",
+        "views": 0,
+        "created_at": 20130924132511,
+        "title": "Description Tutorial #2: Find a balance",
+        "legacy_video_id": 1325,
+        "updated_at": 20130924132736,
+        "youtube_status": "available",
+        "category": "Science & Technology",
+        "category_id": "28",
+        "duration": 94
+    }
+}

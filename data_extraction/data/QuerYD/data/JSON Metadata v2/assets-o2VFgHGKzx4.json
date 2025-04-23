@@ -1,0 +1,445 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "591db3ca2805421bd3af5935",
+                        "video": null,
+                        "audio_description": null,
+                        "user": "591db3372805421bd3af5934",
+                        "label": "Bert in the tub",
+                        "playback_type": "extended",
+                        "start_time": 0.763793036239624,
+                        "end_time": 0.763793036239624,
+                        "duration": 13.746213151927437,
+                        "file_name": null,
+                        "file_size_bytes": 2424876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o2VFgHGKzx4",
+                        "created_at": 20170518144634,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "591db5392805421bd3af5937",
+                        "video": "591da9de2805421bd3af5923",
+                        "audio_description": "591db3ca2805421bd3af5936",
+                        "user": "591db3372805421bd3af5934",
+                        "label": "rubber duckie time",
+                        "playback_type": "inline",
+                        "start_time": 13.008082994277954,
+                        "end_time": 16.630395919448024,
+                        "duration": 3.622312925170068,
+                        "file_name": "o2VFgHGKzx4_591db5392805421bd3af5937.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o2VFgHGKzx4",
+                        "created_at": 20170518145241,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc75ccae6a999b3850bc8",
+                                "sentence": " He holds up a yellow rubber ducky.",
+                                "start_time": 0.42,
+                                "end_time": 2.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "591db5602805421bd3af5938",
+                        "video": "591da9de2805421bd3af5923",
+                        "audio_description": "591db3ca2805421bd3af5936",
+                        "user": "591db3372805421bd3af5934",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 33.44938303433228,
+                        "end_time": 33.44938303433228,
+                        "duration": 18.390204081632653,
+                        "file_name": "o2VFgHGKzx4_591db5602805421bd3af5938.wav",
+                        "file_size_bytes": 3244076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o2VFgHGKzx4",
+                        "created_at": 20170518145320,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4ac7fb849dea37cce15348",
+                                "sentence": " Ernie, a round face light brown puppet with a dark orange nose and a wide shock of spiky black hair, comes through a door decorated with a holly Christmas wreath.",
+                                "start_time": 0.16,
+                                "end_time": 9.83
+                            },
+                            {
+                                "_id": "5e4ac7fb849dea37cce15347",
+                                "sentence": " He was wearing a royal blue jacket with yellow and red horizontal stripes and a yellow",
+                                "start_time": 9.83,
+                                "end_time": 15.2
+                            },
+                            {
+                                "_id": "5e4ac7fb849dea37cce15346",
+                                "sentence": " ear, flat hunters cap.",
+                                "start_time": 15.2,
+                                "end_time": 17.18
+                            }
+                        ]
+                    }
+                ],
+                "_id": "591db3ca2805421bd3af5936",
+                "video": "591da9de2805421bd3af5923",
+                "user": {
+                    "opt_in": [],
+                    "_id": "591db3372805421bd3af5934",
+                    "email": "potatopie424@gmail.com",
+                    "name": "Nope TotalyNotGeneric",
+                    "given_name": "Nope",
+                    "picture": "https://lh3.googleusercontent.com/-vhxYGOcDpRo/AAAAAAAAAAI/AAAAAAAAAAA/AHalGhrQY9FhdFQS33ZyaUaZKdiIn1Wtvg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115460627149741343897",
+                    "last_login": 20171204175411,
+                    "token": "c8856c200ca797ac68e33ea62d59594c426d0d58bc73a44443a1e6560b87b916",
+                    "__v": 0,
+                    "updated_at": 20171204175411,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20170518144634,
+                "updated_at": 20170518144634,
+                "notes": "Bert, a yellow puppet with a long face, round light orange nose, a unibrow, and a small black tuft of hair) sits in a large white clawfoot tub surrounded by foam. Bubbles fill the air.\r\n\r\nHe holds up a yellow rubber bath duck.\r\n\r\nErnie, (a round faced, light brown puppet with a dark orange nose and a wide shock of spiky black hair) comes through a door decorated with a holly Christmas wreath. He is wearing a royal blue jacket with yellow and red horizontal stripes and a yellow ear flapped hunters cap.\r\n\r\nhe holds up a large silver paper clip.\r\n\r\nhe throws the paper clip in the air and hurries out the door.\r\n\r\nErnie enters a store with a long wood counter, three soda fountain taps, and shelves with a variety of wares behind, Mr Hooper an older man with white receeding hairline, glasses, a brown bow tie, suspenders and a brown cardigan sweater is behind the counter).\r\n\r\nMr. Hooper brings down an empty cardboard cigar box from the shelves.\r\n\r\nhe pulls his yellow rubber duck out of his jacket.\r\n\r\nBert enters wearing a buff shearling coat, red beanie hat with a pompom on top.\r\n\r\nErnie hides the cigar box behind his back as he leaves.\r\n\r\nhe shows a long string of silver paperclips hooked together and hands them to the store keeper.\r\n\r\nMr Hooper pulls a pink plastic soap dish from the shelves.\r\n\r\nBert and ernie are in pajamas in a living room, A decorated table top Christmas tree in the background. Two wrapped presents with hand tied bows sit in front of them. they stare at the presents.\r\n\r\nMr Hooper enters dusted in snowflakes, wearing a large brown winter coat. He is carrying some wrapped presents. \r\n\r\nThe older man leaves.\r\n\r\nThe two friends look at each other while the lights twinkle on the tree behind them.\r\n\r\nClose up of Christmas tree.",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5956c2facad8aa46ed7da84e",
+                        "video": "591da9de2805421bd3af5923",
+                        "audio_description": "591debfe2805421bd3af5950",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "ernie ",
+                        "playback_type": "extended",
+                        "start_time": 33.211072188827515,
+                        "end_time": 33.211072188827515,
+                        "duration": 17.647165532879818,
+                        "file_name": "o2VFgHGKzx4_5956c2facad8aa46ed7da84e.wav",
+                        "file_size_bytes": 3113004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o2VFgHGKzx4",
+                        "created_at": 20170630213034,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f57fcf5afa1c5989e12d",
+                                "sentence": " Ernie, a round faced light brown puppet with the dark orange nose. And a wide shock of spiky black hair",
+                                "start_time": 0.3,
+                                "end_time": 6.89
+                            },
+                            {
+                                "_id": "5e15f57fcf5afa1c5989e12c",
+                                "sentence": " comes through a door decorated with a holly Christmas wreath. He's wearing a royal blue jacket with yellow and red horizontal stripes",
+                                "start_time": 6.89,
+                                "end_time": 14.17
+                            },
+                            {
+                                "_id": "5e15f57fcf5afa1c5989e12b",
+                                "sentence": " and a yellow earflap hunter's cap.",
+                                "start_time": 14.17,
+                                "end_time": 16.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5956c331cad8aa46ed7da84f",
+                        "video": "591da9de2805421bd3af5923",
+                        "audio_description": "591debfe2805421bd3af5950",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 60.532996828338625,
+                        "end_time": 63.78379047913228,
+                        "duration": 3.250793650793651,
+                        "file_name": "o2VFgHGKzx4_5956c331cad8aa46ed7da84f.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o2VFgHGKzx4",
+                        "created_at": 20170630213129,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e160277e2b8b81d41341b18",
+                                "sentence": " He throws the paper clip and hurries out the door.",
+                                "start_time": 0,
+                                "end_time": 3.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5956c3c5cad8aa46ed7da851",
+                        "video": "591da9de2805421bd3af5923",
+                        "audio_description": "591debfe2805421bd3af5950",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "Mr. Hoopers store",
+                        "playback_type": "extended",
+                        "start_time": 66.93317012779235,
+                        "end_time": 66.93317012779235,
+                        "duration": 14.489251700680272,
+                        "file_name": "o2VFgHGKzx4_5956c3c5cad8aa46ed7da851.wav",
+                        "file_size_bytes": 2555948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o2VFgHGKzx4",
+                        "created_at": 20170630213357,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f65fb81b2f1c5a36af3f",
+                                "sentence": " Ernie enters a store with a long would counter three soda fountain taps and shelves with a variety of wares.",
+                                "start_time": 0.38,
+                                "end_time": 6.83
+                            },
+                            {
+                                "_id": "5e15f65fb81b2f1c5a36af3e",
+                                "sentence": " An older man with white hair glasses, a brown bow tie suspenders, and a brown cardigan sweater is behind the counter.",
+                                "start_time": 6.83,
+                                "end_time": 14.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5956c411cad8aa46ed7da853",
+                        "video": "591da9de2805421bd3af5923",
+                        "audio_description": "591debfe2805421bd3af5950",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 123.5756060705719,
+                        "end_time": 123.5756060705719,
+                        "duration": 5.758548752834467,
+                        "file_name": "o2VFgHGKzx4_5956c411cad8aa46ed7da853.wav",
+                        "file_size_bytes": 1015852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o2VFgHGKzx4",
+                        "created_at": 20170630213513,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f65eb81b2f1c5a36af1d",
+                                "sentence": " Bert enters wearing a buff colored coat and red beanie hat with a pompom on Top.",
+                                "start_time": 0.4,
+                                "end_time": 5.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5956c4c3cad8aa46ed7da855",
+                        "video": "591da9de2805421bd3af5923",
+                        "audio_description": "591debfe2805421bd3af5950",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 194.22623193515014,
+                        "end_time": 200.72781923673745,
+                        "duration": 6.501587301587302,
+                        "file_name": "o2VFgHGKzx4_5956c4c3cad8aa46ed7da855.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o2VFgHGKzx4",
+                        "created_at": 20170630213811,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e160277e2b8b81d41341b0e",
+                                "sentence": " Mister hooper pulls the pink plastic soap dish from the shelves. He looks thoughtfully at the paper clips and the soap dish.",
+                                "start_time": 0.5,
+                                "end_time": 6.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5956c573cad8aa46ed7da856",
+                        "video": "591da9de2805421bd3af5923",
+                        "audio_description": "591debfe2805421bd3af5950",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 225.34419408773803,
+                        "end_time": 227.48042991540242,
+                        "duration": 2.136235827664399,
+                        "file_name": "o2VFgHGKzx4_5956c573cad8aa46ed7da856.wav",
+                        "file_size_bytes": 376876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o2VFgHGKzx4",
+                        "created_at": 20170630214107,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f581cf5afa1c5989e16b",
+                                "sentence": " Bert walked slowly towards the door.",
+                                "start_time": 0.29,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5956c5fdcad8aa46ed7da857",
+                        "video": "591da9de2805421bd3af5923",
+                        "audio_description": "591debfe2805421bd3af5950",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 235.09462712969972,
+                        "end_time": 235.09462712969972,
+                        "duration": 12.26013605442177,
+                        "file_name": "o2VFgHGKzx4_5956c5fdcad8aa46ed7da857.wav",
+                        "file_size_bytes": 2162732,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o2VFgHGKzx4",
+                        "created_at": 20170630214325,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e160277e2b8b81d41341b00",
+                                "sentence": " Bert and ernie are in pajamas in the living room, a decorated tabletop Christmas tree in the background",
+                                "start_time": 0.6,
+                                "end_time": 6.67
+                            },
+                            {
+                                "_id": "5e160277e2b8b81d41341aff",
+                                "sentence": " to wrapped presents with hand tight bows sit in front of them. They stare at the presence.",
+                                "start_time": 6.67,
+                                "end_time": 12.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5956c78bcad8aa46ed7da85a",
+                        "video": "591da9de2805421bd3af5923",
+                        "audio_description": "591debfe2805421bd3af5950",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 582.392234,
+                        "end_time": 585.1786285578231,
+                        "duration": 2.786394557823129,
+                        "file_name": "o2VFgHGKzx4_5956c78bcad8aa46ed7da85a.wav",
+                        "file_size_bytes": 491564,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o2VFgHGKzx4",
+                        "created_at": 20170630215003,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f661b81b2f1c5a36af7b",
+                                "sentence": " Close up of Christmas tree.",
+                                "start_time": 0.69,
+                                "end_time": 2.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5956c809cad8aa46ed7da85b",
+                        "video": "591da9de2805421bd3af5923",
+                        "audio_description": "591debfe2805421bd3af5950",
+                        "user": "591ccdc32805421bd3af5910",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 1.460580093460083,
+                        "end_time": 1.460580093460083,
+                        "duration": 14.489251700680272,
+                        "file_name": "o2VFgHGKzx4_5956c809cad8aa46ed7da85b.wav",
+                        "file_size_bytes": 2555948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/o2VFgHGKzx4",
+                        "created_at": 20170630215209,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f51da501d71c572ca13c",
+                                "sentence": " Bert, a yellow puppet with a long face, round light orange nose, a uni brow,",
+                                "start_time": 0.57,
+                                "end_time": 6.26
+                            },
+                            {
+                                "_id": "5e15f51da501d71c572ca13b",
+                                "sentence": " and a small black tuft of hair sits in a large white claw foot tub surrounded by foam. Bubbles fill the air.",
+                                "start_time": 6.26,
+                                "end_time": 12.94
+                            }
+                        ]
+                    }
+                ],
+                "_id": "591debfe2805421bd3af5950",
+                "video": "591da9de2805421bd3af5923",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "591ccdc32805421bd3af5910",
+                    "email": "charitypc@gmail.com",
+                    "name": "Charity Pitcher-Cooper",
+                    "given_name": "Charity",
+                    "picture": "https://lh5.googleusercontent.com/-QWgHIV6dqG4/AAAAAAAAAAI/AAAAAAAAA8k/zbElaAqZIsY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102960542363040396571",
+                    "last_login": 20210122172832,
+                    "token": "3d49b4ee09a7b279fbc2705b8e6dd7c75ec919e82a13d07eb1c9925ff7849cf2",
+                    "__v": 0,
+                    "updated_at": 20210122172832,
+                    "policy_review": "reviewed",
+                    "admin": 1
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170518184622,
+                "updated_at": 20170709074458,
+                "notes": "Bert, a yellow puppet with a long face, round light orange nose, a unibrow, and a small black tuft of hair sits in a large white clawfoot tub surrounded by foam. Bubbles fill the air.\n\nHe holds up a yellow rubber duckie.\n\nErnie, a round faced, light brown puppet with a dark orange nose and a wide shock of spiky black hair) comes through a door decorated with a holly Christmas wreath. He is wearing a royal blue jacket with yellow and red horizontal stripes and a yellow ear flapped hunters cap.\n\n\n\nhe throws the paper clip and hurries out the door.\n\nErnie enters a store with a long wood counter, three soda fountain taps, and shelves with a variety of wares. An older man with white hair,  glasses, a brown bow tie, suspenders and a brown cardigan sweater is behind the counter.\n\n\nBert enters wearing a buff colored coat, and red beanie hat with a pompom on top.\n\nErnie hides the cigar box behind his back as he leaves.\n\nThe man pulls a pink plastic soap dish from the shelves, he looks thoughtfully at the string of paper clips and the soap dish\n\nBert walks slowly towards the door\n\nBert and are in pajamas in a living room. A decorated table top Christmas tree in the background. Two wrapped presents with hand tied bows sit in front of them. they stare at the presents.\n\nMr. Hooper enters dusted in snowflakes, carrying two wrapped presents. \n\nMr Hooper leaves.\n\nThe two friends look at each other while the lights twinkle on the tree behind them.\n\nClose up of Christmas tree.",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 2,
+                "overall_rating_votes_sum": 9,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Sesame",
+            "Street",
+            "Muppets",
+            "Ernie",
+            "Jim",
+            "Henson",
+            "Bert",
+            "Frank",
+            "Oz",
+            "Will",
+            "Lee",
+            "Mr.",
+            "Hooper",
+            "Christmas",
+            "Gift",
+            "of",
+            "the",
+            "Magi",
+            "presents",
+            "1970's"
+        ],
+        "custom_tags": [],
+        "_id": "591da9de2805421bd3af5923",
+        "title": "Sesame Street - Bert and Ernie's \"Gift of the Magi\"",
+        "description": "Merry Christmas!",
+        "youtube_id": "o2VFgHGKzx4",
+        "created_at": 20170518140414,
+        "updated_at": 20170630215209,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 586
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8e46e13dfd851a6769",
+                        "audio_description": "58e7cf3b46e13dfd851a27f9",
+                        "created_at": 20161130204912,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130204912,
+                        "file_name": "14805677528611.wav",
+                        "start_time": 0.41,
+                        "legacy_video_id": 3000,
+                        "legacy_user_id": 3460,
+                        "label": "",
+                        "legacy_audio_clip_id": 29084,
+                        "video": "58e7cf2946e13dfd851a1fca",
+                        "end_time": 6.29,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27f8",
+                        "transcript": [
+                            {
+                                "_id": "5e4744431636c804328c7852",
+                                "sentence": " The following preview has been approved for appropriate audiences by the motion picture association of America.",
+                                "start_time": 0.48,
+                                "end_time": 5.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a676d",
+                        "audio_description": "58e7cf3b46e13dfd851a27f9",
+                        "created_at": 20161130205002,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130205002,
+                        "file_name": "14805678020601.wav",
+                        "start_time": 5.412,
+                        "legacy_video_id": 3000,
+                        "legacy_user_id": 3460,
+                        "label": "",
+                        "legacy_audio_clip_id": 29088,
+                        "video": "58e7cf2946e13dfd851a1fca",
+                        "end_time": 11.552,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27f8",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae4cdae24dc721d9531c2",
+                                "sentence": " A small white dog named snoopy sleeps on Top of his house, while small bird places a Christmas wreath on the house.",
+                                "start_time": 0.35,
+                                "end_time": 5.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a676e",
+                        "audio_description": "58e7cf3b46e13dfd851a27f9",
+                        "created_at": 20161130205038,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130205038,
+                        "file_name": "14805678382191.wav",
+                        "start_time": 11.091,
+                        "legacy_video_id": 3000,
+                        "legacy_user_id": 3460,
+                        "label": "",
+                        "legacy_audio_clip_id": 29089,
+                        "video": "58e7cf2946e13dfd851a1fca",
+                        "end_time": 14.161,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27f8",
+                        "transcript": [
+                            {
+                                "_id": "5e4744441636c804328c7921",
+                                "sentence": " The words next Christmas appear on screen.",
+                                "start_time": 0.48,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8e46e13dfd851a6770",
+                        "audio_description": "58e7cf3b46e13dfd851a27f9",
+                        "created_at": 20161130205145,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161130205145,
+                        "file_name": "14805679052621.wav",
+                        "start_time": 14.007,
+                        "legacy_video_id": 3000,
+                        "legacy_user_id": 3460,
+                        "label": "",
+                        "legacy_audio_clip_id": 29092,
+                        "video": "58e7cf2946e13dfd851a1fca",
+                        "end_time": 18.097,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27f8",
+                        "transcript": [
+                            {
+                                "_id": "5e4ae6cf207aba721b5c685e",
+                                "sentence": " The bird and its friends bring more Christmas decorations to snoop is house.",
+                                "start_time": 0.26,
+                                "end_time": 4.06
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3b46e13dfd851a27f9",
+                "status": "published",
+                "legacy_video_id": 3000,
+                "legacy_user_id": 3460,
+                "video": "58e7cf2946e13dfd851a1fca",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3b46e13dfd851a27f8",
+                    "name": "melaniebecker",
+                    "google_user_id_token": "",
+                    "created_at": 20161127143104,
+                    "updated_at": 20161207202932,
+                    "legacy_user_id": 3460,
+                    "last_login": 0,
+                    "email": "melaniebecker14@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "movieclips",
+            "movie clips",
+            "movieclipstrailers",
+            "new trailers",
+            "trailers HD",
+            "hd",
+            "trailers",
+            "trailer",
+            "2014",
+            "official",
+            "HD",
+            "peanuts",
+            "peanuts movie",
+            "peanuts trailer",
+            "charlie brown",
+            "snoopy",
+            "comic",
+            "animation",
+            "adventure",
+            "comedy",
+            "kids",
+            "family",
+            "3D",
+            "charlie brown movie",
+            "charlie brown christmas",
+            "christmas"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1fca",
+        "description": "",
+        "youtube_id": "qI34nBlJxP8",
+        "views": 0,
+        "created_at": 20161130195050,
+        "title": "The Peanuts Movie Official Teaser Trailer #2 (2015) - Animated Movie HD",
+        "legacy_video_id": 3000,
+        "updated_at": 20161130205235,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 105
+    }
+}

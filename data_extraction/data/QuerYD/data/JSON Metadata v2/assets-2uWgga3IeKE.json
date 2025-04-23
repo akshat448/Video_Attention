@@ -1,0 +1,115 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5746e13dfd851a40a7",
+                        "audio_description": "58e7cf3046e13dfd851a2349",
+                        "created_at": 20150425120342,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425120342,
+                        "file_name": "14299886220041.wav",
+                        "start_time": 0.1,
+                        "legacy_video_id": 1934,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13223,
+                        "video": "58e7cf2846e13dfd851a1ba1",
+                        "end_time": 0.1,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 26.34,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a561168423183b465bcd",
+                                "sentence": " Two videos play side by side.",
+                                "start_time": 1.84,
+                                "end_time": 4.2
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bcc",
+                                "sentence": " The video on the left is of the young girl, an adult female who are not interacting.",
+                                "start_time": 4.37,
+                                "end_time": 9.86
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bcb",
+                                "sentence": " The girl is sitting still and vocalise into herself.",
+                                "start_time": 10.2,
+                                "end_time": 13.83
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bca",
+                                "sentence": " The video on the right is at the same girl sitting with the adult male.",
+                                "start_time": 14.44,
+                                "end_time": 18.98
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bc9",
+                                "sentence": " They are interacting by rubbing and tickling each other.",
+                                "start_time": 18.98,
+                                "end_time": 22.47
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bc8",
+                                "sentence": " The girl is smiling and playing with the adult male.",
+                                "start_time": 22.52,
+                                "end_time": 25.82
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2349",
+                "status": "published",
+                "legacy_video_id": 1934,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1ba1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "deaf-blind",
+            "intervener",
+            "communication",
+            "nonverbal interaction"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ba1",
+        "description": "",
+        "youtube_id": "2uWgga3IeKE",
+        "views": 0,
+        "created_at": 20150425120226,
+        "title": "LaurenAdamJoy - Module 6",
+        "legacy_video_id": 1934,
+        "updated_at": 20150425120654,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 69
+    }
+}

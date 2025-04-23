@@ -1,0 +1,164 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5f46e13dfd851a4609",
+                        "audio_description": "58e7cf3246e13dfd851a2448",
+                        "created_at": 20150903093741,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150903093741,
+                        "file_name": "14412982618041.wav",
+                        "start_time": 0.877,
+                        "legacy_video_id": 2122,
+                        "legacy_user_id": 2748,
+                        "label": "",
+                        "legacy_audio_clip_id": 15071,
+                        "video": "58e7cf2946e13dfd851a1c5d",
+                        "end_time": 7.527,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a2447",
+                        "transcript": [
+                            {
+                                "_id": "5e3aca8cfdede55853222869",
+                                "sentence": " A baby kitty is laying on his back, leaning forward, vigorously licking his belly.",
+                                "start_time": 0,
+                                "end_time": 6.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a460a",
+                        "audio_description": "58e7cf3246e13dfd851a2448",
+                        "created_at": 20150903093812,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150903093812,
+                        "file_name": "14412982920701.wav",
+                        "start_time": 8.671,
+                        "legacy_video_id": 2122,
+                        "legacy_user_id": 2748,
+                        "label": "",
+                        "legacy_audio_clip_id": 15072,
+                        "video": "58e7cf2946e13dfd851a1c5d",
+                        "end_time": 13.020999999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a2447",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe533",
+                                "sentence": " He leans in a little bit further. Spread eagle.",
+                                "start_time": 0,
+                                "end_time": 4.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a460b",
+                        "audio_description": "58e7cf3246e13dfd851a2448",
+                        "created_at": 20150903093845,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150903093845,
+                        "file_name": "14412983250771.wav",
+                        "start_time": 18.999,
+                        "legacy_video_id": 2122,
+                        "legacy_user_id": 2748,
+                        "label": "",
+                        "legacy_audio_clip_id": 15073,
+                        "video": "58e7cf2946e13dfd851a1c5d",
+                        "end_time": 22.069,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a2447",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac6110d8f324490ee39b9",
+                                "sentence": " Noise,",
+                                "start_time": 0,
+                                "end_time": 2.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5f46e13dfd851a460c",
+                        "audio_description": "58e7cf3246e13dfd851a2448",
+                        "created_at": 20150903094123,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150903094123,
+                        "file_name": "14412984834001.wav",
+                        "start_time": 18.143,
+                        "legacy_video_id": 2122,
+                        "legacy_user_id": 2748,
+                        "label": "",
+                        "legacy_audio_clip_id": 15075,
+                        "video": "58e7cf2946e13dfd851a1c5d",
+                        "end_time": 18.143,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3246e13dfd851a2447",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac327108b490da613b35b",
+                                "sentence": " A sneeze and oxim completely over stunned.",
+                                "start_time": 0,
+                                "end_time": 6.1
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3246e13dfd851a2448",
+                "status": "published",
+                "legacy_video_id": 2122,
+                "legacy_user_id": 2748,
+                "video": "58e7cf2946e13dfd851a1c5d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3246e13dfd851a2447",
+                    "name": "techvision",
+                    "google_user_id_token": "",
+                    "created_at": 20150901060907,
+                    "updated_at": 20160516065130,
+                    "legacy_user_id": 2748,
+                    "last_login": 0,
+                    "email": "yourtechvision@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c5d",
+        "description": "",
+        "youtube_id": "I6cbRfTIrmc",
+        "views": 0,
+        "created_at": 20150901101657,
+        "title": "Affects of a sneeze on a Kitty",
+        "legacy_video_id": 2122,
+        "updated_at": 20150903094133,
+        "youtube_status": "available",
+        "category": "Pets & Animals",
+        "category_id": "15",
+        "duration": 24
+    }
+}

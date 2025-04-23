@@ -1,0 +1,195 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf3e46e13dfd851a28da",
+                        "audio_description": "58e7cf2a46e13dfd851a207d",
+                        "created_at": 20130315142100,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130315142100,
+                        "file_name": "eFQxRd0isAQ-3-1-0-4-0.wav",
+                        "start_time": 4,
+                        "legacy_video_id": 1111,
+                        "legacy_user_id": 3,
+                        "label": "",
+                        "legacy_audio_clip_id": 2215,
+                        "video": "58e7cf2846e13dfd851a18bd",
+                        "end_time": 4,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2a46e13dfd851a2078",
+                        "transcript": [
+                            {
+                                "_id": "5e1fc5af3056888db080c500",
+                                "sentence": " Opening titles. Read",
+                                "start_time": 0.47,
+                                "end_time": 2.22
+                            },
+                            {
+                                "_id": "5e1fc5af3056888db080c4ff",
+                                "sentence": " the orange open movie project presents.",
+                                "start_time": 2.22,
+                                "end_time": 5.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3e46e13dfd851a28db",
+                        "audio_description": "58e7cf2a46e13dfd851a207d",
+                        "created_at": 20130315142117,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130315142117,
+                        "file_name": "eFQxRd0isAQ-3-1-0-13-0.wav",
+                        "start_time": 13,
+                        "legacy_video_id": 1111,
+                        "legacy_user_id": 3,
+                        "label": "",
+                        "legacy_audio_clip_id": 2216,
+                        "video": "58e7cf2846e13dfd851a18bd",
+                        "end_time": 13,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2a46e13dfd851a2078",
+                        "transcript": [
+                            {
+                                "_id": "5e1c67dd307992754ac48b1f",
+                                "sentence": " Elephants dream.",
+                                "start_time": 0.53,
+                                "end_time": 2.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3e46e13dfd851a28dc",
+                        "audio_description": "58e7cf2a46e13dfd851a207d",
+                        "created_at": 20130315142139,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130315142139,
+                        "file_name": "eFQxRd0isAQ-3-1-0-18-0.wav",
+                        "start_time": 18,
+                        "legacy_video_id": 1111,
+                        "legacy_user_id": 3,
+                        "label": "",
+                        "legacy_audio_clip_id": 2217,
+                        "video": "58e7cf2846e13dfd851a18bd",
+                        "end_time": 18,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2a46e13dfd851a2078",
+                        "transcript": [
+                            {
+                                "_id": "5e211d0c65f1f371b11fec5c",
+                                "sentence": " The titles fade, revealing the face of an old man.",
+                                "start_time": 0.22,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3e46e13dfd851a28dd",
+                        "audio_description": "58e7cf2a46e13dfd851a207d",
+                        "created_at": 20130315142221,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130315142221,
+                        "file_name": "eFQxRd0isAQ-3-1-0-33-0.wav",
+                        "start_time": 33,
+                        "legacy_video_id": 1111,
+                        "legacy_user_id": 3,
+                        "label": "",
+                        "legacy_audio_clip_id": 2218,
+                        "video": "58e7cf2846e13dfd851a18bd",
+                        "end_time": 33,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2a46e13dfd851a2078",
+                        "transcript": [
+                            {
+                                "_id": "5e1fbe8baaa5bd7f76220b1b",
+                                "sentence": " The old man and a younger man stand on a bridge in a strange machine. Suddenly, cables shoot across,",
+                                "start_time": 0.22,
+                                "end_time": 7.59
+                            },
+                            {
+                                "_id": "5e1fbe8baaa5bd7f76220b1a",
+                                "sentence": " and the older man pushes the younger man to the ground.",
+                                "start_time": 7.59,
+                                "end_time": 10.2
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2a46e13dfd851a207d",
+                "status": "published",
+                "legacy_video_id": 1111,
+                "legacy_user_id": 3,
+                "video": "58e7cf2846e13dfd851a18bd",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2a46e13dfd851a2078",
+                    "name": "Owen",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20150629151743,
+                    "legacy_user_id": 3,
+                    "last_login": 0,
+                    "email": "owen@ski.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "movie",
+            "film",
+            "animation",
+            "blender",
+            "cgi",
+            "moviemaniacs",
+            "mmde",
+            "movie maniacs",
+            "official",
+            "official trailer",
+            "moviemaniacsde",
+            "HD",
+            "video",
+            "Short Film (TV Genre)",
+            "Blender (software)",
+            "Nintendo",
+            "3DS",
+            "Nintendo 3DS"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a18bd",
+        "description": "",
+        "youtube_id": "eFQxRd0isAQ",
+        "views": 0,
+        "created_at": 20130315141954,
+        "title": "",
+        "legacy_video_id": 1111,
+        "updated_at": 20130315142221,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 654
+    }
+}

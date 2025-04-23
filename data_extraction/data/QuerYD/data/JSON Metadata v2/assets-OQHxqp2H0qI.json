@@ -1,0 +1,760 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7446e13dfd851a5601",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227093036,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227093036,
+                        "file_name": "14565942367421.wav",
+                        "start_time": 4.38,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21807,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 4.38,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e406647bca80ec06a031286",
+                                "sentence": " A teenage boy is facing a large body of water.",
+                                "start_time": 0.69,
+                                "end_time": 4.83
+                            },
+                            {
+                                "_id": "5e406647bca80ec06a031285",
+                                "sentence": " He's tossing something in the air.",
+                                "start_time": 5.13,
+                                "end_time": 7.38
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a5602",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227093349,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227093349,
+                        "file_name": "14565944294681.wav",
+                        "start_time": 1.409,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21808,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 1.409,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1d7479c9db426463b3e",
+                                "sentence": " Take talk.",
+                                "start_time": 0.08,
+                                "end_time": 1.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a5603",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227093508,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227093508,
+                        "file_name": "14565945089411.wav",
+                        "start_time": 15.934,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21809,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 18.744,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e4061f2fe1db5ac5130e56f",
+                                "sentence": " 12 hours earlier,",
+                                "start_time": 0.32,
+                                "end_time": 2.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a5604",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227093543,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227093543,
+                        "file_name": "14565945430821.wav",
+                        "start_time": 19.639,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21810,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 34.729,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c26c16b75ab425f71698",
+                                "sentence": " The boy is standing in the laundry room",
+                                "start_time": 0.7,
+                                "end_time": 3.22
+                            },
+                            {
+                                "_id": "5e42c26c16b75ab425f71697",
+                                "sentence": " on his phone.",
+                                "start_time": 3.22,
+                                "end_time": 4.33
+                            },
+                            {
+                                "_id": "5e42c26c16b75ab425f71696",
+                                "sentence": " He puts it away,",
+                                "start_time": 4.5,
+                                "end_time": 5.94
+                            },
+                            {
+                                "_id": "5e42c26c16b75ab425f71695",
+                                "sentence": " looks through",
+                                "start_time": 5.94,
+                                "end_time": 7.19
+                            },
+                            {
+                                "_id": "5e42c26c16b75ab425f71694",
+                                "sentence": " the lost and found",
+                                "start_time": 7.19,
+                                "end_time": 8.68
+                            },
+                            {
+                                "_id": "5e42c26c16b75ab425f71693",
+                                "sentence": " finds a stopwatch",
+                                "start_time": 9.28,
+                                "end_time": 11.23
+                            },
+                            {
+                                "_id": "5e42c26c16b75ab425f71692",
+                                "sentence": " impresses",
+                                "start_time": 12.56,
+                                "end_time": 13.76
+                            },
+                            {
+                                "_id": "5e42c26c16b75ab425f71691",
+                                "sentence": " stop.",
+                                "start_time": 13.76,
+                                "end_time": 14.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a5605",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227093644,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227093644,
+                        "file_name": "14565946044971.wav",
+                        "start_time": 39.874,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21811,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 39.874,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.79,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1d7479c9db426463b3a",
+                                "sentence": " Presses go.",
+                                "start_time": 0.02,
+                                "end_time": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a5606",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227093705,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227093705,
+                        "file_name": "14565946253711.wav",
+                        "start_time": 43.794,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21812,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 43.794,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1d6479c9db426463b0b",
+                                "sentence": " Presses stop again.",
+                                "start_time": 0.3,
+                                "end_time": 2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a5607",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227094530,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227094530,
+                        "file_name": "14565951304281.wav",
+                        "start_time": 56.947,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21813,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 72.547,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e4065476b1368ac5088fc2a",
+                                "sentence": " Student is in class",
+                                "start_time": 0.4,
+                                "end_time": 1.95
+                            },
+                            {
+                                "_id": "5e4065476b1368ac5088fc29",
+                                "sentence": " reaches for the stopwatch,",
+                                "start_time": 2.43,
+                                "end_time": 4.56
+                            },
+                            {
+                                "_id": "5e4065476b1368ac5088fc28",
+                                "sentence": " presses it",
+                                "start_time": 5.31,
+                                "end_time": 6.36
+                            },
+                            {
+                                "_id": "5e4065476b1368ac5088fc27",
+                                "sentence": " reaches for his book,",
+                                "start_time": 7.27,
+                                "end_time": 8.88
+                            },
+                            {
+                                "_id": "5e4065476b1368ac5088fc26",
+                                "sentence": " looks through it,",
+                                "start_time": 10.48,
+                                "end_time": 11.77
+                            },
+                            {
+                                "_id": "5e4065476b1368ac5088fc25",
+                                "sentence": " writes down something on the paper.",
+                                "start_time": 12.17,
+                                "end_time": 14.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a5608",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227094651,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227094651,
+                        "file_name": "14565952115401.wav",
+                        "start_time": 86.384,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21814,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 93.294,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1246b735cb4247ac44e",
+                                "sentence": " Student is shown",
+                                "start_time": 0.39,
+                                "end_time": 1.82
+                            },
+                            {
+                                "_id": "5e42c1246b735cb4247ac44d",
+                                "sentence": " looking through the book again",
+                                "start_time": 1.82,
+                                "end_time": 3.71
+                            },
+                            {
+                                "_id": "5e42c1246b735cb4247ac44c",
+                                "sentence": " in writing down",
+                                "start_time": 3.74,
+                                "end_time": 5.07
+                            },
+                            {
+                                "_id": "5e42c1246b735cb4247ac44b",
+                                "sentence": " something on the paper.",
+                                "start_time": 5.07,
+                                "end_time": 6.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a5609",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227094924,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227094924,
+                        "file_name": "14565953646571.wav",
+                        "start_time": 105.374,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21815,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 108.44399999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1d6479c9db426463b08",
+                                "sentence": " Another student looks up at the boy.",
+                                "start_time": 0.26,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a560a",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227095135,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227095135,
+                        "file_name": "14565954951271.wav",
+                        "start_time": 134.613,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21816,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 141.263,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c26c16b75ab425f7165f",
+                                "sentence": " Student returns to the car,",
+                                "start_time": 0.63,
+                                "end_time": 2.48
+                            },
+                            {
+                                "_id": "5e42c26c16b75ab425f7165e",
+                                "sentence": " begins to",
+                                "start_time": 3.1,
+                                "end_time": 4.36
+                            },
+                            {
+                                "_id": "5e42c26c16b75ab425f7165d",
+                                "sentence": " count",
+                                "start_time": 4.36,
+                                "end_time": 5.02
+                            },
+                            {
+                                "_id": "5e42c26c16b75ab425f7165c",
+                                "sentence": " money.",
+                                "start_time": 5.06,
+                                "end_time": 5.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a560b",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227095237,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227095237,
+                        "file_name": "14565955570501.wav",
+                        "start_time": 151.344,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21817,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 157.994,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1d6479c9db426463b35",
+                                "sentence": " The student",
+                                "start_time": 0.85,
+                                "end_time": 2.04
+                            },
+                            {
+                                "_id": "5e42c1d6479c9db426463b34",
+                                "sentence": " from the class",
+                                "start_time": 2.04,
+                                "end_time": 3.28
+                            },
+                            {
+                                "_id": "5e42c1d6479c9db426463b33",
+                                "sentence": " is seen following the boy.",
+                                "start_time": 3.36,
+                                "end_time": 5.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a560c",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227095511,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227095511,
+                        "file_name": "14565957110791.wav",
+                        "start_time": 197.933,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21818,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 204.07299999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1236b735cb4247ac441",
+                                "sentence": " The boy takes out the watch, shows it to him,",
+                                "start_time": 0.25,
+                                "end_time": 3.1
+                            },
+                            {
+                                "_id": "5e42c1236b735cb4247ac440",
+                                "sentence": " presses the stop. But.",
+                                "start_time": 3.48,
+                                "end_time": 5.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a560d",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227095716,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227095716,
+                        "file_name": "14565958367311.wav",
+                        "start_time": 205.14,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21819,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 216.64999999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e4065a0ccc0dcac53702577",
+                                "sentence": " The boy",
+                                "start_time": 0.42,
+                                "end_time": 1.33
+                            },
+                            {
+                                "_id": "5e4065a0ccc0dcac53702576",
+                                "sentence": " takes the other student from behind,",
+                                "start_time": 1.49,
+                                "end_time": 3.78
+                            },
+                            {
+                                "_id": "5e4065a0ccc0dcac53702575",
+                                "sentence": " drags him into the street",
+                                "start_time": 3.84,
+                                "end_time": 5.71
+                            },
+                            {
+                                "_id": "5e4065a0ccc0dcac53702574",
+                                "sentence": " in front of a stopped car,",
+                                "start_time": 5.77,
+                                "end_time": 7.59
+                            },
+                            {
+                                "_id": "5e4065a0ccc0dcac53702573",
+                                "sentence": " and walks back into the house.",
+                                "start_time": 8.4,
+                                "end_time": 10.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a560e",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227100606,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227100606,
+                        "file_name": "14565963661301.wav",
+                        "start_time": 247.058,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21821,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 247.058,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c20f0499b0b427648147",
+                                "sentence": " Is daylight.",
+                                "start_time": 0.71,
+                                "end_time": 1.93
+                            },
+                            {
+                                "_id": "5e42c20f0499b0b427648146",
+                                "sentence": " The boy drives up,",
+                                "start_time": 2.29,
+                                "end_time": 3.94
+                            },
+                            {
+                                "_id": "5e42c20f0499b0b427648145",
+                                "sentence": " gets out of the car.",
+                                "start_time": 4.11,
+                                "end_time": 5.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a560f",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227100705,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227100705,
+                        "file_name": "14565964258241.wav",
+                        "start_time": 258.709,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21822,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 268.67900000000003,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c20f0499b0b427648133",
+                                "sentence": " The boy is standing in front of the large body of water.",
+                                "start_time": 1.33,
+                                "end_time": 4.6
+                            },
+                            {
+                                "_id": "5e42c20f0499b0b427648132",
+                                "sentence": " Looking at the watch,",
+                                "start_time": 4.66,
+                                "end_time": 6.27
+                            },
+                            {
+                                "_id": "5e42c20f0499b0b427648131",
+                                "sentence": " and tosses it",
+                                "start_time": 6.77,
+                                "end_time": 8.18
+                            },
+                            {
+                                "_id": "5e42c20f0499b0b427648130",
+                                "sentence": " into the water.",
+                                "start_time": 8.31,
+                                "end_time": 9.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a5610",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227101134,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227101134,
+                        "file_name": "14565966942931.wav",
+                        "start_time": 275.375,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21826,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 280.495,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c2100499b0b427648154",
+                                "sentence": " The watch floats to the bottom",
+                                "start_time": 0.44,
+                                "end_time": 2.77
+                            },
+                            {
+                                "_id": "5e42c2100499b0b427648153",
+                                "sentence": " and hits a rock.",
+                                "start_time": 2.77,
+                                "end_time": 4.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a5611",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227101406,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227101406,
+                        "file_name": "14565968462731.wav",
+                        "start_time": 282.401,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21829,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 291.101,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e42c20f0499b0b427648136",
+                                "sentence": " The boy returns to his car,",
+                                "start_time": 0.33,
+                                "end_time": 2.61
+                            },
+                            {
+                                "_id": "5e42c20f0499b0b427648135",
+                                "sentence": " stops",
+                                "start_time": 2.61,
+                                "end_time": 3.52
+                            },
+                            {
+                                "_id": "5e42c20f0499b0b427648134",
+                                "sentence": " turns to see a girl in her dog frozen in time.",
+                                "start_time": 3.87,
+                                "end_time": 8.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7446e13dfd851a5612",
+                        "audio_description": "58e7cf3646e13dfd851a2608",
+                        "created_at": 20160227101522,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160227101522,
+                        "file_name": "14565969222931.wav",
+                        "start_time": 298.467,
+                        "legacy_video_id": 2483,
+                        "legacy_user_id": 3067,
+                        "label": "",
+                        "legacy_audio_clip_id": 21830,
+                        "video": "58e7cf2946e13dfd851a1dc6",
+                        "end_time": 298.467,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2607",
+                        "transcript": [
+                            {
+                                "_id": "5e40671da2babac06dc16363",
+                                "sentence": " Directed by keith baker.",
+                                "start_time": 0.16,
+                                "end_time": 2.37
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a2608",
+                "status": "published",
+                "legacy_video_id": 2483,
+                "legacy_user_id": 3067,
+                "video": "58e7cf2946e13dfd851a1dc6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2607",
+                    "name": "SMcManus",
+                    "google_user_id_token": "",
+                    "created_at": 20160227085649,
+                    "updated_at": 20160227101857,
+                    "legacy_user_id": 3067,
+                    "last_login": 0,
+                    "email": "sarah.mcmanus@esdb.dpi.nc.gov",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1dc6",
+        "description": "",
+        "youtube_id": "OQHxqp2H0qI",
+        "views": 0,
+        "created_at": 20160227090020,
+        "title": "TIK TOK - 5 Minute Student Short Film",
+        "legacy_video_id": 2483,
+        "updated_at": 20160227101522,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 301
+    }
+}

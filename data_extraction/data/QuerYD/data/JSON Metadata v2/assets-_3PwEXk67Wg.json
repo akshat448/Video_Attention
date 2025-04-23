@@ -1,0 +1,427 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bb63b896237306c2927e7dc",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "0:21",
+                        "playback_type": "inline",
+                        "start_time": 20.706357994277955,
+                        "end_time": 23.957151645071605,
+                        "duration": 3.250793650793651,
+                        "file_name": "_3PwEXk67Wg_5bb63b896237306c2927e7dc.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004161049,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7afafed6d97588d2ce0",
+                                "sentence": " You be undefined behavior.",
+                                "start_time": 0.51,
+                                "end_time": 2.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bb63be96237306c2927e7dd",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "0:26",
+                        "playback_type": "extended",
+                        "start_time": 23.840003999999997,
+                        "end_time": 23.840003999999997,
+                        "duration": 4.179591836734694,
+                        "file_name": "_3PwEXk67Wg_5bb63be96237306c2927e7dd.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004161225,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc225da4a9499b12036dd",
+                                "sentence": " Number one, some infinitives are bigger than other infinity.",
+                                "start_time": 0.44,
+                                "end_time": 4.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bb63fc86237306c2927e7e0",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "0:28:69",
+                        "playback_type": "extended",
+                        "start_time": 29.291522,
+                        "end_time": 29.291522,
+                        "duration": 3.9938321995464854,
+                        "file_name": "_3PwEXk67Wg_5bb63fc86237306c2927e7e0.wav",
+                        "file_size_bytes": 704556,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004162856,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cdc",
+                                "sentence": " Number two, there are infinite numbers between zero and one.",
+                                "start_time": 0.34,
+                                "end_time": 3.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bb6406806e46c6c10cca2ee",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "0:44:79",
+                        "playback_type": "extended",
+                        "start_time": 38.940951999999996,
+                        "end_time": 38.940951999999996,
+                        "duration": 4.922630385487528,
+                        "file_name": "_3PwEXk67Wg_5bb6406806e46c6c10cca2ee.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004163136,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8de1",
+                                "sentence": " Number three, there is a bigger, infinite set of numbers between zero and two.",
+                                "start_time": 0.28,
+                                "end_time": 4.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bb642116237306c2927e7e2",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "0:56:83",
+                        "playback_type": "inline",
+                        "start_time": 55.338398,
+                        "end_time": 57.38175400907029,
+                        "duration": 2.043356009070295,
+                        "file_name": "_3PwEXk67Wg_5bb642116237306c2927e7e2.wav",
+                        "file_size_bytes": 360492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004163841,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dc8c47eb22e2f0e7574dd",
+                                "sentence": " Three apples to oranges.",
+                                "start_time": 0.19,
+                                "end_time": 2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bb643f16237306c2927e7e3",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "1:10:99",
+                        "playback_type": "extended",
+                        "start_time": 72.212132,
+                        "end_time": 72.212132,
+                        "duration": 5.201269841269841,
+                        "file_name": "_3PwEXk67Wg_5bb643f16237306c2927e7e3.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004164641,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc224da4a9499b12036b0",
+                                "sentence": " Each apple zero, one, and two matches to each orange zero, one, and two.",
+                                "start_time": 0.28,
+                                "end_time": 5.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bb644d606e46c6c10cca2f1",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "2:03:78",
+                        "playback_type": "extended",
+                        "start_time": 124.13030699999997,
+                        "end_time": 124.13030699999997,
+                        "duration": 8.544943310657596,
+                        "file_name": "_3PwEXk67Wg_5bb644d606e46c6c10cca2f1.wav",
+                        "file_size_bytes": 1507372,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004165030,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dbd8f3a3b5681e2b9492e",
+                                "sentence": " Natural numbers are zero through 10. And beyond",
+                                "start_time": 0.48,
+                                "end_time": 3.41
+                            },
+                            {
+                                "_id": "5e4dbd8f3a3b5681e2b9492d",
+                                "sentence": " non negative. Even numbers are zero, two, four, six, eight, 10, and beyond.",
+                                "start_time": 3.41,
+                                "end_time": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bb645856237306c2927e7e5",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "2:03:78",
+                        "playback_type": "extended",
+                        "start_time": 171.137197,
+                        "end_time": 171.137197,
+                        "duration": 5.758548752834467,
+                        "file_name": "_3PwEXk67Wg_5bb645856237306c2927e7e5.wav",
+                        "file_size_bytes": 1015852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004165325,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fcb5327e2f0f9c8db3",
+                                "sentence": " Three oranges labeled zero, zero, and zero are paired with the apple labeled zero.",
+                                "start_time": 0.52,
+                                "end_time": 5.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bb645d76237306c2927e7e6",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 181.371255,
+                        "end_time": 181.371255,
+                        "duration": 3.1579138321995464,
+                        "file_name": "_3PwEXk67Wg_5bb645d76237306c2927e7e6.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004165447,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7b0afed6d97588d2cfd",
+                                "sentence": " Each apple is paired with an orange.",
+                                "start_time": 0.55,
+                                "end_time": 3.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bb64d476237306c2927e7e9",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "3:19:51",
+                        "playback_type": "extended",
+                        "start_time": 202.338494,
+                        "end_time": 202.338494,
+                        "duration": 4.08671201814059,
+                        "file_name": "_3PwEXk67Wg_5bb64d476237306c2927e7e9.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004172631,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8e3d",
+                                "sentence": " Apple manzana",
+                                "start_time": 0.4,
+                                "end_time": 2.23
+                            },
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8e3c",
+                                "sentence": " orange, not allah.",
+                                "start_time": 2.23,
+                                "end_time": 4.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bb64ddb6237306c2927e7ea",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "4:23:09",
+                        "playback_type": "extended",
+                        "start_time": 263.092232,
+                        "end_time": 263.092232,
+                        "duration": 10.588299319727891,
+                        "file_name": "_3PwEXk67Wg_5bb64ddb6237306c2927e7ea.wav",
+                        "file_size_bytes": 1867820,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004172859,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8e33",
+                                "sentence": " Showing the continuum of natural numbers zero pairing with nonnegative even number zero through natural number one, pairing with nonnegative even number two.",
+                                "start_time": 0.7,
+                                "end_time": 10.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bb64e346237306c2927e7eb",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "4:29:51",
+                        "playback_type": "extended",
+                        "start_time": 269.516777,
+                        "end_time": 269.516777,
+                        "duration": 14.675011337868481,
+                        "file_name": "_3PwEXk67Wg_5bb64e346237306c2927e7eb.wav",
+                        "file_size_bytes": 2588716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004173028,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf744142332f10dce311",
+                                "sentence": " Natural's are zero, one, two, three, four, and five",
+                                "start_time": 0.91,
+                                "end_time": 5.48
+                            },
+                            {
+                                "_id": "5e4dcf744142332f10dce310",
+                                "sentence": " integers are negative five negative for negative three, negative two, negative one, zero, one, two, three, four, and five.",
+                                "start_time": 5.48,
+                                "end_time": 14.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bb64ecc06e46c6c10cca2f3",
+                        "video": "5bb63afa6237306c2927e7db",
+                        "audio_description": "5bb63afa6237306c2927e7da",
+                        "user": "5bb55dab6237306c2927e7d3",
+                        "label": "5:17:24",
+                        "playback_type": "extended",
+                        "start_time": 317.248108,
+                        "end_time": 317.248108,
+                        "duration": 14.953650793650795,
+                        "file_name": "_3PwEXk67Wg_5bb64ecc06e46c6c10cca2f3.wav",
+                        "file_size_bytes": 2637868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_3PwEXk67Wg",
+                        "created_at": 20181004173300,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dbd903a3b5681e2b9499a",
+                                "sentence": " Zero pairs with zero,",
+                                "start_time": 0.97,
+                                "end_time": 2.8
+                            },
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94999",
+                                "sentence": " one pairs with one, two pairs with negative one, three pairs with two, four pairs with negative two,",
+                                "start_time": 2.81,
+                                "end_time": 9.19
+                            },
+                            {
+                                "_id": "5e4dbd903a3b5681e2b94998",
+                                "sentence": " five pairs with three, six pairs with negative three, seven pairs with four, eight pairs with negative four.",
+                                "start_time": 9.19,
+                                "end_time": 14.91
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bb63afa6237306c2927e7da",
+                "video": "5bb63afa6237306c2927e7db",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bb55dab6237306c2927e7d3",
+                    "email": "dsc@uci.edu",
+                    "name": "GROUP Disability Services Center",
+                    "given_name": "GROUP",
+                    "picture": "https://lh4.googleusercontent.com/-auL3GYbvEsU/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DW81pQ1Q6TIJq3l6vimaYcltmEAvw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "114200399246549137939",
+                    "last_login": 20181004002411,
+                    "token": "c4a96d885c35d1e54ba4f93243d97d609212357698ffb64d08d4d4ce5e134948",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181004160826,
+                "updated_at": 20181004160826,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "infinity",
+            "countable infinity",
+            "bijection",
+            "undefined behavior",
+            "injection",
+            "surjection",
+            "compare infinities",
+            "countability",
+            "countable set",
+            "natural numbers",
+            "integers",
+            "cardinality",
+            "size",
+            "perfect matching",
+            "perfect pairing",
+            "countable",
+            "one to one",
+            "onto",
+            "uncountable"
+        ],
+        "custom_tags": [],
+        "_id": "5bb63afa6237306c2927e7db",
+        "title": "How to Compare Infinities",
+        "description": "There are just as many numbers between 0 and 1 as there are between 0 and 2. Though infinity may behave counterintuitively at first, everything makes more sense as we reexamine the topic from the basics.\n\nCreated by: Cory Chang\nProduced by: Vivian Liu\nScript Editors: Justin Chen, Brandon Chen, Elaine Chang, Zachary Greenberg\n\nBijection: https://en.wikipedia.org/wiki/Bijection\nCountability: https://en.wikipedia.org/wiki/Countable_set\n---\nTwitter: https://twitter.com/UBehavior",
+        "youtube_id": "_3PwEXk67Wg",
+        "created_at": 20181004160826,
+        "updated_at": 20181004173300,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Science & Technology",
+        "category_id": "28",
+        "duration": 344
+    }
+}

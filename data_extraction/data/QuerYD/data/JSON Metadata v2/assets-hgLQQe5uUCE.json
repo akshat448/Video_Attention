@@ -1,0 +1,270 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b80",
+                        "audio_description": "58e7cf3546e13dfd851a25be",
+                        "created_at": 20160824113118,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824113118,
+                        "file_name": "14720634781221.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2670,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24028,
+                        "video": "58e7cf2946e13dfd851a1e81",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268879f74cbc7c082d3f",
+                                "sentence": " An adolescent student wearing a black hoodie with a large white jacket and blue gloves on his hands walks along a path outside.",
+                                "start_time": 0.38,
+                                "end_time": 9.69
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d3e",
+                                "sentence": " The path is cleared, but snow covers the ground on either side.",
+                                "start_time": 9.9,
+                                "end_time": 14.06
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d3d",
+                                "sentence": " The student uses his cane and his right hand as he walks along the path.",
+                                "start_time": 14.21,
+                                "end_time": 19.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b81",
+                        "audio_description": "58e7cf3546e13dfd851a25be",
+                        "created_at": 20160824113145,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824113145,
+                        "file_name": "14720635051371.wav",
+                        "start_time": 10.265,
+                        "legacy_video_id": 2670,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24029,
+                        "video": "58e7cf2946e13dfd851a1e81",
+                        "end_time": 10.265,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e4427a279f74cbc7c082e36",
+                                "sentence": " The scene transitions to later in the students travel routine as he makes a turn.",
+                                "start_time": 0.19,
+                                "end_time": 5.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b82",
+                        "audio_description": "58e7cf3546e13dfd851a25be",
+                        "created_at": 20160824113222,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824113222,
+                        "file_name": "14720635421271.wav",
+                        "start_time": 15.142,
+                        "legacy_video_id": 2670,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24030,
+                        "video": "58e7cf2946e13dfd851a1e81",
+                        "end_time": 15.142,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45b965a3885227afb5cb61",
+                                "sentence": " The scene transitions again. Now the student has come to a crosswalk. He stops at the edge of the curb and looks both ways, then travels across the street through the crosswalk.",
+                                "start_time": 0.4,
+                                "end_time": 11.09
+                            },
+                            {
+                                "_id": "5e45b965a3885227afb5cb60",
+                                "sentence": " Money in his left hand is now visible as he walks out of you.",
+                                "start_time": 11.22,
+                                "end_time": 15.38
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b83",
+                        "audio_description": "58e7cf3546e13dfd851a25be",
+                        "created_at": 20160824113258,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824113258,
+                        "file_name": "14720635784081.wav",
+                        "start_time": 38.724,
+                        "legacy_video_id": 2670,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24031,
+                        "video": "58e7cf2946e13dfd851a1e81",
+                        "end_time": 38.724,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.25,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268879f74cbc7c082d29",
+                                "sentence": " The student is now at a bus stop. He leans forward, looking in the direction the bus will come.",
+                                "start_time": 0.44,
+                                "end_time": 5.66
+                            },
+                            {
+                                "_id": "5e44268879f74cbc7c082d28",
+                                "sentence": " The scene transitions a few times as the student waits for the bus.",
+                                "start_time": 5.85,
+                                "end_time": 10.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b84",
+                        "audio_description": "58e7cf3546e13dfd851a25be",
+                        "created_at": 20160824113416,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824113416,
+                        "file_name": "14720636566551.wav",
+                        "start_time": 49.495,
+                        "legacy_video_id": 2670,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24032,
+                        "video": "58e7cf2946e13dfd851a1e81",
+                        "end_time": 49.495,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e4421c0c26fa0bc796fd408",
+                                "sentence": " A bus pulls up and the student steps onto the bus. Walking up the stairs.",
+                                "start_time": 1.08,
+                                "end_time": 5.83
+                            },
+                            {
+                                "_id": "5e4421c0c26fa0bc796fd407",
+                                "sentence": " He walks up to the bus driver and handsome money. The bus driver then hands him back change.",
+                                "start_time": 5.87,
+                                "end_time": 12.25
+                            },
+                            {
+                                "_id": "5e4421c0c26fa0bc796fd406",
+                                "sentence": " The student then puts the money into the fee tube coins first, and then a bill.",
+                                "start_time": 12.37,
+                                "end_time": 17.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b85",
+                        "audio_description": "58e7cf3546e13dfd851a25be",
+                        "created_at": 20160824113455,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824113455,
+                        "file_name": "14720636952061.wav",
+                        "start_time": 71.51,
+                        "legacy_video_id": 2670,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24033,
+                        "video": "58e7cf2946e13dfd851a1e81",
+                        "end_time": 71.51,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45b90f0269c027b2e18983",
+                                "sentence": " The scene transitions as the student sits on the bus. A moment later, the scene fades to the bus, driving away.",
+                                "start_time": 0.64,
+                                "end_time": 7.37
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25be",
+                "status": "published",
+                "legacy_video_id": 2670,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e81",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Mary Tellefson",
+            "MaryTellefson",
+            "Deafblindness (Disease Or Medical Condition)",
+            "Deaf-Blindness",
+            "OHOA",
+            "Open Hands Open Access",
+            "Deaf-Blind Intervener Training Modules",
+            "Wisconsin Deaf-Blind Project",
+            "Orientation and Mobility",
+            "Orientation & Mobility",
+            "O&M",
+            "Public Transport (Industry)",
+            "Bus (Mass Transportation System)"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e81",
+        "description": "",
+        "youtube_id": "hgLQQe5uUCE",
+        "views": 0,
+        "created_at": 20160824111819,
+        "title": "Mary Tellefson: Student Walks To Bus",
+        "legacy_video_id": 2670,
+        "updated_at": 20160824113455,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 90
+    }
+}

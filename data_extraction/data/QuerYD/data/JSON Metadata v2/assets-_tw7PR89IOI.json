@@ -1,0 +1,156 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b87",
+                        "audio_description": "58e7cf3546e13dfd851a25c0",
+                        "created_at": 20160824114250,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824114250,
+                        "file_name": "14720641704621.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2672,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24035,
+                        "video": "58e7cf2946e13dfd851a1e83",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 31.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44268679f74cbc7c082cbf",
+                                "sentence": " A new scene fades into view.",
+                                "start_time": 0.01,
+                                "end_time": 2.56
+                            },
+                            {
+                                "_id": "5e44268679f74cbc7c082cbe",
+                                "sentence": " A student sits in a supportive wheelchair, while a female pushes him along the side of a road.",
+                                "start_time": 2.71,
+                                "end_time": 8.49
+                            },
+                            {
+                                "_id": "5e44268679f74cbc7c082cbd",
+                                "sentence": " The student holds a piece of mail in his left hand and a long white rectangle pipe in his right.",
+                                "start_time": 8.63,
+                                "end_time": 14.81
+                            },
+                            {
+                                "_id": "5e44268679f74cbc7c082cbc",
+                                "sentence": " One of the short ends of the rectangle is for the student to hold, and the other short end touches the ground.",
+                                "start_time": 14.81,
+                                "end_time": 21.53
+                            },
+                            {
+                                "_id": "5e44268679f74cbc7c082cbb",
+                                "sentence": " As the adult pushes the student, he hold one of the ends while the other drags.",
+                                "start_time": 21.53,
+                                "end_time": 27.96
+                            },
+                            {
+                                "_id": "5e44268679f74cbc7c082cba",
+                                "sentence": " The other end drags across the ground.",
+                                "start_time": 28.63,
+                                "end_time": 31.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7b46e13dfd851a5b88",
+                        "audio_description": "58e7cf3546e13dfd851a25c0",
+                        "created_at": 20160824114430,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160824114430,
+                        "file_name": "14720642708121.wav",
+                        "start_time": 20.241,
+                        "legacy_video_id": 2672,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24036,
+                        "video": "58e7cf2946e13dfd851a1e83",
+                        "end_time": 20.241,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 25.06,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cc80",
+                                "sentence": " They approach to mailboxes in the grassy area on their left and stop at them. The intervenor opens the mailbox with her left hand,",
+                                "start_time": 0.08,
+                                "end_time": 8.39
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc7f",
+                                "sentence": " guides the students left hand into the mailbox with her right hand.",
+                                "start_time": 8.39,
+                                "end_time": 12.58
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc7e",
+                                "sentence": " The student leaves the piece of mail and the open mailbox, and the adult",
+                                "start_time": 12.72,
+                                "end_time": 17.71
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc7d",
+                                "sentence": " guides the students left hand to close the mailbox. Together, they close the mailbox, and the scene fades to black.",
+                                "start_time": 17.71,
+                                "end_time": 24.51
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25c0",
+                "status": "published",
+                "legacy_video_id": 2672,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1e83",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e83",
+        "description": "",
+        "youtube_id": "_tw7PR89IOI",
+        "views": 0,
+        "created_at": 20160824114036,
+        "title": "Mary Tellefson Request: Andrew (8 of 8)",
+        "legacy_video_id": 2672,
+        "updated_at": 20160824114430,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 41
+    }
+}

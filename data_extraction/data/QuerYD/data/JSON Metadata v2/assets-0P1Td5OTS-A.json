@@ -1,0 +1,177 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c5dfe030477e6699ad65e82",
+                        "video": "5c5dfc7f0477e6699ad65e79",
+                        "audio_description": "5c5dfc7f0477e6699ad65e78",
+                        "user": "5be5c8d82aca700f8bc753f2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 5.6656689342403626,
+                        "duration": 5.6656689342403626,
+                        "file_name": "0P1Td5OTS-A_5c5dfe030477e6699ad65e82.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0P1Td5OTS-A",
+                        "created_at": 20190208220907,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b5422",
+                                "sentence": " Into it. Quickbooks online, introducing the Free APP for windows and MAC.",
+                                "start_time": 0.79,
+                                "end_time": 5.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c5dfe110477e6699ad65e83",
+                        "video": "5c5dfc7f0477e6699ad65e79",
+                        "audio_description": "5c5dfc7f0477e6699ad65e78",
+                        "user": "5be5c8d82aca700f8bc753f2",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 5.4427,
+                        "end_time": 5.4427,
+                        "duration": 6.594467120181406,
+                        "file_name": "0P1Td5OTS-A_5c5dfe110477e6699ad65e83.wav",
+                        "file_size_bytes": 1163308,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0P1Td5OTS-A",
+                        "created_at": 20190208220921,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b541e",
+                                "sentence": " This is a quickbooks user. And she's looking at desktop and online.",
+                                "start_time": 0.97,
+                                "end_time": 5.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c5dffdb0477e6699ad65e88",
+                        "video": "5c5dfc7f0477e6699ad65e79",
+                        "audio_description": "5c5dfc7f0477e6699ad65e78",
+                        "user": "5be5c8d82aca700f8bc753f2",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 6.994453,
+                        "end_time": 41.359985879818595,
+                        "duration": 34.365532879818595,
+                        "file_name": "0P1Td5OTS-A_5c5dffdb0477e6699ad65e88.wav",
+                        "file_size_bytes": 6062124,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0P1Td5OTS-A",
+                        "created_at": 20190208221659,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b143558934733259b541c",
+                                "sentence": " Get the speed of quickbooks desktop and the time savings of quickbooks online.",
+                                "start_time": 0.52,
+                                "end_time": 5.23
+                            },
+                            {
+                                "_id": "5e1b143558934733259b541b",
+                                "sentence": " The new APP for windows and MAC has everything. You've been waiting for",
+                                "start_time": 7.71,
+                                "end_time": 11.52
+                            },
+                            {
+                                "_id": "5e1b143558934733259b541a",
+                                "sentence": " users typing open multiple windows",
+                                "start_time": 11.62,
+                                "end_time": 14.92
+                            },
+                            {
+                                "_id": "5e1b143558934733259b5419",
+                                "sentence": " use familiar keyboard shortcuts,",
+                                "start_time": 14.92,
+                                "end_time": 17.12
+                            },
+                            {
+                                "_id": "5e1b143558934733259b5418",
+                                "sentence": " automatic refresh of open windows.",
+                                "start_time": 17.75,
+                                "end_time": 20.52
+                            },
+                            {
+                                "_id": "5e1b143558934733259b5417",
+                                "sentence": " Pages load faster than in a browser.",
+                                "start_time": 22.09,
+                                "end_time": 24.72
+                            },
+                            {
+                                "_id": "5e1b143558934733259b5416",
+                                "sentence": " Quickbooks user smiles. It's all possible with the APP for windows and MAC",
+                                "start_time": 24.73,
+                                "end_time": 29.38
+                            },
+                            {
+                                "_id": "5e1b143558934733259b5415",
+                                "sentence": " quickbooks online. Download the Free up today.",
+                                "start_time": 29.57,
+                                "end_time": 32.95
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c5dfc7f0477e6699ad65e78",
+                "video": "5c5dfc7f0477e6699ad65e79",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5be5c8d82aca700f8bc753f2",
+                    "email": "cheryl_aranha@intuit.com",
+                    "name": "Cheryl Aranha",
+                    "given_name": "Cheryl",
+                    "picture": "https://lh6.googleusercontent.com/-fvuItqGkzzU/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbCvc8bp1PnrxToQaarsw1z68Syg7w/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115940904129096602687",
+                    "last_login": 20190208215521,
+                    "token": "61fe56a4e8865cdd174ddaf8f3087afc8bdb572c45bb3d8e363d2a0d91e74fe8",
+                    "__v": 0,
+                    "updated_at": 20190208215521,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190208220239,
+                "updated_at": 20190220220617,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "QuickBooks (Software)",
+            "Intuit Inc. (Business Operation)",
+            "Accounting Software (Software Genre)"
+        ],
+        "custom_tags": [],
+        "_id": "5c5dfc7f0477e6699ad65e79",
+        "title": "QuickBooks Online App for Windows and Mac | Intuit",
+        "description": "The FREE QuickBooks Online App for Windows and Mac brings the power of the cloud to the desktop!\n\nWith the app, small businesses can access QuickBooks Online across all their different devices and platforms.\n\nThe app includes keyboard shortcuts, toolbar, menus, and multiple windows support.\n\nGo here for more info! http://intuit.me/1hfX52X",
+        "youtube_id": "0P1Td5OTS-A",
+        "created_at": 20190208220239,
+        "updated_at": 20190208221659,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 41
+    }
+}

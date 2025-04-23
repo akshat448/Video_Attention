@@ -1,0 +1,808 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c8ef68aab5fd817ce54d081",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "A train arrives at a station",
+                        "playback_type": "inline",
+                        "start_time": 0.225731,
+                        "end_time": 2.547726464852608,
+                        "duration": 2.3219954648526078,
+                        "file_name": "0LHxvxdRnYc_5c8ef68aab5fd817ce54d081.wav",
+                        "file_size_bytes": 409644,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318013818,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756371f012ae4dd0130a",
+                                "sentence": " A train arrives at a station,",
+                                "start_time": 0.2,
+                                "end_time": 2.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8ef6b2ab5fd817ce54d084",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then a woman is walking down a aisle, as everyone stares",
+                        "playback_type": "inline",
+                        "start_time": 3.207841,
+                        "end_time": 7.573192473922902,
+                        "duration": 4.365351473922902,
+                        "file_name": "0LHxvxdRnYc_5c8ef6b2ab5fd817ce54d084.wav",
+                        "file_size_bytes": 770092,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318013858,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756171f012ae4dd01295",
+                                "sentence": " Then a woman is walking down the aisle as everyone stares at her.",
+                                "start_time": 0.43,
+                                "end_time": 4.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8ef6d1cfe5b70c5f19dfe2",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "An old lady smiles at the woman and the woman punches her",
+                        "playback_type": "inline",
+                        "start_time": 7.516243,
+                        "end_time": 11.974474292517007,
+                        "duration": 4.458231292517007,
+                        "file_name": "0LHxvxdRnYc_5c8ef6d1cfe5b70c5f19dfe2.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318013929,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756371f012ae4dd01309",
+                                "sentence": " An old lady smiles at the woman,",
+                                "start_time": 0.3,
+                                "end_time": 2.41
+                            },
+                            {
+                                "_id": "5e1c756371f012ae4dd01308",
+                                "sentence": " and a woman punches her.",
+                                "start_time": 2.41,
+                                "end_time": 3.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8ef792cfe5b70c5f19dfe3",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The two start fighting",
+                        "playback_type": "inline",
+                        "start_time": 12.595004,
+                        "end_time": 15.009879283446711,
+                        "duration": 2.414875283446712,
+                        "file_name": "0LHxvxdRnYc_5c8ef792cfe5b70c5f19dfe3.wav",
+                        "file_size_bytes": 426028,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318014242,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012c2",
+                                "sentence": " The two start fighting.",
+                                "start_time": 0.29,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8ef7d3cfe5b70c5f19dfe4",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then a man and the woman are talking in a car",
+                        "playback_type": "inline",
+                        "start_time": 18.85975,
+                        "end_time": 23.41086111111111,
+                        "duration": 4.551111111111111,
+                        "file_name": "0LHxvxdRnYc_5c8ef7d3cfe5b70c5f19dfe4.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318014347,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756171f012ae4dd0128a",
+                                "sentence": " Then a man and the woman are talking inside a car.",
+                                "start_time": 0.42,
+                                "end_time": 4.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8ef7f2cfe5b70c5f19dfe5",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "A group of people are walking towards a spaceship",
+                        "playback_type": "inline",
+                        "start_time": 25.217648,
+                        "end_time": 28.839960925170068,
+                        "duration": 3.622312925170068,
+                        "file_name": "0LHxvxdRnYc_5c8ef7f2cfe5b70c5f19dfe5.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318014418,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756171f012ae4dd01294",
+                                "sentence": " A group of people are walking towards a spaceship.",
+                                "start_time": 0.15,
+                                "end_time": 2.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8ef804ab5fd817ce54d086",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Marvel Studios",
+                        "playback_type": "inline",
+                        "start_time": 31.038324,
+                        "end_time": 32.895920371882085,
+                        "duration": 1.8575963718820863,
+                        "file_name": "0LHxvxdRnYc_5c8ef804ab5fd817ce54d086.wav",
+                        "file_size_bytes": 327724,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318014436,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012c8",
+                                "sentence": " Marvel studios.",
+                                "start_time": 0.03,
+                                "end_time": 1.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8ef85dab5fd817ce54d088",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The woman wakes up next to a plane crash",
+                        "playback_type": "inline",
+                        "start_time": 33.678125,
+                        "end_time": 37.207558106575966,
+                        "duration": 3.5294331065759637,
+                        "file_name": "0LHxvxdRnYc_5c8ef85dab5fd817ce54d088.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318014605,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756171f012ae4dd012a3",
+                                "sentence": " The woman wakes up next to a plane crash.",
+                                "start_time": 0.3,
+                                "end_time": 2.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8ef874ab5fd817ce54d089",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "A man is walking towards her",
+                        "playback_type": "inline",
+                        "start_time": 37.102013,
+                        "end_time": 39.424008464852605,
+                        "duration": 2.3219954648526078,
+                        "file_name": "0LHxvxdRnYc_5c8ef874ab5fd817ce54d089.wav",
+                        "file_size_bytes": 409644,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318014628,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012d2",
+                                "sentence": " A man is walking forward, sir.",
+                                "start_time": 0.17,
+                                "end_time": 1.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8ef9cbcfe5b70c5f19dfe8",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then in a high tech city, a old lady is talking to the woman and green liquid is being injected into the woman",
+                        "playback_type": "inline",
+                        "start_time": 39.144266,
+                        "end_time": 46.760411124716555,
+                        "duration": 7.616145124716553,
+                        "file_name": "0LHxvxdRnYc_5c8ef9cbcfe5b70c5f19dfe8.wav",
+                        "file_size_bytes": 1343532,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015211,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756171f012ae4dd0129b",
+                                "sentence": " Then in a high tech city,",
+                                "start_time": 0.18,
+                                "end_time": 2.08
+                            },
+                            {
+                                "_id": "5e1c756171f012ae4dd0129a",
+                                "sentence": " an old lady is talking to the woman,",
+                                "start_time": 2.08,
+                                "end_time": 4.37
+                            },
+                            {
+                                "_id": "5e1c756171f012ae4dd01299",
+                                "sentence": " and green liquid is made injected into the woman.",
+                                "start_time": 4.51,
+                                "end_time": 7.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8ef9eecfe5b70c5f19dfe9",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "A spaceship is speeding towards a planet",
+                        "playback_type": "inline",
+                        "start_time": 46.475812499999996,
+                        "end_time": 49.54084651360544,
+                        "duration": 3.0650340136054424,
+                        "file_name": "0LHxvxdRnYc_5c8ef9eecfe5b70c5f19dfe9.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015246,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012f8",
+                                "sentence": " A spaceship is speeding towards the planet.",
+                                "start_time": 0.17,
+                                "end_time": 2.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efa0ecfe5b70c5f19dfea",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The woman flashes back to different memories",
+                        "playback_type": "inline",
+                        "start_time": 52.944681,
+                        "end_time": 56.38123428798186,
+                        "duration": 3.436553287981859,
+                        "file_name": "0LHxvxdRnYc_5c8efa0ecfe5b70c5f19dfea.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015318,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012ce",
+                                "sentence": " The woman flashes back to different memories.",
+                                "start_time": 0.74,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efa3aab5fd817ce54d08a",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then she's on top of a train and blasts a tunnel",
+                        "playback_type": "inline",
+                        "start_time": 65.039241,
+                        "end_time": 67.91851537641723,
+                        "duration": 2.8792743764172335,
+                        "file_name": "0LHxvxdRnYc_5c8efa3aab5fd817ce54d08a.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015402,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012ad",
+                                "sentence": " Benches on Top of the training, she blast a tunnel.",
+                                "start_time": 0.26,
+                                "end_time": 2.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efa57ab5fd817ce54d08b",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The woman and the man are about to fly a plane",
+                        "playback_type": "inline",
+                        "start_time": 68.440004,
+                        "end_time": 71.87655728798187,
+                        "duration": 3.436553287981859,
+                        "file_name": "0LHxvxdRnYc_5c8efa57ab5fd817ce54d08b.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015431,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756371f012ae4dd012fb",
+                                "sentence": " The woman and a man are about to fly a plane.",
+                                "start_time": 0.25,
+                                "end_time": 3.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efa67cfe5b70c5f19dfeb",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "This March",
+                        "playback_type": "inline",
+                        "start_time": 75.821308,
+                        "end_time": 77.40026491609977,
+                        "duration": 1.5789569160997732,
+                        "file_name": "0LHxvxdRnYc_5c8efa67cfe5b70c5f19dfeb.wav",
+                        "file_size_bytes": 278572,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015447,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012e6",
+                                "sentence": " This March.",
+                                "start_time": 0.08,
+                                "end_time": 1.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efa7dab5fd817ce54d08c",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Three spaceships are approaching a planet",
+                        "playback_type": "inline",
+                        "start_time": 77.324952,
+                        "end_time": 79.83270710204081,
+                        "duration": 2.507755102040816,
+                        "file_name": "0LHxvxdRnYc_5c8efa7dab5fd817ce54d08c.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015509,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756371f012ae4dd01307",
+                                "sentence": " Three spaceships are approaching a planet.",
+                                "start_time": 0.16,
+                                "end_time": 2.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efa9aab5fd817ce54d08d",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The woman stares at her hands which have a green liquid on them",
+                        "playback_type": "inline",
+                        "start_time": 82.086061,
+                        "end_time": 85.89413356235828,
+                        "duration": 3.8080725623582765,
+                        "file_name": "0LHxvxdRnYc_5c8efa9aab5fd817ce54d08d.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015538,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756371f012ae4dd012fa",
+                                "sentence": " The woman is staring at her hands, which has a green liquid on him.",
+                                "start_time": 0.06,
+                                "end_time": 3.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efab7cfe5b70c5f19dfec",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then she's going through files with photos of her",
+                        "playback_type": "inline",
+                        "start_time": 87.677875,
+                        "end_time": 90.55714937641723,
+                        "duration": 2.8792743764172335,
+                        "file_name": "0LHxvxdRnYc_5c8efab7cfe5b70c5f19dfec.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015607,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012ea",
+                                "sentence": " Then she's going through files with photos of her.",
+                                "start_time": 0.12,
+                                "end_time": 2.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efacacfe5b70c5f19dfed",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "A man is walking",
+                        "playback_type": "inline",
+                        "start_time": 92.698425,
+                        "end_time": 93.90586264172336,
+                        "duration": 1.207437641723356,
+                        "file_name": "0LHxvxdRnYc_5c8efacacfe5b70c5f19dfed.wav",
+                        "file_size_bytes": 213036,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015626,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c780972a838bee59c94c0",
+                                "sentence": " A man is walking.",
+                                "start_time": 0,
+                                "end_time": 1.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efad5ab5fd817ce54d08e",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Everything begins",
+                        "playback_type": "inline",
+                        "start_time": 93.907467,
+                        "end_time": 95.39354409750567,
+                        "duration": 1.486077097505669,
+                        "file_name": "0LHxvxdRnYc_5c8efad5ab5fd817ce54d08e.wav",
+                        "file_size_bytes": 262188,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015637,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756171f012ae4dd01290",
+                                "sentence": " Everything begins.",
+                                "start_time": 0.02,
+                                "end_time": 1.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efae8ab5fd817ce54d08f",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The woman remembers when she keeps falling",
+                        "playback_type": "inline",
+                        "start_time": 95.440785,
+                        "end_time": 98.22717955782313,
+                        "duration": 2.786394557823129,
+                        "file_name": "0LHxvxdRnYc_5c8efae8ab5fd817ce54d08f.wav",
+                        "file_size_bytes": 491564,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015656,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012cf",
+                                "sentence": " The woman remembers when she keeps falling.",
+                                "start_time": 0.24,
+                                "end_time": 2.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efb10cfe5b70c5f19dfee",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "With her, With a hero",
+                        "playback_type": "inline",
+                        "start_time": 99.179265,
+                        "end_time": 101.40838064625851,
+                        "duration": 2.2291156462585033,
+                        "file_name": "0LHxvxdRnYc_5c8efb10cfe5b70c5f19dfee.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015736,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c780972a838bee59c94cd",
+                                "sentence": " With Her With a hero.",
+                                "start_time": 0.13,
+                                "end_time": 2.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efb24ab5fd817ce54d091",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "The woman lights up",
+                        "playback_type": "inline",
+                        "start_time": 101.339172,
+                        "end_time": 104.68284546938776,
+                        "duration": 3.3436734693877552,
+                        "file_name": "0LHxvxdRnYc_5c8efb24ab5fd817ce54d091.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015756,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012b7",
+                                "sentence": " The woman lights up.",
+                                "start_time": 0.04,
+                                "end_time": 1.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efb39cfe5b70c5f19dfef",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "An alien witnesses a space battle",
+                        "playback_type": "inline",
+                        "start_time": 104.920081,
+                        "end_time": 107.33495628344672,
+                        "duration": 2.414875283446712,
+                        "file_name": "0LHxvxdRnYc_5c8efb39cfe5b70c5f19dfef.wav",
+                        "file_size_bytes": 426028,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015817,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012f7",
+                                "sentence": " An alien witnesses a space battle.",
+                                "start_time": 0,
+                                "end_time": 2.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efb60ab5fd817ce54d092",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then the woman is flying through space and destroying spaceships",
+                        "playback_type": "inline",
+                        "start_time": 112.606034,
+                        "end_time": 116.8785056553288,
+                        "duration": 4.272471655328798,
+                        "file_name": "0LHxvxdRnYc_5c8efb60ab5fd817ce54d092.wav",
+                        "file_size_bytes": 753708,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015856,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012f9",
+                                "sentence": " When the woman is fine through space and destroying spaceships,",
+                                "start_time": 0.31,
+                                "end_time": 3.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efb75cfe5b70c5f19dff0",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Captain Marvel",
+                        "playback_type": "inline",
+                        "start_time": 120.890044,
+                        "end_time": 122.9334000090703,
+                        "duration": 2.043356009070295,
+                        "file_name": "0LHxvxdRnYc_5c8efb75cfe5b70c5f19dff0.wav",
+                        "file_size_bytes": 360492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015917,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756171f012ae4dd01296",
+                                "sentence": " Captain marvel.",
+                                "start_time": 0.04,
+                                "end_time": 1.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efb88ab5fd817ce54d093",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then the man sees a cat and starts stroking it",
+                        "playback_type": "inline",
+                        "start_time": 122.916404,
+                        "end_time": 126.44583710657596,
+                        "duration": 3.5294331065759637,
+                        "file_name": "0LHxvxdRnYc_5c8efb88ab5fd817ce54d093.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318015936,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756171f012ae4dd0129e",
+                                "sentence": " Then the man sees a cat and start stroking it.",
+                                "start_time": 0.17,
+                                "end_time": 2.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efba8ab5fd817ce54d094",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "Then the woman is flying through space",
+                        "playback_type": "inline",
+                        "start_time": 132.583146,
+                        "end_time": 134.8122616462585,
+                        "duration": 2.2291156462585033,
+                        "file_name": "0LHxvxdRnYc_5c8efba8ab5fd817ce54d094.wav",
+                        "file_size_bytes": 393260,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318020008,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012d9",
+                                "sentence": " Then the woman is find your space.",
+                                "start_time": 0.13,
+                                "end_time": 2.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c8efbafab5fd817ce54d095",
+                        "video": "5c8ef68aab5fd817ce54d083",
+                        "audio_description": "5c8ef68aab5fd817ce54d082",
+                        "user": "5c43eb250071d10d8574936c",
+                        "label": "March",
+                        "playback_type": "inline",
+                        "start_time": 134.627249,
+                        "end_time": 136.39196555328797,
+                        "duration": 1.7647165532879818,
+                        "file_name": "0LHxvxdRnYc_5c8efbafab5fd817ce54d095.wav",
+                        "file_size_bytes": 311340,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/0LHxvxdRnYc",
+                        "created_at": 20190318020015,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c756271f012ae4dd012c5",
+                                "sentence": " March,",
+                                "start_time": 0.03,
+                                "end_time": 0.9
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c8ef68aab5fd817ce54d082",
+                "video": "5c8ef68aab5fd817ce54d083",
+                "user": {
+                    "opt_in": [
+                        0
+                    ],
+                    "_id": "5c43eb250071d10d8574936c",
+                    "email": "seanh1676@gmail.com",
+                    "name": "Sean Hwang",
+                    "given_name": "Sean",
+                    "picture": "https://lh5.googleusercontent.com/-3t0rHGVtzlU/AAAAAAAAAAI/AAAAAAAAAWc/QffWEYVSbsg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "103945623025669520348",
+                    "last_login": 20210117002400,
+                    "token": "2b511cff582c3b0319f4bf43c425d55637503fe891ee1dcb3884fb0ce5651906",
+                    "__v": 0,
+                    "updated_at": 20210117002400,
+                    "policy_review": "reviewed"
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190318013818,
+                "updated_at": 20190929022547,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 2,
+                "overall_rating_votes_counter": 3,
+                "overall_rating_votes_sum": 6,
+                "admin_review": "",
+                "feedbacks": {
+                    "1": 1,
+                    "4": 1,
+                    "5": 1
+                }
+            }
+        ],
+        "tags": [
+            "marvel",
+            "comics"
+        ],
+        "custom_tags": [],
+        "_id": "5c8ef68aab5fd817ce54d083",
+        "title": "Marvel Studios' Captain Marvel - Trailer 2",
+        "description": "Learn More at https://www.marvel.com/movies/captain-marvel\n\n\u25ba Subscribe to Marvel: http://bit.ly/WeO3YJ\n\nFollow Marvel on Twitter: \u202ahttps://twitter.com/marvel\nLike Marvel on FaceBook: \u202ahttps://www.facebook.com/Marvel\n\nFor even more news, stay tuned to:\nTumblr: \u202ahttp://marvelentertainment.tumblr.com/\nInstagram: https://www.instagram.com/marvel\nGoogle+: \u202ahttps://plus.google.com/+marvel\nPinterest: \u202ahttp://pinterest.com/marvelofficial",
+        "youtube_id": "0LHxvxdRnYc",
+        "created_at": 20190318013818,
+        "updated_at": 20190318020015,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 139
+    }
+}

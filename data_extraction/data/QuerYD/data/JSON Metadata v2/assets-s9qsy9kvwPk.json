@@ -1,0 +1,356 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5ccb",
+                        "audio_description": "58e7cf3746e13dfd851a26af",
+                        "created_at": 20160929095816,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929095816,
+                        "file_name": "14751682968971.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2746,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24472,
+                        "video": "58e7cf2946e13dfd851a1ecd",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 31.2,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45b74798b0c327b1e126a5",
+                                "sentence": " A row of young boys around the age of five sit in a classroom with their heads extended towards the floor",
+                                "start_time": 0.11,
+                                "end_time": 8.89
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e126a4",
+                                "sentence": " and their hands on the floor. At their feet,",
+                                "start_time": 8.89,
+                                "end_time": 11.89
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e126a3",
+                                "sentence": " each of their faces are blurred out.",
+                                "start_time": 12.27,
+                                "end_time": 15.32
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e126a2",
+                                "sentence": " The focuses primarily on one boy with long curly blond hair",
+                                "start_time": 15.44,
+                                "end_time": 21.29
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e126a1",
+                                "sentence": " holding a circular tassel toy, while the rest of the students are at the edge of the right hand side of the screen.",
+                                "start_time": 21.29,
+                                "end_time": 31.17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5ccc",
+                        "audio_description": "58e7cf3746e13dfd851a26af",
+                        "created_at": 20160929095922,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929095922,
+                        "file_name": "14751683629041.wav",
+                        "start_time": 5.459,
+                        "legacy_video_id": 2746,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24473,
+                        "video": "58e7cf2946e13dfd851a1ecd",
+                        "end_time": 5.459,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e4429aaa888c4bc7acb6273",
+                                "sentence": " The students to the right setup. While the boy in focus remains bent over.",
+                                "start_time": 0,
+                                "end_time": 6.76
+                            },
+                            {
+                                "_id": "5e4429aaa888c4bc7acb6272",
+                                "sentence": " An adult woman behind him instructs him to sit up by gently lifting the trunk of his body.",
+                                "start_time": 6.85,
+                                "end_time": 15.73
+                            },
+                            {
+                                "_id": "5e4429aaa888c4bc7acb6271",
+                                "sentence": " and he sits up.",
+                                "start_time": 15.73,
+                                "end_time": 17.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5ccd",
+                        "audio_description": "58e7cf3746e13dfd851a26af",
+                        "created_at": 20160929100029,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929100029,
+                        "file_name": "14751684297441.wav",
+                        "start_time": 13.596,
+                        "legacy_video_id": 2746,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24474,
+                        "video": "58e7cf2946e13dfd851a1ecd",
+                        "end_time": 13.596,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.78,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb25a3885227afb5cda9",
+                                "sentence": " The boy begins to chew on the toy in his left hand, and the adult woman behind him takes his right hand from his mouth,",
+                                "start_time": 0.13,
+                                "end_time": 10.27
+                            },
+                            {
+                                "_id": "5e45bb25a3885227afb5cda8",
+                                "sentence": " and places it down in his lap.",
+                                "start_time": 10.27,
+                                "end_time": 13.39
+                            },
+                            {
+                                "_id": "5e45bb25a3885227afb5cda7",
+                                "sentence": " Another adult woman approaches him from the front",
+                                "start_time": 13.4,
+                                "end_time": 18.13
+                            },
+                            {
+                                "_id": "5e45bb25a3885227afb5cda6",
+                                "sentence": " on her knees and takes the tassel toy from his left hand.",
+                                "start_time": 18.13,
+                                "end_time": 23.73
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cce",
+                        "audio_description": "58e7cf3746e13dfd851a26af",
+                        "created_at": 20160929100107,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929100107,
+                        "file_name": "14751684677031.wav",
+                        "start_time": 23.562,
+                        "legacy_video_id": 2746,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24475,
+                        "video": "58e7cf2946e13dfd851a1ecd",
+                        "end_time": 23.562,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.25,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45b702a3885227afb5caf2",
+                                "sentence": " The woman on her knees in front of the boy lowers his hands from his mouth,",
+                                "start_time": 0.4,
+                                "end_time": 7.11
+                            },
+                            {
+                                "_id": "5e45b702a3885227afb5caf1",
+                                "sentence": " and both adult women packed the boy's chest.",
+                                "start_time": 7.11,
+                                "end_time": 11.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5ccf",
+                        "audio_description": "58e7cf3746e13dfd851a26af",
+                        "created_at": 20160929100147,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929100147,
+                        "file_name": "14751685076201.wav",
+                        "start_time": 30.543,
+                        "legacy_video_id": 2746,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24476,
+                        "video": "58e7cf2946e13dfd851a1ecd",
+                        "end_time": 30.543,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb24a3885227afb5cd1b",
+                                "sentence": " The boy claps his hands and looks back and forth between adult women.",
+                                "start_time": 0.19,
+                                "end_time": 6.3
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd1a",
+                                "sentence": " The instructor has returned to the front of her room,",
+                                "start_time": 6.51,
+                                "end_time": 10.62
+                            },
+                            {
+                                "_id": "5e45bb24a3885227afb5cd19",
+                                "sentence": " still on her knees, and she begins to address the class using sign language.",
+                                "start_time": 10.62,
+                                "end_time": 17.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cd0",
+                        "audio_description": "58e7cf3746e13dfd851a26af",
+                        "created_at": 20160929100234,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929100234,
+                        "file_name": "14751685543281.wav",
+                        "start_time": 40.392,
+                        "legacy_video_id": 2746,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24477,
+                        "video": "58e7cf2946e13dfd851a1ecd",
+                        "end_time": 40.392,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e44288ec26fa0bc796fd593",
+                                "sentence": " The boy looks back at the woman behind him,",
+                                "start_time": 0,
+                                "end_time": 3.39
+                            },
+                            {
+                                "_id": "5e44288ec26fa0bc796fd592",
+                                "sentence": " and the woman gestures towards the instructor at the front of the room.",
+                                "start_time": 3.39,
+                                "end_time": 8.6
+                            },
+                            {
+                                "_id": "5e44288ec26fa0bc796fd591",
+                                "sentence": " Both adult women pat the boy on the chin and shoulders.",
+                                "start_time": 8.75,
+                                "end_time": 13.85
+                            },
+                            {
+                                "_id": "5e44288ec26fa0bc796fd590",
+                                "sentence": " The woman behind the boy points at the woman in front. One more time",
+                                "start_time": 13.94,
+                                "end_time": 19.47
+                            },
+                            {
+                                "_id": "5e44288ec26fa0bc796fd58f",
+                                "sentence": " as she moves back in front of the students.",
+                                "start_time": 19.47,
+                                "end_time": 23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cd1",
+                        "audio_description": "58e7cf3746e13dfd851a26af",
+                        "created_at": 20160929100307,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929100307,
+                        "file_name": "14751685874711.wav",
+                        "start_time": 45.584,
+                        "legacy_video_id": 2746,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24478,
+                        "video": "58e7cf2946e13dfd851a1ecd",
+                        "end_time": 45.584,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e442af3c26fa0bc796fd5ee",
+                                "sentence": " The young boy leans forward and extends his head towards the floor again,",
+                                "start_time": 0.3,
+                                "end_time": 6.19
+                            },
+                            {
+                                "_id": "5e442af3c26fa0bc796fd5ed",
+                                "sentence": " quickly followed by the adult woman behind him, lifting him gently by the waist",
+                                "start_time": 6.19,
+                                "end_time": 12.95
+                            },
+                            {
+                                "_id": "5e442af3c26fa0bc796fd5ec",
+                                "sentence": " to sit up.",
+                                "start_time": 12.95,
+                                "end_time": 14.56
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a26af",
+                "status": "published",
+                "legacy_video_id": 2746,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1ecd",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ecd",
+        "description": "",
+        "youtube_id": "s9qsy9kvwPk",
+        "views": 0,
+        "created_at": 20160929095654,
+        "title": "TOUCH 22 Evan",
+        "legacy_video_id": 2746,
+        "updated_at": 20160929100307,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 54
+    }
+}

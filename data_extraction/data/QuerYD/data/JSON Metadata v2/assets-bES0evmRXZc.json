@@ -1,0 +1,508 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7546e13dfd851a56b5",
+                        "audio_description": "58e7cf3646e13dfd851a2612",
+                        "created_at": 20160301183816,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160301183816,
+                        "file_name": "14568862965971.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2490,
+                        "legacy_user_id": 3072,
+                        "label": "",
+                        "legacy_audio_clip_id": 22049,
+                        "video": "58e7cf2946e13dfd851a1dcd",
+                        "end_time": 4.09,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2611",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1246b735cb4247ac48b",
+                                "sentence": " Guinea pig noises and what they mean.",
+                                "start_time": 0.45,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a56b6",
+                        "audio_description": "58e7cf3646e13dfd851a2612",
+                        "created_at": 20160301183903,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160301183903,
+                        "file_name": "14568863437791.wav",
+                        "start_time": 4.601,
+                        "legacy_video_id": 2490,
+                        "legacy_user_id": 3072,
+                        "label": "",
+                        "legacy_audio_clip_id": 22050,
+                        "video": "58e7cf2946e13dfd851a1dcd",
+                        "end_time": 13.300999999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2611",
+                        "transcript": [
+                            {
+                                "_id": "5e416f8101ec08af321a9c44",
+                                "sentence": " Explorer tv week.",
+                                "start_time": 0,
+                                "end_time": 2.8
+                            },
+                            {
+                                "_id": "5e416f8101ec08af321a9c43",
+                                "sentence": " Guinea pigs seem to be talking to themselves while walking around.",
+                                "start_time": 2.8,
+                                "end_time": 7.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a56b7",
+                        "audio_description": "58e7cf3646e13dfd851a2612",
+                        "created_at": 20160301184225,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160301184225,
+                        "file_name": "14568865459591.wav",
+                        "start_time": 18.08,
+                        "legacy_video_id": 2490,
+                        "legacy_user_id": 3072,
+                        "label": "",
+                        "legacy_audio_clip_id": 22051,
+                        "video": "58e7cf2946e13dfd851a1dcd",
+                        "end_time": 18.08,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2611",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1256b735cb4247ac4be",
+                                "sentence": " Three furry guinea pigs with short little legs",
+                                "start_time": 0.94,
+                                "end_time": 4.84
+                            },
+                            {
+                                "_id": "5e42c1256b735cb4247ac4bd",
+                                "sentence": " scurry around",
+                                "start_time": 5.02,
+                                "end_time": 6.56
+                            },
+                            {
+                                "_id": "5e42c1256b735cb4247ac4bc",
+                                "sentence": " on a wooden floor, looking for pieces of lettuce.",
+                                "start_time": 6.56,
+                                "end_time": 10.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a56b8",
+                        "audio_description": "58e7cf3646e13dfd851a2612",
+                        "created_at": 20160301184403,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160301184403,
+                        "file_name": "14568866433951.wav",
+                        "start_time": 26.843,
+                        "legacy_video_id": 2490,
+                        "legacy_user_id": 3072,
+                        "label": "",
+                        "legacy_audio_clip_id": 22052,
+                        "video": "58e7cf2946e13dfd851a1dcd",
+                        "end_time": 38.093,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.25,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2611",
+                        "transcript": [
+                            {
+                                "_id": "5e42be880499b0b42764812a",
+                                "sentence": " Uh,",
+                                "start_time": 0.33,
+                                "end_time": 0.93
+                            },
+                            {
+                                "_id": "5e42be880499b0b427648129",
+                                "sentence": " leave me alone. Squeak",
+                                "start_time": 1.2,
+                                "end_time": 3.58
+                            },
+                            {
+                                "_id": "5e42be880499b0b427648128",
+                                "sentence": " sounds very annoyed, can be heard often if a guinea pig tries to steal another one's food.",
+                                "start_time": 3.68,
+                                "end_time": 11.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a56b9",
+                        "audio_description": "58e7cf3646e13dfd851a2612",
+                        "created_at": 20160301184721,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160301184721,
+                        "file_name": "14568868417321.wav",
+                        "start_time": 44.887,
+                        "legacy_video_id": 2490,
+                        "legacy_user_id": 3072,
+                        "label": "",
+                        "legacy_audio_clip_id": 22053,
+                        "video": "58e7cf2946e13dfd851a1dcd",
+                        "end_time": 44.887,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2611",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1d6479c9db426463b18",
+                                "sentence": " To guinea. Pigs fight over a 1 piece of lettuce",
+                                "start_time": 0.4,
+                                "end_time": 4.24
+                            },
+                            {
+                                "_id": "5e42c1d6479c9db426463b17",
+                                "sentence": " while they're busy facing off.",
+                                "start_time": 4.43,
+                                "end_time": 6.74
+                            },
+                            {
+                                "_id": "5e42c1d6479c9db426463b16",
+                                "sentence": " A 3rd guinea pig steals the piece of lettuce away.",
+                                "start_time": 7.02,
+                                "end_time": 10.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a56ba",
+                        "audio_description": "58e7cf3646e13dfd851a2612",
+                        "created_at": 20160301185248,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160301185248,
+                        "file_name": "14568871685911.wav",
+                        "start_time": 55.785,
+                        "legacy_video_id": 2490,
+                        "legacy_user_id": 3072,
+                        "label": "",
+                        "legacy_audio_clip_id": 22054,
+                        "video": "58e7cf2946e13dfd851a1dcd",
+                        "end_time": 64.995,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2611",
+                        "transcript": [
+                            {
+                                "_id": "5e42be870499b0b4276480db",
+                                "sentence": " A human hand holds out a lettuce leaf",
+                                "start_time": 0.6,
+                                "end_time": 4.56
+                            },
+                            {
+                                "_id": "5e42be870499b0b4276480da",
+                                "sentence": " to guinea. Pigs greedily eat the leaf together.",
+                                "start_time": 4.64,
+                                "end_time": 8.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a56bb",
+                        "audio_description": "58e7cf3646e13dfd851a2612",
+                        "created_at": 20160301185550,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160301185550,
+                        "file_name": "14568873509441.wav",
+                        "start_time": 66.211,
+                        "legacy_video_id": 2490,
+                        "legacy_user_id": 3072,
+                        "label": "",
+                        "legacy_audio_clip_id": 22056,
+                        "video": "58e7cf2946e13dfd851a1dcd",
+                        "end_time": 76.951,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2611",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1236b735cb4247ac447",
+                                "sentence": " I'm sexy. And I know it sound.",
+                                "start_time": 0.48,
+                                "end_time": 3.61
+                            },
+                            {
+                                "_id": "5e42c1236b735cb4247ac446",
+                                "sentence": " Sounds very low.",
+                                "start_time": 3.61,
+                                "end_time": 5.12
+                            },
+                            {
+                                "_id": "5e42c1236b735cb4247ac445",
+                                "sentence": " Male guinea pigs use it to show dominance or to flirt with females.",
+                                "start_time": 5.12,
+                                "end_time": 10.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a56bc",
+                        "audio_description": "58e7cf3646e13dfd851a2612",
+                        "created_at": 20160301185700,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160301185700,
+                        "file_name": "14568874204741.wav",
+                        "start_time": 81.365,
+                        "legacy_video_id": 2490,
+                        "legacy_user_id": 3072,
+                        "label": "",
+                        "legacy_audio_clip_id": 22057,
+                        "video": "58e7cf2946e13dfd851a1dcd",
+                        "end_time": 91.335,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2611",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1236b735cb4247ac416",
+                                "sentence": " I'm hungry. Squeak, piggy squeak, when they want to be fed, can also be a panicky squeak. If a guinea pig is in danger.",
+                                "start_time": 0.25,
+                                "end_time": 9.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a56bd",
+                        "audio_description": "58e7cf3646e13dfd851a2612",
+                        "created_at": 20160301191325,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160301191325,
+                        "file_name": "14568884054711.wav",
+                        "start_time": 94.492,
+                        "legacy_video_id": 2490,
+                        "legacy_user_id": 3072,
+                        "label": "",
+                        "legacy_audio_clip_id": 22058,
+                        "video": "58e7cf2946e13dfd851a1dcd",
+                        "end_time": 94.492,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2611",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1246b735cb4247ac494",
+                                "sentence": " For guinea pigs in a hutch",
+                                "start_time": 0.45,
+                                "end_time": 3.64
+                            },
+                            {
+                                "_id": "5e42c1246b735cb4247ac493",
+                                "sentence": " look eagerly toward someone or something outside the hutch.",
+                                "start_time": 3.64,
+                                "end_time": 8
+                            },
+                            {
+                                "_id": "5e42c1246b735cb4247ac492",
+                                "sentence": " They scurry around and stand on their hind legs against the side of the hutch as they look out.",
+                                "start_time": 8.05,
+                                "end_time": 14.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a56be",
+                        "audio_description": "58e7cf3646e13dfd851a2612",
+                        "created_at": 20160301191848,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160301191848,
+                        "file_name": "14568887288551.wav",
+                        "start_time": 95.254,
+                        "legacy_video_id": 2490,
+                        "legacy_user_id": 3072,
+                        "label": "",
+                        "legacy_audio_clip_id": 22060,
+                        "video": "58e7cf2946e13dfd851a1dcd",
+                        "end_time": 105.224,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2611",
+                        "transcript": [
+                            {
+                                "_id": "5e42be870499b0b4276480b7",
+                                "sentence": " If the guinea pig is only a few days or weeks old, it can also mean",
+                                "start_time": 0.89,
+                                "end_time": 7.04
+                            },
+                            {
+                                "_id": "5e42be870499b0b4276480b6",
+                                "sentence": " that it's looking for its mommy.",
+                                "start_time": 7.61,
+                                "end_time": 9.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a56bf",
+                        "audio_description": "58e7cf3646e13dfd851a2612",
+                        "created_at": 20160301192026,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160301192026,
+                        "file_name": "14568888259931.wav",
+                        "start_time": 110.989,
+                        "legacy_video_id": 2490,
+                        "legacy_user_id": 3072,
+                        "label": "",
+                        "legacy_audio_clip_id": 22061,
+                        "video": "58e7cf2946e13dfd851a1dcd",
+                        "end_time": 119.16900000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2611",
+                        "transcript": [
+                            {
+                                "_id": "5e42be870499b0b4276480cd",
+                                "sentence": " I'm warning you sound.",
+                                "start_time": 0.4,
+                                "end_time": 3.02
+                            },
+                            {
+                                "_id": "5e42be870499b0b4276480cc",
+                                "sentence": " Sounds very aggressive. Guinea pig is threatening another guinea pig.",
+                                "start_time": 3.02,
+                                "end_time": 8.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a56c0",
+                        "audio_description": "58e7cf3646e13dfd851a2612",
+                        "created_at": 20160301192516,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160301192516,
+                        "file_name": "14568891163271.wav",
+                        "start_time": 122.601,
+                        "legacy_video_id": 2490,
+                        "legacy_user_id": 3072,
+                        "label": "",
+                        "legacy_audio_clip_id": 22063,
+                        "video": "58e7cf2946e13dfd851a1dcd",
+                        "end_time": 125.411,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2611",
+                        "transcript": [
+                            {
+                                "_id": "5e42c1d6479c9db426463b10",
+                                "sentence": " Thanks for watching.",
+                                "start_time": 0.03,
+                                "end_time": 2.78
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a2612",
+                "status": "published",
+                "legacy_video_id": 2490,
+                "legacy_user_id": 3072,
+                "video": "58e7cf2946e13dfd851a1dcd",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2611",
+                    "name": "nwittmershaus",
+                    "google_user_id_token": "",
+                    "created_at": 20160228182805,
+                    "updated_at": 20160228191740,
+                    "legacy_user_id": 3072,
+                    "last_login": 0,
+                    "email": "nwittmershaus@sightcenter.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "pig",
+            "guinea",
+            "popcorning",
+            "pop",
+            "corning",
+            "cage",
+            "tour",
+            "common",
+            "Guinea Pig (Domesticated Animal)",
+            "noises",
+            "noise",
+            "sound",
+            "sounds",
+            "mean",
+            "meaning",
+            "meerschweinchen",
+            "ger\u00e4usche",
+            "bedeutung",
+            "Animal (Film Genre)",
+            "Funny",
+            "Animal (Film Character)",
+            "Faces",
+            "Life",
+            "cute",
+            "little",
+            "adventures",
+            "little adventures",
+            "cavy",
+            "cavies",
+            "what does that sound mean",
+            "wheeking",
+            "teeth chattering",
+            "purring",
+            "rumble strutting",
+            "chutting"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1dcd",
+        "description": "",
+        "youtube_id": "bES0evmRXZc",
+        "views": 0,
+        "created_at": 20160228191813,
+        "title": "Guinea Pig Noises And What They Mean",
+        "legacy_video_id": 2490,
+        "updated_at": 20160301192536,
+        "youtube_status": "available",
+        "category": "Pets & Animals",
+        "category_id": "15",
+        "duration": 128
+    }
+}

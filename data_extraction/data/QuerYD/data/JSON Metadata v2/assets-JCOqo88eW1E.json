@@ -1,0 +1,80 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5e46e13dfd851a453a",
+                        "audio_description": "58e7cf3046e13dfd851a236c",
+                        "created_at": 20150822074737,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150822074737,
+                        "file_name": "14402548575381.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2074,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 14830,
+                        "video": "58e7cf2946e13dfd851a1c2d",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.25,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a2a2079a0da87fe50d",
+                                "sentence": " A young female child sits at a table eating as she feeds herself. An adult supports her elbow and re directs her to the food. When she is distracted.",
+                                "start_time": 1.32,
+                                "end_time": 11.22
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a236c",
+                "status": "published",
+                "legacy_video_id": 2074,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c2d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c2d",
+        "description": "",
+        "youtube_id": "JCOqo88eW1E",
+        "views": 0,
+        "created_at": 20150822074706,
+        "title": "Lorri Peterson: Steps of Concept Development (1 of 4)",
+        "legacy_video_id": 2074,
+        "updated_at": 20150822074737,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 34
+    }
+}

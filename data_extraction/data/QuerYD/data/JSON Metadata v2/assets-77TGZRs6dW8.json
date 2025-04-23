@@ -1,0 +1,65 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "6015d1b980c96d31ff118127",
+                        "video": "6013025980c96d31ff118073",
+                        "audio_description": "6013025980c96d31ff118072",
+                        "user": "60130221aad36831fd7e56e4",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 30.278820861678003,
+                        "file_name": "77TGZRs6dW8_6015d1b980c96d31ff118127.wav",
+                        "file_size_bytes": 5341228,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/77TGZRs6dW8",
+                        "created_at": 20210130213801,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "6013025980c96d31ff118072",
+                "video": "6013025980c96d31ff118073",
+                "user": {
+                    "opt_in": [],
+                    "_id": "60130221aad36831fd7e56e4",
+                    "email": "alp2221@columbia.edu",
+                    "name": "Alexa Luba Perlov",
+                    "given_name": "Alexa Luba",
+                    "picture": "https://lh3.googleusercontent.com/-dPNUOCxQF68/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck6rXe4y9Wm0Bfmq3P61qvclatDKw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "110863542051011346551",
+                    "last_login": 20210130213559,
+                    "token": "498b558a567531f3f42bcb44f1490609b646f1605d328baa09090614925202e1",
+                    "__v": 0,
+                    "updated_at": 20210130213559
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20210128182841,
+                "updated_at": 20210128182841,
+                "notes": "",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "6013025980c96d31ff118073",
+        "title": "employment movie",
+        "description": "",
+        "youtube_id": "77TGZRs6dW8",
+        "created_at": 20210128182841,
+        "updated_at": 20210130213801,
+        "views": 0,
+        "__v": 0
+    }
+}

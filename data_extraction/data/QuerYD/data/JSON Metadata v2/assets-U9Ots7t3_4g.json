@@ -1,0 +1,518 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5abc",
+                        "audio_description": "58e7cf3646e13dfd851a264d",
+                        "created_at": 20160817125422,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817125422,
+                        "file_name": "14714636620271.wav",
+                        "start_time": 22.205,
+                        "legacy_video_id": 2642,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23770,
+                        "video": "58e7cf2946e13dfd851a1e65",
+                        "end_time": 22.205,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ba888c4bc7acb60f1",
+                                "sentence": " The woman releases the student's wrists, and he rests his hands on the calendar.",
+                                "start_time": 0.76,
+                                "end_time": 5.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5abd",
+                        "audio_description": "58e7cf3646e13dfd851a264d",
+                        "created_at": 20160817125501,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817125501,
+                        "file_name": "14714637016141.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2642,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23771,
+                        "video": "58e7cf2946e13dfd851a1e65",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.2,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44223979f74cbc7c082bfe",
+                                "sentence": " Noise.",
+                                "start_time": 0.08,
+                                "end_time": 0.96
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082bfd",
+                                "sentence": " A woman and a student sit together, the student in front,",
+                                "start_time": 1.06,
+                                "end_time": 5.54
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082bfc",
+                                "sentence": " they are in a busy classroom sitting at a large calendar.",
+                                "start_time": 5.61,
+                                "end_time": 9.1
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082bfb",
+                                "sentence": " The woman is holding both students wrists, tightly, moving the students' hands along the calendar.",
+                                "start_time": 9.39,
+                                "end_time": 15.63
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082bfa",
+                                "sentence": " The student is moving his head rapidly.",
+                                "start_time": 15.78,
+                                "end_time": 18.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5abe",
+                        "audio_description": "58e7cf3646e13dfd851a264d",
+                        "created_at": 20160817130044,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817130044,
+                        "file_name": "14714640444571.wav",
+                        "start_time": 28.334,
+                        "legacy_video_id": 2642,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23773,
+                        "video": "58e7cf2946e13dfd851a1e65",
+                        "end_time": 28.334,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 34.78,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ca888c4bc7acb6190",
+                                "sentence": " The woman behind the student grabs his wrists again.",
+                                "start_time": 1.13,
+                                "end_time": 4.77
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb618f",
+                                "sentence": " Another woman comes from the side and grasps the students left wrist tightly and moves his hand up towards the word Thursday",
+                                "start_time": 5.04,
+                                "end_time": 14.01
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb618e",
+                                "sentence": " to the month January,",
+                                "start_time": 14.01,
+                                "end_time": 15.98
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb618d",
+                                "sentence": " then to the number eight on the calendar,",
+                                "start_time": 15.98,
+                                "end_time": 18.53
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb618c",
+                                "sentence": " and then to the year 2009,",
+                                "start_time": 18.56,
+                                "end_time": 20.79
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb618b",
+                                "sentence": " the student moves around uncomfortably and resists the woman moving his hands and moves his head rapidly.",
+                                "start_time": 21.64,
+                                "end_time": 28.4
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb618a",
+                                "sentence": " The woman behind the student holds his head at the back of his neck.",
+                                "start_time": 29.01,
+                                "end_time": 33.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5abf",
+                        "audio_description": "58e7cf3646e13dfd851a264d",
+                        "created_at": 20160817130235,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817130235,
+                        "file_name": "14714641559701.wav",
+                        "start_time": 42.178,
+                        "legacy_video_id": 2642,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23774,
+                        "video": "58e7cf2946e13dfd851a1e65",
+                        "end_time": 42.178,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44223b79f74cbc7c082c74",
+                                "sentence": " The woman at the students side, let's go of his wrist and leaves the student for a moment.",
+                                "start_time": 0.92,
+                                "end_time": 6.86
+                            },
+                            {
+                                "_id": "5e44223b79f74cbc7c082c73",
+                                "sentence": " The student moves his head backwards quickly towards the woman sitting behind him,",
+                                "start_time": 7.19,
+                                "end_time": 11.98
+                            },
+                            {
+                                "_id": "5e44223b79f74cbc7c082c72",
+                                "sentence": " the woman behind the student",
+                                "start_time": 12.56,
+                                "end_time": 14.72
+                            },
+                            {
+                                "_id": "5e44223b79f74cbc7c082c71",
+                                "sentence": " holds her arm up behind the students head to keep him from hitting her.",
+                                "start_time": 14.72,
+                                "end_time": 19.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5ac0",
+                        "audio_description": "58e7cf3646e13dfd851a264d",
+                        "created_at": 20160817130356,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817130356,
+                        "file_name": "14714642360781.wav",
+                        "start_time": 69.405,
+                        "legacy_video_id": 2642,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23775,
+                        "video": "58e7cf2946e13dfd851a1e65",
+                        "end_time": 69.405,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e442889c26fa0bc796fd4a4",
+                                "sentence": " The woman behind the student grasps the students wrists tightly and moves his hands.",
+                                "start_time": 1,
+                                "end_time": 7.08
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4a3",
+                                "sentence": " The student immediately begins to move his head forward and backwards at the woman.",
+                                "start_time": 7.41,
+                                "end_time": 12.51
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4a2",
+                                "sentence": " She releases his left wrist and holds her arm",
+                                "start_time": 12.71,
+                                "end_time": 16.67
+                            },
+                            {
+                                "_id": "5e442889c26fa0bc796fd4a1",
+                                "sentence": " and hand up behind his head.",
+                                "start_time": 16.67,
+                                "end_time": 19.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5ac1",
+                        "audio_description": "58e7cf3646e13dfd851a264d",
+                        "created_at": 20160817130912,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817130912,
+                        "file_name": "14714645523871.wav",
+                        "start_time": 85.262,
+                        "legacy_video_id": 2642,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23776,
+                        "video": "58e7cf2946e13dfd851a1e65",
+                        "end_time": 85.262,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 32.22,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44268779f74cbc7c082cf1",
+                                "sentence": " The woman grasps both of the student's wrists tightly and moves his hands up to clap them together.",
+                                "start_time": 0.94,
+                                "end_time": 7.83
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082cf0",
+                                "sentence": " The student appears to resist the motion by moving his head backwards and his hands and arms. Quickly,",
+                                "start_time": 8.26,
+                                "end_time": 15.33
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082cef",
+                                "sentence": " the student attempts to bite the woman's hands that are still grasping his wrists.",
+                                "start_time": 15.78,
+                                "end_time": 20.94
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082cee",
+                                "sentence": " The woman moves her hands as he attempts to bite them,",
+                                "start_time": 21.08,
+                                "end_time": 25.46
+                            },
+                            {
+                                "_id": "5e44268779f74cbc7c082ced",
+                                "sentence": " and then places her left arm and hand up against the back of the students moving head.",
+                                "start_time": 25.46,
+                                "end_time": 31.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5ac2",
+                        "audio_description": "58e7cf3646e13dfd851a264d",
+                        "created_at": 20160817131150,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817131150,
+                        "file_name": "14714647104061.wav",
+                        "start_time": 100.175,
+                        "legacy_video_id": 2642,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23777,
+                        "video": "58e7cf2946e13dfd851a1e65",
+                        "end_time": 100.175,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 37.34,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44281da888c4bc7acb61c8",
+                                "sentence": " The student and woman move the calendar out of the way onto the table in front of them.",
+                                "start_time": 0.81,
+                                "end_time": 6.56
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61c7",
+                                "sentence": " The table has a colorful soft foam edge taped onto it.",
+                                "start_time": 6.89,
+                                "end_time": 11.4
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61c6",
+                                "sentence": " The woman releases the student's wrists, and the student repositioned himself in the chair.",
+                                "start_time": 11.69,
+                                "end_time": 17.35
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61c5",
+                                "sentence": " She holds her arm and hand up behind the students head",
+                                "start_time": 17.76,
+                                "end_time": 21.95
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61c4",
+                                "sentence": " said",
+                                "start_time": 21.95,
+                                "end_time": 22.8
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61c3",
+                                "sentence": " as he again moves it forward and backwards",
+                                "start_time": 23.12,
+                                "end_time": 26.4
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61c2",
+                                "sentence": " into her.",
+                                "start_time": 26.4,
+                                "end_time": 27.39
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61c1",
+                                "sentence": " He pushes her hand out of the way and grasps his wrists, moving his hands to his head,",
+                                "start_time": 27.92,
+                                "end_time": 35.05
+                            },
+                            {
+                                "_id": "5e44281da888c4bc7acb61c0",
+                                "sentence": " then down to his lap.",
+                                "start_time": 35.05,
+                                "end_time": 36.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5ac3",
+                        "audio_description": "58e7cf3646e13dfd851a264d",
+                        "created_at": 20160817131413,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817131413,
+                        "file_name": "14714648538261.wav",
+                        "start_time": 130.187,
+                        "legacy_video_id": 2642,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23778,
+                        "video": "58e7cf2946e13dfd851a1e65",
+                        "end_time": 130.187,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.9,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44223979f74cbc7c082c1a",
+                                "sentence": " The student pushes his head back at the woman several more times, and then slouches in his chair with his head bent over the back of the chair and his arms down his sides.",
+                                "start_time": 0.82,
+                                "end_time": 11.69
+                            },
+                            {
+                                "_id": "5e44223979f74cbc7c082c19",
+                                "sentence": " The woman runs her hands up and down his arms and rubs his hands.",
+                                "start_time": 11.85,
+                                "end_time": 17
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5ac4",
+                        "audio_description": "58e7cf3646e13dfd851a264d",
+                        "created_at": 20160817131535,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817131535,
+                        "file_name": "14714649349981.wav",
+                        "start_time": 150.023,
+                        "legacy_video_id": 2642,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23779,
+                        "video": "58e7cf2946e13dfd851a1e65",
+                        "end_time": 150.023,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44288dc26fa0bc796fd565",
+                                "sentence": " The student begins to move his head back and forth again, then sits up.",
+                                "start_time": 0.8,
+                                "end_time": 5.58
+                            },
+                            {
+                                "_id": "5e44288dc26fa0bc796fd564",
+                                "sentence": " The woman behind him continues to rub his hands as he moves around.",
+                                "start_time": 5.69,
+                                "end_time": 10.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5ac5",
+                        "audio_description": "58e7cf3646e13dfd851a264d",
+                        "created_at": 20160817131941,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160817131941,
+                        "file_name": "14714651814361.wav",
+                        "start_time": 194.304,
+                        "legacy_video_id": 2642,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23780,
+                        "video": "58e7cf2946e13dfd851a1e65",
+                        "end_time": 194.304,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44223b79f74cbc7c082c6d",
+                                "sentence": " The student begins to move his head back and forth and moving his chair,",
+                                "start_time": 1.06,
+                                "end_time": 5.88
+                            },
+                            {
+                                "_id": "5e44223b79f74cbc7c082c6c",
+                                "sentence": " resisting the woman trying to break her grip.",
+                                "start_time": 5.88,
+                                "end_time": 8.8
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a264d",
+                "status": "published",
+                "legacy_video_id": 2642,
+                "legacy_user_id": 3125,
+                "video": "58e7cf2946e13dfd851a1e65",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2637",
+                    "name": "Jhogan13",
+                    "google_user_id_token": "",
+                    "created_at": 20160504150811,
+                    "updated_at": 20160817114117,
+                    "legacy_user_id": 3125,
+                    "last_login": 0,
+                    "email": "Jhogan13@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e65",
+        "description": "",
+        "youtube_id": "U9Ots7t3_4g",
+        "views": 0,
+        "created_at": 20160817125100,
+        "title": "Calendar behavior trouble blur 4",
+        "legacy_video_id": 2642,
+        "updated_at": 20160817131941,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 200
+    }
+}

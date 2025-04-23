@@ -1,0 +1,98 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7bd2e715c8ca3ccf56d6c8",
+                        "video": "5d7bd1128302113cc4be5002",
+                        "audio_description": "5d7bd1128302113cc4be5001",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "Auto Tech Audio Description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 27.221333333333334,
+                        "duration": 27.221333333333334,
+                        "file_name": "1a7wwE952_E_5d7bd2e715c8ca3ccf56d6c8.wav",
+                        "file_size_bytes": 5226540,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/1a7wwE952_E",
+                        "created_at": 20190913173327,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51952d9a8b1f3b420811ad",
+                                "sentence": " Student works on enjoying teach watch as tax rates automotive technology skilled automotive technicians are in the driver's seat in today's job market porous mean skilled techs who can inspect maintain a repair cars and trucks",
+                                "start_time": 0,
+                                "end_time": 9.55
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b420811ac",
+                                "sentence": " bank. It's reading from a towline a car back tax rates careers you prepare for entry level service technician positions glennie trouble shooting preventive maintenance servicing repair and service writing.",
+                                "start_time": 9.55,
+                                "end_time": 18.21
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b420811ab",
+                                "sentence": " Two men read a computer screen tax rates length program and associate degree in 16 months or certificate in poem as little as four months.",
+                                "start_time": 18.21,
+                                "end_time": 23.88
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b420811aa",
+                                "sentence": " One makes adjustments under car where man holds light tax rates. You've got the.",
+                                "start_time": 23.88,
+                                "end_time": 27.18
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7bd1128302113cc4be5001",
+                "video": "5d7bd1128302113cc4be5002",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190913172538,
+                "updated_at": 20190913172538,
+                "notes": "A student works on an engine while teacher watches\r\nText reads:\r\nAutomotive Technology\r\nSkilled automotive technicians are in the drivers seat in today's job market. \r\nemployers need skilled techs who can inspect, maintain, and repair cars and trucks. \r\n\r\nA man gets readings from a tool while in a car bay. \r\nText reads:\r\nCareers \r\nYou'll be prepared for entry-level service technician positions, including:\r\ntroubleshooting, preventative maintenance, servicing and repair and service writing.\r\n\r\n2 men read a computer screen\r\nText reads:\r\nLength of program\r\nearn an associate degree in 16 months or certificate or diploma in as little as 4 months.\r\n\r\nA woman makes adjustments under a car while a man holds a light. \r\nText reads:\r\nYou've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Automotive Technology"
+        ],
+        "custom_tags": [],
+        "_id": "5d7bd1128302113cc4be5002",
+        "title": "Automotive Technology",
+        "description": "Information on the Automotive Technology program.",
+        "youtube_id": "1a7wwE952_E",
+        "created_at": 20190913172538,
+        "updated_at": 20190913173327,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

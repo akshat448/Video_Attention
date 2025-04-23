@@ -1,0 +1,88 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4646e13dfd851a31be",
+                        "audio_description": "58e7cf2d46e13dfd851a21e4",
+                        "created_at": 20140611065612,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140611065612,
+                        "file_name": "14024949727881.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1561,
+                        "legacy_user_id": 2288,
+                        "label": "",
+                        "legacy_audio_clip_id": 7567,
+                        "video": "58e7cf2846e13dfd851a1a2c",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e3",
+                        "transcript": [
+                            {
+                                "_id": "5e211d0c65f1f371b11fec5a",
+                                "sentence": " The scene is a field. In the four round, two peasants dig in the ground with sticks.",
+                                "start_time": 0.47,
+                                "end_time": 7.75
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21e4",
+                "status": "published",
+                "legacy_video_id": 1561,
+                "legacy_user_id": 2288,
+                "video": "58e7cf2846e13dfd851a1a2c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21e3",
+                    "name": "rfentres",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2288,
+                    "last_login": 0,
+                    "email": "rfentres@vt.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "monty",
+            "python",
+            "holy",
+            "grail",
+            "system",
+            "of",
+            "government"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a2c",
+        "description": "",
+        "youtube_id": "5Xd_zkMEgkI",
+        "views": 0,
+        "created_at": 20140611064929,
+        "title": "Monty Python and the Holy Grail",
+        "legacy_video_id": 1561,
+        "updated_at": 20140611070121,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 191
+    }
+}

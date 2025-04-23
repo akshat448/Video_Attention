@@ -1,0 +1,95 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5ca5",
+                        "audio_description": "58e7cf3546e13dfd851a25db",
+                        "created_at": 20160928231445,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160928231445,
+                        "file_name": "14751296859501.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2725,
+                        "legacy_user_id": 3021,
+                        "label": "",
+                        "legacy_audio_clip_id": 24430,
+                        "video": "58e7cf2946e13dfd851a1eb8",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3546e13dfd851a25a5",
+                        "transcript": [
+                            {
+                                "_id": "5e44243df8a7edbc7bf679c3",
+                                "sentence": " A preteen boy with light skin and curly brown hair sits with his legs crossed on the floor",
+                                "start_time": 0.92,
+                                "end_time": 6.56
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679c2",
+                                "sentence": " in a pair of colorful pajamas.",
+                                "start_time": 6.66,
+                                "end_time": 8.81
+                            },
+                            {
+                                "_id": "5e44243df8a7edbc7bf679c1",
+                                "sentence": " He behaves aggressively, throwing himself against the floor and punching himself in the jaw.",
+                                "start_time": 8.96,
+                                "end_time": 14.21
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3546e13dfd851a25db",
+                "status": "published",
+                "legacy_video_id": 2725,
+                "legacy_user_id": 3021,
+                "video": "58e7cf2946e13dfd851a1eb8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3546e13dfd851a25a5",
+                    "name": "amandama",
+                    "google_user_id_token": "",
+                    "created_at": 20160105095052,
+                    "updated_at": 20161010110119,
+                    "legacy_user_id": 3021,
+                    "last_login": 0,
+                    "email": "amallen11@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Module 23",
+            "Behavior"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1eb8",
+        "description": "",
+        "youtube_id": "r1OJ14e6EMQ",
+        "views": 0,
+        "created_at": 20160928231330,
+        "title": "MVI 3628 - Eddie behaving",
+        "legacy_video_id": 2725,
+        "updated_at": 20160928231445,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 8
+    }
+}

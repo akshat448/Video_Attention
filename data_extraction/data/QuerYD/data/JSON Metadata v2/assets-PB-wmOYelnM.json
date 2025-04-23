@@ -1,0 +1,120 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4446e13dfd851a2fd1",
+                        "audio_description": "58e7cf2d46e13dfd851a21c2",
+                        "created_at": 20140515110856,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140515110856,
+                        "file_name": "14001773363781.wav",
+                        "start_time": 4.181,
+                        "legacy_video_id": 1521,
+                        "legacy_user_id": 2255,
+                        "label": "",
+                        "legacy_audio_clip_id": 6756,
+                        "video": "58e7cf2846e13dfd851a1a05",
+                        "end_time": 8.271,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21c1",
+                        "transcript": [
+                            {
+                                "_id": "5e1fc5af3056888db080c4e1",
+                                "sentence": " The muppet looks suspiciously from side to side, then makes its closing the door.",
+                                "start_time": 0,
+                                "end_time": 4.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4446e13dfd851a2fd9",
+                        "audio_description": "58e7cf2d46e13dfd851a21c2",
+                        "created_at": 20140515111305,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140515111305,
+                        "file_name": "14001775856051.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1521,
+                        "legacy_user_id": 2255,
+                        "label": "",
+                        "legacy_audio_clip_id": 6767,
+                        "video": "58e7cf2846e13dfd851a1a05",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21c1",
+                        "transcript": [
+                            {
+                                "_id": "5e1fc4f179f3448daf3d5098",
+                                "sentence": " A door opens, and a muppet sam, the eagle enters.",
+                                "start_time": 0,
+                                "end_time": 3.04
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21c2",
+                "status": "published",
+                "legacy_video_id": 1521,
+                "legacy_user_id": 2255,
+                "video": "58e7cf2846e13dfd851a1a05",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21c1",
+                    "name": "mduigou",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2255,
+                    "last_login": 0,
+                    "email": "youdescribe@duigou.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Muppets",
+            "Sam",
+            "the",
+            "Eagle",
+            "Great",
+            "Muppet",
+            "Caper",
+            "Jim",
+            "Henson",
+            "Vaughn",
+            "Michael"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a05",
+        "description": "",
+        "youtube_id": "PB-wmOYelnM",
+        "views": 0,
+        "created_at": 20140515105942,
+        "title": "Sam the Eagle \"You Are All Weirdos!\"",
+        "legacy_video_id": 1521,
+        "updated_at": 20140515111347,
+        "youtube_status": "available",
+        "category": "Comedy",
+        "category_id": "23",
+        "duration": 7
+    }
+}

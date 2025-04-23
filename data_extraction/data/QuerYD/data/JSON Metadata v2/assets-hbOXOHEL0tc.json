@@ -1,0 +1,94 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ea997484c8fed2f0ed8587f",
+                        "video": "5ea85e9d4c8fed2f0ed8585e",
+                        "audio_description": "5ea85e9d4c8fed2f0ed8585d",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "CSU logo",
+                        "playback_type": "extended",
+                        "start_time": 114.03981,
+                        "end_time": 114.03981,
+                        "duration": 4.522666666666667,
+                        "file_name": "hbOXOHEL0tc_5ea997484c8fed2f0ed8587f.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/hbOXOHEL0tc",
+                        "created_at": 20200429150336,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5ea99a22e1b8b12f0893d852",
+                        "video": "5ea85e9d4c8fed2f0ed8585e",
+                        "audio_description": "5ea85e9d4c8fed2f0ed8585d",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "description",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 11.434666666666667,
+                        "file_name": "hbOXOHEL0tc_5ea99a22e1b8b12f0893d852.wav",
+                        "file_size_bytes": 2195500,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/hbOXOHEL0tc",
+                        "created_at": 20200429151546,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5ea85e9d4c8fed2f0ed8585d",
+                "video": "5ea85e9d4c8fed2f0ed8585e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e9f7a4d84f1bb7886752425",
+                    "email": "chhsad201@gmail.com",
+                    "name": "CHHS AD201",
+                    "given_name": "CHHS",
+                    "picture": "https://lh5.googleusercontent.com/-JpwQdP332ew/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOjaGw_XfdNe6Y3TML0kj8gdNHJZA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111438173098375409345",
+                    "last_login": 20201014163508,
+                    "token": "8b25ee0df1dcdee4a1c94ede45a3e8475678aa3b10c76fbf6ea8097a75608fa7",
+                    "__v": 0,
+                    "updated_at": 20201014163508,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200428164933,
+                "updated_at": 20200428164933,
+                "notes": "Scenes switch between Tein Tran speaking to the camera and footage of her training an adult in certain exercises\nTein has long brown hair and is wearing a pink and white blouse \n\n\nHealth and exercise science\ncolorado state university",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "career in health promotion",
+            "health promotion and wellness courses",
+            "health and exercise science",
+            "Colorado State University"
+        ],
+        "custom_tags": [],
+        "_id": "5ea85e9d4c8fed2f0ed8585e",
+        "title": "Student Feature: Tien Tran, Health Promotion",
+        "description": "The Health Promotion concentration prepares students for numerous careers in the field of health promotion and wellness. Students completing this program select careers in corporate wellness, health clubs, and hospital, university, military, and insurance health promotion settings.\n\nLearn more: http://www.hes.chhs.colostate.edu/students/undergraduate/index.aspx",
+        "youtube_id": "hbOXOHEL0tc",
+        "created_at": 20200428164933,
+        "updated_at": 20200429151546,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 117
+    }
+}

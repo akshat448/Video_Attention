@@ -1,0 +1,126 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59b9c55ec6c4802622d9c0d8",
+                        "video": "59b9c55ec6c4802622d9c0da",
+                        "audio_description": "59b9c55ec6c4802622d9c0d9",
+                        "user": "59b9c2bdc6c4802622d9c0ce",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 6.51286,
+                        "end_time": 6.51286,
+                        "duration": 15.046530612244897,
+                        "file_name": "WH50zXiSVPg_59b9c55ec6c4802622d9c0d8.wav",
+                        "file_size_bytes": 2654252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/WH50zXiSVPg",
+                        "created_at": 20170913235510,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc75bcae6a999b3850b66",
+                                "sentence": " A graph compared employment for disabled and non disabled americans.",
+                                "start_time": 0.59,
+                                "end_time": 4.51
+                            },
+                            {
+                                "_id": "5e4cc75bcae6a999b3850b65",
+                                "sentence": " 19 91 50 point 2% of the disabled population were employed,",
+                                "start_time": 4.53,
+                                "end_time": 8.98
+                            },
+                            {
+                                "_id": "5e4cc75bcae6a999b3850b64",
+                                "sentence": " and 84.4% of the non disabled population were employed.",
+                                "start_time": 8.98,
+                                "end_time": 12.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59b9c5a7c6c4802622d9c0dc",
+                        "video": "59b9c55ec6c4802622d9c0da",
+                        "audio_description": "59b9c55ec6c4802622d9c0d9",
+                        "user": "59b9c2bdc6c4802622d9c0ce",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 14.104473,
+                        "end_time": 14.104473,
+                        "duration": 11.517097505668934,
+                        "file_name": "WH50zXiSVPg_59b9c5a7c6c4802622d9c0dc.wav",
+                        "file_size_bytes": 2031660,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/WH50zXiSVPg",
+                        "created_at": 20170913235623,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc9e1a9ec2e99b2fb3f4a",
+                                "sentence": " And In 2010, 41.1% of the disabled population were employed.",
+                                "start_time": 0.49,
+                                "end_time": 5.39
+                            },
+                            {
+                                "_id": "5e4cc9e1a9ec2e99b2fb3f49",
+                                "sentence": " And 79.1% of the non disabled population were employed.",
+                                "start_time": 5.39,
+                                "end_time": 9.39
+                            },
+                            {
+                                "_id": "5e4cc9e1a9ec2e99b2fb3f48",
+                                "sentence": " Oh!",
+                                "start_time": 9.99,
+                                "end_time": 11.16
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59b9c55ec6c4802622d9c0d9",
+                "video": "59b9c55ec6c4802622d9c0da",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59b9c2bdc6c4802622d9c0ce",
+                    "email": "moo1117@gmail.com",
+                    "name": "Youjin Nam",
+                    "given_name": "Youjin",
+                    "picture": "https://lh4.googleusercontent.com/-bZBSOBD6u44/AAAAAAAAAAI/AAAAAAAAeto/6M0Z-JxCBkQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "112843837531045935594",
+                    "last_login": 20170913234357,
+                    "token": "a747332c29f1b99f8e51bb8a6aa2c1b01d6f9f0e596344e64f33bd49eec05de3",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170913235510,
+                "updated_at": 20170913235510,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59b9c55ec6c4802622d9c0da",
+        "title": "employment movie",
+        "description": "",
+        "youtube_id": "WH50zXiSVPg",
+        "created_at": 20170913235510,
+        "updated_at": 20170913235623,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

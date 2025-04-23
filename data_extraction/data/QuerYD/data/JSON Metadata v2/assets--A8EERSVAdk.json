@@ -1,0 +1,98 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5a6e",
+                        "audio_description": "58e7cf3646e13dfd851a263f",
+                        "created_at": 20160718133809,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160718133809,
+                        "file_name": "14688742895581.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2626,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23659,
+                        "video": "58e7cf2946e13dfd851a1e55",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 16.11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e442700c26fa0bc796fd40d",
+                                "sentence": " An animation of three people on a slide. At the Top of the slide is a young girl sitting ready to slide down behind her, his an adult.",
+                                "start_time": 0.19,
+                                "end_time": 8.31
+                            },
+                            {
+                                "_id": "5e442700c26fa0bc796fd40c",
+                                "sentence": " And at the end of the slide as an adult,",
+                                "start_time": 8.31,
+                                "end_time": 10.5
+                            },
+                            {
+                                "_id": "5e442700c26fa0bc796fd40b",
+                                "sentence": " the adult at the Top of the slide pushes the girl down the slide, and the adult at the bottom catches her.",
+                                "start_time": 10.8,
+                                "end_time": 16.04
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a263f",
+                "status": "published",
+                "legacy_video_id": 2626,
+                "legacy_user_id": 3125,
+                "video": "58e7cf2946e13dfd851a1e55",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2637",
+                    "name": "Jhogan13",
+                    "google_user_id_token": "",
+                    "created_at": 20160504150811,
+                    "updated_at": 20160817114117,
+                    "legacy_user_id": 3125,
+                    "last_login": 0,
+                    "email": "Jhogan13@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "OHOA learning modules",
+            "ride the slide",
+            "communication",
+            "deaf-blind",
+            "interveners"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e55",
+        "description": "",
+        "youtube_id": "-A8EERSVAdk",
+        "views": 0,
+        "created_at": 20160718132244,
+        "title": "RideTheSlide01 - Module 6",
+        "legacy_video_id": 2626,
+        "updated_at": 20160718133815,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 4
+    }
+}

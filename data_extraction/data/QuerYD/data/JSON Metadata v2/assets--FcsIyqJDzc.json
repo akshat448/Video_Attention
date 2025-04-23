@@ -1,0 +1,166 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4646e13dfd851a3215",
+                        "audio_description": "58e7cf2d46e13dfd851a21db",
+                        "created_at": 20140718113630,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140718113630,
+                        "file_name": "14057085901681.wav",
+                        "start_time": 16.567,
+                        "legacy_video_id": 1585,
+                        "legacy_user_id": 2246,
+                        "label": "",
+                        "legacy_audio_clip_id": 7758,
+                        "video": "58e7cf2846e13dfd851a1a44",
+                        "end_time": 25.777,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21da",
+                        "transcript": [
+                            {
+                                "_id": "5e2118f083aed771afad1e5c",
+                                "sentence": " The yeah smaller golden retriever is making uh sounds. Whining sounds, and now gets up.",
+                                "start_time": 0.29,
+                                "end_time": 7.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a3216",
+                        "audio_description": "58e7cf2d46e13dfd851a21db",
+                        "created_at": 20140718113724,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140718113724,
+                        "file_name": "14057086444491.wav",
+                        "start_time": 41.5,
+                        "legacy_video_id": 1585,
+                        "legacy_user_id": 2246,
+                        "label": "",
+                        "legacy_audio_clip_id": 7759,
+                        "video": "58e7cf2846e13dfd851a1a44",
+                        "end_time": 47.89,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21da",
+                        "transcript": [
+                            {
+                                "_id": "5e211ad5ccb66271b021c8a6",
+                                "sentence": " The The baby golden tears now focuses back on the mother and.",
+                                "start_time": 0.27,
+                                "end_time": 5.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4646e13dfd851a3217",
+                        "audio_description": "58e7cf2d46e13dfd851a21db",
+                        "created_at": 20140718114423,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20140718114423,
+                        "file_name": "14057090635751.wav",
+                        "start_time": 6.367,
+                        "legacy_video_id": 1585,
+                        "legacy_user_id": 2246,
+                        "label": "",
+                        "legacy_audio_clip_id": 7760,
+                        "video": "58e7cf2846e13dfd851a1a44",
+                        "end_time": 24.017,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21da",
+                        "transcript": [
+                            {
+                                "_id": "5e2118f083aed771afad1ece",
+                                "sentence": " This is a video of a golden retriever and a a baby golden retriever",
+                                "start_time": 0.14,
+                                "end_time": 6.14
+                            },
+                            {
+                                "_id": "5e2118f083aed771afad1ecd",
+                                "sentence": " lying on the floor,",
+                                "start_time": 6.25,
+                                "end_time": 7.68
+                            },
+                            {
+                                "_id": "5e2118f083aed771afad1ecc",
+                                "sentence": " cherie,",
+                                "start_time": 8.01,
+                                "end_time": 9.17
+                            },
+                            {
+                                "_id": "5e2118f083aed771afad1ecb",
+                                "sentence": " stop",
+                                "start_time": 9.17,
+                                "end_time": 10
+                            },
+                            {
+                                "_id": "5e2118f083aed771afad1eca",
+                                "sentence": " and",
+                                "start_time": 11.65,
+                                "end_time": 13.56
+                            },
+                            {
+                                "_id": "5e2118f083aed771afad1ec9",
+                                "sentence": " I didn't stop. I wanted to pause.",
+                                "start_time": 14.33,
+                                "end_time": 17.12
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21db",
+                "status": "published",
+                "legacy_video_id": 1585,
+                "legacy_user_id": 2246,
+                "video": "58e7cf2846e13dfd851a1a44",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21da",
+                    "name": "Patricktimony",
+                    "google_user_id_token": "",
+                    "created_at": 20140424170358,
+                    "updated_at": 20140731142753,
+                    "legacy_user_id": 2246,
+                    "last_login": 0,
+                    "email": "Patrick.timony@dc.gov",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a44",
+        "description": "",
+        "youtube_id": "-FcsIyqJDzc",
+        "views": 0,
+        "created_at": 20140718112007,
+        "title": "Puppy Golden Retriever Comforts Older Dog During Nightmare",
+        "legacy_video_id": 1585,
+        "updated_at": 20140718114637,
+        "youtube_status": "available",
+        "category": "Pets & Animals",
+        "category_id": "15",
+        "duration": 55
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5bd8fd4544b0f3748fe831ac",
+                        "video": "5bd7db4113c80974c163c5f8",
+                        "audio_description": "5bd7db4113c80974c163c5f7",
+                        "user": "5bd7d88844b0f3748fe831a8",
+                        "label": "Audio Description 1",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 10.325333333333333,
+                        "duration": 10.325333333333333,
+                        "file_name": "cEx5bSYJxtg_5bd8fd4544b0f3748fe831ac.wav",
+                        "file_size_bytes": 1982508,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cEx5bSYJxtg",
+                        "created_at": 20181031005429,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1764a918b91efc60c48d2c",
+                                "sentence": " Hurricane Michael has obliterated a panama city high school.",
+                                "start_time": 2.68,
+                                "end_time": 6.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bd8fdb313c80974c163c5fd",
+                        "video": "5bd7db4113c80974c163c5f8",
+                        "audio_description": "5bd7db4113c80974c163c5f7",
+                        "user": "5bd7d88844b0f3748fe831a8",
+                        "label": "Audio Description 2",
+                        "playback_type": "inline",
+                        "start_time": 18.203654,
+                        "end_time": 40.64632066666667,
+                        "duration": 22.442666666666668,
+                        "file_name": "cEx5bSYJxtg_5bd8fdb313c80974c163c5fd.wav",
+                        "file_size_bytes": 4309036,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cEx5bSYJxtg",
+                        "created_at": 20181031005619,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1764a918b91efc60c48d37",
+                                "sentence": " The side of the gym at the high school has been ripped and torn apart from the building.",
+                                "start_time": 2.88,
+                                "end_time": 7.6
+                            },
+                            {
+                                "_id": "5e1764a918b91efc60c48d36",
+                                "sentence": " Inside, remnants of the basketball court and volleyball court can be seen scattered across the ground.",
+                                "start_time": 7.6,
+                                "end_time": 13.91
+                            },
+                            {
+                                "_id": "5e1764a918b91efc60c48d35",
+                                "sentence": " Fallen debris lies everywhere",
+                                "start_time": 14.93,
+                                "end_time": 17.43
+                            },
+                            {
+                                "_id": "5e1764a918b91efc60c48d34",
+                                "sentence": " on the floor.",
+                                "start_time": 17.43,
+                                "end_time": 18.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bd8fdd913c80974c163c5fe",
+                        "video": "5bd7db4113c80974c163c5f8",
+                        "audio_description": "5bd7db4113c80974c163c5f7",
+                        "user": "5bd7d88844b0f3748fe831a8",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 40.571418,
+                        "end_time": 65.31808466666666,
+                        "duration": 24.746666666666666,
+                        "file_name": "cEx5bSYJxtg_5bd8fdd913c80974c163c5fe.wav",
+                        "file_size_bytes": 4751404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cEx5bSYJxtg",
+                        "created_at": 20181031005657,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1764a918b91efc60c48cd8",
+                                "sentence": " A classroom has been separated and crushed by fallen debris,",
+                                "start_time": 1.63,
+                                "end_time": 5.34
+                            },
+                            {
+                                "_id": "5e1764a918b91efc60c48cd7",
+                                "sentence": " and the remaining buildings are surrounded by piles of what was the school.",
+                                "start_time": 5.34,
+                                "end_time": 10.06
+                            },
+                            {
+                                "_id": "5e1764a918b91efc60c48cd6",
+                                "sentence": " The school is almost unrecognizable and looks like some kind of post apocalyptic wasteland.",
+                                "start_time": 10.33,
+                                "end_time": 16.1
+                            },
+                            {
+                                "_id": "5e1764a918b91efc60c48cd5",
+                                "sentence": " A banning cars are left unattended in the parking lot, and what is left of buildings is only scrap metal.",
+                                "start_time": 17.98,
+                                "end_time": 23.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5bd8fdfa13c80974c163c5ff",
+                        "video": "5bd7db4113c80974c163c5f8",
+                        "audio_description": "5bd7db4113c80974c163c5f7",
+                        "user": "5bd7d88844b0f3748fe831a8",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 86.84812500000001,
+                        "end_time": 96.23479166666668,
+                        "duration": 9.386666666666667,
+                        "file_name": "cEx5bSYJxtg_5bd8fdfa13c80974c163c5ff.wav",
+                        "file_size_bytes": 1802284,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/cEx5bSYJxtg",
+                        "created_at": 20181031005730,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1764a918b91efc60c48d3c",
+                                "sentence": " Hurricane Michael has left this goal in ruined,",
+                                "start_time": 0.93,
+                                "end_time": 3.96
+                            },
+                            {
+                                "_id": "5e1764a918b91efc60c48d3b",
+                                "sentence": " and only time will tell if the people of panama city will be able to rebuild.",
+                                "start_time": 3.96,
+                                "end_time": 8.4
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5bd7db4113c80974c163c5f7",
+                "video": "5bd7db4113c80974c163c5f8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5bd7d88844b0f3748fe831a8",
+                    "email": "mv.jrodrik@students.srvusd.net",
+                    "name": "Jon Rodrik",
+                    "given_name": "Jon",
+                    "picture": "https://lh4.googleusercontent.com/-stnnK2L5ETs/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbCI5Pe8paW2Y0p-UrT9BlVMEQOS8w/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "106019343674774504515",
+                    "last_login": 20200323175434,
+                    "token": "ad541b62616bc8089201df25a7ff538b1659c7ad9555e0c4ea09e01cb9f37f9c",
+                    "__v": 0,
+                    "updated_at": 20200323175434,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181030041705,
+                "updated_at": 20190131062400,
+                "notes": "Hurricane Michael has obliterated a Panama City High School. The side of the gym at the high school has been ripped and torn apart from the building. Inside, remnants of the basketball court can be seen scattered across the ground. A classroom has been separated and crushed by fallen debris, and the remaining buildings are surrounded by piles of what was the school. Abandoned cars are left unattended in the parking lots, and what is left of buildings is only scrap metal. Hurricane Michael has left this school in ruins, and only time will tell if the people will be able to rebuild.",
+                "__v": 0,
+                "overall_rating_average": 3,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 3,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "video",
+            "cbs",
+            "news",
+            "category 5",
+            "hurricane",
+            "michael",
+            "storm",
+            "dangerous",
+            "death",
+            "destruction"
+        ],
+        "custom_tags": [],
+        "_id": "5bd7db4113c80974c163c5f8",
+        "title": "Hurricane Michael obliterates Panama City high school",
+        "description": "Hurricane Michael was the most powerful hurricane on record to hit the Florida Panhandle. The borderline Category 5 storm left a trail of unprecedented destruction. So far, Michael is blamed for at least two deaths.\n\nSubscribe to the \"CBS This Morning\" Channel HERE: http://bit.ly/1Q0v2hE\nWatch \"CBS This Morning\" HERE: http://bit.ly/1T88yAR\nWatch the latest installment of \"Note to Self,\" only on \"CBS This Morning,\" HERE: http://cbsn.ws/1Sh8XlB\nFollow \"CBS This Morning\" on Instagram HERE: http://bit.ly/1Q7NGnY\nLike \"CBS This Morning\" on Facebook HERE: http://on.fb.me/1LhtdvI\nFollow \"CBS This Morning\" on Twitter HERE: http://bit.ly/1Xj5W3p\nFollow \"CBS This Morning\" on Google+ HERE: http://bit.ly/1SIM4I8\n\nGet the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T\n\nGet your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8\n\nGet new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B\n\n\nDelivered by Norah O\u2019Donnell and Gayle King, \"CBS This Morning\" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for \"CBS This Morning\" broadcast times.",
+        "youtube_id": "cEx5bSYJxtg",
+        "created_at": 20181030041705,
+        "updated_at": 20181031005730,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "News & Politics",
+        "category_id": "25",
+        "duration": 106
+    }
+}

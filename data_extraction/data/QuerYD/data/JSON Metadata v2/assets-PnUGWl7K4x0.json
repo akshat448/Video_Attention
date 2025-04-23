@@ -1,0 +1,1790 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6146e13dfd851a47bd",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917165720,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917165720,
+                        "file_name": "14425342406531.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15702,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab954108b490da613b2c0",
+                                "sentence": " This is a photomontage interspersed with written statements.",
+                                "start_time": 0.53,
+                                "end_time": 4.44
+                            },
+                            {
+                                "_id": "5e3ab954108b490da613b2bf",
+                                "sentence": " Blueprint on a black background reads charge syndrome.",
+                                "start_time": 4.44,
+                                "end_time": 8.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47be",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917165818,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917165818,
+                        "file_name": "14425342986831.wav",
+                        "start_time": 8.346,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15703,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 8.346,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba07c648ec0da79cd65d",
+                                "sentence": " White print on a black background reads",
+                                "start_time": 0.96,
+                                "end_time": 3.78
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd65c",
+                                "sentence": " charge occurs in different severity is ranging from mild to severe.",
+                                "start_time": 3.78,
+                                "end_time": 8.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47bf",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917170830,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917170830,
+                        "file_name": "14425349103191.wav",
+                        "start_time": 12.257,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15709,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 12.257,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab954108b490da613b2d0",
+                                "sentence": " An adult female poses with a teenage girl. They are both smiling and wearing name tags and matching t shirts.",
+                                "start_time": 0,
+                                "end_time": 6.87
+                            },
+                            {
+                                "_id": "5e3ab954108b490da613b2cf",
+                                "sentence": " The adults name cindy crew cell is visible on her name tag.",
+                                "start_time": 6.87,
+                                "end_time": 10.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47c0",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917170923,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917170923,
+                        "file_name": "14425349635711.wav",
+                        "start_time": 19.745,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15710,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 19.745,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 18.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc98",
+                                "sentence": " A young boy sits on a grassy field beneath a large colourful parachute. He is wearing a red cap, a red shirt and black shorts.",
+                                "start_time": 0.11,
+                                "end_time": 8.71
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc97",
+                                "sentence": " He has a name tag on his shirt,",
+                                "start_time": 8.71,
+                                "end_time": 10.64
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc96",
+                                "sentence": " but his name is not visible. Next, an adult female guides and other young boy to grace the outside handle of the same parachute.",
+                                "start_time": 10.64,
+                                "end_time": 18.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47c1",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917171002,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917171002,
+                        "file_name": "14425350022401.wav",
+                        "start_time": 29.648,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15711,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 29.648,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab953108b490da613b2ae",
+                                "sentence": " A young boy neal's in a grassy field, reaching out to fill the bubbles that a slightly older girl is blowing towards him.",
+                                "start_time": 1.02,
+                                "end_time": 8.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47c2",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917171104,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917171104,
+                        "file_name": "14425350642951.wav",
+                        "start_time": 33.845,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15712,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 33.845,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abe41108b490da613b335",
+                                "sentence": " A young toddler plays on the floor with an elmo doll behind him. Someone sits in a chair, their faces not captured by the camera.",
+                                "start_time": 0.41,
+                                "end_time": 8.59
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47c3",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917171512,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917171512,
+                        "file_name": "14425353120281.wav",
+                        "start_time": 40.978,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15713,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 40.978,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 18.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4ec",
+                                "sentence": " An adult female pushes a boy in wheelchair.",
+                                "start_time": 1.23,
+                                "end_time": 4.32
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4eb",
+                                "sentence": " A young girl is standing a few feet away and to the left of them",
+                                "start_time": 4.32,
+                                "end_time": 8.06
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4ea",
+                                "sentence": " walking towards them.",
+                                "start_time": 8.06,
+                                "end_time": 9.64
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4e9",
+                                "sentence": " Next, a young girl wearing a pink shirt lays on a sheet on the floor and is covered with a blanket.",
+                                "start_time": 9.99,
+                                "end_time": 16.35
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4e8",
+                                "sentence": " She stares up at the camera.",
+                                "start_time": 16.35,
+                                "end_time": 18.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47c4",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917171720,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917171720,
+                        "file_name": "14425354409151.wav",
+                        "start_time": 50.425,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15714,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 50.425,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 29.41,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abbad108b490da613b312",
+                                "sentence": " A young girl dressed in pink sits on a cement sidewalk and holds talk in her left hand",
+                                "start_time": 0.97,
+                                "end_time": 6.59
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b311",
+                                "sentence": " directly across from her. Since a female teenager,",
+                                "start_time": 6.76,
+                                "end_time": 9.94
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b310",
+                                "sentence": " they are looking at each other and touching hands.",
+                                "start_time": 9.94,
+                                "end_time": 12.87
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b30f",
+                                "sentence": " Next, a young boy dressed in a white POLO shirt stands smiling and posing for the camera.",
+                                "start_time": 13.04,
+                                "end_time": 19.16
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b30e",
+                                "sentence": " Two individuals are standing close by in the background. We cannot see their faces above. His head is typed in white print.",
+                                "start_time": 19.16,
+                                "end_time": 27.05
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b30d",
+                                "sentence": " Hello, I'm erin.",
+                                "start_time": 27.05,
+                                "end_time": 29.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47c5",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917171846,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917171846,
+                        "file_name": "14425355264241.wav",
+                        "start_time": 59.162,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15716,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 59.162,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe53b",
+                                "sentence": " Blueprint on a black background reads.",
+                                "start_time": 1.06,
+                                "end_time": 3.8
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe53a",
+                                "sentence": " And I have charge syndrome",
+                                "start_time": 3.8,
+                                "end_time": 5.82
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe539",
+                                "sentence": " airiness pictured standing between a male and a female adult. They are leaning against a short wooden and metal fence.",
+                                "start_time": 5.96,
+                                "end_time": 12.99
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe538",
+                                "sentence": " Behind them is a fountain that is shooting many thin streams of water up into the air.",
+                                "start_time": 12.99,
+                                "end_time": 18.16
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe537",
+                                "sentence": " Yellow print at the bottom of the photo reads. This is my mom and dad.",
+                                "start_time": 18.16,
+                                "end_time": 22.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47c6",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917172042,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917172042,
+                        "file_name": "14425356421111.wav",
+                        "start_time": 80.211,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15717,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 80.211,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.72,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abd67a2079a0da87fe4ef",
+                                "sentence": " Aaron is pictured as an infant laying on his back on a quilt",
+                                "start_time": 0.82,
+                                "end_time": 4.86
+                            },
+                            {
+                                "_id": "5e3abd67a2079a0da87fe4ee",
+                                "sentence": " surrounded by toys. He is staring into the camera with one hand extended like he is waving.",
+                                "start_time": 4.86,
+                                "end_time": 10.89
+                            },
+                            {
+                                "_id": "5e3abd67a2079a0da87fe4ed",
+                                "sentence": " The next screen shows pink print on a black background that reads, I had a feeding tube from 11 months old until July of 2008.",
+                                "start_time": 11.08,
+                                "end_time": 20.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47c7",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917172300,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917172300,
+                        "file_name": "14425357808481.wav",
+                        "start_time": 89.672,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15718,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 89.672,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abbad108b490da613b2ec",
+                                "sentence": " Aaron seated in an infant chair and has been fed through a feeding tube by an adult female.",
+                                "start_time": 0.93,
+                                "end_time": 6.71
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b2eb",
+                                "sentence": " Next, aaron is pictured around one years of age, sitting on a sofa, smiling and wearing a green hoodie.",
+                                "start_time": 7.09,
+                                "end_time": 14.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47c8",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917172329,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917172329,
+                        "file_name": "14425358093071.wav",
+                        "start_time": 101.282,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15719,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 101.282,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac153d8af910da52dfd53",
+                                "sentence": " Aaron, now a toddler with light blond hair, sits on a couch wearing a white shirt and blue shorts with suspenders",
+                                "start_time": 0.5,
+                                "end_time": 7.68
+                            },
+                            {
+                                "_id": "5e3ac153d8af910da52dfd52",
+                                "sentence": " made out of the same blue material.",
+                                "start_time": 7.68,
+                                "end_time": 9.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47c9",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917172527,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917172527,
+                        "file_name": "14425359272361.wav",
+                        "start_time": 108.169,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15720,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 108.169,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 25.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4a7",
+                                "sentence": " Aaron, as a young child, stands in a kitchen",
+                                "start_time": 0.56,
+                                "end_time": 3.48
+                            },
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4a6",
+                                "sentence": " and stacks cans on Top of each other to form a tower.",
+                                "start_time": 3.48,
+                                "end_time": 6.93
+                            },
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4a5",
+                                "sentence": " He is reaching out, placing a can on Top of the tower, which is taller than he is.",
+                                "start_time": 6.93,
+                                "end_time": 11.96
+                            },
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4a4",
+                                "sentence": " Next. Aaron rides on a brown horse. His father stands beside him with one hand on his leg and the other on the saddle.",
+                                "start_time": 11.96,
+                                "end_time": 18.97
+                            },
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4a3",
+                                "sentence": " Then he sits at a table with a birthday cake in front of him.",
+                                "start_time": 19.16,
+                                "end_time": 22.62
+                            },
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4a2",
+                                "sentence": " There are seven lit candles on the birthday cake.",
+                                "start_time": 22.62,
+                                "end_time": 25.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47ca",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917172649,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917172649,
+                        "file_name": "14425360095421.wav",
+                        "start_time": 121.004,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15721,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 121.004,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.9,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba06c648ec0da79cd625",
+                                "sentence": " Aaron is pictured on a playground wearing a green shirt that has a brown m on it.",
+                                "start_time": 0.45,
+                                "end_time": 5.08
+                            },
+                            {
+                                "_id": "5e3aba06c648ec0da79cd624",
+                                "sentence": " There are several other children wearing the same shirt playing beside and around him.",
+                                "start_time": 5.08,
+                                "end_time": 9.93
+                            },
+                            {
+                                "_id": "5e3aba06c648ec0da79cd623",
+                                "sentence": " He and another boy who is standing next to him are reaching up to hold onto a metal bar",
+                                "start_time": 9.99,
+                                "end_time": 15.57
+                            },
+                            {
+                                "_id": "5e3aba06c648ec0da79cd622",
+                                "sentence": " and looks like they're trying to do chin UPS.",
+                                "start_time": 15.57,
+                                "end_time": 17.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47cb",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917172706,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917172706,
+                        "file_name": "14425360261531.wav",
+                        "start_time": 128.236,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15722,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 128.236,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba06c648ec0da79cd63d",
+                                "sentence": " Aaron sits in a classroom at a desk, writing on a piece of paper.",
+                                "start_time": 0.45,
+                                "end_time": 4.3
+                            },
+                            {
+                                "_id": "5e3aba06c648ec0da79cd63c",
+                                "sentence": " In the desk. To his right sits a female student also working.",
+                                "start_time": 4.37,
+                                "end_time": 8.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47cc",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917172846,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917172846,
+                        "file_name": "14425361268791.wav",
+                        "start_time": 132.081,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15723,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 132.081,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe5a7",
+                                "sentence": " Air and blows bubbles outside. Several other children wearing the same shirt as aaron are also blowing bubbles.",
+                                "start_time": 0.5,
+                                "end_time": 7.47
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe5a6",
+                                "sentence": " There are three adult females pictured in the background.",
+                                "start_time": 7.47,
+                                "end_time": 10.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47cd",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917172919,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917172919,
+                        "file_name": "14425361589761.wav",
+                        "start_time": 136.893,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15724,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 136.893,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab954108b490da613b2cc",
+                                "sentence": " Has pictured in a pool with a female adult.",
+                                "start_time": 0,
+                                "end_time": 2.67
+                            },
+                            {
+                                "_id": "5e3ab954108b490da613b2cb",
+                                "sentence": " He wears sunglasses and as using an inflatable ring or float",
+                                "start_time": 2.67,
+                                "end_time": 6.7
+                            },
+                            {
+                                "_id": "5e3ab954108b490da613b2ca",
+                                "sentence": " above him,",
+                                "start_time": 6.74,
+                                "end_time": 8.09
+                            },
+                            {
+                                "_id": "5e3ab954108b490da613b2c9",
+                                "sentence": " white print reads. I'd like to do the same things you do.",
+                                "start_time": 8.09,
+                                "end_time": 12.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47ce",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917172958,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917172958,
+                        "file_name": "14425361987871.wav",
+                        "start_time": 142.973,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15725,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 142.973,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe5a0",
+                                "sentence": " Aaron sits next to an adult mel in a large red metal go kart. They are both wearing seat belts and have on white helmets.",
+                                "start_time": 0,
+                                "end_time": 7.79
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe59f",
+                                "sentence": " Next aaron is plain tee ball. He wears white pants and orange shirt and a red helmet.",
+                                "start_time": 7.79,
+                                "end_time": 13.63
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe59e",
+                                "sentence": " He is pictured in the act of hitting the ball off of the tee ball stand.",
+                                "start_time": 13.63,
+                                "end_time": 17.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47cf",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917173233,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917173233,
+                        "file_name": "14425363535601.wav",
+                        "start_time": 155.513,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15727,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 155.513,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe56d",
+                                "sentence": " Aaron rides a roller coaster with many other individuals. Above the photo. White print reads.",
+                                "start_time": 0.53,
+                                "end_time": 6.48
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe56c",
+                                "sentence": " I love roller coasters",
+                                "start_time": 6.48,
+                                "end_time": 8.38
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe56b",
+                                "sentence": " next",
+                                "start_time": 8.38,
+                                "end_time": 9.32
+                            },
+                            {
+                                "_id": "5e3ac1a5a2079a0da87fe56a",
+                                "sentence": " black bubble letter. Print on a blue background reads that go upside down.",
+                                "start_time": 9.32,
+                                "end_time": 14.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47d0",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917173322,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917173322,
+                        "file_name": "14425364023301.wav",
+                        "start_time": 163.028,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15728,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 163.028,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.2,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfcb9",
+                                "sentence": " A photograph shows a wooden building with a wooden sign hanging from it.",
+                                "start_time": 0.54,
+                                "end_time": 4.65
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfcb8",
+                                "sentence": " On the sign is written tennessee tornado. Next aaron is pictured with four adult on the tennessee tornado,",
+                                "start_time": 4.65,
+                                "end_time": 11.71
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfcb7",
+                                "sentence": " which is a large six person round open floating vessel.",
+                                "start_time": 11.71,
+                                "end_time": 16.25
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfcb6",
+                                "sentence": " It's like an inner tube at much bigger and made out of plastic.",
+                                "start_time": 16.25,
+                                "end_time": 19.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47d1",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917173422,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917173422,
+                        "file_name": "14425364620571.wav",
+                        "start_time": 173.236,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15729,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 173.236,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 19.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3d6ade3300fb247b35fdf1",
+                                "sentence": " Aaron slides down the green slide into a large pile of leaves.",
+                                "start_time": 1.13,
+                                "end_time": 5.28
+                            },
+                            {
+                                "_id": "5e3d6ade3300fb247b35fdf0",
+                                "sentence": " Then aaron sits on a boat wearing sunglasses and a bright orange life jacket. There's a long yellow robe looped around him and sitting in his lap.",
+                                "start_time": 5.28,
+                                "end_time": 14.28
+                            },
+                            {
+                                "_id": "5e3d6ade3300fb247b35fdef",
+                                "sentence": " Next aaron, as a young boy, stands outside with his feet in a mud puddle.",
+                                "start_time": 14.35,
+                                "end_time": 19.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47d2",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917173637,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917173637,
+                        "file_name": "14425365971631.wav",
+                        "start_time": 188.541,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15730,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 188.541,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 20.72,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba08c648ec0da79cd67a",
+                                "sentence": " Aaron sits at the bottom of a large inflatable water slide.",
+                                "start_time": 0.77,
+                                "end_time": 4.62
+                            },
+                            {
+                                "_id": "5e3aba08c648ec0da79cd679",
+                                "sentence": " A female child waits at the Top of the slide, peering down at him.",
+                                "start_time": 4.69,
+                                "end_time": 8.63
+                            },
+                            {
+                                "_id": "5e3aba08c648ec0da79cd678",
+                                "sentence": " Then aaron sits at a table and paints a small wooden box with green paint.",
+                                "start_time": 9.04,
+                                "end_time": 14.36
+                            },
+                            {
+                                "_id": "5e3aba08c648ec0da79cd677",
+                                "sentence": " Next, he sits high up in the air next to a female child on an amusement park ride.",
+                                "start_time": 14.36,
+                                "end_time": 20.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47d3",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917173728,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917173728,
+                        "file_name": "14425366488471.wav",
+                        "start_time": 203.975,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15731,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 203.975,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 26.34,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfca1",
+                                "sentence": " Aaron, wearing a bright orange life jacket, lays on a large inflatable tube that is being pulled by an unseen boat.",
+                                "start_time": 0.77,
+                                "end_time": 8.47
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfca0",
+                                "sentence": " There is an adult female to his right and a female girl to his left.",
+                                "start_time": 8.47,
+                                "end_time": 12.72
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc9f",
+                                "sentence": " Then he sets posing in front of a fireplace where in a cub scouts uniform,",
+                                "start_time": 12.72,
+                                "end_time": 18.37
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc9e",
+                                "sentence": " next pictured outside, he holds a blue ball and gets a piggyback ride from an adult male who is on all forbes.",
+                                "start_time": 18.37,
+                                "end_time": 26.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a47d4",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917173944,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917173944,
+                        "file_name": "14425367849571.wav",
+                        "start_time": 218.346,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15732,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 218.346,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 24.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba07c648ec0da79cd653",
+                                "sentence": " Aaron swings with a slightly older girl.",
+                                "start_time": 0.7,
+                                "end_time": 3.51
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd652",
+                                "sentence": " They are laughing, facing each other, and have their feet in each other's laps,",
+                                "start_time": 3.51,
+                                "end_time": 7.92
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd651",
+                                "sentence": " forming a solid connection with their legs.",
+                                "start_time": 7.92,
+                                "end_time": 10.63
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd650",
+                                "sentence": " Next, aaron, wearing a life jacket, swims in a lake with an adult female.",
+                                "start_time": 10.76,
+                                "end_time": 16.29
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd64f",
+                                "sentence": " Then wearing a tie dyed shirt. He sits on a concrete walkway and poses with six other children who were wearing the same shirt.",
+                                "start_time": 16.29,
+                                "end_time": 24.59
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47d5",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917174136,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917174136,
+                        "file_name": "14425368961611.wav",
+                        "start_time": 237.017,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15733,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 237.017,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 25.06,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abd67a2079a0da87fe4f4",
+                                "sentence": " Aaron writes in a bumper car with a slightly older female child.",
+                                "start_time": 1.22,
+                                "end_time": 5.31
+                            },
+                            {
+                                "_id": "5e3abd67a2079a0da87fe4f3",
+                                "sentence": " Next, he stands on a putting green at a miniature golf course. He holds a blue club and is getting ready to hit a pink ball",
+                                "start_time": 5.64,
+                                "end_time": 13.19
+                            },
+                            {
+                                "_id": "5e3abd67a2079a0da87fe4f2",
+                                "sentence": " into a hole.",
+                                "start_time": 13.19,
+                                "end_time": 14.3
+                            },
+                            {
+                                "_id": "5e3abd67a2079a0da87fe4f1",
+                                "sentence": " Then he sits in a church pew wearing a yellow shirt. He has blue face paint on his cheeks and forehead.",
+                                "start_time": 14.3,
+                                "end_time": 21.63
+                            },
+                            {
+                                "_id": "5e3abd67a2079a0da87fe4f0",
+                                "sentence": " There are many other children sitting next to and around him.",
+                                "start_time": 21.63,
+                                "end_time": 24.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47d6",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917174253,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917174253,
+                        "file_name": "14425369733491.wav",
+                        "start_time": 249.297,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15734,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 249.297,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3aba07c648ec0da79cd66c",
+                                "sentence": " For news is a blue transparent inflatable ring to float in a bowl.",
+                                "start_time": 0,
+                                "end_time": 4.11
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd66b",
+                                "sentence": " Then he uses the same rain to sit in",
+                                "start_time": 4.47,
+                                "end_time": 7.52
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd66a",
+                                "sentence": " as he is propelled by an adult down a clear slip and slide.",
+                                "start_time": 7.52,
+                                "end_time": 11.4
+                            },
+                            {
+                                "_id": "5e3aba07c648ec0da79cd669",
+                                "sentence": " Next, he leans forward holding a bowling ball ready to bowl.",
+                                "start_time": 11.52,
+                                "end_time": 15.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47d7",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917174518,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917174518,
+                        "file_name": "14425371179831.wav",
+                        "start_time": 264.051,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15735,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 264.051,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 35.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4b5",
+                                "sentence": " Aaron sits next to an adult male on a dock next to a lake.",
+                                "start_time": 0,
+                                "end_time": 4.48
+                            },
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4b4",
+                                "sentence": " Then he smiles as he slides down a slip and slide closely followed by a female.",
+                                "start_time": 4.48,
+                                "end_time": 9.97
+                            },
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4b3",
+                                "sentence": " Several children stand in the background waiting for their turn.",
+                                "start_time": 9.97,
+                                "end_time": 13.95
+                            },
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4b2",
+                                "sentence": " Next, aaron is helped onto a white horse by an adult.",
+                                "start_time": 14.34,
+                                "end_time": 18.44
+                            },
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4b1",
+                                "sentence": " His mother stands on the opposite side of the saddle, ready to help white print at the bottom of the photo reads. Sometimes I just need a little extra help.",
+                                "start_time": 18.44,
+                                "end_time": 28.23
+                            },
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4b0",
+                                "sentence": " The next photo shows air and riding the horse unassisted.",
+                                "start_time": 28.28,
+                                "end_time": 32.18
+                            },
+                            {
+                                "_id": "5e3abd65a2079a0da87fe4af",
+                                "sentence": " Three females walk next to him as he rides.",
+                                "start_time": 32.29,
+                                "end_time": 35.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47d8",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917174636,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917174636,
+                        "file_name": "14425371964641.wav",
+                        "start_time": 286.278,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15736,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 286.278,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 24.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab952108b490da613b29d",
+                                "sentence": " Aaron, pictured at a young age,",
+                                "start_time": 0.26,
+                                "end_time": 2.65
+                            },
+                            {
+                                "_id": "5e3ab952108b490da613b29c",
+                                "sentence": " rolls a bowling ball with the support of a female adult who squats behind him with her arms around him,",
+                                "start_time": 2.65,
+                                "end_time": 9.04
+                            },
+                            {
+                                "_id": "5e3ab952108b490da613b29b",
+                                "sentence": " then older. Now he stands in front of a bowling ball slide.",
+                                "start_time": 9.45,
+                                "end_time": 14.04
+                            },
+                            {
+                                "_id": "5e3ab952108b490da613b29a",
+                                "sentence": " His hands are on an orange ball",
+                                "start_time": 14.04,
+                                "end_time": 16.44
+                            },
+                            {
+                                "_id": "5e3ab952108b490da613b299",
+                                "sentence": " for female children surround him helping pink print. Above those reads.",
+                                "start_time": 16.44,
+                                "end_time": 22.09
+                            },
+                            {
+                                "_id": "5e3ab952108b490da613b298",
+                                "sentence": " The chicks love me.",
+                                "start_time": 22.09,
+                                "end_time": 23.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47d9",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917174832,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917174832,
+                        "file_name": "14425373127921.wav",
+                        "start_time": 302.85,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15737,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 302.85,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 41.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfcac",
+                                "sentence": " Aaron wearing a green t shirt, shorts and a helmet ride, the blue bicycle with training wheels. The next green chose purple print on a black background that reads.",
+                                "start_time": 0.48,
+                                "end_time": 10.7
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfcab",
+                                "sentence": " Sometimes I'm just spoiled. A 3rd photo shows air and resting in a yellow wagon",
+                                "start_time": 10.7,
+                                "end_time": 16.67
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfcaa",
+                                "sentence": " that an adult male pools with the bike. Next aaron rides on the bottom of a luggage cart",
+                                "start_time": 16.67,
+                                "end_time": 22.79
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfca9",
+                                "sentence": " that is pushed by a female child. In the last photo, aaron is pictured next to an elderly woman dressed in a white shirt.",
+                                "start_time": 22.79,
+                                "end_time": 30.51
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfca8",
+                                "sentence": " Although he is old enough to drink on his own, she is holding a cup for him while he drinks from the straw",
+                                "start_time": 30.51,
+                                "end_time": 36.81
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfca7",
+                                "sentence": " white print. On the bottom of the screen reads my grandma.",
+                                "start_time": 36.88,
+                                "end_time": 41.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47da",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917175045,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917175045,
+                        "file_name": "14425374457581.wav",
+                        "start_time": 322.458,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15738,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 322.458,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 72.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc95",
+                                "sentence": " Aaron stands on concrete.",
+                                "start_time": 1.07,
+                                "end_time": 3.45
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc94",
+                                "sentence": " He has bent over, reaching down with his hand on an orange ball. Around the ball is a black hula hoop, a small yellow football, and a small white object.",
+                                "start_time": 3.57,
+                                "end_time": 13.15
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc93",
+                                "sentence": " Many people wearing the same yellow shortest air and stand in the background",
+                                "start_time": 13.3,
+                                "end_time": 17.46
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc92",
+                                "sentence": " read print on the bottom of the picture reads. I do things a little slower than other kids.",
+                                "start_time": 17.52,
+                                "end_time": 23.55
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc91",
+                                "sentence": " The next photo shows the name aaron written in blue sidewalk chalk on concrete.",
+                                "start_time": 23.55,
+                                "end_time": 28.73
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc90",
+                                "sentence": " Above it, yellow print reads I can read and write it is followed by a photo of aaron sitting at a desk writing on paper.",
+                                "start_time": 28.73,
+                                "end_time": 36.95
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc8f",
+                                "sentence": " On the next screen, the pink print on the black background reads. If you talk to me, I can hear and understand you",
+                                "start_time": 36.95,
+                                "end_time": 43.97
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc8e",
+                                "sentence": " the next images of air. And standing next to an adult male whose face is not in the picture.",
+                                "start_time": 43.97,
+                                "end_time": 49.45
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc8d",
+                                "sentence": " Aaron is facing a young girl who seems to be speaking to him,",
+                                "start_time": 49.52,
+                                "end_time": 53.22
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc8c",
+                                "sentence": " the following screen weeds. I have hearing AIDS and I am able to hear things around me.",
+                                "start_time": 53.22,
+                                "end_time": 58.85
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc8b",
+                                "sentence": " This is followed by a closeup profile picture of erin, which shows that he is wearing a hearing aid on the next green blue print on the black background reads. I just can't verbally talk back",
+                                "start_time": 58.85,
+                                "end_time": 70.81
+                            },
+                            {
+                                "_id": "5e3ab9b7d8af910da52dfc8a",
+                                "sentence": " yet.",
+                                "start_time": 70.81,
+                                "end_time": 71.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47db",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917175339,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917175339,
+                        "file_name": "14425376192071.wav",
+                        "start_time": 368.459,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15739,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 368.459,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 29.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abbad108b490da613b308",
+                                "sentence": " A photo of aaron sitting on a trampoline with a slightly older girl reads.",
+                                "start_time": 0.7,
+                                "end_time": 5.56
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b307",
+                                "sentence": " I communicate with my hands. The following photo is of aaron dressed in a yellow costume of some sort. Signing it is followed by a photo of aaron standing in a line with several other individuals,",
+                                "start_time": 5.56,
+                                "end_time": 17.63
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b306",
+                                "sentence": " including his mom. They appear to be signing.",
+                                "start_time": 17.63,
+                                "end_time": 20.67
+                            },
+                            {
+                                "_id": "5e3abbad108b490da613b305",
+                                "sentence": " Next is aaron sitting in a boat, wearing sunglasses and a life vest. He sits in his mother's lap while she signs to him tactically.",
+                                "start_time": 20.72,
+                                "end_time": 29.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47dc",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917175726,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917175726,
+                        "file_name": "14425378461751.wav",
+                        "start_time": 384.544,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15740,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 384.544,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.27,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4da",
+                                "sentence": " Aaron is pictured wearing a red t shirt signing. Yes,",
+                                "start_time": 0.77,
+                                "end_time": 4.78
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4d9",
+                                "sentence": " his eyes are closed, and above his head, hot pink grant reads. This means yes.",
+                                "start_time": 4.78,
+                                "end_time": 10.75
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4d8",
+                                "sentence": " Next he is pictured with his hands on either side of his mouth, and his mouth is open as if saying, ah,",
+                                "start_time": 10.85,
+                                "end_time": 18.16
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4d7",
+                                "sentence": " white print. At the bottom of the photo reads, I make funny faces.",
+                                "start_time": 18.36,
+                                "end_time": 23.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47dd",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917175828,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917175828,
+                        "file_name": "14425379080051.wav",
+                        "start_time": 393.602,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15741,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 393.602,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 26.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4de",
+                                "sentence": " Aaron wears a blue t shirt and lays on a bed staring up at the camera.",
+                                "start_time": 1.19,
+                                "end_time": 5.54
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4dd",
+                                "sentence": " In the next photo, he is sitting outside wearing a bike helmet and using his index fingers to pull his lips up into a smile.",
+                                "start_time": 5.55,
+                                "end_time": 13.37
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4dc",
+                                "sentence": " The following images of him standing in front of scare crows and flowers.",
+                                "start_time": 13.37,
+                                "end_time": 18.12
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4db",
+                                "sentence": " He is wearing a black leather jacket and a white shirt. His hair is spiked up and he is holding one thumb up like farms easy.",
+                                "start_time": 18.12,
+                                "end_time": 25.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47de",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917180015,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917180015,
+                        "file_name": "14425380159251.wav",
+                        "start_time": 408.952,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15742,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 408.952,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 34.01,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4e5",
+                                "sentence": " An image is a close up of aaron, who has chocolate around his lips.",
+                                "start_time": 0.01,
+                                "end_time": 3.95
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4e4",
+                                "sentence": " White print at the Top of the image reads lots of messy faces.",
+                                "start_time": 3.95,
+                                "end_time": 8.5
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4e3",
+                                "sentence": " White print on a black background reads. Next you will see me hold up fingers one, two, three,",
+                                "start_time": 8.5,
+                                "end_time": 15.89
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4e2",
+                                "sentence": " the next images of aaron and a female child sitting at the Top of a large inflatable water slide.",
+                                "start_time": 15.96,
+                                "end_time": 22.13
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4e1",
+                                "sentence": " He is holding up two fingers, white print on a black background of the next screen reads.",
+                                "start_time": 22.13,
+                                "end_time": 28.3
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4e0",
+                                "sentence": " I want to know what is happening next.",
+                                "start_time": 28.3,
+                                "end_time": 30.32
+                            },
+                            {
+                                "_id": "5e3abd66a2079a0da87fe4df",
+                                "sentence": " What am I doing? First, second, and 3rd?",
+                                "start_time": 30.32,
+                                "end_time": 34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47df",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917180126,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917180126,
+                        "file_name": "14425380866251.wav",
+                        "start_time": 430.528,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15743,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 430.528,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.27,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abbead8af910da52dfcfd",
+                                "sentence": " Aaron rides the tennessee tornado with three adults.",
+                                "start_time": 0.67,
+                                "end_time": 4.04
+                            },
+                            {
+                                "_id": "5e3abbead8af910da52dfcfc",
+                                "sentence": " He waves his arm to the air.",
+                                "start_time": 4.04,
+                                "end_time": 5.97
+                            },
+                            {
+                                "_id": "5e3abbead8af910da52dfcfb",
+                                "sentence": " Yellow print at the bottom of the image reads. I swing my arms and stop my feet when I'm excited.",
+                                "start_time": 5.97,
+                                "end_time": 11.95
+                            },
+                            {
+                                "_id": "5e3abbead8af910da52dfcfa",
+                                "sentence": " Next a wet air and stands next to a plant that has giant leaves. He is touching a leaf that is bigger than himself.",
+                                "start_time": 11.95,
+                                "end_time": 18.84
+                            },
+                            {
+                                "_id": "5e3abbead8af910da52dfcf9",
+                                "sentence": " White print on the leaf reits. I'd love leaves.",
+                                "start_time": 18.84,
+                                "end_time": 23.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47e0",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917180333,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917180333,
+                        "file_name": "14425382131161.wav",
+                        "start_time": 443.581,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15744,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 443.581,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.27,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abc33c648ec0da79cd6ee",
+                                "sentence": " Aaron rights of a small green John deere toy truck.",
+                                "start_time": 0.57,
+                                "end_time": 4.33
+                            },
+                            {
+                                "_id": "5e3abc33c648ec0da79cd6ed",
+                                "sentence": " He is smiling as he holds a leaf out to the camera.",
+                                "start_time": 4.6,
+                                "end_time": 7.59
+                            },
+                            {
+                                "_id": "5e3abc33c648ec0da79cd6ec",
+                                "sentence": " Next, aaron sits at a table, opening a present. His mother sits next to him and an adult male stands behind him.",
+                                "start_time": 7.88,
+                                "end_time": 14.95
+                            },
+                            {
+                                "_id": "5e3abc33c648ec0da79cd6eb",
+                                "sentence": " He's crying",
+                                "start_time": 14.96,
+                                "end_time": 16.34
+                            },
+                            {
+                                "_id": "5e3abc33c648ec0da79cd6ea",
+                                "sentence": " yellow print above him reads, I cry or have fit sometimes because I can't verbally express myself.",
+                                "start_time": 16.34,
+                                "end_time": 23.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6246e13dfd851a47e1",
+                        "audio_description": "58e7cf3046e13dfd851a23be",
+                        "created_at": 20150917180446,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150917180446,
+                        "file_name": "14425382863401.wav",
+                        "start_time": 450.917,
+                        "legacy_video_id": 2190,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15745,
+                        "video": "58e7cf2946e13dfd851a1ca1",
+                        "end_time": 450.917,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 25.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abbae108b490da613b319",
+                                "sentence": " Aaron huts. The knack of imposes with an adult female",
+                                "start_time": 0.73,
+                                "end_time": 4.63
+                            },
+                            {
+                                "_id": "5e3abbae108b490da613b318",
+                                "sentence": " yellow print at the bottom reads I like hugs",
+                                "start_time": 4.77,
+                                "end_time": 8.64
+                            },
+                            {
+                                "_id": "5e3abbae108b490da613b317",
+                                "sentence": " on the next screen. Orange print on a black background reads. I may be last",
+                                "start_time": 8.8,
+                                "end_time": 14.79
+                            },
+                            {
+                                "_id": "5e3abbae108b490da613b316",
+                                "sentence": " a photo shows aaron running a race with an adult female next to him. They are on a football field.",
+                                "start_time": 14.79,
+                                "end_time": 20.54
+                            },
+                            {
+                                "_id": "5e3abbae108b490da613b315",
+                                "sentence": " The next slide in orange French reads, but I will finish the race.",
+                                "start_time": 20.54,
+                                "end_time": 25.79
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a23be",
+                "status": "published",
+                "legacy_video_id": 2190,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1ca1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "social skills",
+            "deafblind",
+            "deaf-blind",
+            "Social Relationships",
+            "peer interactions"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ca1",
+        "description": "",
+        "youtube_id": "PnUGWl7K4x0",
+        "views": 0,
+        "created_at": 20150917165640,
+        "title": "Aaron H Social Interactions",
+        "legacy_video_id": 2190,
+        "updated_at": 20150917180446,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 473
+    }
+}

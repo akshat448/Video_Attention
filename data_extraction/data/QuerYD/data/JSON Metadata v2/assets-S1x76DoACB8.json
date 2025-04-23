@@ -1,0 +1,1287 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8f46e13dfd851a67f6",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201072623,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201072623,
+                        "file_name": "14806059834571.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29353,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2426a278fc5f09045a",
+                                "sentence": " This is the first look trailer for the disney film frozen.",
+                                "start_time": 0.71,
+                                "end_time": 4.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a67f7",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201072857,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201072857,
+                        "file_name": "14806061375711.wav",
+                        "start_time": 4.83,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29355,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 9.690000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f090417",
+                                "sentence": " A shooting star arches over the disney castle, a disney film.",
+                                "start_time": 0.69,
+                                "end_time": 4.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a67f8",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201073410,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201073410,
+                        "file_name": "14806064503711.wav",
+                        "start_time": 15.38,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29356,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 15.38,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f0903e1",
+                                "sentence": " A snowman shuffles up to a lone purple flower poking out of freshly packed snow and a mountainous forest.",
+                                "start_time": 0.72,
+                                "end_time": 7.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a67f9",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201073738,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201073738,
+                        "file_name": "14806066583291.wav",
+                        "start_time": 16.327,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29357,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 22.207,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f09041a",
+                                "sentence": " As he smells the flower, the snowman instantly wheezes sneezing off his carrot nose.",
+                                "start_time": 0.74,
+                                "end_time": 5.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a67fa",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201073907,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201073907,
+                        "file_name": "14806067470311.wav",
+                        "start_time": 26.398,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29358,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 31.768,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f0903e2",
+                                "sentence": " His nose skids across a pond where reindeer notice it and begins to salivate.",
+                                "start_time": 0.13,
+                                "end_time": 5.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a67fb",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201080759,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201080759,
+                        "file_name": "14806084792131.wav",
+                        "start_time": 33.778,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29360,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 33.778,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f0903d3",
+                                "sentence": " The snowman sees the rain deer slipping on the ice as he walks across the pond to retrieve his nose.",
+                                "start_time": 0.7,
+                                "end_time": 6.1
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a67fc",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201080910,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201080910,
+                        "file_name": "14806085507751.wav",
+                        "start_time": 33.461,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29361,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 38.061,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593fb1",
+                                "sentence": " To snowman makes no progress on the ice. And a shuffling in place.",
+                                "start_time": 0.89,
+                                "end_time": 4.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a67fd",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201081346,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201081346,
+                        "file_name": "14806088261291.wav",
+                        "start_time": 33.11,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29362,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 57.66,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 24.55,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f0903f2",
+                                "sentence": " The reindeer slips falls on his chin, landing in the splits.",
+                                "start_time": 0.35,
+                                "end_time": 4.08
+                            },
+                            {
+                                "_id": "5e175e2226a278fc5f0903f1",
+                                "sentence": " The snowman now removes his twig arm to crutch himself towards the nose.",
+                                "start_time": 4.08,
+                                "end_time": 8.08
+                            },
+                            {
+                                "_id": "5e175e2226a278fc5f0903f0",
+                                "sentence": " The reindeer scoots across the ice on his butt, using his front hooves as paddles.",
+                                "start_time": 8.08,
+                                "end_time": 12.46
+                            },
+                            {
+                                "_id": "5e175e2226a278fc5f0903ef",
+                                "sentence": " The snow man's body is now completely out of order and desperately skids across the ice.",
+                                "start_time": 12.46,
+                                "end_time": 16.94
+                            },
+                            {
+                                "_id": "5e175e2226a278fc5f0903ee",
+                                "sentence": " The reindeer is now on all fours, swimming atop the ice.",
+                                "start_time": 16.94,
+                                "end_time": 19.86
+                            },
+                            {
+                                "_id": "5e175e2226a278fc5f0903ed",
+                                "sentence": " The snowman attempts to roll his body, but completely flips over onto his back.",
+                                "start_time": 20.24,
+                                "end_time": 24.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a67fe",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201081654,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201081654,
+                        "file_name": "14806090149341.wav",
+                        "start_time": 37.293,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29363,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 44.963,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f090439",
+                                "sentence": " As the reindeer approaches the carrot, he sticks out his tongue, but it sticks to the ice. Just before he can eat it.",
+                                "start_time": 0.13,
+                                "end_time": 5.34
+                            },
+                            {
+                                "_id": "5e175e2226a278fc5f090438",
+                                "sentence": " The snowman launches his head towards the carrot.",
+                                "start_time": 5.34,
+                                "end_time": 7.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a67ff",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201081741,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201081741,
+                        "file_name": "14806090617311.wav",
+                        "start_time": 47.847,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29364,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 56.797,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.95,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f09041f",
+                                "sentence": " As the reindeer is nibbling at the carrot, the snowman uses his twig arm to tug at the carrot.",
+                                "start_time": 0.08,
+                                "end_time": 4.55
+                            },
+                            {
+                                "_id": "5e175e2226a278fc5f09041e",
+                                "sentence": " The two struggle against one another, and the carrot flings across upon landing in the snow.",
+                                "start_time": 4.55,
+                                "end_time": 8.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a6800",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201081902,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201081902,
+                        "file_name": "14806091424171.wav",
+                        "start_time": 59.041,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29365,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 68.761,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.72,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f090432",
+                                "sentence": " The reindeer gets up running after the carrot as a snowman grabs onto the reindeer, stale,",
+                                "start_time": 0.63,
+                                "end_time": 4.97
+                            },
+                            {
+                                "_id": "5e175e2226a278fc5f090431",
+                                "sentence": " the ranger pulls Free and runs off with the snow mans carrot nose.",
+                                "start_time": 5.05,
+                                "end_time": 8.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a6801",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201082003,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201082003,
+                        "file_name": "14806092030501.wav",
+                        "start_time": 69.85,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29366,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 73.42999999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f090430",
+                                "sentence": " The snowman slowly put his body parts back together.",
+                                "start_time": 0.32,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a6802",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201082038,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201082038,
+                        "file_name": "14806092386031.wav",
+                        "start_time": 73.924,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29367,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 79.04400000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f0903d4",
+                                "sentence": " Suddenly the ranger comes back and places a carrot back on the snowman.",
+                                "start_time": 0.55,
+                                "end_time": 4.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a6803",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201082122,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201082122,
+                        "file_name": "14806092829421.wav",
+                        "start_time": 79.498,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29368,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 90.238,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f8b",
+                                "sentence": " The snowman pats the reindeer on his antlers.",
+                                "start_time": 0.15,
+                                "end_time": 2.78
+                            },
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f8a",
+                                "sentence": " The snowman has the urge to sneeze and grabs his nose with both arms.",
+                                "start_time": 3.02,
+                                "end_time": 6.73
+                            },
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f89",
+                                "sentence": " As he sneeze is his head jolts off.",
+                                "start_time": 6.97,
+                                "end_time": 9.41
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a6804",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201082849,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201082849,
+                        "file_name": "14806097296621.wav",
+                        "start_time": 89.953,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29370,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 96.093,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f090440",
+                                "sentence": " Glue ice letters appear against a black background saying disney frozen thanksgiving.",
+                                "start_time": 0.55,
+                                "end_time": 5.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a6805",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201083100,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201083100,
+                        "file_name": "14806098601471.wav",
+                        "start_time": 0.6,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29371,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 0.6,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.72,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593fac",
+                                "sentence": " White letters appear against a green background stating the following preview has been approved to accompany this feature by motion picture association of America incorporated.",
+                                "start_time": 0.49,
+                                "end_time": 9.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8f46e13dfd851a6806",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201083232,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201083232,
+                        "file_name": "14806099520581.wav",
+                        "start_time": 1.3,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3475,
+                        "label": "",
+                        "legacy_audio_clip_id": 29372,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 1.3,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a27ff",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2126a278fc5f0903d2",
+                                "sentence": " From the creators of tangled and wreck it, ralph.",
+                                "start_time": 0.59,
+                                "end_time": 3.3
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3b46e13dfd851a2800",
+                "status": "published",
+                "legacy_video_id": 2999,
+                "legacy_user_id": 3475,
+                "video": "58e7cf2946e13dfd851a1fc9",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3b46e13dfd851a27ff",
+                    "name": "ccanning",
+                    "google_user_id_token": "",
+                    "created_at": 20161129211212,
+                    "updated_at": 20161129211242,
+                    "legacy_user_id": 3475,
+                    "last_login": 0,
+                    "email": "ccanning@berkeley.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf9046e13dfd851a6847",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201204843,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201204843,
+                        "file_name": "14806541231361.wav",
+                        "start_time": 2.4,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29467,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 2.4,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2326a278fc5f090454",
+                                "sentence": " The following preview has been approved to accompany this feature",
+                                "start_time": 1.08,
+                                "end_time": 4.26
+                            },
+                            {
+                                "_id": "5e175e2326a278fc5f090453",
+                                "sentence": " by the motion picture association of America incorporated.",
+                                "start_time": 4.26,
+                                "end_time": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6848",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201210412,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201210412,
+                        "file_name": "14806550524721.wav",
+                        "start_time": 7.272,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29468,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 7.272,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f090416",
+                                "sentence": " From the creators of tangled and wreck it, ralph.",
+                                "start_time": 0.26,
+                                "end_time": 3.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6849",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201215900,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201215900,
+                        "file_name": "14806583403431.wav",
+                        "start_time": 12.58,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29469,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 12.58,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175c3d8dfd97fc62593fe4",
+                                "sentence": " The setting is outdoors.",
+                                "start_time": 0.35,
+                                "end_time": 2.07
+                            },
+                            {
+                                "_id": "5e175c3d8dfd97fc62593fe3",
+                                "sentence": " Snow is covering the ground in a single flower emerges from the snow.",
+                                "start_time": 2.31,
+                                "end_time": 6.01
+                            },
+                            {
+                                "_id": "5e175c3d8dfd97fc62593fe2",
+                                "sentence": " There are Christmas trees in the background.",
+                                "start_time": 6.05,
+                                "end_time": 8.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a684a",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201220142,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201220142,
+                        "file_name": "14806585027561.wav",
+                        "start_time": 12.921,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29471,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 14.450999999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f090415",
+                                "sentence": " A snowman enters.",
+                                "start_time": 0.03,
+                                "end_time": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a684b",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201220312,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201220312,
+                        "file_name": "14806585928871.wav",
+                        "start_time": 22.243,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29472,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 22.243,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f0903e7",
+                                "sentence": " He sees and smells the flower.",
+                                "start_time": 0.12,
+                                "end_time": 2.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a684c",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201220544,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201220544,
+                        "file_name": "14806587449121.wav",
+                        "start_time": 27.81,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29473,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 27.81,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f09043b",
+                                "sentence": " The snow mans carrot nose blows off of his face and lands on a frozen lake. A moose is seen in the background.",
+                                "start_time": 0.39,
+                                "end_time": 7.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a684d",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201220721,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201220721,
+                        "file_name": "14806588416601.wav",
+                        "start_time": 29.241,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29474,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 29.241,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f0903fa",
+                                "sentence": " The mou sees the carrot nose.",
+                                "start_time": 0.14,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a684e",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201221153,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201221153,
+                        "file_name": "14806591129941.wav",
+                        "start_time": 32.995,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29476,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 32.995,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f09041c",
+                                "sentence": " The moose stumbles on the frozen lake.",
+                                "start_time": 0.13,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a684f",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201221511,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201221511,
+                        "file_name": "14806593114641.wav",
+                        "start_time": 36.92,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29478,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 36.92,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f090418",
+                                "sentence": " Snow man stumbles.",
+                                "start_time": 0.5,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6850",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201221840,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201221840,
+                        "file_name": "14806595203091.wav",
+                        "start_time": 41.654,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29480,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 41.654,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593fab",
+                                "sentence": " The snowman is now using a stick to move.",
+                                "start_time": 0,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6851",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201221905,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201221905,
+                        "file_name": "14806595454831.wav",
+                        "start_time": 42.656,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29481,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 42.656,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593fd0",
+                                "sentence": " The stick. Pierce is the snowman.",
+                                "start_time": 0.06,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6852",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201222142,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201222142,
+                        "file_name": "14806597024011.wav",
+                        "start_time": 51.155,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29482,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 51.155,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f7f",
+                                "sentence": " The stones body is all out of order and jumbled up.",
+                                "start_time": 0.18,
+                                "end_time": 3.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6853",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201222337,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201222337,
+                        "file_name": "14806598176111.wav",
+                        "start_time": 53.516,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29483,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 53.516,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2326a278fc5f090451",
+                                "sentence": " The moose is closer to the carrot nose.",
+                                "start_time": 0,
+                                "end_time": 2.41
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6854",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201222433,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201222433,
+                        "file_name": "14806598737491.wav",
+                        "start_time": 57.34,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29484,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 57.34,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f54",
+                                "sentence": " The snow mend attaches his head from his body and launches it towards the carrot nose.",
+                                "start_time": 0,
+                                "end_time": 4.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6855",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201222654,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201222654,
+                        "file_name": "14806600142671.wav",
+                        "start_time": 61.939,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29485,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 61.939,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f0903df",
+                                "sentence": " The snowman and the moose fight over the carrot, and it lands on the snow.",
+                                "start_time": 0,
+                                "end_time": 4.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6856",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201223039,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201223039,
+                        "file_name": "14806602398561.wav",
+                        "start_time": 69.055,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29486,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 69.055,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f0903fb",
+                                "sentence": " The moose runs after the carrot nose on the snowman holds onto the mousse, but then the snowman falls off into the snow.",
+                                "start_time": 0.35,
+                                "end_time": 5.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6857",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201223242,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201223242,
+                        "file_name": "14806603626401.wav",
+                        "start_time": 76.985,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29487,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 76.985,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f80",
+                                "sentence": " The news puts the carrot nose back on the snowman space.",
+                                "start_time": 0,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6858",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201223457,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201223457,
+                        "file_name": "14806604971731.wav",
+                        "start_time": 84.567,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29488,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 84.567,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593f45",
+                                "sentence": " The snowman PETS the mousse, and some of them was his hair sheds and blows near the snow man's face.",
+                                "start_time": 0,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a6859",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201223547,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201223547,
+                        "file_name": "14806605476791.wav",
+                        "start_time": 90.379,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29490,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 90.379,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f09043f",
+                                "sentence": " A snowman grabs his nose, but his head blows backwards.",
+                                "start_time": 0,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a685a",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201223547,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201223547,
+                        "file_name": "14806605476971.wav",
+                        "start_time": 90.379,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29491,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 90.379,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175c3c8dfd97fc62593fd1",
+                                "sentence": " A snowman grabs his nose, but his head blows backwards.",
+                                "start_time": 0,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a685b",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201223606,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201223606,
+                        "file_name": "14806605665061.wav",
+                        "start_time": 90.49,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29492,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 90.49,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2326a278fc5f090452",
+                                "sentence": " Disney frozen.",
+                                "start_time": 0,
+                                "end_time": 1.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf9046e13dfd851a685c",
+                        "audio_description": "58e7cf3b46e13dfd851a2800",
+                        "created_at": 20161201223710,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161201223710,
+                        "file_name": "14806606308851.wav",
+                        "start_time": 93.628,
+                        "legacy_video_id": 2999,
+                        "legacy_user_id": 3490,
+                        "label": "",
+                        "legacy_audio_clip_id": 29493,
+                        "video": "58e7cf2946e13dfd851a1fc9",
+                        "end_time": 93.628,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.28,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3b46e13dfd851a280b",
+                        "transcript": [
+                            {
+                                "_id": "5e175e2226a278fc5f090441",
+                                "sentence": " Thanksgiving,",
+                                "start_time": 0.01,
+                                "end_time": 1.24
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3b46e13dfd851a280c",
+                "status": "published",
+                "legacy_video_id": 2999,
+                "legacy_user_id": 3490,
+                "video": "58e7cf2946e13dfd851a1fc9",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3b46e13dfd851a280b",
+                    "name": "garciaas",
+                    "google_user_id_token": "",
+                    "created_at": 20161201195730,
+                    "updated_at": 20161201210852,
+                    "legacy_user_id": 3490,
+                    "last_login": 0,
+                    "email": "alexandra.s.garcia@vanderbilt.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Frozen",
+            "Walt Disney Animation Studios",
+            "Animation",
+            "movie",
+            "disney",
+            "idina menzel",
+            "kristen bell",
+            "josh gad",
+            "jonathan groff",
+            "alan tudyk",
+            "santino fontana",
+            "robert lopez",
+            "kristen anderson-lopez",
+            "walt",
+            "animation",
+            "studios",
+            "motion",
+            "picture",
+            "1080p",
+            "animated",
+            "the snow queen",
+            "CGI",
+            "computer-generated",
+            "motion picture",
+            "official",
+            "HD",
+            "trailer",
+            "teaser",
+            "tangled",
+            "wreck-it ralph",
+            "rapunzel",
+            "snow",
+            "winter",
+            "weather",
+            "channel",
+            "Disney's Frozen"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1fc9",
+        "description": "",
+        "youtube_id": "S1x76DoACB8",
+        "views": 0,
+        "created_at": 20161130192539,
+        "title": "Disney's Frozen Teaser Trailer",
+        "legacy_video_id": 2999,
+        "updated_at": 20190117182435,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 96
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4c46e13dfd851a37c0",
+                        "audio_description": "58e7cf2e46e13dfd851a224b",
+                        "created_at": 20141207112553,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141207112553,
+                        "file_name": "14179803539711.wav",
+                        "start_time": 3.414,
+                        "legacy_video_id": 1746,
+                        "legacy_user_id": 2398,
+                        "label": "",
+                        "legacy_audio_clip_id": 10533,
+                        "video": "58e7cf2846e13dfd851a1ae5",
+                        "end_time": 3.414,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2246",
+                        "transcript": [
+                            {
+                                "_id": "5e23327adcbb7e3b4d5dfd6f",
+                                "sentence": " Super quick video tips, how to cook pasta perfectly.",
+                                "start_time": 0.07,
+                                "end_time": 4.44
+                            },
+                            {
+                                "_id": "5e23327adcbb7e3b4d5dfd6e",
+                                "sentence": " This video just shows the narrator speaking in a busy kitchen with various parts of pasta.",
+                                "start_time": 4.68,
+                                "end_time": 10.23
+                            },
+                            {
+                                "_id": "5e23327adcbb7e3b4d5dfd6d",
+                                "sentence": " Her narration describes the video. Well,",
+                                "start_time": 10.23,
+                                "end_time": 12.54
+                            },
+                            {
+                                "_id": "5e23327adcbb7e3b4d5dfd6c",
+                                "sentence": " her name is kristy morrison, and she works at america's test kitchen.",
+                                "start_time": 12.65,
+                                "end_time": 16.87
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2e46e13dfd851a224b",
+                "status": "published",
+                "legacy_video_id": 1746,
+                "legacy_user_id": 2398,
+                "video": "58e7cf2846e13dfd851a1ae5",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2e46e13dfd851a2246",
+                    "name": "Laurae",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2398,
+                    "last_login": 0,
+                    "email": "laurajmeberly@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Cooking",
+            "pasta",
+            "noodles",
+            "tips",
+            "kitchen",
+            "recipe",
+            "italian",
+            "spaghetti",
+            "food",
+            "howto",
+            "boil"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ae5",
+        "description": "",
+        "youtube_id": "u0p_dBCEDs4",
+        "views": 0,
+        "created_at": 20141207112511,
+        "title": "Super Quick Video Tips: How to Cook Pasta Perfectly",
+        "legacy_video_id": 1746,
+        "updated_at": 20141207112554,
+        "youtube_status": "available",
+        "category": "Howto & Style",
+        "category_id": "26",
+        "duration": 141
+    }
+}

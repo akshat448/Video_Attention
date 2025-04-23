@@ -1,0 +1,183 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59da45959ef095141975e208",
+                        "video": "59da45959ef095141975e20a",
+                        "audio_description": "59da45959ef095141975e209",
+                        "user": "59da43159ef095141975e207",
+                        "label": "Description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 13.653333333333334,
+                        "duration": 13.653333333333334,
+                        "file_name": "gyktHss8qmU_59da45959ef095141975e208.wav",
+                        "file_size_bytes": 2621484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/gyktHss8qmU",
+                        "created_at": 20171008153445,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131dee9b87ad08bbe5a144",
+                                "sentence": " On screen is a small two foot long car like robot. Driving along the floor",
+                                "start_time": 0,
+                                "end_time": 6.57
+                            },
+                            {
+                                "_id": "5e131dee9b87ad08bbe5a143",
+                                "sentence": " is grey blue accents. And as for round wheels, independently turn allow the robot to move sideways.",
+                                "start_time": 6.57,
+                                "end_time": 13.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59da46589ef095141975e20b",
+                        "video": "59da45959ef095141975e20a",
+                        "audio_description": "59da45959ef095141975e209",
+                        "user": "59da43159ef095141975e207",
+                        "label": "Subtitles",
+                        "playback_type": "inline",
+                        "start_time": 13.69966,
+                        "end_time": 58.32899333333334,
+                        "duration": 44.629333333333335,
+                        "file_name": "gyktHss8qmU_59da46589ef095141975e20b.wav",
+                        "file_size_bytes": 8568876,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/gyktHss8qmU",
+                        "created_at": 20171008153800,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131dee9b87ad08bbe5a133",
+                                "sentence": " This is made bought a futuristic robot created to keep hotels clean. And roses, the first of its kind,",
+                                "start_time": 0.29,
+                                "end_time": 7.57
+                            },
+                            {
+                                "_id": "5e131dee9b87ad08bbe5a132",
+                                "sentence": " can keep bedroom floor is clean and collect data to help hotels run more efficiently,",
+                                "start_time": 7.57,
+                                "end_time": 13.25
+                            },
+                            {
+                                "_id": "5e131dee9b87ad08bbe5a131",
+                                "sentence": " which makes life easier on hotel employees.",
+                                "start_time": 13.25,
+                                "end_time": 16.2
+                            },
+                            {
+                                "_id": "5e131dee9b87ad08bbe5a130",
+                                "sentence": " Now, who wouldn't want that?",
+                                "start_time": 16.82,
+                                "end_time": 18.55
+                            },
+                            {
+                                "_id": "5e131dee9b87ad08bbe5a12d",
+                                "sentence": " CEO Michael green was inspired in part by the jetsons, which features its own robot, maine named",
+                                "start_time": 24.36,
+                                "end_time": 31.79
+                            },
+                            {
+                                "_id": "5e131dee9b87ad08bbe5a12c",
+                                "sentence": " you guessed it rosy.",
+                                "start_time": 31.79,
+                                "end_time": 35.36
+                            },
+                            {
+                                "_id": "5e131dee9b87ad08bbe5a12b",
+                                "sentence": " Playing right now is clips of the jetsons.",
+                                "start_time": 35.54,
+                                "end_time": 38.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59da46fc9ef095141975e20c",
+                        "video": "59da45959ef095141975e20a",
+                        "audio_description": "59da45959ef095141975e209",
+                        "user": "59da43159ef095141975e207",
+                        "label": "Final Description",
+                        "playback_type": "inline",
+                        "start_time": 51.889551999999995,
+                        "end_time": 63.06821866666666,
+                        "duration": 11.178666666666667,
+                        "file_name": "gyktHss8qmU_59da46fc9ef095141975e20c.wav",
+                        "file_size_bytes": 2146348,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/gyktHss8qmU",
+                        "created_at": 20171008154044,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e131e4dd66bb308b9c55919",
+                                "sentence": " Throughout the video, the robot can be seen driving along carpet as well as tile and under beds.",
+                                "start_time": 0,
+                                "end_time": 7.83
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59da45959ef095141975e209",
+                "video": "59da45959ef095141975e20a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59da43159ef095141975e207",
+                    "email": "chancey.fleet@gmail.com",
+                    "name": "Chancey Fleet",
+                    "given_name": "Chancey",
+                    "picture": "https://lh3.googleusercontent.com/-KxMAfdS7_10/AAAAAAAAAAI/AAAAAAAAAAA/ACnBePYo7UlAQ_f_n3Mrz1AlHUxQDV9ZRg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "114362302486279313251",
+                    "last_login": 20190921221508,
+                    "token": "aad825e08aaccee46f525877e5adb9dfb3c4505ac9b3c81389fd65f7f892d088",
+                    "__v": 0,
+                    "updated_at": 20190921221508,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20171008153445,
+                "updated_at": 20171220234934,
+                "notes": "Small about 2 foot long car-like robot is driving along the floor. it is Grey with blue accents and has 4 round wheels that independently turn allowing the robot to move sideways\r\n\r\nThis is maidbot\r\na futuristic robot created to keep hotels celan, and rosie is the first of its kind",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Mashable",
+            "Technology",
+            "Robot",
+            "Robotics",
+            "Hospitality",
+            "Design",
+            "Hotel",
+            "Floor cleaner",
+            "Cleaning"
+        ],
+        "custom_tags": [],
+        "_id": "59da45959ef095141975e20a",
+        "title": "Robot maid for cleaner floors",
+        "description": "'Rosie' by Maidbot is an autonomous floor cleaner that provides safe and cost-efficient automated solutions to the hospitality industry. \r\n\r\nREAD MORE: http://mashable.com/\r\nFACEBOOK: https://www.facebook.com/mashable/\r\nTWITTER: https://twitter.com/mashable\r\nINSTAGRAM: https://www.instagram.com/mashable/",
+        "youtube_id": "gyktHss8qmU",
+        "created_at": 20171008153445,
+        "updated_at": 20171008154044,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Science & Technology",
+        "category_id": "28",
+        "duration": 60
+    }
+}

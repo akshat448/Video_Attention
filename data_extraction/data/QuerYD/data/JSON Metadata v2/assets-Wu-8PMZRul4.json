@@ -1,0 +1,117 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7546e13dfd851a571f",
+                        "audio_description": "58e7cf2d46e13dfd851a21eb",
+                        "created_at": 20160401081526,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160401081526,
+                        "file_name": "14595237261081.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2528,
+                        "legacy_user_id": 2288,
+                        "label": "",
+                        "legacy_audio_clip_id": 22268,
+                        "video": "58e7cf2946e13dfd851a1df3",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e3",
+                        "transcript": [
+                            {
+                                "_id": "5e42bc330499b0b427648034",
+                                "sentence": " Students gathered around a table in a restaurant.",
+                                "start_time": 0.07,
+                                "end_time": 3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7546e13dfd851a5720",
+                        "audio_description": "58e7cf2d46e13dfd851a21eb",
+                        "created_at": 20160401081603,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160401081603,
+                        "file_name": "14595237633571.wav",
+                        "start_time": 2.867,
+                        "legacy_video_id": 2528,
+                        "legacy_user_id": 2288,
+                        "label": "",
+                        "legacy_audio_clip_id": 22269,
+                        "video": "58e7cf2946e13dfd851a1df3",
+                        "end_time": 2.867,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21e3",
+                        "transcript": [
+                            {
+                                "_id": "5e42bd6416b75ab425f71515",
+                                "sentence": " Students standing in front of a building.",
+                                "start_time": 0.35,
+                                "end_time": 3.3
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21eb",
+                "status": "published",
+                "legacy_video_id": 2528,
+                "legacy_user_id": 2288,
+                "video": "58e7cf2946e13dfd851a1df3",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21e3",
+                    "name": "rfentres",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2288,
+                    "last_login": 0,
+                    "email": "rfentres@vt.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Virginia Tech",
+            "Hokies",
+            "Campus Dining",
+            "College Dining",
+            "College life",
+            "College food",
+            "Virginia Tech food",
+            "Virginia Tech dining"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1df3",
+        "description": "",
+        "youtube_id": "Wu-8PMZRul4",
+        "views": 0,
+        "created_at": 20160401081410,
+        "title": "The best campus food in the country? Yeah, we\u2019ve got that",
+        "legacy_video_id": 2528,
+        "updated_at": 20160401081603,
+        "youtube_status": "available",
+        "category": "Travel & Events",
+        "category_id": "19",
+        "duration": 181
+    }
+}

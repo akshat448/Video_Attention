@@ -1,0 +1,79 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5eb59fc3c5520751804911f4",
+                        "video": "5eb59fc3c5520751804911f6",
+                        "audio_description": "5eb59fc3c5520751804911f5",
+                        "user": "5e3d6e380050a61e3485ba2b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 3.622312925170068,
+                        "file_name": "Ig4XHZEpnhM_5eb59fc3c5520751804911f4.wav",
+                        "file_size_bytes": 639020,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Ig4XHZEpnhM",
+                        "created_at": 20200508180659,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5eb59fc3c5520751804911f5",
+                "video": "5eb59fc3c5520751804911f6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e3d6e380050a61e3485ba2b",
+                    "email": "westkentuckyctc123@gmail.com",
+                    "name": "west kentucky community & technical college",
+                    "given_name": "west kentucky",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mDtqzV_GmrrYEbSR24Twi6EVeV1V3sUwGBNi-Ta6g=s96-c",
+                    "locale": "en",
+                    "google_user_id": "115993432138686522637",
+                    "last_login": 20200721143835,
+                    "token": "d3259332f2ddbdab69461626f9d1e0e332f247355b49a3ad8f3de644b9d7fa1c",
+                    "__v": 0,
+                    "updated_at": 20200721143835,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200508180659,
+                "updated_at": 20200508180659,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "wkctc",
+            "paducah",
+            "kentucky",
+            "college",
+            "school",
+            "education",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5eb59fc3c5520751804911f6",
+        "title": "WKCTC ADN Preadmission Conference",
+        "description": "",
+        "youtube_id": "Ig4XHZEpnhM",
+        "created_at": 20200508180659,
+        "updated_at": 20200508180659,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 948
+    }
+}

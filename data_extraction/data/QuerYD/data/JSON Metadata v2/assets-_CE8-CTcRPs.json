@@ -1,0 +1,102 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d810a768302113cc4be506e",
+                        "video": "5d810a2615c8ca3ccf56d72c",
+                        "audio_description": "5d810a2615c8ca3ccf56d72b",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 28.416,
+                        "duration": 28.416,
+                        "file_name": "_CE8-CTcRPs_5d810a768302113cc4be506e.wav",
+                        "file_size_bytes": 5455916,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/_CE8-CTcRPs",
+                        "created_at": 20190917163150,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5578707604239900952220",
+                                "sentence": " A student indicate the practice. Tommy tax rates, respiratory care prepared to work as a respiratory therapist.",
+                                "start_time": 0.55,
+                                "end_time": 5.56
+                            },
+                            {
+                                "_id": "5e557870760423990095221f",
+                                "sentence": " Students work with a respirator or tax rates. Korea's most graduates work in hospitals, but options are available in home health care, nursing homes and doctors offices.",
+                                "start_time": 5.56,
+                                "end_time": 13.03
+                            },
+                            {
+                                "_id": "5e557870760423990095221e",
+                                "sentence": " Student makes adjustments to respirator tech street median salary, $43496",
+                                "start_time": 13.03,
+                                "end_time": 19.03
+                            },
+                            {
+                                "_id": "5e557870760423990095221d",
+                                "sentence": " student practices in debating a dummy tax rates like the program and associate degree in 20 months to students stay with the respirator tax rates. You've got this.",
+                                "start_time": 19.03,
+                                "end_time": 27.31
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d810a2615c8ca3ccf56d72b",
+                "video": "5d810a2615c8ca3ccf56d72c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190917163030,
+                "updated_at": 20190917163030,
+                "notes": "Student intubates a practice dummy\r\nText reads:\r\nRespiratory Care\r\nPrepare to work as a respiratory therapist \r\n\r\nStudents work with a respirator\r\nText reads:\r\nCareers\r\nMost graduates work in hospitals, but options are available in home health care, nursing homes and doctors offices\r\n\r\nA student makes adjustments to a respirator\r\nText reads:\r\nMedian Salary\r\n43,496 dollars\r\n\r\nA student practices intubating a dummy\r\nText reads:\r\nLength of program\r\nEarn an associate degree in 20 months. \r\n\r\n2 students stand with a respirator\r\nText reads:\r\nYou've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "respiratory care",
+            "kctcs",
+            "jctc",
+            "health",
+            "college"
+        ],
+        "custom_tags": [],
+        "_id": "5d810a2615c8ca3ccf56d72c",
+        "title": "Respiratory Care",
+        "description": "Information on the respiratory care program at KCTCS.",
+        "youtube_id": "_CE8-CTcRPs",
+        "created_at": 20190917163030,
+        "updated_at": 20190917163150,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 38
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5746e13dfd851a40a5",
+                        "audio_description": "58e7cf3046e13dfd851a2348",
+                        "created_at": 20150425115855,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425115855,
+                        "file_name": "14299883351151.wav",
+                        "start_time": 0.1,
+                        "legacy_video_id": 1933,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13221,
+                        "video": "58e7cf2846e13dfd851a1ba0",
+                        "end_time": 19.540000000000003,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 19.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a561168423183b465baf",
+                                "sentence": " A young girl wearing a pink shirt and pink capri leggings sits on the couch next to an adult female.",
+                                "start_time": 1.23,
+                                "end_time": 8.07
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bae",
+                                "sentence": " The two do not touch",
+                                "start_time": 8.07,
+                                "end_time": 10.1
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bad",
+                                "sentence": " the young girl vocalise as while rocking slightly.",
+                                "start_time": 10.1,
+                                "end_time": 13.76
+                            },
+                            {
+                                "_id": "5e30a561168423183b465bac",
+                                "sentence": " One of her hands covered her left eye and forehead, while the other one rubs her neck.",
+                                "start_time": 13.89,
+                                "end_time": 19.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5746e13dfd851a40a6",
+                        "audio_description": "58e7cf3046e13dfd851a2348",
+                        "created_at": 20150425120031,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150425120031,
+                        "file_name": "14299884318251.wav",
+                        "start_time": 50.972,
+                        "legacy_video_id": 1933,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 13222,
+                        "video": "58e7cf2846e13dfd851a1ba0",
+                        "end_time": 62.992000000000004,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e30a561168423183b465b6b",
+                                "sentence": " The young girl stretches out her leg and bumps into the adult",
+                                "start_time": 1.13,
+                                "end_time": 5.36
+                            },
+                            {
+                                "_id": "5e30a561168423183b465b6a",
+                                "sentence": " who after a few moments, response to her touch by rubbing the bottom of her foot.",
+                                "start_time": 5.42,
+                                "end_time": 11.39
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a2348",
+                "status": "published",
+                "legacy_video_id": 1933,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2846e13dfd851a1ba0",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "conversation without words",
+            "deaf-blind",
+            "intervener",
+            "communication",
+            "OHOA learning modules"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ba0",
+        "description": "",
+        "youtube_id": "LsjNWQQOmNg",
+        "views": 0,
+        "created_at": 20150425115346,
+        "title": "LaurenJoy - Module 6",
+        "legacy_video_id": 1933,
+        "updated_at": 20150425120043,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 64
+    }
+}

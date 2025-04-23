@@ -1,0 +1,598 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b192a65a08cad73916be01a",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 9.787982185012817,
+                        "end_time": 9.787982185012817,
+                        "duration": 7.430385487528345,
+                        "file_name": "D8Laqglo1ig_5b192a65a08cad73916be01a.wav",
+                        "file_size_bytes": 1310764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607125149,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cbca",
+                                "sentence": " The male presenter wearing a black jacket",
+                                "start_time": 0.67,
+                                "end_time": 3.47
+                            },
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cbc9",
+                                "sentence": " and with short hair,",
+                                "start_time": 3.47,
+                                "end_time": 5.21
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b192c5ea08cad73916be01e",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 21.008571,
+                        "end_time": 21.008571,
+                        "duration": 5.758548752834467,
+                        "file_name": "D8Laqglo1ig_5b192c5ea08cad73916be01e.wav",
+                        "file_size_bytes": 1015852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607130014,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cbbb",
+                                "sentence": " An animation of an open parking space with vehicles approaching and parking.",
+                                "start_time": 0.73,
+                                "end_time": 5.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b192caaa08cad73916be01f",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 30.579142,
+                        "end_time": 30.579142,
+                        "duration": 4.73687074829932,
+                        "file_name": "D8Laqglo1ig_5b192caaa08cad73916be01f.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607130130,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a98218c9be7dec7b580",
+                                "sentence": " An image of a permit of an australian disability parking.",
+                                "start_time": 0.71,
+                                "end_time": 4.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b192d21a08cad73916be020",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 34.780857,
+                        "end_time": 34.780857,
+                        "duration": 6.222947845804988,
+                        "file_name": "D8Laqglo1ig_5b192d21a08cad73916be020.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607130329,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e3802a354595844c39af5ad",
+                                "sentence": " An image of an old lady looking distressed while keeping her hand on her forehead.",
+                                "start_time": 0.64,
+                                "end_time": 5.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b192dd6a08cad73916be021",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 38.749142,
+                        "end_time": 38.749142,
+                        "duration": 6.780226757369615,
+                        "file_name": "D8Laqglo1ig_5b192dd6a08cad73916be021.wav",
+                        "file_size_bytes": 1196076,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607130630,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a97218c9be7dec7b535",
+                                "sentence": " An image of two girls.",
+                                "start_time": 0.68,
+                                "end_time": 2.59
+                            },
+                            {
+                                "_id": "5e375a97218c9be7dec7b534",
+                                "sentence": " One girl is said while other girl is trying to console her.",
+                                "start_time": 2.59,
+                                "end_time": 6.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b192e50a08cad73916be025",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 49.019999,
+                        "end_time": 49.019999,
+                        "duration": 7.058866213151927,
+                        "file_name": "D8Laqglo1ig_5b192e50a08cad73916be025.wav",
+                        "file_size_bytes": 1245228,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607130832,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cb76",
+                                "sentence": " A text saying",
+                                "start_time": 0.52,
+                                "end_time": 1.82
+                            },
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cb75",
+                                "sentence": " there are 6.4 million registered vehicles in new south wales.",
+                                "start_time": 1.82,
+                                "end_time": 5.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b193069a08cad73916be02d",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 53.547217,
+                        "end_time": 53.547217,
+                        "duration": 9.566621315192744,
+                        "file_name": "D8Laqglo1ig_5b193069a08cad73916be02d.wav",
+                        "file_size_bytes": 1687596,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607131729,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a97218c9be7dec7b56a",
+                                "sentence": " A middle aged woman whose face and registration plates are blurred. Standing next to a white mercedes SUV parked",
+                                "start_time": 0.53,
+                                "end_time": 7.39
+                            },
+                            {
+                                "_id": "5e375a97218c9be7dec7b569",
+                                "sentence": " in a disabled parking space.",
+                                "start_time": 7.39,
+                                "end_time": 9.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b193125a08cad73916be02f",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 57.574657,
+                        "end_time": 57.574657,
+                        "duration": 6.03718820861678,
+                        "file_name": "D8Laqglo1ig_5b193125a08cad73916be02f.wav",
+                        "file_size_bytes": 1065004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607132037,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb24",
+                                "sentence": " A white ute with a buddha just to its back, is parked in a disabled parking space.",
+                                "start_time": 0.43,
+                                "end_time": 5.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b193192a08cad73916be033",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 62.325428,
+                        "end_time": 62.325428,
+                        "duration": 7.801904761904762,
+                        "file_name": "D8Laqglo1ig_5b193192a08cad73916be033.wav",
+                        "file_size_bytes": 1376300,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607132226,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cb74",
+                                "sentence": " A text which reads, there are more than 300000 individuals",
+                                "start_time": 0.99,
+                                "end_time": 5
+                            },
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cb73",
+                                "sentence": " who have valid promise in ennis w.",
+                                "start_time": 5,
+                                "end_time": 7.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b19320ca08cad73916be035",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 65.439643,
+                        "end_time": 65.439643,
+                        "duration": 6.501587301587302,
+                        "file_name": "D8Laqglo1ig_5b19320ca08cad73916be035.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607132428,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a96218c9be7dec7b52a",
+                                "sentence": " An undercover car park space where le shopping trolleys are kept in disabled parking space.",
+                                "start_time": 0.66,
+                                "end_time": 6.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b193286a08cad73916be036",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 68.161142,
+                        "end_time": 68.161142,
+                        "duration": 6.315827664399093,
+                        "file_name": "D8Laqglo1ig_5b193286a08cad73916be036.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607132630,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cb7f",
+                                "sentence": " A big yellow is keeping parked in the street curve",
+                                "start_time": 0.33,
+                                "end_time": 3.79
+                            },
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cb7e",
+                                "sentence": " specified for disabled parking.",
+                                "start_time": 3.79,
+                                "end_time": 5.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b193312a08cad73916be037",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 80.065999,
+                        "end_time": 80.065999,
+                        "duration": 6.501587301587302,
+                        "file_name": "D8Laqglo1ig_5b193312a08cad73916be037.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607132850,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a97218c9be7dec7b54f",
+                                "sentence": " Picture of professor Simon darcy wearing goggles, yellow tie and a black sweater.",
+                                "start_time": 0.65,
+                                "end_time": 5.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b193387a08cad73916be038",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 83.800857,
+                        "end_time": 83.800857,
+                        "duration": 6.408707482993197,
+                        "file_name": "D8Laqglo1ig_5b193387a08cad73916be038.wav",
+                        "file_size_bytes": 1130540,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607133047,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb16",
+                                "sentence": " An animated picture of three cars parked where extra space is marked with yellow color.",
+                                "start_time": 0.44,
+                                "end_time": 6.03
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b1933dea08cad73916be039",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 91.737428,
+                        "end_time": 91.737428,
+                        "duration": 3.900952380952381,
+                        "file_name": "D8Laqglo1ig_5b1933dea08cad73916be039.wav",
+                        "file_size_bytes": 688172,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607133214,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a99218c9be7dec7b588",
+                                "sentence": " Parking, fine. A test on a wiper of a windshield.",
+                                "start_time": 0.58,
+                                "end_time": 3.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b193414a08cad73916be03a",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 104.342571,
+                        "end_time": 104.342571,
+                        "duration": 2.6006349206349206,
+                        "file_name": "D8Laqglo1ig_5b193414a08cad73916be03a.wav",
+                        "file_size_bytes": 458796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607133308,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a97218c9be7dec7b552",
+                                "sentence": " A ban diagram.",
+                                "start_time": 0.86,
+                                "end_time": 2.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b1934b6a08cad73916be03b",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 114.613428,
+                        "end_time": 114.613428,
+                        "duration": 26.192108843537415,
+                        "file_name": "D8Laqglo1ig_5b1934b6a08cad73916be03b.wav",
+                        "file_size_bytes": 4620332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607133550,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a00224fa7e7db7f93e9",
+                                "sentence": " A text which reads",
+                                "start_time": 0.9,
+                                "end_time": 2.6
+                            },
+                            {
+                                "_id": "5e375a00224fa7e7db7f93e8",
+                                "sentence": " common invisible disabilities include sensory disabilities, low vision, hearing loss,",
+                                "start_time": 2.6,
+                                "end_time": 8.37
+                            },
+                            {
+                                "_id": "5e375a00224fa7e7db7f93e7",
+                                "sentence": " auto immune disorders, HIV, AIDS, chronic illness or pain,",
+                                "start_time": 8.37,
+                                "end_time": 13.11
+                            },
+                            {
+                                "_id": "5e375a00224fa7e7db7f93e6",
+                                "sentence": " rheumatoid arthritis, Pro Malaysia,",
+                                "start_time": 13.11,
+                                "end_time": 16.47
+                            },
+                            {
+                                "_id": "5e375a00224fa7e7db7f93e5",
+                                "sentence": " cognitive or learning challenges, AD hasty sleep disorders, and psychological disorders,",
+                                "start_time": 16.47,
+                                "end_time": 22.69
+                            },
+                            {
+                                "_id": "5e375a00224fa7e7db7f93e4",
+                                "sentence": " post traumatic stress disorder, p t s d depression.",
+                                "start_time": 22.69,
+                                "end_time": 25.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b193552a08cad73916be03c",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 128.619142,
+                        "end_time": 128.619142,
+                        "duration": 7.430385487528345,
+                        "file_name": "D8Laqglo1ig_5b193552a08cad73916be03c.wav",
+                        "file_size_bytes": 1310764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607133826,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a97218c9be7dec7b572",
+                                "sentence": " An animated picture of a person whose shadow is in wheelchair and attack saying invisible disabilities.",
+                                "start_time": 0.46,
+                                "end_time": 7.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b1935d0a08cad73916be03d",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 139.590285,
+                        "end_time": 139.590285,
+                        "duration": 2.8792743764172335,
+                        "file_name": "D8Laqglo1ig_5b1935d0a08cad73916be03d.wav",
+                        "file_size_bytes": 507948,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607134032,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a99218c9be7dec7b595",
+                                "sentence": " Disabled parking sign.",
+                                "start_time": 0.72,
+                                "end_time": 2.41
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b1935fba08cad73916be03e",
+                        "video": "5b192a65a08cad73916be01c",
+                        "audio_description": "5b192a65a08cad73916be01b",
+                        "user": "5b1927efa08cad73916be002",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 142.887701,
+                        "end_time": 142.887701,
+                        "duration": 2.972154195011338,
+                        "file_name": "D8Laqglo1ig_5b1935fba08cad73916be03e.wav",
+                        "file_size_bytes": 524332,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/D8Laqglo1ig",
+                        "created_at": 20180607134115,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a99218c9be7dec7b58a",
+                                "sentence": " Reference list.",
+                                "start_time": 0.67,
+                                "end_time": 2.06
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b192a65a08cad73916be01b",
+                "video": "5b192a65a08cad73916be01c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b1927efa08cad73916be002",
+                    "email": "nabinpayal@gmail.com",
+                    "name": "NabCreations",
+                    "given_name": "NabCreations",
+                    "picture": "https://lh5.googleusercontent.com/-AhDBkG3eXew/AAAAAAAAAAI/AAAAAAAAABM/e6hdAhmu-mM/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102029791078224823588",
+                    "last_login": 20180607124119,
+                    "token": "59cede3a1a5b47bf0cafe0918f4f28385db0cb7667d4a5c54a23682552663806",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-au",
+                "created_at": 20180607125149,
+                "updated_at": 20180608194216,
+                "notes": "0:09 The male presenter wearing a black jacket and with short hair.\r\n\r\n0:21 An animation of an open parking space with vehicles approaching and parking.\r\n\r\n0:30 An image of a permit of Australian disability parking.\r\n\r\n0:34 An image of an old lady looking distressed while keeping her hand on her forehead\r\n\r\n0:30 An image of two girls, one girl is sad while other girl is trying to console her\r\n\r\n0:49 A text saying \" there are...\"\r\n\r\n0:51 A middle aged woman whose face and registration plates are blurred standing next to a white mercedes suv parked in a disabled parking space\r\n\r\n0:57 a white ute with a boat attached to its back is parked in a disabled parking space\r\n\r\n1:02 A text which reads \" There are...\r\n\r\nAn undercover carpark space where aldi shopping trolleys are kept in Disabled parking space\r\n\r\nA big yellow skip bin parked in the street kerb specified for disabled parking \r\n\r\nPicture or professor simon darcy, wearing goggles yellow tie and a black sweater\r\n\r\nAn animated picture of 3 cars parked where extra space is marked with yellow colour\r\n\r\nParking fine attached on a wiper of a windshield\r\n\r\nA bar diagram\r\n\r\nA text\r\n\r\nAn animated picture of a person whose shadow is in wheelchair and a text saying invisible disabilities\r\n\r\ndisabled parking sign\r\n\r\n\r\n",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {
+                    "7": 1
+                }
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5b192a65a08cad73916be01c",
+        "title": "Stealing disabled parking space",
+        "description": "",
+        "youtube_id": "D8Laqglo1ig",
+        "created_at": 20180607125149,
+        "updated_at": 20180607134115,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 144
+    }
+}

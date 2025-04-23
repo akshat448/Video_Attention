@@ -1,0 +1,116 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5846e13dfd851a4146",
+                        "audio_description": "58e7cf2d46e13dfd851a21ef",
+                        "created_at": 20150427122746,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150427122746,
+                        "file_name": "14301628664411.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1960,
+                        "legacy_user_id": 2291,
+                        "label": "",
+                        "legacy_audio_clip_id": 13409,
+                        "video": "58e7cf2846e13dfd851a1bbb",
+                        "end_time": 24.3,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 24.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21ee",
+                        "transcript": [
+                            {
+                                "_id": "5e30a168168423183b465aa7",
+                                "sentence": " A group of penguins floating on the iceberg.",
+                                "start_time": 0.54,
+                                "end_time": 3.28
+                            },
+                            {
+                                "_id": "5e30a168168423183b465aa6",
+                                "sentence": " A shark is swimming through the water, circling around the iceberg, and then toward the iceberg,",
+                                "start_time": 3.52,
+                                "end_time": 9.11
+                            },
+                            {
+                                "_id": "5e30a168168423183b465aa5",
+                                "sentence": " one pain, one notices a shark and signals to move away.",
+                                "start_time": 9.31,
+                                "end_time": 13.13
+                            },
+                            {
+                                "_id": "5e30a168168423183b465aa4",
+                                "sentence": " The iceberg tips upward a little bit.",
+                                "start_time": 13.6,
+                                "end_time": 16.06
+                            },
+                            {
+                                "_id": "5e30a168168423183b465aa3",
+                                "sentence": " The shark",
+                                "start_time": 16.4,
+                                "end_time": 17.48
+                            },
+                            {
+                                "_id": "5e30a168168423183b465aa2",
+                                "sentence": " begin swimming right into the side of",
+                                "start_time": 17.49,
+                                "end_time": 19.9
+                            },
+                            {
+                                "_id": "5e30a168168423183b465aa1",
+                                "sentence": " air.",
+                                "start_time": 20.28,
+                                "end_time": 24.26
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21ef",
+                "status": "published",
+                "legacy_video_id": 1960,
+                "legacy_user_id": 2291,
+                "video": "58e7cf2846e13dfd851a1bbb",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21ee",
+                    "name": "Kursten",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2291,
+                    "last_login": 0,
+                    "email": "kursten.dubbels@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1bbb",
+        "description": "",
+        "youtube_id": "sbO4gls3p2M",
+        "views": 0,
+        "created_at": 20150427121246,
+        "title": "Charting the Cs Penguins",
+        "legacy_video_id": 1960,
+        "updated_at": 20150427122754,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 27
+    }
+}

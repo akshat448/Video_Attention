@@ -1,0 +1,670 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f6b",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161024202723,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161024202723,
+                        "file_name": "14773660439351.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3295,
+                        "label": "",
+                        "legacy_audio_clip_id": 25467,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a26e7",
+                        "transcript": []
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f6c",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161024202723,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161024202723,
+                        "file_name": "14773660438491.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3295,
+                        "label": "",
+                        "legacy_audio_clip_id": 25468,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a26e7",
+                        "transcript": []
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f6d",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161024202724,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161024202724,
+                        "file_name": "14773660443831.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3295,
+                        "label": "",
+                        "legacy_audio_clip_id": 25469,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a26e7",
+                        "transcript": []
+                    }
+                ],
+                "_id": "58e7cf3846e13dfd851a26ea",
+                "status": "published",
+                "legacy_video_id": 2822,
+                "legacy_user_id": 3295,
+                "video": "58e7cf2946e13dfd851a1f18",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3846e13dfd851a26e7",
+                    "name": "dladerman",
+                    "google_user_id_token": "",
+                    "created_at": 20161012191106,
+                    "updated_at": 20161012201423,
+                    "legacy_user_id": 3295,
+                    "last_login": 0,
+                    "email": "dladerman@clevelandsightcenter.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f76",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029123005,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029123005,
+                        "file_name": "14777694056651.wav",
+                        "start_time": 7.421,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25546,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 7.421,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e45aa6598b0c327b1e12610",
+                                "sentence": " Short clips of scenery around cambridge, massachusetts, pop up on the screen.",
+                                "start_time": 0.19,
+                                "end_time": 5.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f77",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029123049,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029123049,
+                        "file_name": "14777694490861.wav",
+                        "start_time": 13.864,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25547,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 13.864,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de155990433204719",
+                                "sentence": " Brownie, the dog walks out of the house on a leash, acting excited.",
+                                "start_time": 0.42,
+                                "end_time": 4.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f78",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029123125,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029123125,
+                        "file_name": "14777694856261.wav",
+                        "start_time": 22.359,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25548,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 22.359,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e47504ce1559904332046bd",
+                                "sentence": " Brownie, the dog runs around a grassy field in a park.",
+                                "start_time": 0.43,
+                                "end_time": 4.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f79",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029123215,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029123215,
+                        "file_name": "14777695358491.wav",
+                        "start_time": 34.879,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25549,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 34.879,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de1559904332046de",
+                                "sentence": " The camera pans from brownie, the dogs face to a bunny.",
+                                "start_time": 0.31,
+                                "end_time": 3.99
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f7a",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029123253,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029123253,
+                        "file_name": "14777695733951.wav",
+                        "start_time": 37.351,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25550,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 41.441,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e47522f776f3e043421dee8",
+                                "sentence": " Brownie and the bunny named purple play together jumping around.",
+                                "start_time": 0.21,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f7b",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029123357,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029123357,
+                        "file_name": "14777696376761.wav",
+                        "start_time": 49.894,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25551,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 49.894,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e475230776f3e043421df26",
+                                "sentence": " Purple! The bunny sniffs brownie.",
+                                "start_time": 0.23,
+                                "end_time": 2.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f7c",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029123425,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029123425,
+                        "file_name": "14777696654821.wav",
+                        "start_time": 62.801,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25552,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 62.801,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e474cdf776f3e043421de94",
+                                "sentence": " Purple, the bunny is jumping up and down.",
+                                "start_time": 0.44,
+                                "end_time": 3.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f7d",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029123550,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029123550,
+                        "file_name": "14777697509431.wav",
+                        "start_time": 83.733,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25553,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 83.733,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e475230776f3e043421df08",
+                                "sentence": " Brownie sniffs purple.",
+                                "start_time": 0.28,
+                                "end_time": 2.09
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f7e",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029123645,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029123645,
+                        "file_name": "14777698059861.wav",
+                        "start_time": 115.295,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25554,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 115.295,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de1559904332046fd",
+                                "sentence": " Up close shot of purples face.",
+                                "start_time": 0.3,
+                                "end_time": 3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f7f",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029123750,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029123750,
+                        "file_name": "14777698702721.wav",
+                        "start_time": 121.442,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25555,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 121.442,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de155990433204711",
+                                "sentence": " The camera moves around the room like the perspective of an animal,",
+                                "start_time": 0.38,
+                                "end_time": 4.63
+                            },
+                            {
+                                "_id": "5e47504de155990433204710",
+                                "sentence": " and moves towards purples, cage,",
+                                "start_time": 4.63,
+                                "end_time": 7.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f80",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029123817,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029123817,
+                        "file_name": "14777698977291.wav",
+                        "start_time": 130.216,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25556,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 130.216,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e45aa6598b0c327b1e12605",
+                                "sentence": " Purple crawls out of the cage.",
+                                "start_time": 0.16,
+                                "end_time": 2.45
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f81",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029124112,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029124112,
+                        "file_name": "14777700723821.wav",
+                        "start_time": 143.736,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25558,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 143.736,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de15599043320472b",
+                                "sentence": " We see brownie, the dog",
+                                "start_time": 0.2,
+                                "end_time": 2.12
+                            },
+                            {
+                                "_id": "5e47504de15599043320472a",
+                                "sentence": " from the perspective of purple, the bunny hiding underneath the couch.",
+                                "start_time": 2.12,
+                                "end_time": 5.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f82",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029124138,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029124138,
+                        "file_name": "14777700985531.wav",
+                        "start_time": 149.728,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25559,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 149.728,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e47504ce1559904332046d8",
+                                "sentence": " Brownie sniffs underneath the couch.",
+                                "start_time": 0.38,
+                                "end_time": 2.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f83",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029124154,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029124154,
+                        "file_name": "14777701140901.wav",
+                        "start_time": 155.979,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25560,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 155.979,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e474cde776f3e043421de1e",
+                                "sentence": " The two animals continue to play with each other, jumping around.",
+                                "start_time": 0.24,
+                                "end_time": 4.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f84",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029124247,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029124247,
+                        "file_name": "14777701679451.wav",
+                        "start_time": 166.208,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25561,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 166.208,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e474cde776f3e043421de7f",
+                                "sentence": " The pet owners hold their PETS in their hands and cuddle them.",
+                                "start_time": 0.3,
+                                "end_time": 4.77
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f85",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029124546,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029124546,
+                        "file_name": "14777703466531.wav",
+                        "start_time": 46.137,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25562,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 46.137,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de1559904332046f6",
+                                "sentence": " The owner of the pet's a lady and a blue striped shirt is interviewed on camera.",
+                                "start_time": 0.14,
+                                "end_time": 4.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f86",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029124701,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029124701,
+                        "file_name": "14777704210901.wav",
+                        "start_time": 56.471,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25563,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 56.471,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de1559904332046dd",
+                                "sentence": " The other owner, a man and a pale colored shirt, is interviewed on camera.",
+                                "start_time": 0,
+                                "end_time": 4.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8246e13dfd851a5f87",
+                        "audio_description": "58e7cf3846e13dfd851a26ea",
+                        "created_at": 20161029124811,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161029124811,
+                        "file_name": "14777704916821.wav",
+                        "start_time": 67.194,
+                        "legacy_video_id": 2822,
+                        "legacy_user_id": 3338,
+                        "label": "",
+                        "legacy_audio_clip_id": 25564,
+                        "video": "58e7cf2946e13dfd851a1f18",
+                        "end_time": 71.034,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3846e13dfd851a271a",
+                        "transcript": [
+                            {
+                                "_id": "5e47504de15599043320470a",
+                                "sentence": " Brownie and purple continue to play together in the room.",
+                                "start_time": 0.28,
+                                "end_time": 3.37
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3846e13dfd851a271b",
+                "status": "published",
+                "legacy_video_id": 2822,
+                "legacy_user_id": 3338,
+                "video": "58e7cf2946e13dfd851a1f18",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3846e13dfd851a271a",
+                    "name": "KristyTaves",
+                    "google_user_id_token": "",
+                    "created_at": 20161029115114,
+                    "updated_at": 20161029115839,
+                    "legacy_user_id": 3338,
+                    "last_login": 0,
+                    "email": "kvt212@nyu.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "puppy",
+            "dog",
+            "bunny",
+            "rabbit",
+            "animal",
+            "friends",
+            "play",
+            "cute",
+            "adorable",
+            "dogs"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1f18",
+        "description": "",
+        "youtube_id": "GrzDQGVprjE",
+        "views": 0,
+        "created_at": 20161024201458,
+        "title": "Puppy and Bunny Play",
+        "legacy_video_id": 2822,
+        "updated_at": 20161029124830,
+        "youtube_status": "available",
+        "category": "Pets & Animals",
+        "category_id": "15",
+        "duration": 183
+    }
+}

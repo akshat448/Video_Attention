@@ -1,0 +1,65 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fd2b8ad95521063835cec10",
+                        "video": "5fd2b8ad95521063835cec12",
+                        "audio_description": "5fd2b8ad95521063835cec11",
+                        "user": "5fc6b5fb95521063835ce383",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 9.102222222222222,
+                        "duration": 9.102222222222222,
+                        "file_name": "EMJ0kz8Iu9o_5fd2b8ad95521063835cec10.wav",
+                        "file_size_bytes": 1605676,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/EMJ0kz8Iu9o",
+                        "created_at": 20201211000917,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fd2b8ad95521063835cec11",
+                "video": "5fd2b8ad95521063835cec12",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5fc6b5fb95521063835ce383",
+                    "email": "ecastillojenn@gmail.com",
+                    "name": "Jennifer Castillo",
+                    "given_name": "Jennifer",
+                    "picture": "https://lh4.googleusercontent.com/-5bpnry8pqfg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckH9ncyvBYAW2kOTFQ5bs4EeopJOg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115887003623205163006",
+                    "last_login": 20201221205124,
+                    "token": "1114491ec716f0171a30639c483ee718d98ebe8e044084b7b6bf4e03ccbb3772",
+                    "__v": 0,
+                    "updated_at": 20201221205124
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201211000917,
+                "updated_at": 20201211000917,
+                "notes": "",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fd2b8ad95521063835cec12",
+        "title": "Ecosystems Time-Lapse",
+        "description": "Watch the building that hold our Ecosystems gallery come together from the ground up! Big cranes being assembled, floors going into place\u2014all to make a space for some amazing exhibits!\n\nFor more science videos, blog posts, and virtual tours, visit californiasciencecenter.org/beyond",
+        "youtube_id": "EMJ0kz8Iu9o",
+        "created_at": 20201211000917,
+        "updated_at": 20201211000917,
+        "views": 0,
+        "__v": 0
+    }
+}

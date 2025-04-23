@@ -1,0 +1,195 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c953b32ab5fd817ce54d0fc",
+                        "video": "5c953a7aab5fd817ce54d0fa",
+                        "audio_description": "5c953a7aab5fd817ce54d0f9",
+                        "user": "5c931eb2ab5fd817ce54d0c7",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 263.583001,
+                        "end_time": 263.583001,
+                        "duration": 15.046530612244897,
+                        "file_name": "SkB4gG8ke7Q_5c953b32ab5fd817ce54d0fc.wav",
+                        "file_size_bytes": 2654252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/SkB4gG8ke7Q",
+                        "created_at": 20190322194450,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb997b5",
+                                "sentence": " On screen. A sculpture by Sophia wallace appears.",
+                                "start_time": 0.71,
+                                "end_time": 4.44
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb997b4",
+                                "sentence": " It depicts the full anatomy of a clitoris.",
+                                "start_time": 4.51,
+                                "end_time": 7.56
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb997b3",
+                                "sentence": " This sculpture is part of the artists project titled literacy.",
+                                "start_time": 7.56,
+                                "end_time": 13.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c953d76ab5fd817ce54d0ff",
+                        "video": "5c953a7aab5fd817ce54d0fa",
+                        "audio_description": "5c953a7aab5fd817ce54d0f9",
+                        "user": "5c931eb2ab5fd817ce54d0c7",
+                        "label": "Diagram",
+                        "playback_type": "extended",
+                        "start_time": 494.840287,
+                        "end_time": 494.840287,
+                        "duration": 46.439909297052154,
+                        "file_name": "SkB4gG8ke7Q_5c953d76ab5fd817ce54d0ff.wav",
+                        "file_size_bytes": 8192044,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/SkB4gG8ke7Q",
+                        "created_at": 20190322195430,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99756",
+                                "sentence": " A diagram is presented on screen titled nonlinear model of female sexual response",
+                                "start_time": 1.04,
+                                "end_time": 7.57
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99755",
+                                "sentence": " by doctor rosemary basin, doctor beverly whipple at all.",
+                                "start_time": 7.57,
+                                "end_time": 11.62
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99754",
+                                "sentence": " The diagram depicts the stages of female sexual arousal in order.",
+                                "start_time": 12.31,
+                                "end_time": 17.1
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99753",
+                                "sentence": " The stages are motivations for sex, sexual stimuli,",
+                                "start_time": 17.13,
+                                "end_time": 21.98
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99752",
+                                "sentence": " context and mind,",
+                                "start_time": 21.98,
+                                "end_time": 23.6
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99751",
+                                "sentence": " sexual arousal in mind and body",
+                                "start_time": 23.72,
+                                "end_time": 26.57
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb99750",
+                                "sentence": " sexual desire.",
+                                "start_time": 26.74,
+                                "end_time": 28.37
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb9974f",
+                                "sentence": " And lastly satisfaction,",
+                                "start_time": 28.37,
+                                "end_time": 30.74
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb9974e",
+                                "sentence": " it shows that women may start",
+                                "start_time": 31.23,
+                                "end_time": 33.69
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb9974d",
+                                "sentence": " at the stages motivations for sex or sexual stimuli or",
+                                "start_time": 33.69,
+                                "end_time": 39.45
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb9974c",
+                                "sentence": " sexual arousal in mind and body",
+                                "start_time": 39.45,
+                                "end_time": 42.24
+                            },
+                            {
+                                "_id": "5e1c74ebcada26ae4eb9974b",
+                                "sentence": " stemming from spontaneous desire.",
+                                "start_time": 42.26,
+                                "end_time": 45.26
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c953a7aab5fd817ce54d0f9",
+                "video": "5c953a7aab5fd817ce54d0fa",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c931eb2ab5fd817ce54d0c7",
+                    "email": "sesh4314@colorado.edu",
+                    "name": "Sean Shaifubahrim",
+                    "given_name": "Sean",
+                    "picture": "https://lh6.googleusercontent.com/-mMh-AcqpqUw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdpld5jMqc9KHSc-0UUgD1cj8GsKA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "107054701638432152035",
+                    "last_login": 20190322194056,
+                    "token": "f4a6f88e2bec92a49b77d298407300f97987751803cec514dca56e251b8c13e6",
+                    "__v": 0,
+                    "updated_at": 20190322194056,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190322194146,
+                "updated_at": 20190331004629,
+                "notes": "A diagram is presented on screen titled \u201c\u201dNon-Linear Model of Female Sexual Response\u201d by Dr. Rosemary Basson, Dr. Beverly Whipple et al.\r\n\r\nThe diagram depicts the stages of female sexual response in order. The stages are Motivations for Sex, Sexual Stimuli, Context and Mind, Sexual Arousal in Mind and Body, Responsive Desire, and lastly Satisfaction. It shows that Women may start at stages Motivations for Sex or Sexual stimuli or sexual arousal in mind and body, stemming from Spontaneous desire.\r\n",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "TEDTalk",
+            "TEDTalks",
+            "TEDx",
+            "Sex",
+            "Science",
+            "Culture",
+            "Human Body",
+            "Society",
+            "Women",
+            "Relationships"
+        ],
+        "custom_tags": [],
+        "_id": "5c953a7aab5fd817ce54d0fa",
+        "title": "The uncomplicated truth about women's sexuality | Sarah Barmak",
+        "description": "Is women's sexuality more complicated than men's? Well, not really, no, says author Sarah Barmak. In this frank, eye-opening talk, she shows how a flawed understanding of the female body has shaped this discussion for centuries. She debunks some age-old myths (you're welcome) and offers a richer definition of pleasure that gets closer to the simple truth about women's sexuality.\n\nCheck out more TED Talks: http://www.ted.com\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED",
+        "youtube_id": "SkB4gG8ke7Q",
+        "created_at": 20190322194146,
+        "updated_at": 20190322195430,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 681
+    }
+}

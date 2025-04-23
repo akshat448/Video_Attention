@@ -1,0 +1,89 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ea9a1a6e1b8b12f0893d856",
+                        "video": "5ea99e1de1b8b12f0893d855",
+                        "audio_description": "5ea99e1de1b8b12f0893d854",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "csu logo",
+                        "playback_type": "extended",
+                        "start_time": 122.050564,
+                        "end_time": 122.050564,
+                        "duration": 4.437333333333333,
+                        "file_name": "jQHVrDFNmJE_5ea9a1a6e1b8b12f0893d856.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/jQHVrDFNmJE",
+                        "created_at": 20200429154750,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5ea9a3b3e1b8b12f0893d857",
+                        "video": "5ea99e1de1b8b12f0893d855",
+                        "audio_description": "5ea99e1de1b8b12f0893d854",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "description",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 16.298666666666666,
+                        "file_name": "jQHVrDFNmJE_5ea9a3b3e1b8b12f0893d857.wav",
+                        "file_size_bytes": 3129388,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/jQHVrDFNmJE",
+                        "created_at": 20200429155635,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5ea99e1de1b8b12f0893d854",
+                "video": "5ea99e1de1b8b12f0893d855",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e9f7a4d84f1bb7886752425",
+                    "email": "chhsad201@gmail.com",
+                    "name": "CHHS AD201",
+                    "given_name": "CHHS",
+                    "picture": "https://lh5.googleusercontent.com/-JpwQdP332ew/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOjaGw_XfdNe6Y3TML0kj8gdNHJZA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111438173098375409345",
+                    "last_login": 20201014163508,
+                    "token": "8b25ee0df1dcdee4a1c94ede45a3e8475678aa3b10c76fbf6ea8097a75608fa7",
+                    "__v": 0,
+                    "updated_at": 20201014163508,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200429153245,
+                "updated_at": 20200429153245,
+                "notes": "Scenes change between Cooper Siville speaking to the camera and footage of him in classes designing clothing on the computer, showing fabric samples and students building outfits on manaquines.\nCooper has short brown hair and is wearing a black turtleneck and a leather jacket.\n\nDesign and merchandising\ncolorado state university",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5ea99e1de1b8b12f0893d855",
+        "title": "Student Feature: Cooper Siville, Apparel and Merchandising",
+        "description": "As an Apparel and Merchandising major, you\u2019ll harness your creativity and critical thinking to learn about apparel and textile design and development, as well as sourcing, production, and retailing of consumer goods. You\u2019ll study cultural, historical, economic, and scientific aspects of the textile and apparel industry, while fostering an understanding of consumer behavior and socially responsible business practices. There are three concentrations in the major: Apparel Design and Production, Merchandising, and Product Development.\n\nThe Merchandising concentration prepares students for the assortment, planning, and sale of textile and apparel goods. Students who choose this concentration will complete coursework in consumer behavior, merchandising processes, management, merchandise buying, retail store design, and the global industry.\n\nLearn more about the Merchandising concentration: www.dm.chhs.colostate.edu/students/undergraduate/am.aspx",
+        "youtube_id": "jQHVrDFNmJE",
+        "created_at": 20200429153245,
+        "updated_at": 20200429155635,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 126
+    }
+}

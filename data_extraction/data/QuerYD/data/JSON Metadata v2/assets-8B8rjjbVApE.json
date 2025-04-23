@@ -1,0 +1,127 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d81060f8302113cc4be506a",
+                        "video": "5d8105e915c8ca3ccf56d729",
+                        "audio_description": "5d8105e915c8ca3ccf56d728",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 26.112,
+                        "duration": 26.112,
+                        "file_name": "8B8rjjbVApE_5d81060f8302113cc4be506a.wav",
+                        "file_size_bytes": 5013548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/8B8rjjbVApE",
+                        "created_at": 20190917161303,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51952d9a8b1f3b42081180",
+                                "sentence": " To students handle a dog. Why fed watchers tax rates fed a narrow technology if you love animals and helping animals than a career in veterinary technology is for you",
+                                "start_time": 1.18,
+                                "end_time": 8.41
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b4208117f",
+                                "sentence": " students prepare a dog for x rays, tax rates careers, graduates find opportunities in February offices, diagnostic labs teaching in humane societies,",
+                                "start_time": 8.41,
+                                "end_time": 15.83
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b4208117e",
+                                "sentence": " students, watcher, fed examiner, dog smelt, tax rates length the programme an associate degree in as little as 16 months.",
+                                "start_time": 15.83,
+                                "end_time": 21.79
+                            },
+                            {
+                                "_id": "5e51952d9a8b1f3b4208117d",
+                                "sentence": " Students handle dog, I vets watch tech streets, you've got this.",
+                                "start_time": 21.79,
+                                "end_time": 25.43
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d8105e915c8ca3ccf56d728",
+                "video": "5d8105e915c8ca3ccf56d729",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190917161225,
+                "updated_at": 20190917161225,
+                "notes": "2 students handle a dog while vet watches\r\nText reads:\r\nVeterinary Technology\r\nIf you love animals and helping animals, then a career in Veterinary Technology is for you\r\n\r\nStudents prepare a dog for x-rays\r\nText reads:\r\nCareers\r\nGraduates find opportunities in veterinary offices, diagnostic labs, teaching, humane societies.\r\n\r\nStudents watch a vet examine a dog's mouth\r\nText reads:\r\nLength of program \r\nEarn an associate degree in as little as 16 months. \r\n\r\nStudents handle a dog while vets watch\r\nText reads:\r\nYou've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [],
+                "_id": "5d8155d715c8ca3ccf56d72f",
+                "video": "5d8105e915c8ca3ccf56d729",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d78239615c8ca3ccf56d6bd",
+                    "email": "poorvarathi0208@gmail.com",
+                    "name": "Poorva Rathi",
+                    "given_name": "Poorva",
+                    "picture": "https://lh6.googleusercontent.com/-zAFnfIiyQyE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfnILKDFRNycWuHVJx_BAa0OH5N_g/s96-c/photo.jpg",
+                    "locale": "en-GB",
+                    "google_user_id": "103812075497137365718",
+                    "last_login": 20200508000510,
+                    "token": "a50b91480375c9d201ed9746a3e124bc14463cd46d2c282283d727b4a32a5b03",
+                    "__v": 0,
+                    "updated_at": 20200508000510,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20190917215327,
+                "updated_at": 20190917215327,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Veterinary Technology",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5d8105e915c8ca3ccf56d729",
+        "title": "Veterinary  Technology program video",
+        "description": "Information on the Veterinary  Technology program.",
+        "youtube_id": "8B8rjjbVApE",
+        "created_at": 20190917161225,
+        "updated_at": 20190917215327,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

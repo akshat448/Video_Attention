@@ -1,0 +1,399 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4b46e13dfd851a3715",
+                        "audio_description": "58e7cf2f46e13dfd851a22d0",
+                        "created_at": 20141202184925,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202184925,
+                        "file_name": "14175749658791.wav",
+                        "start_time": 0.346,
+                        "legacy_video_id": 1727,
+                        "legacy_user_id": 2469,
+                        "label": "",
+                        "legacy_audio_clip_id": 10252,
+                        "video": "58e7cf2846e13dfd851a1ad2",
+                        "end_time": 0.346,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ce",
+                        "transcript": [
+                            {
+                                "_id": "5e21969b63d3c80d19f0d149",
+                                "sentence": " Lenny and Georgia kneeling together by the stream.",
+                                "start_time": 0,
+                                "end_time": 2.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a3716",
+                        "audio_description": "58e7cf2f46e13dfd851a22d0",
+                        "created_at": 20141202185053,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202185053,
+                        "file_name": "14175750538671.wav",
+                        "start_time": 24.487,
+                        "legacy_video_id": 1727,
+                        "legacy_user_id": 2469,
+                        "label": "",
+                        "legacy_audio_clip_id": 10253,
+                        "video": "58e7cf2846e13dfd851a1ad2",
+                        "end_time": 27.557,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ce",
+                        "transcript": [
+                            {
+                                "_id": "5e2195866873bc0d1a2607e6",
+                                "sentence": " Lenny faces away from george.",
+                                "start_time": 0,
+                                "end_time": 2.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a3717",
+                        "audio_description": "58e7cf2f46e13dfd851a22d0",
+                        "created_at": 20141202185226,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202185226,
+                        "file_name": "14175751463511.wav",
+                        "start_time": 43.048,
+                        "legacy_video_id": 1727,
+                        "legacy_user_id": 2469,
+                        "label": "",
+                        "legacy_audio_clip_id": 10254,
+                        "video": "58e7cf2846e13dfd851a1ad2",
+                        "end_time": 45.608000000000004,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ce",
+                        "transcript": [
+                            {
+                                "_id": "5e2195866873bc0d1a260804",
+                                "sentence": " George lins until any.",
+                                "start_time": 0,
+                                "end_time": 1.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a3718",
+                        "audio_description": "58e7cf2f46e13dfd851a22d0",
+                        "created_at": 20141202185302,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202185302,
+                        "file_name": "14175751820111.wav",
+                        "start_time": 60.113,
+                        "legacy_video_id": 1727,
+                        "legacy_user_id": 2469,
+                        "label": "",
+                        "legacy_audio_clip_id": 10256,
+                        "video": "58e7cf2846e13dfd851a1ad2",
+                        "end_time": 62.413,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ce",
+                        "transcript": [
+                            {
+                                "_id": "5e219308a294340d18b4c47e",
+                                "sentence": " George lifts up his head.",
+                                "start_time": 0,
+                                "end_time": 1.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a3719",
+                        "audio_description": "58e7cf2f46e13dfd851a22d0",
+                        "created_at": 20141202185359,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202185359,
+                        "file_name": "14175752396581.wav",
+                        "start_time": 83.388,
+                        "legacy_video_id": 1727,
+                        "legacy_user_id": 2469,
+                        "label": "",
+                        "legacy_audio_clip_id": 10257,
+                        "video": "58e7cf2846e13dfd851a1ad2",
+                        "end_time": 85.438,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ce",
+                        "transcript": [
+                            {
+                                "_id": "5e21930ba294340d18b4c4a2",
+                                "sentence": " Which stands up.",
+                                "start_time": 0,
+                                "end_time": 1.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a371a",
+                        "audio_description": "58e7cf2f46e13dfd851a22d0",
+                        "created_at": 20141202185437,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202185437,
+                        "file_name": "14175752777331.wav",
+                        "start_time": 89.481,
+                        "legacy_video_id": 1727,
+                        "legacy_user_id": 2469,
+                        "label": "",
+                        "legacy_audio_clip_id": 10258,
+                        "video": "58e7cf2846e13dfd851a1ad2",
+                        "end_time": 94.341,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ce",
+                        "transcript": [
+                            {
+                                "_id": "5e21958d6873bc0d1a260829",
+                                "sentence": " Lenny falls to the floor, and george slowly lowers his gun.",
+                                "start_time": 0,
+                                "end_time": 3.98
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a371b",
+                        "audio_description": "58e7cf2f46e13dfd851a22d0",
+                        "created_at": 20141202185529,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202185529,
+                        "file_name": "14175753298051.wav",
+                        "start_time": 95.374,
+                        "legacy_video_id": 1727,
+                        "legacy_user_id": 2469,
+                        "label": "",
+                        "legacy_audio_clip_id": 10259,
+                        "video": "58e7cf2846e13dfd851a1ad2",
+                        "end_time": 100.234,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ce",
+                        "transcript": [
+                            {
+                                "_id": "5e21930da294340d18b4c4eb",
+                                "sentence": " George closes his eyes in grievance.",
+                                "start_time": 1.14,
+                                "end_time": 3.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a371d",
+                        "audio_description": "58e7cf2f46e13dfd851a22d0",
+                        "created_at": 20141202185617,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202185617,
+                        "file_name": "14175753777831.wav",
+                        "start_time": 102.271,
+                        "legacy_video_id": 1727,
+                        "legacy_user_id": 2469,
+                        "label": "",
+                        "legacy_audio_clip_id": 10262,
+                        "video": "58e7cf2846e13dfd851a1ad2",
+                        "end_time": 106.621,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ce",
+                        "transcript": [
+                            {
+                                "_id": "5e21930ca294340d18b4c4cd",
+                                "sentence": " He walks slowly towards lenny and nails beside him.",
+                                "start_time": 0,
+                                "end_time": 3.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3786",
+                        "audio_description": "58e7cf2f46e13dfd851a22d0",
+                        "created_at": 20141203140538,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141203140538,
+                        "file_name": "14176443380211.wav",
+                        "start_time": 7.798,
+                        "legacy_video_id": 1727,
+                        "legacy_user_id": 2469,
+                        "label": "",
+                        "legacy_audio_clip_id": 10438,
+                        "video": "58e7cf2846e13dfd851a1ad2",
+                        "end_time": 10.358,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ce",
+                        "transcript": [
+                            {
+                                "_id": "5e23c41afb2f59e9541496ec",
+                                "sentence": " George puts his hand on learning shoulder.",
+                                "start_time": 0,
+                                "end_time": 2.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3787",
+                        "audio_description": "58e7cf2f46e13dfd851a22d0",
+                        "created_at": 20141203140717,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141203140717,
+                        "file_name": "14176444376091.wav",
+                        "start_time": 12.425,
+                        "legacy_video_id": 1727,
+                        "legacy_user_id": 2469,
+                        "label": "",
+                        "legacy_audio_clip_id": 10440,
+                        "video": "58e7cf2846e13dfd851a1ad2",
+                        "end_time": 14.725000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ce",
+                        "transcript": [
+                            {
+                                "_id": "5e23c41afb2f59e9541496eb",
+                                "sentence": " Which points into the distance?",
+                                "start_time": 0,
+                                "end_time": 2.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3788",
+                        "audio_description": "58e7cf2f46e13dfd851a22d0",
+                        "created_at": 20141203140857,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141203140857,
+                        "file_name": "14176445373931.wav",
+                        "start_time": 83.037,
+                        "legacy_video_id": 1727,
+                        "legacy_user_id": 2469,
+                        "label": "",
+                        "legacy_audio_clip_id": 10441,
+                        "video": "58e7cf2846e13dfd851a1ad2",
+                        "end_time": 84.56700000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ce",
+                        "transcript": [
+                            {
+                                "_id": "5e23e7c1ac8bf5054a1ed79f",
+                                "sentence": " Which stands up.",
+                                "start_time": 0,
+                                "end_time": 1.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3789",
+                        "audio_description": "58e7cf2f46e13dfd851a22d0",
+                        "created_at": 20141203141043,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141203141043,
+                        "file_name": "14176446430481.wav",
+                        "start_time": 116.98,
+                        "legacy_video_id": 1727,
+                        "legacy_user_id": 2469,
+                        "label": "",
+                        "legacy_audio_clip_id": 10442,
+                        "video": "58e7cf2846e13dfd851a1ad2",
+                        "end_time": 120.82000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22ce",
+                        "transcript": [
+                            {
+                                "_id": "5e23c43efb2f59e954149768",
+                                "sentence": " George hung his head, bringing his hands to his face.",
+                                "start_time": 0,
+                                "end_time": 3.4
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2f46e13dfd851a22d0",
+                "status": "published",
+                "legacy_video_id": 1727,
+                "legacy_user_id": 2469,
+                "video": "58e7cf2846e13dfd851a1ad2",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2f46e13dfd851a22ce",
+                    "name": "elliebishop",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2469,
+                    "last_login": 0,
+                    "email": "elliebishop_93@berkeley.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "of mice and men",
+            "of mice and men second and sebring",
+            "of mice and men when you can't sleep at night",
+            "of mice and men the depths",
+            "of mice and men my understandings",
+            "of mice and men little talks",
+            "of mice and men og loko",
+            "of mice and men the flood",
+            "of mice and men live",
+            "of mice and men interview"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ad2",
+        "description": "",
+        "youtube_id": "5Ddap2Pyhtw",
+        "views": 0,
+        "created_at": 20141129161546,
+        "title": "Of Mice and Men (10/10) Movie CLIP - George Shoots Lennie (1992) HD",
+        "legacy_video_id": 1727,
+        "updated_at": 20141203141046,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 162
+    }
+}

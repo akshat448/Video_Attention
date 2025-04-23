@@ -1,0 +1,149 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a1dbd96f345660a4f7f57ec",
+                        "video": "5a1dbceff345660a4f7f57eb",
+                        "audio_description": "5a1dbceff345660a4f7f57ea",
+                        "user": "5a1dbc52f345660a4f7f57e8",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 3.136168,
+                        "end_time": 3.136168,
+                        "duration": 6.058666666666666,
+                        "file_name": "nF5JZuY7W2Q_5a1dbd96f345660a4f7f57ec.wav",
+                        "file_size_bytes": 1163308,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/nF5JZuY7W2Q",
+                        "created_at": 20171128194838,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5a1dbdc2f345660a4f7f57ed",
+                        "video": "5a1dbceff345660a4f7f57eb",
+                        "audio_description": "5a1dbceff345660a4f7f57ea",
+                        "user": "5a1dbc52f345660a4f7f57e8",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 5.50037,
+                        "end_time": 5.50037,
+                        "duration": 4.522666666666667,
+                        "file_name": "nF5JZuY7W2Q_5a1dbdc2f345660a4f7f57ed.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/nF5JZuY7W2Q",
+                        "created_at": 20171128194922,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5aefe77473c383d1159a6d",
+                                "sentence": "Hay dos chicas sobre la rampa impidiendo el paso.",
+                                "start_time": 0,
+                                "end_time": 9.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a1dbdf8f345660a4f7f57ee",
+                        "video": "5a1dbceff345660a4f7f57eb",
+                        "audio_description": "5a1dbceff345660a4f7f57ea",
+                        "user": "5a1dbc52f345660a4f7f57e8",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 11.230977,
+                        "end_time": 11.230977,
+                        "duration": 6.997333333333334,
+                        "file_name": "nF5JZuY7W2Q_5a1dbdf8f345660a4f7f57ee.wav",
+                        "file_size_bytes": 1343532,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/nF5JZuY7W2Q",
+                        "created_at": 20171128195016,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5a1dbe20f345660a4f7f57ef",
+                        "video": "5a1dbceff345660a4f7f57eb",
+                        "audio_description": "5a1dbceff345660a4f7f57ea",
+                        "user": "5a1dbc52f345660a4f7f57e8",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 18.063006,
+                        "end_time": 18.063006,
+                        "duration": 7.338666666666667,
+                        "file_name": "nF5JZuY7W2Q_5a1dbe20f345660a4f7f57ef.wav",
+                        "file_size_bytes": 1409068,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/nF5JZuY7W2Q",
+                        "created_at": 20171128195056,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5aefe77473c383d1159a9d",
+                                "sentence": "Saber un poquito la persona sigue caminando,",
+                                "start_time": 0,
+                                "end_time": 3.92
+                            },
+                            {
+                                "_id": "5e5aefe77473c383d1159a9c",
+                                "sentence": "sube unas escaleras, tropieza y se cae.",
+                                "start_time": 3.92,
+                                "end_time": 10.39
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a1dbceff345660a4f7f57ea",
+                "video": "5a1dbceff345660a4f7f57eb",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a1dbc52f345660a4f7f57e8",
+                    "email": "sapada.thr@gmail.com",
+                    "name": "Sergio Mesa Castellanos",
+                    "given_name": "Sergio",
+                    "picture": "https://lh4.googleusercontent.com/-Hx2rWquDgZM/AAAAAAAAAAI/AAAAAAAAAVw/kd3L5tfqKaE/s96-c/photo.jpg",
+                    "locale": "es",
+                    "google_user_id": "102003871177460211623",
+                    "last_login": 20171128194314,
+                    "token": "3eff083b48d6ab26b32f05f74e2cc355f27bfd4a3c63942539add737fea15033",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "es",
+                "created_at": 20171128194551,
+                "updated_at": 20171220232921,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 3,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 3,
+                "admin_review": "",
+                "feedbacks": {
+                    "1": 1
+                }
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5a1dbceff345660a4f7f57eb",
+        "title": "Contenidos digitales",
+        "description": "",
+        "youtube_id": "nF5JZuY7W2Q",
+        "created_at": 20171128194551,
+        "updated_at": 20171128195056,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 20
+    }
+}

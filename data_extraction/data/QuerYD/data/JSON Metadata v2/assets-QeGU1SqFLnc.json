@@ -1,0 +1,125 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5cbde0e1ca59c91fd2816bd6",
+                        "video": "5cbde097e9b2de249a6f282b",
+                        "audio_description": "5cbde097e9b2de249a6f282a",
+                        "user": "5cbdd074ca59c91fd2816bc5",
+                        "label": "Equipment Labeling",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 31.232,
+                        "duration": 31.232,
+                        "file_name": "QeGU1SqFLnc_5cbde0e1ca59c91fd2816bd6.wav",
+                        "file_size_bytes": 1998892,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/QeGU1SqFLnc",
+                        "created_at": 20190422154225,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a6489a8b1f3b420812e7",
+                                "sentence": " Equipment at the let's create studio the yard door to let's create room",
+                                "start_time": 1.51,
+                                "end_time": 6.84
+                            },
+                            {
+                                "_id": "5e51a6489a8b1f3b420812e6",
+                                "sentence": " showcasing which equipment is in the room,",
+                                "start_time": 8.78,
+                                "end_time": 11.69
+                            },
+                            {
+                                "_id": "5e51a6489a8b1f3b420812e5",
+                                "sentence": " including Pro lighting,",
+                                "start_time": 11.85,
+                                "end_time": 13.7
+                            },
+                            {
+                                "_id": "5e51a6489a8b1f3b420812e4",
+                                "sentence": " a Sony, a 7 s",
+                                "start_time": 15.55,
+                                "end_time": 17.46
+                            },
+                            {
+                                "_id": "5e51a6489a8b1f3b420812e3",
+                                "sentence": " a MacBook",
+                                "start_time": 17.46,
+                                "end_time": 18.6
+                            },
+                            {
+                                "_id": "5e51a6489a8b1f3b420812e2",
+                                "sentence": " Pro lavaliere mikes can't",
+                                "start_time": 18.94,
+                                "end_time": 21.24
+                            },
+                            {
+                                "_id": "5e51a6489a8b1f3b420812e1",
+                                "sentence": " Pro studio mikes",
+                                "start_time": 22.14,
+                                "end_time": 24
+                            },
+                            {
+                                "_id": "5e51a6489a8b1f3b420812e0",
+                                "sentence": " zooming out on the room setup",
+                                "start_time": 25.37,
+                                "end_time": 28
+                            },
+                            {
+                                "_id": "5e51a6489a8b1f3b420812df",
+                                "sentence": " the yard logo.",
+                                "start_time": 29.26,
+                                "end_time": 30.68
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5cbde097e9b2de249a6f282a",
+                "video": "5cbde097e9b2de249a6f282b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5cbdd074ca59c91fd2816bc5",
+                    "email": "tara@workattheyard.com",
+                    "name": "Tara Maylyn Frankel",
+                    "given_name": "Tara Maylyn",
+                    "picture": "https://lh3.googleusercontent.com/-4CeMUboCQik/AAAAAAAAAAI/AAAAAAAABUQ/_pHaVF4e2f4/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113539341693482827496",
+                    "last_login": 20190422143220,
+                    "token": "9b76ef828597feac54b3ba59ea3da6e8998c887a0faa2e57cdfb762a17746293",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190422154111,
+                "updated_at": 20190422154111,
+                "notes": "euipment at Lets create room at the yard\n\npro studio mics",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5cbde097e9b2de249a6f282b",
+        "title": "Studio Equipment - Let's Create",
+        "description": "Take a look at some of the featured studio equipment in The Yard's production studio, Let's Create. Learn more and submit a request at https://theyard.com/production-studio-lets-create/",
+        "youtube_id": "QeGU1SqFLnc",
+        "created_at": 20190422154111,
+        "updated_at": 20190422154225,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 32
+    }
+}

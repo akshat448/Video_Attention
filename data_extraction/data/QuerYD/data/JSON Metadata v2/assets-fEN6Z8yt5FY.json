@@ -1,0 +1,923 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8846e13dfd851a6389",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110164850,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110164850,
+                        "file_name": "14788253306791.wav",
+                        "start_time": 0.886,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27178,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 4.726,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ace69bb48a54eda1a856a",
+                                "sentence": " Occupied",
+                                "start_time": 0.55,
+                                "end_time": 1.72
+                            },
+                            {
+                                "_id": "5e4ace69bb48a54eda1a8569",
+                                "sentence": " a short horror film.",
+                                "start_time": 1.72,
+                                "end_time": 3.23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a638a",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110164912,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110164912,
+                        "file_name": "14788253529621.wav",
+                        "start_time": 6.696,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27179,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 14.626,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.93,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ace69bb48a54eda1a8552",
+                                "sentence": " A hispanic man exits dawn into a long hallway.",
+                                "start_time": 0.52,
+                                "end_time": 3.72
+                            },
+                            {
+                                "_id": "5e4ace69bb48a54eda1a8551",
+                                "sentence": " He begins to walk down the hall where coworkers locking his door to leave for the night.",
+                                "start_time": 3.72,
+                                "end_time": 7.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a638b",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110165132,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110165132,
+                        "file_name": "14788254923711.wav",
+                        "start_time": 31.124,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27181,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 37.263999999999996,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad8b8ae24dc721d953155",
+                                "sentence": " The man seated on the toilet",
+                                "start_time": 0.42,
+                                "end_time": 2.45
+                            },
+                            {
+                                "_id": "5e4ad8b8ae24dc721d953154",
+                                "sentence": " hears someone enter the bathroom and looks up curiously.",
+                                "start_time": 2.57,
+                                "end_time": 5.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a638c",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110165355,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110165355,
+                        "file_name": "14788256354571.wav",
+                        "start_time": 19.565,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27183,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 25.705000000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ace69bb48a54eda1a85a3",
+                                "sentence": " The man keeps walking down the hallway and enters the bathroom, where he locks himself in a stall.",
+                                "start_time": 0.44,
+                                "end_time": 5.59
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a638d",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110165512,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110165512,
+                        "file_name": "14788257128941.wav",
+                        "start_time": 56.644,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27185,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 63.554,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ace69bb48a54eda1a855b",
+                                "sentence": " When he finishes his business, he proceeds to walk through the bathroom, peering into every stall to make sure none was in there.",
+                                "start_time": 0.14,
+                                "end_time": 6.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a638e",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110165554,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110165554,
+                        "file_name": "14788257541481.wav",
+                        "start_time": 70.288,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27186,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 72.848,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4acf2d04044e4ed9f61987",
+                                "sentence": " The bathroom is still empty.",
+                                "start_time": 0.24,
+                                "end_time": 1.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a638f",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110165918,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110165918,
+                        "file_name": "14788259585921.wav",
+                        "start_time": 75.495,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27188,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 82.14500000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c2207aba721b5c6769",
+                                "sentence": " The man begins to wash his hands, looking at himself in the mirror. Worrying confusion shone on his face.",
+                                "start_time": 0.57,
+                                "end_time": 6.27
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a6390",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110170346,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110170346,
+                        "file_name": "14788262263731.wav",
+                        "start_time": 97.117,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27193,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 102.747,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c2207aba721b5c6772",
+                                "sentence": " Men exits the bathroom",
+                                "start_time": 0.32,
+                                "end_time": 2.09
+                            },
+                            {
+                                "_id": "5e4ad2c2207aba721b5c6771",
+                                "sentence": " and begins to walk down the hallway where he first started.",
+                                "start_time": 2.09,
+                                "end_time": 4.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a6392",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110170418,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110170418,
+                        "file_name": "14788262584781.wav",
+                        "start_time": 114.779,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27195,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 119.37899999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4acfc9bb48a54eda1a85e9",
+                                "sentence": " Suddenly the lights overhead begin to flicker.",
+                                "start_time": 0.4,
+                                "end_time": 3.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a6393",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110170445,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110170445,
+                        "file_name": "14788262857191.wav",
+                        "start_time": 121.71,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27196,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 127.33999999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4acf2c04044e4ed9f61923",
+                                "sentence": " Bullets go out completely. And the hallway is completely surrounded in darkness.",
+                                "start_time": 0.68,
+                                "end_time": 4.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a6394",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110170517,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110170517,
+                        "file_name": "14788263170131.wav",
+                        "start_time": 128.186,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27197,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 134.066,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4acfc8bb48a54eda1a85c3",
+                                "sentence": " The camera zooms in an exit sign, glowing early above the door. At the end of the hallway.",
+                                "start_time": 0.51,
+                                "end_time": 5.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a6395",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110170737,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110170737,
+                        "file_name": "14788264576371.wav",
+                        "start_time": 137.271,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27199,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 145.97099999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad8b8ae24dc721d95314f",
+                                "sentence": " The man hears a noise behind him and turns to look.",
+                                "start_time": 0.51,
+                                "end_time": 3.36
+                            },
+                            {
+                                "_id": "5e4ad8b8ae24dc721d95314e",
+                                "sentence": " When he turns back around, there's a figure at the end of the hallway that walks out of camera view.",
+                                "start_time": 3.44,
+                                "end_time": 8.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a6396",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110170816,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110170816,
+                        "file_name": "14788264967061.wav",
+                        "start_time": 158.56,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27200,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 162.14000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4acf2d04044e4ed9f6195c",
+                                "sentence": " He begins backing down the hallway.",
+                                "start_time": 1.02,
+                                "end_time": 3.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a6397",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110170904,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110170904,
+                        "file_name": "14788265442191.wav",
+                        "start_time": 179.412,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27201,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 185.042,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4acfc8bb48a54eda1a85d8",
+                                "sentence": " At the end of the hallway, a large shadow begins to creep across the door.",
+                                "start_time": 0.91,
+                                "end_time": 4.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a6398",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110170947,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110170947,
+                        "file_name": "14788265875431.wav",
+                        "start_time": 195.978,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27203,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 206.208,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4acf2d04044e4ed9f61982",
+                                "sentence": " The man sprints down the hallway to get away from the monster,",
+                                "start_time": 0.21,
+                                "end_time": 3.15
+                            },
+                            {
+                                "_id": "5e4acf2d04044e4ed9f61981",
+                                "sentence": " tugging on every door. But everything seems to be locked, except for the bathroom.",
+                                "start_time": 3.23,
+                                "end_time": 6.92
+                            },
+                            {
+                                "_id": "5e4acf2d04044e4ed9f61980",
+                                "sentence": " He runs in and locks himself into a stall.",
+                                "start_time": 6.95,
+                                "end_time": 9.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a639a",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171016,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171016,
+                        "file_name": "14788266163921.wav",
+                        "start_time": 204.056,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27205,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 209.17600000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c2207aba721b5c676b",
+                                "sentence": " He climbs on Top of the toilet seat, making sure his feet cannot be seen on the floor.",
+                                "start_time": 0.22,
+                                "end_time": 4.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a639b",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171108,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171108,
+                        "file_name": "14788266682201.wav",
+                        "start_time": 244.673,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27206,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 249.273,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4acdb98085404ed8f9e347",
+                                "sentence": " Finally, the door breaks open to the stall,",
+                                "start_time": 0.23,
+                                "end_time": 2.67
+                            },
+                            {
+                                "_id": "5e4acdb98085404ed8f9e346",
+                                "sentence": " but there's no one outside of it.",
+                                "start_time": 2.67,
+                                "end_time": 4.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a639c",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171205,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171205,
+                        "file_name": "14788267253811.wav",
+                        "start_time": 254.507,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27208,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 262.687,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ace69bb48a54eda1a85a1",
+                                "sentence": " The man, visibly shaken and still seated on Top of the toilet,",
+                                "start_time": 0.4,
+                                "end_time": 4.27
+                            },
+                            {
+                                "_id": "5e4ace69bb48a54eda1a85a0",
+                                "sentence": " looks around to try and figure out who broke open the stall door.",
+                                "start_time": 4.34,
+                                "end_time": 7.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a639d",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171315,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171315,
+                        "file_name": "14788267959461.wav",
+                        "start_time": 264.248,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27211,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 270.638,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ace69bb48a54eda1a8574",
+                                "sentence": " The man slowly emerges from the stall,",
+                                "start_time": 1.07,
+                                "end_time": 3.49
+                            },
+                            {
+                                "_id": "5e4ace69bb48a54eda1a8573",
+                                "sentence": " looks back and forth, expectant Lily.",
+                                "start_time": 3.49,
+                                "end_time": 5.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a639e",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171407,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171407,
+                        "file_name": "14788268478471.wav",
+                        "start_time": 271.725,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27212,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 275.565,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4acfc8bb48a54eda1a85c8",
+                                "sentence": " Bloods in the bathroom are now flickering as well.",
+                                "start_time": 0.55,
+                                "end_time": 3.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a639f",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171428,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171428,
+                        "file_name": "14788268688291.wav",
+                        "start_time": 277.943,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27213,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 281.263,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad8b7ae24dc721d953114",
+                                "sentence": " Men total darkness.",
+                                "start_time": 0.54,
+                                "end_time": 2.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a63a0",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171505,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171505,
+                        "file_name": "14788269056641.wav",
+                        "start_time": 295.674,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27215,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 301.554,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ace69bb48a54eda1a8585",
+                                "sentence": " The lights flicker just long enough to see the shape of a man lying on the bathroom floor.",
+                                "start_time": 0.54,
+                                "end_time": 5.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a63a1",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171532,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171532,
+                        "file_name": "14788269323211.wav",
+                        "start_time": 302.186,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27216,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 305.256,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c1207aba721b5c6745",
+                                "sentence": " Blood begins to pool on the stall floor.",
+                                "start_time": 0.21,
+                                "end_time": 2.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a63a2",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171602,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171602,
+                        "file_name": "14788269626411.wav",
+                        "start_time": 315.417,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27218,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 321.04699999999997,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4acc7b10ed104ed71f7dd5",
+                                "sentence": " Suddenly it seems that something is dragging the man out of the bathroom stall.",
+                                "start_time": 0.57,
+                                "end_time": 5.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a63a3",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171652,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171652,
+                        "file_name": "14788270128781.wav",
+                        "start_time": 331.119,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27219,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 335.209,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c1207aba721b5c673b",
+                                "sentence": " The camera zooms in on a stall door, slowly closing.",
+                                "start_time": 0.49,
+                                "end_time": 3.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a63a4",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171721,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171721,
+                        "file_name": "14788270414751.wav",
+                        "start_time": 337.784,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27221,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 341.62399999999997,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad8b8ae24dc721d95312b",
+                                "sentence": " The screen fades to black,",
+                                "start_time": 0.25,
+                                "end_time": 2
+                            },
+                            {
+                                "_id": "5e4ad8b8ae24dc721d95312a",
+                                "sentence": " and the credits roll.",
+                                "start_time": 2.06,
+                                "end_time": 3.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a63a5",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171742,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171742,
+                        "file_name": "14788270625851.wav",
+                        "start_time": 341.763,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27222,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 346.883,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4acf2d04044e4ed9f6196a",
+                                "sentence": " Film by mitchell, kirby Taylor kirby,",
+                                "start_time": 0.35,
+                                "end_time": 3.16
+                            },
+                            {
+                                "_id": "5e4acf2d04044e4ed9f61969",
+                                "sentence": " starring lee silver.",
+                                "start_time": 3.16,
+                                "end_time": 4.68
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8846e13dfd851a63a6",
+                        "audio_description": "58e7cf3a46e13dfd851a27a0",
+                        "created_at": 20161110171801,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161110171801,
+                        "file_name": "14788270815641.wav",
+                        "start_time": 347.525,
+                        "legacy_video_id": 2904,
+                        "legacy_user_id": 3416,
+                        "label": "",
+                        "legacy_audio_clip_id": 27223,
+                        "video": "58e7cf2946e13dfd851a1f6a",
+                        "end_time": 351.875,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3a46e13dfd851a279f",
+                        "transcript": [
+                            {
+                                "_id": "5e4ad2c2207aba721b5c6768",
+                                "sentence": " Special thanks to brandon, kerby, Alex, or kyles.",
+                                "start_time": 0.17,
+                                "end_time": 3.75
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3a46e13dfd851a27a0",
+                "status": "published",
+                "legacy_video_id": 2904,
+                "legacy_user_id": 3416,
+                "video": "58e7cf2946e13dfd851a1f6a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3a46e13dfd851a279f",
+                    "name": "kbelanger",
+                    "google_user_id_token": "",
+                    "created_at": 20161110160217,
+                    "updated_at": 20161110160253,
+                    "legacy_user_id": 3416,
+                    "last_login": 0,
+                    "email": "kbelanger212@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Occupied - Short Horror Film",
+            "Occupied",
+            "Short Horror Film",
+            "Short Film",
+            "Short",
+            "Horror",
+            "Film",
+            "Mitchell Kerby",
+            "Scary",
+            "Thriller",
+            "Demon",
+            "Ghost",
+            "Public Bathroom",
+            "Office"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1f6a",
+        "description": "",
+        "youtube_id": "fEN6Z8yt5FY",
+        "views": 0,
+        "created_at": 20161110163343,
+        "title": "Occupied | Short Horror Film",
+        "legacy_video_id": 2904,
+        "updated_at": 20161110172627,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 355
+    }
+}

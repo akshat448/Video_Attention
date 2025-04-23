@@ -1,0 +1,94 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ea99c8a4c8fed2f0ed85885",
+                        "video": "5ea99b9a4c8fed2f0ed85884",
+                        "audio_description": "5ea99b9a4c8fed2f0ed85883",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "description",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 13.056,
+                        "file_name": "uEu6r8MkQ0o_5ea99c8a4c8fed2f0ed85885.wav",
+                        "file_size_bytes": 2506796,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uEu6r8MkQ0o",
+                        "created_at": 20200429152602,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5ea99cc1e1b8b12f0893d853",
+                        "video": "5ea99b9a4c8fed2f0ed85884",
+                        "audio_description": "5ea99b9a4c8fed2f0ed85883",
+                        "user": "5e9f7a4d84f1bb7886752425",
+                        "label": "csu logo",
+                        "playback_type": "extended",
+                        "start_time": 147.5868,
+                        "end_time": 147.5868,
+                        "duration": 4.352,
+                        "file_name": "uEu6r8MkQ0o_5ea99cc1e1b8b12f0893d853.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uEu6r8MkQ0o",
+                        "created_at": 20200429152657,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5ea99b9a4c8fed2f0ed85883",
+                "video": "5ea99b9a4c8fed2f0ed85884",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e9f7a4d84f1bb7886752425",
+                    "email": "chhsad201@gmail.com",
+                    "name": "CHHS AD201",
+                    "given_name": "CHHS",
+                    "picture": "https://lh5.googleusercontent.com/-JpwQdP332ew/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOjaGw_XfdNe6Y3TML0kj8gdNHJZA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111438173098375409345",
+                    "last_login": 20201014163508,
+                    "token": "8b25ee0df1dcdee4a1c94ede45a3e8475678aa3b10c76fbf6ea8097a75608fa7",
+                    "__v": 0,
+                    "updated_at": 20201014163508,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200429152202,
+                "updated_at": 20200429152202,
+                "notes": "Scenes change between Rachel McKinney speaking to the camera and footage of her teaching in classrooms, working in a brewery and working with beer\nRachel has long brown hair and is wearing a CSU fermentation t shirt\n\nFood Science and human nutrition\nColorado state university",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "fermentation science and technology",
+            "courses on food and beverage fermentation",
+            "College of Health and Human Sciences",
+            "Colorado State University"
+        ],
+        "custom_tags": [],
+        "_id": "5ea99b9a4c8fed2f0ed85884",
+        "title": "Student Feature: Rachel McKinney, Fermentation Science and Technology",
+        "description": "The Fermentation Science and Technology major blends a strong interdisciplinary science background with selected courses focused on the science, safety, culinary, and nutritional attributes of fermented foods and beverages. Understanding the processes and learning the method involved with employing microorganisms in the commercial production of fermented food products requires a unique set of knowledge and skills.\n\nThis major prepares students for employment in divisions within the food and beverage industry including product development, processing, quality assurance and control, packaging and distribution, and plant management. Students enrolled in this major are encouraged to participate in industry activities to increase their understanding of processing methods and specific techniques used in all aspects of fermented food and beverage production.\n\nLearn more about a B.S. in Fermentation Science and Technology: http://www.fshn.chhs.colostate.edu/students/undergraduate/fermentation-science/program-overview.aspx",
+        "youtube_id": "uEu6r8MkQ0o",
+        "created_at": 20200429152202,
+        "updated_at": 20200429152657,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 153
+    }
+}

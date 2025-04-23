@@ -1,0 +1,160 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4e7e",
+                        "audio_description": "58e7cf3346e13dfd851a24e2",
+                        "created_at": 20151102094902,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102094902,
+                        "file_name": "14464865426281.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2307,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18278,
+                        "video": "58e7cf2946e13dfd851a1d16",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ed2a329f9bdab9cd96ef5",
+                                "sentence": " An adult female wearing red",
+                                "start_time": 1.1,
+                                "end_time": 3.33
+                            },
+                            {
+                                "_id": "5e3ed2a329f9bdab9cd96ef4",
+                                "sentence": " guides another adult female wearing black to a chair in front of a large circular table.",
+                                "start_time": 3.33,
+                                "end_time": 8.99
+                            },
+                            {
+                                "_id": "5e3ed2a329f9bdab9cd96ef3",
+                                "sentence": " She runs the hand of the person she is guiding down a chair and into the seat. They sit down at the table.",
+                                "start_time": 8.99,
+                                "end_time": 15.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4e7f",
+                        "audio_description": "58e7cf3346e13dfd851a24e2",
+                        "created_at": 20151102094950,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102094950,
+                        "file_name": "14464865903071.wav",
+                        "start_time": 14.446,
+                        "legacy_video_id": 2307,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18279,
+                        "video": "58e7cf2946e13dfd851a1d16",
+                        "end_time": 14.446,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3ed2a329f9bdab9cd96ed7",
+                                "sentence": " Using hand over hand guidance, the adult wearing red leads the second adult to explore a small brown folded piece of paper on the table.",
+                                "start_time": 0.36,
+                                "end_time": 9.17
+                            },
+                            {
+                                "_id": "5e3ed2a329f9bdab9cd96ed6",
+                                "sentence": " She then has her feel a round paper with a red bird on it.",
+                                "start_time": 9.37,
+                                "end_time": 13.48
+                            },
+                            {
+                                "_id": "5e3ed2a329f9bdab9cd96ed5",
+                                "sentence": " And still using hand over hand guidance. She shows her how to use the first paper as a mold so that the yellow paper can be folded into the same shape.",
+                                "start_time": 13.48,
+                                "end_time": 22.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6a46e13dfd851a4e80",
+                        "audio_description": "58e7cf3346e13dfd851a24e2",
+                        "created_at": 20151102095007,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151102095007,
+                        "file_name": "14464866079481.wav",
+                        "start_time": 58.288,
+                        "legacy_video_id": 2307,
+                        "legacy_user_id": 2891,
+                        "label": "",
+                        "legacy_audio_clip_id": 18280,
+                        "video": "58e7cf2946e13dfd851a1d16",
+                        "end_time": 58.288,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24d9",
+                        "transcript": [
+                            {
+                                "_id": "5e3d46649a049480ee69df3c",
+                                "sentence": " The video jumps to show them folding round yellow papers into the same shape, still using hand over hand guidance.",
+                                "start_time": 0.52,
+                                "end_time": 7.38
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a24e2",
+                "status": "published",
+                "legacy_video_id": 2307,
+                "legacy_user_id": 2891,
+                "video": "58e7cf2946e13dfd851a1d16",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24d9",
+                    "name": "katpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20151102085050,
+                    "updated_at": 20160531100611,
+                    "legacy_user_id": 2891,
+                    "last_login": 0,
+                    "email": "kathleen.peters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1d16",
+        "description": "",
+        "youtube_id": "Mv1FKi_-A1I",
+        "views": 0,
+        "created_at": 20151102094824,
+        "title": "DWNF 1a",
+        "legacy_video_id": 2307,
+        "updated_at": 20151102095007,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 94
+    }
+}

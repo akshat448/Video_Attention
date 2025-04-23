@@ -1,0 +1,108 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59b7633fc6c4802622d9c066",
+                        "video": "59b7633fc6c4802622d9c068",
+                        "audio_description": "59b7633fc6c4802622d9c067",
+                        "user": "59b75f86c6c4802622d9c056",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 24.241632653061224,
+                        "file_name": "I6lZBoR5gvs_59b7633fc6c4802622d9c066.wav",
+                        "file_size_bytes": 4276268,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/I6lZBoR5gvs",
+                        "created_at": 20170912043159,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5dcf120977169124ff5a92fd",
+                                "sentence": " In nineteen ninety one, the percentage of employment rate for disabled people",
+                                "start_time": 1.32,
+                                "end_time": 6.4
+                            },
+                            {
+                                "_id": "5dcf120977169124ff5a92fc",
+                                "sentence": " was fifty point two percent",
+                                "start_time": 6.41,
+                                "end_time": 8.61
+                            },
+                            {
+                                "_id": "5dcf120977169124ff5a92fb",
+                                "sentence": " versus eighty four point four percent for non disabled americans",
+                                "start_time": 8.62,
+                                "end_time": 12.81
+                            },
+                            {
+                                "_id": "5dcf120977169124ff5a92fa",
+                                "sentence": " in two thousand and ten,",
+                                "start_time": 12.86,
+                                "end_time": 14.57
+                            },
+                            {
+                                "_id": "5dcf120977169124ff5a92f9",
+                                "sentence": " it was forty one point one percent for disabled people,",
+                                "start_time": 14.59,
+                                "end_time": 18.97
+                            },
+                            {
+                                "_id": "5dcf120977169124ff5a92f8",
+                                "sentence": " but seventy nine point one percent for non disabled people.",
+                                "start_time": 19.34,
+                                "end_time": 23.17
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59b7633fc6c4802622d9c067",
+                "video": "59b7633fc6c4802622d9c068",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59b75f86c6c4802622d9c056",
+                    "email": "yinqiya@gmail.com",
+                    "name": "\u5c39\u742a\u5a05",
+                    "given_name": "\u742a\u5a05",
+                    "picture": "https://lh4.googleusercontent.com/-DaiXpC5Af08/AAAAAAAAAAI/AAAAAAAAAKs/GupImHiOPLs/s96-c/photo.jpg",
+                    "locale": "zh-CN",
+                    "google_user_id": "101332560564111736747",
+                    "last_login": 20170913030106,
+                    "token": "a966be838420b70253f5f93c8a914702f7066a02bd30a1249ba643659053fb6a",
+                    "__v": 0,
+                    "updated_at": 20170913030106,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20170912043159,
+                "updated_at": 20170912043159,
+                "notes": "There's a chart that compares the employment rate of people with disabilities and that of those without disabilities. In 1991, the percentage of employment for disabled people was 50.2%, and that of those without disabilities was 84.4%. In 2010, the percentage of employment for disabled people was 41.1%, and that of those without disabilities was 79.1%. ",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "59b7633fc6c4802622d9c068",
+        "title": "Employment Movie",
+        "description": "",
+        "youtube_id": "I6lZBoR5gvs",
+        "created_at": 20170912043159,
+        "updated_at": 20170912043159,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}

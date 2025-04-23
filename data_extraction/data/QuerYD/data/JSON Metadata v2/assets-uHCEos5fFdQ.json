@@ -1,0 +1,732 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a08fda2d675d917e6614d67",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 1.612207,
+                        "end_time": 1.612207,
+                        "duration": 2.474666666666667,
+                        "file_name": "uHCEos5fFdQ_5a08fda2d675d917e6614d67.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113020418,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f51ea501d71c572ca13f",
+                                "sentence": " Caption for the first time.",
+                                "start_time": 0.54,
+                                "end_time": 2.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a08fdbfd675d917e6614d68",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 7.512287,
+                        "end_time": 7.512287,
+                        "duration": 6.4,
+                        "file_name": "uHCEos5fFdQ_5a08fdbfd675d917e6614d68.wav",
+                        "file_size_bytes": 1228844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113020447,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f580cf5afa1c5989e13b",
+                                "sentence": " Three children are sitting at a table.",
+                                "start_time": 0.76,
+                                "end_time": 3.09
+                            },
+                            {
+                                "_id": "5e15f580cf5afa1c5989e13a",
+                                "sentence": " Zz, the middle child explains what visions are.",
+                                "start_time": 3.09,
+                                "end_time": 6.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a08fe2ed675d917e6614d6e",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 37.355714,
+                        "end_time": 37.355714,
+                        "duration": 3.84,
+                        "file_name": "uHCEos5fFdQ_5a08fe2ed675d917e6614d6e.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113020638,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f581cf5afa1c5989e176",
+                                "sentence": " Children ask what they would miss if they were to become a v.",
+                                "start_time": 0.46,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a08fe73d675d917e6614d72",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 43.003449,
+                        "end_time": 43.003449,
+                        "duration": 5.376,
+                        "file_name": "uHCEos5fFdQ_5a08fe73d675d917e6614d72.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113020747,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f3572620ea1c5831feac",
+                                "sentence": " Caption, MAC and cheese as well as a plate of MAC and cheese is shown.",
+                                "start_time": 0.88,
+                                "end_time": 5.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a08ff34d675d917e6614d78",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 47.033397,
+                        "end_time": 47.033397,
+                        "duration": 8.362666666666666,
+                        "file_name": "uHCEos5fFdQ_5a08ff34d675d917e6614d78.wav",
+                        "file_size_bytes": 1605676,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113021100,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f580cf5afa1c5989e168",
+                                "sentence": " A plate of vegan MAC and cheese is placed in front of the three children.",
+                                "start_time": 0.72,
+                                "end_time": 4.82
+                            },
+                            {
+                                "_id": "5e15f580cf5afa1c5989e167",
+                                "sentence": " Kids are told to explain the taste and smell of the MAC and cheese.",
+                                "start_time": 4.82,
+                                "end_time": 8.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a08ff83d675d917e6614d7b",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 75.481256,
+                        "end_time": 75.481256,
+                        "duration": 5.973333333333334,
+                        "file_name": "uHCEos5fFdQ_5a08ff83d675d917e6614d7b.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113021219,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f51da501d71c572ca13e",
+                                "sentence": " Subtitles, z is a is that better than your mom's MAC and cheese? The producer asks,",
+                                "start_time": 0.59,
+                                "end_time": 5.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a08fff1d675d917e6614d7e",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 82.563377,
+                        "end_time": 82.563377,
+                        "duration": 5.461333333333333,
+                        "file_name": "uHCEos5fFdQ_5a08fff1d675d917e6614d7e.wav",
+                        "file_size_bytes": 1048620,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113021409,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f580cf5afa1c5989e133",
+                                "sentence": " A backdrop of fried shrimp, as well as the caption fried shrimp is shown.",
+                                "start_time": 0.83,
+                                "end_time": 5.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a09009dd675d917e6614d84",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 87.844595,
+                        "end_time": 87.844595,
+                        "duration": 5.802666666666667,
+                        "file_name": "uHCEos5fFdQ_5a09009dd675d917e6614d84.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113021701,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f581cf5afa1c5989e1a1",
+                                "sentence": " A plane of v can shrimp is placed on the table. And the middle child's as a reveals the food.",
+                                "start_time": 0.54,
+                                "end_time": 5.76
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a0900e4d675d917e6614d86",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 112.227591,
+                        "end_time": 112.227591,
+                        "duration": 4.096,
+                        "file_name": "uHCEos5fFdQ_5a0900e4d675d917e6614d86.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113021812,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f581cf5afa1c5989e1aa",
+                                "sentence": " The children proceed to taste the shrimp. One child spit it out.",
+                                "start_time": 0.58,
+                                "end_time": 4.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a09014cd675d917e6614d8a",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 125.451418,
+                        "end_time": 125.451418,
+                        "duration": 4.949333333333334,
+                        "file_name": "uHCEos5fFdQ_5a09014cd675d917e6614d8a.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113021956,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f582cf5afa1c5989e1b2",
+                                "sentence": " Subtitles, that is tofu. The producer tells the children.",
+                                "start_time": 0.82,
+                                "end_time": 4.91
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a090198d675d917e6614d8c",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 142.731655,
+                        "end_time": 142.731655,
+                        "duration": 5.034666666666666,
+                        "file_name": "uHCEos5fFdQ_5a090198d675d917e6614d8c.wav",
+                        "file_size_bytes": 966700,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113022112,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f65fb81b2f1c5a36af27",
+                                "sentence": " A plate of fried chicken with the caption fried chicken is displayed.",
+                                "start_time": 0.68,
+                                "end_time": 4.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a0901c0d675d917e6614d8f",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "12",
+                        "playback_type": "extended",
+                        "start_time": 147.891455,
+                        "end_time": 147.891455,
+                        "duration": 5.717333333333333,
+                        "file_name": "uHCEos5fFdQ_5a0901c0d675d917e6614d8f.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113022152,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f580cf5afa1c5989e153",
+                                "sentence": " The children uncover a plate of fried chicken, and each child grabs a piece.",
+                                "start_time": 0.37,
+                                "end_time": 5.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a0903bed675d917e6614d97",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "13",
+                        "playback_type": "extended",
+                        "start_time": 161.244285,
+                        "end_time": 161.244285,
+                        "duration": 4.181333333333333,
+                        "file_name": "uHCEos5fFdQ_5a0903bed675d917e6614d97.wav",
+                        "file_size_bytes": 802860,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113023022,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f582cf5afa1c5989e1b4",
+                                "sentence": " The children take the chicken apart and taste. Test the vegan chicken.",
+                                "start_time": 0.74,
+                                "end_time": 4.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a0903f6d675d917e6614d98",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "14",
+                        "playback_type": "extended",
+                        "start_time": 181.283475,
+                        "end_time": 181.283475,
+                        "duration": 4.522666666666667,
+                        "file_name": "uHCEos5fFdQ_5a0903f6d675d917e6614d98.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113023118,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f65eb81b2f1c5a36af14",
+                                "sentence": " The children then proceed to actually taste the chicken.",
+                                "start_time": 0.63,
+                                "end_time": 4.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a090442d675d917e6614d99",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "15",
+                        "playback_type": "extended",
+                        "start_time": 208.504316,
+                        "end_time": 208.504316,
+                        "duration": 5.717333333333333,
+                        "file_name": "uHCEos5fFdQ_5a090442d675d917e6614d99.wav",
+                        "file_size_bytes": 1097772,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113023234,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f581cf5afa1c5989e180",
+                                "sentence": " The middle child of the three holds the chicken skin and talks about it.",
+                                "start_time": 1.22,
+                                "end_time": 5.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a09047ad675d917e6614d9b",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "16",
+                        "playback_type": "extended",
+                        "start_time": 218.932857,
+                        "end_time": 218.932857,
+                        "duration": 7.936,
+                        "file_name": "uHCEos5fFdQ_5a09047ad675d917e6614d9b.wav",
+                        "file_size_bytes": 1523756,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113023330,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f65eb81b2f1c5a36af13",
+                                "sentence": " Grill and per kid on the left hand side with the red shirt,",
+                                "start_time": 0.77,
+                                "end_time": 4.02
+                            },
+                            {
+                                "_id": "5e15f65eb81b2f1c5a36af12",
+                                "sentence": " then proceeds to hold up a piece of chicken",
+                                "start_time": 4.02,
+                                "end_time": 6.23
+                            },
+                            {
+                                "_id": "5e15f65eb81b2f1c5a36af11",
+                                "sentence": " and talk about it as well.",
+                                "start_time": 6.23,
+                                "end_time": 7.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a0904e7d675d917e6614d9f",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "17",
+                        "playback_type": "extended",
+                        "start_time": 226.388211,
+                        "end_time": 226.388211,
+                        "duration": 8.106666666666667,
+                        "file_name": "uHCEos5fFdQ_5a0904e7d675d917e6614d9f.wav",
+                        "file_size_bytes": 1556524,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113023519,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f3582620ea1c5831feeb",
+                                "sentence": " Subtitles. Why do you think they put a",
+                                "start_time": 0.57,
+                                "end_time": 3.19
+                            },
+                            {
+                                "_id": "5e15f3582620ea1c5831feea",
+                                "sentence": " stick inside? The producer asked, and then the children answer accordingly.",
+                                "start_time": 3.19,
+                                "end_time": 8.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a090559d675d917e6614da4",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "18",
+                        "playback_type": "extended",
+                        "start_time": 247.304285,
+                        "end_time": 247.304285,
+                        "duration": 4.778666666666667,
+                        "file_name": "uHCEos5fFdQ_5a090559d675d917e6614da4.wav",
+                        "file_size_bytes": 917548,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113023713,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f581cf5afa1c5989e18c",
+                                "sentence": " The children are asked if they like vegan food. Now, after a few taste tests,",
+                                "start_time": 0.73,
+                                "end_time": 4.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a0905cbd675d917e6614da8",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 258.996082,
+                        "end_time": 258.996082,
+                        "duration": 7.765333333333333,
+                        "file_name": "uHCEos5fFdQ_5a0905cbd675d917e6614da8.wav",
+                        "file_size_bytes": 1490988,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113023907,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f581cf5afa1c5989e191",
+                                "sentence": " Zz, the middle child points the left at dealing with the red shirt, and then to the right at",
+                                "start_time": 0.78,
+                                "end_time": 6.23
+                            },
+                            {
+                                "_id": "5e15f581cf5afa1c5989e190",
+                                "sentence": " jojo with a white shirt.",
+                                "start_time": 6.23,
+                                "end_time": 7.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a0905efd675d917e6614da9",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 272.022977,
+                        "end_time": 272.022977,
+                        "duration": 8.789333333333333,
+                        "file_name": "uHCEos5fFdQ_5a0905efd675d917e6614da9.wav",
+                        "file_size_bytes": 1687596,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113023943,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f519a501d71c572ca091",
+                                "sentence": " Dylan, the kid on the left hand side asks",
+                                "start_time": 0.45,
+                                "end_time": 3.58
+                            },
+                            {
+                                "_id": "5e15f519a501d71c572ca090",
+                                "sentence": " z as a if he would tell the audience to subscribe and comment as well.",
+                                "start_time": 3.86,
+                                "end_time": 8.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5a090628d675d917e6614dab",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a08f464d675d917e6614d43",
+                        "user": "5a08d909d675d917e6614cee",
+                        "label": "21",
+                        "playback_type": "extended",
+                        "start_time": 282.145326,
+                        "end_time": 282.145326,
+                        "duration": 11.434666666666667,
+                        "file_name": "uHCEos5fFdQ_5a090628d675d917e6614dab.wav",
+                        "file_size_bytes": 2195500,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171113024040,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f581cf5afa1c5989e172",
+                                "sentence": " On the left hand side of a screen, a small box with the words mexican try so food",
+                                "start_time": 0.65,
+                                "end_time": 5.94
+                            },
+                            {
+                                "_id": "5e15f581cf5afa1c5989e171",
+                                "sentence": " and on the right hand side of the screen.",
+                                "start_time": 6.55,
+                                "end_time": 8.67
+                            },
+                            {
+                                "_id": "5e15f581cf5afa1c5989e170",
+                                "sentence": " Thanks for watching for the first time in caption.",
+                                "start_time": 8.67,
+                                "end_time": 11.38
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a08f464d675d917e6614d43",
+                "video": "5a08f464d675d917e6614d44",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a08d909d675d917e6614cee",
+                    "email": "lanep3@montclair.edu",
+                    "name": "Princess Lane",
+                    "given_name": "Princess",
+                    "picture": "https://lh6.googleusercontent.com/-_v5fwryTXvM/AAAAAAAAAAI/AAAAAAAAAAA/ANQ0kf4zFrf2fGJIzV-UYU1GTr1oQnV0Iw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "109923016022524926437",
+                    "last_login": 20171112232809,
+                    "token": "1e10ab86bfda418a47b52dc31a207ccaf3d3ac83a399728a7cf8df4e907e0709",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20171113012452,
+                "updated_at": 20171113190431,
+                "notes": "Caption: For The First Time \r\n3 Children Sitting at a Table \r\n@3 Saih saih the middle \r\n@7: Children Explain what vegans are \r\n@37: Children are asked what they  would miss if they were to become vegan\r\n@41: caption- mac and cheese and a plate of Mac N' Cheese is shown \r\n@46: A plate of Vegan mac n cheese is placed in front of the 3 children, kids are told to explain the taste and smell of the mac and cheese \r\n@1:15 seconds: subtitles- Saih, Saih is it better than your mom's mac and cheese (producer)\r\n@1:22 caption- fried shrimp with a plate of fried shrimp is shown\r\n@1:25 a plate of vegan shrimp is placed on the table and the middle child reveals the food\r\n@1:54 The children proceed to taste the shrimp, one child spits it out \r\n@2:04 : subtitles- that is tofu (producer)\r\n@2:22 a plate of fried with the caption fried chicken in displayed\r\n@2:26 the children uncover a plate of fried chicken, and each child grabs a piece \r\n@2:42 the children take the chicken apart and taste test the vegan chicken\r\n@3:28 the middle child of the 3 holds the chicken skin and talks about it \r\n@3:48 subtitles- why do you think they put a stick inside (producer), and the children answer accordingly \r\n@4:07 The children are asked if they like Vegan food now after a few taste tests \r\n@4:23 Saih Saih the middle child points to the left at dylan then the right at jojo \r\n@4:39 Caption- thanks for watching for the first time is shown\r\n\r\n",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {
+                    "5": 1,
+                    "6": 1
+                }
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a174673f345660a4f7f57de",
+                        "video": null,
+                        "audio_description": null,
+                        "user": "5a161bb5f345660a4f7f57dc",
+                        "label": "1",
+                        "playback_type": "inline",
+                        "start_time": 56.7718428703003,
+                        "end_time": 65.68830545533432,
+                        "duration": 8.916462585034013,
+                        "file_name": null,
+                        "file_size_bytes": 1572908,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171123220643,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5a174692f345660a4f7f57e0",
+                        "video": "5a08f464d675d917e6614d44",
+                        "audio_description": "5a174673f345660a4f7f57df",
+                        "user": "5a161bb5f345660a4f7f57dc",
+                        "label": "2",
+                        "playback_type": "extended",
+                        "start_time": 107.32426706866455,
+                        "end_time": 107.32426706866455,
+                        "duration": 3.250793650793651,
+                        "file_name": "uHCEos5fFdQ_5a174692f345660a4f7f57e0.wav",
+                        "file_size_bytes": 573484,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uHCEos5fFdQ",
+                        "created_at": 20171123220714,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc5e89e9e1a99b00a2b90",
+                                "sentence": " Testing Testing",
+                                "start_time": 0.43,
+                                "end_time": 2.23
+                            },
+                            {
+                                "_id": "5e4cc5e89e9e1a99b00a2b8f",
+                                "sentence": " yes.",
+                                "start_time": 2.32,
+                                "end_time": 3.08
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a174673f345660a4f7f57df",
+                "video": "5a08f464d675d917e6614d44",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a161bb5f345660a4f7f57dc",
+                    "email": "jjk3103@gmail.com",
+                    "name": "Joshua Kinred",
+                    "given_name": "Joshua",
+                    "picture": "https://lh4.googleusercontent.com/-vbIHD02Alpk/AAAAAAAAAAI/AAAAAAAAACo/22FujIr_okw/s96-c/photo.jpg",
+                    "locale": "en-GB",
+                    "google_user_id": "106410139591419296433",
+                    "last_login": 20171123234234,
+                    "token": "d0ebe2c30bafc1de44bc0a337c037175b7175085bb5ebf28830d074d09a6c5d1",
+                    "__v": 0,
+                    "updated_at": 20171123234234,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20171123220643,
+                "updated_at": 20171123220643,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "kids react to walkmans",
+            "Buzzfeed kids",
+            "buzzfeed kids try",
+            "90s kids try lunchables",
+            "american kids try breakfasts",
+            "kids react",
+            "kids react fine bros",
+            "kids vs food",
+            "kids vs food react",
+            "kids taste test",
+            "kids taste test gourmet food",
+            "kids react to old computers",
+            "fine bros kids react",
+            "surprising kids favorite foods",
+            "kids explain",
+            "Kids Say The Darndest Things (TV Program)"
+        ],
+        "custom_tags": [],
+        "_id": "5a08f464d675d917e6614d44",
+        "title": "Kids Try Vegan Soul Food 'For the First Time'",
+        "description": "Subscribe today! http://www.youtube.com/user/alldefdigital?sub_confirmation=1\n\nWhat happens when we put three adorable kids in front of some vegan soul food? Will they be able to stomach it? What should they try next?  Tell us in the comments below! #ADD #FortheFirstTime\n\n\u2192 CONNECT WITH ADD \u2190\nhttps://twitter.com/AllDefDigital\nhttp://instagram.com/AllDefDigital\nhttp://bit.ly/ADDfacebook\nhttp://bit.ly/ADDgoogleplus\n\n[CREDITS]\nProducer: Josh Gonzales\nDirector: Sydney Kim\nDP: Adam Bial\nCamera Operators: Josh Gonzales, Patrick Houston \nEdited by: Bahiyjaui Allen",
+        "youtube_id": "uHCEos5fFdQ",
+        "created_at": 20171113012452,
+        "updated_at": 20171123220714,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 292
+    }
+}

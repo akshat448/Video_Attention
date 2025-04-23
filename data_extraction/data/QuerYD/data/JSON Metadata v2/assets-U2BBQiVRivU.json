@@ -1,0 +1,89 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ecc00f51eb74233959e079f",
+                        "video": "5ecc00dfd8088e33976998b5",
+                        "audio_description": "5ecc00dfd8088e33976998b4",
+                        "user": "5eb34ae5e1b8b12f0893da61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 17.627677,
+                        "end_time": 17.627677,
+                        "duration": 3.498666666666667,
+                        "file_name": "U2BBQiVRivU_5ecc00f51eb74233959e079f.wav",
+                        "file_size_bytes": 671788,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/U2BBQiVRivU",
+                        "created_at": 20200525173133,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5ecc01791eb74233959e07a1",
+                        "video": "5ecc00dfd8088e33976998b5",
+                        "audio_description": "5ecc00dfd8088e33976998b4",
+                        "user": "5eb34ae5e1b8b12f0893da61",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 83.613105,
+                        "end_time": 83.613105,
+                        "duration": 9.045333333333334,
+                        "file_name": "U2BBQiVRivU_5ecc01791eb74233959e07a1.wav",
+                        "file_size_bytes": 1736748,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/U2BBQiVRivU",
+                        "created_at": 20200525173345,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5ecc00dfd8088e33976998b4",
+                "video": "5ecc00dfd8088e33976998b5",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5eb34ae5e1b8b12f0893da61",
+                    "email": "nettamarad@gmail.com",
+                    "name": "N Doak",
+                    "given_name": "N",
+                    "picture": "https://lh6.googleusercontent.com/-852KrneuhFc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNaFGwEBqtcNfYs5z3A0Si1BTmhuw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "101098725731282813293",
+                    "last_login": 20200524214732,
+                    "token": "3b531ee64a58ecab4afa3083d9538cc5f83b27482c2e7c7bc418af899761a181",
+                    "__v": 0,
+                    "updated_at": 20200524214732,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200525173111,
+                "updated_at": 20200525173111,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5ecc00dfd8088e33976998b5",
+        "title": "Monday Welcome and Worship",
+        "description": "Welcome and worship for STM",
+        "youtube_id": "U2BBQiVRivU",
+        "created_at": 20200525173111,
+        "updated_at": 20200525173345,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 1047
+    }
+}

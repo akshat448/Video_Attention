@@ -1,0 +1,346 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c01e97aaf05527dd32a0137",
+                        "video": "5c01e854af05527dd32a0136",
+                        "audio_description": "5c01e854af05527dd32a0135",
+                        "user": "5c01e78eaf05527dd32a0133",
+                        "label": "Wheelchair",
+                        "playback_type": "inline",
+                        "start_time": 4.44896103896104,
+                        "end_time": 8.907192331478047,
+                        "duration": 4.458231292517007,
+                        "file_name": "avY2zI8fhUc_5c01e97aaf05527dd32a0137.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/avY2zI8fhUc",
+                        "created_at": 20181201015258,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf744142332f10dce34e",
+                                "sentence": " A lady who uses a wheelchair,",
+                                "start_time": 0.31,
+                                "end_time": 2.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c01e9ceaf05527dd32a0138",
+                        "video": "5c01e854af05527dd32a0136",
+                        "audio_description": "5c01e854af05527dd32a0135",
+                        "user": "5c01e78eaf05527dd32a0133",
+                        "label": "rolling wheelchair",
+                        "playback_type": "inline",
+                        "start_time": 10.002857142857145,
+                        "end_time": 13.439410430839004,
+                        "duration": 3.436553287981859,
+                        "file_name": "avY2zI8fhUc_5c01e9ceaf05527dd32a0138.wav",
+                        "file_size_bytes": 606252,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/avY2zI8fhUc",
+                        "created_at": 20181201015422,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcd901703f62f116f7486",
+                                "sentence": " A camera shot behind a rolling wheel chair.",
+                                "start_time": 0.31,
+                                "end_time": 3.39
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c01ea8fd306017427723130",
+                        "video": "5c01e854af05527dd32a0136",
+                        "audio_description": "5c01e854af05527dd32a0135",
+                        "user": "5c01e78eaf05527dd32a0133",
+                        "label": "Sunglasses",
+                        "playback_type": "inline",
+                        "start_time": 36.99662337662339,
+                        "end_time": 39.50437847866421,
+                        "duration": 2.507755102040816,
+                        "file_name": "avY2zI8fhUc_5c01ea8fd306017427723130.wav",
+                        "file_size_bytes": 442412,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/avY2zI8fhUc",
+                        "created_at": 20181201015735,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf744142332f10dce357",
+                                "sentence": " Man wearing sunglasses.",
+                                "start_time": 0.11,
+                                "end_time": 2.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c01eac4af05527dd32a013a",
+                        "video": "5c01e854af05527dd32a0136",
+                        "audio_description": "5c01e854af05527dd32a0135",
+                        "user": "5c01e78eaf05527dd32a0133",
+                        "label": "Workshops",
+                        "playback_type": "inline",
+                        "start_time": 57.397659,
+                        "end_time": 60.74133246938775,
+                        "duration": 3.3436734693877552,
+                        "file_name": "avY2zI8fhUc_5c01eac4af05527dd32a013a.wav",
+                        "file_size_bytes": 589868,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/avY2zI8fhUc",
+                        "created_at": 20181201015828,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf734142332f10dce2fd",
+                                "sentence": " Website showing a list of workshops available.",
+                                "start_time": 0.16,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c01eafaaf05527dd32a013b",
+                        "video": "5c01e854af05527dd32a0136",
+                        "audio_description": "5c01e854af05527dd32a0135",
+                        "user": "5c01e78eaf05527dd32a0133",
+                        "label": "Jaws",
+                        "playback_type": "inline",
+                        "start_time": 82.86093,
+                        "end_time": 85.55444473922903,
+                        "duration": 2.693514739229025,
+                        "file_name": "avY2zI8fhUc_5c01eafaaf05527dd32a013b.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/avY2zI8fhUc",
+                        "created_at": 20181201015922,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8e39",
+                                "sentence": " Jaws screen reader is speaking.",
+                                "start_time": 0.18,
+                                "end_time": 2.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c01eb1eaf05527dd32a013c",
+                        "video": "5c01e854af05527dd32a0136",
+                        "audio_description": "5c01e854af05527dd32a0135",
+                        "user": "5c01e78eaf05527dd32a0133",
+                        "label": "ASL",
+                        "playback_type": "inline",
+                        "start_time": 96.533641,
+                        "end_time": 104.33554576190477,
+                        "duration": 7.801904761904762,
+                        "file_name": "avY2zI8fhUc_5c01eb1eaf05527dd32a013c.wav",
+                        "file_size_bytes": 1376300,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/avY2zI8fhUc",
+                        "created_at": 20181201015958,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf744142332f10dce321",
+                                "sentence": " A lady is using sign language to say hello. I communicate differently. How can workforce solutions help me?",
+                                "start_time": 0,
+                                "end_time": 7.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c01eb48d306017427723131",
+                        "video": "5c01e854af05527dd32a0136",
+                        "audio_description": "5c01e854af05527dd32a0135",
+                        "user": "5c01e78eaf05527dd32a0133",
+                        "label": "ASL-2",
+                        "playback_type": "inline",
+                        "start_time": 105.07012987012989,
+                        "end_time": 112.50051535765823,
+                        "duration": 7.430385487528345,
+                        "file_name": "avY2zI8fhUc_5c01eb48d306017427723131.wav",
+                        "file_size_bytes": 1310764,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/avY2zI8fhUc",
+                        "created_at": 20181201020040,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcc2cb5327e2f0f9c8d49",
+                                "sentence": " In the background, a customers using sign language to communicate to a counselor using an interpreter.",
+                                "start_time": 0.13,
+                                "end_time": 7.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c01eb7dd306017427723132",
+                        "video": "5c01e854af05527dd32a0136",
+                        "audio_description": "5c01e854af05527dd32a0135",
+                        "user": "5c01e78eaf05527dd32a0133",
+                        "label": "Glass door",
+                        "playback_type": "inline",
+                        "start_time": 124.342129,
+                        "end_time": 136.60226505442176,
+                        "duration": 12.26013605442177,
+                        "file_name": "avY2zI8fhUc_5c01eb7dd306017427723132.wav",
+                        "file_size_bytes": 2162732,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/avY2zI8fhUc",
+                        "created_at": 20181201020133,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf744142332f10dce336",
+                                "sentence": " Customer in a wheelchair uses an automatic door to enter the workforce solutions office.",
+                                "start_time": 0.13,
+                                "end_time": 5.89
+                            },
+                            {
+                                "_id": "5e4dcf744142332f10dce335",
+                                "sentence": " The glass door closes behind him, showing the workforce solutions, hours of operation.",
+                                "start_time": 5.89,
+                                "end_time": 12.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c01eb97af05527dd32a013d",
+                        "video": "5c01e854af05527dd32a0136",
+                        "audio_description": "5c01e854af05527dd32a0135",
+                        "user": "5c01e78eaf05527dd32a0133",
+                        "label": "Conclusion",
+                        "playback_type": "inline",
+                        "start_time": 140.543943,
+                        "end_time": 144.90929447392293,
+                        "duration": 4.365351473922902,
+                        "file_name": "avY2zI8fhUc_5c01eb97af05527dd32a013d.wav",
+                        "file_size_bytes": 770092,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/avY2zI8fhUc",
+                        "created_at": 20181201020159,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf744142332f10dce346",
+                                "sentence": " The video ends with the in deem official poster.",
+                                "start_time": 0.11,
+                                "end_time": 4.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c01eec9af05527dd32a013e",
+                        "video": "5c01e854af05527dd32a0136",
+                        "audio_description": "5c01e854af05527dd32a0135",
+                        "user": "5c01e78eaf05527dd32a0133",
+                        "label": "Introduction",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 23.219954648526077,
+                        "file_name": "avY2zI8fhUc_5c01eec9af05527dd32a013e.wav",
+                        "file_size_bytes": 4096044,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/avY2zI8fhUc",
+                        "created_at": 20181201021537,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8dcb",
+                                "sentence": " This video celebrates national disability employment awareness month, or in diem for 2018 three. People with the disability ask how workforce solutions can help them find employment.",
+                                "start_time": 0.11,
+                                "end_time": 13.72
+                            },
+                            {
+                                "_id": "5e4dd0fdb5327e2f0f9c8dca",
+                                "sentence": " The video begins with the official indian poster for 2018 that has the theme america's workforce empowering all.",
+                                "start_time": 13.72,
+                                "end_time": 22.96
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c01ef2ad306017427723134",
+                        "video": "5c01e854af05527dd32a0136",
+                        "audio_description": "5c01e854af05527dd32a0135",
+                        "user": "5c01e78eaf05527dd32a0133",
+                        "label": "Katy Office",
+                        "playback_type": "inline",
+                        "start_time": 14.078571428571431,
+                        "end_time": 24.295351473922906,
+                        "duration": 10.216780045351474,
+                        "file_name": "avY2zI8fhUc_5c01ef2ad306017427723134.wav",
+                        "file_size_bytes": 1802284,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/avY2zI8fhUc",
+                        "created_at": 20181201021714,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dcf744142332f10dce37b",
+                                "sentence": " Workforce solutions employee who uses a wheelchair. Speaking at the katy office, a female greater behind the counter to his left is nodding in agreement.",
+                                "start_time": 0.09,
+                                "end_time": 10.11
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c01e854af05527dd32a0135",
+                "video": "5c01e854af05527dd32a0136",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c01e78eaf05527dd32a0133",
+                    "email": "spearsdm1@gmail.com",
+                    "name": "David Spears",
+                    "given_name": "David",
+                    "picture": "https://lh4.googleusercontent.com/-3H01-5S2rOU/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gRcOOPnzm5Ov-6ay2nPgfo6OJn5Q/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "105646666594503842207",
+                    "last_login": 20191007144437,
+                    "token": "783a58850b73f2d06fc79ff03e5d56d9849cc21976a5f2244c52118c206cd4fb",
+                    "__v": 0,
+                    "updated_at": 20191007144437,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20181201014804,
+                "updated_at": 20181201014804,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Workforce Solutions",
+            "NDEAM",
+            "Ability",
+            "Employment",
+            "Awareness"
+        ],
+        "custom_tags": [],
+        "_id": "5c01e854af05527dd32a0136",
+        "title": "2018 National Disability Employment Awareness Month",
+        "description": "Workforce Solutions celebrates National Disability Employment Awareness Month (NDEAM) all year long!",
+        "youtube_id": "avY2zI8fhUc",
+        "created_at": 20181201014804,
+        "updated_at": 20181201021714,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 145
+    }
+}

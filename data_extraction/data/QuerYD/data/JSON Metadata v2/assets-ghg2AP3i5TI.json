@@ -1,0 +1,139 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b8f2f2e7cdff3540980e762",
+                        "video": "5b8f2e377cdff3540980e761",
+                        "audio_description": "5b8f2e377cdff3540980e760",
+                        "user": "5b8f27d35233bd4b6f049185",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 2.547942,
+                        "end_time": 2.547942,
+                        "duration": 8.080544217687075,
+                        "file_name": "ghg2AP3i5TI_5b8f2f2e7cdff3540980e762.wav",
+                        "file_size_bytes": 1425452,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ghg2AP3i5TI",
+                        "created_at": 20180905011942,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc225da4a9499b12036d0",
+                                "sentence": " The EU f logo appears.",
+                                "start_time": 0.71,
+                                "end_time": 3.39
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b12036cf",
+                                "sentence": " European university foundation.",
+                                "start_time": 3.39,
+                                "end_time": 6.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b8f2f9f7cdff3540980e763",
+                        "video": "5b8f2e377cdff3540980e761",
+                        "audio_description": "5b8f2e377cdff3540980e760",
+                        "user": "5b8f27d35233bd4b6f049185",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 5.290303,
+                        "end_time": 5.290303,
+                        "duration": 8.916462585034013,
+                        "file_name": "ghg2AP3i5TI_5b8f2f9f7cdff3540980e763.wav",
+                        "file_size_bytes": 1572908,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ghg2AP3i5TI",
+                        "created_at": 20180905012135,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc225da4a9499b120371e",
+                                "sentence": " The image opens to a room",
+                                "start_time": 0.97,
+                                "end_time": 3.35
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b120371d",
+                                "sentence": " with poster board presentations all round.",
+                                "start_time": 3.35,
+                                "end_time": 6.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b8f30077cdff3540980e764",
+                        "video": "5b8f2e377cdff3540980e761",
+                        "audio_description": "5b8f2e377cdff3540980e760",
+                        "user": "5b8f27d35233bd4b6f049185",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 10.006761,
+                        "end_time": 10.006761,
+                        "duration": 5.015510204081632,
+                        "file_name": "ghg2AP3i5TI_5b8f30077cdff3540980e764.wav",
+                        "file_size_bytes": 884780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ghg2AP3i5TI",
+                        "created_at": 20180905012319,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dc8c47eb22e2f0e7574d6",
+                                "sentence": " People were walking in viewing the presentations around the room.",
+                                "start_time": 0.76,
+                                "end_time": 4.44
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b8f2e377cdff3540980e760",
+                "video": "5b8f2e377cdff3540980e761",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b8f27d35233bd4b6f049185",
+                    "email": "amg1235@nyu.edu",
+                    "name": "Antonio M Guimaraes",
+                    "given_name": "Antonio M",
+                    "picture": "https://lh6.googleusercontent.com/-yj3ld6mdSpk/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMeJQpG15uoxqhPfgOBI4Z_RZizIg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "109509512829455885435",
+                    "last_login": 20180905004819,
+                    "token": "1c6453238664ee44de7e31fc209c91de02e65fc95057fcafd021406b41085cd8",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180905011535,
+                "updated_at": 20180905011535,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5b8f2e377cdff3540980e761",
+        "title": "Project Idea Corner: showcasing your project ideas at the EUF Open Space!",
+        "description": "The project idea corner is one of the most popular features of the EUF Open Space. Showcase your project ideas in a creative way & find partners. A number of EU project ideas incubated at OpenSpace 2015, 2016 and 2017 are already a reality!",
+        "youtube_id": "ghg2AP3i5TI",
+        "created_at": 20180905011535,
+        "updated_at": 20180905012319,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 35
+    }
+}

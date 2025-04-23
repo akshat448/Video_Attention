@@ -1,0 +1,113 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5d3a",
+                        "audio_description": "58e7cf3746e13dfd851a26ca",
+                        "created_at": 20160929161429,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929161429,
+                        "file_name": "14751908697751.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2774,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24585,
+                        "video": "58e7cf2946e13dfd851a1ee9",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 29.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e4427a279f74cbc7c082e35",
+                                "sentence": " A young dark skinned boy with dark hair",
+                                "start_time": 0.29,
+                                "end_time": 4.53
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e34",
+                                "sentence": " sits at a desk with an older light skinned woman with shoulder length gray hair",
+                                "start_time": 4.53,
+                                "end_time": 11.13
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e33",
+                                "sentence": " to his right,",
+                                "start_time": 11.13,
+                                "end_time": 12.26
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e32",
+                                "sentence": " he sits practicing how to type braille on the blue braille keyboard in front of him.",
+                                "start_time": 12.31,
+                                "end_time": 19.21
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e31",
+                                "sentence": " He also manually adjust the paper he types on in the same way as an old fashioned typewriter",
+                                "start_time": 19.55,
+                                "end_time": 27.99
+                            },
+                            {
+                                "_id": "5e4427a279f74cbc7c082e30",
+                                "sentence": " would require.",
+                                "start_time": 27.99,
+                                "end_time": 29.37
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a26ca",
+                "status": "published",
+                "legacy_video_id": 2774,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1ee9",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Perkins Braille Writer",
+            "Braille"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1ee9",
+        "description": "",
+        "youtube_id": "zMB-bVwEi2Q",
+        "views": 0,
+        "created_at": 20160929161232,
+        "title": "Student Working with Teacher: Braille Lesson",
+        "legacy_video_id": 2774,
+        "updated_at": 20160929161429,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 73
+    }
+}

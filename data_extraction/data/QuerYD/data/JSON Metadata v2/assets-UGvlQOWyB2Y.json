@@ -1,0 +1,96 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5a61f9afa626df54938574bd",
+                        "video": "5a61f9afa626df54938574bf",
+                        "audio_description": "5a61f9afa626df54938574be",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 16.718367346938777,
+                        "duration": 16.718367346938777,
+                        "file_name": "UGvlQOWyB2Y_5a61f9afa626df54938574bd.wav",
+                        "file_size_bytes": 2949164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UGvlQOWyB2Y",
+                        "created_at": 20180119135911,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e175ab37b5156f523f99c86",
+                                "sentence": " Sparky the dragon, a blue and orange dragon mascot of the new york islanders, hockey team waves and orange islanders flag while skating around the ice after an islanders win.",
+                                "start_time": 0.49,
+                                "end_time": 10.14
+                            },
+                            {
+                                "_id": "5e175ab37b5156f523f99c85",
+                                "sentence": " Meanwhile, the ice girls wave blue islanders flags and skate around the ice as well.",
+                                "start_time": 10.27,
+                                "end_time": 15.59
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5a61f9afa626df54938574be",
+                "video": "5a61f9afa626df54938574bf",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "59c25b2ec6c4802622d9c1bf",
+                    "email": "rgman1995@gmail.com",
+                    "name": "Ryan G",
+                    "given_name": "Ryan",
+                    "picture": "https://lh3.googleusercontent.com/-NxEEiJBaock/AAAAAAAAAAI/AAAAAAAAAc0/5fcpjk_lXKY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113561788356507984833",
+                    "last_login": 20201230202355,
+                    "token": "27b561de1a2557461b6807ff8a71622302ac468380f084bd313e4b4fc0a8dc39",
+                    "__v": 0,
+                    "updated_at": 20201230202355,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180119135911,
+                "updated_at": 20180122172902,
+                "notes": "Sparky the Dragon, a blue and orange dragon mascot of the New York Islanders hockey team, waves an orange Islanders flag while skating around the ice after an Islanders win. Meanwhile, the Ice Girls wave blue Islanders flags and skate around the ice as well. ",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Sparky",
+            "celebrating",
+            "the",
+            "Islanders",
+            "win"
+        ],
+        "custom_tags": [],
+        "_id": "5a61f9afa626df54938574bf",
+        "title": "Sparky celebrating the Islanders win",
+        "description": "Islanders vs Penguins @ Nassau Coliseum. 12-29-10.",
+        "youtube_id": "UGvlQOWyB2Y",
+        "created_at": 20180119135911,
+        "updated_at": 20180119135911,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Sports",
+        "category_id": "17",
+        "duration": 32
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b17d4bb5eb2f317e6b8e406",
+                        "video": "5b17d40e5eb2f317e6b8e402",
+                        "audio_description": "5b17d40e5eb2f317e6b8e401",
+                        "user": "5b1746ab5eb2f317e6b8e3ce",
+                        "label": "mom and dad",
+                        "playback_type": "extended",
+                        "start_time": 6.945242,
+                        "end_time": 6.945242,
+                        "duration": 5.015510204081632,
+                        "file_name": "SmSVlY2gx88_5b17d4bb5eb2f317e6b8e406.wav",
+                        "file_size_bytes": 884780,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/SmSVlY2gx88",
+                        "created_at": 20180606123403,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18921bb8e766557cda6769",
+                                "sentence": " Image of parents reading a storybook to their child.",
+                                "start_time": 0.8,
+                                "end_time": 4.51
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b17d5275eb2f317e6b8e408",
+                        "video": "5b17d40e5eb2f317e6b8e402",
+                        "audio_description": "5b17d40e5eb2f317e6b8e401",
+                        "user": "5b1746ab5eb2f317e6b8e3ce",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 10.303378,
+                        "end_time": 10.303378,
+                        "duration": 13.653333333333334,
+                        "file_name": "SmSVlY2gx88_5b17d5275eb2f317e6b8e408.wav",
+                        "file_size_bytes": 2408492,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/SmSVlY2gx88",
+                        "created_at": 20180606123551,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18947f3ffd80557d850c49",
+                                "sentence": " A cartoon image depicting two little kids reading a book",
+                                "start_time": 0.83,
+                                "end_time": 4.59
+                            },
+                            {
+                                "_id": "5e18947f3ffd80557d850c48",
+                                "sentence": " with images of the abc",
+                                "start_time": 4.69,
+                                "end_time": 6.75
+                            },
+                            {
+                                "_id": "5e18947f3ffd80557d850c47",
+                                "sentence": " fruit and vegetables exploding out,",
+                                "start_time": 6.75,
+                                "end_time": 9.49
+                            },
+                            {
+                                "_id": "5e18947f3ffd80557d850c46",
+                                "sentence": " demonstrating the imaginative nature of books.",
+                                "start_time": 9.71,
+                                "end_time": 13.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b17d67f5eb2f317e6b8e40c",
+                        "video": "5b17d40e5eb2f317e6b8e402",
+                        "audio_description": "5b17d40e5eb2f317e6b8e401",
+                        "user": "5b1746ab5eb2f317e6b8e3ce",
+                        "label": "book cover",
+                        "playback_type": "extended",
+                        "start_time": 25.127876,
+                        "end_time": 25.127876,
+                        "duration": 7.7090249433106575,
+                        "file_name": "SmSVlY2gx88_5b17d67f5eb2f317e6b8e40c.wav",
+                        "file_size_bytes": 1359916,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/SmSVlY2gx88",
+                        "created_at": 20180606124135,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18954083fdba557ba3f763",
+                                "sentence": " The front cover of the book shows three children and one girl in a wheelchair playing outside together.",
+                                "start_time": 0.73,
+                                "end_time": 7.24
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b17d40e5eb2f317e6b8e401",
+                "video": "5b17d40e5eb2f317e6b8e402",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b1746ab5eb2f317e6b8e3ce",
+                    "email": "sidney.melamdowitz@gmail.com",
+                    "name": "Sidney Melamdowitz",
+                    "given_name": "Sidney",
+                    "picture": "https://lh3.googleusercontent.com/-qiPdDKDMxX4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0SApyNT1FYFl0BAAYUQpxpMk9yZQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115496288052224446871",
+                    "last_login": 20180606022755,
+                    "token": "42f4d2ad615d1cf65bdb97894a86df72c466183a4ce2cafcd4c02c72def76c5e",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180606123110,
+                "updated_at": 20180606123110,
+                "notes": "cartoon image depiciting two little kids reading a book, with images of letters of the abc fruti and vegetables exploding out. demonstarting the imaginative nature of books \r\n\r\nImage of parents reading a story book to their child\r\n\r\nthe front cover of the book shows 3 children and one firl in a wheelcair playing together outside",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5b17d40e5eb2f317e6b8e402",
+        "title": "Audio Description",
+        "description": "",
+        "youtube_id": "SmSVlY2gx88",
+        "created_at": 20180606123110,
+        "updated_at": 20180606124135,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 223
+    }
+}

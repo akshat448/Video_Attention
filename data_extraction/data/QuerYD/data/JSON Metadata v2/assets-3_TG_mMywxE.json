@@ -1,0 +1,865 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8046e13dfd851a5dfc",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006154005,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006154005,
+                        "file_name": "14757936056391.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24797,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.46,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b90f0269c027b2e18974",
+                                "sentence": " The jacobs institute for design innovation logo is shown on a white background.",
+                                "start_time": 0.33,
+                                "end_time": 4.79
+                            },
+                            {
+                                "_id": "5e45b90f0269c027b2e18973",
+                                "sentence": " The text below reads",
+                                "start_time": 5.13,
+                                "end_time": 6.85
+                            },
+                            {
+                                "_id": "5e45b90f0269c027b2e18972",
+                                "sentence": " college of engineering, uc berkeley.",
+                                "start_time": 6.85,
+                                "end_time": 9.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5dfd",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006154045,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006154045,
+                        "file_name": "14757936457211.wav",
+                        "start_time": 4.587,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24798,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 4.587,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b89f98b0c327b1e1283c",
+                                "sentence": " A saw is cutting a block of wood.",
+                                "start_time": 0.4,
+                                "end_time": 2.72
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e1283b",
+                                "sentence": " The saw is connected to a tablet, which is showing instructions to the user.",
+                                "start_time": 3.02,
+                                "end_time": 7.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5dfe",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006154130,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006154130,
+                        "file_name": "14757936903431.wav",
+                        "start_time": 6.439,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24799,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 6.439,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b965a3885227afb5cb68",
+                                "sentence": " A title is displayed on screen. It reads",
+                                "start_time": 0.86,
+                                "end_time": 3.8
+                            },
+                            {
+                                "_id": "5e45b965a3885227afb5cb67",
+                                "sentence": " drill sergeant.",
+                                "start_time": 3.8,
+                                "end_time": 4.9
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5dff",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006154204,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006154204,
+                        "file_name": "14757937247941.wav",
+                        "start_time": 8.676,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24800,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 8.676,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.83,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b965a3885227afb5cb73",
+                                "sentence": " A student is drilling into a piece of wood from above.",
+                                "start_time": 0.8,
+                                "end_time": 4.01
+                            },
+                            {
+                                "_id": "5e45b965a3885227afb5cb72",
+                                "sentence": " The drill has a projector attached to it, and it is displaying Information on the wood.",
+                                "start_time": 4.44,
+                                "end_time": 9.06
+                            },
+                            {
+                                "_id": "5e45b965a3885227afb5cb71",
+                                "sentence": " The text on the screen reads drill sergeant augmented power tools.",
+                                "start_time": 10.22,
+                                "end_time": 14.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e00",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006154422,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006154422,
+                        "file_name": "14757938621121.wav",
+                        "start_time": 14.447,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24801,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 14.447,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.74,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b89f98b0c327b1e1285d",
+                                "sentence": " A young man and a young woman are sitting in a workshop.",
+                                "start_time": 0.33,
+                                "end_time": 3.36
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e1285c",
+                                "sentence": " Their names are displayed on screen.",
+                                "start_time": 4.22,
+                                "end_time": 6.32
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e1285b",
+                                "sentence": " and below. It reads electrical engineering and computer sciences.",
+                                "start_time": 6.32,
+                                "end_time": 10.29
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e01",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006154608,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006154608,
+                        "file_name": "14757939688871.wav",
+                        "start_time": 25.753,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24802,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 25.753,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.49,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b89f98b0c327b1e1284c",
+                                "sentence": " A user is pushing a piece of wood on a saw",
+                                "start_time": 0.1,
+                                "end_time": 2.96
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e1284b",
+                                "sentence": " as he moves a piece of wood to the right.",
+                                "start_time": 3.28,
+                                "end_time": 5.69
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e1284a",
+                                "sentence": " The tablet connected to the soar also displays the wood moving.",
+                                "start_time": 5.83,
+                                "end_time": 9.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e02",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006154640,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006154640,
+                        "file_name": "14757940003561.wav",
+                        "start_time": 31.44,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24803,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 31.44,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b74798b0c327b1e126bf",
+                                "sentence": " The drill with a projector attached to it is displayed on the screen.",
+                                "start_time": 0.48,
+                                "end_time": 4.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e03",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006154802,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006154802,
+                        "file_name": "14757940824801.wav",
+                        "start_time": 32.825,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24804,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 32.825,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cc07",
+                                "sentence": " A drill is cutting into a piece of wood from above.",
+                                "start_time": 0.01,
+                                "end_time": 2.75
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc06",
+                                "sentence": " The projector attached to the drill is projecting onto the wood a circular logo.",
+                                "start_time": 2.95,
+                                "end_time": 7.6
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc05",
+                                "sentence": " As the drill moves in, the circuit logo advances",
+                                "start_time": 7.89,
+                                "end_time": 10.95
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc04",
+                                "sentence": " the text in the middle of the circular logo reads,",
+                                "start_time": 11.09,
+                                "end_time": 13.96
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc03",
+                                "sentence": " keep drilling",
+                                "start_time": 13.96,
+                                "end_time": 15.04
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cc02",
+                                "sentence": " 5.1 millimeters.",
+                                "start_time": 15.04,
+                                "end_time": 16.92
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e04",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006154847,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006154847,
+                        "file_name": "14757941278851.wav",
+                        "start_time": 34.305,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24805,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 34.305,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b965a3885227afb5cbde",
+                                "sentence": " The drill has reached the target depth.",
+                                "start_time": 0.13,
+                                "end_time": 2.34
+                            },
+                            {
+                                "_id": "5e45b965a3885227afb5cbdd",
+                                "sentence": " The logo is now completely green.",
+                                "start_time": 2.41,
+                                "end_time": 4.61
+                            },
+                            {
+                                "_id": "5e45b965a3885227afb5cbdc",
+                                "sentence": " The text inside of the logo reads",
+                                "start_time": 4.69,
+                                "end_time": 6.98
+                            },
+                            {
+                                "_id": "5e45b965a3885227afb5cbdb",
+                                "sentence": " pullback drill.",
+                                "start_time": 6.98,
+                                "end_time": 8.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e05",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006154953,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006154953,
+                        "file_name": "14757941933631.wav",
+                        "start_time": 40.776,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24806,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 40.776,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b89f98b0c327b1e1282c",
+                                "sentence": " The same drill is now drilling vertically on a piece of wood.",
+                                "start_time": 0.16,
+                                "end_time": 3.48
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e1282b",
+                                "sentence": " The projector on the drill is showing the depth at 1.2 inches with a green circular logo.",
+                                "start_time": 4.22,
+                                "end_time": 9.97
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e1282a",
+                                "sentence": " The text on the screen reads real time drow depth.",
+                                "start_time": 10.27,
+                                "end_time": 13.42
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e06",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006155041,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006155041,
+                        "file_name": "14757942412761.wav",
+                        "start_time": 43.265,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24807,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 43.265,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.72,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cce6",
+                                "sentence": " The drill has reached the target depth of 1.5 inches.",
+                                "start_time": 0.29,
+                                "end_time": 3.87
+                            },
+                            {
+                                "_id": "5e45b966a3885227afb5cce5",
+                                "sentence": " The circular logo is now completely green, and the text inside the circle reads done.",
+                                "start_time": 4.02,
+                                "end_time": 9.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e07",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006155134,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006155134,
+                        "file_name": "14757942944561.wav",
+                        "start_time": 49.961,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24808,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 49.961,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b89e98b0c327b1e1276d",
+                                "sentence": " A user is positioning the drill",
+                                "start_time": 0.23,
+                                "end_time": 2.4
+                            },
+                            {
+                                "_id": "5e45b89e98b0c327b1e1276c",
+                                "sentence": " against a vertical wall.",
+                                "start_time": 2.4,
+                                "end_time": 3.98
+                            },
+                            {
+                                "_id": "5e45b89e98b0c327b1e1276b",
+                                "sentence": " A red laser in the horizontal and vertical axis is projected onto the work surface",
+                                "start_time": 4.51,
+                                "end_time": 10.07
+                            },
+                            {
+                                "_id": "5e45b89e98b0c327b1e1276a",
+                                "sentence": " in the corner. Another diagram is shown,",
+                                "start_time": 11.1,
+                                "end_time": 13.88
+                            },
+                            {
+                                "_id": "5e45b89e98b0c327b1e12769",
+                                "sentence": " which displays the angle of the drow relative to the wall.",
+                                "start_time": 13.88,
+                                "end_time": 16.97
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e08",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006155238,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006155238,
+                        "file_name": "14757943585221.wav",
+                        "start_time": 49.591,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24809,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 49.591,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cc8f",
+                                "sentence": " The text on the screen reads drill angle assist.",
+                                "start_time": 0.54,
+                                "end_time": 3.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e09",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006155403,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006155403,
+                        "file_name": "14757944435111.wav",
+                        "start_time": 53.398,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24810,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 53.398,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b9100269c027b2e189e8",
+                                "sentence": " A person is moving a handle, which is changing the angle of a cutting saw.",
+                                "start_time": 0.22,
+                                "end_time": 4.43
+                            },
+                            {
+                                "_id": "5e45b9100269c027b2e189e7",
+                                "sentence": " A red laser is projected pointed onto the wood.",
+                                "start_time": 4.71,
+                                "end_time": 7.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e0a",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006155540,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006155540,
+                        "file_name": "14757945402971.wav",
+                        "start_time": 55.424,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24811,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 55.424,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 17.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b89e98b0c327b1e127c7",
+                                "sentence": " A tablet connected to the saw is displayed.",
+                                "start_time": 0.48,
+                                "end_time": 2.96
+                            },
+                            {
+                                "_id": "5e45b89e98b0c327b1e127c6",
+                                "sentence": " The text on the tablet reads",
+                                "start_time": 3.2,
+                                "end_time": 5.09
+                            },
+                            {
+                                "_id": "5e45b89e98b0c327b1e127c5",
+                                "sentence": " change the miter angle 45 degrees.",
+                                "start_time": 5.14,
+                                "end_time": 8.06
+                            },
+                            {
+                                "_id": "5e45b89e98b0c327b1e127c4",
+                                "sentence": " A logo below shows the angle that the sore is currently located.",
+                                "start_time": 8.31,
+                                "end_time": 12.09
+                            },
+                            {
+                                "_id": "5e45b89e98b0c327b1e127c3",
+                                "sentence": " As the user moves, the sale soar angle the logo updates in real time.",
+                                "start_time": 12.28,
+                                "end_time": 16.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e0b",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006155615,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006155615,
+                        "file_name": "14757945755401.wav",
+                        "start_time": 57.717,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24812,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 57.717,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b966a3885227afb5cca7",
+                                "sentence": " The text on the screen reads, cutting stroke feedback.",
+                                "start_time": 0.33,
+                                "end_time": 3.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e0c",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006155652,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006155652,
+                        "file_name": "14757946122731.wav",
+                        "start_time": 61.053,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24813,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 61.053,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b89f98b0c327b1e12863",
+                                "sentence": " A person is operating the saw cutting through a piece of wood at an angle.",
+                                "start_time": 0,
+                                "end_time": 4.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e0d",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006155844,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006155844,
+                        "file_name": "14757947240941.wav",
+                        "start_time": 65.401,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24814,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 65.401,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b9120269c027b2e189f4",
+                                "sentence": " The text on the screen reads precision cut, measuring",
+                                "start_time": 0,
+                                "end_time": 2.66
+                            },
+                            {
+                                "_id": "5e45b9120269c027b2e189f3",
+                                "sentence": " a person is cutting a piece of wood on the same saw",
+                                "start_time": 3.22,
+                                "end_time": 6.12
+                            },
+                            {
+                                "_id": "5e45b9120269c027b2e189f2",
+                                "sentence": " a tablet connected to the saw",
+                                "start_time": 6.49,
+                                "end_time": 8.44
+                            },
+                            {
+                                "_id": "5e45b9120269c027b2e189f1",
+                                "sentence": " shows the piece of wood as he or she is moving it.",
+                                "start_time": 8.44,
+                                "end_time": 11.37
+                            },
+                            {
+                                "_id": "5e45b9120269c027b2e189f0",
+                                "sentence": " A laser beam point can be seen at the end of the wood.",
+                                "start_time": 11.71,
+                                "end_time": 14.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e0e",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006155933,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006155933,
+                        "file_name": "14757947731991.wav",
+                        "start_time": 72.972,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24815,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 72.972,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45ba8198b0c327b1e128d1",
+                                "sentence": " The user has finished moving the piece of wood. According to the tablet display,",
+                                "start_time": 0,
+                                "end_time": 4.15
+                            },
+                            {
+                                "_id": "5e45ba8198b0c327b1e128d0",
+                                "sentence": " the user is now beginning to cut the wood.",
+                                "start_time": 4.36,
+                                "end_time": 6.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e0f",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006160029,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006160029,
+                        "file_name": "14757948295951.wav",
+                        "start_time": 85.137,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24816,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 85.137,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b90f0269c027b2e189b1",
+                                "sentence": " The jacobs institute for design innovation logo is shown on the screen on a white background.",
+                                "start_time": 0.06,
+                                "end_time": 4.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8046e13dfd851a5e10",
+                        "audio_description": "58e7cf3846e13dfd851a26de",
+                        "created_at": 20161006160644,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161006160644,
+                        "file_name": "14757952043611.wav",
+                        "start_time": 87.79,
+                        "legacy_video_id": 2791,
+                        "legacy_user_id": 3278,
+                        "label": "",
+                        "legacy_audio_clip_id": 24817,
+                        "video": "58e7cf2946e13dfd851a1efa",
+                        "end_time": 87.79,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a26dd",
+                        "transcript": [
+                            {
+                                "_id": "5e45b89f98b0c327b1e12828",
+                                "sentence": " The cow logo is shown on screen on a white background",
+                                "start_time": 0.47,
+                                "end_time": 3.83
+                            },
+                            {
+                                "_id": "5e45b89f98b0c327b1e12827",
+                                "sentence": " in blue and yellow letters.",
+                                "start_time": 3.83,
+                                "end_time": 5.74
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3846e13dfd851a26de",
+                "status": "published",
+                "legacy_video_id": 2791,
+                "legacy_user_id": 3278,
+                "video": "58e7cf2946e13dfd851a1efa",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a26dd",
+                    "name": "JacobsDesignCal",
+                    "google_user_id_token": "",
+                    "created_at": 20161006152440,
+                    "updated_at": 20161006152635,
+                    "legacy_user_id": 3278,
+                    "last_login": 0,
+                    "email": "jacobsinstitute@berkeley.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "virtual reality",
+            "making",
+            "power tool",
+            "vr power tool",
+            "augmented reality power tools",
+            "jacobs institute",
+            "uc berkeley",
+            "jacobs hall berkeley"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1efa",
+        "description": "",
+        "youtube_id": "3_TG_mMywxE",
+        "views": 0,
+        "created_at": 20161006153333,
+        "title": "Drill Sergeant - Augmented Power Tools",
+        "legacy_video_id": 2791,
+        "updated_at": 20161010095811,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 90
+    }
+}

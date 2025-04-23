@@ -1,0 +1,100 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5f6b84f9aa38d665301f34b3",
+                        "video": "5f6b83f2152f97652a3be5be",
+                        "audio_description": "5f6b83f2152f97652a3be5bd",
+                        "user": "5f6b8324aa38d665301f34aa",
+                        "label": "AD",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 9.752380952380953,
+                        "duration": 9.752380952380953,
+                        "file_name": "6d3zmkbef28_5f6b84f9aa38d665301f34b3.wav",
+                        "file_size_bytes": 1720364,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6d3zmkbef28",
+                        "created_at": 20200923172513,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5f6b850baa38d665301f34b4",
+                        "video": "5f6b83f2152f97652a3be5be",
+                        "audio_description": "5f6b83f2152f97652a3be5bd",
+                        "user": "5f6b8324aa38d665301f34aa",
+                        "label": "AD2",
+                        "playback_type": "inline",
+                        "start_time": 9.277288,
+                        "end_time": 14.01415874829932,
+                        "duration": 4.73687074829932,
+                        "file_name": "6d3zmkbef28_5f6b850baa38d665301f34b4.wav",
+                        "file_size_bytes": 835628,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6d3zmkbef28",
+                        "created_at": 20200923172531,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5f6b852e152f97652a3be5bf",
+                        "video": "5f6b83f2152f97652a3be5be",
+                        "audio_description": "5f6b83f2152f97652a3be5bd",
+                        "user": "5f6b8324aa38d665301f34aa",
+                        "label": "AD3",
+                        "playback_type": "inline",
+                        "start_time": 29.047868,
+                        "end_time": 35.5494553015873,
+                        "duration": 6.501587301587302,
+                        "file_name": "6d3zmkbef28_5f6b852e152f97652a3be5bf.wav",
+                        "file_size_bytes": 1146924,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/6d3zmkbef28",
+                        "created_at": 20200923172606,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5f6b83f2152f97652a3be5bd",
+                "video": "5f6b83f2152f97652a3be5be",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5f6b8324aa38d665301f34aa",
+                    "email": "omgitsabbym@gmail.com",
+                    "name": "Abby Munt",
+                    "given_name": "Abby",
+                    "picture": "https://lh5.googleusercontent.com/-r44OuTVIoVo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvUG8rfyTrHfByL2OJOD6nXj04FA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102316936466408548329",
+                    "last_login": 20200923171724,
+                    "token": "20e880a6f7dec20c5142ffcdea9ee74da8a29fee9c1aa28c6271df90c2693b82",
+                    "__v": 0
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200923172050,
+                "updated_at": 20200923172050,
+                "notes": "a masai giraffe walks slowing and then stands in the middle of a road while a man gives details and quips about the giraffe. The camera pans to the left to capture a baby giraffe walking towards the truck the camera is on\n",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5f6b83f2152f97652a3be5be",
+        "title": "Week 5 Discussion Post",
+        "description": "Video of giraffe from Walt Disney World's Animal Kingdom Kilimanjaro Safari ride, with audio of safari driver and riders.",
+        "youtube_id": "6d3zmkbef28",
+        "created_at": 20200923172050,
+        "updated_at": 20200923172606,
+        "views": 0,
+        "__v": 0
+    }
+}

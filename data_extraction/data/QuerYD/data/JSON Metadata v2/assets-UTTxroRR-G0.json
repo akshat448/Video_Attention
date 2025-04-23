@@ -1,0 +1,145 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7bf5978302113cc4be5028",
+                        "video": "5d7bf4cd15c8ca3ccf56d6e8",
+                        "audio_description": "5d7bf4cd15c8ca3ccf56d6e7",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "Childhood Ed Program Description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 26.197333333333333,
+                        "duration": 26.197333333333333,
+                        "file_name": "UTTxroRR-G0_5d7bf5978302113cc4be5028.wav",
+                        "file_size_bytes": 5029932,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UTTxroRR-G0",
+                        "created_at": 20190913200127,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51952e9a8b1f3b42081263",
+                                "sentence": " Teacher sits in a circle with young kids. Tax rates, interdisciplinary early childhood education. If you love kids wanna make a difference in young lives. This is broken for you.",
+                                "start_time": 0.52,
+                                "end_time": 7.53
+                            },
+                            {
+                                "_id": "5e51952e9a8b1f3b42081262",
+                                "sentence": " Inner structure presents your group sitting round a mat text reads careers. He'll be prepared for employment in public and private schools. Early start head start early intervention programs",
+                                "start_time": 7.53,
+                                "end_time": 14.57
+                            },
+                            {
+                                "_id": "5e51952e9a8b1f3b42081261",
+                                "sentence": " in corporate sponsor child care facilities, teacher eat a group of young kids tax rates like the programmer associates degree in 16 months or certificate or diploma as little as format",
+                                "start_time": 14.57,
+                                "end_time": 22.97
+                            },
+                            {
+                                "_id": "5e51952e9a8b1f3b42081260",
+                                "sentence": " teacher reads to a small child tax rates. You've got this.",
+                                "start_time": 22.99,
+                                "end_time": 26.13
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7bf4cd15c8ca3ccf56d6e7",
+                "video": "5d7bf4cd15c8ca3ccf56d6e8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190913195805,
+                "updated_at": 20190913195805,
+                "notes": "A teacher sits in a circle with young kids\r\nText reads:\r\nInterdisciplinary Early Childhood Education\r\nIf you love kids and want to make a difference in young lives, this is the program for you.\r\n\r\nAn instructor presents to a group sitting around a mat\r\nText reads:\r\nCareers \r\nYou'll be prepared for employment in public and private schools, Early Start, Head Start, early intervention programs and corporate-sponsored child care facilities.\r\n\r\nA teacher reads to a group of young kids\r\nText reads:\r\nLength of program\r\nEarn an associate degree in 16 months, or certificate or diploma in as little as 4 months.\r\n\r\nA teacher reads to a small child\r\nText reads:\r\nYou've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7bf4d115c8ca3ccf56d6e9",
+                        "video": null,
+                        "audio_description": null,
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "Early Childhood Ed Description",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 27.136,
+                        "duration": 27.136,
+                        "file_name": null,
+                        "file_size_bytes": 5210156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/UTTxroRR-G0",
+                        "created_at": 20190913195809,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5d7bf4d115c8ca3ccf56d6ea",
+                "video": "5d7bf4cd15c8ca3ccf56d6e8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20190913195809,
+                "updated_at": 20190913195809,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Early Childhood Education"
+        ],
+        "custom_tags": [],
+        "_id": "5d7bf4cd15c8ca3ccf56d6e8",
+        "title": "Early Childhood Education",
+        "description": "Information on the Early Childhood Education program.",
+        "youtube_id": "UTTxroRR-G0",
+        "created_at": 20190913195805,
+        "updated_at": 20190913200127,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

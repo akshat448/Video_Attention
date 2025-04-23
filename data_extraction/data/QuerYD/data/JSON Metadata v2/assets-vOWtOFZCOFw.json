@@ -1,0 +1,145 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b32908c50c519039c19c5e6",
+                        "video": "5b328ff850c519039c19c5e1",
+                        "audio_description": "5b328ff850c519039c19c5e0",
+                        "user": "5b328dac50c519039c19c5d9",
+                        "label": "Water temp",
+                        "playback_type": "extended",
+                        "start_time": 1.643365,
+                        "end_time": 1.643365,
+                        "duration": 5.290666666666667,
+                        "file_name": "vOWtOFZCOFw_5b32908c50c519039c19c5e6.wav",
+                        "file_size_bytes": 1015852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vOWtOFZCOFw",
+                        "created_at": 20180626191420,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cba11a9ec2e99b2fb3ce1",
+                                "sentence": " The left handle is hot water.",
+                                "start_time": 0.64,
+                                "end_time": 2.76
+                            },
+                            {
+                                "_id": "5e4cba11a9ec2e99b2fb3ce0",
+                                "sentence": " The right handle is cold water.",
+                                "start_time": 2.76,
+                                "end_time": 4.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b3290cd50c519039c19c5e7",
+                        "video": "5b328ff850c519039c19c5e1",
+                        "audio_description": "5b328ff850c519039c19c5e0",
+                        "user": "5b328dac50c519039c19c5d9",
+                        "label": "20 Second rule",
+                        "playback_type": "extended",
+                        "start_time": 4.972094,
+                        "end_time": 4.972094,
+                        "duration": 14.677333333333333,
+                        "file_name": "vOWtOFZCOFw_5b3290cd50c519039c19c5e7.wav",
+                        "file_size_bytes": 2818092,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vOWtOFZCOFw",
+                        "created_at": 20180626191525,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd1cb1703f62f116f74b5",
+                                "sentence": " Rub your hands together for 20 seconds to help me the 20 seconds sing the abc song in your head",
+                                "start_time": 0.33,
+                                "end_time": 7.3
+                            },
+                            {
+                                "_id": "5e4dd1cb1703f62f116f74b4",
+                                "sentence": " all the way, including the part. Now I know my abc's",
+                                "start_time": 7.3,
+                                "end_time": 11.26
+                            },
+                            {
+                                "_id": "5e4dd1cb1703f62f116f74b3",
+                                "sentence": " or sing the happy birthday song twice in your head.",
+                                "start_time": 11.26,
+                                "end_time": 14.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b32915f50c519039c19c5ed",
+                        "video": "5b328ff850c519039c19c5e1",
+                        "audio_description": "5b328ff850c519039c19c5e0",
+                        "user": "5b328dac50c519039c19c5d9",
+                        "label": "Drying hands",
+                        "playback_type": "extended",
+                        "start_time": 35.692323,
+                        "end_time": 35.692323,
+                        "duration": 5.376,
+                        "file_name": "vOWtOFZCOFw_5b32915f50c519039c19c5ed.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vOWtOFZCOFw",
+                        "created_at": 20180626191751,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cba11a9ec2e99b2fb3d1d",
+                                "sentence": " Leslie, be sure to dry your hands once you are done washing them.",
+                                "start_time": 0.67,
+                                "end_time": 4.54
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b328ff850c519039c19c5e0",
+                "video": "5b328ff850c519039c19c5e1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b328dac50c519039c19c5d9",
+                    "email": "cwarr006@plattsburgh.edu",
+                    "name": "Caeley Warren",
+                    "given_name": "Caeley",
+                    "picture": "https://lh3.googleusercontent.com/-KXAom5Uwb6g/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq33d9s9h08i6EA-ENAjhvdBWqdIDQ/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "110684042226868873049",
+                    "last_login": 20180626190204,
+                    "token": "6f34fe09a38d55b5954700b3f86501ed150b17084fe5f9a5e72fe0c7cb003218",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180626191152,
+                "updated_at": 20180626191152,
+                "notes": "01:63- The left handle is hot water. The right handle is cold water\r\n04:91- Rub hands together for 20 seconds. To help meet the 20 seconds sing the abc song or the happy birthday song twice in your head.\r\n35:71 Be sure to dry your hands once you are done ",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5b328ff850c519039c19c5e1",
+        "title": "Step by step instruction on how to wash your hands",
+        "description": "EDS 521",
+        "youtube_id": "vOWtOFZCOFw",
+        "created_at": 20180626191152,
+        "updated_at": 20180626191751,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 36
+    }
+}

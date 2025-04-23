@@ -1,0 +1,118 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4a46e13dfd851a359d",
+                        "audio_description": "58e7cf2d46e13dfd851a21c9",
+                        "created_at": 20141120171244,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141120171244,
+                        "file_name": "14165323646041.wav",
+                        "start_time": 3.107,
+                        "legacy_video_id": 1713,
+                        "legacy_user_id": 2255,
+                        "label": "",
+                        "legacy_audio_clip_id": 9337,
+                        "video": "58e7cf2846e13dfd851a1ac4",
+                        "end_time": 3.107,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21c1",
+                        "transcript": [
+                            {
+                                "_id": "5e253ba1718bf9db1e390a81",
+                                "sentence": " She pulls a ring attached to a cord from the dolls back, making it talk.",
+                                "start_time": 0.09,
+                                "end_time": 4.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4a46e13dfd851a359e",
+                        "audio_description": "58e7cf2d46e13dfd851a21c9",
+                        "created_at": 20141120171448,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141120171448,
+                        "file_name": "14165324885211.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1713,
+                        "legacy_user_id": 2255,
+                        "label": "",
+                        "legacy_audio_clip_id": 9338,
+                        "video": "58e7cf2846e13dfd851a1ac4",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21c1",
+                        "transcript": [
+                            {
+                                "_id": "5e211652ad6c4c5f68d9ec6a",
+                                "sentence": " Lisa simpson stands in the living room, holding her malibu stacy doll. She addresses the doll while looking distraught.",
+                                "start_time": 0,
+                                "end_time": 6.49
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21c9",
+                "status": "published",
+                "legacy_video_id": 1713,
+                "legacy_user_id": 2255,
+                "video": "58e7cf2846e13dfd851a1ac4",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21c1",
+                    "name": "mduigou",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2255,
+                    "last_login": 0,
+                    "email": "youdescribe@duigou.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Lisa Simpson",
+            "Malibu Stacy",
+            "feminism",
+            "vapid",
+            "talking doll",
+            "The Simpsons",
+            "Don't ask me I'm just a girl",
+            "ditzy",
+            "simpsons"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ac4",
+        "description": "",
+        "youtube_id": "Ftde81QNXDY",
+        "views": 0,
+        "created_at": 20141120170916,
+        "title": "Malibu Stacy",
+        "legacy_video_id": 1713,
+        "updated_at": 20141120171513,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 7
+    }
+}

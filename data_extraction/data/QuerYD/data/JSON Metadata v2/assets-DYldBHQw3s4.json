@@ -1,0 +1,85 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5946e13dfd851a421f",
+                        "audio_description": "58e7cf3146e13dfd851a23e1",
+                        "created_at": 20150521111033,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150521111033,
+                        "file_name": "14322318337231.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1981,
+                        "legacy_user_id": 2644,
+                        "label": "",
+                        "legacy_audio_clip_id": 13763,
+                        "video": "58e7cf2946e13dfd851a1bd0",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a23e0",
+                        "transcript": [
+                            {
+                                "_id": "5e30aa7388d6c9183c280f87",
+                                "sentence": " As the video opens, there's an image of the earth on a black background, and the earth is spinning to the right.",
+                                "start_time": 0.34,
+                                "end_time": 6.96
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3146e13dfd851a23e1",
+                "status": "published",
+                "legacy_video_id": 1981,
+                "legacy_user_id": 2644,
+                "video": "58e7cf2946e13dfd851a1bd0",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3146e13dfd851a23e0",
+                    "name": "UHCL-BbTeam",
+                    "google_user_id_token": "",
+                    "created_at": 20150521105706,
+                    "updated_at": 20150521105808,
+                    "legacy_user_id": 2644,
+                    "last_login": 0,
+                    "email": "willisopalenik@uhcl.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Stargate (Fictional Universe)",
+            "Stargate Universe (TV Program)",
+            "Best",
+            "Battle"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1bd0",
+        "description": "",
+        "youtube_id": "DYldBHQw3s4",
+        "views": 0,
+        "created_at": 20150521110441,
+        "title": "The Best Stargate Space Battles HQ",
+        "legacy_video_id": 1981,
+        "updated_at": 20150521111033,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 726
+    }
+}

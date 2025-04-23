@@ -1,0 +1,98 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5eb6c495c552075180491212",
+                        "video": "5eb6c445c0004d517a050a44",
+                        "audio_description": "5eb6c445c0004d517a050a43",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 9.566621315192744,
+                        "duration": 9.566621315192744,
+                        "file_name": "uSfeGBrchjU_5eb6c495c552075180491212.wav",
+                        "file_size_bytes": 1687596,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uSfeGBrchjU",
+                        "created_at": 20200509145621,
+                        "__v": 0,
+                        "transcript": []
+                    },
+                    {
+                        "_id": "5eb6c500c552075180491213",
+                        "video": "5eb6c445c0004d517a050a44",
+                        "audio_description": "5eb6c445c0004d517a050a43",
+                        "user": "59c25b2ec6c4802622d9c1bf",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 40.210909,
+                        "end_time": 49.591770678004536,
+                        "duration": 9.380861678004536,
+                        "file_name": "uSfeGBrchjU_5eb6c500c552075180491213.wav",
+                        "file_size_bytes": 1654828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/uSfeGBrchjU",
+                        "created_at": 20200509145808,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5eb6c445c0004d517a050a43",
+                "video": "5eb6c445c0004d517a050a44",
+                "user": {
+                    "opt_in": [
+                        1,
+                        2
+                    ],
+                    "_id": "59c25b2ec6c4802622d9c1bf",
+                    "email": "rgman1995@gmail.com",
+                    "name": "Ryan G",
+                    "given_name": "Ryan",
+                    "picture": "https://lh3.googleusercontent.com/-NxEEiJBaock/AAAAAAAAAAI/AAAAAAAAAc0/5fcpjk_lXKY/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "113561788356507984833",
+                    "last_login": 20201230202355,
+                    "token": "27b561de1a2557461b6807ff8a71622302ac468380f084bd313e4b4fc0a8dc39",
+                    "__v": 0,
+                    "updated_at": 20201230202355,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200509145501,
+                "updated_at": 20200509145501,
+                "notes": "In a school gymnasium, a group of children follows a man. Then, he runs away and gets chased by the children. \n\nThe man gets caught, but then shows the viewers the games being played in the gym. Meanwhile, the children mob the camera.",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "elementary",
+            "students",
+            "chased",
+            "playing",
+            "games"
+        ],
+        "custom_tags": [],
+        "_id": "5eb6c445c0004d517a050a44",
+        "title": "being chased by elementary schoolers",
+        "description": "playing in the gym during recess",
+        "youtube_id": "uSfeGBrchjU",
+        "created_at": 20200509145501,
+        "updated_at": 20200509145808,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 111
+    }
+}

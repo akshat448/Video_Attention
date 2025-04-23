@@ -1,0 +1,134 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "59e4e6142a385d33db80b8d5",
+                        "video": "59e4e6142a385d33db80b8d7",
+                        "audio_description": "59e4e6142a385d33db80b8d6",
+                        "user": "59818126530a357fcbd30cca",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0.466367,
+                        "end_time": 0.466367,
+                        "duration": 3.7546666666666666,
+                        "file_name": "hY6SC2W5nMc_59e4e6142a385d33db80b8d5.wav",
+                        "file_size_bytes": 720940,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/hY6SC2W5nMc",
+                        "created_at": 20171016170212,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f65fb81b2f1c5a36af1f",
+                                "sentence": " A log appears of orange letters that read neck.",
+                                "start_time": 0.56,
+                                "end_time": 3.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59e4e6862a385d33db80b8d9",
+                        "video": "59e4e6142a385d33db80b8d7",
+                        "audio_description": "59e4e6142a385d33db80b8d6",
+                        "user": "59818126530a357fcbd30cca",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 5.263557,
+                        "end_time": 9.359556999999999,
+                        "duration": 4.096,
+                        "file_name": "hY6SC2W5nMc_59e4e6862a385d33db80b8d9.wav",
+                        "file_size_bytes": 786476,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/hY6SC2W5nMc",
+                        "created_at": 20171016170406,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f581cf5afa1c5989e1a6",
+                                "sentence": " Most flights appeared. The kids choice awards logo and a lot of not a lot.",
+                                "start_time": 0.12,
+                                "end_time": 4.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "59e4e6cb2a385d33db80b8da",
+                        "video": "59e4e6142a385d33db80b8d7",
+                        "audio_description": "59e4e6142a385d33db80b8d6",
+                        "user": "59818126530a357fcbd30cca",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 13.105614,
+                        "end_time": 14.641613999999999,
+                        "duration": 1.536,
+                        "file_name": "hY6SC2W5nMc_59e4e6cb2a385d33db80b8da.wav",
+                        "file_size_bytes": 294956,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/hY6SC2W5nMc",
+                        "created_at": 20171016170515,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e15f581cf5afa1c5989e1a2",
+                                "sentence": " Against which to trial.",
+                                "start_time": 0.15,
+                                "end_time": 1.49
+                            }
+                        ]
+                    }
+                ],
+                "_id": "59e4e6142a385d33db80b8d6",
+                "video": "59e4e6142a385d33db80b8d7",
+                "user": {
+                    "opt_in": [],
+                    "_id": "59818126530a357fcbd30cca",
+                    "email": "memecentral415@gmail.com",
+                    "name": "Meme Central",
+                    "given_name": "Meme",
+                    "picture": "https://lh6.googleusercontent.com/-qLMGfTyROIY/AAAAAAAAAAI/AAAAAAAAAeo/9CC-Xg1iwlY/s96-c/photo.jpg",
+                    "locale": "en-GB",
+                    "google_user_id": "107271489356003572165",
+                    "last_login": 20171016165944,
+                    "token": "984c864867e8f9f38a231b63acb30adc114054534183472d2f2c37fd273c1647",
+                    "__v": 0,
+                    "updated_at": 20171016165944,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20171016170212,
+                "updated_at": 20171220234839,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "choice",
+            "awards"
+        ],
+        "custom_tags": [],
+        "_id": "59e4e6142a385d33db80b8d7",
+        "title": "Greatest slime moments from the Nickelodeon Kids Choice Awards",
+        "description": "SLIME, SLIME, SLIME",
+        "youtube_id": "hY6SC2W5nMc",
+        "created_at": 20171016170212,
+        "updated_at": 20171016170515,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Entertainment",
+        "category_id": "24",
+        "duration": 101
+    }
+}

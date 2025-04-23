@@ -1,0 +1,325 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4946e13dfd851a34d9",
+                        "audio_description": "58e7cf2e46e13dfd851a2295",
+                        "created_at": 20141106190940,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141106190940,
+                        "file_name": "14153297805621.wav",
+                        "start_time": 0.835,
+                        "legacy_video_id": 1675,
+                        "legacy_user_id": 2432,
+                        "label": "",
+                        "legacy_audio_clip_id": 9001,
+                        "video": "58e7cf2846e13dfd851a1a9e",
+                        "end_time": 0.835,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2294",
+                        "transcript": [
+                            {
+                                "_id": "5e230e0a72edc9955c746ea4",
+                                "sentence": " This video begins was zooming in on a cat in an apartment",
+                                "start_time": 0.39,
+                                "end_time": 5.18
+                            },
+                            {
+                                "_id": "5e230e0a72edc9955c746ea3",
+                                "sentence": " that's to the left of a cardboard box. The cat is looking straight at the camera and has a very curious look on its face.",
+                                "start_time": 5.8,
+                                "end_time": 13.15
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a34da",
+                        "audio_description": "58e7cf2e46e13dfd851a2295",
+                        "created_at": 20141106191012,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141106191012,
+                        "file_name": "14153298120841.wav",
+                        "start_time": 5.608,
+                        "legacy_video_id": 1675,
+                        "legacy_user_id": 2432,
+                        "label": "",
+                        "legacy_audio_clip_id": 9002,
+                        "video": "58e7cf2846e13dfd851a1a9e",
+                        "end_time": 11.998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2294",
+                        "transcript": [
+                            {
+                                "_id": "5e230e0972edc9955c746ea0",
+                                "sentence": " The cat is inching up to the camera.",
+                                "start_time": 0.84,
+                                "end_time": 4.11
+                            },
+                            {
+                                "_id": "5e230e0972edc9955c746e9f",
+                                "sentence": " and it looks a little timid.",
+                                "start_time": 4.11,
+                                "end_time": 6.13
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a34db",
+                        "audio_description": "58e7cf2e46e13dfd851a2295",
+                        "created_at": 20141106191137,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141106191137,
+                        "file_name": "14153298970101.wav",
+                        "start_time": 14.807,
+                        "legacy_video_id": 1675,
+                        "legacy_user_id": 2432,
+                        "label": "",
+                        "legacy_audio_clip_id": 9003,
+                        "video": "58e7cf2846e13dfd851a1a9e",
+                        "end_time": 21.967,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2294",
+                        "transcript": [
+                            {
+                                "_id": "5e254e56538e0b1ebdfeb5e2",
+                                "sentence": " The cat is creeping closer and closer to the camera.",
+                                "start_time": 0.31,
+                                "end_time": 3.55
+                            },
+                            {
+                                "_id": "5e254e56538e0b1ebdfeb5e1",
+                                "sentence": " The person videotaping this then zooms out.",
+                                "start_time": 3.55,
+                                "end_time": 6.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a34dc",
+                        "audio_description": "58e7cf2e46e13dfd851a2295",
+                        "created_at": 20141106191349,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141106191349,
+                        "file_name": "14153300295801.wav",
+                        "start_time": 23.3,
+                        "legacy_video_id": 1675,
+                        "legacy_user_id": 2432,
+                        "label": "",
+                        "legacy_audio_clip_id": 9004,
+                        "video": "58e7cf2846e13dfd851a1a9e",
+                        "end_time": 23.3,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.76,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2294",
+                        "transcript": [
+                            {
+                                "_id": "5e230e0772edc9955c746e90",
+                                "sentence": " The person videotaping this moves his camera out of the cats view into onto a black chair.",
+                                "start_time": 0.49,
+                                "end_time": 7
+                            },
+                            {
+                                "_id": "5e230e0772edc9955c746e8f",
+                                "sentence": " This way. All you can see is darkness, and the cat doesn't know where the camera went.",
+                                "start_time": 7.06,
+                                "end_time": 11.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a34dd",
+                        "audio_description": "58e7cf2e46e13dfd851a2295",
+                        "created_at": 20141106191429,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141106191429,
+                        "file_name": "14153300693191.wav",
+                        "start_time": 33.812,
+                        "legacy_video_id": 1675,
+                        "legacy_user_id": 2432,
+                        "label": "",
+                        "legacy_audio_clip_id": 9005,
+                        "video": "58e7cf2846e13dfd851a1a9e",
+                        "end_time": 39.692,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2294",
+                        "transcript": [
+                            {
+                                "_id": "5e230e0c72edc9955c746ebe",
+                                "sentence": " The person videotaping does this multiple times.",
+                                "start_time": 0.51,
+                                "end_time": 3.53
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a34de",
+                        "audio_description": "58e7cf2e46e13dfd851a2295",
+                        "created_at": 20141106191500,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141106191500,
+                        "file_name": "14153301005311.wav",
+                        "start_time": 45.29,
+                        "legacy_video_id": 1675,
+                        "legacy_user_id": 2432,
+                        "label": "",
+                        "legacy_audio_clip_id": 9006,
+                        "video": "58e7cf2846e13dfd851a1a9e",
+                        "end_time": 54.5,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2294",
+                        "transcript": [
+                            {
+                                "_id": "5e254d1f824e581ebf8e1cd4",
+                                "sentence": " Each time the person does this, the cat creeps closer and closer to the camera,",
+                                "start_time": 0.65,
+                                "end_time": 5.51
+                            },
+                            {
+                                "_id": "5e254d1f824e581ebf8e1cd3",
+                                "sentence": " still having that curious expression on its face.",
+                                "start_time": 5.51,
+                                "end_time": 9.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a34df",
+                        "audio_description": "58e7cf2e46e13dfd851a2295",
+                        "created_at": 20141106191536,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141106191536,
+                        "file_name": "14153301366551.wav",
+                        "start_time": 59.613,
+                        "legacy_video_id": 1675,
+                        "legacy_user_id": 2432,
+                        "label": "",
+                        "legacy_audio_clip_id": 9007,
+                        "video": "58e7cf2846e13dfd851a1a9e",
+                        "end_time": 64.473,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2294",
+                        "transcript": [
+                            {
+                                "_id": "5e230e0572edc9955c746e80",
+                                "sentence": " The cat is now just inches away from the camera.",
+                                "start_time": 0.74,
+                                "end_time": 3.55
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4946e13dfd851a34e0",
+                        "audio_description": "58e7cf2e46e13dfd851a2295",
+                        "created_at": 20141106191634,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141106191634,
+                        "file_name": "14153301948031.wav",
+                        "start_time": 69.278,
+                        "legacy_video_id": 1675,
+                        "legacy_user_id": 2432,
+                        "label": "",
+                        "legacy_audio_clip_id": 9008,
+                        "video": "58e7cf2846e13dfd851a1a9e",
+                        "end_time": 79.248,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.97,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2294",
+                        "transcript": [
+                            {
+                                "_id": "5e254e56538e0b1ebdfeb5b9",
+                                "sentence": " The person who is video taping",
+                                "start_time": 1.23,
+                                "end_time": 3.53
+                            },
+                            {
+                                "_id": "5e254e56538e0b1ebdfeb5b8",
+                                "sentence": " then shoves his camera into the cat's face.",
+                                "start_time": 3.53,
+                                "end_time": 6.68
+                            },
+                            {
+                                "_id": "5e254e56538e0b1ebdfeb5b7",
+                                "sentence": " The cat kids freaked out scared and runs away.",
+                                "start_time": 6.68,
+                                "end_time": 9.52
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2e46e13dfd851a2295",
+                "status": "published",
+                "legacy_video_id": 1675,
+                "legacy_user_id": 2432,
+                "video": "58e7cf2846e13dfd851a1a9e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2e46e13dfd851a2294",
+                    "name": "megsterdom",
+                    "google_user_id_token": "",
+                    "created_at": 20141106144430,
+                    "updated_at": 20141106190640,
+                    "legacy_user_id": 2432,
+                    "last_login": 0,
+                    "email": "weitekampme@berkeley.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "\u30e2\u30a2\u30af\u30ea",
+            "\u30e2\u30a2\u30ec",
+            "\u30e2\u30a2\uff0a\u30e2\u30a2\u30ec",
+            "\u732b",
+            "moacrie",
+            "cat"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a9e",
+        "description": "",
+        "youtube_id": "fzzjgBAaWZw",
+        "views": 0,
+        "created_at": 20141106190737,
+        "title": "?????????? - Stalking Cat -",
+        "legacy_video_id": 1675,
+        "updated_at": 20141106191959,
+        "youtube_status": "available",
+        "category": "Pets & Animals",
+        "category_id": "15",
+        "duration": 74
+    }
+}

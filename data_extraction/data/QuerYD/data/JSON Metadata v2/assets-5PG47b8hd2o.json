@@ -1,0 +1,114 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf5946e13dfd851a424c",
+                        "audio_description": "58e7cf3146e13dfd851a23e9",
+                        "created_at": 20150611190512,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150611190512,
+                        "file_name": "14340747126071.wav",
+                        "start_time": 0.099,
+                        "legacy_video_id": 1992,
+                        "legacy_user_id": 2660,
+                        "label": "",
+                        "legacy_audio_clip_id": 13831,
+                        "video": "58e7cf2946e13dfd851a1bdb",
+                        "end_time": 0.099,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a23e8",
+                        "transcript": [
+                            {
+                                "_id": "5e30a8e8168423183b465c21",
+                                "sentence": " A middle aged",
+                                "start_time": 0.33,
+                                "end_time": 2.1
+                            },
+                            {
+                                "_id": "5e30a8e8168423183b465c20",
+                                "sentence": " instructor stares awkwardly into his webcam.",
+                                "start_time": 2.1,
+                                "end_time": 6.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf5946e13dfd851a424d",
+                        "audio_description": "58e7cf3146e13dfd851a23e9",
+                        "created_at": 20150611191222,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150611191222,
+                        "file_name": "14340751421251.wav",
+                        "start_time": 85.114,
+                        "legacy_video_id": 1992,
+                        "legacy_user_id": 2660,
+                        "label": "",
+                        "legacy_audio_clip_id": 13832,
+                        "video": "58e7cf2946e13dfd851a1bdb",
+                        "end_time": 89.464,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3146e13dfd851a23e8",
+                        "transcript": [
+                            {
+                                "_id": "5e30a5f788d6c9183c280ebc",
+                                "sentence": " The professor ends the video now.",
+                                "start_time": 0.63,
+                                "end_time": 3.77
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3146e13dfd851a23e9",
+                "status": "published",
+                "legacy_video_id": 1992,
+                "legacy_user_id": 2660,
+                "video": "58e7cf2946e13dfd851a1bdb",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3146e13dfd851a23e8",
+                    "name": "peterjdecourcy",
+                    "google_user_id_token": "",
+                    "created_at": 20150611184024,
+                    "updated_at": 20150611184113,
+                    "legacy_user_id": 2660,
+                    "last_login": 0,
+                    "email": "peter.j.decourcy@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1bdb",
+        "description": "",
+        "youtube_id": "5PG47b8hd2o",
+        "views": 0,
+        "created_at": 20150611184532,
+        "title": "Introduction",
+        "legacy_video_id": 1992,
+        "updated_at": 20150619120655,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 86
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4846e13dfd851a3341",
+                        "audio_description": "58e7cf2d46e13dfd851a220d",
+                        "created_at": 20141003080026,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141003080026,
+                        "file_name": "14123484260191.wav",
+                        "start_time": 2.525,
+                        "legacy_video_id": 1619,
+                        "legacy_user_id": 2354,
+                        "label": "",
+                        "legacy_audio_clip_id": 8357,
+                        "video": "58e7cf2846e13dfd851a1a66",
+                        "end_time": 2.525,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 41.43,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a220c",
+                        "transcript": []
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a220d",
+                "status": "published",
+                "legacy_video_id": 1619,
+                "legacy_user_id": 2354,
+                "video": "58e7cf2846e13dfd851a1a66",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a220c",
+                    "name": "DSBrownsville",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2354,
+                    "last_login": 0,
+                    "email": "diana.cardiel@utb.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "d.i.",
+            "teachers",
+            "education"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1a66",
+        "description": "",
+        "youtube_id": "i6rEy3Lqfio",
+        "views": 0,
+        "created_at": 20140923155210,
+        "title": "Inclusion and Differentiated Instruction: Teachers in the Movies do it Too",
+        "legacy_video_id": 1619,
+        "updated_at": 20141003080111,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 622
+    }
+}

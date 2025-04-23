@@ -1,0 +1,164 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c6f16dbab5fd817ce54cd2c",
+                        "video": "5c6f16dbab5fd817ce54cd2e",
+                        "audio_description": "5c6f16dbab5fd817ce54cd2d",
+                        "user": "5ae227a1a7f43906fecc7180",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 94.464,
+                        "duration": 94.464,
+                        "file_name": "KpSfThUv_pc_5c6f16dbab5fd817ce54cd2c.wav",
+                        "file_size_bytes": 18137132,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/KpSfThUv_pc",
+                        "created_at": 20190221212339,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1b109b7908e221df45be5d",
+                                "sentence": " A toddler rolls on the floor.",
+                                "start_time": 3.49,
+                                "end_time": 5.94
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be5c",
+                                "sentence": " Camera moves around a corner. Out of view from the toddler.",
+                                "start_time": 7.96,
+                                "end_time": 11.68
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be5b",
+                                "sentence": " The toddler walks back in view, sees the camera and crashes to the floor.",
+                                "start_time": 18.04,
+                                "end_time": 22.56
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be5a",
+                                "sentence": " The camera moves around another corner, out of view from the toddler.",
+                                "start_time": 29.05,
+                                "end_time": 33.58
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be59",
+                                "sentence": " The toddler walks back in view, sees the camera and crashes to the floor.",
+                                "start_time": 42,
+                                "end_time": 46.44
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be58",
+                                "sentence": " Yeah,",
+                                "start_time": 47.18,
+                                "end_time": 48.32
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be57",
+                                "sentence": " the camera moves back around the corner out of view from the toddler.",
+                                "start_time": 53.31,
+                                "end_time": 58.05
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be56",
+                                "sentence": " Yeah,",
+                                "start_time": 58.16,
+                                "end_time": 59.52
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be55",
+                                "sentence": " yeah.",
+                                "start_time": 60,
+                                "end_time": 61.75
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be54",
+                                "sentence": " The toddler walks back in view, sees the camera, crashes to the floor",
+                                "start_time": 65.44,
+                                "end_time": 70.62
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be53",
+                                "sentence": " again. The camera moves around the corner, out of view from the toddler.",
+                                "start_time": 76.63,
+                                "end_time": 82.48
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be52",
+                                "sentence": " Yeah,",
+                                "start_time": 83.42,
+                                "end_time": 84.24
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be51",
+                                "sentence": " the",
+                                "start_time": 84.64,
+                                "end_time": 85.55
+                            },
+                            {
+                                "_id": "5e1b109b7908e221df45be50",
+                                "sentence": " the toddler walks back in view, sees the camera, crashes to the floor.",
+                                "start_time": 87.29,
+                                "end_time": 91.96
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c6f16dbab5fd817ce54cd2d",
+                "video": "5c6f16dbab5fd817ce54cd2e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5ae227a1a7f43906fecc7180",
+                    "email": "cds.textbooks@gmail.com",
+                    "name": "CDS Textbooks",
+                    "given_name": "CDS",
+                    "picture": "https://lh6.googleusercontent.com/-AWmJF7SPeoI/AAAAAAAAAAI/AAAAAAAAAAA/ACLGyWA4i8U2BKFFwMwltt2orUwGYd4vIA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "118395554375817531618",
+                    "last_login": 20190219222152,
+                    "token": "00dad39610f96546664932353f1bbc38ffc28297db93b542a40ad3ac09aed96e",
+                    "__v": 0,
+                    "updated_at": 20190219222152,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190221212339,
+                "updated_at": 20190227194319,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {
+                    "7": 1
+                }
+            }
+        ],
+        "tags": [
+            "Temper",
+            "Tantrum"
+        ],
+        "custom_tags": [],
+        "_id": "5c6f16dbab5fd817ce54cd2e",
+        "title": "Why waste a temper tantrum if nobody is around to see it????",
+        "description": "A toddler throwing the best ever temper tantrum!!!",
+        "youtube_id": "KpSfThUv_pc",
+        "created_at": 20190221212339,
+        "updated_at": 20190221212339,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 97
+    }
+}

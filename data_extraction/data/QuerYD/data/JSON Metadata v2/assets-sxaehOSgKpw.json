@@ -1,0 +1,129 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5c917cadab5fd817ce54d0b2",
+                        "video": "5c917ab2ab5fd817ce54d0b0",
+                        "audio_description": "5c917ab2ab5fd817ce54d0af",
+                        "user": "5c9176dbcfe5b70c5f19e00a",
+                        "label": "Track 1",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 3.84,
+                        "duration": 3.84,
+                        "file_name": "sxaehOSgKpw_5c917cadab5fd817ce54d0b2.wav",
+                        "file_size_bytes": 737324,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/sxaehOSgKpw",
+                        "created_at": 20190319233509,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4db84c6355f269e19a2c9b",
+                                "sentence": " The context is in the canvas course settings. Navigation tab.",
+                                "start_time": 0,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5c917cfbab5fd817ce54d0b3",
+                        "video": "5c917ab2ab5fd817ce54d0b0",
+                        "audio_description": "5c917ab2ab5fd817ce54d0af",
+                        "user": "5c9176dbcfe5b70c5f19e00a",
+                        "label": "Track 2",
+                        "playback_type": "inline",
+                        "start_time": 4.52689393939394,
+                        "end_time": 8.964227272727273,
+                        "duration": 4.437333333333333,
+                        "file_name": "sxaehOSgKpw_5c917cfbab5fd817ce54d0b3.wav",
+                        "file_size_bytes": 852012,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/sxaehOSgKpw",
+                        "created_at": 20190319233627,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dc8c47eb22e2f0e7574c6",
+                                "sentence": " User clicks on the options menu, and then select the disable option.",
+                                "start_time": 0.15,
+                                "end_time": 4.39
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5c917ab2ab5fd817ce54d0af",
+                "video": "5c917ab2ab5fd817ce54d0b0",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c9176dbcfe5b70c5f19e00a",
+                    "email": "thomana@uw.edu",
+                    "name": "Ana Thompson",
+                    "given_name": "Ana",
+                    "picture": "https://lh5.googleusercontent.com/-jClPNUUAirs/AAAAAAAAAAI/AAAAAAAAABM/DVO80KEpz8g/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "112263006689890848462",
+                    "last_login": 20190319231019,
+                    "token": "1b91eb0a30ac3d1a70ee241b694a94d8c57b55c561d3adf37ac92b3d4d0cb51a",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190319232642,
+                "updated_at": 20190319232642,
+                "notes": "The context is in the Canvas course settings navigation tab.\n00:04\nUser clicks on the options menu and then selects the Disable option.",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [],
+                "_id": "5c94f6b5ab5fd817ce54d0eb",
+                "video": "5c917ab2ab5fd817ce54d0b0",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5c94f685ab5fd817ce54d0ea",
+                    "email": "mabu9461@colorado.edu",
+                    "name": "Marissa Bueno",
+                    "given_name": "Marissa",
+                    "picture": "https://lh5.googleusercontent.com/-xW2Cht0MDxk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdMqehNqWpq6issQf62Ho1ktFa3AA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "102486876203424149517",
+                    "last_login": 20190322145149,
+                    "token": "7c348d7abe7261b20bc7b963a51634e181e5804c052d08a595bfe93581c5da77",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "draft",
+                "language": "en-us",
+                "created_at": 20190322145237,
+                "updated_at": 20190322145237,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5c917ab2ab5fd817ce54d0b0",
+        "title": "Disabling Canvas menu items in the Navigation tab",
+        "description": "Short video demonstrating how to disable menu items in the Canvas course settings navigation tab.",
+        "youtube_id": "sxaehOSgKpw",
+        "created_at": 20190319232642,
+        "updated_at": 20190322145237,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 12
+    }
+}

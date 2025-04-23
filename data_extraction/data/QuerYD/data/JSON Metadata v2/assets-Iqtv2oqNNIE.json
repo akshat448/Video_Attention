@@ -1,0 +1,143 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5aea30c04d5c9744c8358a84",
+                        "video": "5aea30c04d5c9744c8358a86",
+                        "audio_description": "5aea30c04d5c9744c8358a85",
+                        "user": "5a8de1e76227ba194f28f6e8",
+                        "label": "Intro: Set the stage",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 7.987664399092971,
+                        "file_name": "Iqtv2oqNNIE_5aea30c04d5c9744c8358a84.wav",
+                        "file_size_bytes": 1409068,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Iqtv2oqNNIE",
+                        "created_at": 20180502214224,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189216b8e766557cda6726",
+                                "sentence": " A man sits in a dark room",
+                                "start_time": 1.04,
+                                "end_time": 3.07
+                            },
+                            {
+                                "_id": "5e189216b8e766557cda6725",
+                                "sentence": " wearing a dark blue shirt.",
+                                "start_time": 3.38,
+                                "end_time": 5.21
+                            },
+                            {
+                                "_id": "5e189216b8e766557cda6724",
+                                "sentence": " And He begins to tell a story.",
+                                "start_time": 5.92,
+                                "end_time": 7.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aea31844d5c9744c8358a87",
+                        "video": "5aea30c04d5c9744c8358a86",
+                        "audio_description": "5aea30c04d5c9744c8358a85",
+                        "user": "5a8de1e76227ba194f28f6e8",
+                        "label": "Begin hand jestures",
+                        "playback_type": "extended",
+                        "start_time": 87.543958,
+                        "end_time": 87.543958,
+                        "duration": 2.693514739229025,
+                        "file_name": "Iqtv2oqNNIE_5aea31844d5c9744c8358a87.wav",
+                        "file_size_bytes": 475180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Iqtv2oqNNIE",
+                        "created_at": 20180502214540,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1894e5efa6d6557a270f29",
+                                "sentence": " The speaker begins to use hand gestures.",
+                                "start_time": 0.36,
+                                "end_time": 2.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aea31ff4d5c9744c8358a88",
+                        "video": "5aea30c04d5c9744c8358a86",
+                        "audio_description": "5aea30c04d5c9744c8358a85",
+                        "user": "5a8de1e76227ba194f28f6e8",
+                        "label": "Hand jestures increase",
+                        "playback_type": "extended",
+                        "start_time": 150.910116,
+                        "end_time": 150.910116,
+                        "duration": 3.0650340136054424,
+                        "file_name": "Iqtv2oqNNIE_5aea31ff4d5c9744c8358a88.wav",
+                        "file_size_bytes": 540716,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/Iqtv2oqNNIE",
+                        "created_at": 20180502214743,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189647b8e766557cda67fa",
+                                "sentence": " The speaker's hand gestures become more intense.",
+                                "start_time": 0.25,
+                                "end_time": 3.02
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5aea30c04d5c9744c8358a85",
+                "video": "5aea30c04d5c9744c8358a86",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5a8de1e76227ba194f28f6e8",
+                    "email": "Steve.Brown@courseavenue.com",
+                    "name": "Steve Brown",
+                    "given_name": "Steve",
+                    "picture": "https://lh3.googleusercontent.com/-PkMoe5ieafg/AAAAAAAAAAI/AAAAAAAAAAA/ACSILjXhLfnwcxBoNu0xrQ4oimz9D_XO3A/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "108380046627968626068",
+                    "last_login": 20180503174545,
+                    "token": "ce86bc86139384b0e96724cbb7ee4c5d24d316580c4b81020714d0c1f0e4aeab",
+                    "__v": 0,
+                    "updated_at": 20180503174545,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180502214224,
+                "updated_at": 20180604223609,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 4,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 4,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5aea30c04d5c9744c8358a86",
+        "title": "Silouan Green: The Story - Part 1",
+        "description": "",
+        "youtube_id": "Iqtv2oqNNIE",
+        "created_at": 20180502214224,
+        "updated_at": 20180502214743,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 697
+    }
+}

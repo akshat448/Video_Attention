@@ -1,0 +1,101 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fa17bcb206e0d5fdec3dbf4",
+                        "video": "5fa17b75206e0d5fdec3dbf3",
+                        "audio_description": "5fa17b75206e0d5fdec3dbf2",
+                        "user": "5f68c157aa38d665301f3375",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0.184014,
+                        "end_time": 3.0853473333333334,
+                        "duration": 2.9013333333333335,
+                        "file_name": "LNquUapZ_Sg_5fa17bcb206e0d5fdec3dbf4.wav",
+                        "file_size_bytes": 557100,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LNquUapZ_Sg",
+                        "created_at": 20201103154827,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5fa17c416832dc5fe4ac58a6",
+                        "video": "5fa17b75206e0d5fdec3dbf3",
+                        "audio_description": "5fa17b75206e0d5fdec3dbf2",
+                        "user": "5f68c157aa38d665301f3375",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 7.117855160217285,
+                        "end_time": 16.931188493550618,
+                        "duration": 9.813333333333333,
+                        "file_name": "LNquUapZ_Sg_5fa17c416832dc5fe4ac58a6.wav",
+                        "file_size_bytes": 1884204,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LNquUapZ_Sg",
+                        "created_at": 20201103155025,
+                        "transcript": [],
+                        "__v": 0
+                    },
+                    {
+                        "_id": "5fa17d75206e0d5fdec3dbf7",
+                        "video": "5fa17b75206e0d5fdec3dbf3",
+                        "audio_description": "5fa17b75206e0d5fdec3dbf2",
+                        "user": "5f68c157aa38d665301f3375",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 78.48446003623962,
+                        "end_time": 83.94579336957295,
+                        "duration": 5.461333333333333,
+                        "file_name": "LNquUapZ_Sg_5fa17d75206e0d5fdec3dbf7.wav",
+                        "file_size_bytes": 1048620,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LNquUapZ_Sg",
+                        "created_at": 20201103155533,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fa17b75206e0d5fdec3dbf2",
+                "video": "5fa17b75206e0d5fdec3dbf3",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5f68c157aa38d665301f3375",
+                    "email": "nmead@qsd.wednet.edu",
+                    "name": "NATHAN MEAD",
+                    "given_name": "NATHAN",
+                    "picture": "https://lh5.googleusercontent.com/-nE4MFgYUGCI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_vv0FN_LhLZQX-8gLq3WXOgxlyw/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "111601830356839993947",
+                    "last_login": 20201103154449,
+                    "token": "981b0efc6830c8a211c7a1698bc54ef882639ad4e1025edb50dafccbd4020665",
+                    "__v": 0,
+                    "updated_at": 20201103154449
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20201103154701,
+                "updated_at": 20201103154701,
+                "notes": "we cut from the green lowlands and lakes to snow covered mountains",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fa17b75206e0d5fdec3dbf3",
+        "title": "Glacier National Park",
+        "description": "Glacier, Montana -- 700 miles of trails, pristine forests, alpine meadows, spectacular lakes, historic chalets.\n\n\n\nFor more travel tips and travel videos check out www.GoTraveler.com\n\n\nCheck out our other social media accounts!\nFacebook: https://www.facebook.com/TheGoTraveler/\nTwitter: https://twitter.com/TheGoTraveler\nInstagram: https://www.instagram.com/thegotraveler/",
+        "youtube_id": "LNquUapZ_Sg",
+        "created_at": 20201103154701,
+        "updated_at": 20201103155533,
+        "views": 0,
+        "__v": 0
+    }
+}

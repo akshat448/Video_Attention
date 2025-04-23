@@ -1,0 +1,308 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7d46e13dfd851a5c98",
+                        "audio_description": "58e7cf2d46e13dfd851a21f7",
+                        "created_at": 20160928184441,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160928184441,
+                        "file_name": "14751134811271.wav",
+                        "start_time": 75.604,
+                        "legacy_video_id": 2723,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 24416,
+                        "video": "58e7cf2946e13dfd851a1eb6",
+                        "end_time": 75.604,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e45b702a3885227afb5cb1a",
+                                "sentence": " As the woman speaks and signs at the same time with the young man,",
+                                "start_time": 0.13,
+                                "end_time": 4.35
+                            },
+                            {
+                                "_id": "5e45b702a3885227afb5cb19",
+                                "sentence": " she continues to keep physical contact with his hand over hers.",
+                                "start_time": 4.35,
+                                "end_time": 8.28
+                            },
+                            {
+                                "_id": "5e45b702a3885227afb5cb18",
+                                "sentence": " The male continues to rock backwards and forwards and physical response to the woman's statements.",
+                                "start_time": 8.28,
+                                "end_time": 14.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7d46e13dfd851a5c99",
+                        "audio_description": "58e7cf2d46e13dfd851a21f7",
+                        "created_at": 20160928185057,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160928185057,
+                        "file_name": "14751138574231.wav",
+                        "start_time": 75.522,
+                        "legacy_video_id": 2723,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 24417,
+                        "video": "58e7cf2946e13dfd851a1eb6",
+                        "end_time": 75.522,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 15.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e45b74798b0c327b1e126e7",
+                                "sentence": " As the woman speaks and signs at the same time with the young man, she continues to keep physical contact with his hand over hers.",
+                                "start_time": 0.25,
+                                "end_time": 8.47
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e126e6",
+                                "sentence": " The male continues to rock backwards and forwards in physical response to the woman's statements.",
+                                "start_time": 8.55,
+                                "end_time": 14.72
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21f7",
+                "status": "published",
+                "legacy_video_id": 2723,
+                "legacy_user_id": 2298,
+                "video": "58e7cf2946e13dfd851a1eb6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21f0",
+                    "name": "parkera",
+                    "google_user_id_token": "",
+                    "created_at": 20140626172125,
+                    "updated_at": 20160929202638,
+                    "legacy_user_id": 2298,
+                    "last_login": 0,
+                    "email": "parkera@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cf3",
+                        "audio_description": "58e7cf2d46e13dfd851a21f7",
+                        "created_at": 20160929131018,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929131018,
+                        "file_name": "14751798186671.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2723,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24513,
+                        "video": "58e7cf2946e13dfd851a1eb6",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 23.02,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e4429a8a888c4bc7acb61e8",
+                                "sentence": " A young man wearing a football jersey",
+                                "start_time": 0.18,
+                                "end_time": 3.67
+                            },
+                            {
+                                "_id": "5e4429a8a888c4bc7acb61e7",
+                                "sentence": " and an adult woman sit side by side at a large green table.",
+                                "start_time": 3.67,
+                                "end_time": 9.11
+                            },
+                            {
+                                "_id": "5e4429a8a888c4bc7acb61e6",
+                                "sentence": " The table was bare apart from a pink rubber ball with a bumpy texture.",
+                                "start_time": 9.41,
+                                "end_time": 15.67
+                            },
+                            {
+                                "_id": "5e4429a8a888c4bc7acb61e5",
+                                "sentence": " The woman taps the mail on the knee and imitates the movement and patterns",
+                                "start_time": 16,
+                                "end_time": 22.12
+                            },
+                            {
+                                "_id": "5e4429a8a888c4bc7acb61e4",
+                                "sentence": " he makes.",
+                                "start_time": 22.12,
+                                "end_time": 23
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cf4",
+                        "audio_description": "58e7cf2d46e13dfd851a21f7",
+                        "created_at": 20160929131057,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929131057,
+                        "file_name": "14751798573081.wav",
+                        "start_time": 25.596,
+                        "legacy_video_id": 2723,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24514,
+                        "video": "58e7cf2946e13dfd851a1eb6",
+                        "end_time": 25.596,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e44281ca888c4bc7acb6149",
+                                "sentence": " The male stretches his arms over his head, and the woman copies him",
+                                "start_time": 0.55,
+                                "end_time": 6.56
+                            },
+                            {
+                                "_id": "5e44281ca888c4bc7acb6148",
+                                "sentence": " with continued contact between their arms.",
+                                "start_time": 6.56,
+                                "end_time": 10.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cf5",
+                        "audio_description": "58e7cf2d46e13dfd851a21f7",
+                        "created_at": 20160929131139,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929131139,
+                        "file_name": "14751798993781.wav",
+                        "start_time": 30.644,
+                        "legacy_video_id": 2723,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24515,
+                        "video": "58e7cf2946e13dfd851a1eb6",
+                        "end_time": 30.644,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.76,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e44288dc26fa0bc796fd542",
+                                "sentence": " The young man begins to rock excitedly backwards and forwards and the woman with her hand under his moves with the same energy.",
+                                "start_time": 0.06,
+                                "end_time": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7e46e13dfd851a5cf6",
+                        "audio_description": "58e7cf2d46e13dfd851a21f7",
+                        "created_at": 20160929131230,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160929131230,
+                        "file_name": "14751799509011.wav",
+                        "start_time": 75.67,
+                        "legacy_video_id": 2723,
+                        "legacy_user_id": 3270,
+                        "label": "",
+                        "legacy_audio_clip_id": 24516,
+                        "video": "58e7cf2946e13dfd851a1eb6",
+                        "end_time": 75.67,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 19.44,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3746e13dfd851a2697",
+                        "transcript": [
+                            {
+                                "_id": "5e45b74798b0c327b1e12706",
+                                "sentence": " As the woman speaks and signs at the same time with the young man, she continues to keep physical contact with his hand over hers.",
+                                "start_time": 0.06,
+                                "end_time": 11.03
+                            },
+                            {
+                                "_id": "5e45b74798b0c327b1e12705",
+                                "sentence": " The male continues to rock backwards and forwards in physical response to the woman's statements.",
+                                "start_time": 11.33,
+                                "end_time": 19.07
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3746e13dfd851a269b",
+                "status": "published",
+                "legacy_video_id": 2723,
+                "legacy_user_id": 3270,
+                "video": "58e7cf2946e13dfd851a1eb6",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3746e13dfd851a2697",
+                    "name": "nksteele",
+                    "google_user_id_token": "",
+                    "created_at": 20160928151241,
+                    "updated_at": 20160929070619,
+                    "legacy_user_id": 3270,
+                    "last_login": 0,
+                    "email": "nancy.steele@hknc.org",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Barbara",
+            "Miles",
+            "Touch",
+            "Module",
+            "22"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1eb6",
+        "description": "",
+        "youtube_id": "MkfLc-sQZNs",
+        "views": 0,
+        "created_at": 20160928183625,
+        "title": "A Trusted Relationship - Kareem 3, Touch 2",
+        "legacy_video_id": 2723,
+        "updated_at": 20160929131230,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 96
+    }
+}

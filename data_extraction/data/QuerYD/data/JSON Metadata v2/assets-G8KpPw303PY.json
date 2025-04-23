@@ -1,0 +1,653 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf8546e13dfd851a618b",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107202707,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107202707,
+                        "file_name": "14785792272741.wav",
+                        "start_time": 8.184,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26370,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 13.553999999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45ac4f0269c027b2e188f1",
+                                "sentence": " A cat lays in a sink belly up as the water runs over it.",
+                                "start_time": 0.46,
+                                "end_time": 5.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a618c",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107202743,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107202743,
+                        "file_name": "14785792639461.wav",
+                        "start_time": 19.52,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26371,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 24.119999999999997,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45a86ea3885227afb5ca99",
+                                "sentence": " A cat will stretch out on the couch as human rubs its neck and belly.",
+                                "start_time": 0.35,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a618d",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107202858,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107202858,
+                        "file_name": "14785793383161.wav",
+                        "start_time": 29.498,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26372,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 29.498,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45b66c98b0c327b1e12654",
+                                "sentence": " A cat has its face and upper body trapped in a clear base.",
+                                "start_time": 0.07,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a618e",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203047,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203047,
+                        "file_name": "14785794473811.wav",
+                        "start_time": 40.701,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26373,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 51.701,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e475230776f3e043421df14",
+                                "sentence": " A small kitten runs across tables. Person tried to put a snap, buy a hat over its body.",
+                                "start_time": 0,
+                                "end_time": 4.88
+                            },
+                            {
+                                "_id": "5e475230776f3e043421df13",
+                                "sentence": " The kitten runs around and moves the hat with it, eventually cooking its head through the hole in the back.",
+                                "start_time": 5.3,
+                                "end_time": 10.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a618f",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203244,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203244,
+                        "file_name": "14785795644591.wav",
+                        "start_time": 56.032,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26374,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 69.842,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45ac4e0269c027b2e188c1",
+                                "sentence": " A man's fans with like spread apart on a wooden floor. A cat walks up to him and his hands reached in his feet.",
+                                "start_time": 0,
+                                "end_time": 6.43
+                            },
+                            {
+                                "_id": "5e45ac4e0269c027b2e188c0",
+                                "sentence": " He grabs the cat and pushes the cat in between his legs. Across the wooden floor. The cat finds its entertaining and comes back for more.",
+                                "start_time": 6.43,
+                                "end_time": 13.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a6190",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203332,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203332,
+                        "file_name": "14785796127731.wav",
+                        "start_time": 77.895,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26375,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 80.455,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45aa6598b0c327b1e12612",
+                                "sentence": " A person holds food above the cat's head.",
+                                "start_time": 0.12,
+                                "end_time": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a6191",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203404,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203404,
+                        "file_name": "14785796442941.wav",
+                        "start_time": 84.27,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26376,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 84.27,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45ac4f0269c027b2e188e4",
+                                "sentence": " The pose folds paws together and moves up the brown in the begging motion.",
+                                "start_time": 0,
+                                "end_time": 3.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a6192",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203511,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203511,
+                        "file_name": "14785797116511.wav",
+                        "start_time": 95.778,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26377,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 95.778,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45b1990269c027b2e18917",
+                                "sentence": " A cat sits on a table and someone puts a piece of sliced trees on its face.",
+                                "start_time": 0,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a6193",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203547,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203547,
+                        "file_name": "14785797471951.wav",
+                        "start_time": 98.28,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26378,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 98.28,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e47522f776f3e043421ded0",
+                                "sentence": " The caps, it's perfectly so and then begins to scream away in Complete confusion.",
+                                "start_time": 0,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a6194",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203618,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203618,
+                        "file_name": "14785797785731.wav",
+                        "start_time": 105.236,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26379,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 108.556,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45b133d2b71527b0ae0a1c",
+                                "sentence": " A cat sits in affordable hamper with a cingular flip flop.",
+                                "start_time": 0,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a6195",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203700,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203700,
+                        "file_name": "14785798208311.wav",
+                        "start_time": 114.223,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26380,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 118.573,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45ac4e0269c027b2e188a6",
+                                "sentence": " The cat pokes at it and shoots back in with hamper, causing it to sway about.",
+                                "start_time": 0,
+                                "end_time": 4.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a6196",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203721,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203721,
+                        "file_name": "14785798416031.wav",
+                        "start_time": 119.625,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26381,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 123.715,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45b133d2b71527b0ae0a30",
+                                "sentence": " A cat pokes have a single afoot flop confusingly and repeatedly.",
+                                "start_time": 0.27,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a6197",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203800,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203800,
+                        "file_name": "14785798805351.wav",
+                        "start_time": 134.676,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26382,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 139.796,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45ac4e0269c027b2e188c4",
+                                "sentence": " A cat sits with each fore paw on either side of the thong of a singular foot flop.",
+                                "start_time": 0,
+                                "end_time": 4.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a6198",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203839,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203839,
+                        "file_name": "14785799193201.wav",
+                        "start_time": 150.584,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26383,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 157.744,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e47522f776f3e043421def8",
+                                "sentence": " A cat and dog are playing with the dog, have him cat's head in its jaws, and the cat batting at the dog's muzzle with its hind paws.",
+                                "start_time": 0,
+                                "end_time": 7.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a6199",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203914,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203914,
+                        "file_name": "14785799549741.wav",
+                        "start_time": 159.976,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26384,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 163.556,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45aa6498b0c327b1e125f4",
+                                "sentence": " The cat escapes and bats of the dog's mouth of its fore paws.",
+                                "start_time": 0,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a619a",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107203937,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107203937,
+                        "file_name": "14785799778371.wav",
+                        "start_time": 167.972,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26385,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 171.042,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45ac4e0269c027b2e188b4",
+                                "sentence": " A cat bounce is a pencil on its nose, like a seal.",
+                                "start_time": 0,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a619b",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107204009,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107204009,
+                        "file_name": "14785800095041.wav",
+                        "start_time": 183.14,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26386,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 183.14,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45aa6498b0c327b1e125e2",
+                                "sentence": " A tiny kitten sits on the lap of human attempts to clamber up its belly.",
+                                "start_time": 0,
+                                "end_time": 4.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a619c",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107204048,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107204048,
+                        "file_name": "14785800481351.wav",
+                        "start_time": 200.154,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26387,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 205.274,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45ac4e0269c027b2e188a9",
+                                "sentence": " A turtle is near cats, hind quarters and nudges it. The cat jumps up and runs away.",
+                                "start_time": 0,
+                                "end_time": 5.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a619d",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107204141,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107204141,
+                        "file_name": "14785801010001.wav",
+                        "start_time": 212.649,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26388,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 212.649,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e475230776f3e043421df0e",
+                                "sentence": " A cat sits with a faire, pour in each of its owners, football ops,",
+                                "start_time": 0.12,
+                                "end_time": 4.25
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf8546e13dfd851a619e",
+                        "audio_description": "58e7cf3946e13dfd851a275b",
+                        "created_at": 20161107204207,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20161107204207,
+                        "file_name": "14785801271931.wav",
+                        "start_time": 227.717,
+                        "legacy_video_id": 2631,
+                        "legacy_user_id": 3381,
+                        "label": "",
+                        "legacy_audio_clip_id": 26389,
+                        "video": "58e7cf2946e13dfd851a1e5a",
+                        "end_time": 232.83700000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3946e13dfd851a275a",
+                        "transcript": [
+                            {
+                                "_id": "5e45aa6498b0c327b1e125ea",
+                                "sentence": " A cat walks towards the camera in a santa costume, santa hat included.",
+                                "start_time": 0,
+                                "end_time": 5.08
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3946e13dfd851a275b",
+                "status": "published",
+                "legacy_video_id": 2631,
+                "legacy_user_id": 3381,
+                "video": "58e7cf2946e13dfd851a1e5a",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3946e13dfd851a275a",
+                    "name": "ShadowGamer",
+                    "google_user_id_token": "",
+                    "created_at": 20161107192251,
+                    "updated_at": 20161107193047,
+                    "legacy_user_id": 3381,
+                    "last_login": 0,
+                    "email": "reb.hvnen@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "funny",
+            "cats",
+            "funny cats",
+            "funny cat videos",
+            "cat videos",
+            "funny cat videos 2016",
+            "funny cat",
+            "cats funny",
+            "cat funny",
+            "cat",
+            "cat funny videos",
+            "funny cats 2016",
+            "funniest",
+            "funniest cat videos",
+            "best of",
+            "kitten",
+            "kittens",
+            "funny kittens",
+            "funny kitten videos",
+            "cute",
+            "animal",
+            "animals",
+            "pet",
+            "pets",
+            "video",
+            "videos",
+            "clips",
+            "moments"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e5a",
+        "description": "",
+        "youtube_id": "G8KpPw303PY",
+        "views": 0,
+        "created_at": 20160727123406,
+        "title": "Funny Cats - A Funny Cat Videos Compilation 2016 || NEW HD",
+        "legacy_video_id": 2631,
+        "updated_at": 20161107204211,
+        "youtube_status": "available",
+        "category": "Pets & Animals",
+        "category_id": "15",
+        "duration": 258
+    }
+}

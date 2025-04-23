@@ -1,0 +1,65 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5fad2bfd6832dc5fe4ac5c81",
+                        "video": "5fad2b2b206e0d5fdec3dfeb",
+                        "audio_description": "5fad2b2b206e0d5fdec3dfea",
+                        "user": "5fa94305206e0d5fdec3ddb3",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 32.768,
+                        "duration": 32.768,
+                        "file_name": "BfOvOaIroko_5fad2bfd6832dc5fe4ac5c81.wav",
+                        "file_size_bytes": 6291500,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/BfOvOaIroko",
+                        "created_at": 20201112123509,
+                        "transcript": [],
+                        "__v": 0
+                    }
+                ],
+                "_id": "5fad2b2b206e0d5fdec3dfea",
+                "video": "5fad2b2b206e0d5fdec3dfeb",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5fa94305206e0d5fdec3ddb3",
+                    "email": "tdrela@student.uw.edu.pl",
+                    "name": "Tomasz Drela",
+                    "given_name": "Tomasz",
+                    "picture": "https://lh6.googleusercontent.com/-MFu2t2khyyI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckNPfITjgoKaYDtjznsv-5YOxiTIg/s96-c/photo.jpg",
+                    "locale": "pl",
+                    "google_user_id": "107079981004919743298",
+                    "last_login": 20201112123052,
+                    "token": "77c3b2c64db1d985aba11b6d4648d6ab428fafdbe0c789831b397b9cc8254a6a",
+                    "__v": 0,
+                    "updated_at": 20201112123052
+                },
+                "status": "published",
+                "language": "pl",
+                "created_at": 20201112123139,
+                "updated_at": 20201112123139,
+                "notes": "Test audodeskrypcji\nNa sali zgromadzona publiczno\u015b\u0107\nKobieta stoi na scenie i \u015bpiewa\nD\u0142onie ma oparte o mikrofon umieszczony na statywie.\nPatrzy w dal.\nTest audiodeskrypcji",
+                "__v": 0,
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5fad2b2b206e0d5fdec3dfeb",
+        "title": "Monika Brodka - Do Ani",
+        "description": "Wyst\u0119p Moniki Brodki podczas gali \"Jak by\u0107 kochan\u0105 czyli 50 lat historii z Tr\u00f3jk\u0105\" z okazji pi\u0119\u0107dziesi\u0119ciolecia Programu Trzeciego Polskiego Radia.",
+        "youtube_id": "BfOvOaIroko",
+        "created_at": 20201112123139,
+        "updated_at": 20201112123509,
+        "views": 0,
+        "__v": 0
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6146e13dfd851a4751",
+                        "audio_description": "58e7cf3046e13dfd851a23ac",
+                        "created_at": 20150912141744,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150912141744,
+                        "file_name": "14420926641261.wav",
+                        "start_time": 2.004,
+                        "legacy_video_id": 2168,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15591,
+                        "video": "58e7cf2946e13dfd851a1c8b",
+                        "end_time": 2.004,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abc33c648ec0da79cd6e8",
+                                "sentence": " Did you notice how the cars are all in a line?",
+                                "start_time": 1.27,
+                                "end_time": 3.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a4752",
+                        "audio_description": "58e7cf3046e13dfd851a23ac",
+                        "created_at": 20150912141816,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150912141816,
+                        "file_name": "14420926963511.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2168,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15592,
+                        "video": "58e7cf2946e13dfd851a1c8b",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 11.51,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3abbead8af910da52dfcf6",
+                                "sentence": " A teenage students. It's between a female adult and a mallard out who is standing.",
+                                "start_time": 1.08,
+                                "end_time": 5.58
+                            },
+                            {
+                                "_id": "5e3abbead8af910da52dfcf5",
+                                "sentence": " They have a conversation in sign language about a video they are watching.",
+                                "start_time": 5.58,
+                                "end_time": 9.46
+                            },
+                            {
+                                "_id": "5e3abbead8af910da52dfcf4",
+                                "sentence": " It appears to be a car chase.",
+                                "start_time": 9.46,
+                                "end_time": 11.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a4753",
+                        "audio_description": "58e7cf3046e13dfd851a23ac",
+                        "created_at": 20150912141953,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150912141953,
+                        "file_name": "14420927939381.wav",
+                        "start_time": 6.148,
+                        "legacy_video_id": 2168,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15594,
+                        "video": "58e7cf2946e13dfd851a1c8b",
+                        "end_time": 6.148,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac1a2a2079a0da87fe511",
+                                "sentence": " It looks like they're lined up to prevent that car from exiting the freeway.",
+                                "start_time": 0.75,
+                                "end_time": 4.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6146e13dfd851a4754",
+                        "audio_description": "58e7cf3046e13dfd851a23ac",
+                        "created_at": 20150912142052,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150912142052,
+                        "file_name": "14420928526101.wav",
+                        "start_time": 14.102,
+                        "legacy_video_id": 2168,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15595,
+                        "video": "58e7cf2946e13dfd851a1c8b",
+                        "end_time": 14.102,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac391d8af910da52dfd75",
+                                "sentence": " Hey,",
+                                "start_time": 0.71,
+                                "end_time": 1.48
+                            },
+                            {
+                                "_id": "5e3ac391d8af910da52dfd74",
+                                "sentence": " he said they're lined up to block the car from exiting.",
+                                "start_time": 1.48,
+                                "end_time": 4.41
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a23ac",
+                "status": "published",
+                "legacy_video_id": 2168,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c8b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c8b",
+        "description": "",
+        "youtube_id": "OSKNiwkaRRo",
+        "views": 0,
+        "created_at": 20150912140838,
+        "title": "Tyler Current Events 1",
+        "legacy_video_id": 2168,
+        "updated_at": 20150912142418,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 20
+    }
+}

@@ -1,0 +1,619 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4046e13dfd851a2afa",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106121435,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106121435,
+                        "file_name": "1383768875095.wav",
+                        "start_time": 24.251,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4314,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 24.251,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74670f499aae4b2ce18a",
+                                "sentence": " The braille sense hangs at her waist.",
+                                "start_time": 0.72,
+                                "end_time": 2.73
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2afb",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106121611,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106121611,
+                        "file_name": "1383768971529.wav",
+                        "start_time": 45.766,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4315,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 45.766,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74670f499aae4b2ce19a",
+                                "sentence": " Street sign reads",
+                                "start_time": 0,
+                                "end_time": 1.22
+                            },
+                            {
+                                "_id": "5e1c74670f499aae4b2ce199",
+                                "sentence": " west 65th street.",
+                                "start_time": 1.22,
+                                "end_time": 2.85
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2afc",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106121819,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106121819,
+                        "file_name": "1383769099640.wav",
+                        "start_time": 70.641,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4316,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 70.641,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74660f499aae4b2ce151",
+                                "sentence": " Fingers of both of her hands move quickly across the braille display.",
+                                "start_time": 0,
+                                "end_time": 3.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2afd",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106121923,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106121923,
+                        "file_name": "1383769163184.wav",
+                        "start_time": 111.106,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4317,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 111.106,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74690f499aae4b2ce1ac",
+                                "sentence": " Street sign reads, blind persons crossing.",
+                                "start_time": 0,
+                                "end_time": 2.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2afe",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106122040,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106122040,
+                        "file_name": "1383769240080.wav",
+                        "start_time": 129.387,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4318,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 129.387,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c7126473a929f78818dcb",
+                                "sentence": " Her fingers move quickly over the braille display again.",
+                                "start_time": 0,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2aff",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106122648,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106122648,
+                        "file_name": "1383769608522.wav",
+                        "start_time": 233.7,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4319,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 233.7,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.7,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c7125473a929f78818da7",
+                                "sentence": " In order to look, chancey now has the iPhone in her left hand, pointed in the same direction she's facing.",
+                                "start_time": 0,
+                                "end_time": 5.63
+                            },
+                            {
+                                "_id": "5e1c7125473a929f78818da6",
+                                "sentence": " And Her right hand reads the braille display.",
+                                "start_time": 5.63,
+                                "end_time": 7.87
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2b00",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106122831,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106122831,
+                        "file_name": "1383769711650.wav",
+                        "start_time": 258.024,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4320,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 258.024,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c6d0154b3778d139ed135",
+                                "sentence": " They're walking down the street together.",
+                                "start_time": 0,
+                                "end_time": 1.68
+                            },
+                            {
+                                "_id": "5e1c6d0154b3778d139ed134",
+                                "sentence": " Chancey walks with a guide dog, and her friend walks with a cane.",
+                                "start_time": 1.68,
+                                "end_time": 5.31
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2b01",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106123119,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106123119,
+                        "file_name": "1383769879943.wav",
+                        "start_time": 281.363,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4322,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 281.363,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74680f499aae4b2ce1ab",
+                                "sentence": " Stopped in the middle of the sidewalk. And chancey is checking her braille display.",
+                                "start_time": 0,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2b02",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106123244,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106123244,
+                        "file_name": "1383769964654.wav",
+                        "start_time": 329.773,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4323,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 329.773,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74670f499aae4b2ce165",
+                                "sentence": " Just finished crossing the street",
+                                "start_time": 0,
+                                "end_time": 1.75
+                            },
+                            {
+                                "_id": "5e1c74670f499aae4b2ce164",
+                                "sentence": " and are stuck to the corner. Now.",
+                                "start_time": 1.75,
+                                "end_time": 3.35
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2b03",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106123659,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106123659,
+                        "file_name": "1383770219280.wav",
+                        "start_time": 332.597,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4325,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 332.597,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.55,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c7125473a929f78818d93",
+                                "sentence": " A signpost shows the signs. Leonard bernstein place, a k a west, 65th street,",
+                                "start_time": 0.42,
+                                "end_time": 5.46
+                            },
+                            {
+                                "_id": "5e1c7125473a929f78818d92",
+                                "sentence": " columbus avenue, and 21 way signs pointing in different directions.",
+                                "start_time": 5.53,
+                                "end_time": 9.4
+                            },
+                            {
+                                "_id": "5e1c7125473a929f78818d91",
+                                "sentence": " Chancey gestures to indicate the direction of each street.",
+                                "start_time": 9.58,
+                                "end_time": 12.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2b04",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106123951,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106123951,
+                        "file_name": "1383770391641.wav",
+                        "start_time": 343.76,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4327,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 343.76,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c71cb8fa8029f79acfbec",
+                                "sentence": " Walking down a crowded sidewalk with chancey as the human guide.",
+                                "start_time": 0,
+                                "end_time": 3.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2b05",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106124239,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106124239,
+                        "file_name": "1383770559669.wav",
+                        "start_time": 369.86,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4329,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 369.86,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c7125473a929f78818d77",
+                                "sentence": " Great sign reads 63rd and broadway",
+                                "start_time": 0,
+                                "end_time": 2.36
+                            },
+                            {
+                                "_id": "5e1c7125473a929f78818d76",
+                                "sentence": " chance is checking her brow display again.",
+                                "start_time": 2.36,
+                                "end_time": 4.62
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2b06",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106124520,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106124520,
+                        "file_name": "1383770720636.wav",
+                        "start_time": 448.123,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4330,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 448.123,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74670f499aae4b2ce198",
+                                "sentence": " Her fingers moved rapidly across the braille display",
+                                "start_time": 0.41,
+                                "end_time": 3.06
+                            },
+                            {
+                                "_id": "5e1c74670f499aae4b2ce197",
+                                "sentence": " and activate various buttons on the bro note taker to click through the menus.",
+                                "start_time": 3.06,
+                                "end_time": 7.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2b07",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106124753,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106124753,
+                        "file_name": "1383770873399.wav",
+                        "start_time": 561.869,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4331,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 561.869,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c74670f499aae4b2ce15b",
+                                "sentence": " They're walking down the sidewalk again.",
+                                "start_time": 0,
+                                "end_time": 1.75
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2b08",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106124853,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106124853,
+                        "file_name": "1383770933054.wav",
+                        "start_time": 584.861,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4332,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 589.461,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c7124473a929f78818d67",
+                                "sentence": " Stopped on the sidewalk. And chancey has her phone pointed towards the store front.",
+                                "start_time": 0,
+                                "end_time": 3.69
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2b09",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106125052,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106125052,
+                        "file_name": "1383771052342.wav",
+                        "start_time": 648.382,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4333,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 648.382,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c71ca8fa8029f79acfbd1",
+                                "sentence": " Sign reads west 61st street.",
+                                "start_time": 0,
+                                "end_time": 2.26
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2b0a",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106125222,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106125222,
+                        "file_name": "1383771142015.wav",
+                        "start_time": 808.039,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4334,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 811.359,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c71c98fa8029f79acfb9d",
+                                "sentence": " And they're off walking down the sidewalk again.",
+                                "start_time": 0,
+                                "end_time": 2.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4046e13dfd851a2b0b",
+                        "audio_description": "58e7cf2a46e13dfd851a2058",
+                        "created_at": 20131106125417,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20131106125417,
+                        "file_name": "1383771256993.wav",
+                        "start_time": 824.851,
+                        "legacy_video_id": 1342,
+                        "legacy_user_id": 27,
+                        "label": "",
+                        "legacy_audio_clip_id": 4335,
+                        "video": "58e7cf2846e13dfd851a195e",
+                        "end_time": 824.851,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.07,
+                        "file_path": "/legacy",
+                        "user": "58f59d09e66ed935907b9941",
+                        "transcript": [
+                            {
+                                "_id": "5e1c71c98fa8029f79acfb6b",
+                                "sentence": " There at the Top of the stairs and the subway entrance is below.",
+                                "start_time": 0.52,
+                                "end_time": 3.85
+                            },
+                            {
+                                "_id": "5e1c71c98fa8029f79acfb6a",
+                                "sentence": " A sign reads 59th street, columbus circle, subway station, blue lines, ac",
+                                "start_time": 3.89,
+                                "end_time": 10.12
+                            },
+                            {
+                                "_id": "5e1c71c98fa8029f79acfb69",
+                                "sentence": " orange lines, bd, red line one.",
+                                "start_time": 10.12,
+                                "end_time": 13.17
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2a46e13dfd851a2058",
+                "status": "published",
+                "legacy_video_id": 1342,
+                "legacy_user_id": 27,
+                "video": "58e7cf2846e13dfd851a195e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58f59d09e66ed935907b9941",
+                    "email": "yueting.siu@gmail.com",
+                    "name": "Yue-Ting Siu",
+                    "given_name": "Yue-Ting",
+                    "picture": "https://lh4.googleusercontent.com/-VHICy00_epA/AAAAAAAAAAI/AAAAAAAAAHw/7FbY5Ab9xBg/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116358434699938337075",
+                    "last_login": 20200923014424,
+                    "token": "c27b4aa75acb74a3750ab1ad1962bcf346942dbd32e09fb53f3c493c38a50fac",
+                    "__v": 0,
+                    "updated_at": 20200923014424,
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a195e",
+        "description": "",
+        "youtube_id": "37aUB92yvHI",
+        "views": 0,
+        "created_at": 20131030004938,
+        "title": "Seeing Eye with Braille",
+        "legacy_video_id": 1342,
+        "updated_at": 20141220132051,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 876
+    }
+}

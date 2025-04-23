@@ -1,0 +1,840 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b2ccc4274ade3483b5e2ccc",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Title",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 11.795736961451247,
+                        "file_name": "LkjuS_tzmIE_5b2ccc4274ade3483b5e2ccc.wav",
+                        "file_size_bytes": 2080812,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622101530,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb13",
+                                "sentence": " My disabilities book project",
+                                "start_time": 1.09,
+                                "end_time": 3.72
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb12",
+                                "sentence": " on screen",
+                                "start_time": 3.9,
+                                "end_time": 5.03
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb11",
+                                "sentence": " photos of team members of the book project",
+                                "start_time": 5.03,
+                                "end_time": 7.69
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb10",
+                                "sentence": " and a picture of the book are circling between the front and back.",
+                                "start_time": 7.69,
+                                "end_time": 11.05
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2ccd4174ade3483b5e2cce",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Alice",
+                        "playback_type": "extended",
+                        "start_time": 31.323488,
+                        "end_time": 31.323488,
+                        "duration": 15.139410430839002,
+                        "file_name": "LkjuS_tzmIE_5b2ccd4174ade3483b5e2cce.wav",
+                        "file_size_bytes": 2670636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622101945,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb20",
+                                "sentence": " Alice is having a conversation with her lifestyle coordinator, emily",
+                                "start_time": 0.68,
+                                "end_time": 4.81
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb1f",
+                                "sentence": " Alice on the left, seated in a powered chair,",
+                                "start_time": 5.03,
+                                "end_time": 8.02
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb1e",
+                                "sentence": " is typing into her phone with a stylus.",
+                                "start_time": 8.02,
+                                "end_time": 10.61
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb1d",
+                                "sentence": " Emily on the right, leans over to see what Alice has type to her.",
+                                "start_time": 10.61,
+                                "end_time": 14.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2ccd9874ade3483b5e2ccf",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Vanessa",
+                        "playback_type": "extended",
+                        "start_time": 35.115822,
+                        "end_time": 35.115822,
+                        "duration": 6.130068027210885,
+                        "file_name": "LkjuS_tzmIE_5b2ccd9874ade3483b5e2ccf.wav",
+                        "file_size_bytes": 1081388,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622102112,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cbb9",
+                                "sentence": " Vanessa in a hotel lobby is talking in oz land, australian sign language.",
+                                "start_time": 0.58,
+                                "end_time": 5.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cd0b374ade3483b5e2cd2",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Michael and Vanessa",
+                        "playback_type": "extended",
+                        "start_time": 40.218002,
+                        "end_time": 40.218002,
+                        "duration": 20.340680272108845,
+                        "file_name": "LkjuS_tzmIE_5b2cd0b374ade3483b5e2cd2.wav",
+                        "file_size_bytes": 3588140,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622103427,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb01",
+                                "sentence": " Michael is sweeping the floor in front of the entrance of his church.",
+                                "start_time": 0.74,
+                                "end_time": 4.4
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb00",
+                                "sentence": " Next, we see vanessa and her friend,",
+                                "start_time": 4.66,
+                                "end_time": 7.07
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8caff",
+                                "sentence": " both with large white ribbons in their hair,",
+                                "start_time": 7.11,
+                                "end_time": 9.6
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cafe",
+                                "sentence": " sitting on the floor having a conversation.",
+                                "start_time": 9.6,
+                                "end_time": 12.01
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cafd",
+                                "sentence": " Vanessa is friend on the right types on a keyboard.",
+                                "start_time": 12.37,
+                                "end_time": 15.2
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cafc",
+                                "sentence": " Vanessa on the left reads on a braille display and responds in oz land.",
+                                "start_time": 15.2,
+                                "end_time": 19.57
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cd2dd74ade3483b5e2cd4",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "TM",
+                        "playback_type": "extended",
+                        "start_time": 55.560315,
+                        "end_time": 55.560315,
+                        "duration": 14.303492063492063,
+                        "file_name": "LkjuS_tzmIE_5b2cd2dd74ade3483b5e2cd4.wav",
+                        "file_size_bytes": 2523180,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622104341,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a97218c9be7dec7b57b",
+                                "sentence": " T m enters an indoor pool via a hoist and sling.",
+                                "start_time": 0.68,
+                                "end_time": 4.55
+                            },
+                            {
+                                "_id": "5e375a97218c9be7dec7b57a",
+                                "sentence": " The emerging therapy team dressed in scuba gear are guiding her into the pool.",
+                                "start_time": 4.74,
+                                "end_time": 9.12
+                            },
+                            {
+                                "_id": "5e375a97218c9be7dec7b579",
+                                "sentence": " They are all wearing scuba gear and are fully submerged in the pool swimming.",
+                                "start_time": 9.35,
+                                "end_time": 13.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cd37574ade3483b5e2cd5",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "John 1",
+                        "playback_type": "extended",
+                        "start_time": 65.34383,
+                        "end_time": 65.34383,
+                        "duration": 5.108390022675737,
+                        "file_name": "LkjuS_tzmIE_5b2cd37574ade3483b5e2cd5.wav",
+                        "file_size_bytes": 901164,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622104613,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cb82",
+                                "sentence": " John crosses a grassy area, riding a powered chair.",
+                                "start_time": 0.55,
+                                "end_time": 4.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cd4bc74ade3483b5e2cd8",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "John 2",
+                        "playback_type": "extended",
+                        "start_time": 72.852556,
+                        "end_time": 72.852556,
+                        "duration": 9.380861678004536,
+                        "file_name": "LkjuS_tzmIE_5b2cd4bc74ade3483b5e2cd8.wav",
+                        "file_size_bytes": 1654828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622105140,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e36f0f63a17db8d5f769a89",
+                                "sentence": " John gets into a black combi van fire amp",
+                                "start_time": 0.63,
+                                "end_time": 3.84
+                            },
+                            {
+                                "_id": "5e36f0f63a17db8d5f769a88",
+                                "sentence": " and transfers into the driver's seat.",
+                                "start_time": 3.84,
+                                "end_time": 6
+                            },
+                            {
+                                "_id": "5e36f0f63a17db8d5f769a87",
+                                "sentence": " Then John drives using hand controls.",
+                                "start_time": 6.11,
+                                "end_time": 8.89
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cd60174ade3483b5e2cda",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Alice 2",
+                        "playback_type": "extended",
+                        "start_time": 94.557248,
+                        "end_time": 94.557248,
+                        "duration": 9.102222222222222,
+                        "file_name": "LkjuS_tzmIE_5b2cd60174ade3483b5e2cda.wav",
+                        "file_size_bytes": 1605676,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622105705,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a00224fa7e7db7f93f9",
+                                "sentence": " Alice is typing on her mobile phone with a stylus to emily,",
+                                "start_time": 0.59,
+                                "end_time": 4.39
+                            },
+                            {
+                                "_id": "5e375a00224fa7e7db7f93f8",
+                                "sentence": " a support worker on the right rearrange as items in front of Alice.",
+                                "start_time": 4.39,
+                                "end_time": 8.37
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cd66874ade3483b5e2cdb",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Alice 3",
+                        "playback_type": "extended",
+                        "start_time": 108.781156,
+                        "end_time": 108.781156,
+                        "duration": 8.6378231292517,
+                        "file_name": "LkjuS_tzmIE_5b2cd66874ade3483b5e2cdb.wav",
+                        "file_size_bytes": 1523756,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622105848,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a97218c9be7dec7b578",
+                                "sentence": " Alice sits with lifestyle staff",
+                                "start_time": 0.38,
+                                "end_time": 2.67
+                            },
+                            {
+                                "_id": "5e375a97218c9be7dec7b577",
+                                "sentence": " and two other support workers around a table in a living room.",
+                                "start_time": 2.67,
+                                "end_time": 5.95
+                            },
+                            {
+                                "_id": "5e375a97218c9be7dec7b576",
+                                "sentence": " They are playing the card game uno.",
+                                "start_time": 5.97,
+                                "end_time": 8.18
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cd6cc74ade3483b5e2cdc",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Jasper",
+                        "playback_type": "extended",
+                        "start_time": 111.827686,
+                        "end_time": 111.827686,
+                        "duration": 8.544943310657596,
+                        "file_name": "LkjuS_tzmIE_5b2cd6cc74ade3483b5e2cdc.wav",
+                        "file_size_bytes": 1507372,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622110028,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a97218c9be7dec7b532",
+                                "sentence": " Jasper, wearing a cap and sunglasses, approaches a scarecrow in a vegetable garden and introduces himself in oz land.",
+                                "start_time": 0.43,
+                                "end_time": 7.74
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cd80374ade3483b5e2cdf",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Vanessa 2",
+                        "playback_type": "extended",
+                        "start_time": 124.49896,
+                        "end_time": 124.49896,
+                        "duration": 10.681179138321996,
+                        "file_name": "LkjuS_tzmIE_5b2cd80374ade3483b5e2cdf.wav",
+                        "file_size_bytes": 1884204,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622110539,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb0f",
+                                "sentence": " Vanessa wearing makeup nods while another person talks to her.",
+                                "start_time": 0.15,
+                                "end_time": 4.27
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb0e",
+                                "sentence": " Next, she is being held up by a cheerleading team and performs lifts drops and gymnastic moves.",
+                                "start_time": 4.29,
+                                "end_time": 10.33
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cdab974ade3483b5e2ce1",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Vanessa 3",
+                        "playback_type": "extended",
+                        "start_time": 139.471414,
+                        "end_time": 139.471414,
+                        "duration": 10.031020408163265,
+                        "file_name": "LkjuS_tzmIE_5b2cdab974ade3483b5e2ce1.wav",
+                        "file_size_bytes": 1769516,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622111713,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a97218c9be7dec7b56e",
+                                "sentence": " Vanessa and a woman approached the entry of a building.",
+                                "start_time": 0,
+                                "end_time": 3.04
+                            },
+                            {
+                                "_id": "5e375a97218c9be7dec7b56d",
+                                "sentence": " Then they are at a counter in a cafe.",
+                                "start_time": 3.05,
+                                "end_time": 5.34
+                            },
+                            {
+                                "_id": "5e375a97218c9be7dec7b56c",
+                                "sentence": " And next vanessa is signing while the woman sitting beside her interprets.",
+                                "start_time": 5.34,
+                                "end_time": 9.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cdb6074ade3483b5e2ce3",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Michael",
+                        "playback_type": "extended",
+                        "start_time": 143.312123,
+                        "end_time": 143.312123,
+                        "duration": 11.888616780045352,
+                        "file_name": "LkjuS_tzmIE_5b2cdb6074ade3483b5e2ce3.wav",
+                        "file_size_bytes": 2097196,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622112000,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a00224fa7e7db7f93ec",
+                                "sentence": " Michael and his support worker are in a kitchen, preparing roast meat, covering it with foil.",
+                                "start_time": 0.59,
+                                "end_time": 5.79
+                            },
+                            {
+                                "_id": "5e375a00224fa7e7db7f93eb",
+                                "sentence": " He is receiving instructions,",
+                                "start_time": 5.95,
+                                "end_time": 8
+                            },
+                            {
+                                "_id": "5e375a00224fa7e7db7f93ea",
+                                "sentence": " putting roast meat into the oven and peeling a carrot.",
+                                "start_time": 8,
+                                "end_time": 11.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cdc3474ade3483b5e2ce4",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "TM 2",
+                        "playback_type": "extended",
+                        "start_time": 163.88632,
+                        "end_time": 163.88632,
+                        "duration": 12.26013605442177,
+                        "file_name": "LkjuS_tzmIE_5b2cdc3474ade3483b5e2ce4.wav",
+                        "file_size_bytes": 2162732,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622112332,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a00224fa7e7db7f93f0",
+                                "sentence": " Tm in her power chair is on a jetty, giving instructions to the salability volunteers.",
+                                "start_time": 0.35,
+                                "end_time": 6.25
+                            },
+                            {
+                                "_id": "5e375a00224fa7e7db7f93ef",
+                                "sentence": " Then the volunteer team transfers her from the jetty onto a small sailing boat using a hoist.",
+                                "start_time": 6.35,
+                                "end_time": 11.82
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cdd6874ade3483b5e2ce7",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Sailing",
+                        "playback_type": "extended",
+                        "start_time": 190.642844,
+                        "end_time": 190.642844,
+                        "duration": 5.6656689342403626,
+                        "file_name": "LkjuS_tzmIE_5b2cdd6874ade3483b5e2ce7.wav",
+                        "file_size_bytes": 999468,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622112840,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cbb1",
+                                "sentence": " View from the sailing boat sailing on open water with two similar boats nearby.",
+                                "start_time": 0.34,
+                                "end_time": 5.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2cdf8b74ade3483b5e2ce9",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Final Montage",
+                        "playback_type": "extended",
+                        "start_time": 196.90111,
+                        "end_time": 196.90111,
+                        "duration": 23.49859410430839,
+                        "file_name": "LkjuS_tzmIE_5b2cdf8b74ade3483b5e2ce9.wav",
+                        "file_size_bytes": 4145196,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622113747,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a01224fa7e7db7f940a",
+                                "sentence": " Next we see a montage of scenes,",
+                                "start_time": 0.34,
+                                "end_time": 2.99
+                            },
+                            {
+                                "_id": "5e375a01224fa7e7db7f9409",
+                                "sentence": " Alice and the other staff in an excited conversation,",
+                                "start_time": 3,
+                                "end_time": 6.42
+                            },
+                            {
+                                "_id": "5e375a01224fa7e7db7f9408",
+                                "sentence": " then t m getting back to the edge of the pool,",
+                                "start_time": 6.42,
+                                "end_time": 9.2
+                            },
+                            {
+                                "_id": "5e375a01224fa7e7db7f9407",
+                                "sentence": " followed by vanessa signing confidently to another woman,",
+                                "start_time": 9.37,
+                                "end_time": 12.86
+                            },
+                            {
+                                "_id": "5e375a01224fa7e7db7f9406",
+                                "sentence": " then Michael smiling into the camera while cleaning a table.",
+                                "start_time": 12.99,
+                                "end_time": 16.73
+                            },
+                            {
+                                "_id": "5e375a01224fa7e7db7f9405",
+                                "sentence": " After that is jasper signing to the scarecrow again,",
+                                "start_time": 16.73,
+                                "end_time": 20.38
+                            },
+                            {
+                                "_id": "5e375a01224fa7e7db7f9404",
+                                "sentence": " and John crossing the grassy area again.",
+                                "start_time": 20.38,
+                                "end_time": 23.19
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2ce25674ade3483b5e2ceb",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Sponsor",
+                        "playback_type": "extended",
+                        "start_time": 223.561893,
+                        "end_time": 223.561893,
+                        "duration": 7.523265306122449,
+                        "file_name": "LkjuS_tzmIE_5b2ce25674ade3483b5e2ceb.wav",
+                        "file_size_bytes": 1327148,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622114942,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cbb3",
+                                "sentence": " On screen is the logo of the sponsor sa care.",
+                                "start_time": 0.06,
+                                "end_time": 3.72
+                            },
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cbb2",
+                                "sentence": " Their slogan is the difference in disability.",
+                                "start_time": 3.8,
+                                "end_time": 7.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2ce29974ade3483b5e2cec",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Coordinator",
+                        "playback_type": "extended",
+                        "start_time": 226.585208,
+                        "end_time": 226.585208,
+                        "duration": 5.758548752834467,
+                        "file_name": "LkjuS_tzmIE_5b2ce29974ade3483b5e2cec.wav",
+                        "file_size_bytes": 1015852,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622115049,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a00224fa7e7db7f9400",
+                                "sentence": " The coordinator is t m",
+                                "start_time": 0.42,
+                                "end_time": 2.56
+                            },
+                            {
+                                "_id": "5e375a00224fa7e7db7f93ff",
+                                "sentence": " and the assistant coordinator is jon dushi.",
+                                "start_time": 2.56,
+                                "end_time": 5.34
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2ce2d674ade3483b5e2ced",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Footage",
+                        "playback_type": "extended",
+                        "start_time": 229.179865,
+                        "end_time": 229.179865,
+                        "duration": 6.965986394557823,
+                        "file_name": "LkjuS_tzmIE_5b2ce2d674ade3483b5e2ced.wav",
+                        "file_size_bytes": 1228844,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622115150,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cbb0",
+                                "sentence": " Footage provided by",
+                                "start_time": 0.87,
+                                "end_time": 2.56
+                            },
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cbaf",
+                                "sentence": " and there's a list of names of people who provided footage.",
+                                "start_time": 2.68,
+                                "end_time": 6.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2ce3ae74ade3483b5e2cee",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Editor, Narrator and Music",
+                        "playback_type": "extended",
+                        "start_time": 233.956114,
+                        "end_time": 233.956114,
+                        "duration": 12.538775510204081,
+                        "file_name": "LkjuS_tzmIE_5b2ce3ae74ade3483b5e2cee.wav",
+                        "file_size_bytes": 2211884,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622115526,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb2b",
+                                "sentence": " Editing by ah guck nick, neat scar,",
+                                "start_time": 0.29,
+                                "end_time": 3.07
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb2a",
+                                "sentence": " narrator and script. John francis",
+                                "start_time": 3.07,
+                                "end_time": 5.89
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb29",
+                                "sentence": " music",
+                                "start_time": 5.89,
+                                "end_time": 6.8
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb28",
+                                "sentence": " blue dot sessions, the basket",
+                                "start_time": 6.8,
+                                "end_time": 9.21
+                            },
+                            {
+                                "_id": "5e37587afe2371e7dcb8cb27",
+                                "sentence": " Free music archive dot org.",
+                                "start_time": 9.21,
+                                "end_time": 11.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2ce3f274ade3483b5e2cef",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Team Members",
+                        "playback_type": "extended",
+                        "start_time": 238.042054,
+                        "end_time": 238.042054,
+                        "duration": 9.380861678004536,
+                        "file_name": "LkjuS_tzmIE_5b2ce3f274ade3483b5e2cef.wav",
+                        "file_size_bytes": 1654828,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622115634,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375a00224fa7e7db7f9403",
+                                "sentence": " Team members in book project,",
+                                "start_time": 0.52,
+                                "end_time": 2.64
+                            },
+                            {
+                                "_id": "5e375a00224fa7e7db7f9402",
+                                "sentence": " a list of names of team members involved in the book project by countries and states in Australia.",
+                                "start_time": 2.85,
+                                "end_time": 8.65
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b2ce43274ade3483b5e2cf0",
+                        "video": "5b2cb49c74ade3483b5e2cc1",
+                        "audio_description": "5b2cb49c74ade3483b5e2cc0",
+                        "user": "5b2c974b74ade3483b5e2cb8",
+                        "label": "Supporters",
+                        "playback_type": "extended",
+                        "start_time": 252.325024,
+                        "end_time": 252.325024,
+                        "duration": 5.572789115646258,
+                        "file_name": "LkjuS_tzmIE_5b2ce43274ade3483b5e2cf0.wav",
+                        "file_size_bytes": 983084,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/LkjuS_tzmIE",
+                        "created_at": 20180622115738,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cba5",
+                                "sentence": " Supporters",
+                                "start_time": 0.23,
+                                "end_time": 1.57
+                            },
+                            {
+                                "_id": "5e375c10fe2371e7dcb8cba4",
+                                "sentence": " a list of names of supporters in this book project.",
+                                "start_time": 1.57,
+                                "end_time": 4.99
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b2cb49c74ade3483b5e2cc0",
+                "video": "5b2cb49c74ade3483b5e2cc1",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b2c974b74ade3483b5e2cb8",
+                    "email": "aruwoldt@internode.on.net",
+                    "name": "Anne Ruwoldt",
+                    "given_name": "Anne",
+                    "picture": "https://lh4.googleusercontent.com/-JJ5AcxGfhcs/AAAAAAAAAAI/AAAAAAAAAAA/Rngoj5a0TTU/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "116445998367417249185",
+                    "last_login": 20180622095828,
+                    "token": "b6dcf212f46db4d8a4909f3878807fc2119b9a40a32f80d9053365e6c55e0a1b",
+                    "__v": 0,
+                    "updated_at": 20180622095828,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-au",
+                "created_at": 20180622083436,
+                "updated_at": 20180622083436,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "disABILITY",
+            "book"
+        ],
+        "custom_tags": [],
+        "_id": "5b2cb49c74ade3483b5e2cc1",
+        "title": "MY disABILITIES Book Project Documentary",
+        "description": "Keep in Touch or Pre Order: www.MY-dis-ABILITIES.com\r\n\r\nWe need Your Vote to get funding for this project. \r\n*** Vote to get a chance to win a daily prize of $50 itune voucher ***\r\nSHARE with your FAMILIES & FRIENDS\r\nVoting (til 3 July) : www.MY-dis-ABILITIES.com/blog.php",
+        "youtube_id": "LkjuS_tzmIE",
+        "created_at": 20180622083436,
+        "updated_at": 20180622115738,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 262
+    }
+}

@@ -1,0 +1,1363 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c44",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101140413,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101140413,
+                        "file_name": "14464154535741.wav",
+                        "start_time": 1.995,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2854,
+                        "label": "",
+                        "legacy_audio_clip_id": 17535,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 1.995,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 1.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b4",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec18d2c60ec67aa118e8a",
+                                "sentence": " Yes.",
+                                "start_time": 0.53,
+                                "end_time": 1.5
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a24b6",
+                "status": "published",
+                "legacy_video_id": 2279,
+                "legacy_user_id": 2854,
+                "video": "58e7cf2946e13dfd851a1cfa",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24b4",
+                    "name": "andreaabanto",
+                    "google_user_id_token": "",
+                    "created_at": 20151027174401,
+                    "updated_at": 20151027174800,
+                    "legacy_user_id": 2854,
+                    "last_login": 0,
+                    "email": "abantoa1@mail.montclair.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            },
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c24",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101131551,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101131551,
+                        "file_name": "14464125517101.wav",
+                        "start_time": 5.328,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17496,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 10.448,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec18d2c60ec67aa118e93",
+                                "sentence": " The video opens up to a cameraman walking around a dark house to find a zombie in one room.",
+                                "start_time": 0.01,
+                                "end_time": 5.08
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c27",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101132000,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101132000,
+                        "file_name": "14464128000831.wav",
+                        "start_time": 19.017,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17499,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 23.107,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec18d2c60ec67aa118e8f",
+                                "sentence": " The video then cuts to a woman in the mayor with both hands on her face.",
+                                "start_time": 0,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c28",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101132438,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101132438,
+                        "file_name": "14464130789731.wav",
+                        "start_time": 23.043,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17501,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 29.953,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec34c94fd7667ac6613b2",
+                                "sentence": " She has a latex mouth in front of her and begins to paint teeth, blood and shadow to make the mouth appear more realistic.",
+                                "start_time": 0.06,
+                                "end_time": 6.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c29",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101132734,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101132734,
+                        "file_name": "14464132547301.wav",
+                        "start_time": 35.242,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17502,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 41.632,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb0099e6da0092c64ce99",
+                                "sentence": " She then put slate six mouth of tour own mouth to get a visual of what it looks like and takes a sip of her soda.",
+                                "start_time": 0,
+                                "end_time": 6.14
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c2a",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101133106,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101133106,
+                        "file_name": "14464134663861.wav",
+                        "start_time": 45.255,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17504,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 50.115,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb2a0f7856a092d5a2c27",
+                                "sentence": " She then applies makeup to her face to make it appear that she has pale skin.",
+                                "start_time": 0.13,
+                                "end_time": 4.84
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c2b",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101133257,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101133257,
+                        "file_name": "14464135778011.wav",
+                        "start_time": 51.421,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17505,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 58.841,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.42,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb1244a2c03092bf26176",
+                                "sentence": " Next, she takes a green base makeup, use a sponge to apply the makeup on her forehead and temples to make her skin appear decayed.",
+                                "start_time": 0,
+                                "end_time": 7.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c2c",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101133519,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101133519,
+                        "file_name": "14464137192651.wav",
+                        "start_time": 61.854,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17506,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 68.764,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb0099e6da0092c64ce76",
+                                "sentence": " She then pencils in her eyebrows to make the border straight,",
+                                "start_time": 0,
+                                "end_time": 3.3
+                            },
+                            {
+                                "_id": "5e3eb0099e6da0092c64ce75",
+                                "sentence": " then touches up round her eyes to even everything out.",
+                                "start_time": 3.3,
+                                "end_time": 6.46
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c2d",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101133651,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101133651,
+                        "file_name": "14464138117161.wav",
+                        "start_time": 73.636,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17507,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 79.006,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb1244a2c03092bf26151",
+                                "sentence": " Here she uses a black makeup and plaza around her eyes to make shadows.",
+                                "start_time": 0,
+                                "end_time": 4.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c2e",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101133757,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101133757,
+                        "file_name": "14464138772341.wav",
+                        "start_time": 83.17,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17508,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 87.77,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb00a9e6da0092c64ced1",
+                                "sentence": " She then adds purple to the black to make what looks like bruises around her eyes.",
+                                "start_time": 0.03,
+                                "end_time": 4.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c30",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101134500,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101134500,
+                        "file_name": "14464143006791.wav",
+                        "start_time": 92.721,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17512,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 97.84100000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec10668d74267abd5f992",
+                                "sentence": " Shares more black make up your eyes to touch up spots that she missed previously.",
+                                "start_time": 0.04,
+                                "end_time": 4.94
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c31",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101134702,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101134702,
+                        "file_name": "14464144229371.wav",
+                        "start_time": 99.025,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17513,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 107.20500000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 8.18,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ebf7fb961d13a92081f5c",
+                                "sentence": " Bottle of liquid latex appears on the screen, and she takes a sip of her soda. Again. She then begins to apply the liquid latex to her face.",
+                                "start_time": 0.1,
+                                "end_time": 8.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c43",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101140353,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101140353,
+                        "file_name": "14464154338891.wav",
+                        "start_time": 107.684,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17534,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 113.054,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb2a1f7856a092d5a2c4b",
+                                "sentence": " She takes tissue paper and puts it on her face and tears a hole by where her mouth is.",
+                                "start_time": 0.04,
+                                "end_time": 5.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c45",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101140452,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101140452,
+                        "file_name": "14464154929601.wav",
+                        "start_time": 114.48,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17536,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 118.57000000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec10668d74267abd5f9b4",
+                                "sentence": " She then applies liquid latex all over the tissue paper on her face.",
+                                "start_time": 0,
+                                "end_time": 3.64
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c47",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101140525,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101140525,
+                        "file_name": "14464155255881.wav",
+                        "start_time": 120.556,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17538,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 124.646,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec10568d74267abd5f968",
+                                "sentence": " She then uses a hair dryer to dry the latex on her face.",
+                                "start_time": 0,
+                                "end_time": 3.36
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c4b",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101140813,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101140813,
+                        "file_name": "14464156938581.wav",
+                        "start_time": 125.037,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17543,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 131.947,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.91,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb1234a2c03092bf2612e",
+                                "sentence": " Here she puts foundation all over the liquid latex, really blend into a natural skin color, then drives it with a hair dryer.",
+                                "start_time": 0,
+                                "end_time": 6.79
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c4c",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101140848,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101140848,
+                        "file_name": "14464157288231.wav",
+                        "start_time": 133.15,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17544,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 136.22,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb0099e6da0092c64ce60",
+                                "sentence": " She then adds more tissue paper to the bottom of her face.",
+                                "start_time": 0,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c4d",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101140922,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101140922,
+                        "file_name": "14464157621471.wav",
+                        "start_time": 139.573,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17545,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 146.223,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.65,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb7b31f5e4d3a91805a56",
+                                "sentence": " She continues to add liquid latex to the tissue paper and tears away added to give it more of a distinguished look.",
+                                "start_time": 0,
+                                "end_time": 6.43
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c4f",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101141017,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101141017,
+                        "file_name": "14464158171591.wav",
+                        "start_time": 146.532,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17547,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 152.162,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eab734a2c03092bf2610f",
+                                "sentence": " She then begins to have more colors around her face to make the skin look more decayed and dead.",
+                                "start_time": 0,
+                                "end_time": 5
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c50",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101141103,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101141103,
+                        "file_name": "14464158632251.wav",
+                        "start_time": 153.868,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17548,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 159.238,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ebf7eb961d13a92081f56",
+                                "sentence": " She then begins to tear away at the liquid latex round her face, exposing her natural skin.",
+                                "start_time": 0,
+                                "end_time": 5.32
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c51",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101141156,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101141156,
+                        "file_name": "14464159162061.wav",
+                        "start_time": 161.504,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17549,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 165.85399999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb7b31f5e4d3a91805a96",
+                                "sentence": " She adds black makeup around her lips and then takes another sip of her soda.",
+                                "start_time": 0,
+                                "end_time": 4.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c52",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101141257,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101141257,
+                        "file_name": "14464159771271.wav",
+                        "start_time": 166.899,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17550,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 174.059,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ead4cf7856a092d5a2bc9",
+                                "sentence": " Here she applies white make up ground all the black makeup on her skin, and then applies the latex mouth to her face.",
+                                "start_time": 0,
+                                "end_time": 6.71
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c53",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101141359,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101141359,
+                        "file_name": "14464160396501.wav",
+                        "start_time": 175.74,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17551,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 181.11,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb0099e6da0092c64ce6f",
+                                "sentence": " She takes the torn latex around her face to cover up all the edges. And the latex mouth.",
+                                "start_time": 0,
+                                "end_time": 5.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c54",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101141438,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101141438,
+                        "file_name": "14464160788371.wav",
+                        "start_time": 181.063,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17552,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 184.38299999999998,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb688b9b7153a905c3dd9",
+                                "sentence": " She then adds more latex to make more of a hold.",
+                                "start_time": 0,
+                                "end_time": 3.24
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c55",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101141628,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101141628,
+                        "file_name": "14464161884551.wav",
+                        "start_time": 186.076,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17553,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 193.236,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.16,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb1244a2c03092bf2614c",
+                                "sentence": " She then paints weight on the nose to give it a bony appearance on the nets blood colored paint to make the makeup look more ro test.",
+                                "start_time": 0,
+                                "end_time": 6.07
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c56",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101141706,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101141706,
+                        "file_name": "14464162260391.wav",
+                        "start_time": 198.754,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17554,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 200.804,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ead4cf7856a092d5a2bc1",
+                                "sentence": " She takes another sip of her soda.",
+                                "start_time": 0,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c57",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101141757,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101141757,
+                        "file_name": "14464162772111.wav",
+                        "start_time": 204.671,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17555,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 207.99099999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec10668d74267abd5f996",
+                                "sentence": " She continues to pay in blood all over the latex mouth.",
+                                "start_time": 0,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c58",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101141913,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101141913,
+                        "file_name": "14464163539251.wav",
+                        "start_time": 212.543,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17557,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 216.12300000000002,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb7b31f5e4d3a91805a91",
+                                "sentence": " She uses a white tool to slather blood around her mouth.",
+                                "start_time": 0.15,
+                                "end_time": 3.22
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c59",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101141953,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101141953,
+                        "file_name": "14464163929811.wav",
+                        "start_time": 220.976,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17558,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 225.066,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb00a9e6da0092c64ceb9",
+                                "sentence": " She then goes back to her eyes to touch of any spots that she missed previously.",
+                                "start_time": 0,
+                                "end_time": 4.06
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c5a",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101142113,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101142113,
+                        "file_name": "14464164733951.wav",
+                        "start_time": 223.705,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17559,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 228.305,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec34c94fd7667ac66135c",
+                                "sentence": " She's a sponge brush to apply black makeup on her forehead to create shadows.",
+                                "start_time": 0,
+                                "end_time": 4.58
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c5b",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101142152,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101142152,
+                        "file_name": "14464165124391.wav",
+                        "start_time": 230.5,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17560,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 234.59,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb0089e6da0092c64ce57",
+                                "sentence": " She then uses a fine brush to paint on veins to her forehead.",
+                                "start_time": 0.12,
+                                "end_time": 3.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c5c",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101142239,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101142239,
+                        "file_name": "14464165597411.wav",
+                        "start_time": 238.434,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17561,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 242.784,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.35,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb0099e6da0092c64ce65",
+                                "sentence": " She uses her finger and paint to touch up any spots that needed some more work.",
+                                "start_time": 0,
+                                "end_time": 4.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c5d",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101142307,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101142307,
+                        "file_name": "14464165877981.wav",
+                        "start_time": 243.23,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17562,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 248.85999999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.63,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eab734a2c03092bf26103",
+                                "sentence": " Here, she applies liquid latex to her shoulder blade, and then puts a piece of tissue paper over it.",
+                                "start_time": 0.04,
+                                "end_time": 5.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c5e",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101142328,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101142328,
+                        "file_name": "14464166086121.wav",
+                        "start_time": 250.134,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17563,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 253.974,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb1244a2c03092bf26149",
+                                "sentence": " She applies more tissue paper, more latex on Top of the tissue paper.",
+                                "start_time": 0,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c5f",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101142410,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101142410,
+                        "file_name": "14464166508781.wav",
+                        "start_time": 255.12,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17564,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 257.17,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb2a0f7856a092d5a2c30",
+                                "sentence": " Chooses a hair dryer to dry it.",
+                                "start_time": 0,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c60",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101142701,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101142701,
+                        "file_name": "14464168211511.wav",
+                        "start_time": 257.502,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17567,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 261.342,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb7b31f5e4d3a91805a69",
+                                "sentence": " She has makeup around a column on and turns away the latex on her collarbone.",
+                                "start_time": 0,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c61",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101142858,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101142858,
+                        "file_name": "14464169382941.wav",
+                        "start_time": 262.142,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17568,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 265.98199999999997,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.84,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ebf7fb961d13a92081f62",
+                                "sentence": " She breaks a plastic knife and half to make it appear as if it's a broken bone.",
+                                "start_time": 0,
+                                "end_time": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c62",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101142951,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101142951,
+                        "file_name": "14464169914761.wav",
+                        "start_time": 266.962,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17569,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 269.772,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec10668d74267abd5f9b7",
+                                "sentence": " She begins to paint inside the latex, our collarbone.",
+                                "start_time": 0,
+                                "end_time": 2.78
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c63",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101143038,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101143038,
+                        "file_name": "14464170383331.wav",
+                        "start_time": 270.403,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17570,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 275.523,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb0099e6da0092c64ce90",
+                                "sentence": " She then places the broken knife in her collarbone to make it appear as if her bone as shelling.",
+                                "start_time": 0,
+                                "end_time": 5.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c64",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101143141,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101143141,
+                        "file_name": "14464171014711.wav",
+                        "start_time": 277.425,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17571,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 281.005,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3ec10668d74267abd5f9af",
+                                "sentence": " She has makeup around the wound to make it appear more realistic.",
+                                "start_time": 0.04,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c65",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101143244,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101143244,
+                        "file_name": "14464171641451.wav",
+                        "start_time": 282.81,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17572,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 286.39,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb0099e6da0092c64ce8e",
+                                "sentence": " She has makeup to the uh the shot of recall are born to even out the effect.",
+                                "start_time": 0,
+                                "end_time": 3.4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c66",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101143317,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101143317,
+                        "file_name": "14464171978251.wav",
+                        "start_time": 287.392,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17573,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 289.952,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb00a9e6da0092c64ceab",
+                                "sentence": " She touches up the makeup around her neck.",
+                                "start_time": 0,
+                                "end_time": 2.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c67",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101143430,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101143430,
+                        "file_name": "14464172706691.wav",
+                        "start_time": 290.508,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17574,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 293.828,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb0099e6da0092c64ce63",
+                                "sentence": " She then brushes her hair to make it look more messy.",
+                                "start_time": 0,
+                                "end_time": 3.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf6746e13dfd851a4c69",
+                        "audio_description": "58e7cf3346e13dfd851a24b6",
+                        "created_at": 20151101143521,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20151101143521,
+                        "file_name": "14464173218651.wav",
+                        "start_time": 294.862,
+                        "legacy_video_id": 2279,
+                        "legacy_user_id": 2879,
+                        "label": "",
+                        "legacy_audio_clip_id": 17576,
+                        "video": "58e7cf2946e13dfd851a1cfa",
+                        "end_time": 300.742,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.88,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3346e13dfd851a24b7",
+                        "transcript": [
+                            {
+                                "_id": "5e3eb1244a2c03092bf26174",
+                                "sentence": " The video is closed the same way as over with a camera. Men walking around the house, viewing the zombies makeup.",
+                                "start_time": 0,
+                                "end_time": 5.75
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3346e13dfd851a24b8",
+                "status": "published",
+                "legacy_video_id": 2279,
+                "legacy_user_id": 2879,
+                "video": "58e7cf2946e13dfd851a1cfa",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3346e13dfd851a24b7",
+                    "name": "justin_veltre",
+                    "google_user_id_token": "",
+                    "created_at": 20151101124432,
+                    "updated_at": 20151101124705,
+                    "legacy_user_id": 2879,
+                    "last_login": 0,
+                    "email": "veltrej1@montclair.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "blod",
+            "ellinor rosander",
+            "zombi",
+            "ellimacs",
+            "Tutorial (Industry)",
+            "Makeup",
+            "how to",
+            "moviemagic",
+            "Hair",
+            "FX",
+            "latex",
+            "Eye",
+            "makeup artist",
+            "sweden",
+            "halloween",
+            "effekter",
+            "sminkskola",
+            "blood",
+            "Kimmo Vehkalahti",
+            "macs moser",
+            "gory",
+            "guide",
+            "h\u00e5rstyling",
+            "lips",
+            "steg f\u00f6r steg",
+            "beautie",
+            "s\u00e5 g\u00f6r du",
+            "Popular",
+            "look",
+            "model",
+            "Ice",
+            "zombie",
+            "Cosmetics (Industry)",
+            "scary",
+            "skr\u00e4ck",
+            "special effects",
+            "smink",
+            "makeupartist",
+            "step-by-step",
+            "horror",
+            "stylist",
+            "styleguide",
+            "nasty",
+            "style"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1cfa",
+        "description": "",
+        "youtube_id": "CN8899eqays",
+        "views": 0,
+        "created_at": 20151101131200,
+        "title": "Gory halloween zombie makeup tutorial",
+        "legacy_video_id": 2279,
+        "updated_at": 20151101143525,
+        "youtube_status": "available",
+        "category": "Howto & Style",
+        "category_id": "26",
+        "duration": 312
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf6146e13dfd851a479a",
+                        "audio_description": "58e7cf3046e13dfd851a23ba",
+                        "created_at": 20150916183833,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150916183833,
+                        "file_name": "14424539138331.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2185,
+                        "legacy_user_id": 2625,
+                        "label": "",
+                        "legacy_audio_clip_id": 15667,
+                        "video": "58e7cf2946e13dfd851a1c9c",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 12.53,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3046e13dfd851a2331",
+                        "transcript": [
+                            {
+                                "_id": "5e3ac151d8af910da52dfd37",
+                                "sentence": " A young female student wearing blue sits in front of a tactile calendar, and adult female sits next to her and guides her right hand over the tactile symbols for each day of the week.",
+                                "start_time": 0.12,
+                                "end_time": 12.5
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3046e13dfd851a23ba",
+                "status": "published",
+                "legacy_video_id": 2185,
+                "legacy_user_id": 2625,
+                "video": "58e7cf2946e13dfd851a1c9c",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3046e13dfd851a2331",
+                    "name": "jcpeters",
+                    "google_user_id_token": "",
+                    "created_at": 20150424091502,
+                    "updated_at": 20160225180930,
+                    "legacy_user_id": 2625,
+                    "last_login": 0,
+                    "email": "joshuacpeters@gmail.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1c9c",
+        "description": "",
+        "youtube_id": "pYekAIt9wW8",
+        "views": 0,
+        "created_at": 20150916183755,
+        "title": "MONA SONG",
+        "legacy_video_id": 2185,
+        "updated_at": 20150916183833,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 40
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5e67e5c133691c1be3b10053",
+                        "video": "5e6652624ab7702731c5897b",
+                        "audio_description": "5e6652624ab7702731c5897a",
+                        "user": "5e65bf1f4ab7702731c58977",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 24.746666666666666,
+                        "duration": 24.746666666666666,
+                        "file_name": "C7uAB94aRrQ_5e67e5c133691c1be3b10053.wav",
+                        "file_size_bytes": 4751404,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/C7uAB94aRrQ",
+                        "created_at": 20200310190849,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5e6652624ab7702731c5897a",
+                "video": "5e6652624ab7702731c5897b",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e65bf1f4ab7702731c58977",
+                    "email": "tighes1999@gmail.com",
+                    "name": "Garrett Stosiek",
+                    "given_name": "Garrett",
+                    "picture": "https://lh4.googleusercontent.com/-3wEojPQeLVM/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nB66BM4exYsxbPUhXF3U95rRFfB-A/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "107995859739680683452",
+                    "last_login": 20200314110617,
+                    "token": "6b1a1a18cab439d435b6504d7e2ac25f1e9f614f1479a9de25b193b9da632ed8",
+                    "__v": 0,
+                    "updated_at": 20200314110617,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200309142746,
+                "updated_at": 20200311164759,
+                "notes": "THere is a green subaru driving down the highway driven by a golden retriever.\n\nthey pass an 18 wheeler also driven by a dog and the puppy in the subaru gets the truck to honk his horn as they pass. the shot switches between the truck and the subaru.\n\nThe subaru drives away.",
+                "__v": 0,
+                "overall_rating_average": 5,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 5,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5e6652624ab7702731c5897b",
+        "title": "Subaru Dog Tested I Subaru Commercial I Honk",
+        "description": "Dreams come true when Baby Barkley catches the attention of a big rig on the family road trip in the Subaru Forester\u00ae. To see more Dog tested. Dog approved\u00ae. commercials featuring the Barkleys, visit Subaru.com/pets.",
+        "youtube_id": "C7uAB94aRrQ",
+        "created_at": 20200309142746,
+        "updated_at": 20200310190849,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Autos & Vehicles",
+        "category_id": "2",
+        "duration": 31
+    }
+}

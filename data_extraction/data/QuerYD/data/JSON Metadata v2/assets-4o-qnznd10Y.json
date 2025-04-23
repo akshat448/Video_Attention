@@ -1,0 +1,171 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5aaaaa915273b144ba78d975",
+                        "video": "5aaaaa915273b144ba78d977",
+                        "audio_description": "5aaaaa915273b144ba78d976",
+                        "user": "5aaa99c95273b144ba78d957",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 59.09804878256226,
+                        "end_time": 59.09804878256226,
+                        "duration": 5.38702947845805,
+                        "file_name": "4o-qnznd10Y_5aaaaa915273b144ba78d975.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4o-qnznd10Y",
+                        "created_at": 20180315171705,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1895df3ffd80557d850cdf",
+                                "sentence": " What does this have to do with racial justice?",
+                                "start_time": 1.53,
+                                "end_time": 4.81
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aaaaabe5273b144ba78d978",
+                        "video": "5aaaaa915273b144ba78d977",
+                        "audio_description": "5aaaaa915273b144ba78d976",
+                        "user": "5aaa99c95273b144ba78d957",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 90.49739416593933,
+                        "end_time": 90.49739416593933,
+                        "duration": 6.315827664399093,
+                        "file_name": "4o-qnznd10Y_5aaaaabe5273b144ba78d978.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4o-qnznd10Y",
+                        "created_at": 20180315171750,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e189842e6b8aa6db98ab381",
+                                "sentence": " Have there been times when people neglect it to acknowledge all of your identities?",
+                                "start_time": 1.28,
+                                "end_time": 5.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aaaab0c5273b144ba78d979",
+                        "video": "5aaaaa915273b144ba78d977",
+                        "audio_description": "5aaaaa915273b144ba78d976",
+                        "user": "5aaa99c95273b144ba78d957",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 142.855832,
+                        "end_time": 142.855832,
+                        "duration": 4.922630385487528,
+                        "file_name": "4o-qnznd10Y_5aaaab0c5273b144ba78d979.wav",
+                        "file_size_bytes": 868396,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4o-qnznd10Y",
+                        "created_at": 20180315171908,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e1894e4efa6d6557a270ef7",
+                                "sentence": " What about people who think talking about our differences divides us?",
+                                "start_time": 0.55,
+                                "end_time": 4.8
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5aaade525273b144ba78d9aa",
+                        "video": "5aaaaa915273b144ba78d977",
+                        "audio_description": "5aaaaa915273b144ba78d976",
+                        "user": "5aaa99c95273b144ba78d957",
+                        "label": "",
+                        "playback_type": "inline",
+                        "start_time": 2.578873843597412,
+                        "end_time": 6.108306950173375,
+                        "duration": 3.5294331065759637,
+                        "file_name": "4o-qnznd10Y_5aaade525273b144ba78d9aa.wav",
+                        "file_size_bytes": 622636,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/4o-qnznd10Y",
+                        "created_at": 20180315205754,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e18964ab8e766557cda6818",
+                                "sentence": " Jimmy's name and credentials appear on the screen.",
+                                "start_time": 0.36,
+                                "end_time": 3.49
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5aaaaa915273b144ba78d976",
+                "video": "5aaaaa915273b144ba78d977",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5aaa99c95273b144ba78d957",
+                    "email": "rellison@pacific.edu",
+                    "name": "Rahsaan Ellison",
+                    "given_name": "Rahsaan",
+                    "picture": "https://lh5.googleusercontent.com/-GAgJ9QyvKJk/AAAAAAAAAAI/AAAAAAAAAAA/AGi4gfzAoWJeA7e0yxBfadfangp346_WAA/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "117396772910795372218",
+                    "last_login": 20180315160529,
+                    "token": "c2ddd406264e7af45779b1c868294529ae8879589132d21a29b0234c4440a3b1",
+                    "__v": 0,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180315171705,
+                "updated_at": 20180322193027,
+                "notes": "",
+                "__v": 0,
+                "overall_rating_average": 3,
+                "overall_rating_votes_counter": 1,
+                "overall_rating_votes_sum": 3,
+                "admin_review": "",
+                "feedbacks": {
+                    "1": 1,
+                    "2": 1,
+                    "5": 1
+                }
+            }
+        ],
+        "tags": [
+            "race forward",
+            "applied research center",
+            "rinku sen",
+            "race",
+            "racial justice",
+            "justice",
+            "racial equity",
+            "media",
+            "Facing Race",
+            "research",
+            "colorlines"
+        ],
+        "custom_tags": [],
+        "_id": "5aaaaa915273b144ba78d977",
+        "title": "#RaceAnd: Jamia Wilson",
+        "description": "#RaceAnd is a video series exploring the ways that race compounds and intersects with all the other issues faced by people of color. Each video features a different artist, activist, or thinker, sharing their lived experience of how race intertwines with their other identities, and how that mix impacts their lives both personally and systemically. Learn more by visiting www.raceforward.org/videos/RaceAnd\r\n\r\nABOUT JAMIA WILSON\r\nWhether its through her activism or writing, Jamia leads through an intersectional lens because she believes that  \r\n\"There's a problem when we're not actually understanding that the liberation of all people makes us all free.\"  \r\n\r\nTo learn more about Jamia visit www.jamiawilson.com and follow her at @jamiaw. To learn more about WAM! visit hwww.womenactionmedia.org \r\n\r\nDirected & Edited by Kat Lazo\r\n____________________________________________________________________________________________\r\n\r\nRace Forward advances racial justice through research, media and practice. Founded in 1981, Race Forward brings systematic analysis and an innovative approach to complex race issues to help people take effective action toward racial equity. Race Forward publishes the daily news site Colorlines and presents Facing Race, the country\u2019s largest multiracial conference on racial justice.\r\n\r\n\r\nTwitter: https://twitter.com/RaceForward\r\nFacebook: www.facebook.com/RaceForward\r\n\r\nwww.raceforward.org",
+        "youtube_id": "4o-qnznd10Y",
+        "created_at": 20180315171705,
+        "updated_at": 20180315205754,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "News & Politics",
+        "category_id": "25",
+        "duration": 198
+    }
+}

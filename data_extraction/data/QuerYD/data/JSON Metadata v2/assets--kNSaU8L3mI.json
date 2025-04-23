@@ -1,0 +1,128 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5aa9",
+                        "audio_description": "58e7cf3646e13dfd851a2647",
+                        "created_at": 20160728142216,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160728142216,
+                        "file_name": "14697409366801.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 2636,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23741,
+                        "video": "58e7cf2946e13dfd851a1e5f",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 14.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44223b79f74cbc7c082c85",
+                                "sentence": " Barbara miles, a woman with grain hair and light skin, is wearing a light blue sweater,",
+                                "start_time": 0.47,
+                                "end_time": 6
+                            },
+                            {
+                                "_id": "5e44223b79f74cbc7c082c84",
+                                "sentence": " blue shirt, and long silver necklace.",
+                                "start_time": 6,
+                                "end_time": 8.76
+                            },
+                            {
+                                "_id": "5e44223b79f74cbc7c082c83",
+                                "sentence": " Barbara is sitting outside at a picnic table, a tree and river directly behind her.",
+                                "start_time": 8.8,
+                                "end_time": 13.7
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf7a46e13dfd851a5aaa",
+                        "audio_description": "58e7cf3646e13dfd851a2647",
+                        "created_at": 20160728142303,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160728142303,
+                        "file_name": "14697409838981.wav",
+                        "start_time": 4.574,
+                        "legacy_video_id": 2636,
+                        "legacy_user_id": 3125,
+                        "label": "",
+                        "legacy_audio_clip_id": 23742,
+                        "video": "58e7cf2946e13dfd851a1e5f",
+                        "end_time": 4.574,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 9.21,
+                        "file_path": "/legacy",
+                        "user": "58e7cf3646e13dfd851a2637",
+                        "transcript": [
+                            {
+                                "_id": "5e44288dc26fa0bc796fd50f",
+                                "sentence": " Barbara grabs a red cup from her right and puts it on the table in front of her.",
+                                "start_time": 0.23,
+                                "end_time": 4.47
+                            },
+                            {
+                                "_id": "5e44288dc26fa0bc796fd50e",
+                                "sentence": " She then runs her fingers around the rim of the red cup with her eyes closed.",
+                                "start_time": 4.52,
+                                "end_time": 8.83
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf3646e13dfd851a2647",
+                "status": "published",
+                "legacy_video_id": 2636,
+                "legacy_user_id": 3125,
+                "video": "58e7cf2946e13dfd851a1e5f",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf3646e13dfd851a2637",
+                    "name": "Jhogan13",
+                    "google_user_id_token": "",
+                    "created_at": 20160504150811,
+                    "updated_at": 20160817114117,
+                    "legacy_user_id": 3125,
+                    "last_login": 0,
+                    "email": "Jhogan13@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Barbara Miles"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1e5f",
+        "description": "",
+        "youtube_id": "-kNSaU8L3mI",
+        "views": 0,
+        "created_at": 20160728142145,
+        "title": "Barbara Miles: Joint Tactile Attention - Touch 2",
+        "legacy_video_id": 2636,
+        "updated_at": 20160728142354,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 56
+    }
+}

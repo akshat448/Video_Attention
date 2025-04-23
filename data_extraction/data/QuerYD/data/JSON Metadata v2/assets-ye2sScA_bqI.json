@@ -1,0 +1,128 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5ce1432fcea0571c3785c5b1",
+                        "video": "5ce13e0dcea0571c3785c5b0",
+                        "audio_description": "5ce13e0dcea0571c3785c5af",
+                        "user": "5ce13c2fabc2b679a39ddaf8",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 3.442871,
+                        "end_time": 3.442871,
+                        "duration": 7.850666666666666,
+                        "file_name": "ye2sScA_bqI_5ce1432fcea0571c3785c5b1.wav",
+                        "file_size_bytes": 1507372,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ye2sScA_bqI",
+                        "created_at": 20190519115111,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e55821b43a659c66dd36dea",
+                                "sentence": " Images and short videos are being shown on the screen of the public transports being mentioned.",
+                                "start_time": 1.19,
+                                "end_time": 7.63
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ce1435eabc2b679a39ddaf9",
+                        "video": "5ce13e0dcea0571c3785c5b0",
+                        "audio_description": "5ce13e0dcea0571c3785c5af",
+                        "user": "5ce13c2fabc2b679a39ddaf8",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 40.399474,
+                        "end_time": 40.399474,
+                        "duration": 5.376,
+                        "file_name": "ye2sScA_bqI_5ce1435eabc2b679a39ddaf9.wav",
+                        "file_size_bytes": 1032236,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ye2sScA_bqI",
+                        "created_at": 20190519115158,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51a43a2972a33b4413f1ce",
+                                "sentence": " Protagonist is mentioned, which is bus.",
+                                "start_time": 0.5,
+                                "end_time": 4.16
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5ce14387abc2b679a39ddafa",
+                        "video": "5ce13e0dcea0571c3785c5b0",
+                        "audio_description": "5ce13e0dcea0571c3785c5af",
+                        "user": "5ce13c2fabc2b679a39ddaf8",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 50.42717,
+                        "end_time": 50.42717,
+                        "duration": 5.802666666666667,
+                        "file_name": "ye2sScA_bqI_5ce14387abc2b679a39ddafa.wav",
+                        "file_size_bytes": 1114156,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ye2sScA_bqI",
+                        "created_at": 20190519115239,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e5195950a396d3b41d13fc9",
+                                "sentence": " Accessible bus travel for disabled people in sydney is being show.",
+                                "start_time": 0.61,
+                                "end_time": 5.76
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5ce13e0dcea0571c3785c5af",
+                "video": "5ce13e0dcea0571c3785c5b0",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5ce13c2fabc2b679a39ddaf8",
+                    "email": "1282100734@qq.com",
+                    "name": "\u90d1\u742c\u5a77",
+                    "given_name": "\u742c\u5a77",
+                    "picture": "https://lh4.googleusercontent.com/-ZPMWFR9GwWM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re9j6XXsuvyiSOt2_A2Kdn2gBixkw/s96-c/photo.jpg",
+                    "locale": "zh-CN",
+                    "google_user_id": "101598119036565588610",
+                    "last_login": 20190519131327,
+                    "token": "045d661d52c6bee2db587c8db361daa1ae27f820f8bdfbf20ec6450a80e9d61d",
+                    "__v": 0,
+                    "updated_at": 20190519131327,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-au",
+                "created_at": 20190519112917,
+                "updated_at": 20190519112917,
+                "notes": "0.03 images and short videos are being shown on the screen of the public transports being mentioned\n\n0.4 protagonist is mentioned which is bus\n\n0.5 accessible bus travel for disabled people in Sydney is being shown",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5ce13e0dcea0571c3785c5b0",
+        "title": "disabled people and Sydney bus",
+        "description": "",
+        "youtube_id": "ye2sScA_bqI",
+        "created_at": 20190519112917,
+        "updated_at": 20190519115239,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 138
+    }
+}

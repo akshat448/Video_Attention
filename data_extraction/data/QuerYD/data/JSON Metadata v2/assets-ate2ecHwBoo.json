@@ -1,0 +1,99 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5d7fe17315c8ca3ccf56d70e",
+                        "video": "5d7fde6a8302113cc4be504e",
+                        "audio_description": "5d7fde6a8302113cc4be504d",
+                        "user": "5d7bb7fc15c8ca3ccf56d6c3",
+                        "label": "Equine",
+                        "playback_type": "inline",
+                        "start_time": 0,
+                        "end_time": 26.282666666666668,
+                        "duration": 26.282666666666668,
+                        "file_name": "ate2ecHwBoo_5d7fe17315c8ca3ccf56d70e.wav",
+                        "file_size_bytes": 5046316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/ate2ecHwBoo",
+                        "created_at": 20190916192435,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e51952e9a8b1f3b4208122a",
+                                "sentence": " Student walks force around a ring at x rate sequin studies. This program puts you on the path to working with horses as a career",
+                                "start_time": 0.92,
+                                "end_time": 7.11
+                            },
+                            {
+                                "_id": "5e51952e9a8b1f3b42081229",
+                                "sentence": " students watch a course walk past tax rates careers. This program prepares students for a career in the horse industry,",
+                                "start_time": 7.3,
+                                "end_time": 13.03
+                            },
+                            {
+                                "_id": "5e51952e9a8b1f3b42081228",
+                                "sentence": " racing horses as the jockey being a horseman, a racing official, only a few options sternly. The horse tax rates link the program are no soucy degree in only 16 months or certificate in as little as format",
+                                "start_time": 13.03,
+                                "end_time": 23.12
+                            },
+                            {
+                                "_id": "5e51952e9a8b1f3b42081227",
+                                "sentence": " students dance with the horse text rates. You've got this.",
+                                "start_time": 23.12,
+                                "end_time": 26.07
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5d7fde6a8302113cc4be504d",
+                "video": "5d7fde6a8302113cc4be504e",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5d7bb7fc15c8ca3ccf56d6c3",
+                    "email": "kctcsdigital@gmail.com",
+                    "name": "Digital Communications",
+                    "given_name": "Digital",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mAK3L7HQckS5RUdGRbKgWud8CkbLZhFYAmWZv2u=s96-c",
+                    "locale": "en",
+                    "google_user_id": "107558107025765879347",
+                    "last_login": 20200604135620,
+                    "token": "80658887d2eae3e360303c471a5edd56f1d919c41f57bf5ac56dd2c275d0cd59",
+                    "__v": 0,
+                    "updated_at": 20200604135620,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20190916191138,
+                "updated_at": 20190916191138,
+                "notes": "Student walks horse around arena\r\nText reads:\r\nEquine Studies\r\nThis program puts you on the path to working with horses as a career. \r\n\r\nStudents watch a horse walk past\r\nText reads:\r\nCareers \r\nThis program prepares students for a career in the horse industry. \r\nRacing horses as a jockey, being a horseman or racing offical are only a few options. \r\n\r\nA student leads a horse\r\nText reads:\r\nLength of program\r\nEarn an associate degree in only 16 months or certificate in as little as 4 months. \r\n\r\nA student stands with a horse. \r\nText reads:\r\nYou've got this!",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "Equine Studies",
+            "kctcs"
+        ],
+        "custom_tags": [],
+        "_id": "5d7fde6a8302113cc4be504e",
+        "title": "Equine Studies",
+        "description": "Information on the Equine Studies program.",
+        "youtube_id": "ate2ecHwBoo",
+        "created_at": 20190916191138,
+        "updated_at": 20190916192435,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 31
+    }
+}

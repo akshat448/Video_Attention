@@ -1,0 +1,104 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf7d46e13dfd851a5c94",
+                        "audio_description": "58e7cf2d46e13dfd851a21f4",
+                        "created_at": 20160928172603,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20160928172603,
+                        "file_name": "14751087637461.wav",
+                        "start_time": 7.246,
+                        "legacy_video_id": 2719,
+                        "legacy_user_id": 2298,
+                        "label": "",
+                        "legacy_audio_clip_id": 24411,
+                        "video": "58e7cf2946e13dfd851a1eb2",
+                        "end_time": 7.246,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 28.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2d46e13dfd851a21f0",
+                        "transcript": [
+                            {
+                                "_id": "5e45bb25a3885227afb5cdd2",
+                                "sentence": " A student sits in a classroom behind arrays desk in a chair created from final strap supports,",
+                                "start_time": 0.48,
+                                "end_time": 7.67
+                            },
+                            {
+                                "_id": "5e45bb25a3885227afb5cdd1",
+                                "sentence": " while an adult stands in front of the desk facing the student,",
+                                "start_time": 7.84,
+                                "end_time": 12.18
+                            },
+                            {
+                                "_id": "5e45bb25a3885227afb5cdd0",
+                                "sentence": " the student taps and slaps her desk rhythmically, while the adult imitates",
+                                "start_time": 12.31,
+                                "end_time": 18.23
+                            },
+                            {
+                                "_id": "5e45bb25a3885227afb5cdcf",
+                                "sentence": " the students miles, and then the adult smiles.",
+                                "start_time": 18.23,
+                                "end_time": 21.84
+                            },
+                            {
+                                "_id": "5e45bb25a3885227afb5cdce",
+                                "sentence": " The student appears to listen to the adult pausing and slapping intern.",
+                                "start_time": 21.93,
+                                "end_time": 28.05
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2d46e13dfd851a21f4",
+                "status": "published",
+                "legacy_video_id": 2719,
+                "legacy_user_id": 2298,
+                "video": "58e7cf2946e13dfd851a1eb2",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2d46e13dfd851a21f0",
+                    "name": "parkera",
+                    "google_user_id_token": "",
+                    "created_at": 20140626172125,
+                    "updated_at": 20160929202638,
+                    "legacy_user_id": 2298,
+                    "last_login": 0,
+                    "email": "parkera@wou.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2946e13dfd851a1eb2",
+        "description": "",
+        "youtube_id": "QXrjv92DqEc",
+        "views": 0,
+        "created_at": 20160928172142,
+        "title": "Establishing Trust - Stephanie, Touch 2",
+        "legacy_video_id": 2719,
+        "updated_at": 20160928172603,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 175
+    }
+}

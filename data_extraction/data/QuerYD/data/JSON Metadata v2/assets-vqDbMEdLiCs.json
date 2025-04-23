@@ -1,0 +1,178 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5b57848c64badc79e2b1b278",
+                        "video": "5b5781e964badc79e2b1b275",
+                        "audio_description": "5b5781e964badc79e2b1b274",
+                        "user": "5b511ee391f5873e31fae67b",
+                        "label": "title intro",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 10.402539682539683,
+                        "file_name": "vqDbMEdLiCs_5b57848c64badc79e2b1b278.wav",
+                        "file_size_bytes": 1835052,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vqDbMEdLiCs",
+                        "created_at": 20180724195700,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc225da4a9499b12036fe",
+                                "sentence": " Misconceptions about temperature.",
+                                "start_time": 0.51,
+                                "end_time": 2.91
+                            },
+                            {
+                                "_id": "5e4cc225da4a9499b12036fd",
+                                "sentence": " A scientist is an an outdoor festival. As people pass by. He asked them to participate in his experiment.",
+                                "start_time": 3.44,
+                                "end_time": 10.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b578549175ff377eb7c910a",
+                        "video": "5b5781e964badc79e2b1b275",
+                        "audio_description": "5b5781e964badc79e2b1b274",
+                        "user": "5b511ee391f5873e31fae67b",
+                        "label": "hard drive and book",
+                        "playback_type": "extended",
+                        "start_time": 10.270926,
+                        "end_time": 10.270926,
+                        "duration": 9.195102040816327,
+                        "file_name": "vqDbMEdLiCs_5b578549175ff377eb7c910a.wav",
+                        "file_size_bytes": 1622060,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vqDbMEdLiCs",
+                        "created_at": 20180724200009,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4dd1cb1703f62f116f74a3",
+                                "sentence": " The metal hard drive is a thin square box. The book is a paperback.",
+                                "start_time": 0.44,
+                                "end_time": 5.12
+                            },
+                            {
+                                "_id": "5e4dd1cb1703f62f116f74a2",
+                                "sentence": " He holds one in each hand.",
+                                "start_time": 5.12,
+                                "end_time": 7.47
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b5785da64badc79e2b1b27a",
+                        "video": "5b5781e964badc79e2b1b275",
+                        "audio_description": "5b5781e964badc79e2b1b274",
+                        "user": "5b511ee391f5873e31fae67b",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 25.967813999999997,
+                        "end_time": 25.967813999999997,
+                        "duration": 6.03718820861678,
+                        "file_name": "vqDbMEdLiCs_5b5785da64badc79e2b1b27a.wav",
+                        "file_size_bytes": 1065004,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vqDbMEdLiCs",
+                        "created_at": 20180724200234,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cc225da4a9499b120370b",
+                                "sentence": " They think the hard drive is colder than the book. And the book is warmer than the hard drive.",
+                                "start_time": 0.44,
+                                "end_time": 5.67
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "5b578dfb64badc79e2b1b27b",
+                        "video": "5b5781e964badc79e2b1b275",
+                        "audio_description": "5b5781e964badc79e2b1b274",
+                        "user": "5b511ee391f5873e31fae67b",
+                        "label": "aluminum",
+                        "playback_type": "extended",
+                        "start_time": 99.709703,
+                        "end_time": 99.709703,
+                        "duration": 5.38702947845805,
+                        "file_name": "vqDbMEdLiCs_5b578dfb64badc79e2b1b27b.wav",
+                        "file_size_bytes": 950316,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/vqDbMEdLiCs",
+                        "created_at": 20180724203715,
+                        "__v": 0,
+                        "transcript": [
+                            {
+                                "_id": "5e4cb7afafed6d97588d2cc7",
+                                "sentence": " Aluminium is a way of pronouncing aluminum.",
+                                "start_time": 0.52,
+                                "end_time": 4.37
+                            }
+                        ]
+                    }
+                ],
+                "_id": "5b5781e964badc79e2b1b274",
+                "video": "5b5781e964badc79e2b1b275",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5b511ee391f5873e31fae67b",
+                    "email": "linda_frankemolle@greenwich.k12.ct.us",
+                    "name": "Linda Frankemolle",
+                    "given_name": "Linda",
+                    "picture": "https://lh6.googleusercontent.com/-8vhx69PmLPU/AAAAAAAAAAI/AAAAAAAAAAg/1ZvMgkOCGP8/s96-c/photo.jpg",
+                    "locale": "en",
+                    "google_user_id": "115907946921325981152",
+                    "last_login": 20190507172104,
+                    "token": "5529d54fe93825fc03aba3ce28ecfedc0d0aef9e69d8d2b436c36382eb7755d0",
+                    "__v": 0,
+                    "updated_at": 20190507172104,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20180724194545,
+                "updated_at": 20180724194545,
+                "notes": "",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "temperature",
+            "thermal",
+            "conductivity",
+            "heat",
+            "hot",
+            "cold",
+            "misconceptions",
+            "feel",
+            "experiment",
+            "veritasium",
+            "thermometer",
+            "warm"
+        ],
+        "custom_tags": [],
+        "_id": "5b5781e964badc79e2b1b275",
+        "title": "Misconceptions About Temperature",
+        "description": "Made for ABC TV Catalyst http://www.abc.net.au/catalyst/ as an extended version of my Comparing Temperatures video: http://www.youtube.com/watch?v=hNGJ0WHXMyE",
+        "youtube_id": "vqDbMEdLiCs",
+        "created_at": 20180724194545,
+        "updated_at": 20180724203715,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 239
+    }
+}

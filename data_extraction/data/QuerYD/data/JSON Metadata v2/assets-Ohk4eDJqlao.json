@@ -1,0 +1,115 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf3f46e13dfd851a2a4a",
+                        "audio_description": "58e7cf2b46e13dfd851a20e2",
+                        "created_at": 20130903172800,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130903172800,
+                        "file_name": "Ohk4eDJqlao-88-1-0-4-0.wav",
+                        "start_time": 4,
+                        "legacy_video_id": 1300,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 3744,
+                        "video": "58e7cf2846e13dfd851a1935",
+                        "end_time": 4,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 7.67,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1c780972a838bee59c94c8",
+                                "sentence": " At the 2012 braille Challenge awards, banquet student kimberly ocampo shared some reflections.",
+                                "start_time": 0,
+                                "end_time": 7.49
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf3f46e13dfd851a2a53",
+                        "audio_description": "58e7cf2b46e13dfd851a20e2",
+                        "created_at": 20130910164629,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20130910164629,
+                        "file_name": "Ohk4eDJqlao-88-1-0-422-0.wav",
+                        "start_time": 422,
+                        "legacy_video_id": 1300,
+                        "legacy_user_id": 88,
+                        "label": "",
+                        "legacy_audio_clip_id": 3796,
+                        "video": "58e7cf2846e13dfd851a1935",
+                        "end_time": 422,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 13.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2b46e13dfd851a20d1",
+                        "transcript": [
+                            {
+                                "_id": "5e1b10967908e221df45be0a",
+                                "sentence": " The braille Challenge, a national program of braille institute. For more Information, call one 800 braille, or visit us online at braille institute dot org.",
+                                "start_time": 0,
+                                "end_time": 13.44
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2b46e13dfd851a20e2",
+                "status": "published",
+                "legacy_video_id": 1300,
+                "legacy_user_id": 88,
+                "video": "58e7cf2846e13dfd851a1935",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2b46e13dfd851a20d1",
+                    "name": "jimhull",
+                    "google_user_id_token": "",
+                    "created_at": 20130918144848,
+                    "updated_at": 20151217172851,
+                    "legacy_user_id": 88,
+                    "last_login": 0,
+                    "email": "jimhull@jimhull.com",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "2012",
+            "Braille Challenge",
+            "monologue",
+            "blind",
+            "visually impaired",
+            "braille institute"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1935",
+        "description": "",
+        "youtube_id": "Ohk4eDJqlao",
+        "views": 0,
+        "created_at": 20130903172403,
+        "title": "2012 Braille Challenge Monologue: Kimberly O'Campo",
+        "legacy_video_id": 1300,
+        "updated_at": 20130910164629,
+        "youtube_status": "available",
+        "category": "Nonprofits & Activism",
+        "category_id": "29",
+        "duration": 423
+    }
+}

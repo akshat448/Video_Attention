@@ -1,0 +1,164 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4e46e13dfd851a399b",
+                        "audio_description": "58e7cf2e46e13dfd851a2264",
+                        "created_at": 20150210055641,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150210055641,
+                        "file_name": "14235766014401.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1802,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11103,
+                        "video": "58e7cf2846e13dfd851a1b1d",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e219e6ad68db54873c32d89",
+                                "sentence": " Video is 10 minutes, 29 seconds.",
+                                "start_time": 0,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4e46e13dfd851a399c",
+                        "audio_description": "58e7cf2e46e13dfd851a2264",
+                        "created_at": 20150210055918,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150210055918,
+                        "file_name": "14235767589591.wav",
+                        "start_time": 16.265,
+                        "legacy_video_id": 1802,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11104,
+                        "video": "58e7cf2846e13dfd851a1b1d",
+                        "end_time": 16.265,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.39,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e253b8e718bf9db1e390a51",
+                                "sentence": " This chart shows the percentage is that each economic sector takes up in various countries.",
+                                "start_time": 0.27,
+                                "end_time": 6.11
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4e46e13dfd851a399d",
+                        "audio_description": "58e7cf2e46e13dfd851a2264",
+                        "created_at": 20150210060345,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150210060345,
+                        "file_name": "14235770256001.wav",
+                        "start_time": 283.145,
+                        "legacy_video_id": 1802,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11105,
+                        "video": "58e7cf2846e13dfd851a1b1d",
+                        "end_time": 283.145,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 10.23,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e253c986ae38cdb1c08f4ad",
+                                "sentence": " Bar graph showing the commodity structure of exports in hong kong, Singapore, south Korea, and Taiwan from 1965 to 1999.",
+                                "start_time": 0.23,
+                                "end_time": 10.2
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4e46e13dfd851a399e",
+                        "audio_description": "58e7cf2e46e13dfd851a2264",
+                        "created_at": 20150210060540,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20150210060540,
+                        "file_name": "14235771401521.wav",
+                        "start_time": 494.244,
+                        "legacy_video_id": 1802,
+                        "legacy_user_id": 2415,
+                        "label": "",
+                        "legacy_audio_clip_id": 11106,
+                        "video": "58e7cf2846e13dfd851a1b1d",
+                        "end_time": 494.244,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2e46e13dfd851a2256",
+                        "transcript": [
+                            {
+                                "_id": "5e253b8d718bf9db1e390a31",
+                                "sentence": " Two men on a tractor farming.",
+                                "start_time": 0.03,
+                                "end_time": 2.88
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2e46e13dfd851a2264",
+                "status": "published",
+                "legacy_video_id": 1802,
+                "legacy_user_id": 2415,
+                "video": "58e7cf2846e13dfd851a1b1d",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2e46e13dfd851a2256",
+                    "name": "@DescribeVT",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2415,
+                    "last_login": 0,
+                    "email": "braille@vt.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1b1d",
+        "description": "",
+        "youtube_id": "ZDbIrFa07Gs",
+        "views": 0,
+        "created_at": 20150210055458,
+        "title": "World Economics - 3.2 Economic Sector Smackdown",
+        "legacy_video_id": 1802,
+        "updated_at": 20150210060547,
+        "youtube_status": "available",
+        "category": "Education",
+        "category_id": "27",
+        "duration": 629
+    }
+}

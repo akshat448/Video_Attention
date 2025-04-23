@@ -1,0 +1,671 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36b1",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201210848,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201210848,
+                        "file_name": "14174969285421.wav",
+                        "start_time": 0,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 9995,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 0,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21969c63d3c80d19f0d19c",
+                                "sentence": " Thor wald speaks from the darkness.",
+                                "start_time": 0.4,
+                                "end_time": 2.93
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36b2",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201211117,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201211117,
+                        "file_name": "14174970774271.wav",
+                        "start_time": 3.995,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 9997,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 6.805,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.81,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21969f63d3c80d19f0d1be",
+                                "sentence": " Jeff said silently by the window.",
+                                "start_time": 0.22,
+                                "end_time": 2.6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36b3",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201211521,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201211521,
+                        "file_name": "14174973214281.wav",
+                        "start_time": 38.934,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 9998,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 42.254,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21969e63d3c80d19f0d1bc",
+                                "sentence": " Thor world moves towards jeff, who fumbles with his camera flash.",
+                                "start_time": 0.06,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36b4",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201211804,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201211804,
+                        "file_name": "14174974849101.wav",
+                        "start_time": 44.466,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 9999,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 47.786,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.32,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21969c63d3c80d19f0d193",
+                                "sentence": " The flash goes off and thaw. Wild is temporarily blinded.",
+                                "start_time": 0.03,
+                                "end_time": 3.3
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36b5",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201213030,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201213030,
+                        "file_name": "14174982307061.wav",
+                        "start_time": 50.125,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10000,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 50.125,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 6.14,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21930ba294340d18b4c4b2",
+                                "sentence": " He changes bulbs as thor world starts towards him again and covers his eyes before using the flash a second time.",
+                                "start_time": 0,
+                                "end_time": 6
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36b6",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201213525,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201213525,
+                        "file_name": "14174985254161.wav",
+                        "start_time": 54.79,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10001,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 60.16,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.37,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e2198ea3da6cb2e74f83e13",
+                                "sentence": " Again, thor world is blinded. Jeff changes bulbs while looking over his shoulder for help.",
+                                "start_time": 0.16,
+                                "end_time": 5.12
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36b7",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201213703,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201213703,
+                        "file_name": "14174986238451.wav",
+                        "start_time": 66.316,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10002,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 68.876,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.56,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21969d63d3c80d19f0d1b1",
+                                "sentence": " He uses the flash of final time.",
+                                "start_time": 0.03,
+                                "end_time": 2.48
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36b8",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201214301,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201214301,
+                        "file_name": "14174989816721.wav",
+                        "start_time": 75.362,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10003,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 75.362,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.86,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21969c63d3c80d19f0d188",
+                                "sentence": " Through the window. He sees that lease. And the police have arrived at thor world's apartment.",
+                                "start_time": 0.16,
+                                "end_time": 4.72
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36b9",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201214851,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201214851,
+                        "file_name": "14174993312141.wav",
+                        "start_time": 77.855,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10004,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 81.94500000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21969c63d3c80d19f0d17f",
+                                "sentence": " Thor wild lunge is at jeff's throat, and jeff tries to fight back.",
+                                "start_time": 0.12,
+                                "end_time": 3.88
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36ba",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201215156,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201215156,
+                        "file_name": "14174995160621.wav",
+                        "start_time": 87.787,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10005,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 92.387,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.6,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21969d63d3c80d19f0d1ae",
+                                "sentence": " Thor world throws dress out of the wheelchair, pushing him towards the open window.",
+                                "start_time": 0.1,
+                                "end_time": 4.44
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36bb",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201215426,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201215426,
+                        "file_name": "14174996664851.wav",
+                        "start_time": 84.028,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10006,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 86.328,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21969c63d3c80d19f0d19d",
+                                "sentence": " The neighbors noticed the commotion.",
+                                "start_time": 0.08,
+                                "end_time": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36bd",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201220304,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201220304,
+                        "file_name": "14175001843591.wav",
+                        "start_time": 96.809,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10012,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 100.899,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e2195866873bc0d1a2607f0",
+                                "sentence": " He grabs jeff, and in a choke hold dangles him out the window.",
+                                "start_time": 0,
+                                "end_time": 4
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36be",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201220430,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201220430,
+                        "file_name": "14175002705281.wav",
+                        "start_time": 108.049,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10015,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 112.13900000000001,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 4.09,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21969c63d3c80d19f0d18a",
+                                "sentence": " Jeff grasps at the window sill. And the neighbors watch and horror.",
+                                "start_time": 0.08,
+                                "end_time": 3.95
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36c1",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201221104,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201221104,
+                        "file_name": "14175006644901.wav",
+                        "start_time": 115.445,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10032,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 118.51499999999999,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e2198eb3da6cb2e74f83e54",
+                                "sentence": " The police run across the courtyard towards jeff.",
+                                "start_time": 0.06,
+                                "end_time": 2.86
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36c8",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201222307,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201222307,
+                        "file_name": "14175013870441.wav",
+                        "start_time": 124.445,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10052,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 124.445,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 5.12,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21969d63d3c80d19f0d1b2",
+                                "sentence": " Doyle attempts to shoot thor wald, but the police reach him first and pull him back into the apartment.",
+                                "start_time": 0.04,
+                                "end_time": 5.01
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4b46e13dfd851a36ca",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141201222352,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141201222352,
+                        "file_name": "14175014323301.wav",
+                        "start_time": 127.432,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10054,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 127.432,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e2198ee3da6cb2e74f83e9d",
+                                "sentence": " Jeff loses his grip and falls from the windowsill.",
+                                "start_time": 0.04,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3726",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141202200943,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202200943,
+                        "file_name": "14175797837821.wav",
+                        "start_time": 149.86,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10278,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 149.86,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.58,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e21930ca294340d18b4c4d8",
+                                "sentence": " The police in the apartment called down to the group in the courtyard.",
+                                "start_time": 0.1,
+                                "end_time": 3.56
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3727",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141202201042,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202201042,
+                        "file_name": "14175798426051.wav",
+                        "start_time": 157.743,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10279,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 160.813,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e219309a294340d18b4c488",
+                                "sentence": " Stellar whispers something in doyle ze.",
+                                "start_time": 0,
+                                "end_time": 2.66
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3728",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141202201419,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202201419,
+                        "file_name": "14175800590331.wav",
+                        "start_time": 130.292,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10283,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 133.362,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 3.07,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e2195866873bc0d1a2607d0",
+                                "sentence": " Doyle, lisa and stella run to jeff on the ground.",
+                                "start_time": 0,
+                                "end_time": 3.04
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a3729",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141202201524,
+                        "playback_type": "extended",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202201524,
+                        "file_name": "14175801241131.wav",
+                        "start_time": 138.678,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10285,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 138.678,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.05,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e2195866873bc0d1a2607ae",
+                                "sentence": " Lisa cradles jeff in her arms.",
+                                "start_time": 0.04,
+                                "end_time": 2.02
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "58e7cf4c46e13dfd851a372a",
+                        "audio_description": "58e7cf2f46e13dfd851a22b8",
+                        "created_at": 20141202201848,
+                        "playback_type": "inline",
+                        "file_size_bytes": 0,
+                        "updated_at": 20141202201848,
+                        "file_name": "14175803288161.wav",
+                        "start_time": 175.577,
+                        "legacy_video_id": 1733,
+                        "legacy_user_id": 2456,
+                        "label": "",
+                        "legacy_audio_clip_id": 10286,
+                        "video": "58e7cf2846e13dfd851a1ad8",
+                        "end_time": 177.877,
+                        "file_mime_type:": "audio/wav",
+                        "duration": 2.3,
+                        "file_path": "/legacy",
+                        "user": "58e7cf2f46e13dfd851a22b5",
+                        "transcript": [
+                            {
+                                "_id": "5e2191a763d3c80d19f0d0ce",
+                                "sentence": " She looks back at him, surprised.",
+                                "start_time": 0,
+                                "end_time": 2.13
+                            }
+                        ]
+                    }
+                ],
+                "_id": "58e7cf2f46e13dfd851a22b8",
+                "status": "published",
+                "legacy_video_id": 1733,
+                "legacy_user_id": 2456,
+                "video": "58e7cf2846e13dfd851a1ad8",
+                "user": {
+                    "opt_in": [],
+                    "_id": "58e7cf2f46e13dfd851a22b5",
+                    "name": "gillian_j",
+                    "google_user_id_token": "",
+                    "created_at": 20170317000000,
+                    "updated_at": 20170317000000,
+                    "legacy_user_id": 2456,
+                    "last_login": 0,
+                    "email": "gillian.jacobsen@berkeley.edu",
+                    "policy_review": ""
+                },
+                "language": "en-us",
+                "created_at": 20170317000000,
+                "update_at": 20170317000000,
+                "notes": "",
+                "likes": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [
+            "rear window",
+            "rear window clip",
+            "rear window part 1",
+            "rear window trailer",
+            "james stewart",
+            "grace kelly",
+            "raymond burr",
+            "wendell corey",
+            "wheelchair videos",
+            "classic thrillers",
+            "classics",
+            "crime thrillers",
+            "mystery",
+            "psychological thrillers",
+            "thriller",
+            "alfred hitchcock",
+            "james c katz",
+            "evil videos",
+            "apartment videos",
+            "l b jeff jefferies",
+            "lisa carol fremont",
+            "lars thorwald",
+            "det lt thomas j doyle",
+            "movie clips",
+            "movieclipsdotcom",
+            "#AMG:V++++40584",
+            "/m/0gt3p",
+            "/m/057k43",
+            "/m/044qx",
+            "/m/0bq1z"
+        ],
+        "custom_tags": [],
+        "_id": "58e7cf2846e13dfd851a1ad8",
+        "description": "",
+        "youtube_id": "oowcsynjIwc",
+        "views": 0,
+        "created_at": 20141201210825,
+        "title": "Rear Window (9/10) Movie CLIP - Out the Window (1954) HD",
+        "legacy_video_id": 1733,
+        "updated_at": 20141202201854,
+        "youtube_status": "available",
+        "category": "Film & Animation",
+        "category_id": "1",
+        "duration": 209
+    }
+}

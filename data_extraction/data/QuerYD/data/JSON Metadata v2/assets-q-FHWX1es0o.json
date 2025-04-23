@@ -1,0 +1,71 @@
+{
+    "type": "success",
+    "code": 1000,
+    "status": 200,
+    "message": "Video metadata successfully retrieved",
+    "result": {
+        "audio_descriptions": [
+            {
+                "audio_clips": [
+                    {
+                        "_id": "5e4d68060050a61e3485ba6a",
+                        "video": "5e4d64f70050a61e3485ba69",
+                        "audio_description": "5e4d64f70050a61e3485ba68",
+                        "user": "5e4734680b19d71e3f68ce1e",
+                        "label": "",
+                        "playback_type": "extended",
+                        "start_time": 0,
+                        "end_time": 0,
+                        "duration": 41.64266666666666,
+                        "file_name": "q-FHWX1es0o_5e4d68060050a61e3485ba6a.wav",
+                        "file_size_bytes": 7995436,
+                        "file_mime_type": "audio/wav",
+                        "file_path": "/current/q-FHWX1es0o",
+                        "created_at": 20200219165326,
+                        "__v": 0,
+                        "transcript": []
+                    }
+                ],
+                "_id": "5e4d64f70050a61e3485ba68",
+                "video": "5e4d64f70050a61e3485ba69",
+                "user": {
+                    "opt_in": [],
+                    "_id": "5e4734680b19d71e3f68ce1e",
+                    "email": "qw2258@columbia.edu",
+                    "name": "Cammy Wan",
+                    "given_name": "Cammy",
+                    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mCC1UEww_buxrgSOCusUd6HpU6-lI49bBb5oDfN=s96-c",
+                    "locale": "en",
+                    "google_user_id": "114723067247930798974",
+                    "last_login": 20200219163919,
+                    "token": "015f4aa787fb90e2407e85c195e6f27d65596cc1aae05eacdad67051e749031e",
+                    "__v": 0,
+                    "updated_at": 20200219163919,
+                    "policy_review": ""
+                },
+                "status": "published",
+                "language": "en-us",
+                "created_at": 20200219164023,
+                "updated_at": 20200219164023,
+                "notes": "In the video, it shows a bar chart, titled \"employment rate for people with and without disabilities\". The chart has time on the x-axis, employment rate on the y-axis. The graph shows the employment rate for both 1991 and 2010. In 1991, the employment rate for the disabled is 50.2%, for the non-disabled is 84.4%. In 2010, the employment rate for the disabled is 41.1%, for the non-disabled is 79.1%.",
+                "__v": 0,
+                "admin_review": "",
+                "feedbacks": {}
+            }
+        ],
+        "tags": [],
+        "custom_tags": [],
+        "_id": "5e4d64f70050a61e3485ba69",
+        "title": "Employment Rate for People with and without Disabilities",
+        "description": "",
+        "youtube_id": "q-FHWX1es0o",
+        "created_at": 20200219164023,
+        "updated_at": 20200219165326,
+        "views": 0,
+        "__v": 0,
+        "youtube_status": "available",
+        "category": "People & Blogs",
+        "category_id": "22",
+        "duration": 21
+    }
+}
