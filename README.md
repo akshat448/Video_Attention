@@ -5,7 +5,7 @@
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/your-repo/Vid_Attention.git
-    cd Vid_Attention
+    cd Video_Attention
     ```
 
 2. **Install dependencies**:
