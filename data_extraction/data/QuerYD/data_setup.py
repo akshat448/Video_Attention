@@ -216,7 +216,7 @@ def main():
                         help="Directory to save downloaded videos")
     parser.add_argument("--output_dir", type=Path, default="processed_frames",
                         help="Directory to save processed frames")
-    parser.add_argument("--txt_file", type=Path, default="relevant-video-links.txt",
+    parser.add_argument("--txt_file", type=Path, default="filtered_links.txt",
                         help="File containing video URLs")
     
     # Processing options
